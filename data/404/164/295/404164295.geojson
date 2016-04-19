@@ -1,0 +1,68 @@
+{
+  "id": 404164295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.448293,43.520748,-70.448293,43.520748",
+    "geom:latitude":43.520748,
+    "geom:longitude":-70.448293,
+    "iso:country":"US",
+    "sg:address":"13 Industrial Park Rd",
+    "sg:city":"Saco",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 283 8800",
+    "sg:postcode":"04072",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948887,
+        102087449,
+        85819479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aNkhzw0EYMuyRxHNWuVCH_43.520748_-70.448293@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6a592487764cf20681a4dc7b4b5f4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":404164295
+        }
+    ],
+    "wof:id":404164295,
+    "wof:lastmodified":1449039161,
+    "wof:name":"Prime Care Family Practice",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.448293,43.520748,-70.448293,43.520748],
+  "geometry": {"coordinates":[-70.448293,43.520748],"type":"Point"}
+}

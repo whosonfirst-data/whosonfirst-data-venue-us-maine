@@ -1,0 +1,68 @@
+{
+  "id": 403805513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.744263,44.840244,-68.744263,44.840244",
+    "geom:latitude":44.840244,
+    "geom:longitude":-68.744263,
+    "iso:country":"US",
+    "sg:address":"765 Hogan Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 2324",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85851073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3srfFG0OFuOLCZxwnGbBYz_44.840244_-68.744263@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a54751cb4b0c5cb78e3f5fe069990d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":403805513
+        }
+    ],
+    "wof:id":403805513,
+    "wof:lastmodified":1449055081,
+    "wof:name":"Mr Quick's Oil Lube",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [-68.744263,44.840244,-68.744263,44.840244],
+  "geometry": {"coordinates":[-68.744263,44.840244],"type":"Point"}
+}

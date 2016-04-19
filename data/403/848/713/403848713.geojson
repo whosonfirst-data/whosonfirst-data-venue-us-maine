@@ -1,0 +1,68 @@
+{
+  "id": 403848713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.771233,44.814228,-68.771233,44.814228",
+    "geom:latitude":44.814228,
+    "geom:longitude":-68.771233,
+    "iso:country":"US",
+    "sg:address":"360 Broadway",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 262 1550",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70VzdAYTIOhpKnBNUuN42m_44.814228_-68.771233@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c4311c427a952f699f25e64978c18a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":403848713
+        }
+    ],
+    "wof:id":403848713,
+    "wof:lastmodified":1449054813,
+    "wof:name":"Hyperbaric & Wound Care Assocs",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-68.771233,44.814228,-68.771233,44.814228],
+  "geometry": {"coordinates":[-68.771233,44.814228],"type":"Point"}
+}

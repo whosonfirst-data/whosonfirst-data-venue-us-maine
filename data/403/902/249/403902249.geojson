@@ -1,0 +1,67 @@
+{
+  "id": 403902249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.213552,44.098679,-70.213552,44.098679",
+    "geom:latitude":44.098679,
+    "geom:longitude":-70.213552,
+    "iso:country":"US",
+    "sg:address":"2 College St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 784 5713",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.ci.lewiston.me.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948885,
+        102087457,
+        85836549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ge0bV0o0D0yvhpoPTXMiC_44.098679_-70.213552@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ef2d90b9815f96d644438be97a86343",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":403902249
+        }
+    ],
+    "wof:id":403902249,
+    "wof:lastmodified":1449055599,
+    "wof:name":"Lewiston City Fire Dept",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-70.213552,44.098679,-70.213552,44.098679],
+  "geometry": {"coordinates":[-70.213552,44.098679],"type":"Point"}
+}

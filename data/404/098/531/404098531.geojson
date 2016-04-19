@@ -1,0 +1,68 @@
+{
+  "id": 404098531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.014126,46.680685,-68.014126,46.680685",
+    "geom:latitude":46.680685,
+    "geom:longitude":-68.014126,
+    "iso:country":"US",
+    "sg:address":"49 2nd St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 762 4641",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948901,
+        102081161,
+        85854605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Skp6OSGq0mbKT70o5nkb_46.680685_-68.014126@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c0d68b9e91001b06185146dd528428c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":404098531
+        }
+    ],
+    "wof:id":404098531,
+    "wof:lastmodified":1449040204,
+    "wof:name":"Northern Radiological Assoc",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-68.014126,46.680685,-68.014126,46.680685],
+  "geometry": {"coordinates":[-68.014126,46.680685],"type":"Point"}
+}

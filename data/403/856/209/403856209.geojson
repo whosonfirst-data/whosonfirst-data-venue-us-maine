@@ -1,0 +1,69 @@
+{
+  "id": 403856209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.448948,43.84938,-70.448948,43.84938",
+    "geom:latitude":43.84938,
+    "geom:longitude":-70.448948,
+    "iso:country":"US",
+    "sg:address":"739 Roosevelt Trl",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 892 0062",
+    "sg:postcode":"04062",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.martinspoint.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948999,
+        102087463,
+        85838179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vjZGc14fqyoDnV0tvq6Fi_43.849380_-70.448948@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09710849ef670c227a3af64a852a2af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948999,
+            "neighbourhood_id":85838179,
+            "region_id":85688769,
+            "venue_id":403856209
+        }
+    ],
+    "wof:id":403856209,
+    "wof:lastmodified":1449055019,
+    "wof:name":"Martin's Point Health Care",
+    "wof:parent_id":85838179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.448948,43.84938,-70.448948,43.84938],
+  "geometry": {"coordinates":[-70.448948,43.84938],"type":"Point"}
+}

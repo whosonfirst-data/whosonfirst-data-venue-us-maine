@@ -1,0 +1,67 @@
+{
+  "id": 403866087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.403354,44.011812,-70.403354,44.011812",
+    "geom:latitude":44.011812,
+    "geom:longitude":-70.403354,
+    "iso:country":"US",
+    "sg:address":"165 Cleve Tripp Rd",
+    "sg:city":"Poland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 998 4813",
+    "sg:postcode":"04274",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087457,
+        85849961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ecQH9TTWDEIdgN71eQGEL_44.011812_-70.403354@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7e6da8b2e451df63444e23ecf979b89",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":-1,
+            "neighbourhood_id":85849961,
+            "region_id":85688769,
+            "venue_id":403866087
+        }
+    ],
+    "wof:id":403866087,
+    "wof:lastmodified":1449055263,
+    "wof:name":"Petes Garage Inc",
+    "wof:parent_id":85849961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.403354,44.011812,-70.403354,44.011812],
+  "geometry": {"coordinates":[-70.403354,44.011812],"type":"Point"}
+}

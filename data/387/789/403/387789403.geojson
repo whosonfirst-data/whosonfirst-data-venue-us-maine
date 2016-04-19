@@ -1,0 +1,67 @@
+{
+  "id": 387789403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.663899,44.003612,-69.663899,44.003612",
+    "geom:latitude":44.003612,
+    "geom:longitude":-69.663899,
+    "iso:country":"US",
+    "sg:address":"66 Water St",
+    "sg:city":"Wiscasset",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 882 6008",
+    "sg:postcode":"04578",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087447,
+        85820077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73jBqwpfPtTduVz1TQnBDn_44.003612_-69.663899@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a8412a3bdfd11c9c5cb3f0770f649c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087447,
+            "locality_id":-1,
+            "neighbourhood_id":85820077,
+            "region_id":85688769,
+            "venue_id":387789403
+        }
+    ],
+    "wof:id":387789403,
+    "wof:lastmodified":1449057819,
+    "wof:name":"Wiscasset Family Medicine",
+    "wof:parent_id":85820077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-69.663899,44.003612,-69.663899,44.003612],
+  "geometry": {"coordinates":[-69.663899,44.003612],"type":"Point"}
+}

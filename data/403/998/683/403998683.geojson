@@ -1,0 +1,68 @@
+{
+  "id": 403998683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.253097,43.667366,-70.253097,43.667366",
+    "geom:latitude":43.667366,
+    "geom:longitude":-70.253097,
+    "iso:country":"US",
+    "sg:address":"107 Washington Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 1255",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85835993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uK2z4Ob6S4cpSHyodHnNu_43.667366_-70.253097@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfcd4536ac3825ef537957a33af9eb07",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85835993,
+            "region_id":85688769,
+            "venue_id":403998683
+        }
+    ],
+    "wof:id":403998683,
+    "wof:lastmodified":1449055066,
+    "wof:name":"Three G's Tire",
+    "wof:parent_id":85835993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.253097,43.667366,-70.253097,43.667366],
+  "geometry": {"coordinates":[-70.253097,43.667366],"type":"Point"}
+}

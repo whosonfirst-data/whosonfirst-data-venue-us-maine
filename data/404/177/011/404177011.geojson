@@ -1,0 +1,68 @@
+{
+  "id": 404177011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.863618,43.265878,-70.863618,43.265878",
+    "geom:latitude":43.265878,
+    "geom:longitude":-70.863618,
+    "iso:country":"US",
+    "sg:address":"6 School St",
+    "sg:city":"Berwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 698 7900",
+    "sg:postcode":"03901",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949033,
+        102087449,
+        85892311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v6TwqpD14AcxPJfh0KCy2_43.265878_-70.863618@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"203c8a236f448659ecda0741cf8fbdc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85949033,
+            "neighbourhood_id":85892311,
+            "region_id":85688769,
+            "venue_id":404177011
+        }
+    ],
+    "wof:id":404177011,
+    "wof:lastmodified":1449040327,
+    "wof:name":"Berwick Family Health Ctr",
+    "wof:parent_id":85892311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.863618,43.265878,-70.863618,43.265878],
+  "geometry": {"coordinates":[-70.863618,43.265878],"type":"Point"}
+}

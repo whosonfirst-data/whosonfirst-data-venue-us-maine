@@ -1,0 +1,68 @@
+{
+  "id": 387663545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.761317,44.797133,-68.761317,44.797133",
+    "geom:latitude":44.797133,
+    "geom:longitude":-68.761317,
+    "iso:country":"US",
+    "sg:address":"12 State St",
+    "sg:city":"Brewer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 989 6322",
+    "sg:postcode":"04412",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1huVMzyDDFEnhboh42aEVG_44.797133_-68.761317@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18cc4d40215b95b8888f2e470a3486bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":387663545
+        }
+    ],
+    "wof:id":387663545,
+    "wof:lastmodified":1449058903,
+    "wof:name":"Whitcomb's Auto Svc",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-68.761317,44.797133,-68.761317,44.797133],
+  "geometry": {"coordinates":[-68.761317,44.797133],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 403806201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.824296,44.782852,-68.824296,44.782852",
+    "geom:latitude":44.782852,
+    "geom:longitude":-68.824296,
+    "iso:country":"US",
+    "sg:address":"100 Dowd Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 941 9515",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "correction",
+        "radon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85855195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CbQgMX3kZYAyF4GDcAScN_44.782852_-68.824296@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e4c9117a992cb09c0bbc340d18b9fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85855195,
+            "region_id":85688769,
+            "venue_id":403806201
+        }
+    ],
+    "wof:id":403806201,
+    "wof:lastmodified":1449054631,
+    "wof:name":"Safe Home Environment",
+    "wof:parent_id":85855195,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correction",
+        "radon"
+    ]
+},
+  "bbox": [-68.824296,44.782852,-68.824296,44.782852],
+  "geometry": {"coordinates":[-68.824296,44.782852],"type":"Point"}
+}

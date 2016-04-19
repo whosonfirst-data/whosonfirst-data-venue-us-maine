@@ -1,0 +1,66 @@
+{
+  "id": 387717643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.791651,44.799833,-68.791651,44.799833",
+    "geom:latitude":44.799833,
+    "geom:longitude":-68.791651,
+    "iso:country":"US",
+    "sg:address":"547 Hammond St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 6403",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qA25eP3uSmcjLSKYiReJR_44.799833_-68.791651@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2be06f0d06dc2d0084f441a1041293f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":387717643
+        }
+    ],
+    "wof:id":387717643,
+    "wof:lastmodified":1449056222,
+    "wof:name":"Dick's Taxi",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-68.791651,44.799833,-68.791651,44.799833],
+  "geometry": {"coordinates":[-68.791651,44.799833],"type":"Point"}
+}

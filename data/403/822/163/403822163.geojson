@@ -1,0 +1,65 @@
+{
+  "id": 403822163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.277729,43.649556,-70.277729,43.649556",
+    "geom:latitude":43.649556,
+    "geom:longitude":-70.277729,
+    "iso:country":"US",
+    "sg:address":"211 Valley St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 878 4441",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48wJ1gI1m6w7WZeg2L2lZt_43.649556_-70.277729@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f515606a8acb02cff2d82b007a933a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":-1,
+            "region_id":85688769,
+            "venue_id":403822163
+        }
+    ],
+    "wof:id":403822163,
+    "wof:lastmodified":1449055911,
+    "wof:name":"Town Taxi Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-70.277729,43.649556,-70.277729,43.649556],
+  "geometry": {"coordinates":[-70.277729,43.649556],"type":"Point"}
+}

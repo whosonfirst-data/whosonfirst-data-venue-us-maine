@@ -1,0 +1,68 @@
+{
+  "id": 387561813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.293619,44.762321,-69.293619,44.762321",
+    "geom:latitude":44.762321,
+    "geom:longitude":-69.293619,
+    "iso:country":"US",
+    "sg:address":"380 Troy Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 257 3866",
+    "sg:postcode":"04929",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949081,
+        102087435,
+        85854823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yDhA8eu8jg6R6bKjnziTN_44.762321_-69.293619@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85e3e48378cc5b59eb6ae3343f18f972",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087435,
+            "locality_id":85949081,
+            "neighbourhood_id":85854823,
+            "region_id":85688769,
+            "venue_id":387561813
+        }
+    ],
+    "wof:id":387561813,
+    "wof:lastmodified":1449058806,
+    "wof:name":"Ralph's Auto Repair",
+    "wof:parent_id":85854823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-69.293619,44.762321,-69.293619,44.762321],
+  "geometry": {"coordinates":[-69.293619,44.762321],"type":"Point"}
+}

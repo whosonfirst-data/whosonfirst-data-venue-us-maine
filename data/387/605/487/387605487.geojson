@@ -1,0 +1,68 @@
+{
+  "id": 387605487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.463544,44.903399,-69.463544,44.903399",
+    "geom:latitude":44.903399,
+    "geom:longitude":-69.463544,
+    "iso:country":"US",
+    "sg:address":"220 Pond Rd",
+    "sg:city":"Albion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 437 2346",
+    "sg:postcode":"04971",
+    "sg:province":"ME",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949081,
+        102087435,
+        85854823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pCVH8LlwFcJZerCExnHVC_44.903399_-69.463544@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed33e6f413ca2489e288e97a009712a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087435,
+            "locality_id":85949081,
+            "neighbourhood_id":85854823,
+            "region_id":85688769,
+            "venue_id":387605487
+        }
+    ],
+    "wof:id":387605487,
+    "wof:lastmodified":1449057953,
+    "wof:name":"Jack's Auto Electric",
+    "wof:parent_id":85854823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [-69.463544,44.903399,-69.463544,44.903399],
+  "geometry": {"coordinates":[-69.463544,44.903399],"type":"Point"}
+}

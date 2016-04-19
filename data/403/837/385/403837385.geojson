@@ -1,0 +1,69 @@
+{
+  "id": 403837385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.111206,44.099289,-69.111206,44.099289",
+    "geom:latitude":44.099289,
+    "geom:longitude":-69.111206,
+    "iso:country":"US",
+    "sg:address":"8 State St",
+    "sg:city":"Rockland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 594 2325",
+    "sg:postcode":"04841",
+    "sg:province":"ME",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087453,
+        85803709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BTV9vK4wnumztKiWWXSYZ_44.099289_-69.111206@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e27eda50a3c015629589d491ff6f6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087453,
+            "locality_id":-1,
+            "neighbourhood_id":85803709,
+            "region_id":85688769,
+            "venue_id":403837385
+        }
+    ],
+    "wof:id":403837385,
+    "wof:lastmodified":1449054836,
+    "wof:name":"Service Master",
+    "wof:parent_id":85803709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [-69.111206,44.099289,-69.111206,44.099289],
+  "geometry": {"coordinates":[-69.111206,44.099289],"type":"Point"}
+}

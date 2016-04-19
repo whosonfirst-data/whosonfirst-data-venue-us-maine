@@ -1,0 +1,69 @@
+{
+  "id": 387657717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.083865,44.192567,-69.083865,44.192567",
+    "geom:latitude":44.192567,
+    "geom:longitude":-69.083865,
+    "iso:country":"US",
+    "sg:address":"200 Main St",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 354 3131",
+    "sg:postcode":"04861",
+    "sg:province":"ME",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087453,
+        85833741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HmFqODdkOSanvZxmAFXTn_44.192567_-69.083865@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fb0ef73f2904ad511a1de49f90ae206",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087453,
+            "locality_id":-1,
+            "neighbourhood_id":85833741,
+            "region_id":85688769,
+            "venue_id":387657717
+        }
+    ],
+    "wof:id":387657717,
+    "wof:lastmodified":1449056535,
+    "wof:name":"State Prison",
+    "wof:parent_id":85833741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [-69.083865,44.192567,-69.083865,44.192567],
+  "geometry": {"coordinates":[-69.083865,44.192567],"type":"Point"}
+}

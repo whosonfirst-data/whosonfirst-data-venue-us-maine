@@ -1,0 +1,68 @@
+{
+  "id": 387921629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.152807,46.792178,-68.152807,46.792178",
+    "geom:latitude":46.792178,
+    "geom:longitude":-68.152807,
+    "iso:country":"US",
+    "sg:address":"32 Main St",
+    "sg:city":"Mars Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 425 6521",
+    "sg:postcode":"04785",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948901,
+        102081161,
+        85843087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tfDv2ErpClHPlLK0SIJ7a_46.792178_-68.152807@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41a53a14c51122458427c2bc242715f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85948901,
+            "neighbourhood_id":85843087,
+            "region_id":85688769,
+            "venue_id":387921629
+        }
+    ],
+    "wof:id":387921629,
+    "wof:lastmodified":1449058554,
+    "wof:name":"Brewer Service",
+    "wof:parent_id":85843087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-68.152807,46.792178,-68.152807,46.792178],
+  "geometry": {"coordinates":[-68.152807,46.792178],"type":"Point"}
+}

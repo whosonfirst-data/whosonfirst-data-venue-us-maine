@@ -1,0 +1,68 @@
+{
+  "id": 387856013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.055725,43.994848,-70.055725,43.994848",
+    "geom:latitude":43.994848,
+    "geom:longitude":-70.055725,
+    "iso:country":"US",
+    "sg:address":"6 Birch St",
+    "sg:city":"Lisbon Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 353 8016",
+    "sg:postcode":"04252",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949027,
+        102087457,
+        85813033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BsAlpBhcV4coPQGaA1Te6_43.994848_-70.055725@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee5df7c5338ada05492e436f13bc2adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85949027,
+            "neighbourhood_id":85813033,
+            "region_id":85688769,
+            "venue_id":387856013
+        }
+    ],
+    "wof:id":387856013,
+    "wof:lastmodified":1449057176,
+    "wof:name":"B & W Automotive",
+    "wof:parent_id":85813033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.055725,43.994848,-70.055725,43.994848],
+  "geometry": {"coordinates":[-70.055725,43.994848],"type":"Point"}
+}

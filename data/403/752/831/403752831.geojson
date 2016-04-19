@@ -1,0 +1,68 @@
+{
+  "id": 403752831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.169869,43.786076,-70.169869,43.786076",
+    "geom:latitude":43.786076,
+    "geom:longitude":-70.169869,
+    "iso:country":"US",
+    "sg:address":"82 Princes Point Rd",
+    "sg:city":"Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 846 2415",
+    "sg:postcode":"04096",
+    "sg:province":"ME",
+    "sg:tags":[
+        "disposal",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949011,
+        102087463,
+        85812603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ScwYVfW8atQR7lgICmCpZ_43.786076_-70.169869@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61920d9e3c44e8e489298671bf4cded7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85949011,
+            "neighbourhood_id":85812603,
+            "region_id":85688769,
+            "venue_id":403752831
+        }
+    ],
+    "wof:id":403752831,
+    "wof:lastmodified":1449054853,
+    "wof:name":"Waste Water Treatment Plant",
+    "wof:parent_id":85812603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "system"
+    ]
+},
+  "bbox": [-70.169869,43.786076,-70.169869,43.786076],
+  "geometry": {"coordinates":[-70.169869,43.786076],"type":"Point"}
+}

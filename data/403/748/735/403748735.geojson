@@ -1,0 +1,70 @@
+{
+  "id": 403748735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.780121,44.79505,-68.780121,44.79505",
+    "geom:latitude":44.79505,
+    "geom:longitude":-68.780121,
+    "iso:country":"US",
+    "sg:address":"63 Patten St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 8121",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lqREzHRjla8n7YrmNhO3H_44.795050_-68.780121@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f6fb96b2e07d9804dbe63f586643b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":403748735
+        }
+    ],
+    "wof:id":403748735,
+    "wof:lastmodified":1449055622,
+    "wof:name":"Jewell Trucking Inc",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-68.780121,44.79505,-68.780121,44.79505],
+  "geometry": {"coordinates":[-68.780121,44.79505],"type":"Point"}
+}

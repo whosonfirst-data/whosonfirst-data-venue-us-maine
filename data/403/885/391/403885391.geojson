@@ -1,0 +1,68 @@
+{
+  "id": 403885391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.779891,44.824665,-68.779891,44.824665",
+    "geom:latitude":44.824665,
+    "geom:longitude":-68.779891,
+    "iso:country":"US",
+    "sg:address":"33 School St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 2224",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85815935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JVwAWbpIhRpGcrzyMlLgk_44.824665_-68.779891@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ee843060f07d32bf16008b953fadc47",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85815935,
+            "region_id":85688769,
+            "venue_id":403885391
+        }
+    ],
+    "wof:id":403885391,
+    "wof:lastmodified":1449055348,
+    "wof:name":"Rentway",
+    "wof:parent_id":85815935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [-68.779891,44.824665,-68.779891,44.824665],
+  "geometry": {"coordinates":[-68.779891,44.824665],"type":"Point"}
+}

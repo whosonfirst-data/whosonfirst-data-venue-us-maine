@@ -1,0 +1,68 @@
+{
+  "id": 404055577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.363654,43.676464,-70.363654,43.676464",
+    "geom:latitude":43.676464,
+    "geom:longitude":-70.363654,
+    "iso:country":"US",
+    "sg:address":"813 Main St",
+    "sg:city":"Waterboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 247 6131",
+    "sg:postcode":"04092",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85851275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cRMLG1l38KAg5zly0xo5b_43.676464_-70.363654@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5fb8f33b5751c483664fe5d3e43741c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85851275,
+            "region_id":85688769,
+            "venue_id":404055577
+        }
+    ],
+    "wof:id":404055577,
+    "wof:lastmodified":1449039318,
+    "wof:name":"Massabesic Regional Medical",
+    "wof:parent_id":85851275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.363654,43.676464,-70.363654,43.676464],
+  "geometry": {"coordinates":[-70.363654,43.676464],"type":"Point"}
+}

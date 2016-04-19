@@ -1,0 +1,68 @@
+{
+  "id": 403783509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.321752,43.686769,-70.321752,43.686769",
+    "geom:latitude":43.686769,
+    "geom:longitude":-70.321752,
+    "iso:country":"US",
+    "sg:address":"513 Warren Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 878 6577",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85845077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E3welPhGU6QJ4xgKvNoLf_43.686769_-70.321752@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b392deb8949deb728646629742f429c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85845077,
+            "region_id":85688769,
+            "venue_id":403783509
+        }
+    ],
+    "wof:id":403783509,
+    "wof:lastmodified":1449054664,
+    "wof:name":"Monro Muffler Brake & Svc",
+    "wof:parent_id":85845077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.321752,43.686769,-70.321752,43.686769],
+  "geometry": {"coordinates":[-70.321752,43.686769],"type":"Point"}
+}

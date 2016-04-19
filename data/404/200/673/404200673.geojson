@@ -1,0 +1,67 @@
+{
+  "id": 404200673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-67.825488,46.910675,-67.825488,46.910675",
+    "geom:latitude":46.910675,
+    "geom:longitude":-67.825488,
+    "iso:country":"US",
+    "sg:address":"216 Main St",
+    "sg:city":"Sherman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 365 4267",
+    "sg:postcode":"04750",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949129,
+        102081161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gWViVFkRzgmzTBSFUKfvS_46.910675_-67.825488@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"558a0b9cc80ff0d07fcc95fb875fedd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949129,
+            "neighbourhood_id":-1,
+            "region_id":85688769,
+            "venue_id":404200673
+        }
+    ],
+    "wof:id":404200673,
+    "wof:lastmodified":1449039516,
+    "wof:name":"Wally's Garage & Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-67.825488,46.910675,-67.825488,46.910675],
+  "geometry": {"coordinates":[-67.825488,46.910675],"type":"Point"}
+}

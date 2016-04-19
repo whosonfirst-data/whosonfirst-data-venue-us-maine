@@ -1,0 +1,65 @@
+{
+  "id": 403869099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.202536,44.385815,-68.202536,44.385815",
+    "geom:latitude":44.385815,
+    "geom:longitude":-68.202536,
+    "iso:country":"US",
+    "sg:address":"1 Hancock St",
+    "sg:city":"Bar Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 288 8604",
+    "sg:postcode":"04609",
+    "sg:province":"ME",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102081201,
+        85803817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d2kCl7Znxwm1hVyjWpYY8_44.385815_-68.202536@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba567aeee5350815c7cea72358c1202e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081201,
+            "locality_id":-1,
+            "neighbourhood_id":85803817,
+            "region_id":85688769,
+            "venue_id":403869099
+        }
+    ],
+    "wof:id":403869099,
+    "wof:lastmodified":1449055856,
+    "wof:name":"MDI Behavioral Health Svc",
+    "wof:parent_id":85803817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-68.202536,44.385815,-68.202536,44.385815],
+  "geometry": {"coordinates":[-68.202536,44.385815],"type":"Point"}
+}

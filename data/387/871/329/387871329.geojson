@@ -1,0 +1,68 @@
+{
+  "id": 387871329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.333092,44.777428,-69.333092,44.777428",
+    "geom:latitude":44.777428,
+    "geom:longitude":-69.333092,
+    "iso:country":"US",
+    "sg:address":"75 River Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 257 3257",
+    "sg:postcode":"04929",
+    "sg:province":"ME",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949081,
+        102087435,
+        85854823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F4j3bVJ9Z9AojY7vQpjeH_44.777428_-69.333092@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08d6b27806c776734a2fc6e66365b849",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087435,
+            "locality_id":85949081,
+            "neighbourhood_id":85854823,
+            "region_id":85688769,
+            "venue_id":387871329
+        }
+    ],
+    "wof:id":387871329,
+    "wof:lastmodified":1449057348,
+    "wof:name":"Cyr Bus Line",
+    "wof:parent_id":85854823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [-69.333092,44.777428,-69.333092,44.777428],
+  "geometry": {"coordinates":[-69.333092,44.777428],"type":"Point"}
+}

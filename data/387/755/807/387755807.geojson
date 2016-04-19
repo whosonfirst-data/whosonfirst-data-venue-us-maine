@@ -1,0 +1,68 @@
+{
+  "id": 387755807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.752366,44.325248,-69.752366,44.325248",
+    "geom:latitude":44.325248,
+    "geom:longitude":-69.752366,
+    "iso:country":"US",
+    "sg:address":"110 N Belfast Ave",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 626 3391",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JbffoX6Ve6f8Ch8Obh2FY_44.325248_-69.752366@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"513a9272c3f49c73f923ac3eb7ae1908",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":387755807
+        }
+    ],
+    "wof:id":387755807,
+    "wof:lastmodified":1449057171,
+    "wof:name":"Anything Automotive",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-69.752366,44.325248,-69.752366,44.325248],
+  "geometry": {"coordinates":[-69.752366,44.325248],"type":"Point"}
+}

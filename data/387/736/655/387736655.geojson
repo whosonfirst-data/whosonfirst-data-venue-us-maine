@@ -1,0 +1,68 @@
+{
+  "id": 387736655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.20593,44.105229,-70.20593,44.105229",
+    "geom:latitude":44.105229,
+    "geom:longitude":-70.20593,
+    "iso:country":"US",
+    "sg:address":"116 Wood St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 926 3488",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948885,
+        102087457,
+        85836549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n35CKqhWqWF6AFRGctLVO_44.105229_-70.205930@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79b0c05e887586dac15d59a8cd2ea96f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":387736655
+        }
+    ],
+    "wof:id":387736655,
+    "wof:lastmodified":1449059878,
+    "wof:name":"Affordable Psychotherapy",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.20593,44.105229,-70.20593,44.105229],
+  "geometry": {"coordinates":[-70.20593,44.105229],"type":"Point"}
+}

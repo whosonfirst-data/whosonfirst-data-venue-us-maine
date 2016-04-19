@@ -1,0 +1,66 @@
+{
+  "id": 387897861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.292403,44.791398,-69.292403,44.791398",
+    "geom:latitude":44.791398,
+    "geom:longitude":-69.292403,
+    "iso:country":"US",
+    "sg:address":"8 S Main St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 654 3341",
+    "sg:postcode":"04929",
+    "sg:province":"ME",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949081,
+        102087435,
+        85854823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U5xH3E1B5mKgnh0h7Tv6g_44.791398_-69.292403@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"460efcbe8bc2d597ee9655e01c26d6b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087435,
+            "locality_id":85949081,
+            "neighbourhood_id":85854823,
+            "region_id":85688769,
+            "venue_id":387897861
+        }
+    ],
+    "wof:id":387897861,
+    "wof:lastmodified":1449059311,
+    "wof:name":"Athens Corner Store",
+    "wof:parent_id":85854823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-69.292403,44.791398,-69.292403,44.791398],
+  "geometry": {"coordinates":[-69.292403,44.791398],"type":"Point"}
+}

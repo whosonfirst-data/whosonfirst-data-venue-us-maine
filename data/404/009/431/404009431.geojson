@@ -1,0 +1,68 @@
+{
+  "id": 404009431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.790287,44.285519,-69.790287,44.285519",
+    "geom:latitude":44.285519,
+    "geom:longitude":-69.790287,
+    "iso:country":"US",
+    "sg:address":"143 Water St",
+    "sg:city":"Hallowell",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 621 2345",
+    "sg:postcode":"04347",
+    "sg:province":"ME",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tPGU8UHMNRMTiAOXvsXQN_44.285519_-69.790287@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"290394aa03068ea0c1c6957062089811",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":404009431
+        }
+    ],
+    "wof:id":404009431,
+    "wof:lastmodified":1449040308,
+    "wof:name":"Mc Allister Real Estate",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [-69.790287,44.285519,-69.790287,44.285519],
+  "geometry": {"coordinates":[-69.790287,44.285519],"type":"Point"}
+}

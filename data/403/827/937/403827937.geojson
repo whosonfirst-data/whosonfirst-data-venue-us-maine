@@ -1,0 +1,68 @@
+{
+  "id": 403827937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.306043,43.610302,-70.306043,43.610302",
+    "geom:latitude":43.610302,
+    "geom:longitude":-70.306043,
+    "iso:country":"US",
+    "sg:address":"1 Runway Rd",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 775 6488",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948879,
+        102087463,
+        85852203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E5E2D7ec0bp9o2wfqEh8t_43.610302_-70.306043@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c795afdaa74d64cd499e81b0be0850d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948879,
+            "neighbourhood_id":85852203,
+            "region_id":85688769,
+            "venue_id":403827937
+        }
+    ],
+    "wof:id":403827937,
+    "wof:lastmodified":1449055104,
+    "wof:name":"Troiano Transfer Station",
+    "wof:parent_id":85852203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [-70.306043,43.610302,-70.306043,43.610302],
+  "geometry": {"coordinates":[-70.306043,43.610302],"type":"Point"}
+}

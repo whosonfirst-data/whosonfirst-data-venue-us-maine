@@ -1,0 +1,78 @@
+{
+  "id": 403801707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.208972,44.090902,-70.208972,44.090902",
+    "geom:latitude":44.090902,
+    "geom:longitude":-70.208972,
+    "iso:country":"US",
+    "sg:address":"103 Adams Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 784 5753",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "marking",
+        "parking",
+        "maintenance",
+        "general"
+    ],
+    "sg:website":"www.ci.lewiston.me.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948885,
+        102087457,
+        85836549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C4fcDAligxJdS0s4SEGJL_44.090902_-70.208972@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"27c309072e13849c3b2443e3370eb164",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":403801707
+        }
+    ],
+    "wof:id":403801707,
+    "wof:lastmodified":1449055744,
+    "wof:name":"Lewiston Public Works Dept",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "parking",
+        "maintenance",
+        "general"
+    ]
+},
+  "bbox": [-70.208972,44.090902,-70.208972,44.090902],
+  "geometry": {"coordinates":[-70.208972,44.090902],"type":"Point"}
+}

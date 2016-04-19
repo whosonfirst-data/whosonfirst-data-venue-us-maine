@@ -1,0 +1,68 @@
+{
+  "id": 403730237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.009267,46.710628,-68.009267,46.710628",
+    "geom:latitude":46.710628,
+    "geom:longitude":-68.009267,
+    "iso:country":"US",
+    "sg:address":"19 Caribou Rd",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 769 0711",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948901,
+        102081161,
+        85843087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5axzdqO28azI0iACMUjjz7_46.710628_-68.009267@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f90e9f9916cb2303132e3059a5e44325",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85948901,
+            "neighbourhood_id":85843087,
+            "region_id":85688769,
+            "venue_id":403730237
+        }
+    ],
+    "wof:id":403730237,
+    "wof:lastmodified":1449055764,
+    "wof:name":"Gil's Sanitation Svc",
+    "wof:parent_id":85843087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [-68.009267,46.710628,-68.009267,46.710628],
+  "geometry": {"coordinates":[-68.009267,46.710628],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387641113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.342149,47.355366,-68.342149,47.355366",
+    "geom:latitude":47.355366,
+    "geom:longitude":-68.342149,
+    "iso:country":"US",
+    "sg:address":"779 Main St",
+    "sg:city":"Madawaska",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 728 6237",
+    "sg:postcode":"04756",
+    "sg:province":"ME",
+    "sg:tags":[
+        "warehouse",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31wn4g0EtS4URYKBK2D32N_47.355366_-68.342149@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f7e92f31e1684fd951908af1a3e429c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":387641113
+        }
+    ],
+    "wof:id":387641113,
+    "wof:lastmodified":1449058998,
+    "wof:name":"Hebert Warehouse",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "public"
+    ]
+},
+  "bbox": [-68.342149,47.355366,-68.342149,47.355366],
+  "geometry": {"coordinates":[-68.342149,47.355366],"type":"Point"}
+}

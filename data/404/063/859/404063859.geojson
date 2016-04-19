@@ -1,0 +1,68 @@
+{
+  "id": 404063859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.004773,46.653698,-68.004773,46.653698",
+    "geom:latitude":46.653698,
+    "geom:longitude":-68.004773,
+    "iso:country":"US",
+    "sg:address":"72 Houlton Rd",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 4400",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948901,
+        102081161,
+        85854605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CfkTtWivFeocqdE8FvgWS_46.653698_-68.004773@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca418904a6c81ef95365a61a092c0676",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":404063859
+        }
+    ],
+    "wof:id":404063859,
+    "wof:lastmodified":1449039126,
+    "wof:name":"Rent-A-Wreck",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [-68.004773,46.653698,-68.004773,46.653698],
+  "geometry": {"coordinates":[-68.004773,46.653698],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 403904555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.628812,44.918583,-68.628812,44.918583",
+    "geom:latitude":44.918583,
+    "geom:longitude":-68.628812,
+    "iso:country":"US",
+    "sg:address":"79 Main St",
+    "sg:city":"East Millinocket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 746 2295",
+    "sg:postcode":"04411",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dJERL8NIpqRLSKzbhkxfx_44.918583_-68.628812@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29fc3db6538775fefa9c4d10dba04318",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":403904555
+        }
+    ],
+    "wof:id":403904555,
+    "wof:lastmodified":1449056006,
+    "wof:name":"Mclaughlin's Auto Repair",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-68.628812,44.918583,-68.628812,44.918583],
+  "geometry": {"coordinates":[-68.628812,44.918583],"type":"Point"}
+}

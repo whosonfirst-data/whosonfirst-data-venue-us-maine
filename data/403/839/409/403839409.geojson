@@ -1,0 +1,68 @@
+{
+  "id": 403839409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.83968,44.754508,-68.83968,44.754508",
+    "geom:latitude":44.754508,
+    "geom:longitude":-68.83968,
+    "iso:country":"US",
+    "sg:address":"128 Coldbrook Rd",
+    "sg:city":"Hampden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 862 3971",
+    "sg:postcode":"04444",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cmIZEmD9iCdipFRIn0ya0_44.754508_-68.839680@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52fd8471e8d0eb1e2da17bee64b9950c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":403839409
+        }
+    ],
+    "wof:id":403839409,
+    "wof:lastmodified":1449055453,
+    "wof:name":"Crawford's Import Auto Inc",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-68.83968,44.754508,-68.83968,44.754508],
+  "geometry": {"coordinates":[-68.83968,44.754508],"type":"Point"}
+}

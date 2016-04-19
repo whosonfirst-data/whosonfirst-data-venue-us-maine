@@ -1,0 +1,66 @@
+{
+  "id": 387792123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.256265,43.660243,-70.256265,43.660243",
+    "geom:latitude":43.660243,
+    "geom:longitude":-70.256265,
+    "iso:country":"US",
+    "sg:address":"119 Pearl St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 828 1212",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85880031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60kgglVbt1DQtQcFWTSB5b_43.660243_-70.256265@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63a76580644089681aab7e0d8262265a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880031,
+            "region_id":85688769,
+            "venue_id":387792123
+        }
+    ],
+    "wof:id":387792123,
+    "wof:lastmodified":1449056917,
+    "wof:name":"Top Of The Old Port Parking",
+    "wof:parent_id":85880031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [-70.256265,43.660243,-70.256265,43.660243],
+  "geometry": {"coordinates":[-70.256265,43.660243],"type":"Point"}
+}

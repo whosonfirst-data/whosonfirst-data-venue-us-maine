@@ -1,0 +1,66 @@
+{
+  "id": 403793137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.22479,44.087526,-70.22479,44.087526",
+    "geom:latitude":44.087526,
+    "geom:longitude":-70.22479,
+    "iso:country":"US",
+    "sg:address":"34 S Main St",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 784 5765",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948885,
+        102087457,
+        85836549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q0bThBtTyVeI9VhWmqoRL_44.087526_-70.224790@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d1814b155720e49bd96824c49e26344b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":403793137
+        }
+    ],
+    "wof:id":403793137,
+    "wof:lastmodified":1449055370,
+    "wof:name":"Town Taxi",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-70.22479,44.087526,-70.22479,44.087526],
+  "geometry": {"coordinates":[-70.22479,44.087526],"type":"Point"}
+}

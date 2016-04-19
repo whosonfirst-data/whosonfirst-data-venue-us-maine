@@ -1,0 +1,68 @@
+{
+  "id": 403833111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.757734,44.820929,-68.757734,44.820929",
+    "geom:latitude":44.820929,
+    "geom:longitude":-68.757734,
+    "iso:country":"US",
+    "sg:address":"207 Juniper St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 945 0008",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85851073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00jJyzTlAJPQ7mQCklf4tn_44.820929_-68.757734@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e030b3a7b29a2593da752d1108740f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":403833111
+        }
+    ],
+    "wof:id":403833111,
+    "wof:lastmodified":1449054793,
+    "wof:name":"Maine Breast Cancer Coalition",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-68.757734,44.820929,-68.757734,44.820929],
+  "geometry": {"coordinates":[-68.757734,44.820929],"type":"Point"}
+}

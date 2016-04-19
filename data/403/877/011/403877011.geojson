@@ -1,0 +1,68 @@
+{
+  "id": 403877011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.812163,44.81798,-68.812163,44.81798",
+    "geom:latitude":44.81798,
+    "geom:longitude":-68.812163,
+    "iso:country":"US",
+    "sg:address":"895 Union St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 973 8386",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85837287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vhvgvmC837q89sMag2nKV_44.817980_-68.812163@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d419f5bb68b8da1a4be4f6043e77f0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85837287,
+            "region_id":85688769,
+            "venue_id":403877011
+        }
+    ],
+    "wof:id":403877011,
+    "wof:lastmodified":1449055546,
+    "wof:name":"Peter Simon Millard MD",
+    "wof:parent_id":85837287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-68.812163,44.81798,-68.812163,44.81798],
+  "geometry": {"coordinates":[-68.812163,44.81798],"type":"Point"}
+}

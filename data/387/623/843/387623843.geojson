@@ -1,0 +1,70 @@
+{
+  "id": 387623843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.087485,44.392103,-68.087485,44.392103",
+    "geom:latitude":44.392103,
+    "geom:longitude":-68.087485,
+    "iso:country":"US",
+    "sg:address":"10 Harbor Rd",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 4714",
+    "sg:postcode":"04693",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949095,
+        102081201,
+        85821423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wJs1kBt6RAwQdsztNCcBF_44.392103_-68.087485@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5133e8a209e002af8dcba0a0a136e366",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081201,
+            "locality_id":85949095,
+            "neighbourhood_id":85821423,
+            "region_id":85688769,
+            "venue_id":387623843
+        }
+    ],
+    "wof:id":387623843,
+    "wof:lastmodified":1449058779,
+    "wof:name":"R & R Automotive",
+    "wof:parent_id":85821423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [-68.087485,44.392103,-68.087485,44.392103],
+  "geometry": {"coordinates":[-68.087485,44.392103],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387865507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.436687,43.834415,-70.436687,43.834415",
+    "geom:latitude":43.834415,
+    "geom:longitude":-70.436687,
+    "iso:country":"US",
+    "sg:address":"91 State Rte 115",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 893 1707",
+    "sg:postcode":"04062",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948999,
+        102087463,
+        85838179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X4WeTZ7lIlEKxcf9l7AMe_43.834415_-70.436687@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed4cb2e8b72cacba75a2f47bde99cd72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948999,
+            "neighbourhood_id":85838179,
+            "region_id":85688769,
+            "venue_id":387865507
+        }
+    ],
+    "wof:id":387865507,
+    "wof:lastmodified":1449058979,
+    "wof:name":"Peterson Automotive",
+    "wof:parent_id":85838179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.436687,43.834415,-70.436687,43.834415],
+  "geometry": {"coordinates":[-70.436687,43.834415],"type":"Point"}
+}

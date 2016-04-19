@@ -1,0 +1,68 @@
+{
+  "id": 403882319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.161163,43.824275,-70.161163,43.824275",
+    "geom:latitude":43.824275,
+    "geom:longitude":-70.161163,
+    "iso:country":"US",
+    "sg:address":"340 Granite St",
+    "sg:city":"Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 846 4366",
+    "sg:postcode":"04096",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949005,
+        102087463,
+        85859327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b8r7LcltI6XDWNHcrMwzF_43.824275_-70.161163@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db220922cd1f38e127ac94041358d4f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85949005,
+            "neighbourhood_id":85859327,
+            "region_id":85688769,
+            "venue_id":403882319
+        }
+    ],
+    "wof:id":403882319,
+    "wof:lastmodified":1449054865,
+    "wof:name":"Hewitt's Auto Svc & Sales",
+    "wof:parent_id":85859327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.161163,43.824275,-70.161163,43.824275],
+  "geometry": {"coordinates":[-70.161163,43.824275],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 403978553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.262914,43.688429,-70.262914,43.688429",
+    "geom:latitude":43.688429,
+    "geom:longitude":-70.262914,
+    "iso:country":"US",
+    "sg:address":"1 S Grafton St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 4240",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85816239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vik84hs2A0qBDkrBQ4zfo_43.688429_-70.262914@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f275c3cc041c19f3766c8a095a8f00b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85816239,
+            "region_id":85688769,
+            "venue_id":403978553
+        }
+    ],
+    "wof:id":403978553,
+    "wof:lastmodified":1449055394,
+    "wof:name":"Friendly Taxi",
+    "wof:parent_id":85816239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-70.262914,43.688429,-70.262914,43.688429],
+  "geometry": {"coordinates":[-70.262914,43.688429],"type":"Point"}
+}

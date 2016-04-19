@@ -1,0 +1,68 @@
+{
+  "id": 404050825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.201149,43.746794,-70.201149,43.746794",
+    "geom:latitude":43.746794,
+    "geom:longitude":-70.201149,
+    "iso:country":"US",
+    "sg:address":"72 Foreside Rd",
+    "sg:city":"Cumberland Frsd",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 781 7350",
+    "sg:postcode":"04110",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949007,
+        102087463,
+        85854157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zpD1jmJfc9gK7tGBnwDWc_43.746794_-70.201149@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca109dcfdd4aed09314a1e1ac4780d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85949007,
+            "neighbourhood_id":85854157,
+            "region_id":85688769,
+            "venue_id":404050825
+        }
+    ],
+    "wof:id":404050825,
+    "wof:lastmodified":1449039794,
+    "wof:name":"William J Hall MD",
+    "wof:parent_id":85854157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.201149,43.746794,-70.201149,43.746794],
+  "geometry": {"coordinates":[-70.201149,43.746794],"type":"Point"}
+}

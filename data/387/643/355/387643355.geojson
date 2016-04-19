@@ -1,0 +1,68 @@
+{
+  "id": 387643355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.643894,44.944917,-68.643894,44.944917",
+    "geom:latitude":44.944917,
+    "geom:longitude":-68.643894,
+    "iso:country":"US",
+    "sg:address":"72 Main St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 6128",
+    "sg:postcode":"04461",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n1JlXM6XqMYGci5Eci7vW_44.944917_-68.643894@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ee4456eda6f7e770ef358d9d568e5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":387643355
+        }
+    ],
+    "wof:id":387643355,
+    "wof:lastmodified":1449059414,
+    "wof:name":"Old Town Family Practice",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-68.643894,44.944917,-68.643894,44.944917],
+  "geometry": {"coordinates":[-68.643894,44.944917],"type":"Point"}
+}

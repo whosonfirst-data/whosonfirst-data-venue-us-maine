@@ -1,0 +1,67 @@
+{
+  "id": 387695627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.767905,44.792152,-68.767905,44.792152",
+    "geom:latitude":44.792152,
+    "geom:longitude":-68.767905,
+    "iso:country":"US",
+    "sg:address":"122 S Main St",
+    "sg:city":"Brewer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 989 7002",
+    "sg:postcode":"04412",
+    "sg:province":"ME",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.brewerme.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22cj2t5NS3B8v4itlJqohV_44.792152_-68.767905@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac63b601a7db7345077c9bc905eef9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":387695627
+        }
+    ],
+    "wof:id":387695627,
+    "wof:lastmodified":1449057550,
+    "wof:name":"Brewer Fire Dept",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-68.767905,44.792152,-68.767905,44.792152],
+  "geometry": {"coordinates":[-68.767905,44.792152],"type":"Point"}
+}

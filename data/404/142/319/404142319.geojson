@@ -1,0 +1,76 @@
+{
+  "id": 404142319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.832448,46.776267,-67.832448,46.776267",
+    "geom:latitude":46.776267,
+    "geom:longitude":-67.832448,
+    "iso:country":"US",
+    "sg:address":"1 Terrace Dr",
+    "sg:city":"Houlton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 532 5454",
+    "sg:postcode":"04742",
+    "sg:province":"ME",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948901,
+        102081161,
+        85843087
+    ],
+    "wof:brand_id":420575081,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39hEsemImNA9HJwpOSsweM_46.776267_-67.832448@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"562e6bd04fa85ddb8ee1bdba5ffda5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85948901,
+            "neighbourhood_id":85843087,
+            "region_id":85688769,
+            "venue_id":404142319
+        }
+    ],
+    "wof:id":404142319,
+    "wof:lastmodified":1457209384,
+    "wof:name":"Corrections Dept",
+    "wof:parent_id":85843087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -67.832448,
+    46.776267,
+    -67.832448,
+    46.776267
+],
+  "geometry": {"coordinates":[-67.832448,46.776267],"type":"Point"}
+}

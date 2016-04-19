@@ -1,0 +1,66 @@
+{
+  "id": 403922479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.280158,43.655435,-70.280158,43.655435",
+    "geom:latitude":43.655435,
+    "geom:longitude":-70.280158,
+    "iso:country":"US",
+    "sg:address":"312 Saint John St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 205 1263",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85880029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mRVuR83ndA6lbMduHS4KD_43.655435_-70.280158@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"adb817af1c3ce2c064ea94072d07eda2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880029,
+            "region_id":85688769,
+            "venue_id":403922479
+        }
+    ],
+    "wof:id":403922479,
+    "wof:lastmodified":1449054758,
+    "wof:name":"Sunshine Taxi",
+    "wof:parent_id":85880029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-70.280158,43.655435,-70.280158,43.655435],
+  "geometry": {"coordinates":[-70.280158,43.655435],"type":"Point"}
+}

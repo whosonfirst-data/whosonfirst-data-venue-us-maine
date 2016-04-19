@@ -1,0 +1,68 @@
+{
+  "id": 404130761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.772024,44.809396,-68.772024,44.809396",
+    "geom:latitude":44.809396,
+    "geom:longitude":-68.772024,
+    "iso:country":"US",
+    "sg:address":"138 Center St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 945 3093",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ccRU5vyJNp4MUXGvlgie4_44.809396_-68.772024@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d992b1cf07539f8d6c4684e36e8ac4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":404130761
+        }
+    ],
+    "wof:id":404130761,
+    "wof:lastmodified":1449039426,
+    "wof:name":"Center Street Auto Svc",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-68.772024,44.809396,-68.772024,44.809396],
+  "geometry": {"coordinates":[-68.772024,44.809396],"type":"Point"}
+}

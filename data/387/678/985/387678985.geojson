@@ -1,0 +1,68 @@
+{
+  "id": 387678985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.547626,44.977545,-69.547626,44.977545",
+    "geom:latitude":44.977545,
+    "geom:longitude":-69.547626,
+    "iso:country":"US",
+    "sg:address":"38 Main St",
+    "sg:city":"Harmony",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 683 2988",
+    "sg:postcode":"04942",
+    "sg:province":"ME",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949081,
+        102087435,
+        85854823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K4m0NakU9tKiBPbicRYn5_44.977545_-69.547626@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"353680134be289789a763fb7ad5866d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087435,
+            "locality_id":85949081,
+            "neighbourhood_id":85854823,
+            "region_id":85688769,
+            "venue_id":387678985
+        }
+    ],
+    "wof:id":387678985,
+    "wof:lastmodified":1449057939,
+    "wof:name":"Johnson's Burner Svc",
+    "wof:parent_id":85854823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-69.547626,44.977545,-69.547626,44.977545],
+  "geometry": {"coordinates":[-69.547626,44.977545],"type":"Point"}
+}

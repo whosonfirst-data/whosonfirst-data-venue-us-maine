@@ -1,0 +1,68 @@
+{
+  "id": 387655735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.504572,45.360996,-68.504572,45.360996",
+    "geom:latitude":45.360996,
+    "geom:longitude":-68.504572,
+    "iso:country":"US",
+    "sg:address":"3 Taylor St Exd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 794 2921",
+    "sg:postcode":"04457",
+    "sg:province":"ME",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949107,
+        102080723,
+        85849837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60DVm0hTJRXcXm8ZmcDbQO_45.360996_-68.504572@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd50bcf845ff38d0caffe86d3b61a32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85949107,
+            "neighbourhood_id":85849837,
+            "region_id":85688769,
+            "venue_id":387655735
+        }
+    ],
+    "wof:id":387655735,
+    "wof:lastmodified":1449058298,
+    "wof:name":"Lincoln Water District",
+    "wof:parent_id":85849837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [-68.504572,45.360996,-68.504572,45.360996],
+  "geometry": {"coordinates":[-68.504572,45.360996],"type":"Point"}
+}

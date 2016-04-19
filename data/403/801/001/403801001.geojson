@@ -1,0 +1,68 @@
+{
+  "id": 403801001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.097712,43.99893,-70.097712,43.99893",
+    "geom:latitude":43.99893,
+    "geom:longitude":-70.097712,
+    "iso:country":"US",
+    "sg:address":"127 Country Ln",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 353 9671",
+    "sg:postcode":"04222",
+    "sg:province":"ME",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949027,
+        102087457,
+        85806367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GoF5owfNLApdOuTrLOo8Z_43.998930_-70.097712@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a4918639e291e19f86773f8c2d1e7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85949027,
+            "neighbourhood_id":85806367,
+            "region_id":85688769,
+            "venue_id":403801001
+        }
+    ],
+    "wof:id":403801001,
+    "wof:lastmodified":1449055739,
+    "wof:name":"Garneau's Plumbing",
+    "wof:parent_id":85806367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-70.097712,43.99893,-70.097712,43.99893],
+  "geometry": {"coordinates":[-70.097712,43.99893],"type":"Point"}
+}

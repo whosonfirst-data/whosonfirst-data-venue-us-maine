@@ -1,0 +1,68 @@
+{
+  "id": 387966129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.296992,44.794099,-69.296992,44.794099",
+    "geom:latitude":44.794099,
+    "geom:longitude":-69.296992,
+    "iso:country":"US",
+    "sg:address":"17 S Main St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 257 2629",
+    "sg:postcode":"04929",
+    "sg:province":"ME",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949081,
+        102087435,
+        85854823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oVHizNC0TpC4KoHNyTOl2_44.794099_-69.296992@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da906448657039d4e63b9277b9b75f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087435,
+            "locality_id":85949081,
+            "neighbourhood_id":85854823,
+            "region_id":85688769,
+            "venue_id":387966129
+        }
+    ],
+    "wof:id":387966129,
+    "wof:lastmodified":1449056140,
+    "wof:name":"Detroit Motors",
+    "wof:parent_id":85854823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-69.296992,44.794099,-69.296992,44.794099],
+  "geometry": {"coordinates":[-69.296992,44.794099],"type":"Point"}
+}

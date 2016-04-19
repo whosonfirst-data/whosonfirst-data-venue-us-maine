@@ -1,0 +1,68 @@
+{
+  "id": 403950931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.182848,43.803239,-70.182848,43.803239",
+    "geom:latitude":43.803239,
+    "geom:longitude":-70.182848,
+    "iso:country":"US",
+    "sg:address":"45 Forest Falls Dr",
+    "sg:city":"Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 846 9761",
+    "sg:postcode":"04096",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949005,
+        102087463,
+        85859327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DU2izwrnHLASB2RVFTnvd_43.803239_-70.182848@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6380541b21cba289397e6c8237254a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85949005,
+            "neighbourhood_id":85859327,
+            "region_id":85688769,
+            "venue_id":403950931
+        }
+    ],
+    "wof:id":403950931,
+    "wof:lastmodified":1449055159,
+    "wof:name":"Bayview Pediatrics",
+    "wof:parent_id":85859327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.182848,43.803239,-70.182848,43.803239],
+  "geometry": {"coordinates":[-70.182848,43.803239],"type":"Point"}
+}

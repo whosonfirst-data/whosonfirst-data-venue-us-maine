@@ -1,0 +1,67 @@
+{
+  "id": 387773427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.775071,44.806019,-68.775071,44.806019",
+    "geom:latitude":44.806019,
+    "geom:longitude":-68.775071,
+    "iso:country":"US",
+    "sg:address":"315 Harlow St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 941 5900",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "sg:website":"www.capitalambulance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_519CtpXC6Vr9UNxTuCOb5b_44.806019_-68.775071@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5137c498cc2e99351296d88f1b8ff07",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":387773427
+        }
+    ],
+    "wof:id":387773427,
+    "wof:lastmodified":1449056590,
+    "wof:name":"Capital Ambulance Svc",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [-68.775071,44.806019,-68.775071,44.806019],
+  "geometry": {"coordinates":[-68.775071,44.806019],"type":"Point"}
+}

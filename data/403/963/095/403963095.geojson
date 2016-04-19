@@ -1,0 +1,67 @@
+{
+  "id": 403963095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.259351,44.18055,-69.259351,44.18055",
+    "geom:latitude":44.18055,
+    "geom:longitude":-69.259351,
+    "iso:country":"US",
+    "sg:address":"2236 Eastern Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 273 3171",
+    "sg:postcode":"04864",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087453,
+        85854787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mAuyJuv9wnPFYy5tUbsIL_44.180550_-69.259351@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c8dfa29ca07ca8b4f8272ebf0e168bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087453,
+            "locality_id":-1,
+            "neighbourhood_id":85854787,
+            "region_id":85688769,
+            "venue_id":403963095
+        }
+    ],
+    "wof:id":403963095,
+    "wof:lastmodified":1449054767,
+    "wof:name":"Just Right Auto Repair",
+    "wof:parent_id":85854787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-69.259351,44.18055,-69.259351,44.18055],
+  "geometry": {"coordinates":[-69.259351,44.18055],"type":"Point"}
+}

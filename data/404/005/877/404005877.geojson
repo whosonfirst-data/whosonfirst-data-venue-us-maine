@@ -1,0 +1,68 @@
+{
+  "id": 404005877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.755037,44.807745,-68.755037,44.807745",
+    "geom:latitude":44.807745,
+    "geom:longitude":-68.755037,
+    "iso:country":"US",
+    "sg:address":"411 State St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 973 4500",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uYVMKRwJ1KuuXcZr2zJX5_44.807745_-68.755037@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bbf12c707644646f6e26d0f20c376c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":404005877
+        }
+    ],
+    "wof:id":404005877,
+    "wof:lastmodified":1449040238,
+    "wof:name":"Outpatient Surgery-Eastern Me",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-68.755037,44.807745,-68.755037,44.807745],
+  "geometry": {"coordinates":[-68.755037,44.807745],"type":"Point"}
+}

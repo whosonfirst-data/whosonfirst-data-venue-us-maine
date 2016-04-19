@@ -1,0 +1,68 @@
+{
+  "id": 404032469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.838017,43.94413,-69.838017,43.94413",
+    "geom:latitude":43.94413,
+    "geom:longitude":-69.838017,
+    "iso:country":"US",
+    "sg:address":"210 N Bath Rd",
+    "sg:city":"West Bath",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 443 1641",
+    "sg:postcode":"04530",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948861,
+        102087455,
+        85813751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fvoaYAnCoTjOKSeAzIkhy_43.944130_-69.838017@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"141d9efb87ec344b795d2f7246b8f5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087455,
+            "locality_id":85948861,
+            "neighbourhood_id":85813751,
+            "region_id":85688769,
+            "venue_id":404032469
+        }
+    ],
+    "wof:id":404032469,
+    "wof:lastmodified":1449039624,
+    "wof:name":"Steve's Auto",
+    "wof:parent_id":85813751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-69.838017,43.94413,-69.838017,43.94413],
+  "geometry": {"coordinates":[-69.838017,43.94413],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 403761975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.000222,44.421742,-69.000222,44.421742",
+    "geom:latitude":44.421742,
+    "geom:longitude":-69.000222,
+    "iso:country":"US",
+    "sg:address":"55 High St",
+    "sg:city":"Belfast",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 338 5380",
+    "sg:postcode":"04915",
+    "sg:province":"ME",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948905,
+        102087445,
+        85824361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wcxf6TkbSLLMyZ5obKc19_44.421742_-69.000222@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea1e14d6f249a09f5974fa6a1e32b057",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087445,
+            "locality_id":85948905,
+            "neighbourhood_id":85824361,
+            "region_id":85688769,
+            "venue_id":403761975
+        }
+    ],
+    "wof:id":403761975,
+    "wof:lastmodified":1449055647,
+    "wof:name":"Belfast Dance Studio",
+    "wof:parent_id":85824361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [-69.000222,44.421742,-69.000222,44.421742],
+  "geometry": {"coordinates":[-69.000222,44.421742],"type":"Point"}
+}

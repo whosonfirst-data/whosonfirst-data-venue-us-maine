@@ -1,0 +1,68 @@
+{
+  "id": 404056803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.321666,43.701149,-70.321666,43.701149",
+    "geom:latitude":43.701149,
+    "geom:longitude":-70.321666,
+    "iso:country":"US",
+    "sg:address":"1901 Forest Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 878 0012",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85845077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1defomMVwjr9Y7IDEggNW2_43.701149_-70.321666@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24c7147c540dfa8fe826e5cb41d08f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85845077,
+            "region_id":85688769,
+            "venue_id":404056803
+        }
+    ],
+    "wof:id":404056803,
+    "wof:lastmodified":1449039359,
+    "wof:name":"B & B Automotive Svc",
+    "wof:parent_id":85845077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.321666,43.701149,-70.321666,43.701149],
+  "geometry": {"coordinates":[-70.321666,43.701149],"type":"Point"}
+}

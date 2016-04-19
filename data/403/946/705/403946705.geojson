@@ -1,0 +1,68 @@
+{
+  "id": 403946705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.086354,44.40104,-68.086354,44.40104",
+    "geom:latitude":44.40104,
+    "geom:longitude":-68.086354,
+    "iso:country":"US",
+    "sg:address":"295 Newman St",
+    "sg:city":"Winter Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 963 2919",
+    "sg:postcode":"04679",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949095,
+        102081201,
+        85821423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c7llmQL1QFmiXRwaFz2bB_44.401040_-68.086354@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b147700266f7df8092a47d2af2a57b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081201,
+            "locality_id":85949095,
+            "neighbourhood_id":85821423,
+            "region_id":85688769,
+            "venue_id":403946705
+        }
+    ],
+    "wof:id":403946705,
+    "wof:lastmodified":1449055815,
+    "wof:name":"S & S Enterprises",
+    "wof:parent_id":85821423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-68.086354,44.40104,-68.086354,44.40104],
+  "geometry": {"coordinates":[-68.086354,44.40104],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 403840365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.087202,44.20728,-69.087202,44.20728",
+    "geom:latitude":44.20728,
+    "geom:longitude":-69.087202,
+    "iso:country":"US",
+    "sg:address":"123 John St",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 236 8087",
+    "sg:postcode":"04843",
+    "sg:province":"ME",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087453,
+        85833741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VnFTNg2TMK8rXjHqRVWqK_44.207280_-69.087202@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea2577e317bfe5b7f950fee34b90c878",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087453,
+            "locality_id":-1,
+            "neighbourhood_id":85833741,
+            "region_id":85688769,
+            "venue_id":403840365
+        }
+    ],
+    "wof:id":403840365,
+    "wof:lastmodified":1449055666,
+    "wof:name":"Camden First Aid Assn",
+    "wof:parent_id":85833741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [-69.087202,44.20728,-69.087202,44.20728],
+  "geometry": {"coordinates":[-69.087202,44.20728],"type":"Point"}
+}

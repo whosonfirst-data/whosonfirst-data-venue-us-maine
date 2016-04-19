@@ -1,0 +1,67 @@
+{
+  "id": 404064147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.335999,44.278692,-70.335999,44.278692",
+    "geom:latitude":44.278692,
+    "geom:longitude":-70.335999,
+    "iso:country":"US",
+    "sg:address":"371 Turner St",
+    "sg:city":"Buckfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 336 2468",
+    "sg:postcode":"04220",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087437,
+        85816409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fNaEBhrfFYm4xIpEbUoVb_44.278692_-70.335999@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21e3f0cbea5e3432260fc5a89f3f87dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087437,
+            "locality_id":-1,
+            "neighbourhood_id":85816409,
+            "region_id":85688769,
+            "venue_id":404064147
+        }
+    ],
+    "wof:id":404064147,
+    "wof:lastmodified":1449039449,
+    "wof:name":"Bly's Garage",
+    "wof:parent_id":85816409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.335999,44.278692,-70.335999,44.278692],
+  "geometry": {"coordinates":[-70.335999,44.278692],"type":"Point"}
+}

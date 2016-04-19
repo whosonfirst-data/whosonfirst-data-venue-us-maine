@@ -1,0 +1,68 @@
+{
+  "id": 403813879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.428034,43.509318,-70.428034,43.509318",
+    "geom:latitude":43.509318,
+    "geom:longitude":-70.428034,
+    "iso:country":"US",
+    "sg:address":"33 Ocean Park Rd",
+    "sg:city":"Saco",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 283 0119",
+    "sg:postcode":"04072",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948887,
+        102087449,
+        85819479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wMYyhyJ65vx3QnTGWECil_43.509318_-70.428034@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df30857fedeb7235152bbc7cb32932da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":403813879
+        }
+    ],
+    "wof:id":403813879,
+    "wof:lastmodified":1449054984,
+    "wof:name":"Lou's Service Ctr",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.428034,43.509318,-70.428034,43.509318],
+  "geometry": {"coordinates":[-70.428034,43.509318],"type":"Point"}
+}

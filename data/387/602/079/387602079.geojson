@@ -1,0 +1,69 @@
+{
+  "id": 387602079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.111173,44.039626,-70.111173,44.039626",
+    "geom:latitude":44.039626,
+    "geom:longitude":-70.111173,
+    "iso:country":"US",
+    "sg:address":"210 Lisbon St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 353 6890",
+    "sg:postcode":"04250",
+    "sg:province":"ME",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087457,
+        85830839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04WfMdAh4KHShObXLvueth_44.039626_-70.111173@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df58ef99721c70a698730b38bbf6e236",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":-1,
+            "neighbourhood_id":85830839,
+            "region_id":85688769,
+            "venue_id":387602079
+        }
+    ],
+    "wof:id":387602079,
+    "wof:lastmodified":1449057893,
+    "wof:name":"Morgans Machine Shop",
+    "wof:parent_id":85830839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [-70.111173,44.039626,-70.111173,44.039626],
+  "geometry": {"coordinates":[-70.111173,44.039626],"type":"Point"}
+}

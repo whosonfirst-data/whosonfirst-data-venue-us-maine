@@ -1,0 +1,65 @@
+{
+  "id": 403777891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.515821,44.232293,-70.515821,44.232293",
+    "geom:latitude":44.232293,
+    "geom:longitude":-70.515821,
+    "iso:country":"US",
+    "sg:address":"13 Paris Promenade",
+    "sg:city":"South Paris",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 743 0549",
+    "sg:postcode":"04281",
+    "sg:province":"ME",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087437,
+        85868781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EgPW2zmKf6KZFGqPg8r3y_44.232293_-70.515821@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8bc7e368604763f14c615ee3fa22873e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087437,
+            "locality_id":-1,
+            "neighbourhood_id":85868781,
+            "region_id":85688769,
+            "venue_id":403777891
+        }
+    ],
+    "wof:id":403777891,
+    "wof:lastmodified":1449055346,
+    "wof:name":"Paris Police Dept",
+    "wof:parent_id":85868781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-70.515821,44.232293,-70.515821,44.232293],
+  "geometry": {"coordinates":[-70.515821,44.232293],"type":"Point"}
+}

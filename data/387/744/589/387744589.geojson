@@ -1,0 +1,67 @@
+{
+  "id": 387744589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.245565,44.069631,-70.245565,44.069631",
+    "geom:latitude":44.069631,
+    "geom:longitude":-70.245565,
+    "iso:country":"US",
+    "sg:address":"741 Washington St N",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 782 6461",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.greeleysgarage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948883,
+        102087457,
+        85831033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w4UDDsHNpA1AqPrvhe2Of_44.069631_-70.245565@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"048bdbec2235791d19b7ce157360051f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85948883,
+            "neighbourhood_id":85831033,
+            "region_id":85688769,
+            "venue_id":387744589
+        }
+    ],
+    "wof:id":387744589,
+    "wof:lastmodified":1449057468,
+    "wof:name":"Greeley's Garage",
+    "wof:parent_id":85831033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-70.245565,44.069631,-70.245565,44.069631],
+  "geometry": {"coordinates":[-70.245565,44.069631],"type":"Point"}
+}

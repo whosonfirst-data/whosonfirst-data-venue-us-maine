@@ -1,0 +1,67 @@
+{
+  "id": 403829279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.360333,43.57449,-70.360333,43.57449",
+    "geom:latitude":43.57449,
+    "geom:longitude":-70.360333,
+    "iso:country":"US",
+    "sg:address":"52 Manson Libby Rd",
+    "sg:city":"Scarborough",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 883 4114",
+    "sg:postcode":"04074",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087463,
+        85806509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j2s6Rz1vLwMnHd2BIGPLn_43.574490_-70.360333@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2a6809556ad1eb69060b0b8640ea0f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":-1,
+            "neighbourhood_id":85806509,
+            "region_id":85688769,
+            "venue_id":403829279
+        }
+    ],
+    "wof:id":403829279,
+    "wof:lastmodified":1449055870,
+    "wof:name":"Black Point Auto & Towing",
+    "wof:parent_id":85806509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.360333,43.57449,-70.360333,43.57449],
+  "geometry": {"coordinates":[-70.360333,43.57449],"type":"Point"}
+}

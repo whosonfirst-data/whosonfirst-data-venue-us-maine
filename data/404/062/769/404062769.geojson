@@ -1,0 +1,66 @@
+{
+  "id": 404062769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.261101,43.659399,-70.261101,43.659399",
+    "geom:latitude":43.659399,
+    "geom:longitude":-70.261101,
+    "iso:country":"US",
+    "sg:address":"46 Elm St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 7228",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85880031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wbRIvuok7fvZz0fzJRFLh_43.659399_-70.261101@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87a17e741b01d71bf2a24b63c363d36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880031,
+            "region_id":85688769,
+            "venue_id":404062769
+        }
+    ],
+    "wof:id":404062769,
+    "wof:lastmodified":1449040255,
+    "wof:name":"Elm Street Dry Cleaners",
+    "wof:parent_id":85880031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-70.261101,43.659399,-70.261101,43.659399],
+  "geometry": {"coordinates":[-70.261101,43.659399],"type":"Point"}
+}

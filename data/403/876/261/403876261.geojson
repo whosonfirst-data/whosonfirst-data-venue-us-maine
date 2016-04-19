@@ -1,0 +1,70 @@
+{
+  "id": 403876261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.825887,44.824643,-68.825887,44.824643",
+    "geom:latitude":44.824643,
+    "geom:longitude":-68.825887,
+    "iso:country":"US",
+    "sg:address":"1653 Union St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 945 6841",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85837287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fHOqaxYGqDc27qyUsi50q_44.824643_-68.825887@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d42830a5f0669098a98af18901a96cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85837287,
+            "region_id":85688769,
+            "venue_id":403876261
+        }
+    ],
+    "wof:id":403876261,
+    "wof:lastmodified":1449054900,
+    "wof:name":"Green Acres Kennel",
+    "wof:parent_id":85837287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [-68.825887,44.824643,-68.825887,44.824643],
+  "geometry": {"coordinates":[-68.825887,44.824643],"type":"Point"}
+}

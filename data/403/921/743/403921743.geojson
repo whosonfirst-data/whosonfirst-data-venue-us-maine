@@ -1,0 +1,66 @@
+{
+  "id": 403921743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.672559,44.882865,-68.672559,44.882865",
+    "geom:latitude":44.882865,
+    "geom:longitude":-68.672559,
+    "iso:country":"US",
+    "sg:address":"63 Main St",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 4000",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949117,
+        102080723,
+        85854941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5igU1gNzUvVVIdBNf3ulzM_44.882865_-68.672559@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b576a06f6af15422bdb134cc152f071",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85949117,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":403921743
+        }
+    ],
+    "wof:id":403921743,
+    "wof:lastmodified":1449055479,
+    "wof:name":"Orono Fire Dept",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-68.672559,44.882865,-68.672559,44.882865],
+  "geometry": {"coordinates":[-68.672559,44.882865],"type":"Point"}
+}

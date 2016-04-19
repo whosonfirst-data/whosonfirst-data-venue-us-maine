@@ -1,0 +1,67 @@
+{
+  "id": 403819663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.942613,44.43612,-68.942613,44.43612",
+    "geom:latitude":44.43612,
+    "geom:longitude":-68.942613,
+    "iso:country":"US",
+    "sg:address":"322 W Main St",
+    "sg:city":"Searsport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 548 2924",
+    "sg:postcode":"04974",
+    "sg:province":"ME",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.searsportvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948905,
+        102087445,
+        85824361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QCNvUGFjQezFvFOqSqzyd_44.436120_-68.942613@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa1108d1003ff90e1b87ac8093c7cd36",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087445,
+            "locality_id":85948905,
+            "neighbourhood_id":85824361,
+            "region_id":85688769,
+            "venue_id":403819663
+        }
+    ],
+    "wof:id":403819663,
+    "wof:lastmodified":1449054959,
+    "wof:name":"Searsport Veterinary Hospital",
+    "wof:parent_id":85824361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-68.942613,44.43612,-68.942613,44.43612],
+  "geometry": {"coordinates":[-68.942613,44.43612],"type":"Point"}
+}

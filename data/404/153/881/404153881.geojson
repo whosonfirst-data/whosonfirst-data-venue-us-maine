@@ -1,0 +1,68 @@
+{
+  "id": 404153881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.243817,43.647798,-70.243817,43.647798",
+    "geom:latitude":43.647798,
+    "geom:longitude":-70.243817,
+    "iso:country":"US",
+    "sg:address":"24 Pine St",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 741 0243",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948879,
+        102087463,
+        85820201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Mu388nyQZPPwSwBLyrv4P_43.647798_-70.243817@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4277e53f7c3ef21d53ffb3b4739033f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948879,
+            "neighbourhood_id":85820201,
+            "region_id":85688769,
+            "venue_id":404153881
+        }
+    ],
+    "wof:id":404153881,
+    "wof:lastmodified":1449039956,
+    "wof:name":"Rent A Painter",
+    "wof:parent_id":85820201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [-70.243817,43.647798,-70.243817,43.647798],
+  "geometry": {"coordinates":[-70.243817,43.647798],"type":"Point"}
+}

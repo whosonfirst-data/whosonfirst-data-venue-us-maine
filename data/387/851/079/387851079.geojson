@@ -1,0 +1,68 @@
+{
+  "id": 387851079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.257256,43.686833,-70.257256,43.686833",
+    "geom:latitude":43.686833,
+    "geom:longitude":-70.257256,
+    "iso:country":"US",
+    "sg:address":"75 Arcadia St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 253 1855",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85816239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hm1wgesICLHgWJ8bbpaNi_43.686833_-70.257256@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21dc7e30c2f5f362d75ddf749bbc8b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85816239,
+            "region_id":85688769,
+            "venue_id":387851079
+        }
+    ],
+    "wof:id":387851079,
+    "wof:lastmodified":1449058618,
+    "wof:name":"New England Mail Order Assn",
+    "wof:parent_id":85816239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order"
+    ]
+},
+  "bbox": [-70.257256,43.686833,-70.257256,43.686833],
+  "geometry": {"coordinates":[-70.257256,43.686833],"type":"Point"}
+}

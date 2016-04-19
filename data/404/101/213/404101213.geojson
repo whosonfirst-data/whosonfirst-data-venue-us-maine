@@ -1,0 +1,68 @@
+{
+  "id": 404101213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.021777,44.434209,-69.021777,44.434209",
+    "geom:latitude":44.434209,
+    "geom:longitude":-69.021777,
+    "iso:country":"US",
+    "sg:address":"219 Waldo Ave",
+    "sg:city":"Belfast",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 338 1432",
+    "sg:postcode":"04915",
+    "sg:province":"ME",
+    "sg:tags":[
+        "automobile",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948905,
+        102087445,
+        85808235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tLA0FSsGzPj6jIMEyIcJH_44.434209_-69.021777@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3451b475b08343efd50d52e70b558658",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087445,
+            "locality_id":85948905,
+            "neighbourhood_id":85808235,
+            "region_id":85688769,
+            "venue_id":404101213
+        }
+    ],
+    "wof:id":404101213,
+    "wof:lastmodified":1449039752,
+    "wof:name":"B J's Automotive Diagnostic",
+    "wof:parent_id":85808235,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "diagnostic"
+    ]
+},
+  "bbox": [-69.021777,44.434209,-69.021777,44.434209],
+  "geometry": {"coordinates":[-69.021777,44.434209],"type":"Point"}
+}

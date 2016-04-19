@@ -1,0 +1,68 @@
+{
+  "id": 387663481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.5151,43.475275,-70.5151,43.475275",
+    "geom:latitude":43.475275,
+    "geom:longitude":-70.5151,
+    "iso:country":"US",
+    "sg:address":"586 Alfred St",
+    "sg:city":"Biddeford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 324 3380",
+    "sg:postcode":"04005",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948887,
+        102087449,
+        85819479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50ncpl1Nv5vssfq8CHUxmb_43.475275_-70.515100@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b78f1d3b1154848b0c488695ffff7e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":387663481
+        }
+    ],
+    "wof:id":387663481,
+    "wof:lastmodified":1449058910,
+    "wof:name":"Associated Eye Care",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.5151,43.475275,-70.5151,43.475275],
+  "geometry": {"coordinates":[-70.5151,43.475275],"type":"Point"}
+}

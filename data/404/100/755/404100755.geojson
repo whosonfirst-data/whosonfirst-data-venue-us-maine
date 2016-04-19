@@ -1,0 +1,69 @@
+{
+  "id": 404100755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.275754,43.655917,-70.275754,43.655917",
+    "geom:latitude":43.655917,
+    "geom:longitude":-70.275754,
+    "iso:country":"US",
+    "sg:address":"180 Park Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 0348",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.intermed.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85880027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B8SPp6lwhzgTjcLJbCyrO_43.655917_-70.275754@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"819484fec63cef90f75edc9187e0b10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880027,
+            "region_id":85688769,
+            "venue_id":404100755
+        }
+    ],
+    "wof:id":404100755,
+    "wof:lastmodified":1449040000,
+    "wof:name":"Intermed",
+    "wof:parent_id":85880027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.275754,43.655917,-70.275754,43.655917],
+  "geometry": {"coordinates":[-70.275754,43.655917],"type":"Point"}
+}

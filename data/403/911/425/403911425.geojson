@@ -1,0 +1,68 @@
+{
+  "id": 403911425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.227445,43.633119,-70.227445,43.633119",
+    "geom:latitude":43.633119,
+    "geom:longitude":-70.227445,
+    "iso:country":"US",
+    "sg:address":"40 Warren Ave",
+    "sg:city":"Cape Elizabeth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 767 5600",
+    "sg:postcode":"04107",
+    "sg:province":"ME",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948879,
+        102087463,
+        85867975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QL0c1rIfC9hpt961LZFNl_43.633119_-70.227445@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2794745e5798cf1b804f4482920a32b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948879,
+            "neighbourhood_id":85867975,
+            "region_id":85688769,
+            "venue_id":403911425
+        }
+    ],
+    "wof:id":403911425,
+    "wof:lastmodified":1449055754,
+    "wof:name":"Wireworks Orthodontic Lab",
+    "wof:parent_id":85867975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [-70.227445,43.633119,-70.227445,43.633119],
+  "geometry": {"coordinates":[-70.227445,43.633119],"type":"Point"}
+}

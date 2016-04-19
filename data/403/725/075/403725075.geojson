@@ -1,0 +1,67 @@
+{
+  "id": 403725075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.071942,44.189652,-69.071942,44.189652",
+    "geom:latitude":44.189652,
+    "geom:longitude":-69.071942,
+    "iso:country":"US",
+    "sg:address":"211 Union St",
+    "sg:city":"Rockport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 236 6073",
+    "sg:postcode":"04856",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087453,
+        85833741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fvkvXoI8GKURy5F1BuJuw_44.189652_-69.071942@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"abf6b56dbfaa097a8047e1a2b3c835dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087453,
+            "locality_id":-1,
+            "neighbourhood_id":85833741,
+            "region_id":85688769,
+            "venue_id":403725075
+        }
+    ],
+    "wof:id":403725075,
+    "wof:lastmodified":1449054973,
+    "wof:name":"Turner Wrench Auto",
+    "wof:parent_id":85833741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-69.071942,44.189652,-69.071942,44.189652],
+  "geometry": {"coordinates":[-69.071942,44.189652],"type":"Point"}
+}

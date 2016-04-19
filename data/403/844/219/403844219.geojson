@@ -1,0 +1,68 @@
+{
+  "id": 403844219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.752705,43.092081,-70.752705,43.092081",
+    "geom:latitude":43.092081,
+    "geom:longitude":-70.752705,
+    "iso:country":"US",
+    "sg:address":"42 Old Post Rd",
+    "sg:city":"Kittery",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 439 4440",
+    "sg:postcode":"03904",
+    "sg:province":"ME",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949043,
+        102087449,
+        85828587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VQM0WUaQrJnAjEt7djsXS_43.092081_-70.752705@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b3d105b2eb469310d05c6f85e81e25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85949043,
+            "neighbourhood_id":85828587,
+            "region_id":85688769,
+            "venue_id":403844219
+        }
+    ],
+    "wof:id":403844219,
+    "wof:lastmodified":1449055203,
+    "wof:name":"Dineen Coach Co",
+    "wof:parent_id":85828587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [-70.752705,43.092081,-70.752705,43.092081],
+  "geometry": {"coordinates":[-70.752705,43.092081],"type":"Point"}
+}

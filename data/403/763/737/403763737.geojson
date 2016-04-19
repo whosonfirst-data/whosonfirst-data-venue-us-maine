@@ -1,0 +1,76 @@
+{
+  "id": 403763737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.281162,43.734725,-70.281162,43.734725",
+    "geom:latitude":43.734725,
+    "geom:longitude":-70.281162,
+    "iso:country":"US",
+    "sg:address":"271 Falmouth Rd",
+    "sg:city":"Falmouth",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 781 2300",
+    "sg:postcode":"04105",
+    "sg:province":"ME",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087463,
+        85855475,
+        85948877,
+        85837549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fr3dRwSt0GhZEr1BdwFoh_43.734725_-70.281162@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7852ca4240c3cb18f54dc09bbc3a72a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":-1,
+            "neighbourhood_id":85855475,
+            "region_id":85688769,
+            "venue_id":403763737
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85837549,
+            "region_id":85688769,
+            "venue_id":403763737
+        }
+    ],
+    "wof:id":403763737,
+    "wof:lastmodified":1449055954,
+    "wof:name":"Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-70.281162,43.734725,-70.281162,43.734725],
+  "geometry": {"coordinates":[-70.281162,43.734725],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 403850989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.231324,44.089988,-70.231324,44.089988",
+    "geom:latitude":44.089988,
+    "geom:longitude":-70.231324,
+    "iso:country":"US",
+    "sg:address":"214 Minot Ave",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 784 4898",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948885,
+        102087457,
+        85836549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PaeZEyvrD20BfxcZmCxKr_44.089988_-70.231324@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9edaa779edce8c5dccbfc210353eb29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":403850989
+        }
+    ],
+    "wof:id":403850989,
+    "wof:lastmodified":1449055405,
+    "wof:name":"Cyr's Auto",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.231324,44.089988,-70.231324,44.089988],
+  "geometry": {"coordinates":[-70.231324,44.089988],"type":"Point"}
+}

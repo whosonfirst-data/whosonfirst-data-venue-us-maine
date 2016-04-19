@@ -1,0 +1,67 @@
+{
+  "id": 387681143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.231062,44.093803,-70.231062,44.093803",
+    "geom:latitude":44.093803,
+    "geom:longitude":-70.231062,
+    "iso:country":"US",
+    "sg:address":"1 Minot Ave",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 000 1111",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.auburnpd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948885,
+        102087457,
+        85836549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hu6fDyqbIi4BKunIALdz1_44.093803_-70.231062@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc784d8118a143f3cf26dbe2cb6be491",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":387681143
+        }
+    ],
+    "wof:id":387681143,
+    "wof:lastmodified":1449058430,
+    "wof:name":"Police Dept",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-70.231062,44.093803,-70.231062,44.093803],
+  "geometry": {"coordinates":[-70.231062,44.093803],"type":"Point"}
+}

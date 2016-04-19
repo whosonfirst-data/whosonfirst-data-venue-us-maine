@@ -1,0 +1,68 @@
+{
+  "id": 404040637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.275928,43.65167,-70.275928,43.65167",
+    "geom:latitude":43.65167,
+    "geom:longitude":-70.275928,
+    "iso:country":"US",
+    "sg:address":"22 Bramhall St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 662 2553",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85855397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rTBMjghDAKLSLV9fUyWxr_43.651670_-70.275928@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9668f3f37be9ccc8eda2799d299e7e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85855397,
+            "region_id":85688769,
+            "venue_id":404040637
+        }
+    ],
+    "wof:id":404040637,
+    "wof:lastmodified":1449040292,
+    "wof:name":"Neonatology Associates",
+    "wof:parent_id":85855397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.275928,43.65167,-70.275928,43.65167],
+  "geometry": {"coordinates":[-70.275928,43.65167],"type":"Point"}
+}

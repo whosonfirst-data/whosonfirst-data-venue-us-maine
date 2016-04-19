@@ -1,0 +1,67 @@
+{
+  "id": 403877433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.728291,44.552289,-69.728291,44.552289",
+    "geom:latitude":44.552289,
+    "geom:longitude":-69.728291,
+    "iso:country":"US",
+    "sg:address":"164 High St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 465 9700",
+    "sg:postcode":"04963",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087461,
+        85837327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Nd5WqsvLIkv0C0oiftbOK_44.552289_-69.728291@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"965bd8ff98a71fd8273cb8de7593a4c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":-1,
+            "neighbourhood_id":85837327,
+            "region_id":85688769,
+            "venue_id":403877433
+        }
+    ],
+    "wof:id":403877433,
+    "wof:lastmodified":1449055543,
+    "wof:name":"Trustworthy Auto Clinic",
+    "wof:parent_id":85837327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-69.728291,44.552289,-69.728291,44.552289],
+  "geometry": {"coordinates":[-69.728291,44.552289],"type":"Point"}
+}

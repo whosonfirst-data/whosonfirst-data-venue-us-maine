@@ -1,0 +1,76 @@
+{
+  "id": 403976501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.29879,43.687252,-70.29879,43.687252",
+    "geom:latitude":43.687252,
+    "geom:longitude":-70.29879,
+    "iso:country":"US",
+    "sg:address":"75 Bishop St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 878 6841",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85835305,
+        85837549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02FiJYBSmoan6A83kvMOW4_43.687252_-70.298790@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d161b951da717f96e924e6328777638",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85835305,
+            "region_id":85688769,
+            "venue_id":403976501
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85837549,
+            "region_id":85688769,
+            "venue_id":403976501
+        }
+    ],
+    "wof:id":403976501,
+    "wof:lastmodified":1449055179,
+    "wof:name":"Elton John Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [-70.29879,43.687252,-70.29879,43.687252],
+  "geometry": {"coordinates":[-70.29879,43.687252],"type":"Point"}
+}

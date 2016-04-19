@@ -1,0 +1,65 @@
+{
+  "id": 403998241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-66.984405,44.904401,-66.984405,44.904401",
+    "geom:latitude":44.904401,
+    "geom:longitude":-66.984405,
+    "iso:country":"US",
+    "sg:address":"34 Water St",
+    "sg:city":"Eastport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 853 4353",
+    "sg:postcode":"04631",
+    "sg:province":"ME",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102081143,
+        85849853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lvT5SZMoleTa3qyuHF9mY_44.904401_-66.984405@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d4c5fb9f931fd7c34a190dfdde250f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081143,
+            "locality_id":-1,
+            "neighbourhood_id":85849853,
+            "region_id":85688769,
+            "venue_id":403998241
+        }
+    ],
+    "wof:id":403998241,
+    "wof:lastmodified":1449055068,
+    "wof:name":"Eastport Police Dept",
+    "wof:parent_id":85849853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-66.984405,44.904401,-66.984405,44.904401],
+  "geometry": {"coordinates":[-66.984405,44.904401],"type":"Point"}
+}

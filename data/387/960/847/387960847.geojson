@@ -1,0 +1,66 @@
+{
+  "id": 387960847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.771513,44.802326,-68.771513,44.802326",
+    "geom:latitude":44.802326,
+    "geom:longitude":-68.771513,
+    "iso:country":"US",
+    "sg:address":"22 Central St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 1197",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UVZ0FuNYVmNq8ahogi2iW_44.802326_-68.771513@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5a024be30e41c8b9869d120929275a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":387960847
+        }
+    ],
+    "wof:id":387960847,
+    "wof:lastmodified":1449058845,
+    "wof:name":"Green Grocer",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-68.771513,44.802326,-68.771513,44.802326],
+  "geometry": {"coordinates":[-68.771513,44.802326],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 403870301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.314499,43.656736,-70.314499,43.656736",
+    "geom:latitude":43.656736,
+    "geom:longitude":-70.314499,
+    "iso:country":"US",
+    "sg:address":"1809 Congress St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 828 2900",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85851275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6niiVa7I3fZ3AJSHQEcqDG_43.656736_-70.314499@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ae1647568f97bc3d7bb4c173d6bcf8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85851275,
+            "region_id":85688769,
+            "venue_id":403870301
+        }
+    ],
+    "wof:id":403870301,
+    "wof:lastmodified":1449054994,
+    "wof:name":"Viking Restoration",
+    "wof:parent_id":85851275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [-70.314499,43.656736,-70.314499,43.656736],
+  "geometry": {"coordinates":[-70.314499,43.656736],"type":"Point"}
+}

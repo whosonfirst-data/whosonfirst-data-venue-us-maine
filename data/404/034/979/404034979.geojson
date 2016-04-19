@@ -1,0 +1,68 @@
+{
+  "id": 404034979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.762015,44.795732,-68.762015,44.795732",
+    "geom:latitude":44.795732,
+    "geom:longitude":-68.762015,
+    "iso:country":"US",
+    "sg:address":"8 Howard Ln",
+    "sg:city":"Brewer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 989 2111",
+    "sg:postcode":"04412",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ou4jRX2f97Uokf4axUWRu_44.795732_-68.762015@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0bcdab938051049cb4b2f324eccbc31",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":404034979
+        }
+    ],
+    "wof:id":404034979,
+    "wof:lastmodified":1449039152,
+    "wof:name":"Poiriers Garage",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-68.762015,44.795732,-68.762015,44.795732],
+  "geometry": {"coordinates":[-68.762015,44.795732],"type":"Point"}
+}

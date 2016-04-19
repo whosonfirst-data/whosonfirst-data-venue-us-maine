@@ -1,0 +1,68 @@
+{
+  "id": 387917485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.270668,43.655509,-70.270668,43.655509",
+    "geom:latitude":43.655509,
+    "geom:longitude":-70.270668,
+    "iso:country":"US",
+    "sg:address":"145 Sherman St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 874 6424",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85880027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05s2YcvnaNpBZnVFnw0DGz_43.655509_-70.270668@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8a1be859a0283218f203a41803bf14c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880027,
+            "region_id":85688769,
+            "venue_id":387917485
+        }
+    ],
+    "wof:id":387917485,
+    "wof:lastmodified":1449059421,
+    "wof:name":"Steven Keefe DO",
+    "wof:parent_id":85880027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.270668,43.655509,-70.270668,43.655509],
+  "geometry": {"coordinates":[-70.270668,43.655509],"type":"Point"}
+}

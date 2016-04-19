@@ -1,0 +1,67 @@
+{
+  "id": 403802903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.965255,44.380847,-69.965255,44.380847",
+    "geom:latitude":44.380847,
+    "geom:longitude":-69.965255,
+    "iso:country":"US",
+    "sg:address":"77 Winthrop Rd",
+    "sg:city":"Readfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 623 7647",
+    "sg:postcode":"04355",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087461,
+        85838159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jw18mMiGsj2B63klQg55i_44.380847_-69.965255@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0521c0fd22bdd4dad86a77dc500523f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":-1,
+            "neighbourhood_id":85838159,
+            "region_id":85688769,
+            "venue_id":403802903
+        }
+    ],
+    "wof:id":403802903,
+    "wof:lastmodified":1449055716,
+    "wof:name":"Beaulieu's Upright Auto Repair",
+    "wof:parent_id":85838159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-69.965255,44.380847,-69.965255,44.380847],
+  "geometry": {"coordinates":[-69.965255,44.380847],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 404149493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.508639,44.081384,-69.508639,44.081384",
+    "geom:latitude":44.081384,
+    "geom:longitude":-69.508639,
+    "iso:country":"US",
+    "sg:address":"246 Lower Cross Rd",
+    "sg:city":"Nobleboro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 563 5719",
+    "sg:postcode":"04555",
+    "sg:province":"ME",
+    "sg:tags":[
+        "lobster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948963,
+        102087447,
+        85813435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iljGzDj8P35wmfSmUDSqp_44.081384_-69.508639@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3ed523555a65528c6714b23e6a5092b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087447,
+            "locality_id":85948963,
+            "neighbourhood_id":85813435,
+            "region_id":85688769,
+            "venue_id":404149493
+        }
+    ],
+    "wof:id":404149493,
+    "wof:lastmodified":1449039087,
+    "wof:name":"Bob's Lobsters",
+    "wof:parent_id":85813435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lobster"
+    ]
+},
+  "bbox": [-69.508639,44.081384,-69.508639,44.081384],
+  "geometry": {"coordinates":[-69.508639,44.081384],"type":"Point"}
+}

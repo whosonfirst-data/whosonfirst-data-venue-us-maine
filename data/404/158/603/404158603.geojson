@@ -1,0 +1,76 @@
+{
+  "id": 404158603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.545805,44.546209,-70.545805,44.546209",
+    "geom:latitude":44.546209,
+    "geom:longitude":-70.545805,
+    "iso:country":"US",
+    "sg:address":"151 Congress St",
+    "sg:city":"Rumford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 364 2901",
+    "sg:postcode":"04276",
+    "sg:province":"ME",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948977,
+        102087437,
+        85853959,
+        85844599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LdYTMLPDBoaxBVZzI5ykz_44.546209_-70.545805@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a194fadd2d65512793930b38119afd48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087437,
+            "locality_id":85948977,
+            "neighbourhood_id":85853959,
+            "region_id":85688769,
+            "venue_id":404158603
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087437,
+            "locality_id":85948977,
+            "neighbourhood_id":85844599,
+            "region_id":85688769,
+            "venue_id":404158603
+        }
+    ],
+    "wof:id":404158603,
+    "wof:lastmodified":1449039934,
+    "wof:name":"Rumford Town Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-70.545805,44.546209,-70.545805,44.546209],
+  "geometry": {"coordinates":[-70.545805,44.546209],"type":"Point"}
+}

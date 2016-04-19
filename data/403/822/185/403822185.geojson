@@ -1,0 +1,67 @@
+{
+  "id": 403822185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.960961,44.371198,-68.960961,44.371198",
+    "geom:latitude":44.371198,
+    "geom:longitude":-68.960961,
+    "iso:country":"US",
+    "sg:address":"541 Shore Rd",
+    "sg:city":"Northport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 596 8900",
+    "sg:postcode":"04849",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087445,
+        85804909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TQ8jKvKIvGSliLL5HYR0W_44.371198_-68.960961@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72a48f38bed8fa95fd6d4356e8f9b409",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087445,
+            "locality_id":-1,
+            "neighbourhood_id":85804909,
+            "region_id":85688769,
+            "venue_id":403822185
+        }
+    ],
+    "wof:id":403822185,
+    "wof:lastmodified":1449055911,
+    "wof:name":"Penobscot Bay Obgyn Assoc",
+    "wof:parent_id":85804909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-68.960961,44.371198,-68.960961,44.371198],
+  "geometry": {"coordinates":[-68.960961,44.371198],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 403877411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.79615,44.57229,-68.79615,44.57229",
+    "geom:latitude":44.57229,
+    "geom:longitude":-68.79615,
+    "iso:country":"US",
+    "sg:address":"285 Main St",
+    "sg:city":"Bucksport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 469 6880",
+    "sg:postcode":"04416",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949087,
+        102081201,
+        85843193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zzTp3UcGGOQ3lLxIGsBLb_44.572290_-68.796150@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f33ad0a210485d7845cc5330a203f9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081201,
+            "locality_id":85949087,
+            "neighbourhood_id":85843193,
+            "region_id":85688769,
+            "venue_id":403877411
+        }
+    ],
+    "wof:id":403877411,
+    "wof:lastmodified":1449055541,
+    "wof:name":"Bucksport Family Medicine",
+    "wof:parent_id":85843193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-68.79615,44.57229,-68.79615,44.57229],
+  "geometry": {"coordinates":[-68.79615,44.57229],"type":"Point"}
+}

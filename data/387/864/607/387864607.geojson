@@ -1,0 +1,66 @@
+{
+  "id": 387864607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.818211,44.847714,-68.818211,44.847714",
+    "geom:latitude":44.847714,
+    "geom:longitude":-68.818211,
+    "iso:country":"US",
+    "sg:address":"438 Finson Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 945 9555",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85815935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Axp3jhN4YqLMuZsSNrdoe_44.847714_-68.818211@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0cd5dc496c04cc0ee0d8eb7acc683a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85815935,
+            "region_id":85688769,
+            "venue_id":387864607
+        }
+    ],
+    "wof:id":387864607,
+    "wof:lastmodified":1449059965,
+    "wof:name":"A 1 Taxi",
+    "wof:parent_id":85815935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-68.818211,44.847714,-68.818211,44.847714],
+  "geometry": {"coordinates":[-68.818211,44.847714],"type":"Point"}
+}

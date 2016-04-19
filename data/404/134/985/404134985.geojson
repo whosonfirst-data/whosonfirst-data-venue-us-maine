@@ -1,0 +1,68 @@
+{
+  "id": 404134985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.749845,44.836349,-68.749845,44.836349",
+    "geom:latitude":44.836349,
+    "geom:longitude":-68.749845,
+    "iso:country":"US",
+    "sg:address":"38 Penn Plz",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 990 4775",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85851073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zhjnCn0PLTN4nOmSfa7Jp_44.836349_-68.749845@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65265cd645f825e621b4bf4397f209f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":404134985
+        }
+    ],
+    "wof:id":404134985,
+    "wof:lastmodified":1449040273,
+    "wof:name":"Penobscot Pain Management",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-68.749845,44.836349,-68.749845,44.836349],
+  "geometry": {"coordinates":[-68.749845,44.836349],"type":"Point"}
+}

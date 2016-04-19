@@ -1,0 +1,67 @@
+{
+  "id": 387738067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.71695,43.122993,-70.71695,43.122993",
+    "geom:latitude":43.122993,
+    "geom:longitude":-70.71695,
+    "iso:country":"US",
+    "sg:address":"421 US Hwy 1",
+    "sg:city":"Kittery",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 439 2366",
+    "sg:postcode":"03904",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087449,
+        85844265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v4QgRd6HfI5N12QulcL3H_43.122993_-70.716950@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f59565ab32252f0bbc286452979175cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":-1,
+            "neighbourhood_id":85844265,
+            "region_id":85688769,
+            "venue_id":387738067
+        }
+    ],
+    "wof:id":387738067,
+    "wof:lastmodified":1449058896,
+    "wof:name":"Donnell's Auto Repair",
+    "wof:parent_id":85844265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.71695,43.122993,-70.71695,43.122993],
+  "geometry": {"coordinates":[-70.71695,43.122993],"type":"Point"}
+}

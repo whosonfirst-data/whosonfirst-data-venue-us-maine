@@ -1,0 +1,68 @@
+{
+  "id": 387812001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.600127,43.166367,-70.600127,43.166367",
+    "geom:latitude":43.166367,
+    "geom:longitude":-70.600127,
+    "iso:country":"US",
+    "sg:address":"6 3rd Ave",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 4030",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949035,
+        102087449,
+        85812045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lsRcKgSXkw0VqoZKgSOhT_43.166367_-70.600127@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad12cac88c52b7f8f5bb1ea064d4ec98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85949035,
+            "neighbourhood_id":85812045,
+            "region_id":85688769,
+            "venue_id":387812001
+        }
+    ],
+    "wof:id":387812001,
+    "wof:lastmodified":1449056225,
+    "wof:name":"Performance Plumbing & Heating",
+    "wof:parent_id":85812045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-70.600127,43.166367,-70.600127,43.166367],
+  "geometry": {"coordinates":[-70.600127,43.166367],"type":"Point"}
+}

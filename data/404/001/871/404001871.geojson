@@ -1,0 +1,67 @@
+{
+  "id": 404001871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.253803,43.656038,-70.253803,43.656038",
+    "geom:latitude":43.656038,
+    "geom:longitude":-70.253803,
+    "iso:country":"US",
+    "sg:address":"29 Wharf St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 253 8001",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.soffritto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85882031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gsfKuchv54EXmg5afHOan_43.656038_-70.253803@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"892ad53442176961fb87d7e3aac1ec83",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85882031,
+            "region_id":85688769,
+            "venue_id":404001871
+        }
+    ],
+    "wof:id":404001871,
+    "wof:lastmodified":1449039328,
+    "wof:name":"Soffritto Creative Italian",
+    "wof:parent_id":85882031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [-70.253803,43.656038,-70.253803,43.656038],
+  "geometry": {"coordinates":[-70.253803,43.656038],"type":"Point"}
+}

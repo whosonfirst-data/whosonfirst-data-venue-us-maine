@@ -1,0 +1,67 @@
+{
+  "id": 404088653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.242442,43.650055,-70.242442,43.650055",
+    "geom:latitude":43.650055,
+    "geom:longitude":-70.242442,
+    "iso:country":"US",
+    "sg:address":"30 Portland Street Pier",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 799 5517",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.southportland.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948879,
+        102087463,
+        85820201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LCV41f6usFoe0P6Lz4LTL_43.650055_-70.242442@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b8adfea9a88430cdb4bacfb3fcbb9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948879,
+            "neighbourhood_id":85820201,
+            "region_id":85688769,
+            "venue_id":404088653
+        }
+    ],
+    "wof:id":404088653,
+    "wof:lastmodified":1449040016,
+    "wof:name":"South Portland Police Dept",
+    "wof:parent_id":85820201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-70.242442,43.650055,-70.242442,43.650055],
+  "geometry": {"coordinates":[-70.242442,43.650055],"type":"Point"}
+}

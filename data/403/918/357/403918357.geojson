@@ -1,0 +1,68 @@
+{
+  "id": 403918357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-67.839085,46.772796,-67.839085,46.772796",
+    "geom:latitude":46.772796,
+    "geom:longitude":-67.839085,
+    "iso:country":"US",
+    "sg:address":"22 Green St",
+    "sg:city":"Fort Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 476 8331",
+    "sg:postcode":"04742",
+    "sg:province":"ME",
+    "sg:tags":[
+        "automobile",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948901,
+        102081161,
+        85843087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_255DG9zOAifyXh8XwpEWQy_46.772796_-67.839085@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73de71f6e4785493261118c08323b3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85948901,
+            "neighbourhood_id":85843087,
+            "region_id":85688769,
+            "venue_id":403918357
+        }
+    ],
+    "wof:id":403918357,
+    "wof:lastmodified":1449055514,
+    "wof:name":"Al's Automotive",
+    "wof:parent_id":85843087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "diagnostic"
+    ]
+},
+  "bbox": [-67.839085,46.772796,-67.839085,46.772796],
+  "geometry": {"coordinates":[-67.839085,46.772796],"type":"Point"}
+}

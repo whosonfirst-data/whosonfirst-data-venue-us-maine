@@ -1,0 +1,68 @@
+{
+  "id": 403899239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.01078,46.848456,-68.01078,46.848456",
+    "geom:latitude":46.848456,
+    "geom:longitude":-68.01078,
+    "iso:country":"US",
+    "sg:address":"501 Main St",
+    "sg:city":"Caribou",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 498 6601",
+    "sg:postcode":"04736",
+    "sg:province":"ME",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948901,
+        102081161,
+        85843087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g0PgkzZ6YxFemlSOfgONT_46.848456_-68.010780@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15d93db17f4e8e545308a8423baa6d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85948901,
+            "neighbourhood_id":85843087,
+            "region_id":85688769,
+            "venue_id":403899239
+        }
+    ],
+    "wof:id":403899239,
+    "wof:lastmodified":1449055879,
+    "wof:name":"Corbin Auto Electric",
+    "wof:parent_id":85843087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [-68.01078,46.848456,-68.01078,46.848456],
+  "geometry": {"coordinates":[-68.01078,46.848456],"type":"Point"}
+}

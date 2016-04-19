@@ -1,0 +1,66 @@
+{
+  "id": 403917845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.773835,44.802207,-68.773835,44.802207",
+    "geom:latitude":44.802207,
+    "geom:longitude":-68.773835,
+    "iso:country":"US",
+    "sg:address":"35 Court St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 7384",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JEtOegvzgY3sTir9kKDG2_44.802207_-68.773835@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54a1d18ec24eb73ec53c7e008af33ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":403917845
+        }
+    ],
+    "wof:id":403917845,
+    "wof:lastmodified":1449055788,
+    "wof:name":"Bangor Police Dept",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-68.773835,44.802207,-68.773835,44.802207],
+  "geometry": {"coordinates":[-68.773835,44.802207],"type":"Point"}
+}

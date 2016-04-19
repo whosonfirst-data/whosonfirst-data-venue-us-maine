@@ -1,0 +1,68 @@
+{
+  "id": 387721709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.471398,45.033314,-69.471398,45.033314",
+    "geom:latitude":45.033314,
+    "geom:longitude":-69.471398,
+    "iso:country":"US",
+    "sg:address":"38 Guilford Rd",
+    "sg:city":"Cambridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 277 4311",
+    "sg:postcode":"04923",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949081,
+        102087435,
+        85854823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01YlMsA3fsZ4dDqclGmEfY_45.033314_-69.471398@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f60168979b920c8d3cab1cc477af7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087435,
+            "locality_id":85949081,
+            "neighbourhood_id":85854823,
+            "region_id":85688769,
+            "venue_id":387721709
+        }
+    ],
+    "wof:id":387721709,
+    "wof:lastmodified":1449059909,
+    "wof:name":"Prime Pumps",
+    "wof:parent_id":85854823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-69.471398,45.033314,-69.471398,45.033314],
+  "geometry": {"coordinates":[-69.471398,45.033314],"type":"Point"}
+}

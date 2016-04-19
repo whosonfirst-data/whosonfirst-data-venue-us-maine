@@ -1,0 +1,68 @@
+{
+  "id": 403953065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.283786,43.680514,-70.283786,43.680514",
+    "geom:latitude":43.680514,
+    "geom:longitude":-70.283786,
+    "iso:country":"US",
+    "sg:address":"99 Wellington Rd",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 780 1919",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85880019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fygBxO7jHRsVR17fX529U_43.680514_-70.283786@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1761b64059244c2ee0f1d8b656d3289",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880019,
+            "region_id":85688769,
+            "venue_id":403953065
+        }
+    ],
+    "wof:id":403953065,
+    "wof:lastmodified":1449055523,
+    "wof:name":"EMI Office",
+    "wof:parent_id":85880019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-70.283786,43.680514,-70.283786,43.680514],
+  "geometry": {"coordinates":[-70.283786,43.680514],"type":"Point"}
+}

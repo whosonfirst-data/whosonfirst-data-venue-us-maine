@@ -1,0 +1,66 @@
+{
+  "id": 404168593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.632649,44.556763,-69.632649,44.556763",
+    "geom:latitude":44.556763,
+    "geom:longitude":-69.632649,
+    "iso:country":"US",
+    "sg:address":"13 Sanger Ave",
+    "sg:city":"Waterville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 873 4232",
+    "sg:postcode":"04901",
+    "sg:province":"ME",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.harryjsmithco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948869,
+        102087461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v9CXREFI6iyhTb7DgKt1E_44.556763_-69.632649@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5662386e8ec7615589ae270dc04f036",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948869,
+            "neighbourhood_id":-1,
+            "region_id":85688769,
+            "venue_id":404168593
+        }
+    ],
+    "wof:id":404168593,
+    "wof:lastmodified":1449039749,
+    "wof:name":"Harry J Smith & Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-69.632649,44.556763,-69.632649,44.556763],
+  "geometry": {"coordinates":[-69.632649,44.556763],"type":"Point"}
+}

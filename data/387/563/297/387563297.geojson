@@ -1,0 +1,68 @@
+{
+  "id": 387563297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.740442,44.826803,-68.740442,44.826803",
+    "geom:latitude":44.826803,
+    "geom:longitude":-68.740442,
+    "iso:country":"US",
+    "sg:address":"403 Hogan Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 941 1358",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85851073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47o4XP4z94UE7OYndHNKZu_44.826803_-68.740442@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d942c426bfe04e8175268025dee3757",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":387563297
+        }
+    ],
+    "wof:id":387563297,
+    "wof:lastmodified":1449056176,
+    "wof:name":"Darling's Rent-A-Car",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [-68.740442,44.826803,-68.740442,44.826803],
+  "geometry": {"coordinates":[-68.740442,44.826803],"type":"Point"}
+}

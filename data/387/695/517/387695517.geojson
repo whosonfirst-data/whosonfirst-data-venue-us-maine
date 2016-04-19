@@ -1,0 +1,66 @@
+{
+  "id": 387695517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.329634,47.356291,-68.329634,47.356291",
+    "geom:latitude":47.356291,
+    "geom:longitude":-68.329634,
+    "iso:country":"US",
+    "sg:address":"554 Main St",
+    "sg:city":"Madawaska",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 728 3896",
+    "sg:postcode":"04756",
+    "sg:province":"ME",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eA76b9Ri6emDC2dYFwN7s_47.356291_-68.329634@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0e10d80d9b3184a313e5c0b284c3512",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":387695517
+        }
+    ],
+    "wof:id":387695517,
+    "wof:lastmodified":1449057548,
+    "wof:name":"Bob's Neighborhood Store",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [-68.329634,47.356291,-68.329634,47.356291],
+  "geometry": {"coordinates":[-68.329634,47.356291],"type":"Point"}
+}

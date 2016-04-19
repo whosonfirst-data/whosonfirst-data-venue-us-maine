@@ -1,0 +1,68 @@
+{
+  "id": 404043101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.414357,44.548438,-68.414357,44.548438",
+    "geom:latitude":44.548438,
+    "geom:longitude":-68.414357,
+    "iso:country":"US",
+    "sg:address":"50 Union St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 664 5375",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948891,
+        102081201,
+        85817861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n2rp4m12MszPJvGpICgMM_44.548438_-68.414357@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e3e60de7449ab968416d845fdcd7f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081201,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":404043101
+        }
+    ],
+    "wof:id":404043101,
+    "wof:lastmodified":1449040006,
+    "wof:name":"Downeast Neurology",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-68.414357,44.548438,-68.414357,44.548438],
+  "geometry": {"coordinates":[-68.414357,44.548438],"type":"Point"}
+}

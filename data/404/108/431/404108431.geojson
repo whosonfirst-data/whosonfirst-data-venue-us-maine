@@ -1,0 +1,68 @@
+{
+  "id": 404108431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.641291,44.921863,-68.641291,44.921863",
+    "geom:latitude":44.921863,
+    "geom:longitude":-68.641291,
+    "iso:country":"US",
+    "sg:address":"461 Main St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 0586",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eAkOIwJYHYJ5cZYGCQYmN_44.921863_-68.641291@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"465a9c87c41d956dedbc8b7c6e34b8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":404108431
+        }
+    ],
+    "wof:id":404108431,
+    "wof:lastmodified":1449039105,
+    "wof:name":"Main Street Garage",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-68.641291,44.921863,-68.641291,44.921863],
+  "geometry": {"coordinates":[-68.641291,44.921863],"type":"Point"}
+}

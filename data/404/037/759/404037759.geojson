@@ -1,0 +1,68 @@
+{
+  "id": 404037759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.632074,44.91177,-68.632074,44.91177",
+    "geom:latitude":44.91177,
+    "geom:longitude":-68.632074,
+    "iso:country":"US",
+    "sg:address":"129 Main Rd",
+    "sg:city":"Abbot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 876 2995",
+    "sg:postcode":"04411",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U7UzUfD0LHEnymMAKYis4_44.911770_-68.632074@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29e257d5efd50b61ab39be7825a24c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":404037759
+        }
+    ],
+    "wof:id":404037759,
+    "wof:lastmodified":1449040344,
+    "wof:name":"Harry's Garage",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-68.632074,44.91177,-68.632074,44.91177],
+  "geometry": {"coordinates":[-68.632074,44.91177],"type":"Point"}
+}

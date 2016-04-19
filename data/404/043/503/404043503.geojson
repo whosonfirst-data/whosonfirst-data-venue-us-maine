@@ -1,0 +1,72 @@
+{
+  "id": 404043503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.774016,44.805251,-68.774016,44.805251",
+    "geom:latitude":44.805251,
+    "geom:longitude":-68.774016,
+    "iso:country":"US",
+    "sg:address":"352 Harlow St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 3391",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "hosp",
+        "ex",
+        "psychiatric",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LeqrL9qPaXbEqLx6kFJmi_44.805251_-68.774016@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e971b63d06f44002bd391a2541a564bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":404043503
+        }
+    ],
+    "wof:id":404043503,
+    "wof:lastmodified":1449040006,
+    "wof:name":"Bangor Veterans Ctr",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hosp",
+        "ex",
+        "psychiatric",
+        "government"
+    ]
+},
+  "bbox": [-68.774016,44.805251,-68.774016,44.805251],
+  "geometry": {"coordinates":[-68.774016,44.805251],"type":"Point"}
+}

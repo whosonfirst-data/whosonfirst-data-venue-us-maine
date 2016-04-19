@@ -1,0 +1,68 @@
+{
+  "id": 404073345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.758963,44.806206,-68.758963,44.806206",
+    "geom:latitude":44.806206,
+    "geom:longitude":-68.758963,
+    "iso:country":"US",
+    "sg:address":"277 State St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 990 1615",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vqF2lUHRC3ujjlseFTycr_44.806206_-68.758963@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f8e4e85f9f0acc6044b23dda85b644f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":404073345
+        }
+    ],
+    "wof:id":404073345,
+    "wof:lastmodified":1449039176,
+    "wof:name":"Joseph Benoit MD",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-68.758963,44.806206,-68.758963,44.806206],
+  "geometry": {"coordinates":[-68.758963,44.806206],"type":"Point"}
+}

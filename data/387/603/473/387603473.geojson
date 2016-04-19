@@ -1,0 +1,68 @@
+{
+  "id": 387603473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.774167,44.314946,-69.774167,44.314946",
+    "geom:latitude":44.314946,
+    "geom:longitude":-69.774167,
+    "iso:country":"US",
+    "sg:address":"287 Water St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 622 1110",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LlNKpGleg2TlOqPkH1O64_44.314946_-69.774167@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e9bba91f0b4d0fa7537f14c553621c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":387603473
+        }
+    ],
+    "wof:id":387603473,
+    "wof:lastmodified":1449059337,
+    "wof:name":"Java Joe's Cafe",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [-69.774167,44.314946,-69.774167,44.314946],
+  "geometry": {"coordinates":[-69.774167,44.314946],"type":"Point"}
+}

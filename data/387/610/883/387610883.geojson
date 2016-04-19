@@ -1,0 +1,66 @@
+{
+  "id": 387610883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.465589,43.881549,-70.465589,43.881549",
+    "geom:latitude":43.881549,
+    "geom:longitude":-70.465589,
+    "iso:country":"US",
+    "sg:address":"1237 Roosevelt Trl",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 655 4641",
+    "sg:postcode":"04071",
+    "sg:province":"ME",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948999,
+        102087463,
+        85838179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pkrsOCtuPhdjX5PcSn7o2_43.881549_-70.465589@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b758d61abe1932da7dc26c12aaafc8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948999,
+            "neighbourhood_id":85838179,
+            "region_id":85688769,
+            "venue_id":387610883
+        }
+    ],
+    "wof:id":387610883,
+    "wof:lastmodified":1449059861,
+    "wof:name":"Raymond Food Market",
+    "wof:parent_id":85838179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-70.465589,43.881549,-70.465589,43.881549],
+  "geometry": {"coordinates":[-70.465589,43.881549],"type":"Point"}
+}

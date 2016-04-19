@@ -1,0 +1,68 @@
+{
+  "id": 387652933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.623153,43.851123,-69.623153,43.851123",
+    "geom:latitude":43.851123,
+    "geom:longitude":-69.623153,
+    "iso:country":"US",
+    "sg:address":"23 Atlantic Ave",
+    "sg:city":"Boothbay Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 633 2969",
+    "sg:postcode":"04538",
+    "sg:province":"ME",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948955,
+        102087447,
+        85835605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oJBFs0t1MXrc5LwIoDiUI_43.851123_-69.623153@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d1eb20205727809aee92eb60d7d0e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087447,
+            "locality_id":85948955,
+            "neighbourhood_id":85835605,
+            "region_id":85688769,
+            "venue_id":387652933
+        }
+    ],
+    "wof:id":387652933,
+    "wof:lastmodified":1449058561,
+    "wof:name":"Boothbay Harbor Electric",
+    "wof:parent_id":85835605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-69.623153,43.851123,-69.623153,43.851123],
+  "geometry": {"coordinates":[-69.623153,43.851123],"type":"Point"}
+}

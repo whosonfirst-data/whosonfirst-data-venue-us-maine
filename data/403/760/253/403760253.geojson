@@ -1,0 +1,68 @@
+{
+  "id": 403760253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.581707,47.253425,-68.581707,47.253425",
+    "geom:latitude":47.253425,
+    "geom:longitude":-68.581707,
+    "iso:country":"US",
+    "sg:address":"67 Market St",
+    "sg:city":"Fort Kent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 834 5453",
+    "sg:postcode":"04743",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rBiZnUiGMtRh0Jz6LuHRt_47.253425_-68.581707@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08ac2c9267e53c274ed87594cb525cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":403760253
+        }
+    ],
+    "wof:id":403760253,
+    "wof:lastmodified":1449055896,
+    "wof:name":"Twin's Service Station Inc",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-68.581707,47.253425,-68.581707,47.253425],
+  "geometry": {"coordinates":[-68.581707,47.253425],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 403771299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.420214,43.81142,-70.420214,43.81142",
+    "geom:latitude":43.81142,
+    "geom:longitude":-70.420214,
+    "iso:country":"US",
+    "sg:address":"385 Roosevelt Trl",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 892 1212",
+    "sg:postcode":"04062",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948999,
+        102087463,
+        85838179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RWdQtRX8YIlxmc5ApESUT_43.811420_-70.420214@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cedf30559736a3d60805e39a37081246",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948999,
+            "neighbourhood_id":85838179,
+            "region_id":85688769,
+            "venue_id":403771299
+        }
+    ],
+    "wof:id":403771299,
+    "wof:lastmodified":1449055352,
+    "wof:name":"Windham Automotive",
+    "wof:parent_id":85838179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.420214,43.81142,-70.420214,43.81142],
+  "geometry": {"coordinates":[-70.420214,43.81142],"type":"Point"}
+}

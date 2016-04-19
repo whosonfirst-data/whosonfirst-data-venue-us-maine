@@ -1,0 +1,69 @@
+{
+  "id": 387785791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.216225,44.100016,-70.216225,44.100016",
+    "geom:latitude":44.100016,
+    "geom:longitude":-70.216225,
+    "iso:country":"US",
+    "sg:address":"249 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 783 9653",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.wolfeye.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948885,
+        102087457,
+        85836549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39C8GPL04UVTXtJNdpwrj3_44.100016_-70.216225@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61c1dbecb21148cde721fec635191efd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":387785791
+        }
+    ],
+    "wof:id":387785791,
+    "wof:lastmodified":1449059272,
+    "wof:name":"Wolf Eye Assoc",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.216225,44.100016,-70.216225,44.100016],
+  "geometry": {"coordinates":[-70.216225,44.100016],"type":"Point"}
+}

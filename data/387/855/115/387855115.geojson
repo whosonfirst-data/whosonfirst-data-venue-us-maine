@@ -1,0 +1,68 @@
+{
+  "id": 387855115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.783411,44.783568,-68.783411,44.783568",
+    "geom:latitude":44.783568,
+    "geom:longitude":-68.783411,
+    "iso:country":"US",
+    "sg:address":"59 Thatcher St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 989 4700",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aKKhIhr4nc0m2rbSDuEjT_44.783568_-68.783411@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a30fc9c23bef35e0b3b7bd6a9cb30ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":387855115
+        }
+    ],
+    "wof:id":387855115,
+    "wof:lastmodified":1449058908,
+    "wof:name":"Scott's Electric",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-68.783411,44.783568,-68.783411,44.783568],
+  "geometry": {"coordinates":[-68.783411,44.783568],"type":"Point"}
+}

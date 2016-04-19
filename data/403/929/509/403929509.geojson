@@ -1,0 +1,78 @@
+{
+  "id": 403929509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.298525,43.688984,-70.298525,43.688984",
+    "geom:latitude":43.688984,
+    "geom:longitude":-70.298525,
+    "iso:country":"US",
+    "sg:address":"66 Warren Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 591 6500",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85813999,
+        85835305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a1LVgzqdrhUXsmK1lyv7e_43.688984_-70.298525@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b92a56b905442b06d2efdf69bc51dc6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85813999,
+            "region_id":85688769,
+            "venue_id":403929509
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85835305,
+            "region_id":85688769,
+            "venue_id":403929509
+        }
+    ],
+    "wof:id":403929509,
+    "wof:lastmodified":1449055135,
+    "wof:name":"Sci's Car Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.298525,43.688984,-70.298525,43.688984],
+  "geometry": {"coordinates":[-70.298525,43.688984],"type":"Point"}
+}

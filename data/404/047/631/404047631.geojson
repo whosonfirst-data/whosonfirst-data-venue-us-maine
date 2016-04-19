@@ -1,0 +1,66 @@
+{
+  "id": 404047631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.258929,43.659999,-70.258929,43.659999",
+    "geom:latitude":43.659999,
+    "geom:longitude":-70.258929,
+    "iso:country":"US",
+    "sg:address":"41 Chestnut St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 712 4850",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85880031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nBHmEQAT3yolp08cMHdJa_43.659999_-70.258929@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6a767c1f2606b9fc90c415caf0651af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880031,
+            "region_id":85688769,
+            "venue_id":404047631
+        }
+    ],
+    "wof:id":404047631,
+    "wof:lastmodified":1449039905,
+    "wof:name":"A Maine Taxi & Livery Svc",
+    "wof:parent_id":85880031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-70.258929,43.659999,-70.258929,43.659999],
+  "geometry": {"coordinates":[-70.258929,43.659999],"type":"Point"}
+}

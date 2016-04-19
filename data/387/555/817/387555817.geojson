@@ -1,0 +1,68 @@
+{
+  "id": 387555817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.274911,43.656286,-70.274911,43.656286",
+    "geom:latitude":43.656286,
+    "geom:longitude":-70.274911,
+    "iso:country":"US",
+    "sg:address":"205 Park Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 773 1930",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85880027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PTdlU6sNDmWTXiHOpivHJ_43.656286_-70.274911@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75bb2dcb3846f155eea27a677c620a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880027,
+            "region_id":85688769,
+            "venue_id":387555817
+        }
+    ],
+    "wof:id":387555817,
+    "wof:lastmodified":1449059384,
+    "wof:name":"Hamilton's Service Station",
+    "wof:parent_id":85880027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.274911,43.656286,-70.274911,43.656286],
+  "geometry": {"coordinates":[-70.274911,43.656286],"type":"Point"}
+}

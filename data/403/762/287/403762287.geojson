@@ -1,0 +1,66 @@
+{
+  "id": 403762287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-67.279762,45.187771,-67.279762,45.187771",
+    "geom:latitude":45.187771,
+    "geom:longitude":-67.279762,
+    "iso:country":"US",
+    "sg:address":"13 Lowell St",
+    "sg:city":"Calais",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 454 3609",
+    "sg:postcode":"04619",
+    "sg:province":"ME",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948871,
+        102081143,
+        85857599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xS4IVv7tDJD8EJn4f3wxK_45.187771_-67.279762@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f82978089f8937c44329c7d8d2ea1392",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081143,
+            "locality_id":85948871,
+            "neighbourhood_id":85857599,
+            "region_id":85688769,
+            "venue_id":403762287
+        }
+    ],
+    "wof:id":403762287,
+    "wof:lastmodified":1449055555,
+    "wof:name":"Gary's Taxi",
+    "wof:parent_id":85857599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-67.279762,45.187771,-67.279762,45.187771],
+  "geometry": {"coordinates":[-67.279762,45.187771],"type":"Point"}
+}

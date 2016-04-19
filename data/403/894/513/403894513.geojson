@@ -1,0 +1,68 @@
+{
+  "id": 403894513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.765801,44.56895,-68.765801,44.56895",
+    "geom:latitude":44.56895,
+    "geom:longitude":-68.765801,
+    "iso:country":"US",
+    "sg:address":"11 Gross Point Rd",
+    "sg:city":"Orland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 469 3614",
+    "sg:postcode":"04472",
+    "sg:province":"ME",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949087,
+        102081201,
+        85843193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ATwjQrSTgIoCIWpKyADhj_44.568950_-68.765801@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5777e311f03e9f424fa3df067fc36417",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081201,
+            "locality_id":85949087,
+            "neighbourhood_id":85843193,
+            "region_id":85688769,
+            "venue_id":403894513
+        }
+    ],
+    "wof:id":403894513,
+    "wof:lastmodified":1449055174,
+    "wof:name":"Bucksport Veterinary Hospital",
+    "wof:parent_id":85843193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [-68.765801,44.56895,-68.765801,44.56895],
+  "geometry": {"coordinates":[-68.765801,44.56895],"type":"Point"}
+}

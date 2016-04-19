@@ -1,0 +1,68 @@
+{
+  "id": 404163971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.32034,43.675764,-70.32034,43.675764",
+    "geom:latitude":43.675764,
+    "geom:longitude":-70.32034,
+    "iso:country":"US",
+    "sg:address":"21 Popham St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 773 5697",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948881,
+        102087463,
+        85836343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ufaNOdrpX0ox2kH2eGhQH_43.675764_-70.320340@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9bdb16873237f0e613c19dcdb7fa8cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948881,
+            "neighbourhood_id":85836343,
+            "region_id":85688769,
+            "venue_id":404163971
+        }
+    ],
+    "wof:id":404163971,
+    "wof:lastmodified":1449040305,
+    "wof:name":"Portland Housing Authority",
+    "wof:parent_id":85836343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [-70.32034,43.675764,-70.32034,43.675764],
+  "geometry": {"coordinates":[-70.32034,43.675764],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 404095537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.423915,44.544236,-68.423915,44.544236",
+    "geom:latitude":44.544236,
+    "geom:longitude":-68.423915,
+    "iso:country":"US",
+    "sg:address":"24 School St",
+    "sg:city":"Milbridge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 546 2391",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948891,
+        102081201,
+        85817861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43UrntU4khAR7IA78D8NlE_44.544236_-68.423915@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"617f14b7d9e9560943e119d31572e184",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081201,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":404095537
+        }
+    ],
+    "wof:id":404095537,
+    "wof:lastmodified":1449039699,
+    "wof:name":"Milbridge Medical Ctr",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-68.423915,44.544236,-68.423915,44.544236],
+  "geometry": {"coordinates":[-68.423915,44.544236],"type":"Point"}
+}

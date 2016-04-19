@@ -1,0 +1,68 @@
+{
+  "id": 387960269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-67.266569,45.179447,-67.266569,45.179447",
+    "geom:latitude":45.179447,
+    "geom:longitude":-67.266569,
+    "iso:country":"US",
+    "sg:address":"5 Palmer Ln",
+    "sg:city":"Calais",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 454 8195",
+    "sg:postcode":"04619",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948871,
+        102081143,
+        85857599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SCLm5fCHXrEz5dxNyhjvM_45.179447_-67.266569@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a3663b995a6dff08d1d77578750ab08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081143,
+            "locality_id":85948871,
+            "neighbourhood_id":85857599,
+            "region_id":85688769,
+            "venue_id":387960269
+        }
+    ],
+    "wof:id":387960269,
+    "wof:lastmodified":1449058846,
+    "wof:name":"St Croix Medical Group",
+    "wof:parent_id":85857599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-67.266569,45.179447,-67.266569,45.179447],
+  "geometry": {"coordinates":[-67.266569,45.179447],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387794237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.492224,43.478418,-70.492224,43.478418",
+    "geom:latitude":43.478418,
+    "geom:longitude":-70.492224,
+    "iso:country":"US",
+    "sg:address":"2 Medical Center Dr",
+    "sg:city":"Biddeford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 282 5509",
+    "sg:postcode":"04005",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948887,
+        102087449,
+        85819479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EkshqqJLZeS5sKKVwrYGu_43.478418_-70.492224@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1d83edc5bba2f7db0bdeedcdb516b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":387794237
+        }
+    ],
+    "wof:id":387794237,
+    "wof:lastmodified":1449057928,
+    "wof:name":"Prime Care Neurology",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.492224,43.478418,-70.492224,43.478418],
+  "geometry": {"coordinates":[-70.492224,43.478418],"type":"Point"}
+}

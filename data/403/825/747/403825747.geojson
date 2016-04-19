@@ -1,0 +1,66 @@
+{
+  "id": 403825747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.015653,44.42043,-69.015653,44.42043",
+    "geom:latitude":44.42043,
+    "geom:longitude":-69.015653,
+    "iso:country":"US",
+    "sg:address":"111 Miller St",
+    "sg:city":"Belfast",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 338 2420",
+    "sg:postcode":"04915",
+    "sg:province":"ME",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948905,
+        102087445,
+        85824361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dER3ISkd3BTjfJXTbWpN1_44.420430_-69.015653@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0fec4efe2d9adac394758bc045c86105",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087445,
+            "locality_id":85948905,
+            "neighbourhood_id":85824361,
+            "region_id":85688769,
+            "venue_id":403825747
+        }
+    ],
+    "wof:id":403825747,
+    "wof:lastmodified":1449054666,
+    "wof:name":"Belfast City Police Dept",
+    "wof:parent_id":85824361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-69.015653,44.42043,-69.015653,44.42043],
+  "geometry": {"coordinates":[-69.015653,44.42043],"type":"Point"}
+}

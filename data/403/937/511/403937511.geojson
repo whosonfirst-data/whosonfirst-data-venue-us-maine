@@ -1,0 +1,66 @@
+{
+  "id": 403937511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.312973,43.673785,-70.312973,43.673785",
+    "geom:latitude":43.673785,
+    "geom:longitude":-70.312973,
+    "iso:country":"US",
+    "sg:address":"32 Dennet St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 775 6990",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948881,
+        102087463,
+        85836343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WpxZdO9GKb3HPK8BvCiMA_43.673785_-70.312973@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22cc37abc52c0e268fdd378062d52afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948881,
+            "neighbourhood_id":85836343,
+            "region_id":85688769,
+            "venue_id":403937511
+        }
+    ],
+    "wof:id":403937511,
+    "wof:lastmodified":1449054893,
+    "wof:name":"Jetport Taxi Inc",
+    "wof:parent_id":85836343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-70.312973,43.673785,-70.312973,43.673785],
+  "geometry": {"coordinates":[-70.312973,43.673785],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387707757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.868532,43.289788,-70.868532,43.289788",
+    "geom:latitude":43.289788,
+    "geom:longitude":-70.868532,
+    "iso:country":"US",
+    "sg:address":"198 Pine Hill Rd",
+    "sg:city":"Berwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 698 1698",
+    "sg:postcode":"03901",
+    "sg:province":"ME",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949033,
+        102087449,
+        85892311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f8CoIddLR7XkXONUgo3pH_43.289788_-70.868532@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ab747e319e6243f84b645e6b8849538",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85949033,
+            "neighbourhood_id":85892311,
+            "region_id":85688769,
+            "venue_id":387707757
+        }
+    ],
+    "wof:id":387707757,
+    "wof:lastmodified":1449059330,
+    "wof:name":"Pine Hill Electric",
+    "wof:parent_id":85892311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-70.868532,43.289788,-70.868532,43.289788],
+  "geometry": {"coordinates":[-70.868532,43.289788],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 403873771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.994689,44.412243,-68.994689,44.412243",
+    "geom:latitude":44.412243,
+    "geom:longitude":-68.994689,
+    "iso:country":"US",
+    "sg:address":"71 High St",
+    "sg:city":"Belfast",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 338 3333",
+    "sg:postcode":"04915",
+    "sg:province":"ME",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.republicanjournal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948905,
+        102087445,
+        85824361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J5s4f2W8s6VKeCLgr3O38_44.412243_-68.994689@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c1a84afa438e338529d28532e0c409a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087445,
+            "locality_id":85948905,
+            "neighbourhood_id":85824361,
+            "region_id":85688769,
+            "venue_id":403873771
+        }
+    ],
+    "wof:id":403873771,
+    "wof:lastmodified":1449054916,
+    "wof:name":"Republican Journal",
+    "wof:parent_id":85824361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [-68.994689,44.412243,-68.994689,44.412243],
+  "geometry": {"coordinates":[-68.994689,44.412243],"type":"Point"}
+}

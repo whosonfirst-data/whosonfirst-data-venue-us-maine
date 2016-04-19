@@ -1,0 +1,68 @@
+{
+  "id": 387748317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.501099,45.363379,-68.501099,45.363379",
+    "geom:latitude":45.363379,
+    "geom:longitude":-68.501099,
+    "iso:country":"US",
+    "sg:address":"12 E Broadway",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 794 8299",
+    "sg:postcode":"04457",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949107,
+        102080723,
+        85849837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_111i8IKMv0Wg8fbFJFieqm_45.363379_-68.501099@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3389e3e736114db49e5f957b673225f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85949107,
+            "neighbourhood_id":85849837,
+            "region_id":85688769,
+            "venue_id":387748317
+        }
+    ],
+    "wof:id":387748317,
+    "wof:lastmodified":1449058960,
+    "wof:name":"High Tech Auto",
+    "wof:parent_id":85849837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-68.501099,45.363379,-68.501099,45.363379],
+  "geometry": {"coordinates":[-68.501099,45.363379],"type":"Point"}
+}

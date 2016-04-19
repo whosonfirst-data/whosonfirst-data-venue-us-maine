@@ -1,0 +1,68 @@
+{
+  "id": 403900131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.824268,44.78073,-68.824268,44.78073",
+    "geom:latitude":44.78073,
+    "geom:longitude":-68.824268,
+    "iso:country":"US",
+    "sg:address":"977 Odlin Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 8664",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85855195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gc7CtNbDIXuQHPfKhLqog_44.780730_-68.824268@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd88288f8ad3a8273fd8aa3a6fd4b546",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85855195,
+            "region_id":85688769,
+            "venue_id":403900131
+        }
+    ],
+    "wof:id":403900131,
+    "wof:lastmodified":1449055208,
+    "wof:name":"Precision Paving",
+    "wof:parent_id":85855195,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [-68.824268,44.78073,-68.824268,44.78073],
+  "geometry": {"coordinates":[-68.824268,44.78073],"type":"Point"}
+}

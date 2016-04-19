@@ -1,0 +1,67 @@
+{
+  "id": 404000229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.18793,44.101623,-70.18793,44.101623",
+    "geom:latitude":44.101623,
+    "geom:longitude":-70.18793,
+    "iso:country":"US",
+    "sg:address":"525 Sabattus St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 783 2226",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "baker"
+    ],
+    "sg:website":"www.grantsbakery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948885,
+        102087457,
+        85836549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56l3aVptscc8DqRLiXR0R5_44.101623_-70.187930@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"167f185325eb268e6deaee233482b08e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":404000229
+        }
+    ],
+    "wof:id":404000229,
+    "wof:lastmodified":1449039209,
+    "wof:name":"Grant's Bakery",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [-70.18793,44.101623,-70.18793,44.101623],
+  "geometry": {"coordinates":[-70.18793,44.101623],"type":"Point"}
+}

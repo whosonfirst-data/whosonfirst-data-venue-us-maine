@@ -1,0 +1,76 @@
+{
+  "id": 387598789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.533931,44.552172,-70.533931,44.552172",
+    "geom:latitude":44.552172,
+    "geom:longitude":-70.533931,
+    "iso:country":"US",
+    "sg:address":"23 Brook St",
+    "sg:city":"Mexico",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 364 2960",
+    "sg:postcode":"04257",
+    "sg:province":"ME",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948977,
+        102087437,
+        85853959,
+        85844599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dlveCCJe1rPGG7SIxW9Zl_44.552172_-70.533931@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb9b96b5b3f03fe6928ce63ee4178bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087437,
+            "locality_id":85948977,
+            "neighbourhood_id":85853959,
+            "region_id":85688769,
+            "venue_id":387598789
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087437,
+            "locality_id":85948977,
+            "neighbourhood_id":85844599,
+            "region_id":85688769,
+            "venue_id":387598789
+        }
+    ],
+    "wof:id":387598789,
+    "wof:lastmodified":1449056313,
+    "wof:name":"Dick's Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [-70.533931,44.552172,-70.533931,44.552172],
+  "geometry": {"coordinates":[-70.533931,44.552172],"type":"Point"}
+}

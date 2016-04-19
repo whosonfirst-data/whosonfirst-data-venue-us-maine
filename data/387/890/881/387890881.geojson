@@ -1,0 +1,76 @@
+{
+  "id": 387890881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.548288,44.544532,-70.548288,44.544532",
+    "geom:latitude":44.544532,
+    "geom:longitude":-70.548288,
+    "iso:country":"US",
+    "sg:address":"10 Knox St",
+    "sg:city":"Rumford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 364 2280",
+    "sg:postcode":"04276",
+    "sg:province":"ME",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948977,
+        102087437,
+        85853959,
+        85844599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33sWXEuJUSLgldqkJKRYUW_44.544532_-70.548288@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9402635e80e4de4ac0ad271b8a4f51be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087437,
+            "locality_id":85948977,
+            "neighbourhood_id":85853959,
+            "region_id":85688769,
+            "venue_id":387890881
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087437,
+            "locality_id":85948977,
+            "neighbourhood_id":85844599,
+            "region_id":85688769,
+            "venue_id":387890881
+        }
+    ],
+    "wof:id":387890881,
+    "wof:lastmodified":1449056938,
+    "wof:name":"Bruce A Ross DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-70.548288,44.544532,-70.548288,44.544532],
+  "geometry": {"coordinates":[-70.548288,44.544532],"type":"Point"}
+}

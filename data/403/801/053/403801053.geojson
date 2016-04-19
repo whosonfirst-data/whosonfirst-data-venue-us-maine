@@ -1,0 +1,68 @@
+{
+  "id": 403801053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.515926,43.467719,-70.515926,43.467719",
+    "geom:latitude":43.467719,
+    "geom:longitude":-70.515926,
+    "iso:country":"US",
+    "sg:address":"148 Old Alfred Rd",
+    "sg:city":"Kennebunkport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 284 6087",
+    "sg:postcode":"04046",
+    "sg:province":"ME",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948887,
+        102087449,
+        85819479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76iHLdfDuTHVzH7KPiePlE_43.467719_-70.515926@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90bb39cd734f70e7d527c145ba0ce416",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":403801053
+        }
+    ],
+    "wof:id":403801053,
+    "wof:lastmodified":1449055739,
+    "wof:name":"Peter Nadeau",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-70.515926,43.467719,-70.515926,43.467719],
+  "geometry": {"coordinates":[-70.515926,43.467719],"type":"Point"}
+}

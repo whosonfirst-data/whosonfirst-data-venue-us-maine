@@ -1,0 +1,67 @@
+{
+  "id": 387901271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.086515,44.153205,-69.086515,44.153205",
+    "geom:latitude":44.153205,
+    "geom:longitude":-69.086515,
+    "iso:country":"US",
+    "sg:address":"725 Commercial St",
+    "sg:city":"Rockport",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 593 9395",
+    "sg:postcode":"04856",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087453,
+        85845529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31KEFQKqPEtmU12sF2bjZM_44.153205_-69.086515@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"102a6beab4e48a1a867b050dadb053fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087453,
+            "locality_id":-1,
+            "neighbourhood_id":85845529,
+            "region_id":85688769,
+            "venue_id":387901271
+        }
+    ],
+    "wof:id":387901271,
+    "wof:lastmodified":1449057703,
+    "wof:name":"Community Oxygen Svc",
+    "wof:parent_id":85845529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-69.086515,44.153205,-69.086515,44.153205],
+  "geometry": {"coordinates":[-69.086515,44.153205],"type":"Point"}
+}

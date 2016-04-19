@@ -1,0 +1,70 @@
+{
+  "id": 387741219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.773167,44.798064,-68.773167,44.798064",
+    "geom:latitude":44.798064,
+    "geom:longitude":-68.773167,
+    "iso:country":"US",
+    "sg:address":"258 Main St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 7242",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eRHM6sWJHr8M8tsCUUe88_44.798064_-68.773167@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f0770e0eb8bcde14681fd9025e4e9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":387741219
+        }
+    ],
+    "wof:id":387741219,
+    "wof:lastmodified":1449056322,
+    "wof:name":"Bangor Radiator Shop",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [-68.773167,44.798064,-68.773167,44.798064],
+  "geometry": {"coordinates":[-68.773167,44.798064],"type":"Point"}
+}

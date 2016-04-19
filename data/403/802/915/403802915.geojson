@@ -1,0 +1,68 @@
+{
+  "id": 403802915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.74183,44.845697,-68.74183,44.845697",
+    "geom:latitude":44.845697,
+    "geom:longitude":-68.74183,
+    "iso:country":"US",
+    "sg:address":"78 Ridgewood Dr",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 0768",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85851073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mPnUkr3I5CBmqw65fv8Oj_44.845697_-68.741830@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e10f5029ab3a8b6268b940afef7bf227",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":403802915
+        }
+    ],
+    "wof:id":403802915,
+    "wof:lastmodified":1449055718,
+    "wof:name":"Independent Medical Assoc",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-68.74183,44.845697,-68.74183,44.845697],
+  "geometry": {"coordinates":[-68.74183,44.845697],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 404097033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-67.280836,45.188877,-67.280836,45.188877",
+    "geom:latitude":45.188877,
+    "geom:longitude":-67.280836,
+    "iso:country":"US",
+    "sg:address":"98 Main St",
+    "sg:city":"Blue Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 374 5575",
+    "sg:postcode":"04619",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948871,
+        102081143,
+        85857599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OQkgQxP7w0tLTX5dVNQLr_45.188877_-67.280836@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a2b7ebaddbf7bb924b3f1b0d752c79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081143,
+            "locality_id":85948871,
+            "neighbourhood_id":85857599,
+            "region_id":85688769,
+            "venue_id":404097033
+        }
+    ],
+    "wof:id":404097033,
+    "wof:lastmodified":1449039504,
+    "wof:name":"Blue Hill Garage",
+    "wof:parent_id":85857599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-67.280836,45.188877,-67.280836,45.188877],
+  "geometry": {"coordinates":[-67.280836,45.188877],"type":"Point"}
+}

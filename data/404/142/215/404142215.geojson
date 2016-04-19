@@ -1,0 +1,68 @@
+{
+  "id": 404142215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.420296,44.544335,-68.420296,44.544335",
+    "geom:latitude":44.544335,
+    "geom:longitude":-68.420296,
+    "iso:country":"US",
+    "sg:address":"65 Church St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 0290",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948891,
+        102081201,
+        85817861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ceOeZRHEmwCaugQicsHZ5_44.544335_-68.420296@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bedbdffa550ed1f961afa8b87405d8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081201,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":404142215
+        }
+    ],
+    "wof:id":404142215,
+    "wof:lastmodified":1449040047,
+    "wof:name":"Bay View Physical Therapy",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [-68.420296,44.544335,-68.420296,44.544335],
+  "geometry": {"coordinates":[-68.420296,44.544335],"type":"Point"}
+}

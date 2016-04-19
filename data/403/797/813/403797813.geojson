@@ -1,0 +1,65 @@
+{
+  "id": 403797813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.860875,44.324758,-69.860875,44.324758",
+    "geom:latitude":44.324758,
+    "geom:longitude":-69.860875,
+    "iso:country":"US",
+    "sg:address":"18 Readfield Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 622 5402",
+    "sg:postcode":"04351",
+    "sg:province":"ME",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087461,
+        85841121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WqASuPCjTdvcbA7do53Ae_44.324758_-69.860875@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8dcac0d1e00c71db9b1b6f21d239dc8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":-1,
+            "neighbourhood_id":85841121,
+            "region_id":85688769,
+            "venue_id":403797813
+        }
+    ],
+    "wof:id":403797813,
+    "wof:lastmodified":1449055836,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":85841121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-69.860875,44.324758,-69.860875,44.324758],
+  "geometry": {"coordinates":[-69.860875,44.324758],"type":"Point"}
+}

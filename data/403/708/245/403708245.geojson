@@ -1,0 +1,67 @@
+{
+  "id": 403708245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.513234,44.222421,-70.513234,44.222421",
+    "geom:latitude":44.222421,
+    "geom:longitude":-70.513234,
+    "iso:country":"US",
+    "sg:address":"35 Pine St",
+    "sg:city":"South Paris",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 744 0275",
+    "sg:postcode":"04281",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087437,
+        85868781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vHhGOzT40DY9JywK49r9b_44.222421_-70.513234@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c9c649d1c70cfade657662d9c495136d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087437,
+            "locality_id":-1,
+            "neighbourhood_id":85868781,
+            "region_id":85688769,
+            "venue_id":403708245
+        }
+    ],
+    "wof:id":403708245,
+    "wof:lastmodified":1449054846,
+    "wof:name":"Merchant's Bub Auto Repair",
+    "wof:parent_id":85868781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.513234,44.222421,-70.513234,44.222421],
+  "geometry": {"coordinates":[-70.513234,44.222421],"type":"Point"}
+}

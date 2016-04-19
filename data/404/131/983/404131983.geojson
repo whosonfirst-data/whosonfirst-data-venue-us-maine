@@ -1,0 +1,68 @@
+{
+  "id": 404131983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.27358,43.653369,-70.27358,43.653369",
+    "geom:latitude":43.653369,
+    "geom:longitude":-70.27358,
+    "iso:country":"US",
+    "sg:address":"66 Bramhall St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 5222",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85855397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xniD5qYcrewlNT9BrMEkF_43.653369_-70.273580@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec6ef1f0a1033eec070f4205b91523c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85855397,
+            "region_id":85688769,
+            "venue_id":404131983
+        }
+    ],
+    "wof:id":404131983,
+    "wof:lastmodified":1449039382,
+    "wof:name":"Theodore J Hallee MD",
+    "wof:parent_id":85855397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.27358,43.653369,-70.27358,43.653369],
+  "geometry": {"coordinates":[-70.27358,43.653369],"type":"Point"}
+}

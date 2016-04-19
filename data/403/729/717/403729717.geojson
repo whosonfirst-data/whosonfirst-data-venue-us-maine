@@ -1,0 +1,68 @@
+{
+  "id": 403729717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.249594,43.687239,-70.249594,43.687239",
+    "geom:latitude":43.687239,
+    "geom:longitude":-70.249594,
+    "iso:country":"US",
+    "sg:address":"331 Veranda St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 828 2402",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85816239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mWW9ltkRtDM1xfs9dOAWC_43.687239_-70.249594@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f7d90915462e5e8282b38bd8c842abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85816239,
+            "region_id":85688769,
+            "venue_id":403729717
+        }
+    ],
+    "wof:id":403729717,
+    "wof:lastmodified":1449055312,
+    "wof:name":"Martin's Point Health Care Ctr",
+    "wof:parent_id":85816239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.249594,43.687239,-70.249594,43.687239],
+  "geometry": {"coordinates":[-70.249594,43.687239],"type":"Point"}
+}

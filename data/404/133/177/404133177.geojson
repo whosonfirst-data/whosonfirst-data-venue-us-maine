@@ -1,0 +1,68 @@
+{
+  "id": 404133177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.332494,43.68331,-70.332494,43.68331",
+    "geom:latitude":43.68331,
+    "geom:longitude":-70.332494,
+    "iso:country":"US",
+    "sg:address":"2 Chabot St",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 857 9311",
+    "sg:postcode":"04092",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948881,
+        102087463,
+        85836343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17irynMgGZaPyYBKqSQ8sb_43.683310_-70.332494@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca58e91e88334f64b96ba6779afb36e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948881,
+            "neighbourhood_id":85836343,
+            "region_id":85688769,
+            "venue_id":404133177
+        }
+    ],
+    "wof:id":404133177,
+    "wof:lastmodified":1449040096,
+    "wof:name":"Maine Center For Healthcare",
+    "wof:parent_id":85836343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.332494,43.68331,-70.332494,43.68331],
+  "geometry": {"coordinates":[-70.332494,43.68331],"type":"Point"}
+}

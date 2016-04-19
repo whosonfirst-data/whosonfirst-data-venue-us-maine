@@ -1,0 +1,67 @@
+{
+  "id": 387903701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.871713,43.9119,-69.871713,43.9119",
+    "geom:latitude":43.9119,
+    "geom:longitude":-69.871713,
+    "iso:country":"US",
+    "sg:address":"433 Bath Rd",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 443 6207",
+    "sg:postcode":"04011",
+    "sg:province":"ME",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948985,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EuXZnBK46aCAO3mAlyRbf_43.911900_-69.871713@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d020a5d6ef489a45abb2f945f2e07ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948985,
+            "neighbourhood_id":-1,
+            "region_id":85688769,
+            "venue_id":387903701
+        }
+    ],
+    "wof:id":387903701,
+    "wof:lastmodified":1449056340,
+    "wof:name":"Coastal Trans Bus Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [-69.871713,43.9119,-69.871713,43.9119],
+  "geometry": {"coordinates":[-69.871713,43.9119],"type":"Point"}
+}

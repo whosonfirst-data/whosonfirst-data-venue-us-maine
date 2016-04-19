@@ -1,0 +1,68 @@
+{
+  "id": 403846073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.089323,44.014683,-70.089323,44.014683",
+    "geom:latitude":44.014683,
+    "geom:longitude":-70.089323,
+    "iso:country":"US",
+    "sg:address":"2 Bisbee St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 353 6721",
+    "sg:postcode":"04250",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949027,
+        102087457,
+        85806367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VtbLZXZQZ5tbslfA4IJ3u_44.014683_-70.089323@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec06ae231036b9c860e1154f739c9008",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85949027,
+            "neighbourhood_id":85806367,
+            "region_id":85688769,
+            "venue_id":403846073
+        }
+    ],
+    "wof:id":403846073,
+    "wof:lastmodified":1449055672,
+    "wof:name":"Lisbon Family Practice",
+    "wof:parent_id":85806367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.089323,44.014683,-70.089323,44.014683],
+  "geometry": {"coordinates":[-70.089323,44.014683],"type":"Point"}
+}

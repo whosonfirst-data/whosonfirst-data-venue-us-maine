@@ -1,0 +1,68 @@
+{
+  "id": 387767419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.273269,43.651629,-70.273269,43.651629",
+    "geom:latitude":43.651629,
+    "geom:longitude":-70.273269,
+    "iso:country":"US",
+    "sg:address":"216 Vaughan St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 871 2479",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85855397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39DbPBXqaSx2V5uzvvVAYn_43.651629_-70.273269@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f121ee0387aab439daf2799889d7afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85855397,
+            "region_id":85688769,
+            "venue_id":387767419
+        }
+    ],
+    "wof:id":387767419,
+    "wof:lastmodified":1449057186,
+    "wof:name":"Maine Medical Ctr",
+    "wof:parent_id":85855397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.273269,43.651629,-70.273269,43.651629],
+  "geometry": {"coordinates":[-70.273269,43.651629],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387842629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.24203,43.644968,-70.24203,43.644968",
+    "geom:latitude":43.644968,
+    "geom:longitude":-70.24203,
+    "iso:country":"US",
+    "sg:address":"10 Pierce St",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 767 1911",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948879,
+        102087463,
+        85867975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MSnk8iDlMVWstX5SrNhEM_43.644968_-70.242030@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"529391ceddb2d9fa7ee20a6fddb95218",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948879,
+            "neighbourhood_id":85867975,
+            "region_id":85688769,
+            "venue_id":387842629
+        }
+    ],
+    "wof:id":387842629,
+    "wof:lastmodified":1449056390,
+    "wof:name":"Vance & Sons Garage",
+    "wof:parent_id":85867975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.24203,43.644968,-70.24203,43.644968],
+  "geometry": {"coordinates":[-70.24203,43.644968],"type":"Point"}
+}

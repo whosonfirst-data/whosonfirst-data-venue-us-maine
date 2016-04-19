@@ -1,0 +1,67 @@
+{
+  "id": 387700663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.074189,43.890628,-70.074189,43.890628",
+    "geom:latitude":43.890628,
+    "geom:longitude":-70.074189,
+    "iso:country":"US",
+    "sg:address":"366 Main St",
+    "sg:city":"Waterboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 247 5900",
+    "sg:postcode":"04032",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087463,
+        85832875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JfPZH4ESlNxRddYAuh1Ws_43.890628_-70.074189@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f6654cba845a503afb7bc07fe8a7c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":-1,
+            "neighbourhood_id":85832875,
+            "region_id":85688769,
+            "venue_id":387700663
+        }
+    ],
+    "wof:id":387700663,
+    "wof:lastmodified":1449059585,
+    "wof:name":"Baker Automotive",
+    "wof:parent_id":85832875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.074189,43.890628,-70.074189,43.890628],
+  "geometry": {"coordinates":[-70.074189,43.890628],"type":"Point"}
+}

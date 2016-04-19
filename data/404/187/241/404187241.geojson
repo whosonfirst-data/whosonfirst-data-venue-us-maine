@@ -1,0 +1,68 @@
+{
+  "id": 404187241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.144393,43.81588,-70.144393,43.81588",
+    "geom:latitude":43.81588,
+    "geom:longitude":-70.144393,
+    "iso:country":"US",
+    "sg:address":"36 Old S Freeport Rd",
+    "sg:city":"Freeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 865 0341",
+    "sg:postcode":"04032",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949011,
+        102087463,
+        85812603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lTOzE0jxYbPHZkjnUiQ3A_43.815880_-70.144393@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b76eadda7486f41f65ca462396f9b88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85949011,
+            "neighbourhood_id":85812603,
+            "region_id":85688769,
+            "venue_id":404187241
+        }
+    ],
+    "wof:id":404187241,
+    "wof:lastmodified":1449039198,
+    "wof:name":"David M Johnson MD",
+    "wof:parent_id":85812603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.144393,43.81588,-70.144393,43.81588],
+  "geometry": {"coordinates":[-70.144393,43.81588],"type":"Point"}
+}

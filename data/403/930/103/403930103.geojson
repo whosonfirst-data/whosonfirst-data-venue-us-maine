@@ -1,0 +1,67 @@
+{
+  "id": 403930103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.150408,44.662434,-70.150408,44.662434",
+    "geom:latitude":44.662434,
+    "geom:longitude":-70.150408,
+    "iso:country":"US",
+    "sg:address":"3 Hill St",
+    "sg:city":"North Anson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 635 2080",
+    "sg:postcode":"04938",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948921,
+        102087433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6piPom4xPzBGJTgimwnQIu_44.662434_-70.150408@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bdbfb5d45e0d28da1e4afdd2bffc1795",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087433,
+            "locality_id":85948921,
+            "neighbourhood_id":-1,
+            "region_id":85688769,
+            "venue_id":403930103
+        }
+    ],
+    "wof:id":403930103,
+    "wof:lastmodified":1449055056,
+    "wof:name":"North Country Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.150408,44.662434,-70.150408,44.662434],
+  "geometry": {"coordinates":[-70.150408,44.662434],"type":"Point"}
+}

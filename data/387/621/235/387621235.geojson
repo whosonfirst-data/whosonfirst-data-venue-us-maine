@@ -1,0 +1,68 @@
+{
+  "id": 387621235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.225935,44.104233,-70.225935,44.104233",
+    "geom:latitude":44.104233,
+    "geom:longitude":-70.225935,
+    "iso:country":"US",
+    "sg:address":"90 Center St",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 782 3056",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948885,
+        102087457,
+        85836549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cAZYwGz845Xx1WZwf2BGU_44.104233_-70.225935@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9eb4b939eda2eb11e1c517cadbb3c76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":387621235
+        }
+    ],
+    "wof:id":387621235,
+    "wof:lastmodified":1449059464,
+    "wof:name":"Bear's Body Shop",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.225935,44.104233,-70.225935,44.104233],
+  "geometry": {"coordinates":[-70.225935,44.104233],"type":"Point"}
+}

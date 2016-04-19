@@ -1,0 +1,68 @@
+{
+  "id": 403951621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.220657,44.08663,-70.220657,44.08663",
+    "geom:latitude":44.08663,
+    "geom:longitude":-70.220657,
+    "iso:country":"US",
+    "sg:address":"60 2nd St",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 783 3333",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948885,
+        102087457,
+        85836549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7REwai18QMKsidJqF1YHg9_44.086630_-70.220657@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ab4d38d34dca6468f0711a617c7bff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":403951621
+        }
+    ],
+    "wof:id":403951621,
+    "wof:lastmodified":1449054674,
+    "wof:name":"Second Street Family Practice",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.220657,44.08663,-70.220657,44.08663],
+  "geometry": {"coordinates":[-70.220657,44.08663],"type":"Point"}
+}

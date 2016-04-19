@@ -1,0 +1,70 @@
+{
+  "id": 403754999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.773394,44.801445,-68.773394,44.801445",
+    "geom:latitude":44.801445,
+    "geom:longitude":-68.773394,
+    "iso:country":"US",
+    "sg:address":"85 Hammond St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 945 4921",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HDlDnLx8fc5d1zTZZVPcB_44.801445_-68.773394@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a3d1bfbdc88dd7fb82e7c9785918ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":403754999
+        }
+    ],
+    "wof:id":403754999,
+    "wof:lastmodified":1449055489,
+    "wof:name":"Penobscot Corrections-Jail",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [-68.773394,44.801445,-68.773394,44.801445],
+  "geometry": {"coordinates":[-68.773394,44.801445],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 403887167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.503153,45.365505,-68.503153,45.365505",
+    "geom:latitude":45.365505,
+    "geom:longitude":-68.503153,
+    "iso:country":"US",
+    "sg:address":"131 Main St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 794 2335",
+    "sg:postcode":"04457",
+    "sg:province":"ME",
+    "sg:tags":[
+        "exchanging",
+        "engine",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949107,
+        102080723,
+        85849837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PVnwZg0gW9PiGbFSHmZl0_45.365505_-68.503153@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"486b42fc6f1bd2c722d335449caba97a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85949107,
+            "neighbourhood_id":85849837,
+            "region_id":85688769,
+            "venue_id":403887167
+        }
+    ],
+    "wof:id":403887167,
+    "wof:lastmodified":1449055694,
+    "wof:name":"Mike's Auto Repair",
+    "wof:parent_id":85849837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchanging",
+        "engine",
+        "general"
+    ]
+},
+  "bbox": [-68.503153,45.365505,-68.503153,45.365505],
+  "geometry": {"coordinates":[-68.503153,45.365505],"type":"Point"}
+}

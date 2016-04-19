@@ -1,0 +1,67 @@
+{
+  "id": 404187223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.715322,44.054277,-70.715322,44.054277",
+    "geom:latitude":44.054277,
+    "geom:longitude":-70.715322,
+    "iso:country":"US",
+    "sg:address":"41 N High St",
+    "sg:city":"Bridgton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 647 5629",
+    "sg:postcode":"04009",
+    "sg:province":"ME",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087463,
+        85855247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vEyQJYmgRpkwbPaofP146_44.054277_-70.715322@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ba36f5cead648f958188f189edd24d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":-1,
+            "neighbourhood_id":85855247,
+            "region_id":85688769,
+            "venue_id":404187223
+        }
+    ],
+    "wof:id":404187223,
+    "wof:lastmodified":1449039196,
+    "wof:name":"Tri County Mental Health Servi",
+    "wof:parent_id":85855247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-70.715322,44.054277,-70.715322,44.054277],
+  "geometry": {"coordinates":[-70.715322,44.054277],"type":"Point"}
+}

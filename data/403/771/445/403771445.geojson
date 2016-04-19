@@ -1,0 +1,69 @@
+{
+  "id": 403771445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.985572,43.912498,-69.985572,43.912498",
+    "geom:latitude":43.912498,
+    "geom:longitude":-69.985572,
+    "iso:country":"US",
+    "sg:address":"144 Pleasant St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 725 0179",
+    "sg:postcode":"04011",
+    "sg:province":"ME",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948985,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rR2hjBBjPiaJOrfxB93fc_43.912498_-69.985572@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ffed820a39b444a71db5964dc1c0b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948985,
+            "neighbourhood_id":-1,
+            "region_id":85688769,
+            "venue_id":403771445
+        }
+    ],
+    "wof:id":403771445,
+    "wof:lastmodified":1449055350,
+    "wof:name":"Natural Pet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [-69.985572,43.912498,-69.985572,43.912498],
+  "geometry": {"coordinates":[-69.985572,43.912498],"type":"Point"}
+}

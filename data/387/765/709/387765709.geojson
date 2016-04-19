@@ -1,0 +1,69 @@
+{
+  "id": 387765709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.089046,44.073643,-70.089046,44.073643",
+    "geom:latitude":44.073643,
+    "geom:longitude":-70.089046,
+    "iso:country":"US",
+    "sg:address":"6 Dennis Ave",
+    "sg:city":"Leeds",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 524 5774",
+    "sg:postcode":"04280",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087457,
+        85830839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10cp4gWHsNQmQl84IcWqSP_44.073643_-70.089046@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16d95bd63d798c8db3c2fbe1629373d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":-1,
+            "neighbourhood_id":85830839,
+            "region_id":85688769,
+            "venue_id":387765709
+        }
+    ],
+    "wof:id":387765709,
+    "wof:lastmodified":1449058300,
+    "wof:name":"Roberts Radiator Svc",
+    "wof:parent_id":85830839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [-70.089046,44.073643,-70.089046,44.073643],
+  "geometry": {"coordinates":[-70.089046,44.073643],"type":"Point"}
+}

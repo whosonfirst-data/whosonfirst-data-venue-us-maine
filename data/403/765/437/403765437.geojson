@@ -1,0 +1,68 @@
+{
+  "id": 403765437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.79859,44.388769,-68.79859,44.388769",
+    "geom:latitude":44.388769,
+    "geom:longitude":-68.79859,
+    "iso:country":"US",
+    "sg:address":"15 Main St",
+    "sg:city":"Castine",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 326 9100",
+    "sg:postcode":"04421",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949093,
+        102081201,
+        85820091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o2HRaNku86cJZV3q4ZHfO_44.388769_-68.798590@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72adea956fcb7c16230f241861913501",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081201,
+            "locality_id":85949093,
+            "neighbourhood_id":85820091,
+            "region_id":85688769,
+            "venue_id":403765437
+        }
+    ],
+    "wof:id":403765437,
+    "wof:lastmodified":1449055403,
+    "wof:name":"Active Corp",
+    "wof:parent_id":85820091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-68.79859,44.388769,-68.79859,44.388769],
+  "geometry": {"coordinates":[-68.79859,44.388769],"type":"Point"}
+}

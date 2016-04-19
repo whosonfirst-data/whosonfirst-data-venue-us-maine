@@ -1,0 +1,76 @@
+{
+  "id": 403919373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.54571,44.543927,-70.54571,44.543927",
+    "geom:latitude":44.543927,
+    "geom:longitude":-70.54571,
+    "iso:country":"US",
+    "sg:address":"49 Congress St",
+    "sg:city":"Rumford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 364 7981",
+    "sg:postcode":"04276",
+    "sg:province":"ME",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948977,
+        102087437,
+        85853959,
+        85844599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WwsOz5xQhDOfDvo00FYmU_44.543927_-70.545710@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ac2e09bbaa856cf46fe3d6e4bde78d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087437,
+            "locality_id":85948977,
+            "neighbourhood_id":85853959,
+            "region_id":85688769,
+            "venue_id":403919373
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087437,
+            "locality_id":85948977,
+            "neighbourhood_id":85844599,
+            "region_id":85688769,
+            "venue_id":403919373
+        }
+    ],
+    "wof:id":403919373,
+    "wof:lastmodified":1449055639,
+    "wof:name":"Tri-County Mental Health Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [-70.54571,44.543927,-70.54571,44.543927],
+  "geometry": {"coordinates":[-70.54571,44.543927],"type":"Point"}
+}

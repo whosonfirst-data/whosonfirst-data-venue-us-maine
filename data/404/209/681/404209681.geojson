@@ -1,0 +1,66 @@
+{
+  "id": 404209681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.802393,44.847463,-68.802393,44.847463",
+    "geom:latitude":44.847463,
+    "geom:longitude":-68.802393,
+    "iso:country":"US",
+    "sg:address":"1391 Broadway",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 2281",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85815935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76x1T5qRdMBCg8gqysbyQK_44.847463_-68.802393@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e377f1de43b77147d391a0b5f5d2d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85815935,
+            "region_id":85688769,
+            "venue_id":404209681
+        }
+    ],
+    "wof:id":404209681,
+    "wof:lastmodified":1449040196,
+    "wof:name":"Broadway Veterinary Clinic",
+    "wof:parent_id":85815935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-68.802393,44.847463,-68.802393,44.847463],
+  "geometry": {"coordinates":[-68.802393,44.847463],"type":"Point"}
+}

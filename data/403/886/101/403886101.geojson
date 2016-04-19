@@ -1,0 +1,68 @@
+{
+  "id": 403886101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.781197,44.80855,-68.781197,44.80855",
+    "geom:latitude":44.80855,
+    "geom:longitude":-68.781197,
+    "iso:country":"US",
+    "sg:address":"82 Smith St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 0052",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jqFJffTT8mBYnYmflGXzZ_44.808550_-68.781197@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47b9fa59c6843a3cb1d0a491e9e494e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":403886101
+        }
+    ],
+    "wof:id":403886101,
+    "wof:lastmodified":1449055372,
+    "wof:name":"Surge Electric",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-68.781197,44.80855,-68.781197,44.80855],
+  "geometry": {"coordinates":[-68.781197,44.80855],"type":"Point"}
+}

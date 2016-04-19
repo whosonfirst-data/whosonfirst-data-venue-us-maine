@@ -1,0 +1,68 @@
+{
+  "id": 404003829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.362471,47.35198,-68.362471,47.35198",
+    "geom:latitude":47.35198,
+    "geom:longitude":-68.362471,
+    "iso:country":"US",
+    "sg:address":"25 Main St",
+    "sg:city":"Mars Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 429 8047",
+    "sg:postcode":"04745",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PdsREoYXKkTT4hyB6ENMQ_47.351980_-68.362471@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51714021bfd5c6447d8964a7dbd7d1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":404003829
+        }
+    ],
+    "wof:id":404003829,
+    "wof:lastmodified":1449040244,
+    "wof:name":"Dave's Auto & Truck Repair",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-68.362471,47.35198,-68.362471,47.35198],
+  "geometry": {"coordinates":[-68.362471,47.35198],"type":"Point"}
+}

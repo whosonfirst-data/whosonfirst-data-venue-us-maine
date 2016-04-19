@@ -1,0 +1,67 @@
+{
+  "id": 403836879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-67.456434,44.716889,-67.456434,44.716889",
+    "geom:latitude":44.716889,
+    "geom:longitude":-67.456434,
+    "iso:country":"US",
+    "sg:address":"21 Court St",
+    "sg:city":"Machias",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 255 4253",
+    "sg:postcode":"04654",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102081143,
+        85826381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zUsfJNnguGsWW30DEgIRv_44.716889_-67.456434@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e94070b912dee030d0123c5ba339abd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081143,
+            "locality_id":-1,
+            "neighbourhood_id":85826381,
+            "region_id":85688769,
+            "venue_id":403836879
+        }
+    ],
+    "wof:id":403836879,
+    "wof:lastmodified":1449055498,
+    "wof:name":"John W Peterson MD",
+    "wof:parent_id":85826381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-67.456434,44.716889,-67.456434,44.716889],
+  "geometry": {"coordinates":[-67.456434,44.716889],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387807465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.193126,43.802299,-70.193126,43.802299",
+    "geom:latitude":43.802299,
+    "geom:longitude":-70.193126,
+    "iso:country":"US",
+    "sg:address":"27 Center St",
+    "sg:city":"Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 846 0052",
+    "sg:postcode":"04096",
+    "sg:province":"ME",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949005,
+        102087463,
+        85859327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uM8bTPFCizQKZThPVV5lD_43.802299_-70.193126@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"59a32ef987e3e875b800a2876daa8a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85949005,
+            "neighbourhood_id":85859327,
+            "region_id":85688769,
+            "venue_id":387807465
+        }
+    ],
+    "wof:id":387807465,
+    "wof:lastmodified":1449057078,
+    "wof:name":"Andrew O'Brien Heating",
+    "wof:parent_id":85859327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-70.193126,43.802299,-70.193126,43.802299],
+  "geometry": {"coordinates":[-70.193126,43.802299],"type":"Point"}
+}

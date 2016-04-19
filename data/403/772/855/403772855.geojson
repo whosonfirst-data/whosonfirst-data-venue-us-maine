@@ -1,0 +1,66 @@
+{
+  "id": 403772855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.778593,44.312701,-69.778593,44.312701",
+    "geom:latitude":44.312701,
+    "geom:longitude":-69.778593,
+    "iso:country":"US",
+    "sg:address":"132 State St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 626 3550",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kbsMujnosXzhM5oHDkbH6_44.312701_-69.778593@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ecebb07473dcbf0ef58622daf22b3418",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":403772855
+        }
+    ],
+    "wof:id":403772855,
+    "wof:lastmodified":1449055231,
+    "wof:name":"Augusta Orthodontics",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-69.778593,44.312701,-69.778593,44.312701],
+  "geometry": {"coordinates":[-69.778593,44.312701],"type":"Point"}
+}

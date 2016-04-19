@@ -1,0 +1,66 @@
+{
+  "id": 387707329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.83986,44.832141,-68.83986,44.832141",
+    "geom:latitude":44.832141,
+    "geom:longitude":-68.83986,
+    "iso:country":"US",
+    "sg:address":"411 Davis Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 6783",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85837287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U9Zbn4eOU6bnEitTKJgy2_44.832141_-68.839860@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4b6b58a028e0de43f9822d3b1c14d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85837287,
+            "region_id":85688769,
+            "venue_id":387707329
+        }
+    ],
+    "wof:id":387707329,
+    "wof:lastmodified":1449059327,
+    "wof:name":"Penobscot Veterinary Hospital",
+    "wof:parent_id":85837287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-68.83986,44.832141,-68.83986,44.832141],
+  "geometry": {"coordinates":[-68.83986,44.832141],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387901851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.225649,44.135325,-70.225649,44.135325",
+    "geom:latitude":44.135325,
+    "geom:longitude":-70.225649,
+    "iso:country":"US",
+    "sg:address":"902 Center St",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 784 0539",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948883,
+        102087457,
+        85815921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KCUZnxBVW7q7OscpASqhs_44.135325_-70.225649@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e78263f89ecb9549c7d9a6081d5c636",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85948883,
+            "neighbourhood_id":85815921,
+            "region_id":85688769,
+            "venue_id":387901851
+        }
+    ],
+    "wof:id":387901851,
+    "wof:lastmodified":1449057701,
+    "wof:name":"K & R Auto Sales",
+    "wof:parent_id":85815921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.225649,44.135325,-70.225649,44.135325],
+  "geometry": {"coordinates":[-70.225649,44.135325],"type":"Point"}
+}

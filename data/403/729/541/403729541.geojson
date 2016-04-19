@@ -1,0 +1,67 @@
+{
+  "id": 403729541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.360906,44.499023,-68.360906,44.499023",
+    "geom:latitude":44.499023,
+    "geom:longitude":-68.360906,
+    "iso:country":"US",
+    "sg:address":"87 Jordan River Rd",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 7716",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102081201,
+        85868805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RqtEoGJztmRjFLRCZlZcX_44.499023_-68.360906@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3607e8580d2db15a713b951ed98fa1ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081201,
+            "locality_id":-1,
+            "neighbourhood_id":85868805,
+            "region_id":85688769,
+            "venue_id":403729541
+        }
+    ],
+    "wof:id":403729541,
+    "wof:lastmodified":1449055313,
+    "wof:name":"Bradford's Towing & Recovery",
+    "wof:parent_id":85868805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [-68.360906,44.499023,-68.360906,44.499023],
+  "geometry": {"coordinates":[-68.360906,44.499023],"type":"Point"}
+}

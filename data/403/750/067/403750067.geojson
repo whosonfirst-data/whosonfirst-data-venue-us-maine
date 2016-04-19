@@ -1,0 +1,68 @@
+{
+  "id": 403750067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.231089,44.094149,-70.231089,44.094149",
+    "geom:latitude":44.094149,
+    "geom:longitude":-70.231089,
+    "iso:country":"US",
+    "sg:address":"10 Minot Ave",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 784 7388",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948885,
+        102087457,
+        85836549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gIU9xrvIK6lpabQZeIKxE_44.094149_-70.231089@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7f5b969cb683d7edd7fc034eec0e38f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":403750067
+        }
+    ],
+    "wof:id":403750067,
+    "wof:lastmodified":1449055461,
+    "wof:name":"Family Health Assoc",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.231089,44.094149,-70.231089,44.094149],
+  "geometry": {"coordinates":[-70.231089,44.094149],"type":"Point"}
+}

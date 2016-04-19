@@ -1,0 +1,70 @@
+{
+  "id": 404200483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.772302,44.802817,-68.772302,44.802817",
+    "geom:latitude":44.802817,
+    "geom:longitude":-68.772302,
+    "iso:country":"US",
+    "sg:address":"10 Franklin St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 941 3130",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Af9YHV8krpT5KnRdb2Dwn_44.802817_-68.772302@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f86160d5ba58f8dc40c566abcc75b337",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":404200483
+        }
+    ],
+    "wof:id":404200483,
+    "wof:lastmodified":1449039518,
+    "wof:name":"Juvenile Intake",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [-68.772302,44.802817,-68.772302,44.802817],
+  "geometry": {"coordinates":[-68.772302,44.802817],"type":"Point"}
+}

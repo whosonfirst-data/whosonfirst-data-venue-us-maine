@@ -1,0 +1,69 @@
+{
+  "id": 403870701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.370054,45.164805,-69.370054,45.164805",
+    "geom:latitude":45.164805,
+    "geom:longitude":-69.370054,
+    "iso:country":"US",
+    "sg:address":"122 Pleasant Ave",
+    "sg:city":"Sangerville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 876 4424",
+    "sg:postcode":"04479",
+    "sg:province":"ME",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087465,
+        85806555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59R6Mib9yCKlyIWOnKzs1S_45.164805_-69.370054@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29d1fea615a663a5ded41165da47678c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087465,
+            "locality_id":-1,
+            "neighbourhood_id":85806555,
+            "region_id":85688769,
+            "venue_id":403870701
+        }
+    ],
+    "wof:id":403870701,
+    "wof:lastmodified":1449054995,
+    "wof:name":"Lemieux Trucking",
+    "wof:parent_id":85806555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-69.370054,45.164805,-69.370054,45.164805],
+  "geometry": {"coordinates":[-69.370054,45.164805],"type":"Point"}
+}

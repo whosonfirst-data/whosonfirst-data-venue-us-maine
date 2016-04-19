@@ -1,0 +1,78 @@
+{
+  "id": 387594899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.557463,44.551814,-70.557463,44.551814",
+    "geom:latitude":44.551814,
+    "geom:longitude":-70.557463,
+    "iso:country":"US",
+    "sg:address":"431 Franklin St",
+    "sg:city":"Rumford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 364 2000",
+    "sg:postcode":"04276",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948977,
+        102087437,
+        85853959,
+        85844599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DztNpCvZfYGmda3yYMmaG_44.551814_-70.557463@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b034d793686dfda5feefd8fdabdfb61",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087437,
+            "locality_id":85948977,
+            "neighbourhood_id":85853959,
+            "region_id":85688769,
+            "venue_id":387594899
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087437,
+            "locality_id":85948977,
+            "neighbourhood_id":85844599,
+            "region_id":85688769,
+            "venue_id":387594899
+        }
+    ],
+    "wof:id":387594899,
+    "wof:lastmodified":1449056652,
+    "wof:name":"Dennis B Goodman MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.557463,44.551814,-70.557463,44.551814],
+  "geometry": {"coordinates":[-70.557463,44.551814],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 404181247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.765833,43.426627,-70.765833,43.426627",
+    "geom:latitude":43.426627,
+    "geom:longitude":-70.765833,
+    "iso:country":"US",
+    "sg:address":"1099 Main St",
+    "sg:city":"Sanford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 324 2344",
+    "sg:postcode":"04073",
+    "sg:province":"ME",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949053,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5avNRpnvVH1r0Z8FDcET2B_43.426627_-70.765833@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69a0c0aaad0c097c4dbd10b55449623b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85949053,
+            "neighbourhood_id":-1,
+            "region_id":85688769,
+            "venue_id":404181247
+        }
+    ],
+    "wof:id":404181247,
+    "wof:lastmodified":1449039843,
+    "wof:name":"Main Street Carwash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-70.765833,43.426627,-70.765833,43.426627],
+  "geometry": {"coordinates":[-70.765833,43.426627],"type":"Point"}
+}

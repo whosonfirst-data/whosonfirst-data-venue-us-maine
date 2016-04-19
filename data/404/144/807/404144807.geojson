@@ -1,0 +1,68 @@
+{
+  "id": 404144807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.265668,43.652249,-70.265668,43.652249",
+    "geom:latitude":43.652249,
+    "geom:longitude":-70.265668,
+    "iso:country":"US",
+    "sg:address":"148 State St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 1726",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85855397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vWQWJ4iCi6LEPzqVAOMej_43.652249_-70.265668@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4cb006a0150eab27405ca0c063d0fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85855397,
+            "region_id":85688769,
+            "venue_id":404144807
+        }
+    ],
+    "wof:id":404144807,
+    "wof:lastmodified":1449039993,
+    "wof:name":"State Street Ob Gyn",
+    "wof:parent_id":85855397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.265668,43.652249,-70.265668,43.652249],
+  "geometry": {"coordinates":[-70.265668,43.652249],"type":"Point"}
+}

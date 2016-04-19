@@ -1,0 +1,68 @@
+{
+  "id": 387885065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.2008,44.101561,-70.2008,44.101561",
+    "geom:latitude":44.101561,
+    "geom:longitude":-70.2008,
+    "iso:country":"US",
+    "sg:address":"45 Golder St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 777 8111",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948885,
+        102087457,
+        85836549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gZG7dnFxvh8nPyHkiyDIz_44.101561_-70.200800@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44df6bb7a155111937e4aae015ddf495",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":387885065
+        }
+    ],
+    "wof:id":387885065,
+    "wof:lastmodified":1449058132,
+    "wof:name":"Respiratory Health-Dept",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.2008,44.101561,-70.2008,44.101561],
+  "geometry": {"coordinates":[-70.2008,44.101561],"type":"Point"}
+}

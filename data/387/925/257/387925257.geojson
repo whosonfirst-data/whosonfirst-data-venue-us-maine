@@ -1,0 +1,68 @@
+{
+  "id": 387925257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.778604,44.805193,-68.778604,44.805193",
+    "geom:latitude":44.805193,
+    "geom:longitude":-68.778604,
+    "iso:country":"US",
+    "sg:address":"35 Everett St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 7879",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85816381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tp0w4qCfPMoByfPUELn40_44.805193_-68.778604@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"412154baf794d61db9fd4767dce0c200",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85816381,
+            "region_id":85688769,
+            "venue_id":387925257
+        }
+    ],
+    "wof:id":387925257,
+    "wof:lastmodified":1449056144,
+    "wof:name":"Dick's Plumbing",
+    "wof:parent_id":85816381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-68.778604,44.805193,-68.778604,44.805193],
+  "geometry": {"coordinates":[-68.778604,44.805193],"type":"Point"}
+}

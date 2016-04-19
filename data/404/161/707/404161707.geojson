@@ -1,0 +1,68 @@
+{
+  "id": 404161707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.758503,44.809927,-68.758503,44.809927",
+    "geom:latitude":44.809927,
+    "geom:longitude":-68.758503,
+    "iso:country":"US",
+    "sg:address":"212 Garland St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 941 0050",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948899,
+        102080723,
+        85851073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FDp0cQNIOnJezkHHugkH8_44.809927_-68.758503@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4964ff4940c41fb55088067a37330ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":404161707
+        }
+    ],
+    "wof:id":404161707,
+    "wof:lastmodified":1449039510,
+    "wof:name":"Custom Speed & Tune",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-68.758503,44.809927,-68.758503,44.809927],
+  "geometry": {"coordinates":[-68.758503,44.809927],"type":"Point"}
+}

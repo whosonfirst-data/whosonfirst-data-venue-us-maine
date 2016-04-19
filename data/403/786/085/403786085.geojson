@@ -1,0 +1,70 @@
+{
+  "id": 403786085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.324303,43.650169,-70.324303,43.650169",
+    "geom:latitude":43.650169,
+    "geom:longitude":-70.324303,
+    "iso:country":"US",
+    "sg:address":"9 Johnson Rd",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 773 9566",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85851275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JHw6Ve2aU4408SzLVNpaK_43.650169_-70.324303@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"679fdabf29d846c4cd553008bae302ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85851275,
+            "region_id":85688769,
+            "venue_id":403786085
+        }
+    ],
+    "wof:id":403786085,
+    "wof:lastmodified":1449054799,
+    "wof:name":"Abco Rental",
+    "wof:parent_id":85851275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [-70.324303,43.650169,-70.324303,43.650169],
+  "geometry": {"coordinates":[-70.324303,43.650169],"type":"Point"}
+}

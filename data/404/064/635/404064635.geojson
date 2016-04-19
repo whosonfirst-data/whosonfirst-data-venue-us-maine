@@ -1,0 +1,68 @@
+{
+  "id": 404064635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.379435,43.514274,-70.379435,43.514274",
+    "geom:latitude":43.514274,
+    "geom:longitude":-70.379435,
+    "iso:country":"US",
+    "sg:address":"9 Heath St",
+    "sg:city":"Old Orchard Bch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 934 7090",
+    "sg:postcode":"04064",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949051,
+        102087449,
+        85851625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08VTHX0hmX6JPeRIsebl4D_43.514274_-70.379435@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9b1478494657db5d750cd9dc9b4358f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85949051,
+            "neighbourhood_id":85851625,
+            "region_id":85688769,
+            "venue_id":404064635
+        }
+    ],
+    "wof:id":404064635,
+    "wof:lastmodified":1449039445,
+    "wof:name":"Performance Plus",
+    "wof:parent_id":85851625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.379435,43.514274,-70.379435,43.514274],
+  "geometry": {"coordinates":[-70.379435,43.514274],"type":"Point"}
+}

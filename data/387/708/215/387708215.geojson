@@ -1,0 +1,68 @@
+{
+  "id": 387708215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-69.78777,44.312902,-69.78777,44.312902",
+    "geom:latitude":44.312902,
+    "geom:longitude":-69.78777,
+    "iso:country":"US",
+    "sg:address":"20 Cushman St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 623 2577",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04nxN5BFqcgo29YDw6qtqF_44.312902_-69.787770@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab7e9c0cc2be467d4a008f892f8127fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":387708215
+        }
+    ],
+    "wof:id":387708215,
+    "wof:lastmodified":1449056700,
+    "wof:name":"Riverside Disposal",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [-69.78777,44.312902,-69.78777,44.312902],
+  "geometry": {"coordinates":[-69.78777,44.312902],"type":"Point"}
+}

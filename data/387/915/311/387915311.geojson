@@ -1,0 +1,67 @@
+{
+  "id": 387915311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.269931,43.684596,-70.269931,43.684596",
+    "geom:latitude":43.684596,
+    "geom:longitude":-70.269931,
+    "iso:country":"US",
+    "sg:address":"519 Ocean Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 4417",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "hospice"
+    ],
+    "sg:website":"www.hospiceofmaine.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85831709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FLtbTd2fzKijsFMbH4AS0_43.684596_-70.269931@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"592021f163cf793ecb76e3b617ca4168",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85831709,
+            "region_id":85688769,
+            "venue_id":387915311
+        }
+    ],
+    "wof:id":387915311,
+    "wof:lastmodified":1449059881,
+    "wof:name":"Hospice Of Maine",
+    "wof:parent_id":85831709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [-70.269931,43.684596,-70.269931,43.684596],
+  "geometry": {"coordinates":[-70.269931,43.684596],"type":"Point"}
+}

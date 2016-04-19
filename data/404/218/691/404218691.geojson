@@ -1,0 +1,67 @@
+{
+  "id": 404218691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-67.466765,44.707532,-67.466765,44.707532",
+    "geom:latitude":44.707532,
+    "geom:longitude":-67.466765,
+    "iso:country":"US",
+    "sg:address":"1 Prescott Dr",
+    "sg:city":"Machias",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 255 4057",
+    "sg:postcode":"04654",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102081143,
+        85826381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47hVEYWkHbrFzNCmlpSeLq_44.707532_-67.466765@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22ef98371c74c284b5df27a617b3cd61",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081143,
+            "locality_id":-1,
+            "neighbourhood_id":85826381,
+            "region_id":85688769,
+            "venue_id":404218691
+        }
+    ],
+    "wof:id":404218691,
+    "wof:lastmodified":1449039891,
+    "wof:name":"Smith's Service Station",
+    "wof:parent_id":85826381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-67.466765,44.707532,-67.466765,44.707532],
+  "geometry": {"coordinates":[-67.466765,44.707532],"type":"Point"}
+}

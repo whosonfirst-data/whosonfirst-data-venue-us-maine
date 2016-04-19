@@ -1,0 +1,65 @@
+{
+  "id": 404143261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.732025,44.782834,-68.732025,44.782834",
+    "geom:latitude":44.782834,
+    "geom:longitude":-68.732025,
+    "iso:country":"US",
+    "sg:address":"111 Pierce Rd",
+    "sg:city":"Brewer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 989 6531",
+    "sg:postcode":"04412",
+    "sg:province":"ME",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102080723,
+        85837399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6njDyUNWzkiTOmPqm6HXCG_44.782834_-68.732025@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c6d26a819f88578ce3dd8d69b97b0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":-1,
+            "neighbourhood_id":85837399,
+            "region_id":85688769,
+            "venue_id":404143261
+        }
+    ],
+    "wof:id":404143261,
+    "wof:lastmodified":1449040104,
+    "wof:name":"Brewer Veterinary Clinic",
+    "wof:parent_id":85837399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-68.732025,44.782834,-68.732025,44.782834],
+  "geometry": {"coordinates":[-68.732025,44.782834],"type":"Point"}
+}

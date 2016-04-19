@@ -1,0 +1,67 @@
+{
+  "id": 387682327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.271366,44.284735,-70.271366,44.284735",
+    "geom:latitude":44.284735,
+    "geom:longitude":-70.271366,
+    "iso:country":"US",
+    "sg:address":"1582 Auburn Rd",
+    "sg:city":"Turner",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 225 3666",
+    "sg:postcode":"04282",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        102087457,
+        85852835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uWaoqKiRLM1XF1giDt9RZ_44.284735_-70.271366@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"130c4f5694d94e41de552bfd8bfb0eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":-1,
+            "neighbourhood_id":85852835,
+            "region_id":85688769,
+            "venue_id":387682327
+        }
+    ],
+    "wof:id":387682327,
+    "wof:lastmodified":1449056761,
+    "wof:name":"Bob's & Robin's Garage",
+    "wof:parent_id":85852835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.271366,44.284735,-70.271366,44.284735],
+  "geometry": {"coordinates":[-70.271366,44.284735],"type":"Point"}
+}

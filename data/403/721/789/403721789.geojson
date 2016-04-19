@@ -1,0 +1,66 @@
+{
+  "id": 403721789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-68.654121,44.927667,-68.654121,44.927667",
+    "geom:latitude":44.927667,
+    "geom:longitude":-68.654121,
+    "iso:country":"US",
+    "sg:address":"159 Perkins Ave",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 8800",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Tii1bmov1PsjKRWJB59vD_44.927667_-68.654121@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11f66b37741343bade19ab7eb7017d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":403721789
+        }
+    ],
+    "wof:id":403721789,
+    "wof:lastmodified":1449055960,
+    "wof:name":"Old Town Taxi",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-68.654121,44.927667,-68.654121,44.927667],
+  "geometry": {"coordinates":[-68.654121,44.927667],"type":"Point"}
+}
