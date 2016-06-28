@@ -2,13 +2,14 @@
   "id": 387704549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.315947,43.654976,-70.315947,43.654976",
     "geom:latitude":43.654976,
     "geom:longitude":-70.315947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Garrison St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387704549,
-    "wof:lastmodified":1449057094,
+    "wof:lastmodified":1466586763,
     "wof:name":"Jacqueline Parady",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.315947,43.654976,-70.315947,43.654976],
-  "geometry": {"coordinates":[-70.315947,43.654976],"type":"Point"}
+  "bbox": [
+    -70.315947,
+    43.654976,
+    -70.315947,
+    43.654976
+],
+  "geometry": {"coordinates":[-70.31594699999999,43.654976],"type":"Point"}
 }

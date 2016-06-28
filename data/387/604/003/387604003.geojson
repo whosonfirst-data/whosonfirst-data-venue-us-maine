@@ -2,13 +2,14 @@
   "id": 387604003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.283313,43.675118,-70.283313,43.675118",
     "geom:latitude":43.675118,
     "geom:longitude":-70.283313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Sawyer St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387604003,
-    "wof:lastmodified":1449059478,
+    "wof:lastmodified":1466586678,
     "wof:name":"Diamond Center",
     "wof:parent_id":85858625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "yoga"
     ]
 },
-  "bbox": [-70.283313,43.675118,-70.283313,43.675118],
-  "geometry": {"coordinates":[-70.283313,43.675118],"type":"Point"}
+  "bbox": [
+    -70.283313,
+    43.675118,
+    -70.283313,
+    43.675118
+],
+  "geometry": {"coordinates":[-70.28331300000001,43.675118],"type":"Point"}
 }

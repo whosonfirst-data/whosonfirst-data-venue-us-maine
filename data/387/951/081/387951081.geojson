@@ -2,13 +2,14 @@
   "id": 387951081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.543662,44.213969,-70.543662,44.213969",
     "geom:latitude":44.213969,
     "geom:longitude":-70.543662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Main St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387951081,
-    "wof:lastmodified":1449056284,
+    "wof:lastmodified":1466587292,
     "wof:name":"Guy E Rowe School",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.543662,44.213969,-70.543662,44.213969],
+  "bbox": [
+    -70.543662,
+    44.213969,
+    -70.543662,
+    44.213969
+],
   "geometry": {"coordinates":[-70.543662,44.213969],"type":"Point"}
 }

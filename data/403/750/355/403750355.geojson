@@ -2,13 +2,14 @@
   "id": 403750355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.603277,43.995895,-70.603277,43.995895",
     "geom:latitude":43.995895,
     "geom:longitude":-70.603277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Jefferson Ct",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403750355,
-    "wof:lastmodified":1449055466,
+    "wof:lastmodified":1466586218,
     "wof:name":"Shaw Appraisal Svc",
     "wof:parent_id":85849311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-70.603277,43.995895,-70.603277,43.995895],
-  "geometry": {"coordinates":[-70.603277,43.995895],"type":"Point"}
+  "bbox": [
+    -70.603277,
+    43.995895,
+    -70.603277,
+    43.995895
+],
+  "geometry": {"coordinates":[-70.60327700000001,43.995895],"type":"Point"}
 }

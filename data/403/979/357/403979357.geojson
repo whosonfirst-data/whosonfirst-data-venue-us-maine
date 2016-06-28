@@ -2,13 +2,14 @@
   "id": 403979357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.738578,43.108239,-70.738578,43.108239",
     "geom:latitude":43.108239,
     "geom:longitude":-70.738578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Adams Dr",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403979357,
-    "wof:lastmodified":1449055555,
+    "wof:lastmodified":1466587144,
     "wof:name":"ABC Cleaning Co",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-70.738578,43.108239,-70.738578,43.108239],
+  "bbox": [
+    -70.738578,
+    43.108239,
+    -70.738578,
+    43.108239
+],
   "geometry": {"coordinates":[-70.738578,43.108239],"type":"Point"}
 }

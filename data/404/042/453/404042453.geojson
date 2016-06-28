@@ -2,13 +2,14 @@
   "id": 404042453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.291938,43.670868,-70.291938,43.670868",
     "geom:latitude":43.670868,
     "geom:longitude":-70.291938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Glenwood Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404042453,
-    "wof:lastmodified":1449040012,
+    "wof:lastmodified":1466586123,
     "wof:name":"Anita A Talbot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "court"
     ]
 },
-  "bbox": [-70.291938,43.670868,-70.291938,43.670868],
+  "bbox": [
+    -70.291938,
+    43.670868,
+    -70.291938,
+    43.670868
+],
   "geometry": {"coordinates":[-70.291938,43.670868],"type":"Point"}
 }

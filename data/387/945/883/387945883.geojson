@@ -2,13 +2,14 @@
   "id": 387945883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.380491,44.357332,-70.380491,44.357332",
     "geom:latitude":44.357332,
     "geom:longitude":-70.380491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Main St",
     "sg:city":"Sumner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387945883,
-    "wof:lastmodified":1449056430,
+    "wof:lastmodified":1466587288,
     "wof:name":"Chet's Welding",
     "wof:parent_id":85816409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-70.380491,44.357332,-70.380491,44.357332],
-  "geometry": {"coordinates":[-70.380491,44.357332],"type":"Point"}
+  "bbox": [
+    -70.380491,
+    44.357332,
+    -70.380491,
+    44.357332
+],
+  "geometry": {"coordinates":[-70.38049100000001,44.357332],"type":"Point"}
 }

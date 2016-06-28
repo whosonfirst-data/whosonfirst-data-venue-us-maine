@@ -2,13 +2,14 @@
   "id": 404001295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.30968,43.687734,-70.30968,43.687734",
     "geom:latitude":43.687734,
     "geom:longitude":-70.30968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 Warren Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404001295,
-    "wof:lastmodified":1449039328,
+    "wof:lastmodified":1466585679,
     "wof:name":"Langford & Low Inc",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.30968,43.687734,-70.30968,43.687734],
+  "bbox": [
+    -70.30968,
+    43.687734,
+    -70.30968,
+    43.687734
+],
   "geometry": {"coordinates":[-70.30968,43.687734],"type":"Point"}
 }

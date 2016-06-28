@@ -2,13 +2,14 @@
   "id": 387954403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.841292,44.744939,-68.841292,44.744939",
     "geom:latitude":44.744939,
     "geom:longitude":-68.841292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Western Ave",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387954403,
-    "wof:lastmodified":1449059430,
+    "wof:lastmodified":1466587297,
     "wof:name":"Mc Cue Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-68.841292,44.744939,-68.841292,44.744939],
+  "bbox": [
+    -68.841292,
+    44.744939,
+    -68.841292,
+    44.744939
+],
   "geometry": {"coordinates":[-68.841292,44.744939],"type":"Point"}
 }

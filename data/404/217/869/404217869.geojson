@@ -2,13 +2,14 @@
   "id": 404217869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.44155,43.412838,-70.44155,43.412838",
     "geom:latitude":43.412838,
     "geom:longitude":-70.44155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Oak Ridge Rd",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404217869,
-    "wof:lastmodified":1449040272,
+    "wof:lastmodified":1466586988,
     "wof:name":"BCR Enterprises Inc",
     "wof:parent_id":85822309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.44155,43.412838,-70.44155,43.412838],
-  "geometry": {"coordinates":[-70.44155,43.412838],"type":"Point"}
+  "bbox": [
+    -70.44155,
+    43.412838,
+    -70.44155,
+    43.412838
+],
+  "geometry": {"coordinates":[-70.44155000000001,43.412838],"type":"Point"}
 }

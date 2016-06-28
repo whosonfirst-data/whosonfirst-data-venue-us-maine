@@ -2,13 +2,14 @@
   "id": 387592241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.380209,44.279942,-70.380209,44.279942",
     "geom:latitude":44.279942,
     "geom:longitude":-70.380209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"298 Depot St",
     "sg:city":"Dryden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387592241,
-    "wof:lastmodified":1449058292,
+    "wof:lastmodified":1466586212,
     "wof:name":"Rick's Market",
     "wof:parent_id":85816409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-70.380209,44.279942,-70.380209,44.279942],
-  "geometry": {"coordinates":[-70.380209,44.279942],"type":"Point"}
+  "bbox": [
+    -70.380209,
+    44.279942,
+    -70.380209,
+    44.279942
+],
+  "geometry": {"coordinates":[-70.38020899999999,44.279942],"type":"Point"}
 }

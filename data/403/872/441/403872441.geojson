@@ -2,13 +2,14 @@
   "id": 403872441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.771803,44.808575,-68.771803,44.808575",
     "geom:latitude":44.808575,
     "geom:longitude":-68.771803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Center St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403872441,
-    "wof:lastmodified":1449054752,
+    "wof:lastmodified":1466586689,
     "wof:name":"Surplus For Less",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-68.771803,44.808575,-68.771803,44.808575],
-  "geometry": {"coordinates":[-68.771803,44.808575],"type":"Point"}
+  "bbox": [
+    -68.771803,
+    44.808575,
+    -68.771803,
+    44.808575
+],
+  "geometry": {"coordinates":[-68.77180300000001,44.808575],"type":"Point"}
 }

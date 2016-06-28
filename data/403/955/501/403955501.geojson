@@ -2,13 +2,14 @@
   "id": 403955501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.134964,44.101558,-69.134964,44.101558",
     "geom:latitude":44.101558,
     "geom:longitude":-69.134964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Park St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403955501,
-    "wof:lastmodified":1449055533,
+    "wof:lastmodified":1466587156,
     "wof:name":"Bounty Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.134964,44.101558,-69.134964,44.101558],
+  "bbox": [
+    -69.134964,
+    44.101558,
+    -69.134964,
+    44.101558
+],
   "geometry": {"coordinates":[-69.134964,44.101558],"type":"Point"}
 }

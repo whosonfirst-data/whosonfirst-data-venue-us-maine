@@ -2,13 +2,14 @@
   "id": 403779959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.293391,44.30848,-70.293391,44.30848",
     "geom:latitude":44.30848,
     "geom:longitude":-70.293391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"470 Bear Pond Rd",
     "sg:city":"Buckfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403779959,
-    "wof:lastmodified":1449054834,
+    "wof:lastmodified":1466585678,
     "wof:name":"Marie's Pet Retreat",
     "wof:parent_id":85816409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-70.293391,44.30848,-70.293391,44.30848],
+  "bbox": [
+    -70.293391,
+    44.30848,
+    -70.293391,
+    44.30848
+],
   "geometry": {"coordinates":[-70.293391,44.30848],"type":"Point"}
 }

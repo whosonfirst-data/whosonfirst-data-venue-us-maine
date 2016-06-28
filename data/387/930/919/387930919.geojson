@@ -2,13 +2,14 @@
   "id": 387930919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.48428,43.359305,-70.48428,43.359305",
     "geom:latitude":43.359305,
     "geom:longitude":-70.48428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Western Ave",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387930919,
-    "wof:lastmodified":1449057314,
+    "wof:lastmodified":1466587274,
     "wof:name":"Mekhong Thai Restaurant",
     "wof:parent_id":85812189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.48428,43.359305,-70.48428,43.359305],
+  "bbox": [
+    -70.48428,
+    43.359305,
+    -70.48428,
+    43.359305
+],
   "geometry": {"coordinates":[-70.48428,43.359305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387683659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.29277,43.670842,-70.29277,43.670842",
     "geom:latitude":43.670842,
     "geom:longitude":-70.29277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Lawn Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387683659,
-    "wof:lastmodified":1449057501,
+    "wof:lastmodified":1466586498,
     "wof:name":"Publik Pictures Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "producer"
     ]
 },
-  "bbox": [-70.29277,43.670842,-70.29277,43.670842],
+  "bbox": [
+    -70.29277,
+    43.670842,
+    -70.29277,
+    43.670842
+],
   "geometry": {"coordinates":[-70.29277,43.670842],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387776047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.294862,43.687625,-70.294862,43.687625",
     "geom:latitude":43.687625,
     "geom:longitude":-70.294862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Bishop St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387776047,
-    "wof:lastmodified":1449056931,
+    "wof:lastmodified":1466586977,
     "wof:name":"Laundry Basket",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.294862,43.687625,-70.294862,43.687625],
-  "geometry": {"coordinates":[-70.294862,43.687625],"type":"Point"}
+  "bbox": [
+    -70.294862,
+    43.687625,
+    -70.294862,
+    43.687625
+],
+  "geometry": {"coordinates":[-70.29486199999999,43.687625],"type":"Point"}
 }

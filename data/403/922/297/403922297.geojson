@@ -2,13 +2,14 @@
   "id": 403922297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.065071,44.131632,-70.065071,44.131632",
     "geom:latitude":44.131632,
     "geom:longitude":-70.065071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1362 Sabattus Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403922297,
-    "wof:lastmodified":1449054758,
+    "wof:lastmodified":1466586988,
     "wof:name":"Hair In Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.065071,44.131632,-70.065071,44.131632],
+  "bbox": [
+    -70.065071,
+    44.131632,
+    -70.065071,
+    44.131632
+],
   "geometry": {"coordinates":[-70.065071,44.131632],"type":"Point"}
 }

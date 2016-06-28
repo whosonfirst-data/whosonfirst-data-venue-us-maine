@@ -2,13 +2,14 @@
   "id": 404057641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.832843,43.910925,-69.832843,43.910925",
     "geom:latitude":43.910925,
     "geom:longitude":-69.832843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Congress Ave",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404057641,
-    "wof:lastmodified":1449039658,
+    "wof:lastmodified":1466586400,
     "wof:name":"Hair Creations",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.832843,43.910925,-69.832843,43.910925],
+  "bbox": [
+    -69.832843,
+    43.910925,
+    -69.832843,
+    43.910925
+],
   "geometry": {"coordinates":[-69.832843,43.910925],"type":"Point"}
 }

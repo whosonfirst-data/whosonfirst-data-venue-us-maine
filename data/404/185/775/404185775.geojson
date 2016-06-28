@@ -2,13 +2,14 @@
   "id": 404185775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.426766,43.591486,-70.426766,43.591486",
     "geom:latitude":43.591486,
     "geom:longitude":-70.426766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Broadturn Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404185775,
-    "wof:lastmodified":1449039234,
+    "wof:lastmodified":1466586869,
     "wof:name":"Freestyle Farm",
     "wof:parent_id":85834397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-70.426766,43.591486,-70.426766,43.591486],
+  "bbox": [
+    -70.426766,
+    43.591486,
+    -70.426766,
+    43.591486
+],
   "geometry": {"coordinates":[-70.426766,43.591486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387657993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.015621,46.860908,-68.015621,46.860908",
     "geom:latitude":46.860908,
     "geom:longitude":-68.015621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Herschel St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387657993,
-    "wof:lastmodified":1449056538,
+    "wof:lastmodified":1466586087,
     "wof:name":"Habeeb's Smoke Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.015621,46.860908,-68.015621,46.860908],
+  "bbox": [
+    -68.015621,
+    46.860908,
+    -68.015621,
+    46.860908
+],
   "geometry": {"coordinates":[-68.015621,46.860908],"type":"Point"}
 }

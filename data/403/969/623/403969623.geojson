@@ -2,13 +2,14 @@
   "id": 403969623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.372683,44.509689,-68.372683,44.509689",
     "geom:latitude":44.509689,
     "geom:longitude":-68.372683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Buttermilk Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403969623,
-    "wof:lastmodified":1449054966,
+    "wof:lastmodified":1466587132,
     "wof:name":"Haslams Septic Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.372683,44.509689,-68.372683,44.509689],
-  "geometry": {"coordinates":[-68.372683,44.509689],"type":"Point"}
+  "bbox": [
+    -68.372683,
+    44.509689,
+    -68.372683,
+    44.509689
+],
+  "geometry": {"coordinates":[-68.37268299999999,44.509689],"type":"Point"}
 }

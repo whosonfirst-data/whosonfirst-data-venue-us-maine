@@ -2,13 +2,14 @@
   "id": 387689887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.344962,43.649692,-70.344962,43.649692",
     "geom:latitude":43.649692,
     "geom:longitude":-70.344962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Thomas Dr",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387689887,
-    "wof:lastmodified":1449059283,
+    "wof:lastmodified":1466586601,
     "wof:name":"Distributor Corp",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-70.344962,43.649692,-70.344962,43.649692],
+  "bbox": [
+    -70.344962,
+    43.649692,
+    -70.344962,
+    43.649692
+],
   "geometry": {"coordinates":[-70.344962,43.649692],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404138753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.643283,44.930984,-68.643283,44.930984",
     "geom:latitude":44.930984,
     "geom:longitude":-68.643283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Water St",
     "sg:city":"Vanceboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404138753,
-    "wof:lastmodified":1449039359,
+    "wof:lastmodified":1466586584,
     "wof:name":"Holly's General Store",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-68.643283,44.930984,-68.643283,44.930984],
+  "bbox": [
+    -68.643283,
+    44.930984,
+    -68.643283,
+    44.930984
+],
   "geometry": {"coordinates":[-68.643283,44.930984],"type":"Point"}
 }

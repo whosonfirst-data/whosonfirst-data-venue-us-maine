@@ -2,13 +2,14 @@
   "id": 387792323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.558322,44.330386,-70.558322,44.330386",
     "geom:latitude":44.330386,
     "geom:longitude":-70.558322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Main St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387792323,
-    "wof:lastmodified":1449056915,
+    "wof:lastmodified":1466587015,
     "wof:name":"Kirk R Mc Clelland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "family"
     ]
 },
-  "bbox": [-70.558322,44.330386,-70.558322,44.330386],
+  "bbox": [
+    -70.558322,
+    44.330386,
+    -70.558322,
+    44.330386
+],
   "geometry": {"coordinates":[-70.558322,44.330386],"type":"Point"}
 }

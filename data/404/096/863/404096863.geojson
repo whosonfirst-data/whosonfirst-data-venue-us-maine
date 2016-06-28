@@ -2,13 +2,14 @@
   "id": 404096863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.218213,44.09683,-70.218213,44.09683",
     "geom:latitude":44.09683,
     "geom:longitude":-70.218213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Canal St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404096863,
-    "wof:lastmodified":1449039404,
+    "wof:lastmodified":1466585950,
     "wof:name":"Da Vinci's Eatery",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.218213,44.09683,-70.218213,44.09683],
-  "geometry": {"coordinates":[-70.218213,44.09683],"type":"Point"}
+  "bbox": [
+    -70.218213,
+    44.09683,
+    -70.218213,
+    44.09683
+],
+  "geometry": {"coordinates":[-70.21821300000001,44.09683],"type":"Point"}
 }

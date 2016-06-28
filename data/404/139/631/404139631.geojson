@@ -2,13 +2,14 @@
   "id": 404139631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.775903,43.439435,-70.775903,43.439435",
     "geom:latitude":43.439435,
     "geom:longitude":-70.775903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"893 Main St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404139631,
-    "wof:lastmodified":1449039133,
+    "wof:lastmodified":1466586596,
     "wof:name":"North Parish Congregational",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.775903,43.439435,-70.775903,43.439435],
+  "bbox": [
+    -70.775903,
+    43.439435,
+    -70.775903,
+    43.439435
+],
   "geometry": {"coordinates":[-70.775903,43.439435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404040047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.182384,44.077809,-70.182384,44.077809",
     "geom:latitude":44.077809,
     "geom:longitude":-70.182384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Foch St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404040047,
-    "wof:lastmodified":1449040296,
+    "wof:lastmodified":1466586667,
     "wof:name":"Latulippe Electronics",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radio"
     ]
 },
-  "bbox": [-70.182384,44.077809,-70.182384,44.077809],
+  "bbox": [
+    -70.182384,
+    44.077809,
+    -70.182384,
+    44.077809
+],
   "geometry": {"coordinates":[-70.182384,44.077809],"type":"Point"}
 }

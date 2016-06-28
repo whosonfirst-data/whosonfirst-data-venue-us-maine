@@ -2,13 +2,14 @@
   "id": 387861089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.762351,44.783502,-68.762351,44.783502",
     "geom:latitude":44.783502,
     "geom:longitude":-68.762351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Stevens Rd",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387861089,
-    "wof:lastmodified":1449059896,
+    "wof:lastmodified":1466587258,
     "wof:name":"Sure Winner Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cream"
     ]
 },
-  "bbox": [-68.762351,44.783502,-68.762351,44.783502],
+  "bbox": [
+    -68.762351,
+    44.783502,
+    -68.762351,
+    44.783502
+],
   "geometry": {"coordinates":[-68.762351,44.783502],"type":"Point"}
 }

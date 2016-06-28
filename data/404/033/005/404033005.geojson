@@ -2,13 +2,14 @@
   "id": 404033005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.285109,43.672743,-70.285109,43.672743",
     "geom:latitude":43.672743,
     "geom:longitude":-70.285109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"799 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404033005,
-    "wof:lastmodified":1449039306,
+    "wof:lastmodified":1466586663,
     "wof:name":"Magic Scissors",
     "wof:parent_id":85858627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.285109,43.672743,-70.285109,43.672743],
-  "geometry": {"coordinates":[-70.285109,43.672743],"type":"Point"}
+  "bbox": [
+    -70.285109,
+    43.672743,
+    -70.285109,
+    43.672743
+],
+  "geometry": {"coordinates":[-70.28510900000001,43.672743],"type":"Point"}
 }

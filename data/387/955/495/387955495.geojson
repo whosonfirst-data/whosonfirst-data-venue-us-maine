@@ -2,13 +2,14 @@
   "id": 387955495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.265948,43.688891,-70.265948,43.688891",
     "geom:latitude":43.688891,
     "geom:longitude":-70.265948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 Ocean Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387955495,
-    "wof:lastmodified":1449058750,
+    "wof:lastmodified":1466587337,
     "wof:name":"Atrium At Cedars",
     "wof:parent_id":85816239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "community"
     ]
 },
-  "bbox": [-70.265948,43.688891,-70.265948,43.688891],
-  "geometry": {"coordinates":[-70.265948,43.688891],"type":"Point"}
+  "bbox": [
+    -70.265948,
+    43.688891,
+    -70.265948,
+    43.688891
+],
+  "geometry": {"coordinates":[-70.26594799999999,43.688891],"type":"Point"}
 }

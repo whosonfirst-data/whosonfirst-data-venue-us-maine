@@ -2,13 +2,14 @@
   "id": 387632701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.992487,43.937409,-69.992487,43.937409",
     "geom:latitude":43.937409,
     "geom:longitude":-69.992487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Emily St",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387632701,
-    "wof:lastmodified":1449058538,
+    "wof:lastmodified":1466586639,
     "wof:name":"Rays Appliance Repair Service",
     "wof:parent_id":85867969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "electrical"
     ]
 },
-  "bbox": [-69.992487,43.937409,-69.992487,43.937409],
+  "bbox": [
+    -69.992487,
+    43.937409,
+    -69.992487,
+    43.937409
+],
   "geometry": {"coordinates":[-69.992487,43.937409],"type":"Point"}
 }

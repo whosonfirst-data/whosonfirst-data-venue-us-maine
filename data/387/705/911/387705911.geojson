@@ -2,13 +2,14 @@
   "id": 387705911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.820059,44.31919,-69.820059,44.31919",
     "geom:latitude":44.31919,
     "geom:longitude":-69.820059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"448 Western Ave",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387705911,
-    "wof:lastmodified":1449059941,
+    "wof:lastmodified":1466586864,
     "wof:name":"Blouin Motors Inc Used Cars",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-69.820059,44.31919,-69.820059,44.31919],
+  "bbox": [
+    -69.820059,
+    44.31919,
+    -69.820059,
+    44.31919
+],
   "geometry": {"coordinates":[-69.820059,44.31919],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404074761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.577752,45.626204,-68.577752,45.626204",
     "geom:latitude":45.626204,
     "geom:longitude":-68.577752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Main St",
     "sg:city":"East Millinocket",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404074761,
-    "wof:lastmodified":1449039783,
+    "wof:lastmodified":1466585678,
     "wof:name":"Bangor Savings Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.577752,45.626204,-68.577752,45.626204],
+  "bbox": [
+    -68.577752,
+    45.626204,
+    -68.577752,
+    45.626204
+],
   "geometry": {"coordinates":[-68.577752,45.626204],"type":"Point"}
 }

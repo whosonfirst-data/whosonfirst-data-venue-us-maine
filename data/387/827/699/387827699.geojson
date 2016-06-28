@@ -2,13 +2,14 @@
   "id": 387827699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.131496,44.17865,-69.131496,44.17865",
     "geom:latitude":44.17865,
     "geom:longitude":-69.131496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Vinal St",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387827699,
-    "wof:lastmodified":1449057460,
+    "wof:lastmodified":1466587117,
     "wof:name":"Rockport Pottery",
     "wof:parent_id":85845529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.131496,44.17865,-69.131496,44.17865],
+  "bbox": [
+    -69.131496,
+    44.17865,
+    -69.131496,
+    44.17865
+],
   "geometry": {"coordinates":[-69.131496,44.17865],"type":"Point"}
 }

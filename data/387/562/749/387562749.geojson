@@ -2,13 +2,14 @@
   "id": 387562749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.50506,45.363639,-68.50506,45.363639",
     "geom:latitude":45.363639,
     "geom:longitude":-68.50506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Fleming St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387562749,
-    "wof:lastmodified":1449058124,
+    "wof:lastmodified":1466585810,
     "wof:name":"Riverside Community Ctr",
     "wof:parent_id":85849837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-68.50506,45.363639,-68.50506,45.363639],
+  "bbox": [
+    -68.50506,
+    45.363639,
+    -68.50506,
+    45.363639
+],
   "geometry": {"coordinates":[-68.50506,45.363639],"type":"Point"}
 }

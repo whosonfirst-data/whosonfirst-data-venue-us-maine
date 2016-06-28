@@ -2,13 +2,14 @@
   "id": 403761781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.326825,44.242746,-70.326825,44.242746",
     "geom:latitude":44.242746,
     "geom:longitude":-70.326825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 S Hill Rd",
     "sg:city":"Buckfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403761781,
-    "wof:lastmodified":1449055641,
+    "wof:lastmodified":1466586432,
     "wof:name":"Stone Gunshop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-70.326825,44.242746,-70.326825,44.242746],
+  "bbox": [
+    -70.326825,
+    44.242746,
+    -70.326825,
+    44.242746
+],
   "geometry": {"coordinates":[-70.326825,44.242746],"type":"Point"}
 }

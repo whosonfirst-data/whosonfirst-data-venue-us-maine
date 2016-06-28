@@ -2,13 +2,14 @@
   "id": 387694349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.19337,43.803376,-70.19337,43.803376",
     "geom:latitude":43.803376,
     "geom:longitude":-70.19337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"360 Main St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387694349,
-    "wof:lastmodified":1449057167,
+    "wof:lastmodified":1466586640,
     "wof:name":"Village Thrift Shop",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.19337,43.803376,-70.19337,43.803376],
+  "bbox": [
+    -70.19337,
+    43.803376,
+    -70.19337,
+    43.803376
+],
   "geometry": {"coordinates":[-70.19337,43.803376],"type":"Point"}
 }

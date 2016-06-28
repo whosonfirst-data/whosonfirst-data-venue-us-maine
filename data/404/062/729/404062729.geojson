@@ -2,13 +2,14 @@
   "id": 404062729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.775495,44.656544,-70.775495,44.656544",
     "geom:latitude":44.656544,
     "geom:longitude":-70.775495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Sawyer Notch Rd",
     "sg:city":"Andover",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404062729,
-    "wof:lastmodified":1449040255,
+    "wof:lastmodified":1466586489,
     "wof:name":"Holtzman Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.775495,44.656544,-70.775495,44.656544],
-  "geometry": {"coordinates":[-70.775495,44.656544],"type":"Point"}
+  "bbox": [
+    -70.775495,
+    44.656544,
+    -70.775495,
+    44.656544
+],
+  "geometry": {"coordinates":[-70.77549500000001,44.656544],"type":"Point"}
 }

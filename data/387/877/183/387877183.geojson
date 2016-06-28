@@ -2,13 +2,14 @@
   "id": 387877183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.850422,44.795944,-68.850422,44.795944",
     "geom:latitude":44.795944,
     "geom:longitude":-68.850422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Liberty Dr",
     "sg:city":"Hermon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387877183,
-    "wof:lastmodified":1449058783,
+    "wof:lastmodified":1466587120,
     "wof:name":"Environmental Exchange",
     "wof:parent_id":85838259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ecological"
     ]
 },
-  "bbox": [-68.850422,44.795944,-68.850422,44.795944],
-  "geometry": {"coordinates":[-68.850422,44.795944],"type":"Point"}
+  "bbox": [
+    -68.850422,
+    44.795944,
+    -68.850422,
+    44.795944
+],
+  "geometry": {"coordinates":[-68.85042199999999,44.795944],"type":"Point"}
 }

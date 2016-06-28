@@ -2,13 +2,14 @@
   "id": 403861739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.899146,44.468736,-68.899146,44.468736",
     "geom:latitude":44.468736,
     "geom:longitude":-68.899146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 E Main St",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403861739,
-    "wof:lastmodified":1449055949,
+    "wof:lastmodified":1466586669,
     "wof:name":"Quality Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-68.899146,44.468736,-68.899146,44.468736],
+  "bbox": [
+    -68.899146,
+    44.468736,
+    -68.899146,
+    44.468736
+],
   "geometry": {"coordinates":[-68.899146,44.468736],"type":"Point"}
 }

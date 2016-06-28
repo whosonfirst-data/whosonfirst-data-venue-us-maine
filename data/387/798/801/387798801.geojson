@@ -2,13 +2,14 @@
   "id": 387798801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.420219,44.689412,-69.420219,44.689412",
     "geom:latitude":44.689412,
     "geom:longitude":-69.420219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Troy Rd",
     "sg:city":"Burnham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387798801,
-    "wof:lastmodified":1449056806,
+    "wof:lastmodified":1466587036,
     "wof:name":"Burnham Village School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.420219,44.689412,-69.420219,44.689412],
+  "bbox": [
+    -69.420219,
+    44.689412,
+    -69.420219,
+    44.689412
+],
   "geometry": {"coordinates":[-69.420219,44.689412],"type":"Point"}
 }

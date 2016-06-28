@@ -2,13 +2,14 @@
   "id": 404169083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.811812,44.767668,-68.811812,44.767668",
     "geom:latitude":44.767668,
     "geom:longitude":-68.811812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Coolidge Ave",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404169083,
-    "wof:lastmodified":1449039849,
+    "wof:lastmodified":1466586788,
     "wof:name":"Grs Builders",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-68.811812,44.767668,-68.811812,44.767668],
+  "bbox": [
+    -68.811812,
+    44.767668,
+    -68.811812,
+    44.767668
+],
   "geometry": {"coordinates":[-68.811812,44.767668],"type":"Point"}
 }

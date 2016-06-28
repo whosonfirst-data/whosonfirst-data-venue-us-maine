@@ -2,13 +2,14 @@
   "id": 387735875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.224971,44.096628,-70.224971,44.096628",
     "geom:latitude":44.096628,
     "geom:longitude":-70.224971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Main St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387735875,
-    "wof:lastmodified":1449059834,
+    "wof:lastmodified":1466586924,
     "wof:name":"Rysen Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.224971,44.096628,-70.224971,44.096628],
+  "bbox": [
+    -70.224971,
+    44.096628,
+    -70.224971,
+    44.096628
+],
   "geometry": {"coordinates":[-70.224971,44.096628],"type":"Point"}
 }

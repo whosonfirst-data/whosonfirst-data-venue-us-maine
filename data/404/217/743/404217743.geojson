@@ -2,13 +2,14 @@
   "id": 404217743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.401221,43.558394,-70.401221,43.558394",
     "geom:latitude":43.558394,
     "geom:longitude":-70.401221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Portland Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404217743,
-    "wof:lastmodified":1449040272,
+    "wof:lastmodified":1466586985,
     "wof:name":"Maineway Landscaping & Excvtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.401221,43.558394,-70.401221,43.558394],
-  "geometry": {"coordinates":[-70.401221,43.558394],"type":"Point"}
+  "bbox": [
+    -70.401221,
+    43.558394,
+    -70.401221,
+    43.558394
+],
+  "geometry": {"coordinates":[-70.40122100000001,43.558394],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387727829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.790442,44.284718,-69.790442,44.284718",
     "geom:latitude":44.284718,
     "geom:longitude":-69.790442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Water St",
     "sg:city":"Hallowell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387727829,
-    "wof:lastmodified":1449056678,
+    "wof:lastmodified":1466586716,
     "wof:name":"James J Le Furgy Antiques",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-69.790442,44.284718,-69.790442,44.284718],
+  "bbox": [
+    -69.790442,
+    44.284718,
+    -69.790442,
+    44.284718
+],
   "geometry": {"coordinates":[-69.790442,44.284718],"type":"Point"}
 }

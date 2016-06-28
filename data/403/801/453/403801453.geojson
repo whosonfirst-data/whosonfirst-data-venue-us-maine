@@ -2,13 +2,14 @@
   "id": 403801453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.744272,44.127794,-69.744272,44.127794",
     "geom:latitude":44.127794,
     "geom:longitude":-69.744272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Cedar Grove Rd",
     "sg:city":"Dresden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403801453,
-    "wof:lastmodified":1449055742,
+    "wof:lastmodified":1466585969,
     "wof:name":"Dresden Elementary School",
     "wof:parent_id":85855379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.744272,44.127794,-69.744272,44.127794],
+  "bbox": [
+    -69.744272,
+    44.127794,
+    -69.744272,
+    44.127794
+],
   "geometry": {"coordinates":[-69.744272,44.127794],"type":"Point"}
 }

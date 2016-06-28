@@ -2,13 +2,14 @@
   "id": 387701969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.259692,43.657016,-70.259692,43.657016",
     "geom:latitude":43.657016,
     "geom:longitude":-70.259692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387701969,
-    "wof:lastmodified":1449059113,
+    "wof:lastmodified":1466586665,
     "wof:name":"Maine Preservation",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "preservation"
     ]
 },
-  "bbox": [-70.259692,43.657016,-70.259692,43.657016],
+  "bbox": [
+    -70.259692,
+    43.657016,
+    -70.259692,
+    43.657016
+],
   "geometry": {"coordinates":[-70.259692,43.657016],"type":"Point"}
 }

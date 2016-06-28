@@ -2,13 +2,14 @@
   "id": 387933893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.16908,43.807203,-70.16908,43.807203",
     "geom:latitude":43.807203,
     "geom:longitude":-70.16908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 US Hwy 1",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387933893,
-    "wof:lastmodified":1449056885,
+    "wof:lastmodified":1466587277,
     "wof:name":"Coastal Hardware Inc",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.16908,43.807203,-70.16908,43.807203],
-  "geometry": {"coordinates":[-70.16908,43.807203],"type":"Point"}
+  "bbox": [
+    -70.16908,
+    43.807203,
+    -70.16908,
+    43.807203
+],
+  "geometry": {"coordinates":[-70.16907999999999,43.807203],"type":"Point"}
 }

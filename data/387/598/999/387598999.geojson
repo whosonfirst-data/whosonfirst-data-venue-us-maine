@@ -2,13 +2,14 @@
   "id": 387598999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.684028,44.894242,-68.684028,44.894242",
     "geom:latitude":44.894242,
     "geom:longitude":-68.684028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Lexington Rd",
     "sg:city":"Hermon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387598999,
-    "wof:lastmodified":1449056317,
+    "wof:lastmodified":1466586333,
     "wof:name":"Central Maine Transport",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transportation"
     ]
 },
-  "bbox": [-68.684028,44.894242,-68.684028,44.894242],
+  "bbox": [
+    -68.684028,
+    44.894242,
+    -68.684028,
+    44.894242
+],
   "geometry": {"coordinates":[-68.684028,44.894242],"type":"Point"}
 }

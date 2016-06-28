@@ -2,13 +2,14 @@
   "id": 404155721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.840785,46.125559,-67.840785,46.125559",
     "geom:latitude":46.125559,
     "geom:longitude":-67.840785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Market Sq",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404155721,
-    "wof:lastmodified":1449040090,
+    "wof:lastmodified":1466586743,
     "wof:name":"Daniels Florist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.840785,46.125559,-67.840785,46.125559],
+  "bbox": [
+    -67.840785,
+    46.125559,
+    -67.840785,
+    46.125559
+],
   "geometry": {"coordinates":[-67.840785,46.125559],"type":"Point"}
 }

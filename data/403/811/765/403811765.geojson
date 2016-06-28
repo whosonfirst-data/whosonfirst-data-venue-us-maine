@@ -2,13 +2,14 @@
   "id": 403811765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.699231,43.159051,-70.699231,43.159051",
     "geom:latitude":43.159051,
     "geom:longitude":-70.699231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Cider Hill Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403811765,
-    "wof:lastmodified":1449055273,
+    "wof:lastmodified":1466586133,
     "wof:name":"Theresa Lamarca Lmt",
     "wof:parent_id":85811017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.699231,43.159051,-70.699231,43.159051],
+  "bbox": [
+    -70.699231,
+    43.159051,
+    -70.699231,
+    43.159051
+],
   "geometry": {"coordinates":[-70.699231,43.159051],"type":"Point"}
 }

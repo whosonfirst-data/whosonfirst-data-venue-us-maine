@@ -2,13 +2,14 @@
   "id": 404090579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.93404,44.610217,-68.93404,44.610217",
     "geom:latitude":44.610217,
     "geom:longitude":-68.93404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 N Searsport Rd",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404090579,
-    "wof:lastmodified":1449040040,
+    "wof:lastmodified":1466585858,
     "wof:name":"Southland Gunsmith Machin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.93404,44.610217,-68.93404,44.610217],
+  "bbox": [
+    -68.93404,
+    44.610217,
+    -68.93404,
+    44.610217
+],
   "geometry": {"coordinates":[-68.93404,44.610217],"type":"Point"}
 }

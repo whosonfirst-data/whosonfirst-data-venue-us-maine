@@ -2,13 +2,14 @@
   "id": 387656693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.522012,43.409382,-70.522012,43.409382",
     "geom:latitude":43.409382,
     "geom:longitude":-70.522012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1468 Portland Rd",
     "sg:city":"Arundel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387656693,
-    "wof:lastmodified":1449058588,
+    "wof:lastmodified":1466586068,
     "wof:name":"Charlie Horse Screen Ptg Sign",
     "wof:parent_id":85828039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-70.522012,43.409382,-70.522012,43.409382],
+  "bbox": [
+    -70.522012,
+    43.409382,
+    -70.522012,
+    43.409382
+],
   "geometry": {"coordinates":[-70.522012,43.409382],"type":"Point"}
 }

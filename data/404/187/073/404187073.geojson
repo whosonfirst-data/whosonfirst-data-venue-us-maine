@@ -2,13 +2,14 @@
   "id": 404187073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.006292,46.848541,-68.006292,46.848541",
     "geom:latitude":46.848541,
     "geom:longitude":-68.006292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Corbin St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404187073,
-    "wof:lastmodified":1449039197,
+    "wof:lastmodified":1466586773,
     "wof:name":"Caribou Community Church",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-68.006292,46.848541,-68.006292,46.848541],
+  "bbox": [
+    -68.006292,
+    46.848541,
+    -68.006292,
+    46.848541
+],
   "geometry": {"coordinates":[-68.006292,46.848541],"type":"Point"}
 }

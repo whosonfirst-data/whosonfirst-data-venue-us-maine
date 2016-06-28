@@ -2,13 +2,14 @@
   "id": 403999491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.800981,44.379173,-69.800981,44.379173",
     "geom:latitude":44.379173,
     "geom:longitude":-69.800981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 Civic Center Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403999491,
-    "wof:lastmodified":1449055809,
+    "wof:lastmodified":1466587112,
     "wof:name":"North Augusta Market",
     "wof:parent_id":85837243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.800981,44.379173,-69.800981,44.379173],
-  "geometry": {"coordinates":[-69.800981,44.379173],"type":"Point"}
+  "bbox": [
+    -69.800981,
+    44.379173,
+    -69.800981,
+    44.379173
+],
+  "geometry": {"coordinates":[-69.80098099999999,44.379173],"type":"Point"}
 }

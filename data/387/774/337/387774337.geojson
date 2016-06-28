@@ -2,13 +2,14 @@
   "id": 387774337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.254194,43.668786,-70.254194,43.668786",
     "geom:latitude":43.668786,
     "geom:longitude":-70.254194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Washington Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387774337,
-    "wof:lastmodified":1449057585,
+    "wof:lastmodified":1466587082,
     "wof:name":"East End Redemption",
     "wof:parent_id":85880023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-70.254194,43.668786,-70.254194,43.668786],
+  "bbox": [
+    -70.254194,
+    43.668786,
+    -70.254194,
+    43.668786
+],
   "geometry": {"coordinates":[-70.254194,43.668786],"type":"Point"}
 }

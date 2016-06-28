@@ -2,13 +2,14 @@
   "id": 387658519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.429397,44.282417,-70.429397,44.282417",
     "geom:latitude":44.282417,
     "geom:longitude":-70.429397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 Paris Hill Rd",
     "sg:city":"Buckfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387658519,
-    "wof:lastmodified":1449056035,
+    "wof:lastmodified":1466586100,
     "wof:name":"Hayward Excavation & Trucking",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.429397,44.282417,-70.429397,44.282417],
-  "geometry": {"coordinates":[-70.429397,44.282417],"type":"Point"}
+  "bbox": [
+    -70.429397,
+    44.282417,
+    -70.429397,
+    44.282417
+],
+  "geometry": {"coordinates":[-70.42939699999999,44.282417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387593855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.465122,43.662366,-70.465122,43.662366",
     "geom:latitude":43.662366,
     "geom:longitude":-70.465122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Harding Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387593855,
-    "wof:lastmodified":1449058636,
+    "wof:lastmodified":1466586226,
     "wof:name":"Alan Berry Race Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-70.465122,43.662366,-70.465122,43.662366],
-  "geometry": {"coordinates":[-70.465122,43.662366],"type":"Point"}
+  "bbox": [
+    -70.465122,
+    43.662366,
+    -70.465122,
+    43.662366
+],
+  "geometry": {"coordinates":[-70.46512199999999,43.662366],"type":"Point"}
 }

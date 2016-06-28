@@ -2,13 +2,14 @@
   "id": 404009099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.772784,44.421838,-69.772784,44.421838",
     "geom:latitude":44.421838,
     "geom:longitude":-69.772784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Cummings Dr",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404009099,
-    "wof:lastmodified":1449040310,
+    "wof:lastmodified":1466586632,
     "wof:name":"Cummings Garage",
     "wof:parent_id":85856385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-69.772784,44.421838,-69.772784,44.421838],
+  "bbox": [
+    -69.772784,
+    44.421838,
+    -69.772784,
+    44.421838
+],
   "geometry": {"coordinates":[-69.772784,44.421838],"type":"Point"}
 }

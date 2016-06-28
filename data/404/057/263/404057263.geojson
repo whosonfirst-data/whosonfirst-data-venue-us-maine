@@ -2,13 +2,14 @@
   "id": 404057263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.696708,44.752355,-68.696708,44.752355",
     "geom:latitude":44.752355,
     "geom:longitude":-68.696708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Copeland Hill Rd",
     "sg:city":"Holden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404057263,
-    "wof:lastmodified":1449039659,
+    "wof:lastmodified":1466586394,
     "wof:name":"A-1 Machine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-68.696708,44.752355,-68.696708,44.752355],
+  "bbox": [
+    -68.696708,
+    44.752355,
+    -68.696708,
+    44.752355
+],
   "geometry": {"coordinates":[-68.696708,44.752355],"type":"Point"}
 }

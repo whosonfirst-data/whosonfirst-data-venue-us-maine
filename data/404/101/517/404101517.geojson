@@ -2,13 +2,14 @@
   "id": 404101517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.357317,43.585012,-70.357317,43.585012",
     "geom:latitude":43.585012,
     "geom:longitude":-70.357317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"382 US Hwy 1",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404101517,
-    "wof:lastmodified":1449039754,
+    "wof:lastmodified":1466586015,
     "wof:name":"Big 20 Bowling Ctr",
     "wof:parent_id":85806509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-70.357317,43.585012,-70.357317,43.585012],
-  "geometry": {"coordinates":[-70.357317,43.585012],"type":"Point"}
+  "bbox": [
+    -70.357317,
+    43.585012,
+    -70.357317,
+    43.585012
+],
+  "geometry": {"coordinates":[-70.35731699999999,43.585012],"type":"Point"}
 }

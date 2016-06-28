@@ -2,13 +2,14 @@
   "id": 387789775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.648818,43.978154,-69.648818,43.978154",
     "geom:latitude":43.978154,
     "geom:longitude":-69.648818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Cross Point Rd",
     "sg:city":"Edgecomb",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387789775,
-    "wof:lastmodified":1449057818,
+    "wof:lastmodified":1466587098,
     "wof:name":"Suzanne O Carlson",
     "wof:parent_id":85820077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-69.648818,43.978154,-69.648818,43.978154],
-  "geometry": {"coordinates":[-69.648818,43.978154],"type":"Point"}
+  "bbox": [
+    -69.648818,
+    43.978154,
+    -69.648818,
+    43.978154
+],
+  "geometry": {"coordinates":[-69.64881800000001,43.978154],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387890137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.694294,43.107467,-70.694294,43.107467",
     "geom:latitude":43.107467,
     "geom:longitude":-70.694294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Pinkhams Ln",
     "sg:city":"Kittery Point",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387890137,
-    "wof:lastmodified":1449056937,
+    "wof:lastmodified":1466587312,
     "wof:name":"Adult Nurse Pracitioner",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.694294,43.107467,-70.694294,43.107467],
+  "bbox": [
+    -70.694294,
+    43.107467,
+    -70.694294,
+    43.107467
+],
   "geometry": {"coordinates":[-70.694294,43.107467],"type":"Point"}
 }

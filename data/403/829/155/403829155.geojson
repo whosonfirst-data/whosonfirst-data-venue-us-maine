@@ -2,13 +2,14 @@
   "id": 403829155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.67791,44.511335,-69.67791,44.511335",
     "geom:latitude":44.511335,
     "geom:longitude":-69.67791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"697 W River Rd",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403829155,
-    "wof:lastmodified":1449055875,
+    "wof:lastmodified":1466586415,
     "wof:name":"J J Pelotte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.67791,44.511335,-69.67791,44.511335],
+  "bbox": [
+    -69.67791,
+    44.511335,
+    -69.67791,
+    44.511335
+],
   "geometry": {"coordinates":[-69.67791,44.511335],"type":"Point"}
 }

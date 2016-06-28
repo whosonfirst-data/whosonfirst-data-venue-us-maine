@@ -2,13 +2,14 @@
   "id": 403710693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.338108,43.883249,-70.338108,43.883249",
     "geom:latitude":43.883249,
     "geom:longitude":-70.338108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 W Gray Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403710693,
-    "wof:lastmodified":1449054708,
+    "wof:lastmodified":1466585720,
     "wof:name":"Marden's",
     "wof:parent_id":85851311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.338108,43.883249,-70.338108,43.883249],
-  "geometry": {"coordinates":[-70.338108,43.883249],"type":"Point"}
+  "bbox": [
+    -70.338108,
+    43.883249,
+    -70.338108,
+    43.883249
+],
+  "geometry": {"coordinates":[-70.33810800000001,43.883249],"type":"Point"}
 }

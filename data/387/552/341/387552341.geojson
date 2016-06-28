@@ -2,13 +2,14 @@
   "id": 387552341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.513167,43.425581,-70.513167,43.425581",
     "geom:latitude":43.425581,
     "geom:longitude":-70.513167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 Portland Rd",
     "sg:city":"Arundel",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":387552341,
-    "wof:lastmodified":1449057700,
+    "wof:lastmodified":1466585700,
     "wof:name":"Atlantic Exterminating Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.513167,43.425581,-70.513167,43.425581],
+  "bbox": [
+    -70.513167,
+    43.425581,
+    -70.513167,
+    43.425581
+],
   "geometry": {"coordinates":[-70.513167,43.425581],"type":"Point"}
 }

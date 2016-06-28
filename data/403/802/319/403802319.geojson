@@ -2,13 +2,14 @@
   "id": 403802319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.589481,47.251084,-68.589481,47.251084",
     "geom:latitude":47.251084,
     "geom:longitude":-68.589481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 University Dr",
     "sg:city":"Fort Kent",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403802319,
-    "wof:lastmodified":1449055716,
+    "wof:lastmodified":1466585983,
     "wof:name":"University-Maine-Ft Kent Fndtn",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-68.589481,47.251084,-68.589481,47.251084],
-  "geometry": {"coordinates":[-68.589481,47.251084],"type":"Point"}
+  "bbox": [
+    -68.589481,
+    47.251084,
+    -68.589481,
+    47.251084
+],
+  "geometry": {"coordinates":[-68.58948100000001,47.251084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403823877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.40188,46.630788,-68.40188,46.630788",
     "geom:latitude":46.630788,
     "geom:longitude":-68.40188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Exchange St",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403823877,
-    "wof:lastmodified":1449055943,
+    "wof:lastmodified":1466586328,
     "wof:name":"Ashland Community Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.40188,46.630788,-68.40188,46.630788],
-  "geometry": {"coordinates":[-68.40188,46.630788],"type":"Point"}
+  "bbox": [
+    -68.40188,
+    46.630788,
+    -68.40188,
+    46.630788
+],
+  "geometry": {"coordinates":[-68.40188000000001,46.630788],"type":"Point"}
 }

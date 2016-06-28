@@ -2,13 +2,14 @@
   "id": 404186213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.411101,43.482801,-70.411101,43.482801",
     "geom:latitude":43.482801,
     "geom:longitude":-70.411101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Edgewater Ln",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404186213,
-    "wof:lastmodified":1449040027,
+    "wof:lastmodified":1466586940,
     "wof:name":"Blunt Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.411101,43.482801,-70.411101,43.482801],
+  "bbox": [
+    -70.411101,
+    43.482801,
+    -70.411101,
+    43.482801
+],
   "geometry": {"coordinates":[-70.411101,43.482801],"type":"Point"}
 }

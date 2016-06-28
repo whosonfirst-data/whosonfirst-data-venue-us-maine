@@ -2,13 +2,14 @@
   "id": 387589965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.762433,44.79739,-68.762433,44.79739",
     "geom:latitude":44.79739,
     "geom:longitude":-68.762433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Center St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387589965,
-    "wof:lastmodified":1449058143,
+    "wof:lastmodified":1466586186,
     "wof:name":"Nyle Corp",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dehumidifying"
     ]
 },
-  "bbox": [-68.762433,44.79739,-68.762433,44.79739],
+  "bbox": [
+    -68.762433,
+    44.79739,
+    -68.762433,
+    44.79739
+],
   "geometry": {"coordinates":[-68.762433,44.79739],"type":"Point"}
 }

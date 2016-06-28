@@ -2,13 +2,14 @@
   "id": 404158249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.200933,44.117013,-70.200933,44.117013",
     "geom:latitude":44.117013,
     "geom:longitude":-70.200933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Sutton Pl",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404158249,
-    "wof:lastmodified":1449039927,
+    "wof:lastmodified":1466586670,
     "wof:name":"Wheaton & Co",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-70.200933,44.117013,-70.200933,44.117013],
-  "geometry": {"coordinates":[-70.200933,44.117013],"type":"Point"}
+  "bbox": [
+    -70.200933,
+    44.117013,
+    -70.200933,
+    44.117013
+],
+  "geometry": {"coordinates":[-70.20093300000001,44.117013],"type":"Point"}
 }

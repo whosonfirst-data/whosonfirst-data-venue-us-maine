@@ -2,13 +2,14 @@
   "id": 404118013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.795743,44.7841,-68.795743,44.7841",
     "geom:latitude":44.7841,
     "geom:longitude":-68.795743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Perry Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404118013,
-    "wof:lastmodified":1449040067,
+    "wof:lastmodified":1466586263,
     "wof:name":"Bangor Roofing & Sheet Metal",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.795743,44.7841,-68.795743,44.7841],
+  "bbox": [
+    -68.795743,
+    44.7841,
+    -68.795743,
+    44.7841
+],
   "geometry": {"coordinates":[-68.795743,44.7841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404093395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.400855,43.533463,-70.400855,43.533463",
     "geom:latitude":43.533463,
     "geom:longitude":-70.400855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Arnold Rd",
     "sg:city":"Old Orchard Beach",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404093395,
-    "wof:lastmodified":1449039083,
+    "wof:lastmodified":1466585900,
     "wof:name":"Your Office Annex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.400855,43.533463,-70.400855,43.533463],
-  "geometry": {"coordinates":[-70.400855,43.533463],"type":"Point"}
+  "bbox": [
+    -70.400855,
+    43.533463,
+    -70.400855,
+    43.533463
+],
+  "geometry": {"coordinates":[-70.40085500000001,43.533463],"type":"Point"}
 }

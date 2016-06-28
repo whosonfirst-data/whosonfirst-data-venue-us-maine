@@ -2,13 +2,14 @@
   "id": 404072105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.369244,44.001198,-70.369244,44.001198",
     "geom:latitude":44.001198,
     "geom:longitude":-70.369244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Range Hill Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404072105,
-    "wof:lastmodified":1449039769,
+    "wof:lastmodified":1466586586,
     "wof:name":"Chipman Pumpkinland",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.369244,44.001198,-70.369244,44.001198],
-  "geometry": {"coordinates":[-70.369244,44.001198],"type":"Point"}
+  "bbox": [
+    -70.369244,
+    44.001198,
+    -70.369244,
+    44.001198
+],
+  "geometry": {"coordinates":[-70.36924399999999,44.001198],"type":"Point"}
 }

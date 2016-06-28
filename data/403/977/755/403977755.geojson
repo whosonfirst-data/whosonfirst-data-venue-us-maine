@@ -2,13 +2,14 @@
   "id": 403977755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.295801,43.626003,-70.295801,43.626003",
     "geom:latitude":43.626003,
     "geom:longitude":-70.295801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Rigby Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403977755,
-    "wof:lastmodified":1449056008,
+    "wof:lastmodified":1466587052,
     "wof:name":"Pine Tree Waste",
     "wof:parent_id":85809743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "collection"
     ]
 },
-  "bbox": [-70.295801,43.626003,-70.295801,43.626003],
+  "bbox": [
+    -70.295801,
+    43.626003,
+    -70.295801,
+    43.626003
+],
   "geometry": {"coordinates":[-70.295801,43.626003],"type":"Point"}
 }

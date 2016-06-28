@@ -2,13 +2,14 @@
   "id": 387865855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.126041,44.552682,-69.126041,44.552682",
     "geom:latitude":44.552682,
     "geom:longitude":-69.126041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 W Main St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387865855,
-    "wof:lastmodified":1449058980,
+    "wof:lastmodified":1466587107,
     "wof:name":"Walker Health Ctr",
     "wof:parent_id":85828753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-69.126041,44.552682,-69.126041,44.552682],
+  "bbox": [
+    -69.126041,
+    44.552682,
+    -69.126041,
+    44.552682
+],
   "geometry": {"coordinates":[-69.126041,44.552682],"type":"Point"}
 }

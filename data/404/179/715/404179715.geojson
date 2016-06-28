@@ -2,13 +2,14 @@
   "id": 404179715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.289431,45.170953,-67.289431,45.170953",
     "geom:latitude":45.170953,
     "geom:longitude":-67.289431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 US Hwy 1",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404179715,
-    "wof:lastmodified":1449040209,
+    "wof:lastmodified":1466586827,
     "wof:name":"Columbia Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-67.289431,45.170953,-67.289431,45.170953],
-  "geometry": {"coordinates":[-67.289431,45.170953],"type":"Point"}
+  "bbox": [
+    -67.289431,
+    45.170953,
+    -67.289431,
+    45.170953
+],
+  "geometry": {"coordinates":[-67.28943099999999,45.170953],"type":"Point"}
 }

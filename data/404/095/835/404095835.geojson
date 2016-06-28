@@ -2,13 +2,14 @@
   "id": 404095835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.28877,43.813198,-70.28877,43.813198",
     "geom:latitude":43.813198,
     "geom:longitude":-70.28877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Blanchard Rd",
     "sg:city":"Cumberland Center",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404095835,
-    "wof:lastmodified":1449039698,
+    "wof:lastmodified":1466585933,
     "wof:name":"Stephen Morin",
     "wof:parent_id":85855337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-70.28877,43.813198,-70.28877,43.813198],
+  "bbox": [
+    -70.28877,
+    43.813198,
+    -70.28877,
+    43.813198
+],
   "geometry": {"coordinates":[-70.28877,43.813198],"type":"Point"}
 }

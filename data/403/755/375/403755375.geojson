@@ -2,13 +2,14 @@
   "id": 403755375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.539097,44.557234,-70.539097,44.557234",
     "geom:latitude":44.557234,
     "geom:longitude":-70.539097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Parker St",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":403755375,
-    "wof:lastmodified":1449055014,
+    "wof:lastmodified":1466586323,
     "wof:name":"School Administrative Dist 43",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.539097,44.557234,-70.539097,44.557234],
+  "bbox": [
+    -70.539097,
+    44.557234,
+    -70.539097,
+    44.557234
+],
   "geometry": {"coordinates":[-70.539097,44.557234],"type":"Point"}
 }

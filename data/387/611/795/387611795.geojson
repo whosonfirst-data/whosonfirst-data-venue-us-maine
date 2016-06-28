@@ -2,13 +2,14 @@
   "id": 387611795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.228735,44.102036,-70.228735,44.102036",
     "geom:latitude":44.102036,
     "geom:longitude":-70.228735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Winter St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387611795,
-    "wof:lastmodified":1449059107,
+    "wof:lastmodified":1466586527,
     "wof:name":"Emmett D Dashiell Sr",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-70.228735,44.102036,-70.228735,44.102036],
+  "bbox": [
+    -70.228735,
+    44.102036,
+    -70.228735,
+    44.102036
+],
   "geometry": {"coordinates":[-70.228735,44.102036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403957489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.762224,44.793164,-68.762224,44.793164",
     "geom:latitude":44.793164,
     "geom:longitude":-68.762224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Union St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403957489,
-    "wof:lastmodified":1449055776,
+    "wof:lastmodified":1466587079,
     "wof:name":"No Frowns Clowns",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-68.762224,44.793164,-68.762224,44.793164],
+  "bbox": [
+    -68.762224,
+    44.793164,
+    -68.762224,
+    44.793164
+],
   "geometry": {"coordinates":[-68.762224,44.793164],"type":"Point"}
 }

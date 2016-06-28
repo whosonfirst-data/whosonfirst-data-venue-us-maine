@@ -2,13 +2,14 @@
   "id": 387678053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.958827,44.519936,-68.958827,44.519936",
     "geom:latitude":44.519936,
     "geom:longitude":-68.958827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Nickerson Rd",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387678053,
-    "wof:lastmodified":1449057938,
+    "wof:lastmodified":1466586408,
     "wof:name":"Penobscot Bay Outfitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-68.958827,44.519936,-68.958827,44.519936],
+  "bbox": [
+    -68.958827,
+    44.519936,
+    -68.958827,
+    44.519936
+],
   "geometry": {"coordinates":[-68.958827,44.519936],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387845011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.742873,44.835745,-68.742873,44.835745",
     "geom:latitude":44.835745,
     "geom:longitude":-68.742873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Bangor Mall Blvd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387845011,
-    "wof:lastmodified":1449056727,
+    "wof:lastmodified":1466587219,
     "wof:name":"Curtainshop",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drapery"
     ]
 },
-  "bbox": [-68.742873,44.835745,-68.742873,44.835745],
+  "bbox": [
+    -68.742873,
+    44.835745,
+    -68.742873,
+    44.835745
+],
   "geometry": {"coordinates":[-68.742873,44.835745],"type":"Point"}
 }

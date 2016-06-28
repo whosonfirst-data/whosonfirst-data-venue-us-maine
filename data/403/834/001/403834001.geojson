@@ -2,13 +2,14 @@
   "id": 403834001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.304103,44.080109,-70.304103,44.080109",
     "geom:latitude":44.080109,
     "geom:longitude":-70.304103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 Minot Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403834001,
-    "wof:lastmodified":1449054761,
+    "wof:lastmodified":1466586496,
     "wof:name":"Cliff's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.304103,44.080109,-70.304103,44.080109],
+  "bbox": [
+    -70.304103,
+    44.080109,
+    -70.304103,
+    44.080109
+],
   "geometry": {"coordinates":[-70.304103,44.080109],"type":"Point"}
 }

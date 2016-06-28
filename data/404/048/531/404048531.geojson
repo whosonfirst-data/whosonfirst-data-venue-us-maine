@@ -2,13 +2,14 @@
   "id": 404048531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.513817,44.58467,-70.513817,44.58467",
     "geom:latitude":44.58467,
     "geom:longitude":-70.513817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"397 Backkingdom Rd",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404048531,
-    "wof:lastmodified":1449039433,
+    "wof:lastmodified":1466586263,
     "wof:name":"Magpies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.513817,44.58467,-70.513817,44.58467],
+  "bbox": [
+    -70.513817,
+    44.58467,
+    -70.513817,
+    44.58467
+],
   "geometry": {"coordinates":[-70.513817,44.58467],"type":"Point"}
 }

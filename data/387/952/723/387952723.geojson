@@ -2,13 +2,14 @@
   "id": 387952723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.106686,44.119592,-70.106686,44.119592",
     "geom:latitude":44.119592,
     "geom:longitude":-70.106686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 High St",
     "sg:city":"Sabattus",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387952723,
-    "wof:lastmodified":1449058848,
+    "wof:lastmodified":1466587336,
     "wof:name":"Our Lady of The Rosary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.106686,44.119592,-70.106686,44.119592],
+  "bbox": [
+    -70.106686,
+    44.119592,
+    -70.106686,
+    44.119592
+],
   "geometry": {"coordinates":[-70.106686,44.119592],"type":"Point"}
 }

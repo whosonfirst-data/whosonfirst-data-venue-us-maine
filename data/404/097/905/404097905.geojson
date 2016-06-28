@@ -2,13 +2,14 @@
   "id": 404097905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.791923,44.276246,-69.791923,44.276246",
     "geom:latitude":44.276246,
     "geom:longitude":-69.791923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 Water St",
     "sg:city":"Hallowell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404097905,
-    "wof:lastmodified":1449039504,
+    "wof:lastmodified":1466585967,
     "wof:name":"Terri Hewett Lcsw",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "worker"
     ]
 },
-  "bbox": [-69.791923,44.276246,-69.791923,44.276246],
+  "bbox": [
+    -69.791923,
+    44.276246,
+    -69.791923,
+    44.276246
+],
   "geometry": {"coordinates":[-69.791923,44.276246],"type":"Point"}
 }

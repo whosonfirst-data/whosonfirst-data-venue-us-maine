@@ -2,13 +2,14 @@
   "id": 404016459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.803551,43.524206,-70.803551,43.524206",
     "geom:latitude":43.524206,
     "geom:longitude":-70.803551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Cross Rd",
     "sg:city":"Shapleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404016459,
-    "wof:lastmodified":1449039260,
+    "wof:lastmodified":1466585861,
     "wof:name":"Creative Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.803551,43.524206,-70.803551,43.524206],
+  "bbox": [
+    -70.803551,
+    43.524206,
+    -70.803551,
+    43.524206
+],
   "geometry": {"coordinates":[-70.803551,43.524206],"type":"Point"}
 }

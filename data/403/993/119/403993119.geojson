@@ -2,13 +2,14 @@
   "id": 403993119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.796047,43.740201,-69.796047,43.740201",
     "geom:latitude":43.740201,
     "geom:longitude":-69.796047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Perkins Farm Ln",
     "sg:city":"Phippsburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403993119,
-    "wof:lastmodified":1449055220,
+    "wof:lastmodified":1466587251,
     "wof:name":"Popham Beach State Park",
     "wof:parent_id":85842719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-69.796047,43.740201,-69.796047,43.740201],
+  "bbox": [
+    -69.796047,
+    43.740201,
+    -69.796047,
+    43.740201
+],
   "geometry": {"coordinates":[-69.796047,43.740201],"type":"Point"}
 }

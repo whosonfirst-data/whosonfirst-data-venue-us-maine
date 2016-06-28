@@ -2,13 +2,14 @@
   "id": 403815607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.136562,44.30603,-70.136562,44.30603",
     "geom:latitude":44.30603,
     "geom:longitude":-70.136562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Austin Rd",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403815607,
-    "wof:lastmodified":1449055275,
+    "wof:lastmodified":1466586195,
     "wof:name":"Aussie-Magic Boarding Kennel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.136562,44.30603,-70.136562,44.30603],
+  "bbox": [
+    -70.136562,
+    44.30603,
+    -70.136562,
+    44.30603
+],
   "geometry": {"coordinates":[-70.136562,44.30603],"type":"Point"}
 }

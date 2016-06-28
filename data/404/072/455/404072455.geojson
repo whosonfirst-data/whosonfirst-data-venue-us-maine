@@ -2,13 +2,14 @@
   "id": 404072455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.933585,46.102508,-67.933585,46.102508",
     "geom:latitude":46.102508,
     "geom:longitude":-67.933585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Drews Lake Rd",
     "sg:city":"New Limerick",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404072455,
-    "wof:lastmodified":1449039768,
+    "wof:lastmodified":1466586591,
     "wof:name":"Landmark Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-67.933585,46.102508,-67.933585,46.102508],
-  "geometry": {"coordinates":[-67.933585,46.102508],"type":"Point"}
+  "bbox": [
+    -67.933585,
+    46.102508,
+    -67.933585,
+    46.102508
+],
+  "geometry": {"coordinates":[-67.93358499999999,46.102508],"type":"Point"}
 }

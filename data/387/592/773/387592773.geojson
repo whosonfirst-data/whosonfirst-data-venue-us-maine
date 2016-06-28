@@ -2,13 +2,14 @@
   "id": 387592773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.571894,43.331777,-70.571894,43.331777",
     "geom:latitude":43.331777,
     "geom:longitude":-70.571894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 Post Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387592773,
-    "wof:lastmodified":1449058291,
+    "wof:lastmodified":1466586220,
     "wof:name":"Peggy Carboni Antiques",
     "wof:parent_id":85815165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-70.571894,43.331777,-70.571894,43.331777],
+  "bbox": [
+    -70.571894,
+    43.331777,
+    -70.571894,
+    43.331777
+],
   "geometry": {"coordinates":[-70.571894,43.331777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403824095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.748131,44.8027,-68.748131,44.8027",
     "geom:latitude":44.8027,
     "geom:longitude":-68.748131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 N Main St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403824095,
-    "wof:lastmodified":1449055101,
+    "wof:lastmodified":1466586332,
     "wof:name":"Garys Electrical Serfices",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.748131,44.8027,-68.748131,44.8027],
+  "bbox": [
+    -68.748131,
+    44.8027,
+    -68.748131,
+    44.8027
+],
   "geometry": {"coordinates":[-68.748131,44.8027],"type":"Point"}
 }

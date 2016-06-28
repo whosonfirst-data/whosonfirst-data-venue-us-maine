@@ -2,13 +2,14 @@
   "id": 404061591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.631203,44.549839,-69.631203,44.549839",
     "geom:latitude":44.549839,
     "geom:longitude":-69.631203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Concourse E",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404061591,
-    "wof:lastmodified":1449039991,
+    "wof:lastmodified":1466586460,
     "wof:name":"Woodland Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-69.631203,44.549839,-69.631203,44.549839],
+  "bbox": [
+    -69.631203,
+    44.549839,
+    -69.631203,
+    44.549839
+],
   "geometry": {"coordinates":[-69.631203,44.549839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403789319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.841496,44.734336,-68.841496,44.734336",
     "geom:latitude":44.734336,
     "geom:longitude":-68.841496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Main Rd S",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403789319,
-    "wof:lastmodified":1449055233,
+    "wof:lastmodified":1466585798,
     "wof:name":"Drink2health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.841496,44.734336,-68.841496,44.734336],
-  "geometry": {"coordinates":[-68.841496,44.734336],"type":"Point"}
+  "bbox": [
+    -68.841496,
+    44.734336,
+    -68.841496,
+    44.734336
+],
+  "geometry": {"coordinates":[-68.84149600000001,44.734336],"type":"Point"}
 }

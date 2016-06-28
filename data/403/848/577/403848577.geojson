@@ -2,13 +2,14 @@
   "id": 403848577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.145695,44.174522,-70.145695,44.174522",
     "geom:latitude":44.174522,
     "geom:longitude":-70.145695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 College Rd",
     "sg:city":"Greene",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403848577,
-    "wof:lastmodified":1449054812,
+    "wof:lastmodified":1466586713,
     "wof:name":"Richard Belanger Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.145695,44.174522,-70.145695,44.174522],
+  "bbox": [
+    -70.145695,
+    44.174522,
+    -70.145695,
+    44.174522
+],
   "geometry": {"coordinates":[-70.145695,44.174522],"type":"Point"}
 }

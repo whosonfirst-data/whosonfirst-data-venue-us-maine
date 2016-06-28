@@ -2,13 +2,14 @@
   "id": 387904371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.836729,44.790152,-68.836729,44.790152",
     "geom:latitude":44.790152,
     "geom:longitude":-68.836729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Hildreth St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387904371,
-    "wof:lastmodified":1449060005,
+    "wof:lastmodified":1466587235,
     "wof:name":"Gould Equipment",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plastic"
     ]
 },
-  "bbox": [-68.836729,44.790152,-68.836729,44.790152],
-  "geometry": {"coordinates":[-68.836729,44.790152],"type":"Point"}
+  "bbox": [
+    -68.836729,
+    44.790152,
+    -68.836729,
+    44.790152
+],
+  "geometry": {"coordinates":[-68.83672900000001,44.790152],"type":"Point"}
 }

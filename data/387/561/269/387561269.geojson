@@ -2,13 +2,14 @@
   "id": 387561269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.767111,44.780798,-68.767111,44.780798",
     "geom:latitude":44.780798,
     "geom:longitude":-68.767111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Coffin Ave",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387561269,
-    "wof:lastmodified":1449058806,
+    "wof:lastmodified":1466585783,
     "wof:name":"Equipment Rental Party Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yard"
     ]
 },
-  "bbox": [-68.767111,44.780798,-68.767111,44.780798],
+  "bbox": [
+    -68.767111,
+    44.780798,
+    -68.767111,
+    44.780798
+],
   "geometry": {"coordinates":[-68.767111,44.780798],"type":"Point"}
 }

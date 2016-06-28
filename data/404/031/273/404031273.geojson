@@ -2,13 +2,14 @@
   "id": 404031273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.107184,43.862314,-70.107184,43.862314",
     "geom:latitude":43.862314,
     "geom:longitude":-70.107184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Oak Ave",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":404031273,
-    "wof:lastmodified":1449039481,
+    "wof:lastmodified":1466585975,
     "wof:name":"Abbott Laboratories",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "prep"
     ]
 },
-  "bbox": [-70.107184,43.862314,-70.107184,43.862314],
+  "bbox": [
+    -70.107184,
+    43.862314,
+    -70.107184,
+    43.862314
+],
   "geometry": {"coordinates":[-70.107184,43.862314],"type":"Point"}
 }

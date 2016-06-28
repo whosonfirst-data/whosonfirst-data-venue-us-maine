@@ -2,13 +2,14 @@
   "id": 387803991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.740647,43.302725,-70.740647,43.302725",
     "geom:latitude":43.302725,
     "geom:longitude":-70.740647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Elm St",
     "sg:city":"North Berwick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387803991,
-    "wof:lastmodified":1449059961,
+    "wof:lastmodified":1466586967,
     "wof:name":"Celtic Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.740647,43.302725,-70.740647,43.302725],
+  "bbox": [
+    -70.740647,
+    43.302725,
+    -70.740647,
+    43.302725
+],
   "geometry": {"coordinates":[-70.740647,43.302725],"type":"Point"}
 }

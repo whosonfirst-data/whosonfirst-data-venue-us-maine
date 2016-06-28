@@ -2,13 +2,14 @@
   "id": 387553147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.991217,44.903006,-66.991217,44.903006",
     "geom:latitude":44.903006,
     "geom:longitude":-66.991217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 3rd St",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387553147,
-    "wof:lastmodified":1449056137,
+    "wof:lastmodified":1466585780,
     "wof:name":"Achco Snow Shoveling Svc",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "removal"
     ]
 },
-  "bbox": [-66.991217,44.903006,-66.991217,44.903006],
-  "geometry": {"coordinates":[-66.991217,44.903006],"type":"Point"}
+  "bbox": [
+    -66.991217,
+    44.903006,
+    -66.991217,
+    44.903006
+],
+  "geometry": {"coordinates":[-66.99121700000001,44.903006],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387729841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.564221,47.240081,-68.564221,47.240081",
     "geom:latitude":47.240081,
     "geom:longitude":-68.564221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 N Perley Brook Rd",
     "sg:city":"Fort Kent",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387729841,
-    "wof:lastmodified":1449058022,
+    "wof:lastmodified":1466586838,
     "wof:name":"Zoel N Morneault",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-68.564221,47.240081,-68.564221,47.240081],
+  "bbox": [
+    -68.564221,
+    47.240081,
+    -68.564221,
+    47.240081
+],
   "geometry": {"coordinates":[-68.564221,47.240081],"type":"Point"}
 }

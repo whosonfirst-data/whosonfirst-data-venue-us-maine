@@ -2,13 +2,14 @@
   "id": 387968465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.974736,43.918322,-69.974736,43.918322",
     "geom:latitude":43.918322,
     "geom:longitude":-69.974736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Union St",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387968465,
-    "wof:lastmodified":1449056351,
+    "wof:lastmodified":1466587307,
     "wof:name":"VIP Discount Auto Ctr",
     "wof:parent_id":85867969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-69.974736,43.918322,-69.974736,43.918322],
-  "geometry": {"coordinates":[-69.974736,43.918322],"type":"Point"}
+  "bbox": [
+    -69.974736,
+    43.918322,
+    -69.974736,
+    43.918322
+],
+  "geometry": {"coordinates":[-69.97473599999999,43.918322],"type":"Point"}
 }

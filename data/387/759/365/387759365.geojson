@@ -2,13 +2,14 @@
   "id": 387759365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.294975,43.670821,-70.294975,43.670821",
     "geom:latitude":43.670821,
     "geom:longitude":-70.294975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"377 Stevens Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387759365,
-    "wof:lastmodified":1449059973,
+    "wof:lastmodified":1466586925,
     "wof:name":"Burbank Branch Library",
     "wof:parent_id":85880021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.294975,43.670821,-70.294975,43.670821],
-  "geometry": {"coordinates":[-70.294975,43.670821],"type":"Point"}
+  "bbox": [
+    -70.294975,
+    43.670821,
+    -70.294975,
+    43.670821
+],
+  "geometry": {"coordinates":[-70.29497499999999,43.670821],"type":"Point"}
 }

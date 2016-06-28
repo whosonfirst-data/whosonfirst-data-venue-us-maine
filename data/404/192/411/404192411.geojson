@@ -2,13 +2,14 @@
   "id": 404192411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.192264,44.133224,-70.192264,44.133224",
     "geom:latitude":44.133224,
     "geom:longitude":-70.192264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Stetson Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404192411,
-    "wof:lastmodified":1449039971,
+    "wof:lastmodified":1466586892,
     "wof:name":"Lewiston Veterinary Hospital",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-70.192264,44.133224,-70.192264,44.133224],
-  "geometry": {"coordinates":[-70.192264,44.133224],"type":"Point"}
+  "bbox": [
+    -70.192264,
+    44.133224,
+    -70.192264,
+    44.133224
+],
+  "geometry": {"coordinates":[-70.19226399999999,44.133224],"type":"Point"}
 }

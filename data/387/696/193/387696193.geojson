@@ -2,13 +2,14 @@
   "id": 387696193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.991497,46.796825,-67.991497,46.796825",
     "geom:latitude":46.796825,
     "geom:longitude":-67.991497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1154 Presque Isle Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387696193,
-    "wof:lastmodified":1449056393,
+    "wof:lastmodified":1466586829,
     "wof:name":"County Stove Shop",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "burning"
     ]
 },
-  "bbox": [-67.991497,46.796825,-67.991497,46.796825],
+  "bbox": [
+    -67.991497,
+    46.796825,
+    -67.991497,
+    46.796825
+],
   "geometry": {"coordinates":[-67.991497,46.796825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403994365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.262714,43.652135,-70.262714,43.652135",
     "geom:latitude":43.652135,
     "geom:longitude":-70.262714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Park St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403994365,
-    "wof:lastmodified":1449054687,
+    "wof:lastmodified":1466587253,
     "wof:name":"Pearl Info Services",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-70.262714,43.652135,-70.262714,43.652135],
+  "bbox": [
+    -70.262714,
+    43.652135,
+    -70.262714,
+    43.652135
+],
   "geometry": {"coordinates":[-70.262714,43.652135],"type":"Point"}
 }

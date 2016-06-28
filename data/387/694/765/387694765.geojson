@@ -2,13 +2,14 @@
   "id": 387694765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.254463,43.739391,-70.254463,43.739391",
     "geom:latitude":43.739391,
     "geom:longitude":-70.254463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Woodlands Dr",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387694765,
-    "wof:lastmodified":1449057169,
+    "wof:lastmodified":1466586706,
     "wof:name":"Sue Shane Gallery",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.254463,43.739391,-70.254463,43.739391],
+  "bbox": [
+    -70.254463,
+    43.739391,
+    -70.254463,
+    43.739391
+],
   "geometry": {"coordinates":[-70.254463,43.739391],"type":"Point"}
 }

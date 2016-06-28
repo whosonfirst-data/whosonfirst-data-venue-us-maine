@@ -2,13 +2,14 @@
   "id": 387821537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.30254,43.894268,-70.30254,43.894268",
     "geom:latitude":43.894268,
     "geom:longitude":-70.30254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Mayall Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387821537,
-    "wof:lastmodified":1449058183,
+    "wof:lastmodified":1466587187,
     "wof:name":"Deer Pond Crafts",
     "wof:parent_id":85857545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-70.30254,43.894268,-70.30254,43.894268],
-  "geometry": {"coordinates":[-70.30254,43.894268],"type":"Point"}
+  "bbox": [
+    -70.30254,
+    43.894268,
+    -70.30254,
+    43.894268
+],
+  "geometry": {"coordinates":[-70.30253999999999,43.894268],"type":"Point"}
 }

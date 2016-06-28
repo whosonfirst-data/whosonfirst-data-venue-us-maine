@@ -2,13 +2,14 @@
   "id": 403871143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.492967,44.158145,-70.492967,44.158145",
     "geom:latitude":44.158145,
     "geom:longitude":-70.492967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1037 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403871143,
-    "wof:lastmodified":1449055061,
+    "wof:lastmodified":1466586880,
     "wof:name":"Oxford Hills Funeral Svc Inc",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-70.492967,44.158145,-70.492967,44.158145],
-  "geometry": {"coordinates":[-70.492967,44.158145],"type":"Point"}
+  "bbox": [
+    -70.492967,
+    44.158145,
+    -70.492967,
+    44.158145
+],
+  "geometry": {"coordinates":[-70.49296699999999,44.158145],"type":"Point"}
 }

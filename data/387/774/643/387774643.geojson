@@ -2,13 +2,14 @@
   "id": 387774643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.104027,43.867174,-70.104027,43.867174",
     "geom:latitude":43.867174,
     "geom:longitude":-70.104027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Kendall Ln",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":387774643,
-    "wof:lastmodified":1449057587,
+    "wof:lastmodified":1466586986,
     "wof:name":"Goodwill Industries Neng",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-70.104027,43.867174,-70.104027,43.867174],
+  "bbox": [
+    -70.104027,
+    43.867174,
+    -70.104027,
+    43.867174
+],
   "geometry": {"coordinates":[-70.104027,43.867174],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403823443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.232502,43.642058,-70.232502,43.642058",
     "geom:latitude":43.642058,
     "geom:longitude":-70.232502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Smith St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403823443,
-    "wof:lastmodified":1449055945,
+    "wof:lastmodified":1466586321,
     "wof:name":"Ace Pet Sitting",
     "wof:parent_id":85867975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "exercising"
     ]
 },
-  "bbox": [-70.232502,43.642058,-70.232502,43.642058],
+  "bbox": [
+    -70.232502,
+    43.642058,
+    -70.232502,
+    43.642058
+],
   "geometry": {"coordinates":[-70.232502,43.642058],"type":"Point"}
 }

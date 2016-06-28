@@ -2,13 +2,14 @@
   "id": 403761773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.13344,44.222791,-70.13344,44.222791",
     "geom:latitude":44.222791,
     "geom:longitude":-70.13344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"474 Quaker Ridge Rd",
     "sg:city":"Greene",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403761773,
-    "wof:lastmodified":1449055642,
+    "wof:lastmodified":1466586431,
     "wof:name":"DLP Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.13344,44.222791,-70.13344,44.222791],
-  "geometry": {"coordinates":[-70.13344,44.222791],"type":"Point"}
+  "bbox": [
+    -70.13344,
+    44.222791,
+    -70.13344,
+    44.222791
+],
+  "geometry": {"coordinates":[-70.13343999999999,44.222791],"type":"Point"}
 }

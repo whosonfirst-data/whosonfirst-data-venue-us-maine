@@ -2,13 +2,14 @@
   "id": 404097085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.265976,43.652456,-70.265976,43.652456",
     "geom:latitude":43.652456,
     "geom:longitude":-70.265976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 State St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404097085,
-    "wof:lastmodified":1449039505,
+    "wof:lastmodified":1466585955,
     "wof:name":"Episcopal Diocese Of Maine",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.265976,43.652456,-70.265976,43.652456],
-  "geometry": {"coordinates":[-70.265976,43.652456],"type":"Point"}
+  "bbox": [
+    -70.265976,
+    43.652456,
+    -70.265976,
+    43.652456
+],
+  "geometry": {"coordinates":[-70.26597599999999,43.652456],"type":"Point"}
 }

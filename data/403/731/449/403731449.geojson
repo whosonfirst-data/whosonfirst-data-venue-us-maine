@@ -2,13 +2,14 @@
   "id": 403731449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.308653,43.607762,-70.308653,43.607762",
     "geom:latitude":43.607762,
     "geom:longitude":-70.308653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Pleasant Hill Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403731449,
-    "wof:lastmodified":1449055822,
+    "wof:lastmodified":1466585980,
     "wof:name":"Lily Transportation Corp",
     "wof:parent_id":85852203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leasing"
     ]
 },
-  "bbox": [-70.308653,43.607762,-70.308653,43.607762],
-  "geometry": {"coordinates":[-70.308653,43.607762],"type":"Point"}
+  "bbox": [
+    -70.308653,
+    43.607762,
+    -70.308653,
+    43.607762
+],
+  "geometry": {"coordinates":[-70.30865300000001,43.607762],"type":"Point"}
 }

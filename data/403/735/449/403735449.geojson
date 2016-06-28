@@ -2,13 +2,14 @@
   "id": 403735449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.548404,44.551145,-70.548404,44.551145",
     "geom:latitude":44.551145,
     "geom:longitude":-70.548404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Waldo St",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":403735449,
-    "wof:lastmodified":1449055917,
+    "wof:lastmodified":1466586026,
     "wof:name":"Four Corners Bottle Redemption",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "center"
     ]
 },
-  "bbox": [-70.548404,44.551145,-70.548404,44.551145],
+  "bbox": [
+    -70.548404,
+    44.551145,
+    -70.548404,
+    44.551145
+],
   "geometry": {"coordinates":[-70.548404,44.551145],"type":"Point"}
 }

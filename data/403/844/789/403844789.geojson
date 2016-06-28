@@ -2,13 +2,14 @@
   "id": 403844789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.998531,46.863924,-67.998531,46.863924",
     "geom:latitude":46.863924,
     "geom:longitude":-67.998531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Limestone St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403844789,
-    "wof:lastmodified":1449055201,
+    "wof:lastmodified":1466586702,
     "wof:name":"Echoes Press Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-67.998531,46.863924,-67.998531,46.863924],
+  "bbox": [
+    -67.998531,
+    46.863924,
+    -67.998531,
+    46.863924
+],
   "geometry": {"coordinates":[-67.998531,46.863924],"type":"Point"}
 }

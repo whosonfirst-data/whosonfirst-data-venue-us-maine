@@ -2,13 +2,14 @@
   "id": 387682589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.224958,44.110182,-70.224958,44.110182",
     "geom:latitude":44.110182,
     "geom:longitude":-70.224958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Cross St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387682589,
-    "wof:lastmodified":1449056765,
+    "wof:lastmodified":1466586484,
     "wof:name":"D & R Framing",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "frame"
     ]
 },
-  "bbox": [-70.224958,44.110182,-70.224958,44.110182],
+  "bbox": [
+    -70.224958,
+    44.110182,
+    -70.224958,
+    44.110182
+],
   "geometry": {"coordinates":[-70.224958,44.110182],"type":"Point"}
 }

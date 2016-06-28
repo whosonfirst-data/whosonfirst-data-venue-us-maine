@@ -2,13 +2,14 @@
   "id": 403855429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.026583,46.68312,-68.026583,46.68312",
     "geom:latitude":46.68312,
     "geom:longitude":-68.026583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Mechanic St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403855429,
-    "wof:lastmodified":1449055594,
+    "wof:lastmodified":1466586731,
     "wof:name":"Indoor Pool",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-68.026583,46.68312,-68.026583,46.68312],
+  "bbox": [
+    -68.026583,
+    46.68312,
+    -68.026583,
+    46.68312
+],
   "geometry": {"coordinates":[-68.026583,46.68312],"type":"Point"}
 }

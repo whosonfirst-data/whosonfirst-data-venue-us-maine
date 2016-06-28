@@ -2,13 +2,14 @@
   "id": 387579333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.11094,44.114433,-69.11094,44.114433",
     "geom:latitude":44.114433,
     "geom:longitude":-69.11094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 N Main St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387579333,
-    "wof:lastmodified":1449057311,
+    "wof:lastmodified":1466586009,
     "wof:name":"R M Thompson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-69.11094,44.114433,-69.11094,44.114433],
+  "bbox": [
+    -69.11094,
+    44.114433,
+    -69.11094,
+    44.114433
+],
   "geometry": {"coordinates":[-69.11094,44.114433],"type":"Point"}
 }

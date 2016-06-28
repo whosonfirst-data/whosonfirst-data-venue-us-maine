@@ -2,13 +2,14 @@
   "id": 387906837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.434178,43.994711,-70.434178,43.994711",
     "geom:latitude":43.994711,
     "geom:longitude":-70.434178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Tenny Hill Rd",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387906837,
-    "wof:lastmodified":1449057550,
+    "wof:lastmodified":1466587317,
     "wof:name":"Barns Shelters & Sheds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "barn"
     ]
 },
-  "bbox": [-70.434178,43.994711,-70.434178,43.994711],
+  "bbox": [
+    -70.434178,
+    43.994711,
+    -70.434178,
+    43.994711
+],
   "geometry": {"coordinates":[-70.434178,43.994711],"type":"Point"}
 }

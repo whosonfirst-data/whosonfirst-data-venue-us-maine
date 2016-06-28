@@ -2,13 +2,14 @@
   "id": 387718955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.496814,45.088155,-67.496814,45.088155",
     "geom:latitude":45.088155,
     "geom:longitude":-67.496814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1332 Airline Rd",
     "sg:city":"Baileyville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387718955,
-    "wof:lastmodified":1449056920,
+    "wof:lastmodified":1466586812,
     "wof:name":"Randy's Variety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.496814,45.088155,-67.496814,45.088155],
+  "bbox": [
+    -67.496814,
+    45.088155,
+    -67.496814,
+    45.088155
+],
   "geometry": {"coordinates":[-67.496814,45.088155],"type":"Point"}
 }

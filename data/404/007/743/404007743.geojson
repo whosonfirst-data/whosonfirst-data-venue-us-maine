@@ -2,13 +2,14 @@
   "id": 404007743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.396313,43.48102,-70.396313,43.48102",
     "geom:latitude":43.48102,
     "geom:longitude":-70.396313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Christopher Ter",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404007743,
-    "wof:lastmodified":1449040103,
+    "wof:lastmodified":1466585796,
     "wof:name":"Poirier Electric & Automation",
     "wof:parent_id":85828495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.396313,43.48102,-70.396313,43.48102],
-  "geometry": {"coordinates":[-70.396313,43.48102],"type":"Point"}
+  "bbox": [
+    -70.396313,
+    43.48102,
+    -70.396313,
+    43.48102
+],
+  "geometry": {"coordinates":[-70.39631300000001,43.48102],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403829387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.321437,43.686657,-70.321437,43.686657",
     "geom:latitude":43.686657,
     "geom:longitude":-70.321437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Warren Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403829387,
-    "wof:lastmodified":1449055874,
+    "wof:lastmodified":1466586419,
     "wof:name":"EJP Everett J Prescott Inc",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "meter"
     ]
 },
-  "bbox": [-70.321437,43.686657,-70.321437,43.686657],
+  "bbox": [
+    -70.321437,
+    43.686657,
+    -70.321437,
+    43.686657
+],
   "geometry": {"coordinates":[-70.321437,43.686657],"type":"Point"}
 }

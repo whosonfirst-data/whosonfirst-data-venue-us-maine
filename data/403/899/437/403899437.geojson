@@ -2,13 +2,14 @@
   "id": 403899437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.781029,44.799504,-68.781029,44.799504",
     "geom:latitude":44.799504,
     "geom:longitude":-68.781029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 5th St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403899437,
-    "wof:lastmodified":1449055880,
+    "wof:lastmodified":1466586923,
     "wof:name":"Paul Noddin Antiques",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-68.781029,44.799504,-68.781029,44.799504],
+  "bbox": [
+    -68.781029,
+    44.799504,
+    -68.781029,
+    44.799504
+],
   "geometry": {"coordinates":[-68.781029,44.799504],"type":"Point"}
 }

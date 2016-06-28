@@ -2,13 +2,14 @@
   "id": 387599147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.184486,44.165851,-70.184486,44.165851",
     "geom:latitude":44.165851,
     "geom:longitude":-70.184486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 S River Rd",
     "sg:city":"Greene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387599147,
-    "wof:lastmodified":1449057873,
+    "wof:lastmodified":1466586335,
     "wof:name":"Designed Solutions Inc",
     "wof:parent_id":85815921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "built"
     ]
 },
-  "bbox": [-70.184486,44.165851,-70.184486,44.165851],
-  "geometry": {"coordinates":[-70.184486,44.165851],"type":"Point"}
+  "bbox": [
+    -70.184486,
+    44.165851,
+    -70.184486,
+    44.165851
+],
+  "geometry": {"coordinates":[-70.18448600000001,44.165851],"type":"Point"}
 }

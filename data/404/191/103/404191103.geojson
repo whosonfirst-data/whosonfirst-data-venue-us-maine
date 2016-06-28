@@ -2,13 +2,14 @@
   "id": 404191103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.1954,44.103088,-70.1954,44.103088",
     "geom:latitude":44.103088,
     "geom:longitude":-70.1954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Lafayette St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404191103,
-    "wof:lastmodified":1449039839,
+    "wof:lastmodified":1466586891,
     "wof:name":"Sisters Of Charity Health Syst",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-70.1954,44.103088,-70.1954,44.103088],
-  "geometry": {"coordinates":[-70.1954,44.103088],"type":"Point"}
+  "bbox": [
+    -70.1954,
+    44.103088,
+    -70.1954,
+    44.103088
+],
+  "geometry": {"coordinates":[-70.19540000000001,44.103088],"type":"Point"}
 }

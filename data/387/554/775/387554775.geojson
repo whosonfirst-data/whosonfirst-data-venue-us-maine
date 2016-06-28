@@ -2,13 +2,14 @@
   "id": 387554775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.663229,43.18422,-70.663229,43.18422",
     "geom:latitude":43.18422,
     "geom:longitude":-70.663229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Scituate Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387554775,
-    "wof:lastmodified":1449056888,
+    "wof:lastmodified":1466585865,
     "wof:name":"Bertolini Construction",
     "wof:parent_id":85810513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-70.663229,43.18422,-70.663229,43.18422],
+  "bbox": [
+    -70.663229,
+    43.18422,
+    -70.663229,
+    43.18422
+],
   "geometry": {"coordinates":[-70.663229,43.18422],"type":"Point"}
 }

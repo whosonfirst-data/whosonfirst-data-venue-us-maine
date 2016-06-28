@@ -2,13 +2,14 @@
   "id": 387845403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.476676,44.143093,-70.476676,44.143093",
     "geom:latitude":44.143093,
     "geom:longitude":-70.476676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"596 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":387845403,
-    "wof:lastmodified":1449056726,
+    "wof:lastmodified":1466587150,
     "wof:name":"Maine-Ly Action Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "terrain"
     ]
 },
-  "bbox": [-70.476676,44.143093,-70.476676,44.143093],
+  "bbox": [
+    -70.476676,
+    44.143093,
+    -70.476676,
+    44.143093
+],
   "geometry": {"coordinates":[-70.476676,44.143093],"type":"Point"}
 }

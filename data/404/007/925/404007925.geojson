@@ -2,13 +2,14 @@
   "id": 404007925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.818282,44.313429,-69.818282,44.313429",
     "geom:latitude":44.313429,
     "geom:longitude":-69.818282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Edison Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404007925,
-    "wof:lastmodified":1449040101,
+    "wof:lastmodified":1466585799,
     "wof:name":"Central Maine Power Co",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-69.818282,44.313429,-69.818282,44.313429],
+  "bbox": [
+    -69.818282,
+    44.313429,
+    -69.818282,
+    44.313429
+],
   "geometry": {"coordinates":[-69.818282,44.313429],"type":"Point"}
 }

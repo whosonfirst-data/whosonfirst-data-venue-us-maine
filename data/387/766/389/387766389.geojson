@@ -2,13 +2,14 @@
   "id": 387766389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.689054,45.657214,-68.689054,45.657214",
     "geom:latitude":45.657214,
     "geom:longitude":-68.689054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Central St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387766389,
-    "wof:lastmodified":1449056066,
+    "wof:lastmodified":1466586950,
     "wof:name":"Millinocket IGA Foodliner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-68.689054,45.657214,-68.689054,45.657214],
+  "bbox": [
+    -68.689054,
+    45.657214,
+    -68.689054,
+    45.657214
+],
   "geometry": {"coordinates":[-68.689054,45.657214],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387778469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.754111,43.143774,-70.754111,43.143774",
     "geom:latitude":43.143774,
     "geom:longitude":-70.754111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Beech Rd",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387778469,
-    "wof:lastmodified":1449056199,
+    "wof:lastmodified":1466586992,
     "wof:name":"Dan Hartrey",
     "wof:parent_id":85816255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.754111,43.143774,-70.754111,43.143774],
-  "geometry": {"coordinates":[-70.754111,43.143774],"type":"Point"}
+  "bbox": [
+    -70.754111,
+    43.143774,
+    -70.754111,
+    43.143774
+],
+  "geometry": {"coordinates":[-70.75411099999999,43.143774],"type":"Point"}
 }

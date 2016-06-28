@@ -2,13 +2,14 @@
   "id": 404016263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.779042,44.823226,-68.779042,44.823226",
     "geom:latitude":44.823226,
     "geom:longitude":-68.779042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"627 Broadway",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404016263,
-    "wof:lastmodified":1449039261,
+    "wof:lastmodified":1466585860,
     "wof:name":"Something Different",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-68.779042,44.823226,-68.779042,44.823226],
+  "bbox": [
+    -68.779042,
+    44.823226,
+    -68.779042,
+    44.823226
+],
   "geometry": {"coordinates":[-68.779042,44.823226],"type":"Point"}
 }

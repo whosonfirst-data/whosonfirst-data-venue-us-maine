@@ -2,13 +2,14 @@
   "id": 387778501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.789573,43.286419,-70.789573,43.286419",
     "geom:latitude":43.286419,
     "geom:longitude":-70.789573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Wentworth Rd",
     "sg:city":"Berwick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387778501,
-    "wof:lastmodified":1449056198,
+    "wof:lastmodified":1466586992,
     "wof:name":"B P S Power Spraying",
     "wof:parent_id":85813221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-70.789573,43.286419,-70.789573,43.286419],
+  "bbox": [
+    -70.789573,
+    43.286419,
+    -70.789573,
+    43.286419
+],
   "geometry": {"coordinates":[-70.789573,43.286419],"type":"Point"}
 }

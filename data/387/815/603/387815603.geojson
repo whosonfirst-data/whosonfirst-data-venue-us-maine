@@ -2,13 +2,14 @@
   "id": 387815603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.18645,44.117297,-70.18645,44.117297",
     "geom:latitude":44.117297,
     "geom:longitude":-70.18645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Hogan Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387815603,
-    "wof:lastmodified":1449057948,
+    "wof:lastmodified":1466587008,
     "wof:name":"Scanmix Corp",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.18645,44.117297,-70.18645,44.117297],
-  "geometry": {"coordinates":[-70.18645,44.117297],"type":"Point"}
+  "bbox": [
+    -70.18645,
+    44.117297,
+    -70.18645,
+    44.117297
+],
+  "geometry": {"coordinates":[-70.18644999999999,44.117297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404198239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.815036,43.914491,-69.815036,43.914491",
     "geom:latitude":43.914491,
     "geom:longitude":-69.815036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Elm St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404198239,
-    "wof:lastmodified":1449039456,
+    "wof:lastmodified":1466586831,
     "wof:name":"Bath Automotive Supply",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-69.815036,43.914491,-69.815036,43.914491],
-  "geometry": {"coordinates":[-69.815036,43.914491],"type":"Point"}
+  "bbox": [
+    -69.815036,
+    43.914491,
+    -69.815036,
+    43.914491
+],
+  "geometry": {"coordinates":[-69.81503600000001,43.914491],"type":"Point"}
 }

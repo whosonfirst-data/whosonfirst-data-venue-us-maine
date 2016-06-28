@@ -2,13 +2,14 @@
   "id": 404033963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.814382,43.930077,-69.814382,43.930077",
     "geom:latitude":43.930077,
     "geom:longitude":-69.814382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1362 Washington St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404033963,
-    "wof:lastmodified":1449039305,
+    "wof:lastmodified":1466586010,
     "wof:name":"Bancroft Bath House",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-69.814382,43.930077,-69.814382,43.930077],
-  "geometry": {"coordinates":[-69.814382,43.930077],"type":"Point"}
+  "bbox": [
+    -69.814382,
+    43.930077,
+    -69.814382,
+    43.930077
+],
+  "geometry": {"coordinates":[-69.81438199999999,43.930077],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403895297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252291,43.656152,-70.252291,43.656152",
     "geom:latitude":43.656152,
     "geom:longitude":-70.252291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Commercial St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":403895297,
-    "wof:lastmodified":1449055197,
+    "wof:lastmodified":1466586983,
     "wof:name":"Mainely Tours",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [-70.252291,43.656152,-70.252291,43.656152],
+  "bbox": [
+    -70.252291,
+    43.656152,
+    -70.252291,
+    43.656152
+],
   "geometry": {"coordinates":[-70.252291,43.656152],"type":"Point"}
 }

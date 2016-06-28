@@ -2,13 +2,14 @@
   "id": 387840737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.287108,43.628716,-70.287108,43.628716",
     "geom:latitude":43.628716,
     "geom:longitude":-70.287108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Peary Ter",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387840737,
-    "wof:lastmodified":1449059051,
+    "wof:lastmodified":1466587143,
     "wof:name":"Veterans Of Foreign Wars 832",
     "wof:parent_id":85809743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-70.287108,43.628716,-70.287108,43.628716],
+  "bbox": [
+    -70.287108,
+    43.628716,
+    -70.287108,
+    43.628716
+],
   "geometry": {"coordinates":[-70.287108,43.628716],"type":"Point"}
 }

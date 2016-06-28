@@ -2,13 +2,14 @@
   "id": 404213475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.108251,44.023175,-70.108251,44.023175",
     "geom:latitude":44.023175,
     "geom:longitude":-70.108251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Osborn St",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404213475,
-    "wof:lastmodified":1449039101,
+    "wof:lastmodified":1466587057,
     "wof:name":"Splued Painting",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.108251,44.023175,-70.108251,44.023175],
+  "bbox": [
+    -70.108251,
+    44.023175,
+    -70.108251,
+    44.023175
+],
   "geometry": {"coordinates":[-70.108251,44.023175],"type":"Point"}
 }

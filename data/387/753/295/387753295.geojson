@@ -2,13 +2,14 @@
   "id": 387753295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.358137,44.096791,-70.358137,44.096791",
     "geom:latitude":44.096791,
     "geom:longitude":-70.358137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Mechanic Falls Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":387753295,
-    "wof:lastmodified":1449056559,
+    "wof:lastmodified":1466586823,
     "wof:name":"Mc Morrow Auction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-70.358137,44.096791,-70.358137,44.096791],
+  "bbox": [
+    -70.358137,
+    44.096791,
+    -70.358137,
+    44.096791
+],
   "geometry": {"coordinates":[-70.358137,44.096791],"type":"Point"}
 }

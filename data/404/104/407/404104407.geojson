@@ -2,13 +2,14 @@
   "id": 404104407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.118916,46.918994,-68.118916,46.918994",
     "geom:latitude":46.918994,
     "geom:longitude":-68.118916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Margison Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404104407,
-    "wof:lastmodified":1449039523,
+    "wof:lastmodified":1466586060,
     "wof:name":"Bellport Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.118916,46.918994,-68.118916,46.918994],
+  "bbox": [
+    -68.118916,
+    46.918994,
+    -68.118916,
+    46.918994
+],
   "geometry": {"coordinates":[-68.118916,46.918994],"type":"Point"}
 }

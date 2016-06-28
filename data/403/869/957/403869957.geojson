@@ -2,13 +2,14 @@
   "id": 403869957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.101717,43.856868,-70.101717,43.856868",
     "geom:latitude":43.856868,
     "geom:longitude":-70.101717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Bow St",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403869957,
-    "wof:lastmodified":1449055857,
+    "wof:lastmodified":1466586794,
     "wof:name":"Maine Wreath & Flower Outlet",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.101717,43.856868,-70.101717,43.856868],
-  "geometry": {"coordinates":[-70.101717,43.856868],"type":"Point"}
+  "bbox": [
+    -70.101717,
+    43.856868,
+    -70.101717,
+    43.856868
+],
+  "geometry": {"coordinates":[-70.10171699999999,43.856868],"type":"Point"}
 }

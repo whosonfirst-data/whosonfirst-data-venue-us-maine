@@ -2,13 +2,14 @@
   "id": 403857211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.326835,43.824304,-70.326835,43.824304",
     "geom:latitude":43.824304,
     "geom:longitude":-70.326835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Cliff Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403857211,
-    "wof:lastmodified":1449055481,
+    "wof:lastmodified":1466586664,
     "wof:name":"IATSE",
     "wof:parent_id":85855337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.326835,43.824304,-70.326835,43.824304],
+  "bbox": [
+    -70.326835,
+    43.824304,
+    -70.326835,
+    43.824304
+],
   "geometry": {"coordinates":[-70.326835,43.824304],"type":"Point"}
 }

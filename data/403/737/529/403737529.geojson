@@ -2,13 +2,14 @@
   "id": 403737529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.217248,44.914918,-67.217248,44.914918",
     "geom:latitude":44.914918,
     "geom:longitude":-67.217248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Shipyard Ln",
     "sg:city":"Dennysville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403737529,
-    "wof:lastmodified":1449054950,
+    "wof:lastmodified":1466586044,
     "wof:name":"Dennysville Housing",
     "wof:parent_id":85838129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-67.217248,44.914918,-67.217248,44.914918],
+  "bbox": [
+    -67.217248,
+    44.914918,
+    -67.217248,
+    44.914918
+],
   "geometry": {"coordinates":[-67.217248,44.914918],"type":"Point"}
 }

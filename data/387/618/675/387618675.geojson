@@ -2,13 +2,14 @@
   "id": 387618675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.661985,43.396944,-70.661985,43.396944",
     "geom:latitude":43.396944,
     "geom:longitude":-70.661985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Michele Ln",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387618675,
-    "wof:lastmodified":1449058473,
+    "wof:lastmodified":1466585706,
     "wof:name":"Clark Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.661985,43.396944,-70.661985,43.396944],
+  "bbox": [
+    -70.661985,
+    43.396944,
+    -70.661985,
+    43.396944
+],
   "geometry": {"coordinates":[-70.661985,43.396944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387829821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.177778,44.578557,-70.177778,44.578557",
     "geom:latitude":44.578557,
     "geom:longitude":-70.177778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Depot St",
     "sg:city":"Mechanic Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387829821,
-    "wof:lastmodified":1449059672,
+    "wof:lastmodified":1466587120,
     "wof:name":"Handy True Value Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.177778,44.578557,-70.177778,44.578557],
+  "bbox": [
+    -70.177778,
+    44.578557,
+    -70.177778,
+    44.578557
+],
   "geometry": {"coordinates":[-70.177778,44.578557],"type":"Point"}
 }

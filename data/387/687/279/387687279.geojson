@@ -2,13 +2,14 @@
   "id": 387687279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.814163,43.912755,-69.814163,43.912755",
     "geom:latitude":43.912755,
     "geom:longitude":-69.814163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Centre St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387687279,
-    "wof:lastmodified":1449057165,
+    "wof:lastmodified":1466586560,
     "wof:name":"Mario's Pizza Of Bath",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.814163,43.912755,-69.814163,43.912755],
-  "geometry": {"coordinates":[-69.814163,43.912755],"type":"Point"}
+  "bbox": [
+    -69.814163,
+    43.912755,
+    -69.814163,
+    43.912755
+],
+  "geometry": {"coordinates":[-69.81416299999999,43.912755],"type":"Point"}
 }

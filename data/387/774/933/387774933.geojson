@@ -2,13 +2,14 @@
   "id": 387774933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.459851,44.715686,-67.459851,44.715686",
     "geom:latitude":44.715686,
     "geom:longitude":-67.459851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Court St",
     "sg:city":"Machias",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387774933,
-    "wof:lastmodified":1449057585,
+    "wof:lastmodified":1466586989,
     "wof:name":"US Post Office",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.459851,44.715686,-67.459851,44.715686],
+  "bbox": [
+    -67.459851,
+    44.715686,
+    -67.459851,
+    44.715686
+],
   "geometry": {"coordinates":[-67.459851,44.715686],"type":"Point"}
 }

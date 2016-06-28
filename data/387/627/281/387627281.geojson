@@ -2,13 +2,14 @@
   "id": 387627281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.366771,43.58152,-70.366771,43.58152",
     "geom:latitude":43.58152,
     "geom:longitude":-70.366771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 US Hwy 1",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387627281,
-    "wof:lastmodified":1449060003,
+    "wof:lastmodified":1466585764,
     "wof:name":"MHVSEP",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.366771,43.58152,-70.366771,43.58152],
+  "bbox": [
+    -70.366771,
+    43.58152,
+    -70.366771,
+    43.58152
+],
   "geometry": {"coordinates":[-70.366771,43.58152],"type":"Point"}
 }

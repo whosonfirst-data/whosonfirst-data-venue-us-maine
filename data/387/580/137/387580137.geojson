@@ -2,13 +2,14 @@
   "id": 387580137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.351501,43.620919,-70.351501,43.620919",
     "geom:latitude":43.620919,
     "geom:longitude":-70.351501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Payne Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387580137,
-    "wof:lastmodified":1449058672,
+    "wof:lastmodified":1466586007,
     "wof:name":"New England Hi-Fi",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stereophonic"
     ]
 },
-  "bbox": [-70.351501,43.620919,-70.351501,43.620919],
+  "bbox": [
+    -70.351501,
+    43.620919,
+    -70.351501,
+    43.620919
+],
   "geometry": {"coordinates":[-70.351501,43.620919],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403799595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.209211,44.093765,-70.209211,44.093765",
     "geom:latitude":44.093765,
     "geom:longitude":-70.209211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Bartlett St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403799595,
-    "wof:lastmodified":1449055970,
+    "wof:lastmodified":1466585942,
     "wof:name":"Albert's Variety",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.209211,44.093765,-70.209211,44.093765],
+  "bbox": [
+    -70.209211,
+    44.093765,
+    -70.209211,
+    44.093765
+],
   "geometry": {"coordinates":[-70.209211,44.093765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403845803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.381289,43.52455,-70.381289,43.52455",
     "geom:latitude":43.52455,
     "geom:longitude":-70.381289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Cascade Rd",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403845803,
-    "wof:lastmodified":1449054852,
+    "wof:lastmodified":1466586702,
     "wof:name":"Powder Horn Family Camping Inc",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.381289,43.52455,-70.381289,43.52455],
+  "bbox": [
+    -70.381289,
+    43.52455,
+    -70.381289,
+    43.52455
+],
   "geometry": {"coordinates":[-70.381289,43.52455],"type":"Point"}
 }

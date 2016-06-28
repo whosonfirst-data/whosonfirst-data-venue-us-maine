@@ -2,13 +2,14 @@
   "id": 404131901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.589896,43.647377,-70.589896,43.647377",
     "geom:latitude":43.647377,
     "geom:longitude":-70.589896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 River Rd",
     "sg:city":"West Buxton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404131901,
-    "wof:lastmodified":1449039380,
+    "wof:lastmodified":1466586478,
     "wof:name":"Tri-J Enterprises",
     "wof:parent_id":85852373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.589896,43.647377,-70.589896,43.647377],
+  "bbox": [
+    -70.589896,
+    43.647377,
+    -70.589896,
+    43.647377
+],
   "geometry": {"coordinates":[-70.589896,43.647377],"type":"Point"}
 }

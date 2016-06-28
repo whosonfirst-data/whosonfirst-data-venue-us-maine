@@ -2,13 +2,14 @@
   "id": 403834283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.258288,43.682538,-70.258288,43.682538",
     "geom:latitude":43.682538,
     "geom:longitude":-70.258288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Sherwood St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403834283,
-    "wof:lastmodified":1449054761,
+    "wof:lastmodified":1466586500,
     "wof:name":"Everything Electric Co",
     "wof:parent_id":85816239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.258288,43.682538,-70.258288,43.682538],
-  "geometry": {"coordinates":[-70.258288,43.682538],"type":"Point"}
+  "bbox": [
+    -70.258288,
+    43.682538,
+    -70.258288,
+    43.682538
+],
+  "geometry": {"coordinates":[-70.25828799999999,43.682538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387949265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.23624,43.635526,-70.23624,43.635526",
     "geom:latitude":43.635526,
     "geom:longitude":-70.23624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"347 Cottage Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387949265,
-    "wof:lastmodified":1449058463,
+    "wof:lastmodified":1466587285,
     "wof:name":"Buttered Biscut",
     "wof:parent_id":85867975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.23624,43.635526,-70.23624,43.635526],
+  "bbox": [
+    -70.23624,
+    43.635526,
+    -70.23624,
+    43.635526
+],
   "geometry": {"coordinates":[-70.23624,43.635526],"type":"Point"}
 }

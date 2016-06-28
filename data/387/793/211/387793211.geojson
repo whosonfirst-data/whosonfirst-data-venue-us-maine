@@ -2,13 +2,14 @@
   "id": 387793211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.338035,43.719956,-70.338035,43.719956",
     "geom:latitude":43.719956,
     "geom:longitude":-70.338035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387793211,
-    "wof:lastmodified":1449058204,
+    "wof:lastmodified":1466587020,
     "wof:name":"Kennel Club",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-70.338035,43.719956,-70.338035,43.719956],
+  "bbox": [
+    -70.338035,
+    43.719956,
+    -70.338035,
+    43.719956
+],
   "geometry": {"coordinates":[-70.338035,43.719956],"type":"Point"}
 }

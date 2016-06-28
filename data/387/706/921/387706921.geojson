@@ -2,13 +2,14 @@
   "id": 387706921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.221431,44.441629,-70.221431,44.441629",
     "geom:latitude":44.441629,
     "geom:longitude":-70.221431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Hathaway Hill Rd",
     "sg:city":"Livermore",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387706921,
-    "wof:lastmodified":1449056384,
+    "wof:lastmodified":1466586765,
     "wof:name":"Ted Berry Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.221431,44.441629,-70.221431,44.441629],
+  "bbox": [
+    -70.221431,
+    44.441629,
+    -70.221431,
+    44.441629
+],
   "geometry": {"coordinates":[-70.221431,44.441629],"type":"Point"}
 }

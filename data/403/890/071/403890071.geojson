@@ -2,13 +2,14 @@
   "id": 403890071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.782499,44.711097,-69.782499,44.711097",
     "geom:latitude":44.711097,
     "geom:longitude":-69.782499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"347 Waterville Rd",
     "sg:city":"Norridgewock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403890071,
-    "wof:lastmodified":1449054944,
+    "wof:lastmodified":1466586882,
     "wof:name":"Becket House At Norridgewock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-69.782499,44.711097,-69.782499,44.711097],
+  "bbox": [
+    -69.782499,
+    44.711097,
+    -69.782499,
+    44.711097
+],
   "geometry": {"coordinates":[-69.782499,44.711097],"type":"Point"}
 }

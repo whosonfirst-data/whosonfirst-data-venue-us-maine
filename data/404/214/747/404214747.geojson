@@ -2,13 +2,14 @@
   "id": 404214747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.308771,43.687801,-70.308771,43.687801",
     "geom:latitude":43.687801,
     "geom:longitude":-70.308771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"276 Warren Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404214747,
-    "wof:lastmodified":1449040286,
+    "wof:lastmodified":1466586894,
     "wof:name":"Country Kitchen-Le Page Bakery",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-70.308771,43.687801,-70.308771,43.687801],
-  "geometry": {"coordinates":[-70.308771,43.687801],"type":"Point"}
+  "bbox": [
+    -70.308771,
+    43.687801,
+    -70.308771,
+    43.687801
+],
+  "geometry": {"coordinates":[-70.30877099999999,43.687801],"type":"Point"}
 }

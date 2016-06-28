@@ -2,13 +2,14 @@
   "id": 387846201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.312286,43.61158,-70.312286,43.61158",
     "geom:latitude":43.61158,
     "geom:longitude":-70.312286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Pleasant Hill Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387846201,
-    "wof:lastmodified":1449059056,
+    "wof:lastmodified":1466587149,
     "wof:name":"Cash Energy Co",
     "wof:parent_id":85852203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-70.312286,43.61158,-70.312286,43.61158],
+  "bbox": [
+    -70.312286,
+    43.61158,
+    -70.312286,
+    43.61158
+],
   "geometry": {"coordinates":[-70.312286,43.61158],"type":"Point"}
 }

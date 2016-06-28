@@ -2,13 +2,14 @@
   "id": 387836623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.278087,45.18896,-67.278087,45.18896",
     "geom:latitude":45.18896,
     "geom:longitude":-67.278087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 North St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387836623,
-    "wof:lastmodified":1449058626,
+    "wof:lastmodified":1466587139,
     "wof:name":"Black Bear Pub & Restaurant",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.278087,45.18896,-67.278087,45.18896],
+  "bbox": [
+    -67.278087,
+    45.18896,
+    -67.278087,
+    45.18896
+],
   "geometry": {"coordinates":[-67.278087,45.18896],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404018535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.236684,44.120877,-70.236684,44.120877",
     "geom:latitude":44.120877,
     "geom:longitude":-70.236684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Mount Auburn Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404018535,
-    "wof:lastmodified":1449039694,
+    "wof:lastmodified":1466585876,
     "wof:name":"Helmkamp Dental Health",
     "wof:parent_id":85815921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-70.236684,44.120877,-70.236684,44.120877],
+  "bbox": [
+    -70.236684,
+    44.120877,
+    -70.236684,
+    44.120877
+],
   "geometry": {"coordinates":[-70.236684,44.120877],"type":"Point"}
 }

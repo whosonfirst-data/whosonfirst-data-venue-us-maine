@@ -2,13 +2,14 @@
   "id": 403780957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.420335,44.059651,-70.420335,44.059651",
     "geom:latitude":44.059651,
     "geom:longitude":-70.420335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Tripp Lake Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403780957,
-    "wof:lastmodified":1449055618,
+    "wof:lastmodified":1466585691,
     "wof:name":"Bee's Pet Boarding",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sitting"
     ]
 },
-  "bbox": [-70.420335,44.059651,-70.420335,44.059651],
-  "geometry": {"coordinates":[-70.420335,44.059651],"type":"Point"}
+  "bbox": [
+    -70.420335,
+    44.059651,
+    -70.420335,
+    44.059651
+],
+  "geometry": {"coordinates":[-70.42033499999999,44.059651],"type":"Point"}
 }

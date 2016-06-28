@@ -2,13 +2,14 @@
   "id": 403931411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.656221,44.54172,-69.656221,44.54172",
     "geom:latitude":44.54172,
     "geom:longitude":-69.656221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Kennedy Memorial Dr",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403931411,
-    "wof:lastmodified":1449055847,
+    "wof:lastmodified":1466587029,
     "wof:name":"Coffee Shack Emporium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-69.656221,44.54172,-69.656221,44.54172],
+  "bbox": [
+    -69.656221,
+    44.54172,
+    -69.656221,
+    44.54172
+],
   "geometry": {"coordinates":[-69.656221,44.54172],"type":"Point"}
 }

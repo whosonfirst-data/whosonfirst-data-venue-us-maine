@@ -2,13 +2,14 @@
   "id": 387838199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.644558,44.946237,-68.644558,44.946237",
     "geom:latitude":44.946237,
     "geom:longitude":-68.644558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Main St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387838199,
-    "wof:lastmodified":1449056570,
+    "wof:lastmodified":1466587137,
     "wof:name":"Bob's Crazy Saver",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hand"
     ]
 },
-  "bbox": [-68.644558,44.946237,-68.644558,44.946237],
+  "bbox": [
+    -68.644558,
+    44.946237,
+    -68.644558,
+    44.946237
+],
   "geometry": {"coordinates":[-68.644558,44.946237],"type":"Point"}
 }

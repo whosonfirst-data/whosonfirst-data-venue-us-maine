@@ -2,13 +2,14 @@
   "id": 404117095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.93094,44.919323,-68.93094,44.919323",
     "geom:latitude":44.919323,
     "geom:longitude":-68.93094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3964 State Rte 15",
     "sg:city":"Kenduskeag",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404117095,
-    "wof:lastmodified":1449039945,
+    "wof:lastmodified":1466586247,
     "wof:name":"Mystic Tie Grange Hall",
     "wof:parent_id":85855557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-68.93094,44.919323,-68.93094,44.919323],
-  "geometry": {"coordinates":[-68.93094,44.919323],"type":"Point"}
+  "bbox": [
+    -68.93094,
+    44.919323,
+    -68.93094,
+    44.919323
+],
+  "geometry": {"coordinates":[-68.93094000000001,44.919323],"type":"Point"}
 }

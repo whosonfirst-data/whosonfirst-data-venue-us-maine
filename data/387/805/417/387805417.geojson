@@ -2,13 +2,14 @@
   "id": 387805417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.02182,46.858293,-68.02182,46.858293",
     "geom:latitude":46.858293,
     "geom:longitude":-68.02182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Roosevelt Ave",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387805417,
-    "wof:lastmodified":1449057372,
+    "wof:lastmodified":1466587152,
     "wof:name":"Central City Sheet Metal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sheet"
     ]
 },
-  "bbox": [-68.02182,46.858293,-68.02182,46.858293],
-  "geometry": {"coordinates":[-68.02182,46.858293],"type":"Point"}
+  "bbox": [
+    -68.02182,
+    46.858293,
+    -68.02182,
+    46.858293
+],
+  "geometry": {"coordinates":[-68.02182000000001,46.858293],"type":"Point"}
 }

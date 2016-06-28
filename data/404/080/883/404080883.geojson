@@ -2,13 +2,14 @@
   "id": 404080883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.254279,44.255157,-70.254279,44.255157",
     "geom:latitude":44.255157,
     "geom:longitude":-70.254279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 School House Hill Rd",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404080883,
-    "wof:lastmodified":1449040301,
+    "wof:lastmodified":1466585750,
     "wof:name":"Marc G Godin",
     "wof:parent_id":85852835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-70.254279,44.255157,-70.254279,44.255157],
+  "bbox": [
+    -70.254279,
+    44.255157,
+    -70.254279,
+    44.255157
+],
   "geometry": {"coordinates":[-70.254279,44.255157],"type":"Point"}
 }

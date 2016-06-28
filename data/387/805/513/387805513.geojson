@@ -2,13 +2,14 @@
   "id": 387805513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.221029,44.507838,-70.221029,44.507838",
     "geom:latitude":44.507838,
     "geom:longitude":-70.221029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Lambert St",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387805513,
-    "wof:lastmodified":1449057372,
+    "wof:lastmodified":1466587152,
     "wof:name":"Jay Auto Sales & Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.221029,44.507838,-70.221029,44.507838],
+  "bbox": [
+    -70.221029,
+    44.507838,
+    -70.221029,
+    44.507838
+],
   "geometry": {"coordinates":[-70.221029,44.507838],"type":"Point"}
 }

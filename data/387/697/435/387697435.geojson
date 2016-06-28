@@ -2,13 +2,14 @@
   "id": 387697435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.784056,44.469917,-70.784056,44.469917",
     "geom:latitude":44.469917,
     "geom:longitude":-70.784056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Intervale Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387697435,
-    "wof:lastmodified":1449058510,
+    "wof:lastmodified":1466586719,
     "wof:name":"Rf Diplacido Building & Rmdlg",
     "wof:parent_id":85838361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.784056,44.469917,-70.784056,44.469917],
-  "geometry": {"coordinates":[-70.784056,44.469917],"type":"Point"}
+  "bbox": [
+    -70.784056,
+    44.469917,
+    -70.784056,
+    44.469917
+],
+  "geometry": {"coordinates":[-70.78405600000001,44.469917],"type":"Point"}
 }

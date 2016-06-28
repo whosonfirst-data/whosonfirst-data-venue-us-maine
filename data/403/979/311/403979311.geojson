@@ -2,13 +2,14 @@
   "id": 403979311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.849303,43.901093,-69.849303,43.901093",
     "geom:latitude":43.901093,
     "geom:longitude":-69.849303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Moose Trail Dr",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403979311,
-    "wof:lastmodified":1449055552,
+    "wof:lastmodified":1466587143,
     "wof:name":"Maldan Events",
     "wof:parent_id":85837805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.849303,43.901093,-69.849303,43.901093],
-  "geometry": {"coordinates":[-69.849303,43.901093],"type":"Point"}
+  "bbox": [
+    -69.849303,
+    43.901093,
+    -69.849303,
+    43.901093
+],
+  "geometry": {"coordinates":[-69.84930300000001,43.901093],"type":"Point"}
 }

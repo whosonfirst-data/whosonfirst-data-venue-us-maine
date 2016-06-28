@@ -2,13 +2,14 @@
   "id": 403856071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.035497,46.692771,-68.035497,46.692771",
     "geom:latitude":46.692771,
     "geom:longitude":-68.035497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Central Dr",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403856071,
-    "wof:lastmodified":1449055020,
+    "wof:lastmodified":1466586737,
     "wof:name":"Brake Service & Parts Inc",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-68.035497,46.692771,-68.035497,46.692771],
-  "geometry": {"coordinates":[-68.035497,46.692771],"type":"Point"}
+  "bbox": [
+    -68.035497,
+    46.692771,
+    -68.035497,
+    46.692771
+],
+  "geometry": {"coordinates":[-68.03549700000001,46.692771],"type":"Point"}
 }

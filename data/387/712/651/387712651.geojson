@@ -2,13 +2,14 @@
   "id": 387712651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.423236,44.539484,-68.423236,44.539484",
     "geom:latitude":44.539484,
     "geom:longitude":-68.423236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Water St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387712651,
-    "wof:lastmodified":1449057737,
+    "wof:lastmodified":1466586773,
     "wof:name":"Community Health & Counseling",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-68.423236,44.539484,-68.423236,44.539484],
+  "bbox": [
+    -68.423236,
+    44.539484,
+    -68.423236,
+    44.539484
+],
   "geometry": {"coordinates":[-68.423236,44.539484],"type":"Point"}
 }

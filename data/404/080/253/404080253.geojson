@@ -2,13 +2,14 @@
   "id": 404080253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.065455,43.871905,-70.065455,43.871905",
     "geom:latitude":43.871905,
     "geom:longitude":-70.065455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Pleasant Hill Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":404080253,
-    "wof:lastmodified":1449040301,
+    "wof:lastmodified":1466585740,
     "wof:name":"Ken's Appliance Repair",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-70.065455,43.871905,-70.065455,43.871905],
+  "bbox": [
+    -70.065455,
+    43.871905,
+    -70.065455,
+    43.871905
+],
   "geometry": {"coordinates":[-70.065455,43.871905],"type":"Point"}
 }

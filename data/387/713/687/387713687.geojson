@@ -2,13 +2,14 @@
   "id": 387713687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.407889,45.156865,-67.407889,45.156865",
     "geom:latitude":45.156865,
     "geom:longitude":-67.407889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Hillside St",
     "sg:city":"Baileyville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387713687,
-    "wof:lastmodified":1449059559,
+    "wof:lastmodified":1466586790,
     "wof:name":"St Croix Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.407889,45.156865,-67.407889,45.156865],
+  "bbox": [
+    -67.407889,
+    45.156865,
+    -67.407889,
+    45.156865
+],
   "geometry": {"coordinates":[-67.407889,45.156865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403851405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.628062,43.22664,-70.628062,43.22664",
     "geom:latitude":43.22664,
     "geom:longitude":-70.628062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Clay Hill Rd",
     "sg:city":"Cape Neddick",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403851405,
-    "wof:lastmodified":1449055492,
+    "wof:lastmodified":1466586831,
     "wof:name":"Barbour Computing",
     "wof:parent_id":85854335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "portrait"
     ]
 },
-  "bbox": [-70.628062,43.22664,-70.628062,43.22664],
+  "bbox": [
+    -70.628062,
+    43.22664,
+    -70.628062,
+    43.22664
+],
   "geometry": {"coordinates":[-70.628062,43.22664],"type":"Point"}
 }

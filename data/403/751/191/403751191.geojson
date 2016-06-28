@@ -2,13 +2,14 @@
   "id": 403751191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.120244,44.036285,-70.120244,44.036285",
     "geom:latitude":44.036285,
     "geom:longitude":-70.120244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Moody Rd",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403751191,
-    "wof:lastmodified":1449054703,
+    "wof:lastmodified":1466586228,
     "wof:name":"Pine Tree Day Care",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-70.120244,44.036285,-70.120244,44.036285],
+  "bbox": [
+    -70.120244,
+    44.036285,
+    -70.120244,
+    44.036285
+],
   "geometry": {"coordinates":[-70.120244,44.036285],"type":"Point"}
 }

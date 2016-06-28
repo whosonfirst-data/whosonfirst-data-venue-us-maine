@@ -2,13 +2,14 @@
   "id": 404033953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.667859,43.476161,-70.667859,43.476161",
     "geom:latitude":43.476161,
     "geom:longitude":-70.667859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2143 Alfred St",
     "sg:city":"Lyman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404033953,
-    "wof:lastmodified":1449039306,
+    "wof:lastmodified":1466586009,
     "wof:name":"Alpha & Omega Acoustics",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.667859,43.476161,-70.667859,43.476161],
-  "geometry": {"coordinates":[-70.667859,43.476161],"type":"Point"}
+  "bbox": [
+    -70.667859,
+    43.476161,
+    -70.667859,
+    43.476161
+],
+  "geometry": {"coordinates":[-70.66785900000001,43.476161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387613675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.511263,43.908707,-70.511263,43.908707",
     "geom:latitude":43.908707,
     "geom:longitude":-70.511263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Hawthorne Rd",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387613675,
-    "wof:lastmodified":1449057875,
+    "wof:lastmodified":1466586557,
     "wof:name":"Wood's Greenhouse",
     "wof:parent_id":85841571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-70.511263,43.908707,-70.511263,43.908707],
+  "bbox": [
+    -70.511263,
+    43.908707,
+    -70.511263,
+    43.908707
+],
   "geometry": {"coordinates":[-70.511263,43.908707],"type":"Point"}
 }

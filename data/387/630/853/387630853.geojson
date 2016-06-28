@@ -2,13 +2,14 @@
   "id": 387630853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.312501,44.477948,-68.312501,44.477948",
     "geom:latitude":44.477948,
     "geom:longitude":-68.312501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Wood Run",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387630853,
-    "wof:lastmodified":1449057458,
+    "wof:lastmodified":1466585816,
     "wof:name":"Undercover Concepts",
     "wof:parent_id":85829637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-68.312501,44.477948,-68.312501,44.477948],
+  "bbox": [
+    -68.312501,
+    44.477948,
+    -68.312501,
+    44.477948
+],
   "geometry": {"coordinates":[-68.312501,44.477948],"type":"Point"}
 }

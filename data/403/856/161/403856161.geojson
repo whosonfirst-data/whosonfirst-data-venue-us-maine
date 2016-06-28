@@ -2,13 +2,14 @@
   "id": 403856161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.626804,44.533257,-69.626804,44.533257",
     "geom:latitude":44.533257,
     "geom:longitude":-69.626804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Stuart St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403856161,
-    "wof:lastmodified":1449055018,
+    "wof:lastmodified":1466586738,
     "wof:name":"Cross Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.626804,44.533257,-69.626804,44.533257],
-  "geometry": {"coordinates":[-69.626804,44.533257],"type":"Point"}
+  "bbox": [
+    -69.626804,
+    44.533257,
+    -69.626804,
+    44.533257
+],
+  "geometry": {"coordinates":[-69.62680400000001,44.533257],"type":"Point"}
 }

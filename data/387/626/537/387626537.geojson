@@ -2,13 +2,14 @@
   "id": 387626537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.455064,43.491391,-70.455064,43.491391",
     "geom:latitude":43.491391,
     "geom:longitude":-70.455064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Alfred St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387626537,
-    "wof:lastmodified":1449059922,
+    "wof:lastmodified":1466586693,
     "wof:name":"Coastal Awards & Monograming",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "award"
     ]
 },
-  "bbox": [-70.455064,43.491391,-70.455064,43.491391],
-  "geometry": {"coordinates":[-70.455064,43.491391],"type":"Point"}
+  "bbox": [
+    -70.455064,
+    43.491391,
+    -70.455064,
+    43.491391
+],
+  "geometry": {"coordinates":[-70.45506399999999,43.491391],"type":"Point"}
 }

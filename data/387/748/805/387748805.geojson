@@ -2,13 +2,14 @@
   "id": 387748805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.213556,44.090919,-70.213556,44.090919",
     "geom:latitude":44.090919,
     "geom:longitude":-70.213556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"426 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387748805,
-    "wof:lastmodified":1449058962,
+    "wof:lastmodified":1466586813,
     "wof:name":"Jeweler's Bench Of Maine",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-70.213556,44.090919,-70.213556,44.090919],
+  "bbox": [
+    -70.213556,
+    44.090919,
+    -70.213556,
+    44.090919
+],
   "geometry": {"coordinates":[-70.213556,44.090919],"type":"Point"}
 }

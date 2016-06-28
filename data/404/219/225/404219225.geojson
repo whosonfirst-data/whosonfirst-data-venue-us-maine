@@ -2,13 +2,14 @@
   "id": 404219225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.931016,44.919423,-68.931016,44.919423",
     "geom:latitude":44.919423,
     "geom:longitude":-68.931016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3843 Broadway",
     "sg:city":"Kenduskeag",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404219225,
-    "wof:lastmodified":1449040275,
+    "wof:lastmodified":1466587086,
     "wof:name":"Ronald L Wiley Auto",
     "wof:parent_id":85855557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-68.931016,44.919423,-68.931016,44.919423],
+  "bbox": [
+    -68.931016,
+    44.919423,
+    -68.931016,
+    44.919423
+],
   "geometry": {"coordinates":[-68.931016,44.919423],"type":"Point"}
 }

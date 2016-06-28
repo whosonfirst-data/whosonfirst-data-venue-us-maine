@@ -2,13 +2,14 @@
   "id": 387629653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.295382,43.629656,-70.295382,43.629656",
     "geom:latitude":43.629656,
     "geom:longitude":-70.295382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 Broadway",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387629653,
-    "wof:lastmodified":1449059016,
+    "wof:lastmodified":1466585798,
     "wof:name":"Sputnik Interactive Design",
     "wof:parent_id":85809743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "multimedia"
     ]
 },
-  "bbox": [-70.295382,43.629656,-70.295382,43.629656],
+  "bbox": [
+    -70.295382,
+    43.629656,
+    -70.295382,
+    43.629656
+],
   "geometry": {"coordinates":[-70.295382,43.629656],"type":"Point"}
 }

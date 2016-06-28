@@ -2,13 +2,14 @@
   "id": 403858941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.583129,44.77742,-68.583129,44.77742",
     "geom:latitude":44.77742,
     "geom:longitude":-68.583129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Jarvis Gore Dr",
     "sg:city":"Eddington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403858941,
-    "wof:lastmodified":1449054771,
+    "wof:lastmodified":1466586860,
     "wof:name":"Mannion Geosystems LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "database"
     ]
 },
-  "bbox": [-68.583129,44.77742,-68.583129,44.77742],
+  "bbox": [
+    -68.583129,
+    44.77742,
+    -68.583129,
+    44.77742
+],
   "geometry": {"coordinates":[-68.583129,44.77742],"type":"Point"}
 }

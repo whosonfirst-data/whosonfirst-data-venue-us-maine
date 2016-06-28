@@ -2,13 +2,14 @@
   "id": 403844651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.887401,44.650031,-68.887401,44.650031",
     "geom:latitude":44.650031,
     "geom:longitude":-68.887401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Airport Rd",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403844651,
-    "wof:lastmodified":1449055200,
+    "wof:lastmodified":1466586816,
     "wof:name":"Forestry Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government"
     ]
 },
-  "bbox": [-68.887401,44.650031,-68.887401,44.650031],
+  "bbox": [
+    -68.887401,
+    44.650031,
+    -68.887401,
+    44.650031
+],
   "geometry": {"coordinates":[-68.887401,44.650031],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387949111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.77038,44.728456,-68.77038,44.728456",
     "geom:latitude":44.728456,
     "geom:longitude":-68.77038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Fowler Rd",
     "sg:city":"Orrington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387949111,
-    "wof:lastmodified":1449058467,
+    "wof:lastmodified":1466587283,
     "wof:name":"Birch Point Cottages Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-68.77038,44.728456,-68.77038,44.728456],
+  "bbox": [
+    -68.77038,
+    44.728456,
+    -68.77038,
+    44.728456
+],
   "geometry": {"coordinates":[-68.77038,44.728456],"type":"Point"}
 }

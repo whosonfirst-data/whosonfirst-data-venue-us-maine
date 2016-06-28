@@ -2,13 +2,14 @@
   "id": 404141827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.278049,43.666871,-70.278049,43.666871",
     "geom:latitude":43.666871,
     "geom:longitude":-70.278049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Dartmouth St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404141827,
-    "wof:lastmodified":1449039440,
+    "wof:lastmodified":1466586686,
     "wof:name":"Professional Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-70.278049,43.666871,-70.278049,43.666871],
+  "bbox": [
+    -70.278049,
+    43.666871,
+    -70.278049,
+    43.666871
+],
   "geometry": {"coordinates":[-70.278049,43.666871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404065423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.776121,43.442285,-70.776121,43.442285",
     "geom:latitude":43.442285,
     "geom:longitude":-70.776121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Winter St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404065423,
-    "wof:lastmodified":1449040318,
+    "wof:lastmodified":1466586507,
     "wof:name":"LA France Lambert Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-70.776121,43.442285,-70.776121,43.442285],
+  "bbox": [
+    -70.776121,
+    43.442285,
+    -70.776121,
+    43.442285
+],
   "geometry": {"coordinates":[-70.776121,43.442285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404144641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.685088,44.543703,-69.685088,44.543703",
     "geom:latitude":44.543703,
     "geom:longitude":-69.685088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Shores Rd",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404144641,
-    "wof:lastmodified":1449039995,
+    "wof:lastmodified":1466586813,
     "wof:name":"Principato TV & Appliances",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-69.685088,44.543703,-69.685088,44.543703],
-  "geometry": {"coordinates":[-69.685088,44.543703],"type":"Point"}
+  "bbox": [
+    -69.685088,
+    44.543703,
+    -69.685088,
+    44.543703
+],
+  "geometry": {"coordinates":[-69.68508799999999,44.543703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404068513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.910435,44.277844,-68.910435,44.277844",
     "geom:latitude":44.277844,
     "geom:longitude":-68.910435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Pendleton Point Rd",
     "sg:city":"Islesboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404068513,
-    "wof:lastmodified":1449039721,
+    "wof:lastmodified":1466586550,
     "wof:name":"Cleanwoods Portable Toilets",
     "wof:parent_id":85813559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "toilet"
     ]
 },
-  "bbox": [-68.910435,44.277844,-68.910435,44.277844],
-  "geometry": {"coordinates":[-68.910435,44.277844],"type":"Point"}
+  "bbox": [
+    -68.910435,
+    44.277844,
+    -68.910435,
+    44.277844
+],
+  "geometry": {"coordinates":[-68.91043500000001,44.277844],"type":"Point"}
 }

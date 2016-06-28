@@ -2,13 +2,14 @@
   "id": 387943181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.293685,43.688346,-70.293685,43.688346",
     "geom:latitude":43.688346,
     "geom:longitude":-70.293685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387943181,
-    "wof:lastmodified":1449057106,
+    "wof:lastmodified":1466587278,
     "wof:name":"Quintel Co",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.293685,43.688346,-70.293685,43.688346],
+  "bbox": [
+    -70.293685,
+    43.688346,
+    -70.293685,
+    43.688346
+],
   "geometry": {"coordinates":[-70.293685,43.688346],"type":"Point"}
 }

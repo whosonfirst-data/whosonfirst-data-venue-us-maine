@@ -2,13 +2,14 @@
   "id": 387808853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.771798,44.800395,-68.771798,44.800395",
     "geom:latitude":44.800395,
     "geom:longitude":-68.771798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Main St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387808853,
-    "wof:lastmodified":1449056299,
+    "wof:lastmodified":1466587165,
     "wof:name":"Tax Factory",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-68.771798,44.800395,-68.771798,44.800395],
+  "bbox": [
+    -68.771798,
+    44.800395,
+    -68.771798,
+    44.800395
+],
   "geometry": {"coordinates":[-68.771798,44.800395],"type":"Point"}
 }

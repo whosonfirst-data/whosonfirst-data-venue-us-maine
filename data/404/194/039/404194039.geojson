@@ -2,13 +2,14 @@
   "id": 404194039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.317628,43.72433,-70.317628,43.72433",
     "geom:latitude":43.72433,
     "geom:longitude":-70.317628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 Brook Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404194039,
-    "wof:lastmodified":1449040142,
+    "wof:lastmodified":1466586973,
     "wof:name":"Cellular Solutions Inc",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-70.317628,43.72433,-70.317628,43.72433],
+  "bbox": [
+    -70.317628,
+    43.72433,
+    -70.317628,
+    43.72433
+],
   "geometry": {"coordinates":[-70.317628,43.72433],"type":"Point"}
 }

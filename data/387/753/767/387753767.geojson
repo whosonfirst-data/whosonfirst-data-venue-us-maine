@@ -2,13 +2,14 @@
   "id": 387753767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.343282,43.61907,-70.343282,43.61907",
     "geom:latitude":43.61907,
     "geom:longitude":-70.343282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Honan Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387753767,
-    "wof:lastmodified":1449056558,
+    "wof:lastmodified":1466586906,
     "wof:name":"Showstopper",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.343282,43.61907,-70.343282,43.61907],
+  "bbox": [
+    -70.343282,
+    43.61907,
+    -70.343282,
+    43.61907
+],
   "geometry": {"coordinates":[-70.343282,43.61907],"type":"Point"}
 }

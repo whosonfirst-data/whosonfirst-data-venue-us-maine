@@ -2,13 +2,14 @@
   "id": 403926373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.781983,44.781405,-68.781983,44.781405",
     "geom:latitude":44.781405,
     "geom:longitude":-68.781983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Main St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403926373,
-    "wof:lastmodified":1449055089,
+    "wof:lastmodified":1466586925,
     "wof:name":"Bruce D Fowle CPA",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-68.781983,44.781405,-68.781983,44.781405],
+  "bbox": [
+    -68.781983,
+    44.781405,
+    -68.781983,
+    44.781405
+],
   "geometry": {"coordinates":[-68.781983,44.781405],"type":"Point"}
 }

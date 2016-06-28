@@ -2,13 +2,14 @@
   "id": 387922735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.607701,43.730979,-70.607701,43.730979",
     "geom:latitude":43.730979,
     "geom:longitude":-70.607701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Birch Dr",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387922735,
-    "wof:lastmodified":1449056452,
+    "wof:lastmodified":1466587186,
     "wof:name":"KDP Business Solutions",
     "wof:parent_id":85816541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-70.607701,43.730979,-70.607701,43.730979],
-  "geometry": {"coordinates":[-70.607701,43.730979],"type":"Point"}
+  "bbox": [
+    -70.607701,
+    43.730979,
+    -70.607701,
+    43.730979
+],
+  "geometry": {"coordinates":[-70.60770100000001,43.730979],"type":"Point"}
 }

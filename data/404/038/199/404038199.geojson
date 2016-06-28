@@ -2,13 +2,14 @@
   "id": 404038199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.306884,43.55268,-70.306884,43.55268",
     "geom:latitude":43.55268,
     "geom:longitude":-70.306884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"382 Black Point Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404038199,
-    "wof:lastmodified":1449039899,
+    "wof:lastmodified":1466586054,
     "wof:name":"Kaler-Vaill",
     "wof:parent_id":85843227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-70.306884,43.55268,-70.306884,43.55268],
+  "bbox": [
+    -70.306884,
+    43.55268,
+    -70.306884,
+    43.55268
+],
   "geometry": {"coordinates":[-70.306884,43.55268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387651277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.775071,43.438812,-70.775071,43.438812",
     "geom:latitude":43.438812,
     "geom:longitude":-70.775071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Washington St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387651277,
-    "wof:lastmodified":1449056853,
+    "wof:lastmodified":1466586660,
     "wof:name":"Cummings Lamont & Mc Namee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-70.775071,43.438812,-70.775071,43.438812],
+  "bbox": [
+    -70.775071,
+    43.438812,
+    -70.775071,
+    43.438812
+],
   "geometry": {"coordinates":[-70.775071,43.438812],"type":"Point"}
 }

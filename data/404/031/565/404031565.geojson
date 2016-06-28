@@ -2,13 +2,14 @@
   "id": 404031565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.229221,44.508524,-70.229221,44.508524",
     "geom:latitude":44.508524,
     "geom:longitude":-70.229221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Intervale Rd",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404031565,
-    "wof:lastmodified":1449039483,
+    "wof:lastmodified":1466585982,
     "wof:name":"Merrill Logging Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "logging"
     ]
 },
-  "bbox": [-70.229221,44.508524,-70.229221,44.508524],
+  "bbox": [
+    -70.229221,
+    44.508524,
+    -70.229221,
+    44.508524
+],
   "geometry": {"coordinates":[-70.229221,44.508524],"type":"Point"}
 }

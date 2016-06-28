@@ -2,13 +2,14 @@
   "id": 404043531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.308888,44.804629,-69.308888,44.804629",
     "geom:latitude":44.804629,
     "geom:longitude":-69.308888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Main St",
     "sg:city":"Detroit",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404043531,
-    "wof:lastmodified":1449040004,
+    "wof:lastmodified":1466586152,
     "wof:name":"Dirigo Fencing",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-69.308888,44.804629,-69.308888,44.804629],
+  "bbox": [
+    -69.308888,
+    44.804629,
+    -69.308888,
+    44.804629
+],
   "geometry": {"coordinates":[-69.308888,44.804629],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403961631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.322974,44.26951,-68.322974,44.26951",
     "geom:latitude":44.26951,
     "geom:longitude":-68.322974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 Seawall Rd",
     "sg:city":"Southwest Harbor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403961631,
-    "wof:lastmodified":1449055923,
+    "wof:lastmodified":1466587006,
     "wof:name":"Seawall Camping Supplies",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "camping"
     ]
 },
-  "bbox": [-68.322974,44.26951,-68.322974,44.26951],
+  "bbox": [
+    -68.322974,
+    44.26951,
+    -68.322974,
+    44.26951
+],
   "geometry": {"coordinates":[-68.322974,44.26951],"type":"Point"}
 }

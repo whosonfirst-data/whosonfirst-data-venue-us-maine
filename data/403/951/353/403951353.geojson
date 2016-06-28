@@ -2,13 +2,14 @@
   "id": 403951353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.989135,45.261752,-68.989135,45.261752",
     "geom:latitude":45.261752,
     "geom:longitude":-68.989135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Park St",
     "sg:city":"Milo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403951353,
-    "wof:lastmodified":1449054672,
+    "wof:lastmodified":1466587074,
     "wof:name":"Gordon C Chase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-68.989135,45.261752,-68.989135,45.261752],
+  "bbox": [
+    -68.989135,
+    45.261752,
+    -68.989135,
+    45.261752
+],
   "geometry": {"coordinates":[-68.989135,45.261752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403904823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.763821,44.780765,-68.763821,44.780765",
     "geom:latitude":44.780765,
     "geom:longitude":-68.763821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Industrial Plaza Dr",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403904823,
-    "wof:lastmodified":1449056007,
+    "wof:lastmodified":1466586942,
     "wof:name":"Caretaker Security Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-68.763821,44.780765,-68.763821,44.780765],
-  "geometry": {"coordinates":[-68.763821,44.780765],"type":"Point"}
+  "bbox": [
+    -68.763821,
+    44.780765,
+    -68.763821,
+    44.780765
+],
+  "geometry": {"coordinates":[-68.76382099999999,44.780765],"type":"Point"}
 }

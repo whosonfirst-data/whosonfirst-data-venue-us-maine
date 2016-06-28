@@ -2,13 +2,14 @@
   "id": 387895067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.736633,44.777907,-68.736633,44.777907",
     "geom:latitude":44.777907,
     "geom:longitude":-68.736633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"652 Wilson St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387895067,
-    "wof:lastmodified":1449057720,
+    "wof:lastmodified":1466587227,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-68.736633,44.777907,-68.736633,44.777907],
+  "bbox": [
+    -68.736633,
+    44.777907,
+    -68.736633,
+    44.777907
+],
   "geometry": {"coordinates":[-68.736633,44.777907],"type":"Point"}
 }

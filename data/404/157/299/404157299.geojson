@@ -2,13 +2,14 @@
   "id": 404157299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.133563,44.093523,-69.133563,44.093523",
     "geom:latitude":44.093523,
     "geom:longitude":-69.133563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Garden Ave",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404157299,
-    "wof:lastmodified":1449040150,
+    "wof:lastmodified":1466586750,
     "wof:name":"Imagineering Inc",
     "wof:parent_id":85803709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wood"
     ]
 },
-  "bbox": [-69.133563,44.093523,-69.133563,44.093523],
+  "bbox": [
+    -69.133563,
+    44.093523,
+    -69.133563,
+    44.093523
+],
   "geometry": {"coordinates":[-69.133563,44.093523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403806931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.402675,43.466804,-70.402675,43.466804",
     "geom:latitude":43.466804,
     "geom:longitude":-70.402675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Sokokis Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403806931,
-    "wof:lastmodified":1449054630,
+    "wof:lastmodified":1466586059,
     "wof:name":"Faucher Pipe Organ Co",
     "wof:parent_id":85825543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "organs"
     ]
 },
-  "bbox": [-70.402675,43.466804,-70.402675,43.466804],
+  "bbox": [
+    -70.402675,
+    43.466804,
+    -70.402675,
+    43.466804
+],
   "geometry": {"coordinates":[-70.402675,43.466804],"type":"Point"}
 }

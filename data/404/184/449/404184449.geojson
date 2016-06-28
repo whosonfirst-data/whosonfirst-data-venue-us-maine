@@ -2,13 +2,14 @@
   "id": 404184449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.280262,43.672902,-70.280262,43.672902",
     "geom:latitude":43.672902,
     "geom:longitude":-70.280262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Codman St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404184449,
-    "wof:lastmodified":1449039238,
+    "wof:lastmodified":1466586756,
     "wof:name":"Preserving Generations Photo",
     "wof:parent_id":85858625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photography"
     ]
 },
-  "bbox": [-70.280262,43.672902,-70.280262,43.672902],
-  "geometry": {"coordinates":[-70.280262,43.672902],"type":"Point"}
+  "bbox": [
+    -70.280262,
+    43.672902,
+    -70.280262,
+    43.672902
+],
+  "geometry": {"coordinates":[-70.28026199999999,43.672902],"type":"Point"}
 }

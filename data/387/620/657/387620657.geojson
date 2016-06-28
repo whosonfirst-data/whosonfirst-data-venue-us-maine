@@ -2,13 +2,14 @@
   "id": 387620657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.278286,44.046505,-70.278286,44.046505",
     "geom:latitude":44.046505,
     "geom:longitude":-70.278286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Airport Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387620657,
-    "wof:lastmodified":1449059586,
+    "wof:lastmodified":1466586690,
     "wof:name":"Twin Cities Air Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "charter"
     ]
 },
-  "bbox": [-70.278286,44.046505,-70.278286,44.046505],
-  "geometry": {"coordinates":[-70.278286,44.046505],"type":"Point"}
+  "bbox": [
+    -70.278286,
+    44.046505,
+    -70.278286,
+    44.046505
+],
+  "geometry": {"coordinates":[-70.27828599999999,44.046505],"type":"Point"}
 }

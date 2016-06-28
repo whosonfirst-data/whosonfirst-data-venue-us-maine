@@ -2,13 +2,14 @@
   "id": 387645827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.941673,44.742413,-68.941673,44.742413",
     "geom:latitude":44.742413,
     "geom:longitude":-68.941673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Sawyer Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387645827,
-    "wof:lastmodified":1449056490,
+    "wof:lastmodified":1466585941,
     "wof:name":"Terry L Wilson Water Pump Sale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-68.941673,44.742413,-68.941673,44.742413],
-  "geometry": {"coordinates":[-68.941673,44.742413],"type":"Point"}
+  "bbox": [
+    -68.941673,
+    44.742413,
+    -68.941673,
+    44.742413
+],
+  "geometry": {"coordinates":[-68.94167299999999,44.742413],"type":"Point"}
 }

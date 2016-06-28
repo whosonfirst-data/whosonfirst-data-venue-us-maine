@@ -2,13 +2,14 @@
   "id": 404019697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.147948,44.076878,-70.147948,44.076878",
     "geom:latitude":44.076878,
     "geom:longitude":-70.147948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Old Webster Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404019697,
-    "wof:lastmodified":1449039820,
+    "wof:lastmodified":1466585892,
     "wof:name":"A McLean Court Reporting Svcs",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-70.147948,44.076878,-70.147948,44.076878],
+  "bbox": [
+    -70.147948,
+    44.076878,
+    -70.147948,
+    44.076878
+],
   "geometry": {"coordinates":[-70.147948,44.076878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387915109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.481232,43.975311,-69.481232,43.975311",
     "geom:latitude":43.975311,
     "geom:longitude":-69.481232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Sodom Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387915109,
-    "wof:lastmodified":1449059884,
+    "wof:lastmodified":1466587322,
     "wof:name":"Frick & Frack Firewood",
     "wof:parent_id":85831495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firewood"
     ]
 },
-  "bbox": [-69.481232,43.975311,-69.481232,43.975311],
-  "geometry": {"coordinates":[-69.481232,43.975311],"type":"Point"}
+  "bbox": [
+    -69.481232,
+    43.975311,
+    -69.481232,
+    43.975311
+],
+  "geometry": {"coordinates":[-69.48123200000001,43.975311],"type":"Point"}
 }

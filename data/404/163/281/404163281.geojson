@@ -2,13 +2,14 @@
   "id": 404163281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.103441,44.117276,-69.103441,44.117276",
     "geom:latitude":44.117276,
     "geom:longitude":-69.103441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Camden St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404163281,
-    "wof:lastmodified":1449040309,
+    "wof:lastmodified":1466586779,
     "wof:name":"Rockport Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "modular"
     ]
 },
-  "bbox": [-69.103441,44.117276,-69.103441,44.117276],
+  "bbox": [
+    -69.103441,
+    44.117276,
+    -69.103441,
+    44.117276
+],
   "geometry": {"coordinates":[-69.103441,44.117276],"type":"Point"}
 }

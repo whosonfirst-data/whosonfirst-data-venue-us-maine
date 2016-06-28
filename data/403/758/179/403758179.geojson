@@ -2,13 +2,14 @@
   "id": 403758179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.034156,44.242736,-70.034156,44.242736",
     "geom:latitude":44.242736,
     "geom:longitude":-70.034156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"795 Main St",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":403758179,
-    "wof:lastmodified":1449055046,
+    "wof:lastmodified":1466586365,
     "wof:name":"Theater At Monmouth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.034156,44.242736,-70.034156,44.242736],
+  "bbox": [
+    -70.034156,
+    44.242736,
+    -70.034156,
+    44.242736
+],
   "geometry": {"coordinates":[-70.034156,44.242736],"type":"Point"}
 }

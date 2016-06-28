@@ -2,13 +2,14 @@
   "id": 403749539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.88177,44.797763,-69.88177,44.797763",
     "geom:latitude":44.797763,
     "geom:longitude":-69.88177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Main St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403749539,
-    "wof:lastmodified":1449055025,
+    "wof:lastmodified":1466586207,
     "wof:name":"Murrays Clock Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.88177,44.797763,-69.88177,44.797763],
+  "bbox": [
+    -69.88177,
+    44.797763,
+    -69.88177,
+    44.797763
+],
   "geometry": {"coordinates":[-69.88177,44.797763],"type":"Point"}
 }

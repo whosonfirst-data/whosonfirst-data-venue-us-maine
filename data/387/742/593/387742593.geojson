@@ -2,13 +2,14 @@
   "id": 387742593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.324713,43.93583,-70.324713,43.93583",
     "geom:latitude":43.93583,
     "geom:longitude":-70.324713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Fish Hatchery Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387742593,
-    "wof:lastmodified":1449056367,
+    "wof:lastmodified":1466586866,
     "wof:name":"Debs Barnyard Pet Sitting Svc",
     "wof:parent_id":85857545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.324713,43.93583,-70.324713,43.93583],
+  "bbox": [
+    -70.324713,
+    43.93583,
+    -70.324713,
+    43.93583
+],
   "geometry": {"coordinates":[-70.324713,43.93583],"type":"Point"}
 }

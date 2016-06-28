@@ -2,13 +2,14 @@
   "id": 387899323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.995016,46.633384,-67.995016,46.633384",
     "geom:latitude":46.633384,
     "geom:longitude":-67.995016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Houlton Rd",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387899323,
-    "wof:lastmodified":1449059728,
+    "wof:lastmodified":1466587234,
     "wof:name":"Aroostook Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.995016,46.633384,-67.995016,46.633384],
-  "geometry": {"coordinates":[-67.995016,46.633384],"type":"Point"}
+  "bbox": [
+    -67.995016,
+    46.633384,
+    -67.995016,
+    46.633384
+],
+  "geometry": {"coordinates":[-67.99501600000001,46.633384],"type":"Point"}
 }

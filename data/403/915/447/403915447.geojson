@@ -2,13 +2,14 @@
   "id": 403915447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.725233,43.661967,-70.725233,43.661967",
     "geom:latitude":43.661967,
     "geom:longitude":-70.725233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Old Portland Rd",
     "sg:city":"North Waterboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403915447,
-    "wof:lastmodified":1449055941,
+    "wof:lastmodified":1466586965,
     "wof:name":"Wayne Romprey",
     "wof:parent_id":85865251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "direct"
     ]
 },
-  "bbox": [-70.725233,43.661967,-70.725233,43.661967],
+  "bbox": [
+    -70.725233,
+    43.661967,
+    -70.725233,
+    43.661967
+],
   "geometry": {"coordinates":[-70.725233,43.661967],"type":"Point"}
 }

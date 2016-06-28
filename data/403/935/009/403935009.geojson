@@ -2,13 +2,14 @@
   "id": 403935009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.264702,43.653444,-70.264702,43.653444",
     "geom:latitude":43.653444,
     "geom:longitude":-70.264702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403935009,
-    "wof:lastmodified":1449055734,
+    "wof:lastmodified":1466587118,
     "wof:name":"Down Town Lounge",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.264702,43.653444,-70.264702,43.653444],
+  "bbox": [
+    -70.264702,
+    43.653444,
+    -70.264702,
+    43.653444
+],
   "geometry": {"coordinates":[-70.264702,43.653444],"type":"Point"}
 }

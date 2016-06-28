@@ -2,13 +2,14 @@
   "id": 404035495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.321051,44.279,-68.321051,44.279",
     "geom:latitude":44.279,
     "geom:longitude":-68.321051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Harbor Ave",
     "sg:city":"Southwest Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404035495,
-    "wof:lastmodified":1449040060,
+    "wof:lastmodified":1466586018,
     "wof:name":"Westside Florist",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.321051,44.279,-68.321051,44.279],
+  "bbox": [
+    -68.321051,
+    44.279,
+    -68.321051,
+    44.279
+],
   "geometry": {"coordinates":[-68.321051,44.279],"type":"Point"}
 }

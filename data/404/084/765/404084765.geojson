@@ -2,13 +2,14 @@
   "id": 404084765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.354762,44.068905,-70.354762,44.068905",
     "geom:latitude":44.068905,
     "geom:longitude":-70.354762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Cobb Brook Ln",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404084765,
-    "wof:lastmodified":1449039150,
+    "wof:lastmodified":1466585805,
     "wof:name":"Bes Custom Metal",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-70.354762,44.068905,-70.354762,44.068905],
-  "geometry": {"coordinates":[-70.354762,44.068905],"type":"Point"}
+  "bbox": [
+    -70.354762,
+    44.068905,
+    -70.354762,
+    44.068905
+],
+  "geometry": {"coordinates":[-70.35476199999999,44.068905],"type":"Point"}
 }

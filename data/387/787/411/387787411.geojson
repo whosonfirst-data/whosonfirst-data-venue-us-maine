@@ -2,13 +2,14 @@
   "id": 387787411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.201024,44.494406,-70.201024,44.494406",
     "geom:latitude":44.494406,
     "geom:longitude":-70.201024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Community Dr",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387787411,
-    "wof:lastmodified":1449057819,
+    "wof:lastmodified":1466587008,
     "wof:name":"Jay High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "high"
     ]
 },
-  "bbox": [-70.201024,44.494406,-70.201024,44.494406],
+  "bbox": [
+    -70.201024,
+    44.494406,
+    -70.201024,
+    44.494406
+],
   "geometry": {"coordinates":[-70.201024,44.494406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404205733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.168393,43.688883,-70.168393,43.688883",
     "geom:latitude":43.688883,
     "geom:longitude":-70.168393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Beach Ave",
     "sg:city":"Long Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404205733,
-    "wof:lastmodified":1449039829,
+    "wof:lastmodified":1466586867,
     "wof:name":"Christine's On The Coast",
     "wof:parent_id":85852579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.168393,43.688883,-70.168393,43.688883],
-  "geometry": {"coordinates":[-70.168393,43.688883],"type":"Point"}
+  "bbox": [
+    -70.168393,
+    43.688883,
+    -70.168393,
+    43.688883
+],
+  "geometry": {"coordinates":[-70.16839299999999,43.688883],"type":"Point"}
 }

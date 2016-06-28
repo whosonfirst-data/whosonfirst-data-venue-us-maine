@@ -2,13 +2,14 @@
   "id": 404006507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.243557,43.634713,-70.243557,43.634713",
     "geom:latitude":43.634713,
     "geom:longitude":-70.243557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Cottage Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404006507,
-    "wof:lastmodified":1449040050,
+    "wof:lastmodified":1466585784,
     "wof:name":"Life Associates Of Maine",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.243557,43.634713,-70.243557,43.634713],
+  "bbox": [
+    -70.243557,
+    43.634713,
+    -70.243557,
+    43.634713
+],
   "geometry": {"coordinates":[-70.243557,43.634713],"type":"Point"}
 }

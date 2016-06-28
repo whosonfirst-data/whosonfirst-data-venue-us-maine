@@ -2,13 +2,14 @@
   "id": 403918219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.713043,43.474291,-70.713043,43.474291",
     "geom:latitude":43.474291,
     "geom:longitude":-70.713043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Old Kennebunk Rd",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403918219,
-    "wof:lastmodified":1449055513,
+    "wof:lastmodified":1466586891,
     "wof:name":"Brentwood Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.713043,43.474291,-70.713043,43.474291],
+  "bbox": [
+    -70.713043,
+    43.474291,
+    -70.713043,
+    43.474291
+],
   "geometry": {"coordinates":[-70.713043,43.474291],"type":"Point"}
 }

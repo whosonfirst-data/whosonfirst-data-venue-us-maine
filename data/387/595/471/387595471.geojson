@@ -2,13 +2,14 @@
   "id": 387595471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.641492,44.559397,-69.641492,44.559397",
     "geom:latitude":44.559397,
     "geom:longitude":-69.641492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 North St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387595471,
-    "wof:lastmodified":1449059548,
+    "wof:lastmodified":1466586279,
     "wof:name":"Juvenile Community Corrections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-69.641492,44.559397,-69.641492,44.559397],
+  "bbox": [
+    -69.641492,
+    44.559397,
+    -69.641492,
+    44.559397
+],
   "geometry": {"coordinates":[-69.641492,44.559397],"type":"Point"}
 }

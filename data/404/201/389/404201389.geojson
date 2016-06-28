@@ -2,13 +2,14 @@
   "id": 404201389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.161716,46.68362,-68.161716,46.68362",
     "geom:latitude":46.68362,
     "geom:longitude":-68.161716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Hughes Rd",
     "sg:city":"Mapleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404201389,
-    "wof:lastmodified":1449040162,
+    "wof:lastmodified":1466586852,
     "wof:name":"Wood Delmont & Sons Inc",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.161716,46.68362,-68.161716,46.68362],
+  "bbox": [
+    -68.161716,
+    46.68362,
+    -68.161716,
+    46.68362
+],
   "geometry": {"coordinates":[-68.161716,46.68362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404179073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.639302,44.966052,-68.639302,44.966052",
     "geom:latitude":44.966052,
     "geom:longitude":-68.639302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Main St",
     "sg:city":"Mattawamkeag",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404179073,
-    "wof:lastmodified":1449040206,
+    "wof:lastmodified":1466586821,
     "wof:name":"Cross-Roads Motel & Rstrnt",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.639302,44.966052,-68.639302,44.966052],
+  "bbox": [
+    -68.639302,
+    44.966052,
+    -68.639302,
+    44.966052
+],
   "geometry": {"coordinates":[-68.639302,44.966052],"type":"Point"}
 }

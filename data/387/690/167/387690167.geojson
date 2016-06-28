@@ -2,13 +2,14 @@
   "id": 387690167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.781395,44.82315,-68.781395,44.82315",
     "geom:latitude":44.82315,
     "geom:longitude":-68.781395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Thornton Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387690167,
-    "wof:lastmodified":1449058122,
+    "wof:lastmodified":1466586605,
     "wof:name":"Dottie Young's Beauty Boutique",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.781395,44.82315,-68.781395,44.82315],
+  "bbox": [
+    -68.781395,
+    44.82315,
+    -68.781395,
+    44.82315
+],
   "geometry": {"coordinates":[-68.781395,44.82315],"type":"Point"}
 }

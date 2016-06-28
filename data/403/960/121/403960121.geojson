@@ -2,13 +2,14 @@
   "id": 403960121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.390624,47.280016,-68.390624,47.280016",
     "geom:latitude":47.280016,
     "geom:longitude":-68.390624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"283 US Hwy 1",
     "sg:city":"Frenchville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403960121,
-    "wof:lastmodified":1449055566,
+    "wof:lastmodified":1466586993,
     "wof:name":"Frenchville Town Office",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-68.390624,47.280016,-68.390624,47.280016],
+  "bbox": [
+    -68.390624,
+    47.280016,
+    -68.390624,
+    47.280016
+],
   "geometry": {"coordinates":[-68.390624,47.280016],"type":"Point"}
 }

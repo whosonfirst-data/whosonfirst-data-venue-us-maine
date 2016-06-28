@@ -2,13 +2,14 @@
   "id": 404101843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.410706,44.048086,-70.410706,44.048086",
     "geom:latitude":44.048086,
     "geom:longitude":-70.410706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 White Oak Hill Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404101843,
-    "wof:lastmodified":1449039751,
+    "wof:lastmodified":1466586021,
     "wof:name":"Harmon & Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-70.410706,44.048086,-70.410706,44.048086],
+  "bbox": [
+    -70.410706,
+    44.048086,
+    -70.410706,
+    44.048086
+],
   "geometry": {"coordinates":[-70.410706,44.048086],"type":"Point"}
 }

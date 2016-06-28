@@ -2,13 +2,14 @@
   "id": 404072785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.217224,44.101633,-70.217224,44.101633",
     "geom:latitude":44.101633,
     "geom:longitude":-70.217224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Bates St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404072785,
-    "wof:lastmodified":1449039769,
+    "wof:lastmodified":1466586597,
     "wof:name":"NAPPI",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "training"
     ]
 },
-  "bbox": [-70.217224,44.101633,-70.217224,44.101633],
+  "bbox": [
+    -70.217224,
+    44.101633,
+    -70.217224,
+    44.101633
+],
   "geometry": {"coordinates":[-70.217224,44.101633],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403743899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.839782,46.125874,-67.839782,46.125874",
     "geom:latitude":46.125874,
     "geom:longitude":-67.839782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Water St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403743899,
-    "wof:lastmodified":1449055953,
+    "wof:lastmodified":1466586115,
     "wof:name":"Bowers Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-67.839782,46.125874,-67.839782,46.125874],
+  "bbox": [
+    -67.839782,
+    46.125874,
+    -67.839782,
+    46.125874
+],
   "geometry": {"coordinates":[-67.839782,46.125874],"type":"Point"}
 }

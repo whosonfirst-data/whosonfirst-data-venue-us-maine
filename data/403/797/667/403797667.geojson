@@ -2,13 +2,14 @@
   "id": 403797667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.20674,44.386881,-68.20674,44.386881",
     "geom:latitude":44.386881,
     "geom:longitude":-68.20674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Mount Desert St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403797667,
-    "wof:lastmodified":1449055838,
+    "wof:lastmodified":1466585910,
     "wof:name":"Bar Harbor Food Pantry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.20674,44.386881,-68.20674,44.386881],
+  "bbox": [
+    -68.20674,
+    44.386881,
+    -68.20674,
+    44.386881
+],
   "geometry": {"coordinates":[-68.20674,44.386881],"type":"Point"}
 }

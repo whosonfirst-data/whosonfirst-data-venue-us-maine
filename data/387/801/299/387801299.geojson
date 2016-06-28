@@ -2,13 +2,14 @@
   "id": 387801299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.237476,43.840557,-70.237476,43.840557",
     "geom:latitude":43.840557,
     "geom:longitude":-70.237476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Memorial Hwy",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387801299,
-    "wof:lastmodified":1449059250,
+    "wof:lastmodified":1466587136,
     "wof:name":"Hat Lady",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-70.237476,43.840557,-70.237476,43.840557],
+  "bbox": [
+    -70.237476,
+    43.840557,
+    -70.237476,
+    43.840557
+],
   "geometry": {"coordinates":[-70.237476,43.840557],"type":"Point"}
 }

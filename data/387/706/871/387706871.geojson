@@ -2,13 +2,14 @@
   "id": 387706871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.172762,44.074602,-70.172762,44.074602",
     "geom:latitude":44.074602,
     "geom:longitude":-70.172762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Enterprise St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387706871,
-    "wof:lastmodified":1449056380,
+    "wof:lastmodified":1466586866,
     "wof:name":"Elco Precision Machining",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.172762,44.074602,-70.172762,44.074602],
-  "geometry": {"coordinates":[-70.172762,44.074602],"type":"Point"}
+  "bbox": [
+    -70.172762,
+    44.074602,
+    -70.172762,
+    44.074602
+],
+  "geometry": {"coordinates":[-70.17276200000001,44.074602],"type":"Point"}
 }

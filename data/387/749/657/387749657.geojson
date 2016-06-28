@@ -2,13 +2,14 @@
   "id": 387749657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.269571,44.068083,-70.269571,44.068083",
     "geom:latitude":44.068083,
     "geom:longitude":-70.269571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1887 Hotel Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387749657,
-    "wof:lastmodified":1449057176,
+    "wof:lastmodified":1466586820,
     "wof:name":"Candle Factory Blow Outlet",
     "wof:parent_id":85831033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-70.269571,44.068083,-70.269571,44.068083],
+  "bbox": [
+    -70.269571,
+    44.068083,
+    -70.269571,
+    44.068083
+],
   "geometry": {"coordinates":[-70.269571,44.068083],"type":"Point"}
 }

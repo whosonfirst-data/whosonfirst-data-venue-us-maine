@@ -2,13 +2,14 @@
   "id": 404025547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.44428,43.490521,-70.44428,43.490521",
     "geom:latitude":43.490521,
     "geom:longitude":-70.44428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Cleaves St",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404025547,
-    "wof:lastmodified":1449040115,
+    "wof:lastmodified":1466585959,
     "wof:name":"Littlefield & Son Sealcoating",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-70.44428,43.490521,-70.44428,43.490521],
-  "geometry": {"coordinates":[-70.44428,43.490521],"type":"Point"}
+  "bbox": [
+    -70.44428,
+    43.490521,
+    -70.44428,
+    43.490521
+],
+  "geometry": {"coordinates":[-70.44428000000001,43.490521],"type":"Point"}
 }

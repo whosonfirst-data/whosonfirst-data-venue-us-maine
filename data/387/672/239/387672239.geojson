@@ -2,13 +2,14 @@
   "id": 387672239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.076977,44.184555,-69.076977,44.184555",
     "geom:latitude":44.184555,
     "geom:longitude":-69.076977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Pleasant St",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387672239,
-    "wof:lastmodified":1449056355,
+    "wof:lastmodified":1466586316,
     "wof:name":"Wildwood Water Taxi & Charters",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [-69.076977,44.184555,-69.076977,44.184555],
+  "bbox": [
+    -69.076977,
+    44.184555,
+    -69.076977,
+    44.184555
+],
   "geometry": {"coordinates":[-69.076977,44.184555],"type":"Point"}
 }

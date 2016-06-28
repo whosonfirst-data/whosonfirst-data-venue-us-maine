@@ -2,13 +2,14 @@
   "id": 404076621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.287168,43.591654,-70.287168,43.591654",
     "geom:latitude":43.591654,
     "geom:longitude":-70.287168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Tenney Ln",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404076621,
-    "wof:lastmodified":1449040038,
+    "wof:lastmodified":1466586687,
     "wof:name":"Electrical Maintenance",
     "wof:parent_id":85842219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.287168,43.591654,-70.287168,43.591654],
-  "geometry": {"coordinates":[-70.287168,43.591654],"type":"Point"}
+  "bbox": [
+    -70.287168,
+    43.591654,
+    -70.287168,
+    43.591654
+],
+  "geometry": {"coordinates":[-70.28716799999999,43.591654],"type":"Point"}
 }

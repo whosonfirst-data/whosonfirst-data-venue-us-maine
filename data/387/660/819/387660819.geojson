@@ -2,13 +2,14 @@
   "id": 387660819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.297326,43.668096,-70.297326,43.668096",
     "geom:latitude":43.668096,
     "geom:longitude":-70.297326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Runnells St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387660819,
-    "wof:lastmodified":1449059519,
+    "wof:lastmodified":1466586135,
     "wof:name":"Lotfey Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.297326,43.668096,-70.297326,43.668096],
+  "bbox": [
+    -70.297326,
+    43.668096,
+    -70.297326,
+    43.668096
+],
   "geometry": {"coordinates":[-70.297326,43.668096],"type":"Point"}
 }

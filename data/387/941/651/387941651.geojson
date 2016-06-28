@@ -2,13 +2,14 @@
   "id": 387941651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.216328,44.095079,-70.216328,44.095079",
     "geom:latitude":44.095079,
     "geom:longitude":-70.216328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387941651,
-    "wof:lastmodified":1449058379,
+    "wof:lastmodified":1466587333,
     "wof:name":"Dube Cruise & Travel Ctr",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bureau"
     ]
 },
-  "bbox": [-70.216328,44.095079,-70.216328,44.095079],
+  "bbox": [
+    -70.216328,
+    44.095079,
+    -70.216328,
+    44.095079
+],
   "geometry": {"coordinates":[-70.216328,44.095079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404148711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.774249,44.229913,-69.774249,44.229913",
     "geom:latitude":44.229913,
     "geom:longitude":-69.774249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Water St",
     "sg:city":"Gardiner",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404148711,
-    "wof:lastmodified":1449040127,
+    "wof:lastmodified":1466586728,
     "wof:name":"Village Jewelers",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-69.774249,44.229913,-69.774249,44.229913],
+  "bbox": [
+    -69.774249,
+    44.229913,
+    -69.774249,
+    44.229913
+],
   "geometry": {"coordinates":[-69.774249,44.229913],"type":"Point"}
 }

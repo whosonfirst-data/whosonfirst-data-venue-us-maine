@@ -2,13 +2,14 @@
   "id": 387658237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.227665,44.09829,-70.227665,44.09829",
     "geom:latitude":44.09829,
     "geom:longitude":-70.227665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Pleasant St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387658237,
-    "wof:lastmodified":1449056028,
+    "wof:lastmodified":1466586093,
     "wof:name":"Androscoggin County Jail",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-70.227665,44.09829,-70.227665,44.09829],
+  "bbox": [
+    -70.227665,
+    44.09829,
+    -70.227665,
+    44.09829
+],
   "geometry": {"coordinates":[-70.227665,44.09829],"type":"Point"}
 }

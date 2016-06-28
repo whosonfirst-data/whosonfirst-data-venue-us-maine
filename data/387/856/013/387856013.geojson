@@ -2,13 +2,14 @@
   "id": 387856013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.055725,43.994848,-70.055725,43.994848",
     "geom:latitude":43.994848,
     "geom:longitude":-70.055725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Birch St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387856013,
-    "wof:lastmodified":1449057176,
+    "wof:lastmodified":1466587252,
     "wof:name":"B & W Automotive",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.055725,43.994848,-70.055725,43.994848],
+  "bbox": [
+    -70.055725,
+    43.994848,
+    -70.055725,
+    43.994848
+],
   "geometry": {"coordinates":[-70.055725,43.994848],"type":"Point"}
 }

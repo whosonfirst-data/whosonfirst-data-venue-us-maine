@@ -2,13 +2,14 @@
   "id": 387804481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.289076,43.68003,-70.289076,43.68003",
     "geom:latitude":43.68003,
     "geom:longitude":-70.289076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"977 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387804481,
-    "wof:lastmodified":1449058761,
+    "wof:lastmodified":1466587056,
     "wof:name":"Greater Portland Driving Acad",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driving"
     ]
 },
-  "bbox": [-70.289076,43.68003,-70.289076,43.68003],
-  "geometry": {"coordinates":[-70.289076,43.68003],"type":"Point"}
+  "bbox": [
+    -70.289076,
+    43.68003,
+    -70.289076,
+    43.68003
+],
+  "geometry": {"coordinates":[-70.28907599999999,43.68003],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387894307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.182848,43.803239,-70.182848,43.803239",
     "geom:latitude":43.803239,
     "geom:longitude":-70.182848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Forest Falls Dr",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387894307,
-    "wof:lastmodified":1449057674,
+    "wof:lastmodified":1466587227,
     "wof:name":"Forest Falls Ofc Condominiums",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-70.182848,43.803239,-70.182848,43.803239],
-  "geometry": {"coordinates":[-70.182848,43.803239],"type":"Point"}
+  "bbox": [
+    -70.182848,
+    43.803239,
+    -70.182848,
+    43.803239
+],
+  "geometry": {"coordinates":[-70.18284800000001,43.803239],"type":"Point"}
 }

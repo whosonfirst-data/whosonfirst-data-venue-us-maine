@@ -2,13 +2,14 @@
   "id": 387619237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.068985,44.202076,-69.068985,44.202076",
     "geom:latitude":44.202076,
     "geom:longitude":-69.068985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Union St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387619237,
-    "wof:lastmodified":1449056783,
+    "wof:lastmodified":1466586689,
     "wof:name":"Ebs Building Supplies",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.068985,44.202076,-69.068985,44.202076],
+  "bbox": [
+    -69.068985,
+    44.202076,
+    -69.068985,
+    44.202076
+],
   "geometry": {"coordinates":[-69.068985,44.202076],"type":"Point"}
 }

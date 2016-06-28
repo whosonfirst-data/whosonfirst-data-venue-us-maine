@@ -2,13 +2,14 @@
   "id": 404165055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.771363,44.802096,-68.771363,44.802096",
     "geom:latitude":44.802096,
     "geom:longitude":-68.771363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Central St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404165055,
-    "wof:lastmodified":1449040329,
+    "wof:lastmodified":1466586778,
     "wof:name":"Bagel Central",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bagel"
     ]
 },
-  "bbox": [-68.771363,44.802096,-68.771363,44.802096],
-  "geometry": {"coordinates":[-68.771363,44.802096],"type":"Point"}
+  "bbox": [
+    -68.771363,
+    44.802096,
+    -68.771363,
+    44.802096
+],
+  "geometry": {"coordinates":[-68.77136299999999,44.802096],"type":"Point"}
 }

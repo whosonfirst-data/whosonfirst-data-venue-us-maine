@@ -2,13 +2,14 @@
   "id": 403786807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.12535,43.980461,-70.12535,43.980461",
     "geom:latitude":43.980461,
     "geom:longitude":-70.12535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"697 Royalsborough Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403786807,
-    "wof:lastmodified":1449054798,
+    "wof:lastmodified":1466585776,
     "wof:name":"Durham Get & Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.12535,43.980461,-70.12535,43.980461],
+  "bbox": [
+    -70.12535,
+    43.980461,
+    -70.12535,
+    43.980461
+],
   "geometry": {"coordinates":[-70.12535,43.980461],"type":"Point"}
 }

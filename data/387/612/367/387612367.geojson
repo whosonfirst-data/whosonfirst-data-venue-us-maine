@@ -2,13 +2,14 @@
   "id": 387612367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.357038,43.675098,-70.357038,43.675098",
     "geom:latitude":43.675098,
     "geom:longitude":-70.357038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Stroudwater St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387612367,
-    "wof:lastmodified":1449057788,
+    "wof:lastmodified":1466586533,
     "wof:name":"Westbrook Regional Voc Ctr",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institute"
     ]
 },
-  "bbox": [-70.357038,43.675098,-70.357038,43.675098],
+  "bbox": [
+    -70.357038,
+    43.675098,
+    -70.357038,
+    43.675098
+],
   "geometry": {"coordinates":[-70.357038,43.675098],"type":"Point"}
 }

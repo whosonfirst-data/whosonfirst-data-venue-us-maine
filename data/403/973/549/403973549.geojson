@@ -2,13 +2,14 @@
   "id": 403973549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.604336,43.479663,-70.604336,43.479663",
     "geom:latitude":43.479663,
     "geom:longitude":-70.604336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"279 Goodwins Mills Rd",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403973549,
-    "wof:lastmodified":1449055447,
+    "wof:lastmodified":1466587134,
     "wof:name":"Denise Dupuis Photography",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "photography"
     ]
 },
-  "bbox": [-70.604336,43.479663,-70.604336,43.479663],
+  "bbox": [
+    -70.604336,
+    43.479663,
+    -70.604336,
+    43.479663
+],
   "geometry": {"coordinates":[-70.604336,43.479663],"type":"Point"}
 }

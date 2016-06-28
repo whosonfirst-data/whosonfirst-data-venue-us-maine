@@ -2,13 +2,14 @@
   "id": 387653745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.624604,44.547331,-69.624604,44.547331",
     "geom:latitude":44.547331,
     "geom:longitude":-69.624604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Clinton Ave",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387653745,
-    "wof:lastmodified":1449056388,
+    "wof:lastmodified":1466586028,
     "wof:name":"Knick Knacks Racg Collectibles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "house"
     ]
 },
-  "bbox": [-69.624604,44.547331,-69.624604,44.547331],
-  "geometry": {"coordinates":[-69.624604,44.547331],"type":"Point"}
+  "bbox": [
+    -69.624604,
+    44.547331,
+    -69.624604,
+    44.547331
+],
+  "geometry": {"coordinates":[-69.62460400000001,44.547331],"type":"Point"}
 }

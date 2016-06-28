@@ -2,13 +2,14 @@
   "id": 387785535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.957121,47.186614,-67.957121,47.186614",
     "geom:latitude":47.186614,
     "geom:longitude":-67.957121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 Main St",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387785535,
-    "wof:lastmodified":1449059271,
+    "wof:lastmodified":1466587004,
     "wof:name":"Keegan Variety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.957121,47.186614,-67.957121,47.186614],
+  "bbox": [
+    -67.957121,
+    47.186614,
+    -67.957121,
+    47.186614
+],
   "geometry": {"coordinates":[-67.957121,47.186614],"type":"Point"}
 }

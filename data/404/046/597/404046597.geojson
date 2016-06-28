@@ -2,13 +2,14 @@
   "id": 404046597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.116461,43.899605,-70.116461,43.899605",
     "geom:latitude":43.899605,
     "geom:longitude":-70.116461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Poland Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404046597,
-    "wof:lastmodified":1449039805,
+    "wof:lastmodified":1466586240,
     "wof:name":"Millenium Builders",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.116461,43.899605,-70.116461,43.899605],
+  "bbox": [
+    -70.116461,
+    43.899605,
+    -70.116461,
+    43.899605
+],
   "geometry": {"coordinates":[-70.116461,43.899605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387795343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.212728,43.72985,-70.212728,43.72985",
     "geom:latitude":43.72985,
     "geom:longitude":-70.212728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Foreside Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387795343,
-    "wof:lastmodified":1449058359,
+    "wof:lastmodified":1466587025,
     "wof:name":"Kitchen Solvers",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-70.212728,43.72985,-70.212728,43.72985],
+  "bbox": [
+    -70.212728,
+    43.72985,
+    -70.212728,
+    43.72985
+],
   "geometry": {"coordinates":[-70.212728,43.72985],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403892123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.996779,46.813818,-67.996779,46.813818",
     "geom:latitude":46.813818,
     "geom:longitude":-67.996779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Main St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403892123,
-    "wof:lastmodified":1449054822,
+    "wof:lastmodified":1466586810,
     "wof:name":"David L Conner MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-67.996779,46.813818,-67.996779,46.813818],
+  "bbox": [
+    -67.996779,
+    46.813818,
+    -67.996779,
+    46.813818
+],
   "geometry": {"coordinates":[-67.996779,46.813818],"type":"Point"}
 }

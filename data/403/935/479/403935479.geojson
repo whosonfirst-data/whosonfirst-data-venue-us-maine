@@ -2,13 +2,14 @@
   "id": 403935479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.059592,43.989909,-70.059592,43.989909",
     "geom:latitude":43.989909,
     "geom:longitude":-70.059592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Brickyard Hill Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403935479,
-    "wof:lastmodified":1449055731,
+    "wof:lastmodified":1466587041,
     "wof:name":"Pete's Junkyard",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-70.059592,43.989909,-70.059592,43.989909],
-  "geometry": {"coordinates":[-70.059592,43.989909],"type":"Point"}
+  "bbox": [
+    -70.059592,
+    43.989909,
+    -70.059592,
+    43.989909
+],
+  "geometry": {"coordinates":[-70.05959199999999,43.989909],"type":"Point"}
 }

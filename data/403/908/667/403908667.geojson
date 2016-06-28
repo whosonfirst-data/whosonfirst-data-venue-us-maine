@@ -2,13 +2,14 @@
   "id": 403908667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.368602,43.677052,-70.368602,43.677052",
     "geom:latitude":43.677052,
     "geom:longitude":-70.368602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403908667,
-    "wof:lastmodified":1449055393,
+    "wof:lastmodified":1466587043,
     "wof:name":"Mullen's Westbrook Driving",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driving"
     ]
 },
-  "bbox": [-70.368602,43.677052,-70.368602,43.677052],
+  "bbox": [
+    -70.368602,
+    43.677052,
+    -70.368602,
+    43.677052
+],
   "geometry": {"coordinates":[-70.368602,43.677052],"type":"Point"}
 }

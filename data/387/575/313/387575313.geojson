@@ -2,13 +2,14 @@
   "id": 387575313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.816524,43.914277,-69.816524,43.914277",
     "geom:latitude":43.914277,
     "geom:longitude":-69.816524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"859 Washington St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387575313,
-    "wof:lastmodified":1449057198,
+    "wof:lastmodified":1466585977,
     "wof:name":"William T Racine CPA",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-69.816524,43.914277,-69.816524,43.914277],
+  "bbox": [
+    -69.816524,
+    43.914277,
+    -69.816524,
+    43.914277
+],
   "geometry": {"coordinates":[-69.816524,43.914277],"type":"Point"}
 }

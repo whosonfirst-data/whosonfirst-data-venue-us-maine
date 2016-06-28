@@ -2,13 +2,14 @@
   "id": 387673581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.999033,44.683256,-68.999033,44.683256",
     "geom:latitude":44.683256,
     "geom:longitude":-68.999033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Littlefield Rd",
     "sg:city":"Newburgh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387673581,
-    "wof:lastmodified":1449057579,
+    "wof:lastmodified":1466586336,
     "wof:name":"Lafayette Hotels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.999033,44.683256,-68.999033,44.683256],
+  "bbox": [
+    -68.999033,
+    44.683256,
+    -68.999033,
+    44.683256
+],
   "geometry": {"coordinates":[-68.999033,44.683256],"type":"Point"}
 }

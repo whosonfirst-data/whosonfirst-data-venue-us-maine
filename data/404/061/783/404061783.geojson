@@ -2,13 +2,14 @@
   "id": 404061783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.82589,44.791792,-68.82589,44.791792",
     "geom:latitude":44.791792,
     "geom:longitude":-68.82589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404061783,
-    "wof:lastmodified":1449039989,
+    "wof:lastmodified":1466586464,
     "wof:name":"Paul G White Tile Inc",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-68.82589,44.791792,-68.82589,44.791792],
+  "bbox": [
+    -68.82589,
+    44.791792,
+    -68.82589,
+    44.791792
+],
   "geometry": {"coordinates":[-68.82589,44.791792],"type":"Point"}
 }

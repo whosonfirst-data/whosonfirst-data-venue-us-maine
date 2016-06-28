@@ -2,13 +2,14 @@
   "id": 387561919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.357667,44.69831,-69.357667,44.69831",
     "geom:latitude":44.69831,
     "geom:longitude":-69.357667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Cookson Rd",
     "sg:city":"Burnham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387561919,
-    "wof:lastmodified":1449058807,
+    "wof:lastmodified":1466585794,
     "wof:name":"Cookson Machine Tool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "welding"
     ]
 },
-  "bbox": [-69.357667,44.69831,-69.357667,44.69831],
-  "geometry": {"coordinates":[-69.357667,44.69831],"type":"Point"}
+  "bbox": [
+    -69.357667,
+    44.69831,
+    -69.357667,
+    44.69831
+],
+  "geometry": {"coordinates":[-69.35766700000001,44.69831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404185089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.520247,43.706798,-70.520247,43.706798",
     "geom:latitude":43.706798,
     "geom:longitude":-70.520247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Files Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404185089,
-    "wof:lastmodified":1449039231,
+    "wof:lastmodified":1466586866,
     "wof:name":"Entelechy Software Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "software"
     ]
 },
-  "bbox": [-70.520247,43.706798,-70.520247,43.706798],
+  "bbox": [
+    -70.520247,
+    43.706798,
+    -70.520247,
+    43.706798
+],
   "geometry": {"coordinates":[-70.520247,43.706798],"type":"Point"}
 }

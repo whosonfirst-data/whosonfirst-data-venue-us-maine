@@ -2,13 +2,14 @@
   "id": 387572079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.814751,44.811243,-68.814751,44.811243",
     "geom:latitude":44.811243,
     "geom:longitude":-68.814751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"287 Godfrey Blvd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387572079,
-    "wof:lastmodified":1449058433,
+    "wof:lastmodified":1466585910,
     "wof:name":"Interspace Airport Adv",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-68.814751,44.811243,-68.814751,44.811243],
+  "bbox": [
+    -68.814751,
+    44.811243,
+    -68.814751,
+    44.811243
+],
   "geometry": {"coordinates":[-68.814751,44.811243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387810795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.292668,43.685476,-70.292668,43.685476",
     "geom:latitude":43.685476,
     "geom:longitude":-70.292668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Arbor St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387810795,
-    "wof:lastmodified":1449057205,
+    "wof:lastmodified":1466586994,
     "wof:name":"Portland Parks & Recreation",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-70.292668,43.685476,-70.292668,43.685476],
-  "geometry": {"coordinates":[-70.292668,43.685476],"type":"Point"}
+  "bbox": [
+    -70.292668,
+    43.685476,
+    -70.292668,
+    43.685476
+],
+  "geometry": {"coordinates":[-70.29266800000001,43.685476],"type":"Point"}
 }

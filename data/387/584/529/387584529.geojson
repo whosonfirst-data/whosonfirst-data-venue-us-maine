@@ -2,13 +2,14 @@
   "id": 387584529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.800456,44.766478,-68.800456,44.766478",
     "geom:latitude":44.766478,
     "geom:longitude":-68.800456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"574 Main Rd N",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387584529,
-    "wof:lastmodified":1449056526,
+    "wof:lastmodified":1466586078,
     "wof:name":"Norm's Cleaning Svc",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-68.800456,44.766478,-68.800456,44.766478],
+  "bbox": [
+    -68.800456,
+    44.766478,
+    -68.800456,
+    44.766478
+],
   "geometry": {"coordinates":[-68.800456,44.766478],"type":"Point"}
 }

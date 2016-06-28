@@ -2,13 +2,14 @@
   "id": 404050857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.833609,43.538591,-70.833609,43.538591",
     "geom:latitude":43.538591,
     "geom:longitude":-70.833609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Back Rd",
     "sg:city":"Shapleigh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404050857,
-    "wof:lastmodified":1449039799,
+    "wof:lastmodified":1466586300,
     "wof:name":"Lavignes Roofing Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.833609,43.538591,-70.833609,43.538591],
+  "bbox": [
+    -70.833609,
+    43.538591,
+    -70.833609,
+    43.538591
+],
   "geometry": {"coordinates":[-70.833609,43.538591],"type":"Point"}
 }

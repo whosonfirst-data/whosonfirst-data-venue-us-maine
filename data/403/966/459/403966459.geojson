@@ -2,13 +2,14 @@
   "id": 403966459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.316823,43.565443,-70.316823,43.565443",
     "geom:latitude":43.565443,
     "geom:longitude":-70.316823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Wood Ln",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403966459,
-    "wof:lastmodified":1449054635,
+    "wof:lastmodified":1466587121,
     "wof:name":"Waterhouse Publications",
     "wof:parent_id":85843227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.316823,43.565443,-70.316823,43.565443],
+  "bbox": [
+    -70.316823,
+    43.565443,
+    -70.316823,
+    43.565443
+],
   "geometry": {"coordinates":[-70.316823,43.565443],"type":"Point"}
 }

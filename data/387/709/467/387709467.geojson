@@ -2,13 +2,14 @@
   "id": 387709467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.2648,43.656898,-70.2648,43.656898",
     "geom:latitude":43.656898,
     "geom:longitude":-70.2648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Mechanic Pl",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387709467,
-    "wof:lastmodified":1449056859,
+    "wof:lastmodified":1466586772,
     "wof:name":"Gigafone",
     "wof:parent_id":85880027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "picture"
     ]
 },
-  "bbox": [-70.2648,43.656898,-70.2648,43.656898],
-  "geometry": {"coordinates":[-70.2648,43.656898],"type":"Point"}
+  "bbox": [
+    -70.2648,
+    43.656898,
+    -70.2648,
+    43.656898
+],
+  "geometry": {"coordinates":[-70.26479999999999,43.656898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403706775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.41899,43.728498,-70.41899,43.728498",
     "geom:latitude":43.728498,
     "geom:longitude":-70.41899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Mallison Falls Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403706775,
-    "wof:lastmodified":1449054730,
+    "wof:lastmodified":1466585682,
     "wof:name":"Portland Safe Consulting-Dsgn",
     "wof:parent_id":85830911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safe"
     ]
 },
-  "bbox": [-70.41899,43.728498,-70.41899,43.728498],
-  "geometry": {"coordinates":[-70.41899,43.728498],"type":"Point"}
+  "bbox": [
+    -70.41899,
+    43.728498,
+    -70.41899,
+    43.728498
+],
+  "geometry": {"coordinates":[-70.41898999999999,43.728498],"type":"Point"}
 }

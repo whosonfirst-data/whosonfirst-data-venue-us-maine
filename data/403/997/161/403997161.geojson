@@ -2,13 +2,14 @@
   "id": 403997161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.501038,44.637386,-69.501038,44.637386",
     "geom:latitude":44.637386,
     "geom:longitude":-69.501038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Main St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403997161,
-    "wof:lastmodified":1449055735,
+    "wof:lastmodified":1466587179,
     "wof:name":"Gerry's Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.501038,44.637386,-69.501038,44.637386],
-  "geometry": {"coordinates":[-69.501038,44.637386],"type":"Point"}
+  "bbox": [
+    -69.501038,
+    44.637386,
+    -69.501038,
+    44.637386
+],
+  "geometry": {"coordinates":[-69.50103799999999,44.637386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404013579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.705106,43.462306,-70.705106,43.462306",
     "geom:latitude":43.462306,
     "geom:longitude":-70.705106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Ricker Rd",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404013579,
-    "wof:lastmodified":1449039938,
+    "wof:lastmodified":1466585831,
     "wof:name":"Reed Water Pump Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hardware"
     ]
 },
-  "bbox": [-70.705106,43.462306,-70.705106,43.462306],
+  "bbox": [
+    -70.705106,
+    43.462306,
+    -70.705106,
+    43.462306
+],
   "geometry": {"coordinates":[-70.705106,43.462306],"type":"Point"}
 }

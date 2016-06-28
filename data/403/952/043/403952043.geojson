@@ -2,13 +2,14 @@
   "id": 403952043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.824387,43.138942,-70.824387,43.138942",
     "geom:latitude":43.138942,
     "geom:longitude":-70.824387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Hill Dr",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403952043,
-    "wof:lastmodified":1449055568,
+    "wof:lastmodified":1466587156,
     "wof:name":"Widi Tile Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.824387,43.138942,-70.824387,43.138942],
+  "bbox": [
+    -70.824387,
+    43.138942,
+    -70.824387,
+    43.138942
+],
   "geometry": {"coordinates":[-70.824387,43.138942],"type":"Point"}
 }

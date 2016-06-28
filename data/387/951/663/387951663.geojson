@@ -2,13 +2,14 @@
   "id": 387951663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.746019,43.088559,-70.746019,43.088559",
     "geom:latitude":43.088559,
     "geom:longitude":-70.746019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Love Ln",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387951663,
-    "wof:lastmodified":1449056286,
+    "wof:lastmodified":1466587211,
     "wof:name":"Church Of Christ",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.746019,43.088559,-70.746019,43.088559],
+  "bbox": [
+    -70.746019,
+    43.088559,
+    -70.746019,
+    43.088559
+],
   "geometry": {"coordinates":[-70.746019,43.088559],"type":"Point"}
 }

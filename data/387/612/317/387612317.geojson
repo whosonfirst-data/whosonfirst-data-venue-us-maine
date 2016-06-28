@@ -2,13 +2,14 @@
   "id": 387612317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.76417,44.803465,-68.76417,44.803465",
     "geom:latitude":44.803465,
     "geom:longitude":-68.76417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Adams St",
     "sg:city":"Hermon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387612317,
-    "wof:lastmodified":1449057788,
+    "wof:lastmodified":1466586533,
     "wof:name":"Second Home Kennels",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-68.76417,44.803465,-68.76417,44.803465],
-  "geometry": {"coordinates":[-68.76417,44.803465],"type":"Point"}
+  "bbox": [
+    -68.76417,
+    44.803465,
+    -68.76417,
+    44.803465
+],
+  "geometry": {"coordinates":[-68.76416999999999,44.803465],"type":"Point"}
 }

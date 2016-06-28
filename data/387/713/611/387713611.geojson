@@ -2,13 +2,14 @@
   "id": 387713611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.534017,43.732649,-70.534017,43.732649",
     "geom:latitude":43.732649,
     "geom:longitude":-70.534017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Blake Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387713611,
-    "wof:lastmodified":1449059562,
+    "wof:lastmodified":1466586788,
     "wof:name":"Leavitt Earthworks Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.534017,43.732649,-70.534017,43.732649],
-  "geometry": {"coordinates":[-70.534017,43.732649],"type":"Point"}
+  "bbox": [
+    -70.534017,
+    43.732649,
+    -70.534017,
+    43.732649
+],
+  "geometry": {"coordinates":[-70.53401700000001,43.732649],"type":"Point"}
 }

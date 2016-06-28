@@ -2,13 +2,14 @@
   "id": 387566463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.213071,44.096321,-70.213071,44.096321",
     "geom:latitude":44.096321,
     "geom:longitude":-70.213071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Pine St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387566463,
-    "wof:lastmodified":1449056202,
+    "wof:lastmodified":1466585847,
     "wof:name":"Couturier Law Office",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-70.213071,44.096321,-70.213071,44.096321],
+  "bbox": [
+    -70.213071,
+    44.096321,
+    -70.213071,
+    44.096321
+],
   "geometry": {"coordinates":[-70.213071,44.096321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404184733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.359844,43.677458,-70.359844,43.677458",
     "geom:latitude":43.677458,
     "geom:longitude":-70.359844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404184733,
-    "wof:lastmodified":1449039235,
+    "wof:lastmodified":1466586759,
     "wof:name":"Bruce R Doughty",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.359844,43.677458,-70.359844,43.677458],
+  "bbox": [
+    -70.359844,
+    43.677458,
+    -70.359844,
+    43.677458
+],
   "geometry": {"coordinates":[-70.359844,43.677458],"type":"Point"}
 }

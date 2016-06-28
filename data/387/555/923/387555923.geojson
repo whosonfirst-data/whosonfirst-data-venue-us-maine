@@ -2,13 +2,14 @@
   "id": 387555923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.780638,44.332971,-69.780638,44.332971",
     "geom:latitude":44.332971,
     "geom:longitude":-69.780638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Sunset Ave",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387555923,
-    "wof:lastmodified":1449059384,
+    "wof:lastmodified":1466585682,
     "wof:name":"Sylvio J Gilbert School",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.780638,44.332971,-69.780638,44.332971],
+  "bbox": [
+    -69.780638,
+    44.332971,
+    -69.780638,
+    44.332971
+],
   "geometry": {"coordinates":[-69.780638,44.332971],"type":"Point"}
 }

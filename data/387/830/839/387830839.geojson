@@ -2,13 +2,14 @@
   "id": 387830839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225825,44.097544,-70.225825,44.097544",
     "geom:latitude":44.097544,
     "geom:longitude":-70.225825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Court St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387830839,
-    "wof:lastmodified":1449056910,
+    "wof:lastmodified":1466587204,
     "wof:name":"Dunlap Corp",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.225825,44.097544,-70.225825,44.097544],
+  "bbox": [
+    -70.225825,
+    44.097544,
+    -70.225825,
+    44.097544
+],
   "geometry": {"coordinates":[-70.225825,44.097544],"type":"Point"}
 }

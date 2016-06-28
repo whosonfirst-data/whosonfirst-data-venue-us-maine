@@ -2,13 +2,14 @@
   "id": 404016515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.797616,44.573122,-68.797616,44.573122",
     "geom:latitude":44.573122,
     "geom:longitude":-68.797616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Main St",
     "sg:city":"Bucksport",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404016515,
-    "wof:lastmodified":1449039240,
+    "wof:lastmodified":1466586644,
     "wof:name":"Beehive",
     "wof:parent_id":85843193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.797616,44.573122,-68.797616,44.573122],
+  "bbox": [
+    -68.797616,
+    44.573122,
+    -68.797616,
+    44.573122
+],
   "geometry": {"coordinates":[-68.797616,44.573122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387942769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.68809,43.076749,-70.68809,43.076749",
     "geom:latitude":43.076749,
     "geom:longitude":-70.68809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Pocahontas Rd",
     "sg:city":"Kittery Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387942769,
-    "wof:lastmodified":1449057838,
+    "wof:lastmodified":1466587286,
     "wof:name":"Atb Construction",
     "wof:parent_id":85813321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.68809,43.076749,-70.68809,43.076749],
+  "bbox": [
+    -70.68809,
+    43.076749,
+    -70.68809,
+    43.076749
+],
   "geometry": {"coordinates":[-70.68809,43.076749],"type":"Point"}
 }

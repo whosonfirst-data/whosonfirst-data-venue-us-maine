@@ -2,13 +2,14 @@
   "id": 404035117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.788282,44.410294,-70.788282,44.410294",
     "geom:latitude":44.410294,
     "geom:longitude":-70.788282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Main St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404035117,
-    "wof:lastmodified":1449040059,
+    "wof:lastmodified":1466586011,
     "wof:name":"Di Cocoa's Marketplace",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-70.788282,44.410294,-70.788282,44.410294],
+  "bbox": [
+    -70.788282,
+    44.410294,
+    -70.788282,
+    44.410294
+],
   "geometry": {"coordinates":[-70.788282,44.410294],"type":"Point"}
 }

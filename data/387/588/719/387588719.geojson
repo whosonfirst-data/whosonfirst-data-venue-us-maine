@@ -2,13 +2,14 @@
   "id": 387588719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.223358,44.108989,-70.223358,44.108989",
     "geom:latitude":44.108989,
     "geom:longitude":-70.223358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Cross St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387588719,
-    "wof:lastmodified":1449059165,
+    "wof:lastmodified":1466586164,
     "wof:name":"Western Maine Supply Co",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-70.223358,44.108989,-70.223358,44.108989],
+  "bbox": [
+    -70.223358,
+    44.108989,
+    -70.223358,
+    44.108989
+],
   "geometry": {"coordinates":[-70.223358,44.108989],"type":"Point"}
 }

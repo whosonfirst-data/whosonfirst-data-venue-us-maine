@@ -2,13 +2,14 @@
   "id": 404039569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.348579,44.834517,-70.348579,44.834517",
     "geom:latitude":44.834517,
     "geom:longitude":-70.348579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Park St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404039569,
-    "wof:lastmodified":1449040178,
+    "wof:lastmodified":1466586077,
     "wof:name":"Envirothon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.348579,44.834517,-70.348579,44.834517],
+  "bbox": [
+    -70.348579,
+    44.834517,
+    -70.348579,
+    44.834517
+],
   "geometry": {"coordinates":[-70.348579,44.834517],"type":"Point"}
 }

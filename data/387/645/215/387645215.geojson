@@ -2,13 +2,14 @@
   "id": 387645215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.26387,43.660766,-70.26387,43.660766",
     "geom:latitude":43.660766,
     "geom:longitude":-70.26387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Preble St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387645215,
-    "wof:lastmodified":1449056494,
+    "wof:lastmodified":1466585931,
     "wof:name":"Elizabeth Mc Fadden Real Est",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-70.26387,43.660766,-70.26387,43.660766],
+  "bbox": [
+    -70.26387,
+    43.660766,
+    -70.26387,
+    43.660766
+],
   "geometry": {"coordinates":[-70.26387,43.660766],"type":"Point"}
 }

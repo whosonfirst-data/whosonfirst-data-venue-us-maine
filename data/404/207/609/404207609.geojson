@@ -2,13 +2,14 @@
   "id": 404207609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.189185,43.80169,-70.189185,43.80169",
     "geom:latitude":43.80169,
     "geom:longitude":-70.189185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Main St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404207609,
-    "wof:lastmodified":1449039966,
+    "wof:lastmodified":1466586940,
     "wof:name":"Yarmouth Payroll Plus Inc",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-70.189185,43.80169,-70.189185,43.80169],
-  "geometry": {"coordinates":[-70.189185,43.80169],"type":"Point"}
+  "bbox": [
+    -70.189185,
+    43.80169,
+    -70.189185,
+    43.80169
+],
+  "geometry": {"coordinates":[-70.18918499999999,43.80169],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404152237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.006648,46.657129,-68.006648,46.657129",
     "geom:latitude":46.657129,
     "geom:longitude":-68.006648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Houlton Rd",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404152237,
-    "wof:lastmodified":1449040012,
+    "wof:lastmodified":1466586657,
     "wof:name":"USDA New England Plant",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.006648,46.657129,-68.006648,46.657129],
+  "bbox": [
+    -68.006648,
+    46.657129,
+    -68.006648,
+    46.657129
+],
   "geometry": {"coordinates":[-68.006648,46.657129],"type":"Point"}
 }

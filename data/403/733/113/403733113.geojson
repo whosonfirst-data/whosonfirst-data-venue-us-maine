@@ -2,13 +2,14 @@
   "id": 403733113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.846227,44.910891,-68.846227,44.910891",
     "geom:latitude":44.910891,
     "geom:longitude":-68.846227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Lakeview Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403733113,
-    "wof:lastmodified":1449054806,
+    "wof:lastmodified":1466586012,
     "wof:name":"Seabreeze Transportation",
     "wof:parent_id":85855557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.846227,44.910891,-68.846227,44.910891],
+  "bbox": [
+    -68.846227,
+    44.910891,
+    -68.846227,
+    44.910891
+],
   "geometry": {"coordinates":[-68.846227,44.910891],"type":"Point"}
 }

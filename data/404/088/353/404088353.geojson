@@ -2,13 +2,14 @@
   "id": 404088353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.216575,44.102018,-70.216575,44.102018",
     "geom:latitude":44.102018,
     "geom:longitude":-70.216575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Granite St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404088353,
-    "wof:lastmodified":1449040022,
+    "wof:lastmodified":1466586704,
     "wof:name":"Maine Auto Radiator Mfg Co Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-70.216575,44.102018,-70.216575,44.102018],
-  "geometry": {"coordinates":[-70.216575,44.102018],"type":"Point"}
+  "bbox": [
+    -70.216575,
+    44.102018,
+    -70.216575,
+    44.102018
+],
+  "geometry": {"coordinates":[-70.21657500000001,44.102018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404153603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.304503,43.667414,-70.304503,43.667414",
     "geom:latitude":43.667414,
     "geom:longitude":-70.304503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Hastings St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404153603,
-    "wof:lastmodified":1449039956,
+    "wof:lastmodified":1466586739,
     "wof:name":"Custom Sound Systems",
     "wof:parent_id":85846029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-70.304503,43.667414,-70.304503,43.667414],
+  "bbox": [
+    -70.304503,
+    43.667414,
+    -70.304503,
+    43.667414
+],
   "geometry": {"coordinates":[-70.304503,43.667414],"type":"Point"}
 }

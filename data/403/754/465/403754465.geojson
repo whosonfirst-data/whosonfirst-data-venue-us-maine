@@ -2,13 +2,14 @@
   "id": 403754465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.253797,43.668577,-70.253797,43.668577",
     "geom:latitude":43.668577,
     "geom:longitude":-70.253797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 E Cove St",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403754465,
-    "wof:lastmodified":1449055490,
+    "wof:lastmodified":1466586310,
     "wof:name":"F-V Eeyore",
     "wof:parent_id":85835993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transport"
     ]
 },
-  "bbox": [-70.253797,43.668577,-70.253797,43.668577],
-  "geometry": {"coordinates":[-70.253797,43.668577],"type":"Point"}
+  "bbox": [
+    -70.253797,
+    43.668577,
+    -70.253797,
+    43.668577
+],
+  "geometry": {"coordinates":[-70.25379700000001,43.668577],"type":"Point"}
 }

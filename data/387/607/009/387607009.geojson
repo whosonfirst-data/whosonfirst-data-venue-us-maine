@@ -2,13 +2,14 @@
   "id": 387607009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.452066,44.550617,-68.452066,44.550617",
     "geom:latitude":44.550617,
     "geom:longitude":-68.452066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Red Bridge Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387607009,
-    "wof:lastmodified":1449056612,
+    "wof:lastmodified":1466586678,
     "wof:name":"Northeast Builders",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-68.452066,44.550617,-68.452066,44.550617],
+  "bbox": [
+    -68.452066,
+    44.550617,
+    -68.452066,
+    44.550617
+],
   "geometry": {"coordinates":[-68.452066,44.550617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403709079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.632509,44.55123,-69.632509,44.55123",
     "geom:latitude":44.55123,
     "geom:longitude":-69.632509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Park St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403709079,
-    "wof:lastmodified":1449054898,
+    "wof:lastmodified":1466585710,
     "wof:name":"Redington Co Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-69.632509,44.55123,-69.632509,44.55123],
+  "bbox": [
+    -69.632509,
+    44.55123,
+    -69.632509,
+    44.55123
+],
   "geometry": {"coordinates":[-69.632509,44.55123],"type":"Point"}
 }

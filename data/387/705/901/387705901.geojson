@@ -2,13 +2,14 @@
   "id": 387705901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.999387,44.336214,-68.999387,44.336214",
     "geom:latitude":44.336214,
     "geom:longitude":-68.999387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Beech Hill Rd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387705901,
-    "wof:lastmodified":1449059940,
+    "wof:lastmodified":1466586864,
     "wof:name":"Town Clerk",
     "wof:parent_id":85851915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-68.999387,44.336214,-68.999387,44.336214],
+  "bbox": [
+    -68.999387,
+    44.336214,
+    -68.999387,
+    44.336214
+],
   "geometry": {"coordinates":[-68.999387,44.336214],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403770139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.583961,44.771079,-68.583961,44.771079",
     "geom:latitude":44.771079,
     "geom:longitude":-68.583961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Hatcase Pond Rd",
     "sg:city":"Eddington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403770139,
-    "wof:lastmodified":1449055997,
+    "wof:lastmodified":1466586534,
     "wof:name":"Mike's Plumbing & Cottage Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.583961,44.771079,-68.583961,44.771079],
+  "bbox": [
+    -68.583961,
+    44.771079,
+    -68.583961,
+    44.771079
+],
   "geometry": {"coordinates":[-68.583961,44.771079],"type":"Point"}
 }

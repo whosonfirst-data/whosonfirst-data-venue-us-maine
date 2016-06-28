@@ -2,13 +2,14 @@
   "id": 403739969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.137642,43.87088,-70.137642,43.87088",
     "geom:latitude":43.87088,
     "geom:longitude":-70.137642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Marvin Way",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403739969,
-    "wof:lastmodified":1449055189,
+    "wof:lastmodified":1466586063,
     "wof:name":"Crone's Masonry",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.137642,43.87088,-70.137642,43.87088],
+  "bbox": [
+    -70.137642,
+    43.87088,
+    -70.137642,
+    43.87088
+],
   "geometry": {"coordinates":[-70.137642,43.87088],"type":"Point"}
 }

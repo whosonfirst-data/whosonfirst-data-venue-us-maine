@@ -2,13 +2,14 @@
   "id": 387804103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.237632,43.971726,-70.237632,43.971726",
     "geom:latitude":43.971726,
     "geom:longitude":-70.237632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Olive Ln",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387804103,
-    "wof:lastmodified":1449058761,
+    "wof:lastmodified":1466587055,
     "wof:name":"Peter N Hazlett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.237632,43.971726,-70.237632,43.971726],
+  "bbox": [
+    -70.237632,
+    43.971726,
+    -70.237632,
+    43.971726
+],
   "geometry": {"coordinates":[-70.237632,43.971726],"type":"Point"}
 }

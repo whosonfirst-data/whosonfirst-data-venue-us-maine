@@ -2,13 +2,14 @@
   "id": 387796687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.224976,44.118044,-70.224976,44.118044",
     "geom:latitude":44.118044,
     "geom:longitude":-70.224976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387796687,
-    "wof:lastmodified":1449057899,
+    "wof:lastmodified":1466587027,
     "wof:name":"Central Maine Oral Surgery",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-70.224976,44.118044,-70.224976,44.118044],
+  "bbox": [
+    -70.224976,
+    44.118044,
+    -70.224976,
+    44.118044
+],
   "geometry": {"coordinates":[-70.224976,44.118044],"type":"Point"}
 }

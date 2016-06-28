@@ -2,13 +2,14 @@
   "id": 387830239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.605691,44.580752,-69.605691,44.580752",
     "geom:latitude":44.580752,
     "geom:longitude":-69.605691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Main St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387830239,
-    "wof:lastmodified":1449056907,
+    "wof:lastmodified":1466587199,
     "wof:name":"Down Home Music Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.605691,44.580752,-69.605691,44.580752],
-  "geometry": {"coordinates":[-69.605691,44.580752],"type":"Point"}
+  "bbox": [
+    -69.605691,
+    44.580752,
+    -69.605691,
+    44.580752
+],
+  "geometry": {"coordinates":[-69.60569099999999,44.580752],"type":"Point"}
 }

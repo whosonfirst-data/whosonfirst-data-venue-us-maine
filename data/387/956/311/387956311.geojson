@@ -2,13 +2,14 @@
   "id": 387956311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.295557,43.626327,-70.295557,43.626327",
     "geom:latitude":43.626327,
     "geom:longitude":-70.295557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Rigby Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387956311,
-    "wof:lastmodified":1449056747,
+    "wof:lastmodified":1466587338,
     "wof:name":"A G Ice Cream",
     "wof:parent_id":85809743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cream"
     ]
 },
-  "bbox": [-70.295557,43.626327,-70.295557,43.626327],
+  "bbox": [
+    -70.295557,
+    43.626327,
+    -70.295557,
+    43.626327
+],
   "geometry": {"coordinates":[-70.295557,43.626327],"type":"Point"}
 }

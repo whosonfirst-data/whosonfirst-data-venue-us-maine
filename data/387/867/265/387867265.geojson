@@ -2,13 +2,14 @@
   "id": 387867265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.962295,44.020251,-70.962295,44.020251",
     "geom:latitude":44.020251,
     "geom:longitude":-70.962295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Bridgton Rd",
     "sg:city":"Fryeburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387867265,
-    "wof:lastmodified":1449057751,
+    "wof:lastmodified":1466587195,
     "wof:name":"Mindys Family Hair Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.962295,44.020251,-70.962295,44.020251],
+  "bbox": [
+    -70.962295,
+    44.020251,
+    -70.962295,
+    44.020251
+],
   "geometry": {"coordinates":[-70.962295,44.020251],"type":"Point"}
 }

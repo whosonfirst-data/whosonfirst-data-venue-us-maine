@@ -2,13 +2,14 @@
   "id": 387559433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.366958,43.676775,-70.366958,43.676775",
     "geom:latitude":43.676775,
     "geom:longitude":-70.366958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Westbrook Cmn",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387559433,
-    "wof:lastmodified":1449059079,
+    "wof:lastmodified":1466585758,
     "wof:name":"Mast Clinic",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-70.366958,43.676775,-70.366958,43.676775],
+  "bbox": [
+    -70.366958,
+    43.676775,
+    -70.366958,
+    43.676775
+],
   "geometry": {"coordinates":[-70.366958,43.676775],"type":"Point"}
 }

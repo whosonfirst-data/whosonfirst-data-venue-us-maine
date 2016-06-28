@@ -2,13 +2,14 @@
   "id": 404046923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.194946,43.803221,-70.194946,43.803221",
     "geom:latitude":43.803221,
     "geom:longitude":-70.194946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Church St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404046923,
-    "wof:lastmodified":1449039806,
+    "wof:lastmodified":1466586244,
     "wof:name":"Chow Down Pets",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-70.194946,43.803221,-70.194946,43.803221],
+  "bbox": [
+    -70.194946,
+    43.803221,
+    -70.194946,
+    43.803221
+],
   "geometry": {"coordinates":[-70.194946,43.803221],"type":"Point"}
 }

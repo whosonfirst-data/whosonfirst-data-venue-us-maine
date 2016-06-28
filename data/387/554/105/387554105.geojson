@@ -2,13 +2,14 @@
   "id": 387554105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.321051,44.279,-68.321051,44.279",
     "geom:latitude":44.279,
     "geom:longitude":-68.321051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Harbor Ave",
     "sg:city":"Southwest Harbor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387554105,
-    "wof:lastmodified":1449056887,
+    "wof:lastmodified":1466585843,
     "wof:name":"West Marine",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electronic"
     ]
 },
-  "bbox": [-68.321051,44.279,-68.321051,44.279],
+  "bbox": [
+    -68.321051,
+    44.279,
+    -68.321051,
+    44.279
+],
   "geometry": {"coordinates":[-68.321051,44.279],"type":"Point"}
 }

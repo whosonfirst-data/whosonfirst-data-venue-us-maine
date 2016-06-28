@@ -2,13 +2,14 @@
   "id": 403929601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.19099,44.474791,-70.19099,44.474791",
     "geom:latitude":44.474791,
     "geom:longitude":-70.19099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Main St",
     "sg:city":"Livermore Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403929601,
-    "wof:lastmodified":1449055138,
+    "wof:lastmodified":1466587031,
     "wof:name":"Rosy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.19099,44.474791,-70.19099,44.474791],
+  "bbox": [
+    -70.19099,
+    44.474791,
+    -70.19099,
+    44.474791
+],
   "geometry": {"coordinates":[-70.19099,44.474791],"type":"Point"}
 }

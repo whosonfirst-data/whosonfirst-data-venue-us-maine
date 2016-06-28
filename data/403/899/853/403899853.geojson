@@ -2,13 +2,14 @@
   "id": 403899853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.450109,43.850783,-70.450109,43.850783",
     "geom:latitude":43.850783,
     "geom:longitude":-70.450109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"889 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403899853,
-    "wof:lastmodified":1449055879,
+    "wof:lastmodified":1466587014,
     "wof:name":"Pawz & Clawz Petz",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-70.450109,43.850783,-70.450109,43.850783],
+  "bbox": [
+    -70.450109,
+    43.850783,
+    -70.450109,
+    43.850783
+],
   "geometry": {"coordinates":[-70.450109,43.850783],"type":"Point"}
 }

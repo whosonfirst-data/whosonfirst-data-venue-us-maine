@@ -2,13 +2,14 @@
   "id": 387857329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.677827,43.148762,-70.677827,43.148762",
     "geom:latitude":43.148762,
     "geom:longitude":-70.677827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Brickyard Ct",
     "sg:city":"York",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387857329,
-    "wof:lastmodified":1449058579,
+    "wof:lastmodified":1466587254,
     "wof:name":"Beacon Hospice",
     "wof:parent_id":85811017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-70.677827,43.148762,-70.677827,43.148762],
-  "geometry": {"coordinates":[-70.677827,43.148762],"type":"Point"}
+  "bbox": [
+    -70.677827,
+    43.148762,
+    -70.677827,
+    43.148762
+],
+  "geometry": {"coordinates":[-70.67782699999999,43.148762],"type":"Point"}
 }

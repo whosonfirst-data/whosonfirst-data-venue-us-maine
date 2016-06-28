@@ -2,13 +2,14 @@
   "id": 404189007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.782591,44.309332,-69.782591,44.309332",
     "geom:latitude":44.309332,
     "geom:longitude":-69.782591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Wade St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404189007,
-    "wof:lastmodified":1449039971,
+    "wof:lastmodified":1466586793,
     "wof:name":"Natural Resources Council",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "org"
     ]
 },
-  "bbox": [-69.782591,44.309332,-69.782591,44.309332],
+  "bbox": [
+    -69.782591,
+    44.309332,
+    -69.782591,
+    44.309332
+],
   "geometry": {"coordinates":[-69.782591,44.309332],"type":"Point"}
 }

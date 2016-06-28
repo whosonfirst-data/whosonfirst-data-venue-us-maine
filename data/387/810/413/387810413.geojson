@@ -2,13 +2,14 @@
   "id": 387810413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.213851,43.61089,-70.213851,43.61089",
     "geom:latitude":43.61089,
     "geom:longitude":-70.213851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Roberts Ln",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387810413,
-    "wof:lastmodified":1449057203,
+    "wof:lastmodified":1466587085,
     "wof:name":"Innovative Engineering",
     "wof:parent_id":85867971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-70.213851,43.61089,-70.213851,43.61089],
-  "geometry": {"coordinates":[-70.213851,43.61089],"type":"Point"}
+  "bbox": [
+    -70.213851,
+    43.61089,
+    -70.213851,
+    43.61089
+],
+  "geometry": {"coordinates":[-70.21385100000001,43.61089],"type":"Point"}
 }

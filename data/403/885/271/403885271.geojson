@@ -2,13 +2,14 @@
   "id": 403885271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.719332,44.824738,-68.719332,44.824738",
     "geom:latitude":44.824738,
     "geom:longitude":-68.719332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 State St",
     "sg:city":"Veazie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403885271,
-    "wof:lastmodified":1449055348,
+    "wof:lastmodified":1466586754,
     "wof:name":"V Z Car Care",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-68.719332,44.824738,-68.719332,44.824738],
-  "geometry": {"coordinates":[-68.719332,44.824738],"type":"Point"}
+  "bbox": [
+    -68.719332,
+    44.824738,
+    -68.719332,
+    44.824738
+],
+  "geometry": {"coordinates":[-68.71933199999999,44.824738],"type":"Point"}
 }

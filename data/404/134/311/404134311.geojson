@@ -2,13 +2,14 @@
   "id": 404134311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.526713,44.162121,-70.526713,44.162121",
     "geom:latitude":44.162121,
     "geom:longitude":-70.526713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"485 Allen Hill Rd",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404134311,
-    "wof:lastmodified":1449040272,
+    "wof:lastmodified":1466586512,
     "wof:name":"Rick's Auto Svc",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.526713,44.162121,-70.526713,44.162121],
+  "bbox": [
+    -70.526713,
+    44.162121,
+    -70.526713,
+    44.162121
+],
   "geometry": {"coordinates":[-70.526713,44.162121],"type":"Point"}
 }

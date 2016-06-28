@@ -2,13 +2,14 @@
   "id": 403923013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.977459,44.304924,-69.977459,44.304924",
     "geom:latitude":44.304924,
     "geom:longitude":-69.977459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Western Ave",
     "sg:city":"Winthrop",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403923013,
-    "wof:lastmodified":1449055907,
+    "wof:lastmodified":1466586996,
     "wof:name":"Winthrop Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-69.977459,44.304924,-69.977459,44.304924],
+  "bbox": [
+    -69.977459,
+    44.304924,
+    -69.977459,
+    44.304924
+],
   "geometry": {"coordinates":[-69.977459,44.304924],"type":"Point"}
 }

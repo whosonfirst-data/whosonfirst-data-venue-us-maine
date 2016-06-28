@@ -2,13 +2,14 @@
   "id": 403916767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.220832,43.575687,-70.220832,43.575687",
     "geom:latitude":43.575687,
     "geom:longitude":-70.220832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Ocean House Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403916767,
-    "wof:lastmodified":1449055363,
+    "wof:lastmodified":1466586966,
     "wof:name":"Creative Marketing Trends",
     "wof:parent_id":85867971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-70.220832,43.575687,-70.220832,43.575687],
+  "bbox": [
+    -70.220832,
+    43.575687,
+    -70.220832,
+    43.575687
+],
   "geometry": {"coordinates":[-70.220832,43.575687],"type":"Point"}
 }

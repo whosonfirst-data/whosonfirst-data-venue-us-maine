@@ -2,13 +2,14 @@
   "id": 404038433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.761427,43.447565,-70.761427,43.447565",
     "geom:latitude":43.447565,
     "geom:longitude":-70.761427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Grammar St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404038433,
-    "wof:lastmodified":1449039899,
+    "wof:lastmodified":1466586058,
     "wof:name":"Don Fabrizio's Piano Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-70.761427,43.447565,-70.761427,43.447565],
+  "bbox": [
+    -70.761427,
+    43.447565,
+    -70.761427,
+    43.447565
+],
   "geometry": {"coordinates":[-70.761427,43.447565],"type":"Point"}
 }

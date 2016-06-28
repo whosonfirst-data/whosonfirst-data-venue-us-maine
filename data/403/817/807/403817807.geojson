@@ -2,13 +2,14 @@
   "id": 403817807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.884276,43.955245,-70.884276,43.955245",
     "geom:latitude":43.955245,
     "geom:longitude":-70.884276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Camp Rd",
     "sg:city":"Parsonsfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403817807,
-    "wof:lastmodified":1449055695,
+    "wof:lastmodified":1466586228,
     "wof:name":"Brassua Lakes Sporting Camps",
     "wof:parent_id":85816061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cabin"
     ]
 },
-  "bbox": [-70.884276,43.955245,-70.884276,43.955245],
+  "bbox": [
+    -70.884276,
+    43.955245,
+    -70.884276,
+    43.955245
+],
   "geometry": {"coordinates":[-70.884276,43.955245],"type":"Point"}
 }

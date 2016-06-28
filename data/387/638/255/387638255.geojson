@@ -2,13 +2,14 @@
   "id": 387638255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.070597,44.225237,-70.070597,44.225237",
     "geom:latitude":44.225237,
     "geom:longitude":-70.070597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Cressey Rd",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387638255,
-    "wof:lastmodified":1449056324,
+    "wof:lastmodified":1466586646,
     "wof:name":"Hi-Tech Mobile Wash Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [-70.070597,44.225237,-70.070597,44.225237],
-  "geometry": {"coordinates":[-70.070597,44.225237],"type":"Point"}
+  "bbox": [
+    -70.070597,
+    44.225237,
+    -70.070597,
+    44.225237
+],
+  "geometry": {"coordinates":[-70.07059700000001,44.225237],"type":"Point"}
 }

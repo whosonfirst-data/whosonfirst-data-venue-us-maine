@@ -2,13 +2,14 @@
   "id": 404041613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.71597,44.182496,-70.71597,44.182496",
     "geom:latitude":44.182496,
     "geom:longitude":-70.71597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Valley Rd",
     "sg:city":"Waterford",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404041613,
-    "wof:lastmodified":1449039455,
+    "wof:lastmodified":1466586104,
     "wof:name":"Kedarburn Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.71597,44.182496,-70.71597,44.182496],
+  "bbox": [
+    -70.71597,
+    44.182496,
+    -70.71597,
+    44.182496
+],
   "geometry": {"coordinates":[-70.71597,44.182496],"type":"Point"}
 }

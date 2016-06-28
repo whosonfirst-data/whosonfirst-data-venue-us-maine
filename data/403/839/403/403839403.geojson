@@ -2,13 +2,14 @@
   "id": 403839403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.429021,43.833628,-70.429021,43.833628",
     "geom:latitude":43.833628,
     "geom:longitude":-70.429021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Heathwood Dr",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403839403,
-    "wof:lastmodified":1449055457,
+    "wof:lastmodified":1466586590,
     "wof:name":"Maine Conveyor",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-70.429021,43.833628,-70.429021,43.833628],
-  "geometry": {"coordinates":[-70.429021,43.833628],"type":"Point"}
+  "bbox": [
+    -70.429021,
+    43.833628,
+    -70.429021,
+    43.833628
+],
+  "geometry": {"coordinates":[-70.42902100000001,43.833628],"type":"Point"}
 }

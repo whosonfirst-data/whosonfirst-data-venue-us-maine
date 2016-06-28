@@ -2,13 +2,14 @@
   "id": 404106411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.676101,43.151593,-70.676101,43.151593",
     "geom:latitude":43.151593,
     "geom:longitude":-70.676101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 S Berwick Rd",
     "sg:city":"South Berwick",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404106411,
-    "wof:lastmodified":1449039071,
+    "wof:lastmodified":1466586089,
     "wof:name":"Action 6 Travel Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-70.676101,43.151593,-70.676101,43.151593],
+  "bbox": [
+    -70.676101,
+    43.151593,
+    -70.676101,
+    43.151593
+],
   "geometry": {"coordinates":[-70.676101,43.151593],"type":"Point"}
 }

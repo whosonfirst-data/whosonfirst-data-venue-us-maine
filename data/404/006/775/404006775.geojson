@@ -2,13 +2,14 @@
   "id": 404006775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.286916,43.666941,-70.286916,43.666941",
     "geom:latitude":43.666941,
     "geom:longitude":-70.286916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Prospect St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404006775,
-    "wof:lastmodified":1449040049,
+    "wof:lastmodified":1466585789,
     "wof:name":"Roberta Zuckerman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.286916,43.666941,-70.286916,43.666941],
-  "geometry": {"coordinates":[-70.286916,43.666941],"type":"Point"}
+  "bbox": [
+    -70.286916,
+    43.666941,
+    -70.286916,
+    43.666941
+],
+  "geometry": {"coordinates":[-70.28691600000001,43.666941],"type":"Point"}
 }

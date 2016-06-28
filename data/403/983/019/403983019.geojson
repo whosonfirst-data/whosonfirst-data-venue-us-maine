@@ -2,13 +2,14 @@
   "id": 403983019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.322465,44.842751,-69.322465,44.842751",
     "geom:latitude":44.842751,
     "geom:longitude":-69.322465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1573 Main St",
     "sg:city":"Palmyra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403983019,
-    "wof:lastmodified":1449055852,
+    "wof:lastmodified":1466587226,
     "wof:name":"US Cellular",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-69.322465,44.842751,-69.322465,44.842751],
-  "geometry": {"coordinates":[-69.322465,44.842751],"type":"Point"}
+  "bbox": [
+    -69.322465,
+    44.842751,
+    -69.322465,
+    44.842751
+],
+  "geometry": {"coordinates":[-69.32246499999999,44.842751],"type":"Point"}
 }

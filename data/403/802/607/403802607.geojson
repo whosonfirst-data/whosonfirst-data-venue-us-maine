@@ -2,13 +2,14 @@
   "id": 403802607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.594793,43.674309,-70.594793,43.674309",
     "geom:latitude":43.674309,
     "geom:longitude":-70.594793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Parker Farm Rd",
     "sg:city":"Buxton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403802607,
-    "wof:lastmodified":1449055716,
+    "wof:lastmodified":1466585987,
     "wof:name":"Buxton Pizza Factory",
     "wof:parent_id":85828331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.594793,43.674309,-70.594793,43.674309],
+  "bbox": [
+    -70.594793,
+    43.674309,
+    -70.594793,
+    43.674309
+],
   "geometry": {"coordinates":[-70.594793,43.674309],"type":"Point"}
 }

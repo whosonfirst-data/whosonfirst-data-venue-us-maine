@@ -2,13 +2,14 @@
   "id": 404209933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.656117,44.094817,-70.656117,44.094817",
     "geom:latitude":44.094817,
     "geom:longitude":-70.656117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Leander Harmon Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404209933,
-    "wof:lastmodified":1449040197,
+    "wof:lastmodified":1466587052,
     "wof:name":"Mc Win Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "septic"
     ]
 },
-  "bbox": [-70.656117,44.094817,-70.656117,44.094817],
-  "geometry": {"coordinates":[-70.656117,44.094817],"type":"Point"}
+  "bbox": [
+    -70.656117,
+    44.094817,
+    -70.656117,
+    44.094817
+],
+  "geometry": {"coordinates":[-70.65611699999999,44.094817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404217211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.762544,44.811829,-68.762544,44.811829",
     "geom:latitude":44.811829,
     "geom:longitude":-68.762544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Parkview Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404217211,
-    "wof:lastmodified":1449040267,
+    "wof:lastmodified":1466586980,
     "wof:name":"Stuart's Delivery Svc",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.762544,44.811829,-68.762544,44.811829],
-  "geometry": {"coordinates":[-68.762544,44.811829],"type":"Point"}
+  "bbox": [
+    -68.762544,
+    44.811829,
+    -68.762544,
+    44.811829
+],
+  "geometry": {"coordinates":[-68.76254400000001,44.811829],"type":"Point"}
 }

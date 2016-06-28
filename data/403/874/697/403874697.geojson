@@ -2,13 +2,14 @@
   "id": 403874697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.660155,45.236682,-68.660155,45.236682",
     "geom:latitude":45.236682,
     "geom:longitude":-68.660155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Coffin St",
     "sg:city":"Howland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403874697,
-    "wof:lastmodified":1449055877,
+    "wof:lastmodified":1466586819,
     "wof:name":"C A Neal Adjustments",
     "wof:parent_id":85849837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-68.660155,45.236682,-68.660155,45.236682],
+  "bbox": [
+    -68.660155,
+    45.236682,
+    -68.660155,
+    45.236682
+],
   "geometry": {"coordinates":[-68.660155,45.236682],"type":"Point"}
 }

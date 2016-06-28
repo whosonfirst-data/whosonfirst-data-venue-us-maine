@@ -2,13 +2,14 @@
   "id": 387861913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.539305,43.771271,-70.539305,43.771271",
     "geom:latitude":43.771271,
     "geom:longitude":-70.539305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Richville Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387861913,
-    "wof:lastmodified":1449059895,
+    "wof:lastmodified":1466587188,
     "wof:name":"B & B Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.539305,43.771271,-70.539305,43.771271],
+  "bbox": [
+    -70.539305,
+    43.771271,
+    -70.539305,
+    43.771271
+],
   "geometry": {"coordinates":[-70.539305,43.771271],"type":"Point"}
 }

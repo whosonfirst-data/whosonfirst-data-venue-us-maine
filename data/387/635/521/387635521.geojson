@@ -2,13 +2,14 @@
   "id": 387635521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.300233,43.755646,-70.300233,43.755646",
     "geom:latitude":43.755646,
     "geom:longitude":-70.300233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Gray Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387635521,
-    "wof:lastmodified":1449057758,
+    "wof:lastmodified":1466585849,
     "wof:name":"Portland Sand & Gravel Inc",
     "wof:parent_id":85855475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gravel"
     ]
 },
-  "bbox": [-70.300233,43.755646,-70.300233,43.755646],
-  "geometry": {"coordinates":[-70.300233,43.755646],"type":"Point"}
+  "bbox": [
+    -70.300233,
+    43.755646,
+    -70.300233,
+    43.755646
+],
+  "geometry": {"coordinates":[-70.30023300000001,43.755646],"type":"Point"}
 }

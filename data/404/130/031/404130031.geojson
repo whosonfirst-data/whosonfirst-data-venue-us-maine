@@ -2,13 +2,14 @@
   "id": 404130031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.142237,43.769264,-70.142237,43.769264",
     "geom:latitude":43.769264,
     "geom:longitude":-70.142237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Cousins St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404130031,
-    "wof:lastmodified":1449039423,
+    "wof:lastmodified":1466586450,
     "wof:name":"Toni Griskivich",
     "wof:parent_id":85812603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-70.142237,43.769264,-70.142237,43.769264],
-  "geometry": {"coordinates":[-70.142237,43.769264],"type":"Point"}
+  "bbox": [
+    -70.142237,
+    43.769264,
+    -70.142237,
+    43.769264
+],
+  "geometry": {"coordinates":[-70.14223699999999,43.769264],"type":"Point"}
 }

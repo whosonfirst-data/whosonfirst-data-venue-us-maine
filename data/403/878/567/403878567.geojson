@@ -2,13 +2,14 @@
   "id": 403878567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.362177,43.658616,-70.362177,43.658616",
     "geom:latitude":43.658616,
     "geom:longitude":-70.362177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Eisenhower Dr",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403878567,
-    "wof:lastmodified":1449055342,
+    "wof:lastmodified":1466586832,
     "wof:name":"Cintas-Service Professionals",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.362177,43.658616,-70.362177,43.658616],
+  "bbox": [
+    -70.362177,
+    43.658616,
+    -70.362177,
+    43.658616
+],
   "geometry": {"coordinates":[-70.362177,43.658616],"type":"Point"}
 }

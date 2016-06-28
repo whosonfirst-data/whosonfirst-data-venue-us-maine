@@ -2,13 +2,14 @@
   "id": 404176969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.831199,44.779983,-68.831199,44.779983",
     "geom:latitude":44.779983,
     "geom:longitude":-68.831199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"781 Odlin Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404176969,
-    "wof:lastmodified":1449039922,
+    "wof:lastmodified":1466586816,
     "wof:name":"Coastal Agency",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [-68.831199,44.779983,-68.831199,44.779983],
+  "bbox": [
+    -68.831199,
+    44.779983,
+    -68.831199,
+    44.779983
+],
   "geometry": {"coordinates":[-68.831199,44.779983],"type":"Point"}
 }

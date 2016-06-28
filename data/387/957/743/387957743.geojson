@@ -2,13 +2,14 @@
   "id": 387957743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.465245,43.883531,-70.465245,43.883531",
     "geom:latitude":43.883531,
     "geom:longitude":-70.465245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1242 Roosevelt Trl",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387957743,
-    "wof:lastmodified":1449059362,
+    "wof:lastmodified":1466587340,
     "wof:name":"Simmons & Assoc",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-70.465245,43.883531,-70.465245,43.883531],
+  "bbox": [
+    -70.465245,
+    43.883531,
+    -70.465245,
+    43.883531
+],
   "geometry": {"coordinates":[-70.465245,43.883531],"type":"Point"}
 }

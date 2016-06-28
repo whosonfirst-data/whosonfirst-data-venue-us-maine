@@ -2,13 +2,14 @@
   "id": 387655021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.064179,44.132665,-70.064179,44.132665",
     "geom:latitude":44.132665,
     "geom:longitude":-70.064179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1434 Sabattus Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387655021,
-    "wof:lastmodified":1449058294,
+    "wof:lastmodified":1466586045,
     "wof:name":"Sabattus Street Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-70.064179,44.132665,-70.064179,44.132665],
+  "bbox": [
+    -70.064179,
+    44.132665,
+    -70.064179,
+    44.132665
+],
   "geometry": {"coordinates":[-70.064179,44.132665],"type":"Point"}
 }

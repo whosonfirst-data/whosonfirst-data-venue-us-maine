@@ -2,13 +2,14 @@
   "id": 387727095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.339521,43.736951,-70.339521,43.736951",
     "geom:latitude":43.736951,
     "geom:longitude":-70.339521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"561 Duck Pond Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387727095,
-    "wof:lastmodified":1449056678,
+    "wof:lastmodified":1466586709,
     "wof:name":"Casco Bay Hlth Care Blling Svc",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "billing"
     ]
 },
-  "bbox": [-70.339521,43.736951,-70.339521,43.736951],
+  "bbox": [
+    -70.339521,
+    43.736951,
+    -70.339521,
+    43.736951
+],
   "geometry": {"coordinates":[-70.339521,43.736951],"type":"Point"}
 }

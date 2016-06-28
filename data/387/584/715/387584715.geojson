@@ -2,13 +2,14 @@
   "id": 387584715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.784486,44.311363,-69.784486,44.311363",
     "geom:latitude":44.311363,
     "geom:longitude":-69.784486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Western Ave",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387584715,
-    "wof:lastmodified":1449056525,
+    "wof:lastmodified":1466586080,
     "wof:name":"US Labor Dept",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-69.784486,44.311363,-69.784486,44.311363],
+  "bbox": [
+    -69.784486,
+    44.311363,
+    -69.784486,
+    44.311363
+],
   "geometry": {"coordinates":[-69.784486,44.311363],"type":"Point"}
 }

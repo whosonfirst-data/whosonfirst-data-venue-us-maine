@@ -2,13 +2,14 @@
   "id": 387676049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.634456,43.858368,-70.634456,43.858368",
     "geom:latitude":43.858368,
     "geom:longitude":-70.634456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 NW River Rd",
     "sg:city":"Sebago",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387676049,
-    "wof:lastmodified":1449058550,
+    "wof:lastmodified":1466586380,
     "wof:name":"Tomato Tom's Seed Supply",
     "wof:parent_id":85831289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-70.634456,43.858368,-70.634456,43.858368],
+  "bbox": [
+    -70.634456,
+    43.858368,
+    -70.634456,
+    43.858368
+],
   "geometry": {"coordinates":[-70.634456,43.858368],"type":"Point"}
 }

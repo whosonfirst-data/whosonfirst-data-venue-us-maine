@@ -2,13 +2,14 @@
   "id": 403805045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.993337,44.409645,-68.993337,44.409645",
     "geom:latitude":44.409645,
     "geom:longitude":-68.993337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Northport Ave",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403805045,
-    "wof:lastmodified":1449055082,
+    "wof:lastmodified":1466586027,
     "wof:name":"Wellspring On The Midcoast",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-68.993337,44.409645,-68.993337,44.409645],
+  "bbox": [
+    -68.993337,
+    44.409645,
+    -68.993337,
+    44.409645
+],
   "geometry": {"coordinates":[-68.993337,44.409645],"type":"Point"}
 }

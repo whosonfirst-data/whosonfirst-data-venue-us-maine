@@ -2,13 +2,14 @@
   "id": 387924189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.198827,43.659285,-70.198827,43.659285",
     "geom:latitude":43.659285,
     "geom:longitude":-70.198827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Elizabeth St",
     "sg:city":"Peaks Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387924189,
-    "wof:lastmodified":1449057153,
+    "wof:lastmodified":1466587329,
     "wof:name":"Erico Plumbing & Heating",
     "wof:parent_id":85827601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.198827,43.659285,-70.198827,43.659285],
-  "geometry": {"coordinates":[-70.198827,43.659285],"type":"Point"}
+  "bbox": [
+    -70.198827,
+    43.659285,
+    -70.198827,
+    43.659285
+],
+  "geometry": {"coordinates":[-70.19882699999999,43.659285],"type":"Point"}
 }

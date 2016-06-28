@@ -2,13 +2,14 @@
   "id": 404175833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.002568,44.419082,-69.002568,44.419082",
     "geom:latitude":44.419082,
     "geom:longitude":-69.002568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Cedar St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404175833,
-    "wof:lastmodified":1449039958,
+    "wof:lastmodified":1466586805,
     "wof:name":"Beautique Hair Fashions",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.002568,44.419082,-69.002568,44.419082],
+  "bbox": [
+    -69.002568,
+    44.419082,
+    -69.002568,
+    44.419082
+],
   "geometry": {"coordinates":[-69.002568,44.419082],"type":"Point"}
 }

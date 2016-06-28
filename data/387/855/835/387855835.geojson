@@ -2,13 +2,14 @@
   "id": 387855835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.674692,44.619963,-69.674692,44.619963",
     "geom:latitude":44.619963,
     "geom:longitude":-69.674692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Wood St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387855835,
-    "wof:lastmodified":1449058909,
+    "wof:lastmodified":1466587255,
     "wof:name":"Augusta Business Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "copying"
     ]
 },
-  "bbox": [-69.674692,44.619963,-69.674692,44.619963],
-  "geometry": {"coordinates":[-69.674692,44.619963],"type":"Point"}
+  "bbox": [
+    -69.674692,
+    44.619963,
+    -69.674692,
+    44.619963
+],
+  "geometry": {"coordinates":[-69.67469199999999,44.619963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403911465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.776066,44.820137,-68.776066,44.820137",
     "geom:latitude":44.820137,
     "geom:longitude":-68.776066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"571 Broadway",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403911465,
-    "wof:lastmodified":1449055756,
+    "wof:lastmodified":1466586951,
     "wof:name":"China Light Fast Foods",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.776066,44.820137,-68.776066,44.820137],
+  "bbox": [
+    -68.776066,
+    44.820137,
+    -68.776066,
+    44.820137
+],
   "geometry": {"coordinates":[-68.776066,44.820137],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403764143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.654974,44.542207,-69.654974,44.542207",
     "geom:latitude":44.542207,
     "geom:longitude":-69.654974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Brigham St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403764143,
-    "wof:lastmodified":1449055885,
+    "wof:lastmodified":1466586467,
     "wof:name":"John Loomis DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-69.654974,44.542207,-69.654974,44.542207],
+  "bbox": [
+    -69.654974,
+    44.542207,
+    -69.654974,
+    44.542207
+],
   "geometry": {"coordinates":[-69.654974,44.542207],"type":"Point"}
 }

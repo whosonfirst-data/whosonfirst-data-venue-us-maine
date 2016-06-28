@@ -2,13 +2,14 @@
   "id": 403852603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.075889,44.201773,-69.075889,44.201773",
     "geom:latitude":44.201773,
     "geom:longitude":-69.075889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Elm St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403852603,
-    "wof:lastmodified":1449055754,
+    "wof:lastmodified":1466586716,
     "wof:name":"Mc Duck's Camrock",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-69.075889,44.201773,-69.075889,44.201773],
+  "bbox": [
+    -69.075889,
+    44.201773,
+    -69.075889,
+    44.201773
+],
   "geometry": {"coordinates":[-69.075889,44.201773],"type":"Point"}
 }

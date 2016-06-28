@@ -2,13 +2,14 @@
   "id": 403929275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.662883,44.929431,-68.662883,44.929431",
     "geom:latitude":44.929431,
     "geom:longitude":-68.662883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"472 Stillwater Ave",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403929275,
-    "wof:lastmodified":1449055138,
+    "wof:lastmodified":1466587028,
     "wof:name":"River Coalition",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-68.662883,44.929431,-68.662883,44.929431],
-  "geometry": {"coordinates":[-68.662883,44.929431],"type":"Point"}
+  "bbox": [
+    -68.662883,
+    44.929431,
+    -68.662883,
+    44.929431
+],
+  "geometry": {"coordinates":[-68.66288299999999,44.929431],"type":"Point"}
 }

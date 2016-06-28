@@ -2,13 +2,14 @@
   "id": 403863163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.479439,43.360436,-70.479439,43.360436",
     "geom:latitude":43.360436,
     "geom:longitude":-70.479439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Western Ave",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":403863163,
-    "wof:lastmodified":1449055529,
+    "wof:lastmodified":1466586750,
     "wof:name":"Ossomes A Creative Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.479439,43.360436,-70.479439,43.360436],
+  "bbox": [
+    -70.479439,
+    43.360436,
+    -70.479439,
+    43.360436
+],
   "geometry": {"coordinates":[-70.479439,43.360436],"type":"Point"}
 }

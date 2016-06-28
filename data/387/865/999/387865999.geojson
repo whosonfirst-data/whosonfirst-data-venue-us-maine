@@ -2,13 +2,14 @@
   "id": 387865999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.475774,43.478417,-70.475774,43.478417",
     "geom:latitude":43.478417,
     "geom:longitude":-70.475774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"464 Elm St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387865999,
-    "wof:lastmodified":1449058981,
+    "wof:lastmodified":1466587109,
     "wof:name":"Brady Screenprint & Embroidery",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "screen"
     ]
 },
-  "bbox": [-70.475774,43.478417,-70.475774,43.478417],
+  "bbox": [
+    -70.475774,
+    43.478417,
+    -70.475774,
+    43.478417
+],
   "geometry": {"coordinates":[-70.475774,43.478417],"type":"Point"}
 }

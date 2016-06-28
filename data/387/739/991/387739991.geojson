@@ -2,13 +2,14 @@
   "id": 387739991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.318232,43.557186,-70.318232,43.557186",
     "geom:latitude":43.557186,
     "geom:longitude":-70.318232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Old Neck Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387739991,
-    "wof:lastmodified":1449057708,
+    "wof:lastmodified":1466586751,
     "wof:name":"Early Engineering",
     "wof:parent_id":85843227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.318232,43.557186,-70.318232,43.557186],
-  "geometry": {"coordinates":[-70.318232,43.557186],"type":"Point"}
+  "bbox": [
+    -70.318232,
+    43.557186,
+    -70.318232,
+    43.557186
+],
+  "geometry": {"coordinates":[-70.31823199999999,43.557186],"type":"Point"}
 }

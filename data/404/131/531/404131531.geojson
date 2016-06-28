@@ -2,13 +2,14 @@
   "id": 404131531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.308091,43.687884,-70.308091,43.687884",
     "geom:latitude":43.687884,
     "geom:longitude":-70.308091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Warren Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404131531,
-    "wof:lastmodified":1449039381,
+    "wof:lastmodified":1466586470,
     "wof:name":"T R Distributors LLC",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printing"
     ]
 },
-  "bbox": [-70.308091,43.687884,-70.308091,43.687884],
+  "bbox": [
+    -70.308091,
+    43.687884,
+    -70.308091,
+    43.687884
+],
   "geometry": {"coordinates":[-70.308091,43.687884],"type":"Point"}
 }

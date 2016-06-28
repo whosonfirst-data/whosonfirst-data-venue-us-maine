@@ -2,13 +2,14 @@
   "id": 403869147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.42878,44.569519,-68.42878,44.569519",
     "geom:latitude":44.569519,
     "geom:longitude":-68.42878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Lakes Ln",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403869147,
-    "wof:lastmodified":1449055858,
+    "wof:lastmodified":1466586782,
     "wof:name":"Parker H Clough",
     "wof:parent_id":85820603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-68.42878,44.569519,-68.42878,44.569519],
+  "bbox": [
+    -68.42878,
+    44.569519,
+    -68.42878,
+    44.569519
+],
   "geometry": {"coordinates":[-68.42878,44.569519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403996827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.051795,43.942468,-70.051795,43.942468",
     "geom:latitude":43.942468,
     "geom:longitude":-70.051795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Hacker Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403996827,
-    "wof:lastmodified":1449055004,
+    "wof:lastmodified":1466587188,
     "wof:name":"Enviroinvestigations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "ecological"
     ]
 },
-  "bbox": [-70.051795,43.942468,-70.051795,43.942468],
+  "bbox": [
+    -70.051795,
+    43.942468,
+    -70.051795,
+    43.942468
+],
   "geometry": {"coordinates":[-70.051795,43.942468],"type":"Point"}
 }

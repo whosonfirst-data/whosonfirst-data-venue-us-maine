@@ -2,13 +2,14 @@
   "id": 387882031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.589668,44.064861,-69.589668,44.064861",
     "geom:latitude":44.064861,
     "geom:longitude":-69.589668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 N Newcastle Rd",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387882031,
-    "wof:lastmodified":1449056780,
+    "wof:lastmodified":1466587134,
     "wof:name":"Sweetser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-69.589668,44.064861,-69.589668,44.064861],
+  "bbox": [
+    -69.589668,
+    44.064861,
+    -69.589668,
+    44.064861
+],
   "geometry": {"coordinates":[-69.589668,44.064861],"type":"Point"}
 }

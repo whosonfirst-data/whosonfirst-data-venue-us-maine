@@ -2,13 +2,14 @@
   "id": 387722327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.427311,44.536568,-68.427311,44.536568",
     "geom:latitude":44.536568,
     "geom:longitude":-68.427311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 South St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387722327,
-    "wof:lastmodified":1449057433,
+    "wof:lastmodified":1466586812,
     "wof:name":"Union River Lobster Pot",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.427311,44.536568,-68.427311,44.536568],
+  "bbox": [
+    -68.427311,
+    44.536568,
+    -68.427311,
+    44.536568
+],
   "geometry": {"coordinates":[-68.427311,44.536568],"type":"Point"}
 }

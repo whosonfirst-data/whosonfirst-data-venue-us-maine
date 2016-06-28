@@ -2,13 +2,14 @@
   "id": 404148151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.449817,43.850166,-70.449817,43.850166",
     "geom:latitude":43.850166,
     "geom:longitude":-70.449817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"789 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404148151,
-    "wof:lastmodified":1449040123,
+    "wof:lastmodified":1466586719,
     "wof:name":"Scizzor Wizards",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.449817,43.850166,-70.449817,43.850166],
+  "bbox": [
+    -70.449817,
+    43.850166,
+    -70.449817,
+    43.850166
+],
   "geometry": {"coordinates":[-70.449817,43.850166],"type":"Point"}
 }

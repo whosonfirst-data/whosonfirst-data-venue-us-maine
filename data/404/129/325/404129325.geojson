@@ -2,13 +2,14 @@
   "id": 404129325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.759398,44.806778,-68.759398,44.806778",
     "geom:latitude":44.806778,
     "geom:longitude":-68.759398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Wingate Ct",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404129325,
-    "wof:lastmodified":1449040054,
+    "wof:lastmodified":1466586441,
     "wof:name":"Harrisons Home Inspections",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-68.759398,44.806778,-68.759398,44.806778],
+  "bbox": [
+    -68.759398,
+    44.806778,
+    -68.759398,
+    44.806778
+],
   "geometry": {"coordinates":[-68.759398,44.806778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403974699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.36076,44.287316,-70.36076,44.287316",
     "geom:latitude":44.287316,
     "geom:longitude":-70.36076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Turner St",
     "sg:city":"Buckfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403974699,
-    "wof:lastmodified":1449055792,
+    "wof:lastmodified":1466587136,
     "wof:name":"Buckfield Inn",
     "wof:parent_id":85816409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.36076,44.287316,-70.36076,44.287316],
+  "bbox": [
+    -70.36076,
+    44.287316,
+    -70.36076,
+    44.287316
+],
   "geometry": {"coordinates":[-70.36076,44.287316],"type":"Point"}
 }

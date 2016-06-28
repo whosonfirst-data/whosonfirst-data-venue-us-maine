@@ -2,13 +2,14 @@
   "id": 403909049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.105837,43.862514,-70.105837,43.862514",
     "geom:latitude":43.862514,
     "geom:longitude":-70.105837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Mallet Dr",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403909049,
-    "wof:lastmodified":1449055625,
+    "wof:lastmodified":1466586872,
     "wof:name":"June's Beauty Salon",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.105837,43.862514,-70.105837,43.862514],
-  "geometry": {"coordinates":[-70.105837,43.862514],"type":"Point"}
+  "bbox": [
+    -70.105837,
+    43.862514,
+    -70.105837,
+    43.862514
+],
+  "geometry": {"coordinates":[-70.10583699999999,43.862514],"type":"Point"}
 }

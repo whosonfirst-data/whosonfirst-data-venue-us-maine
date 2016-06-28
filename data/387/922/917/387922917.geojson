@@ -2,13 +2,14 @@
   "id": 387922917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.653512,44.527245,-69.653512,44.527245",
     "geom:latitude":44.527245,
     "geom:longitude":-69.653512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Water St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387922917,
-    "wof:lastmodified":1449056452,
+    "wof:lastmodified":1466587261,
     "wof:name":"Kelly's Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.653512,44.527245,-69.653512,44.527245],
-  "geometry": {"coordinates":[-69.653512,44.527245],"type":"Point"}
+  "bbox": [
+    -69.653512,
+    44.527245,
+    -69.653512,
+    44.527245
+],
+  "geometry": {"coordinates":[-69.65351200000001,44.527245],"type":"Point"}
 }

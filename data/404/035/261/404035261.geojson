@@ -2,13 +2,14 @@
   "id": 404035261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.794602,44.801064,-68.794602,44.801064",
     "geom:latitude":44.801064,
     "geom:longitude":-68.794602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Allen St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404035261,
-    "wof:lastmodified":1449040057,
+    "wof:lastmodified":1466586014,
     "wof:name":"Changes",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.794602,44.801064,-68.794602,44.801064],
+  "bbox": [
+    -68.794602,
+    44.801064,
+    -68.794602,
+    44.801064
+],
   "geometry": {"coordinates":[-68.794602,44.801064],"type":"Point"}
 }

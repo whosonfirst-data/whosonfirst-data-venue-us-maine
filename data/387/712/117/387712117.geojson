@@ -2,13 +2,14 @@
   "id": 387712117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.426429,43.491023,-70.426429,43.491023",
     "geom:latitude":43.491023,
     "geom:longitude":-70.426429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Pine Ridge Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387712117,
-    "wof:lastmodified":1449057739,
+    "wof:lastmodified":1466586767,
     "wof:name":"A&M Partners Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.426429,43.491023,-70.426429,43.491023],
+  "bbox": [
+    -70.426429,
+    43.491023,
+    -70.426429,
+    43.491023
+],
   "geometry": {"coordinates":[-70.426429,43.491023],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387693247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.290065,45.016135,-69.290065,45.016135",
     "geom:latitude":45.016135,
     "geom:longitude":-69.290065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"171 Spring St",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387693247,
-    "wof:lastmodified":1449056331,
+    "wof:lastmodified":1466586816,
     "wof:name":"Dexter Variety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.290065,45.016135,-69.290065,45.016135],
+  "bbox": [
+    -69.290065,
+    45.016135,
+    -69.290065,
+    45.016135
+],
   "geometry": {"coordinates":[-69.290065,45.016135],"type":"Point"}
 }

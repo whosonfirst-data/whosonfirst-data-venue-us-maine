@@ -2,13 +2,14 @@
   "id": 387649061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.713338,44.52845,-69.713338,44.52845",
     "geom:latitude":44.52845,
     "geom:longitude":-69.713338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Country Club Rd",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387649061,
-    "wof:lastmodified":1449058704,
+    "wof:lastmodified":1466586734,
     "wof:name":"LA Chance Self Storage",
     "wof:parent_id":85837327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-69.713338,44.52845,-69.713338,44.52845],
-  "geometry": {"coordinates":[-69.713338,44.52845],"type":"Point"}
+  "bbox": [
+    -69.713338,
+    44.52845,
+    -69.713338,
+    44.52845
+],
+  "geometry": {"coordinates":[-69.71333799999999,44.52845],"type":"Point"}
 }

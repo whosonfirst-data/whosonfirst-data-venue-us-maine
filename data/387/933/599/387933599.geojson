@@ -2,13 +2,14 @@
   "id": 387933599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.134201,45.051809,-67.134201,45.051809",
     "geom:latitude":45.051809,
     "geom:longitude":-67.134201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Ridge Rd",
     "sg:city":"Cherryfield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387933599,
-    "wof:lastmodified":1449056883,
+    "wof:lastmodified":1466587272,
     "wof:name":"Cherryfield Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.134201,45.051809,-67.134201,45.051809],
+  "bbox": [
+    -67.134201,
+    45.051809,
+    -67.134201,
+    45.051809
+],
   "geometry": {"coordinates":[-67.134201,45.051809],"type":"Point"}
 }

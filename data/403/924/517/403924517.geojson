@@ -2,13 +2,14 @@
   "id": 403924517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.306237,43.670356,-70.306237,43.670356",
     "geom:latitude":43.670356,
     "geom:longitude":-70.306237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Brighton Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403924517,
-    "wof:lastmodified":1449055011,
+    "wof:lastmodified":1466587005,
     "wof:name":"Restorative & Aesthetic Dental",
     "wof:parent_id":85880021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-70.306237,43.670356,-70.306237,43.670356],
+  "bbox": [
+    -70.306237,
+    43.670356,
+    -70.306237,
+    43.670356
+],
   "geometry": {"coordinates":[-70.306237,43.670356],"type":"Point"}
 }

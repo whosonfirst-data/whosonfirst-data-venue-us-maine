@@ -2,13 +2,14 @@
   "id": 403793265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.331176,43.689952,-70.331176,43.689952",
     "geom:latitude":43.689952,
     "geom:longitude":-70.331176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 McAllister Farms Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403793265,
-    "wof:lastmodified":1449055368,
+    "wof:lastmodified":1466585851,
     "wof:name":"Stultz Electric Motor & Contro",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-70.331176,43.689952,-70.331176,43.689952],
+  "bbox": [
+    -70.331176,
+    43.689952,
+    -70.331176,
+    43.689952
+],
   "geometry": {"coordinates":[-70.331176,43.689952],"type":"Point"}
 }

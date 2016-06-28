@@ -2,13 +2,14 @@
   "id": 403977665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.308256,43.706222,-70.308256,43.706222",
     "geom:latitude":43.706222,
     "geom:longitude":-70.308256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Riverside Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403977665,
-    "wof:lastmodified":1449056008,
+    "wof:lastmodified":1466587139,
     "wof:name":"Fortune Inc",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cover"
     ]
 },
-  "bbox": [-70.308256,43.706222,-70.308256,43.706222],
+  "bbox": [
+    -70.308256,
+    43.706222,
+    -70.308256,
+    43.706222
+],
   "geometry": {"coordinates":[-70.308256,43.706222],"type":"Point"}
 }

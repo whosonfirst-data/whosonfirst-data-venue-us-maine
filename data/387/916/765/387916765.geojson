@@ -2,13 +2,14 @@
   "id": 387916765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.617558,44.516657,-67.617558,44.516657",
     "geom:latitude":44.516657,
     "geom:longitude":-67.617558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Mill Pond Rd",
     "sg:city":"Beals",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387916765,
-    "wof:lastmodified":1449058196,
+    "wof:lastmodified":1466587325,
     "wof:name":"Beals Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.617558,44.516657,-67.617558,44.516657],
+  "bbox": [
+    -67.617558,
+    44.516657,
+    -67.617558,
+    44.516657
+],
   "geometry": {"coordinates":[-67.617558,44.516657],"type":"Point"}
 }

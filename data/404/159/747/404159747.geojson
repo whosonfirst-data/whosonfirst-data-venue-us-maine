@@ -2,13 +2,14 @@
   "id": 404159747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.531334,44.212061,-70.531334,44.212061",
     "geom:latitude":44.212061,
     "geom:longitude":-70.531334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Paris St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404159747,
-    "wof:lastmodified":1449039163,
+    "wof:lastmodified":1466586865,
     "wof:name":"Stcatherines Rectory",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.531334,44.212061,-70.531334,44.212061],
+  "bbox": [
+    -70.531334,
+    44.212061,
+    -70.531334,
+    44.212061
+],
   "geometry": {"coordinates":[-70.531334,44.212061],"type":"Point"}
 }

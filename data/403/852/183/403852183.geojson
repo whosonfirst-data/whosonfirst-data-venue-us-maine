@@ -2,13 +2,14 @@
   "id": 403852183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.440132,43.503669,-70.440132,43.503669",
     "geom:latitude":43.503669,
     "geom:longitude":-70.440132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Main St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403852183,
-    "wof:lastmodified":1449055750,
+    "wof:lastmodified":1466586651,
     "wof:name":"Eric Cote",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-70.440132,43.503669,-70.440132,43.503669],
-  "geometry": {"coordinates":[-70.440132,43.503669],"type":"Point"}
+  "bbox": [
+    -70.440132,
+    43.503669,
+    -70.440132,
+    43.503669
+],
+  "geometry": {"coordinates":[-70.44013200000001,43.503669],"type":"Point"}
 }

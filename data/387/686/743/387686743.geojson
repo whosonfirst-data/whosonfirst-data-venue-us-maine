@@ -2,13 +2,14 @@
   "id": 387686743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.992352,46.675895,-67.992352,46.675895",
     "geom:latitude":46.675895,
     "geom:longitude":-67.992352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Academy St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387686743,
-    "wof:lastmodified":1449058988,
+    "wof:lastmodified":1466586550,
     "wof:name":"Aroostook Family Dental Health",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-67.992352,46.675895,-67.992352,46.675895],
+  "bbox": [
+    -67.992352,
+    46.675895,
+    -67.992352,
+    46.675895
+],
   "geometry": {"coordinates":[-67.992352,46.675895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403984425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.215944,44.270068,-70.215944,44.270068",
     "geom:latitude":44.270068,
     "geom:longitude":-70.215944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Center Bridge Rd",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403984425,
-    "wof:lastmodified":1449055385,
+    "wof:lastmodified":1466587161,
     "wof:name":"D C Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.215944,44.270068,-70.215944,44.270068],
-  "geometry": {"coordinates":[-70.215944,44.270068],"type":"Point"}
+  "bbox": [
+    -70.215944,
+    44.270068,
+    -70.215944,
+    44.270068
+],
+  "geometry": {"coordinates":[-70.21594399999999,44.270068],"type":"Point"}
 }

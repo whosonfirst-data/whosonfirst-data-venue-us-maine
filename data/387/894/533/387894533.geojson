@@ -2,13 +2,14 @@
   "id": 387894533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.594431,44.588353,-69.594431,44.588353",
     "geom:latitude":44.588353,
     "geom:longitude":-69.594431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"196 Main St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387894533,
-    "wof:lastmodified":1449057671,
+    "wof:lastmodified":1466587315,
     "wof:name":"Mainly Kids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-69.594431,44.588353,-69.594431,44.588353],
+  "bbox": [
+    -69.594431,
+    44.588353,
+    -69.594431,
+    44.588353
+],
   "geometry": {"coordinates":[-69.594431,44.588353],"type":"Point"}
 }

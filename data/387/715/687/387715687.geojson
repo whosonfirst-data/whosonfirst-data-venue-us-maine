@@ -2,13 +2,14 @@
   "id": 387715687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.808598,44.41215,-68.808598,44.41215",
     "geom:latitude":44.41215,
     "geom:longitude":-68.808598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Simpson Rd",
     "sg:city":"Castine",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387715687,
-    "wof:lastmodified":1449059149,
+    "wof:lastmodified":1466586794,
     "wof:name":"P C Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-68.808598,44.41215,-68.808598,44.41215],
+  "bbox": [
+    -68.808598,
+    44.41215,
+    -68.808598,
+    44.41215
+],
   "geometry": {"coordinates":[-68.808598,44.41215],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404144807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.265668,43.652249,-70.265668,43.652249",
     "geom:latitude":43.652249,
     "geom:longitude":-70.265668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 State St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404144807,
-    "wof:lastmodified":1449039993,
+    "wof:lastmodified":1466586814,
     "wof:name":"State Street Ob Gyn",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.265668,43.652249,-70.265668,43.652249],
-  "geometry": {"coordinates":[-70.265668,43.652249],"type":"Point"}
+  "bbox": [
+    -70.265668,
+    43.652249,
+    -70.265668,
+    43.652249
+],
+  "geometry": {"coordinates":[-70.26566800000001,43.652249],"type":"Point"}
 }

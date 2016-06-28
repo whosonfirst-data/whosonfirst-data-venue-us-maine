@@ -2,13 +2,14 @@
   "id": 387819629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.231461,44.097134,-70.231461,44.097134",
     "geom:latitude":44.097134,
     "geom:longitude":-70.231461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Minot Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387819629,
-    "wof:lastmodified":1449057010,
+    "wof:lastmodified":1466587188,
     "wof:name":"Godin's Auto Sales Annex",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.231461,44.097134,-70.231461,44.097134],
+  "bbox": [
+    -70.231461,
+    44.097134,
+    -70.231461,
+    44.097134
+],
   "geometry": {"coordinates":[-70.231461,44.097134],"type":"Point"}
 }

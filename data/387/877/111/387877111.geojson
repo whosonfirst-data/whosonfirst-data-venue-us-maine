@@ -2,13 +2,14 @@
   "id": 387877111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.188637,43.821498,-70.188637,43.821498",
     "geom:latitude":43.821498,
     "geom:longitude":-70.188637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 North Rd",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387877111,
-    "wof:lastmodified":1449058789,
+    "wof:lastmodified":1466587197,
     "wof:name":"K B Renovations Inc",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.188637,43.821498,-70.188637,43.821498],
+  "bbox": [
+    -70.188637,
+    43.821498,
+    -70.188637,
+    43.821498
+],
   "geometry": {"coordinates":[-70.188637,43.821498],"type":"Point"}
 }

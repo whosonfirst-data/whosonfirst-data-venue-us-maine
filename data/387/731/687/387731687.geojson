@@ -2,13 +2,14 @@
   "id": 387731687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.384585,44.776291,-69.384585,44.776291",
     "geom:latitude":44.776291,
     "geom:longitude":-69.384585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Summer St",
     "sg:city":"Pittsfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387731687,
-    "wof:lastmodified":1449059492,
+    "wof:lastmodified":1466586847,
     "wof:name":"Dube Cruise & Travel Ctr",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-69.384585,44.776291,-69.384585,44.776291],
+  "bbox": [
+    -69.384585,
+    44.776291,
+    -69.384585,
+    44.776291
+],
   "geometry": {"coordinates":[-69.384585,44.776291],"type":"Point"}
 }

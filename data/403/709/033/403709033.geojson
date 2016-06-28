@@ -2,13 +2,14 @@
   "id": 403709033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.795848,44.57295,-68.795848,44.57295",
     "geom:latitude":44.57295,
     "geom:longitude":-68.795848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Mechanic St",
     "sg:city":"Bucksport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403709033,
-    "wof:lastmodified":1449054897,
+    "wof:lastmodified":1466586621,
     "wof:name":"Dental Associates",
     "wof:parent_id":85843193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-68.795848,44.57295,-68.795848,44.57295],
-  "geometry": {"coordinates":[-68.795848,44.57295],"type":"Point"}
+  "bbox": [
+    -68.795848,
+    44.57295,
+    -68.795848,
+    44.57295
+],
+  "geometry": {"coordinates":[-68.79584800000001,44.57295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404053097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.362937,43.680255,-70.362937,43.680255",
     "geom:latitude":43.680255,
     "geom:longitude":-70.362937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Brown St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404053097,
-    "wof:lastmodified":1449039268,
+    "wof:lastmodified":1466586334,
     "wof:name":"Man's Image",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.362937,43.680255,-70.362937,43.680255],
+  "bbox": [
+    -70.362937,
+    43.680255,
+    -70.362937,
+    43.680255
+],
   "geometry": {"coordinates":[-70.362937,43.680255],"type":"Point"}
 }

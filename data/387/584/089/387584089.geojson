@@ -2,13 +2,14 @@
   "id": 387584089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.347032,44.064862,-69.347032,44.064862",
     "geom:latitude":44.064862,
     "geom:longitude":-69.347032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 Friendship Rd",
     "sg:city":"Waldoboro",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387584089,
-    "wof:lastmodified":1449056522,
+    "wof:lastmodified":1466586070,
     "wof:name":"Blue Skye Farm B & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-69.347032,44.064862,-69.347032,44.064862],
+  "bbox": [
+    -69.347032,
+    44.064862,
+    -69.347032,
+    44.064862
+],
   "geometry": {"coordinates":[-69.347032,44.064862],"type":"Point"}
 }

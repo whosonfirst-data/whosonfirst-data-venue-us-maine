@@ -2,13 +2,14 @@
   "id": 387953075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242566,43.650164,-70.242566,43.650164",
     "geom:latitude":43.650164,
     "geom:longitude":-70.242566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387953075,
-    "wof:lastmodified":1449058734,
+    "wof:lastmodified":1466587294,
     "wof:name":"Hodgkins Financial Svc",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-70.242566,43.650164,-70.242566,43.650164],
+  "bbox": [
+    -70.242566,
+    43.650164,
+    -70.242566,
+    43.650164
+],
   "geometry": {"coordinates":[-70.242566,43.650164],"type":"Point"}
 }

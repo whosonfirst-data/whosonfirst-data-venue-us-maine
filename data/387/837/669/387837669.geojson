@@ -2,13 +2,14 @@
   "id": 387837669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.850249,43.867951,-69.850249,43.867951",
     "geom:latitude":43.867951,
     "geom:longitude":-69.850249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"569 Berrys Mill Rd",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387837669,
-    "wof:lastmodified":1449056695,
+    "wof:lastmodified":1466587142,
     "wof:name":"Light Coaching",
     "wof:parent_id":85833397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.850249,43.867951,-69.850249,43.867951],
-  "geometry": {"coordinates":[-69.850249,43.867951],"type":"Point"}
+  "bbox": [
+    -69.850249,
+    43.867951,
+    -69.850249,
+    43.867951
+],
+  "geometry": {"coordinates":[-69.85024900000001,43.867951],"type":"Point"}
 }

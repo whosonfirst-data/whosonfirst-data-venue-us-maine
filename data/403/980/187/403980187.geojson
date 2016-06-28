@@ -2,13 +2,14 @@
   "id": 403980187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.450863,43.512988,-70.450863,43.512988",
     "geom:latitude":43.512988,
     "geom:longitude":-70.450863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 North St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403980187,
-    "wof:lastmodified":1449054725,
+    "wof:lastmodified":1466587146,
     "wof:name":"CSI",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "speech"
     ]
 },
-  "bbox": [-70.450863,43.512988,-70.450863,43.512988],
+  "bbox": [
+    -70.450863,
+    43.512988,
+    -70.450863,
+    43.512988
+],
   "geometry": {"coordinates":[-70.450863,43.512988],"type":"Point"}
 }

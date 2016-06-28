@@ -2,13 +2,14 @@
   "id": 387898525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.154632,44.673932,-70.154632,44.673932",
     "geom:latitude":44.673932,
     "geom:longitude":-70.154632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387898525,
-    "wof:lastmodified":1449056035,
+    "wof:lastmodified":1466587237,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.154632,44.673932,-70.154632,44.673932],
-  "geometry": {"coordinates":[-70.154632,44.673932],"type":"Point"}
+  "bbox": [
+    -70.154632,
+    44.673932,
+    -70.154632,
+    44.673932
+],
+  "geometry": {"coordinates":[-70.15463200000001,44.673932],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387800769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.338573,43.573091,-70.338573,43.573091",
     "geom:latitude":43.573091,
     "geom:longitude":-70.338573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Tall Pines Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387800769,
-    "wof:lastmodified":1449056412,
+    "wof:lastmodified":1466586955,
     "wof:name":"Jania Janusz",
     "wof:parent_id":85806509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-70.338573,43.573091,-70.338573,43.573091],
+  "bbox": [
+    -70.338573,
+    43.573091,
+    -70.338573,
+    43.573091
+],
   "geometry": {"coordinates":[-70.338573,43.573091],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403707973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.255055,43.64147,-70.255055,43.64147",
     "geom:latitude":43.64147,
     "geom:longitude":-70.255055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Ocean St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403707973,
-    "wof:lastmodified":1449055768,
+    "wof:lastmodified":1466585699,
     "wof:name":"Millet Edward RE Appraisal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.255055,43.64147,-70.255055,43.64147],
+  "bbox": [
+    -70.255055,
+    43.64147,
+    -70.255055,
+    43.64147
+],
   "geometry": {"coordinates":[-70.255055,43.64147],"type":"Point"}
 }

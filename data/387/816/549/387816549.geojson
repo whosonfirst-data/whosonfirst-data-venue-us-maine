@@ -2,13 +2,14 @@
   "id": 387816549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.627688,44.556213,-69.627688,44.556213",
     "geom:latitude":44.556213,
     "geom:longitude":-69.627688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Colby St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387816549,
-    "wof:lastmodified":1449058319,
+    "wof:lastmodified":1466587099,
     "wof:name":"Juvenile Community Corrections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-69.627688,44.556213,-69.627688,44.556213],
-  "geometry": {"coordinates":[-69.627688,44.556213],"type":"Point"}
+  "bbox": [
+    -69.627688,
+    44.556213,
+    -69.627688,
+    44.556213
+],
+  "geometry": {"coordinates":[-69.62768800000001,44.556213],"type":"Point"}
 }

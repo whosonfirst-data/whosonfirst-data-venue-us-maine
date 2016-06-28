@@ -2,13 +2,14 @@
   "id": 387828101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.45961,43.870765,-70.45961,43.870765",
     "geom:latitude":43.870765,
     "geom:longitude":-70.45961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Murray Dr",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387828101,
-    "wof:lastmodified":1449058034,
+    "wof:lastmodified":1466587024,
     "wof:name":"State Wide Cleaning Svc",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-70.45961,43.870765,-70.45961,43.870765],
+  "bbox": [
+    -70.45961,
+    43.870765,
+    -70.45961,
+    43.870765
+],
   "geometry": {"coordinates":[-70.45961,43.870765],"type":"Point"}
 }

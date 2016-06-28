@@ -2,13 +2,14 @@
   "id": 403956127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.594569,44.587349,-69.594569,44.587349",
     "geom:latitude":44.587349,
     "geom:longitude":-69.594569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Main St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403956127,
-    "wof:lastmodified":1449054857,
+    "wof:lastmodified":1466587072,
     "wof:name":"George's Smoke Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-69.594569,44.587349,-69.594569,44.587349],
-  "geometry": {"coordinates":[-69.594569,44.587349],"type":"Point"}
+  "bbox": [
+    -69.594569,
+    44.587349,
+    -69.594569,
+    44.587349
+],
+  "geometry": {"coordinates":[-69.59456900000001,44.587349],"type":"Point"}
 }

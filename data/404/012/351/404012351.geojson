@@ -2,13 +2,14 @@
   "id": 404012351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.023495,44.272948,-70.023495,44.272948",
     "geom:latitude":44.272948,
     "geom:longitude":-70.023495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 N Main St",
     "sg:city":"North Monmouth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404012351,
-    "wof:lastmodified":1449040214,
+    "wof:lastmodified":1466585818,
     "wof:name":"Peoples Heritage Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.023495,44.272948,-70.023495,44.272948],
+  "bbox": [
+    -70.023495,
+    44.272948,
+    -70.023495,
+    44.272948
+],
   "geometry": {"coordinates":[-70.023495,44.272948],"type":"Point"}
 }

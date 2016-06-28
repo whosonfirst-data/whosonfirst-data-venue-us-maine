@@ -2,13 +2,14 @@
   "id": 387635959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.290204,43.706479,-70.290204,43.706479",
     "geom:latitude":43.706479,
     "geom:longitude":-70.290204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"194 Auburn St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387635959,
-    "wof:lastmodified":1449057756,
+    "wof:lastmodified":1466585856,
     "wof:name":"Northgate Citgo",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-70.290204,43.706479,-70.290204,43.706479],
+  "bbox": [
+    -70.290204,
+    43.706479,
+    -70.290204,
+    43.706479
+],
   "geometry": {"coordinates":[-70.290204,43.706479],"type":"Point"}
 }

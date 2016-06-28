@@ -2,13 +2,14 @@
   "id": 387690839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.547697,44.976194,-69.547697,44.976194",
     "geom:latitude":44.976194,
     "geom:longitude":-69.547697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Main St",
     "sg:city":"Harmony",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387690839,
-    "wof:lastmodified":1449058123,
+    "wof:lastmodified":1466586616,
     "wof:name":"Harmony School",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.547697,44.976194,-69.547697,44.976194],
+  "bbox": [
+    -69.547697,
+    44.976194,
+    -69.547697,
+    44.976194
+],
   "geometry": {"coordinates":[-69.547697,44.976194],"type":"Point"}
 }

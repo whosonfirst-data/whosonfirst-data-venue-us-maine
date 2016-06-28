@@ -2,13 +2,14 @@
   "id": 404020237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.93357,44.449116,-68.93357,44.449116",
     "geom:latitude":44.449116,
     "geom:longitude":-68.93357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 W Main St",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404020237,
-    "wof:lastmodified":1449039570,
+    "wof:lastmodified":1466585885,
     "wof:name":"Maine Appraisal Svc",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-68.93357,44.449116,-68.93357,44.449116],
+  "bbox": [
+    -68.93357,
+    44.449116,
+    -68.93357,
+    44.449116
+],
   "geometry": {"coordinates":[-68.93357,44.449116],"type":"Point"}
 }

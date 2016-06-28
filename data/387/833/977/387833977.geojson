@@ -2,13 +2,14 @@
   "id": 387833977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.231942,44.101309,-70.231942,44.101309",
     "geom:latitude":44.101309,
     "geom:longitude":-70.231942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Willow St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387833977,
-    "wof:lastmodified":1449056597,
+    "wof:lastmodified":1466587212,
     "wof:name":"Willow Run Dental Assoc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-70.231942,44.101309,-70.231942,44.101309],
+  "bbox": [
+    -70.231942,
+    44.101309,
+    -70.231942,
+    44.101309
+],
   "geometry": {"coordinates":[-70.231942,44.101309],"type":"Point"}
 }

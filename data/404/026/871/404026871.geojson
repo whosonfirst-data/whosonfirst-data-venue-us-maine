@@ -2,13 +2,14 @@
   "id": 404026871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.403535,43.509201,-70.403535,43.509201",
     "geom:latitude":43.509201,
     "geom:longitude":-70.403535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Goodwin Ave",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404026871,
-    "wof:lastmodified":1449039824,
+    "wof:lastmodified":1466585968,
     "wof:name":"Frank's Auto Repair",
     "wof:parent_id":85828495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.403535,43.509201,-70.403535,43.509201],
-  "geometry": {"coordinates":[-70.403535,43.509201],"type":"Point"}
+  "bbox": [
+    -70.403535,
+    43.509201,
+    -70.403535,
+    43.509201
+],
+  "geometry": {"coordinates":[-70.40353500000001,43.509201],"type":"Point"}
 }

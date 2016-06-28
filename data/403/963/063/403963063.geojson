@@ -2,13 +2,14 @@
   "id": 403963063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.844941,44.732324,-68.844941,44.732324",
     "geom:latitude":44.732324,
     "geom:longitude":-68.844941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Kennebec Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403963063,
-    "wof:lastmodified":1449054767,
+    "wof:lastmodified":1466587112,
     "wof:name":"Steve Morrell Accounting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-68.844941,44.732324,-68.844941,44.732324],
-  "geometry": {"coordinates":[-68.844941,44.732324],"type":"Point"}
+  "bbox": [
+    -68.844941,
+    44.732324,
+    -68.844941,
+    44.732324
+],
+  "geometry": {"coordinates":[-68.84494100000001,44.732324],"type":"Point"}
 }

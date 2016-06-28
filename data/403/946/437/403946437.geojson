@@ -2,13 +2,14 @@
   "id": 403946437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.737135,44.777922,-68.737135,44.777922",
     "geom:latitude":44.777922,
     "geom:longitude":-68.737135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Wilson St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403946437,
-    "wof:lastmodified":1449055813,
+    "wof:lastmodified":1466587064,
     "wof:name":"Dave Gould Certified",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-68.737135,44.777922,-68.737135,44.777922],
-  "geometry": {"coordinates":[-68.737135,44.777922],"type":"Point"}
+  "bbox": [
+    -68.737135,
+    44.777922,
+    -68.737135,
+    44.777922
+],
+  "geometry": {"coordinates":[-68.73713499999999,44.777922],"type":"Point"}
 }

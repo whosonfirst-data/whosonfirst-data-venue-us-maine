@@ -2,13 +2,14 @@
   "id": 404112085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.584487,44.174209,-70.584487,44.174209",
     "geom:latitude":44.174209,
     "geom:longitude":-70.584487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Thomas Hill Rd",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404112085,
-    "wof:lastmodified":1449039560,
+    "wof:lastmodified":1466586175,
     "wof:name":"Mfb Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "home"
     ]
 },
-  "bbox": [-70.584487,44.174209,-70.584487,44.174209],
+  "bbox": [
+    -70.584487,
+    44.174209,
+    -70.584487,
+    44.174209
+],
   "geometry": {"coordinates":[-70.584487,44.174209],"type":"Point"}
 }

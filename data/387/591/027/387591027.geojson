@@ -2,13 +2,14 @@
   "id": 387591027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.273268,43.646836,-70.273268,43.646836",
     "geom:latitude":43.646836,
     "geom:longitude":-70.273268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Vaughan St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387591027,
-    "wof:lastmodified":1449058143,
+    "wof:lastmodified":1466586187,
     "wof:name":"Marguerite Pennoyer MD",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.273268,43.646836,-70.273268,43.646836],
+  "bbox": [
+    -70.273268,
+    43.646836,
+    -70.273268,
+    43.646836
+],
   "geometry": {"coordinates":[-70.273268,43.646836],"type":"Point"}
 }

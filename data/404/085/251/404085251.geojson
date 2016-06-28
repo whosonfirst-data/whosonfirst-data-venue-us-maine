@@ -2,13 +2,14 @@
   "id": 404085251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.475183,43.478786,-70.475183,43.478786",
     "geom:latitude":43.478786,
     "geom:longitude":-70.475183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"453 Elm St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404085251,
-    "wof:lastmodified":1449039343,
+    "wof:lastmodified":1466585810,
     "wof:name":"Mardens",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-70.475183,43.478786,-70.475183,43.478786],
+  "bbox": [
+    -70.475183,
+    43.478786,
+    -70.475183,
+    43.478786
+],
   "geometry": {"coordinates":[-70.475183,43.478786],"type":"Point"}
 }

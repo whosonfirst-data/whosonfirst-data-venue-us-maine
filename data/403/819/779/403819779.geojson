@@ -2,13 +2,14 @@
   "id": 403819779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.350495,43.784157,-70.350495,43.784157",
     "geom:latitude":43.784157,
     "geom:longitude":-70.350495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Lakeside Dr",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403819779,
-    "wof:lastmodified":1449054954,
+    "wof:lastmodified":1466586260,
     "wof:name":"Larry E Ely",
     "wof:parent_id":85847399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-70.350495,43.784157,-70.350495,43.784157],
+  "bbox": [
+    -70.350495,
+    43.784157,
+    -70.350495,
+    43.784157
+],
   "geometry": {"coordinates":[-70.350495,43.784157],"type":"Point"}
 }

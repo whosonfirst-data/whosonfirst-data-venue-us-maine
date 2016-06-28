@@ -2,13 +2,14 @@
   "id": 404018707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.565905,43.640705,-70.565905,43.640705",
     "geom:latitude":43.640705,
     "geom:longitude":-70.565905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Dow Ln",
     "sg:city":"Buxton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404018707,
-    "wof:lastmodified":1449039695,
+    "wof:lastmodified":1466586650,
     "wof:name":"Cote-Dow Accounting Svc Inc",
     "wof:parent_id":85852373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-70.565905,43.640705,-70.565905,43.640705],
+  "bbox": [
+    -70.565905,
+    43.640705,
+    -70.565905,
+    43.640705
+],
   "geometry": {"coordinates":[-70.565905,43.640705],"type":"Point"}
 }

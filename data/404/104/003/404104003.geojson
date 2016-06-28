@@ -2,13 +2,14 @@
   "id": 404104003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.279055,45.179445,-67.279055,45.179445",
     "geom:latitude":45.179445,
     "geom:longitude":-67.279055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Lafayette St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":404104003,
-    "wof:lastmodified":1449039531,
+    "wof:lastmodified":1466586055,
     "wof:name":"Stanley's Sports Cards Plus",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "memorabilia"
     ]
 },
-  "bbox": [-67.279055,45.179445,-67.279055,45.179445],
+  "bbox": [
+    -67.279055,
+    45.179445,
+    -67.279055,
+    45.179445
+],
   "geometry": {"coordinates":[-67.279055,45.179445],"type":"Point"}
 }

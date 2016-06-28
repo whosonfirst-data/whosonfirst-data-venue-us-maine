@@ -2,13 +2,14 @@
   "id": 404080505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.522836,43.623193,-70.522836,43.623193",
     "geom:latitude":43.623193,
     "geom:longitude":-70.522836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 George Sawyer Rd",
     "sg:city":"West Buxton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404080505,
-    "wof:lastmodified":1449040301,
+    "wof:lastmodified":1466585744,
     "wof:name":"Knoll High Farm Trailer Sales",
     "wof:parent_id":85852373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.522836,43.623193,-70.522836,43.623193],
+  "bbox": [
+    -70.522836,
+    43.623193,
+    -70.522836,
+    43.623193
+],
   "geometry": {"coordinates":[-70.522836,43.623193],"type":"Point"}
 }

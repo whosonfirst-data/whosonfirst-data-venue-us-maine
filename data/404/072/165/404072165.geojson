@@ -2,13 +2,14 @@
   "id": 404072165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.670373,44.886452,-68.670373,44.886452",
     "geom:latitude":44.886452,
     "geom:longitude":-68.670373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N Main St",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404072165,
-    "wof:lastmodified":1449039769,
+    "wof:lastmodified":1466586586,
     "wof:name":"Orono Health Assn",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-68.670373,44.886452,-68.670373,44.886452],
+  "bbox": [
+    -68.670373,
+    44.886452,
+    -68.670373,
+    44.886452
+],
   "geometry": {"coordinates":[-68.670373,44.886452],"type":"Point"}
 }

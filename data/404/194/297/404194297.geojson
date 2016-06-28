@@ -2,13 +2,14 @@
   "id": 404194297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.366374,43.839563,-70.366374,43.839563",
     "geom:latitude":43.839563,
     "geom:longitude":-70.366374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Dutton Hill Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":404194297,
-    "wof:lastmodified":1449040142,
+    "wof:lastmodified":1466586897,
     "wof:name":"R A Wilcox Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-70.366374,43.839563,-70.366374,43.839563],
-  "geometry": {"coordinates":[-70.366374,43.839563],"type":"Point"}
+  "bbox": [
+    -70.366374,
+    43.839563,
+    -70.366374,
+    43.839563
+],
+  "geometry": {"coordinates":[-70.36637399999999,43.839563],"type":"Point"}
 }

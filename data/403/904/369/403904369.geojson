@@ -2,13 +2,14 @@
   "id": 403904369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.741547,44.839765,-68.741547,44.839765",
     "geom:latitude":44.839765,
     "geom:longitude":-68.741547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Frost Dr",
     "sg:city":"Hermon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403904369,
-    "wof:lastmodified":1449056006,
+    "wof:lastmodified":1466586938,
     "wof:name":"Patriot Transport",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-68.741547,44.839765,-68.741547,44.839765],
+  "bbox": [
+    -68.741547,
+    44.839765,
+    -68.741547,
+    44.839765
+],
   "geometry": {"coordinates":[-68.741547,44.839765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404163133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.237488,44.270281,-69.237488,44.270281",
     "geom:latitude":44.270281,
     "geom:longitude":-69.237488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"593 Gurneytown Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404163133,
-    "wof:lastmodified":1449040307,
+    "wof:lastmodified":1466586873,
     "wof:name":"Earl R Norwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-69.237488,44.270281,-69.237488,44.270281],
+  "bbox": [
+    -69.237488,
+    44.270281,
+    -69.237488,
+    44.270281
+],
   "geometry": {"coordinates":[-69.237488,44.270281],"type":"Point"}
 }

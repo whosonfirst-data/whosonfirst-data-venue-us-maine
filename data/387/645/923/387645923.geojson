@@ -2,13 +2,14 @@
   "id": 387645923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.544135,43.386824,-70.544135,43.386824",
     "geom:latitude":43.386824,
     "geom:longitude":-70.544135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Sayward St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387645923,
-    "wof:lastmodified":1449056492,
+    "wof:lastmodified":1466585943,
     "wof:name":"Maureen Page-Kelly",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-70.544135,43.386824,-70.544135,43.386824],
+  "bbox": [
+    -70.544135,
+    43.386824,
+    -70.544135,
+    43.386824
+],
   "geometry": {"coordinates":[-70.544135,43.386824],"type":"Point"}
 }

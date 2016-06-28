@@ -2,13 +2,14 @@
   "id": 387595451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.251401,45.177683,-67.251401,45.177683",
     "geom:latitude":45.177683,
     "geom:longitude":-67.251401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Main St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387595451,
-    "wof:lastmodified":1449059548,
+    "wof:lastmodified":1466586278,
     "wof:name":"Calais Bookshop",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-67.251401,45.177683,-67.251401,45.177683],
+  "bbox": [
+    -67.251401,
+    45.177683,
+    -67.251401,
+    45.177683
+],
   "geometry": {"coordinates":[-67.251401,45.177683],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404181359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.19908,44.101828,-70.19908,44.101828",
     "geom:latitude":44.101828,
     "geom:longitude":-70.19908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Campus Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404181359,
-    "wof:lastmodified":1449039840,
+    "wof:lastmodified":1466586838,
     "wof:name":"Robinson Carl MD",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-70.19908,44.101828,-70.19908,44.101828],
+  "bbox": [
+    -70.19908,
+    44.101828,
+    -70.19908,
+    44.101828
+],
   "geometry": {"coordinates":[-70.19908,44.101828],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387798629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.877067,43.806459,-70.877067,43.806459",
     "geom:latitude":43.806459,
     "geom:longitude":-70.877067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Federal St",
     "sg:city":"Parsonsfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387798629,
-    "wof:lastmodified":1449056807,
+    "wof:lastmodified":1466586936,
     "wof:name":"Kezar Falls Auto Parts",
     "wof:parent_id":85849757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-70.877067,43.806459,-70.877067,43.806459],
+  "bbox": [
+    -70.877067,
+    43.806459,
+    -70.877067,
+    43.806459
+],
   "geometry": {"coordinates":[-70.877067,43.806459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403985087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.28806,43.956127,-70.28806,43.956127",
     "geom:latitude":43.956127,
     "geom:longitude":-70.28806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Gloucester Hill Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403985087,
-    "wof:lastmodified":1449055297,
+    "wof:lastmodified":1466587241,
     "wof:name":"Opportunity Farm For Boys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "welfare"
     ]
 },
-  "bbox": [-70.28806,43.956127,-70.28806,43.956127],
+  "bbox": [
+    -70.28806,
+    43.956127,
+    -70.28806,
+    43.956127
+],
   "geometry": {"coordinates":[-70.28806,43.956127],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387871953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.934976,47.157028,-67.934976,47.157028",
     "geom:latitude":47.157028,
     "geom:longitude":-67.934976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Main St",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387871953,
-    "wof:lastmodified":1449057349,
+    "wof:lastmodified":1466587291,
     "wof:name":"Phil's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.934976,47.157028,-67.934976,47.157028],
-  "geometry": {"coordinates":[-67.934976,47.157028],"type":"Point"}
+  "bbox": [
+    -67.934976,
+    47.157028,
+    -67.934976,
+    47.157028
+],
+  "geometry": {"coordinates":[-67.93497600000001,47.157028],"type":"Point"}
 }

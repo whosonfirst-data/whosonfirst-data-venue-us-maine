@@ -2,13 +2,14 @@
   "id": 404153881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.243817,43.647798,-70.243817,43.647798",
     "geom:latitude":43.647798,
     "geom:longitude":-70.243817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Pine St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404153881,
-    "wof:lastmodified":1449039956,
+    "wof:lastmodified":1466586741,
     "wof:name":"Rent A Painter",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-70.243817,43.647798,-70.243817,43.647798],
-  "geometry": {"coordinates":[-70.243817,43.647798],"type":"Point"}
+  "bbox": [
+    -70.243817,
+    43.647798,
+    -70.243817,
+    43.647798
+],
+  "geometry": {"coordinates":[-70.24381700000001,43.647798],"type":"Point"}
 }

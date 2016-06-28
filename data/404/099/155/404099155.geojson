@@ -2,13 +2,14 @@
   "id": 404099155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.250727,44.082475,-70.250727,44.082475",
     "geom:latitude":44.082475,
     "geom:longitude":-70.250727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"637 Minot Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404099155,
-    "wof:lastmodified":1449039915,
+    "wof:lastmodified":1466585986,
     "wof:name":"Huber Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-70.250727,44.082475,-70.250727,44.082475],
+  "bbox": [
+    -70.250727,
+    44.082475,
+    -70.250727,
+    44.082475
+],
   "geometry": {"coordinates":[-70.250727,44.082475],"type":"Point"}
 }

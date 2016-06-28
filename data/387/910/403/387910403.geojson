@@ -2,13 +2,14 @@
   "id": 387910403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.788056,44.29102,-69.788056,44.29102",
     "geom:latitude":44.29102,
     "geom:longitude":-69.788056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Water St",
     "sg:city":"Hallowell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387910403,
-    "wof:lastmodified":1449057693,
+    "wof:lastmodified":1466587249,
     "wof:name":"Maine Bar Foundation",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.788056,44.29102,-69.788056,44.29102],
+  "bbox": [
+    -69.788056,
+    44.29102,
+    -69.788056,
+    44.29102
+],
   "geometry": {"coordinates":[-69.788056,44.29102],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403772855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.778593,44.312701,-69.778593,44.312701",
     "geom:latitude":44.312701,
     "geom:longitude":-69.778593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 State St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403772855,
-    "wof:lastmodified":1449055231,
+    "wof:lastmodified":1466586570,
     "wof:name":"Augusta Orthodontics",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-69.778593,44.312701,-69.778593,44.312701],
+  "bbox": [
+    -69.778593,
+    44.312701,
+    -69.778593,
+    44.312701
+],
   "geometry": {"coordinates":[-69.778593,44.312701],"type":"Point"}
 }

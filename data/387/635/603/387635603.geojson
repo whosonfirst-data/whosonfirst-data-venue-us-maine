@@ -2,13 +2,14 @@
   "id": 387635603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.650634,44.933552,-68.650634,44.933552",
     "geom:latitude":44.933552,
     "geom:longitude":-68.650634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"278 Center St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387635603,
-    "wof:lastmodified":1449057757,
+    "wof:lastmodified":1466585850,
     "wof:name":"General Rental Ctr",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-68.650634,44.933552,-68.650634,44.933552],
+  "bbox": [
+    -68.650634,
+    44.933552,
+    -68.650634,
+    44.933552
+],
   "geometry": {"coordinates":[-68.650634,44.933552],"type":"Point"}
 }

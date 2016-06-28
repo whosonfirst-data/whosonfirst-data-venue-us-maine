@@ -2,13 +2,14 @@
   "id": 403923115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.100557,43.983697,-70.100557,43.983697",
     "geom:latitude":43.983697,
     "geom:longitude":-70.100557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"473 Newell Brook Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403923115,
-    "wof:lastmodified":1449055901,
+    "wof:lastmodified":1466586916,
     "wof:name":"Imagination Plus",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-70.100557,43.983697,-70.100557,43.983697],
-  "geometry": {"coordinates":[-70.100557,43.983697],"type":"Point"}
+  "bbox": [
+    -70.100557,
+    43.983697,
+    -70.100557,
+    43.983697
+],
+  "geometry": {"coordinates":[-70.10055699999999,43.983697],"type":"Point"}
 }

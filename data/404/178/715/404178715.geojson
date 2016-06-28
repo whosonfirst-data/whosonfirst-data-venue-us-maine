@@ -2,13 +2,14 @@
   "id": 404178715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.266544,44.194308,-69.266544,44.194308",
     "geom:latitude":44.194308,
     "geom:longitude":-69.266544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Middle Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404178715,
-    "wof:lastmodified":1449039988,
+    "wof:lastmodified":1466586910,
     "wof:name":"Bergey Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-69.266544,44.194308,-69.266544,44.194308],
+  "bbox": [
+    -69.266544,
+    44.194308,
+    -69.266544,
+    44.194308
+],
   "geometry": {"coordinates":[-69.266544,44.194308],"type":"Point"}
 }

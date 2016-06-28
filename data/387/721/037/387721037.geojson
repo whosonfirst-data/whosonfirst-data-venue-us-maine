@@ -2,13 +2,14 @@
   "id": 387721037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.087877,44.221511,-69.087877,44.221511",
     "geom:latitude":44.221511,
     "geom:longitude":-69.087877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Pleasant Ridge Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387721037,
-    "wof:lastmodified":1449059911,
+    "wof:lastmodified":1466586804,
     "wof:name":"Tess Gerritsen Co",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.087877,44.221511,-69.087877,44.221511],
-  "geometry": {"coordinates":[-69.087877,44.221511],"type":"Point"}
+  "bbox": [
+    -69.087877,
+    44.221511,
+    -69.087877,
+    44.221511
+],
+  "geometry": {"coordinates":[-69.08787700000001,44.221511],"type":"Point"}
 }

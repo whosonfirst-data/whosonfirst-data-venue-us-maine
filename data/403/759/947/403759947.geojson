@@ -2,13 +2,14 @@
   "id": 403759947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.629325,44.574023,-69.629325,44.574023",
     "geom:latitude":44.574023,
     "geom:longitude":-69.629325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Industrial St",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403759947,
-    "wof:lastmodified":1449055990,
+    "wof:lastmodified":1466586390,
     "wof:name":"Maine Water Works Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-69.629325,44.574023,-69.629325,44.574023],
-  "geometry": {"coordinates":[-69.629325,44.574023],"type":"Point"}
+  "bbox": [
+    -69.629325,
+    44.574023,
+    -69.629325,
+    44.574023
+],
+  "geometry": {"coordinates":[-69.62932499999999,44.574023],"type":"Point"}
 }

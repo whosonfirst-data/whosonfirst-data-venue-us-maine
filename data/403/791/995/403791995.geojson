@@ -2,13 +2,14 @@
   "id": 403791995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.38153,43.582799,-70.38153,43.582799",
     "geom:latitude":43.582799,
     "geom:longitude":-70.38153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Payne Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403791995,
-    "wof:lastmodified":1449055659,
+    "wof:lastmodified":1466585834,
     "wof:name":"Flaherty Family Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.38153,43.582799,-70.38153,43.582799],
+  "bbox": [
+    -70.38153,
+    43.582799,
+    -70.38153,
+    43.582799
+],
   "geometry": {"coordinates":[-70.38153,43.582799],"type":"Point"}
 }

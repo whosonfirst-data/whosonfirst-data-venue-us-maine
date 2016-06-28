@@ -2,13 +2,14 @@
   "id": 404046321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.286523,45.169498,-67.286523,45.169498",
     "geom:latitude":45.169498,
     "geom:longitude":-67.286523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 School St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404046321,
-    "wof:lastmodified":1449039803,
+    "wof:lastmodified":1466586236,
     "wof:name":"General Grnd Chpter Estrn Star",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.286523,45.169498,-67.286523,45.169498],
+  "bbox": [
+    -67.286523,
+    45.169498,
+    -67.286523,
+    45.169498
+],
   "geometry": {"coordinates":[-67.286523,45.169498],"type":"Point"}
 }

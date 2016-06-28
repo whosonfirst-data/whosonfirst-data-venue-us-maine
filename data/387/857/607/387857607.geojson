@@ -2,13 +2,14 @@
   "id": 387857607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.551615,44.556867,-70.551615,44.556867",
     "geom:latitude":44.556867,
     "geom:longitude":-70.551615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 Waldo St",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387857607,
-    "wof:lastmodified":1449058577,
+    "wof:lastmodified":1466587255,
     "wof:name":"Rusty's Auto & Truck Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.551615,44.556867,-70.551615,44.556867],
+  "bbox": [
+    -70.551615,
+    44.556867,
+    -70.551615,
+    44.556867
+],
   "geometry": {"coordinates":[-70.551615,44.556867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403769779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.38584,43.827571,-70.38584,43.827571",
     "geom:latitude":43.827571,
     "geom:longitude":-70.38584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 Gray Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403769779,
-    "wof:lastmodified":1449055071,
+    "wof:lastmodified":1466586527,
     "wof:name":"Onsite Auto Glass",
     "wof:parent_id":85847399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-70.38584,43.827571,-70.38584,43.827571],
+  "bbox": [
+    -70.38584,
+    43.827571,
+    -70.38584,
+    43.827571
+],
   "geometry": {"coordinates":[-70.38584,43.827571],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404011957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.858982,44.773388,-68.858982,44.773388",
     "geom:latitude":44.773388,
     "geom:longitude":-68.858982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"366 Coldbrook Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404011957,
-    "wof:lastmodified":1449040080,
+    "wof:lastmodified":1466585819,
     "wof:name":"Dysart Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.858982,44.773388,-68.858982,44.773388],
+  "bbox": [
+    -68.858982,
+    44.773388,
+    -68.858982,
+    44.773388
+],
   "geometry": {"coordinates":[-68.858982,44.773388],"type":"Point"}
 }

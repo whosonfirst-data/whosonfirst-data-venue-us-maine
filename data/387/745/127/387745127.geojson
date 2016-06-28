@@ -2,13 +2,14 @@
   "id": 387745127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.596285,44.585459,-69.596285,44.585459",
     "geom:latitude":44.585459,
     "geom:longitude":-69.596285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Main St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387745127,
-    "wof:lastmodified":1449059749,
+    "wof:lastmodified":1466586794,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.596285,44.585459,-69.596285,44.585459],
-  "geometry": {"coordinates":[-69.596285,44.585459],"type":"Point"}
+  "bbox": [
+    -69.596285,
+    44.585459,
+    -69.596285,
+    44.585459
+],
+  "geometry": {"coordinates":[-69.59628499999999,44.585459],"type":"Point"}
 }

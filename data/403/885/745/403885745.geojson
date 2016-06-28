@@ -2,13 +2,14 @@
   "id": 403885745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.032127,44.278336,-70.032127,44.278336",
     "geom:latitude":44.278336,
     "geom:longitude":-70.032127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Morse Rd",
     "sg:city":"North Monmouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403885745,
-    "wof:lastmodified":1449055349,
+    "wof:lastmodified":1466586760,
     "wof:name":"Pet Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "washing"
     ]
 },
-  "bbox": [-70.032127,44.278336,-70.032127,44.278336],
+  "bbox": [
+    -70.032127,
+    44.278336,
+    -70.032127,
+    44.278336
+],
   "geometry": {"coordinates":[-70.032127,44.278336],"type":"Point"}
 }

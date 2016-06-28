@@ -2,13 +2,14 @@
   "id": 387757909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.451687,44.561775,-68.451687,44.561775",
     "geom:latitude":44.561775,
     "geom:longitude":-68.451687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Christian Ridge Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387757909,
-    "wof:lastmodified":1449058254,
+    "wof:lastmodified":1466586919,
     "wof:name":"Straight Cut Painting Inc",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.451687,44.561775,-68.451687,44.561775],
-  "geometry": {"coordinates":[-68.451687,44.561775],"type":"Point"}
+  "bbox": [
+    -68.451687,
+    44.561775,
+    -68.451687,
+    44.561775
+],
+  "geometry": {"coordinates":[-68.45168700000001,44.561775],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387852603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.305659,43.71073,-70.305659,43.71073",
     "geom:latitude":43.71073,
     "geom:longitude":-70.305659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Riverside Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387852603,
-    "wof:lastmodified":1449059277,
+    "wof:lastmodified":1466587159,
     "wof:name":"Baer Supply",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "laminating"
     ]
 },
-  "bbox": [-70.305659,43.71073,-70.305659,43.71073],
-  "geometry": {"coordinates":[-70.305659,43.71073],"type":"Point"}
+  "bbox": [
+    -70.305659,
+    43.71073,
+    -70.305659,
+    43.71073
+],
+  "geometry": {"coordinates":[-70.30565900000001,43.71073],"type":"Point"}
 }

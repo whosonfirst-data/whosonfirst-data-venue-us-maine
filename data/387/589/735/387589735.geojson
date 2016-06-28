@@ -2,13 +2,14 @@
   "id": 387589735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.207338,44.380895,-68.207338,44.380895",
     "geom:latitude":44.380895,
     "geom:longitude":-68.207338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Glen Mary Rd",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387589735,
-    "wof:lastmodified":1449058143,
+    "wof:lastmodified":1466586183,
     "wof:name":"Thin Man Design",
     "wof:parent_id":85803817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-68.207338,44.380895,-68.207338,44.380895],
-  "geometry": {"coordinates":[-68.207338,44.380895],"type":"Point"}
+  "bbox": [
+    -68.207338,
+    44.380895,
+    -68.207338,
+    44.380895
+],
+  "geometry": {"coordinates":[-68.20733799999999,44.380895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387795531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.152448,44.672078,-70.152448,44.672078",
     "geom:latitude":44.672078,
     "geom:longitude":-70.152448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387795531,
-    "wof:lastmodified":1449058358,
+    "wof:lastmodified":1466587026,
     "wof:name":"Community Concepts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rental"
     ]
 },
-  "bbox": [-70.152448,44.672078,-70.152448,44.672078],
-  "geometry": {"coordinates":[-70.152448,44.672078],"type":"Point"}
+  "bbox": [
+    -70.152448,
+    44.672078,
+    -70.152448,
+    44.672078
+],
+  "geometry": {"coordinates":[-70.15244800000001,44.672078],"type":"Point"}
 }

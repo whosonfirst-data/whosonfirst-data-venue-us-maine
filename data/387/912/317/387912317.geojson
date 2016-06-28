@@ -2,13 +2,14 @@
   "id": 387912317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.022396,46.857638,-68.022396,46.857638",
     "geom:latitude":46.857638,
     "geom:longitude":-68.022396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Willow Dr",
     "sg:city":"Littleton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387912317,
-    "wof:lastmodified":1449057983,
+    "wof:lastmodified":1466587250,
     "wof:name":"Arnold Bartlett & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "potato"
     ]
 },
-  "bbox": [-68.022396,46.857638,-68.022396,46.857638],
+  "bbox": [
+    -68.022396,
+    46.857638,
+    -68.022396,
+    46.857638
+],
   "geometry": {"coordinates":[-68.022396,46.857638],"type":"Point"}
 }

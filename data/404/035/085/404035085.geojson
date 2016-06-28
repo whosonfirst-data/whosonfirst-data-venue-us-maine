@@ -2,13 +2,14 @@
   "id": 404035085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.817928,43.864129,-69.817928,43.864129",
     "geom:latitude":43.864129,
     "geom:longitude":-69.817928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Main Rd",
     "sg:city":"Phippsburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404035085,
-    "wof:lastmodified":1449040061,
+    "wof:lastmodified":1466586663,
     "wof:name":"Rice's Piano Svc",
     "wof:parent_id":85858289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-69.817928,43.864129,-69.817928,43.864129],
-  "geometry": {"coordinates":[-69.817928,43.864129],"type":"Point"}
+  "bbox": [
+    -69.817928,
+    43.864129,
+    -69.817928,
+    43.864129
+],
+  "geometry": {"coordinates":[-69.81792799999999,43.864129],"type":"Point"}
 }

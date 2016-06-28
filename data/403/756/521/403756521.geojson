@@ -2,13 +2,14 @@
   "id": 403756521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.589515,47.248574,-68.589515,47.248574",
     "geom:latitude":47.248574,
     "geom:longitude":-68.589515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 School St",
     "sg:city":"Fort Kent",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403756521,
-    "wof:lastmodified":1449055446,
+    "wof:lastmodified":1466586342,
     "wof:name":"Hair Clipper",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.589515,47.248574,-68.589515,47.248574],
-  "geometry": {"coordinates":[-68.589515,47.248574],"type":"Point"}
+  "bbox": [
+    -68.589515,
+    47.248574,
+    -68.589515,
+    47.248574
+],
+  "geometry": {"coordinates":[-68.58951500000001,47.248574],"type":"Point"}
 }

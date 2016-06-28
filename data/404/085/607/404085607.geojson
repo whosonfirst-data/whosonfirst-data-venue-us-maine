@@ -2,13 +2,14 @@
   "id": 404085607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.364041,43.739053,-70.364041,43.739053",
     "geom:latitude":43.739053,
     "geom:longitude":-70.364041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Merrill Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404085607,
-    "wof:lastmodified":1449039343,
+    "wof:lastmodified":1466585817,
     "wof:name":"Duvernay Reporting",
     "wof:parent_id":85825127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "reporter"
     ]
 },
-  "bbox": [-70.364041,43.739053,-70.364041,43.739053],
+  "bbox": [
+    -70.364041,
+    43.739053,
+    -70.364041,
+    43.739053
+],
   "geometry": {"coordinates":[-70.364041,43.739053],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403787171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.423417,43.837493,-70.423417,43.837493",
     "geom:latitude":43.837493,
     "geom:longitude":-70.423417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 State Rte 115",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403787171,
-    "wof:lastmodified":1449055242,
+    "wof:lastmodified":1466586631,
     "wof:name":"Clayton C Crummett Bookbinders",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookbinder"
     ]
 },
-  "bbox": [-70.423417,43.837493,-70.423417,43.837493],
+  "bbox": [
+    -70.423417,
+    43.837493,
+    -70.423417,
+    43.837493
+],
   "geometry": {"coordinates":[-70.423417,43.837493],"type":"Point"}
 }

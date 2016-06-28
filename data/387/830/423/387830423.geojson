@@ -2,13 +2,14 @@
   "id": 387830423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.15864,44.168083,-69.15864,44.168083",
     "geom:latitude":44.168083,
     "geom:longitude":-69.15864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Farwell Dr",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387830423,
-    "wof:lastmodified":1449056907,
+    "wof:lastmodified":1466587201,
     "wof:name":"Antique Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-69.15864,44.168083,-69.15864,44.168083],
-  "geometry": {"coordinates":[-69.15864,44.168083],"type":"Point"}
+  "bbox": [
+    -69.15864,
+    44.168083,
+    -69.15864,
+    44.168083
+],
+  "geometry": {"coordinates":[-69.15864000000001,44.168083],"type":"Point"}
 }

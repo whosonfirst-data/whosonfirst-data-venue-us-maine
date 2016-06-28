@@ -2,13 +2,14 @@
   "id": 403932399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.336112,43.710992,-70.336112,43.710992",
     "geom:latitude":43.710992,
     "geom:longitude":-70.336112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Pride St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403932399,
-    "wof:lastmodified":1449055121,
+    "wof:lastmodified":1466587029,
     "wof:name":"Yellow Dog Pet Sitting Svc",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-70.336112,43.710992,-70.336112,43.710992],
+  "bbox": [
+    -70.336112,
+    43.710992,
+    -70.336112,
+    43.710992
+],
   "geometry": {"coordinates":[-70.336112,43.710992],"type":"Point"}
 }

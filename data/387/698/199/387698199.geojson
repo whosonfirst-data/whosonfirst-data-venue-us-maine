@@ -2,13 +2,14 @@
   "id": 387698199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.28824,43.6707,-70.28824,43.6707",
     "geom:latitude":43.6707,
     "geom:longitude":-70.28824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Woodford St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387698199,
-    "wof:lastmodified":1449059685,
+    "wof:lastmodified":1466586653,
     "wof:name":"Woodfords Congregational Chr",
     "wof:parent_id":85858627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.28824,43.6707,-70.28824,43.6707],
+  "bbox": [
+    -70.28824,
+    43.6707,
+    -70.28824,
+    43.6707
+],
   "geometry": {"coordinates":[-70.28824,43.6707],"type":"Point"}
 }

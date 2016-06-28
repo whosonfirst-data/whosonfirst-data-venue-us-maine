@@ -2,13 +2,14 @@
   "id": 387783967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.792698,44.336683,-69.792698,44.336683",
     "geom:latitude":44.336683,
     "geom:longitude":-69.792698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Civic Center Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387783967,
-    "wof:lastmodified":1449056243,
+    "wof:lastmodified":1466587009,
     "wof:name":"Big Apple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-69.792698,44.336683,-69.792698,44.336683],
+  "bbox": [
+    -69.792698,
+    44.336683,
+    -69.792698,
+    44.336683
+],
   "geometry": {"coordinates":[-69.792698,44.336683],"type":"Point"}
 }

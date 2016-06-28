@@ -2,13 +2,14 @@
   "id": 387559389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.857628,44.492114,-67.857628,44.492114",
     "geom:latitude":44.492114,
     "geom:longitude":-67.857628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Wyman Rd",
     "sg:city":"Milbridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387559389,
-    "wof:lastmodified":1449059081,
+    "wof:lastmodified":1466585757,
     "wof:name":"H C Rolfe & Sons Auto Parts",
     "wof:parent_id":85859219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-67.857628,44.492114,-67.857628,44.492114],
-  "geometry": {"coordinates":[-67.857628,44.492114],"type":"Point"}
+  "bbox": [
+    -67.857628,
+    44.492114,
+    -67.857628,
+    44.492114
+],
+  "geometry": {"coordinates":[-67.85762800000001,44.492114],"type":"Point"}
 }

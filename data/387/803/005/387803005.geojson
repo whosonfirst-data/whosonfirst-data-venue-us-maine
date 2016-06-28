@@ -2,13 +2,14 @@
   "id": 387803005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.082708,44.051596,-69.082708,44.051596",
     "geom:latitude":44.051596,
     "geom:longitude":-69.082708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Canns Beach Rd",
     "sg:city":"Owls Head",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387803005,
-    "wof:lastmodified":1449059964,
+    "wof:lastmodified":1466586958,
     "wof:name":"F/V Perseverance",
     "wof:parent_id":85803709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fishing"
     ]
 },
-  "bbox": [-69.082708,44.051596,-69.082708,44.051596],
+  "bbox": [
+    -69.082708,
+    44.051596,
+    -69.082708,
+    44.051596
+],
   "geometry": {"coordinates":[-69.082708,44.051596],"type":"Point"}
 }

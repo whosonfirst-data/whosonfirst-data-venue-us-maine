@@ -2,13 +2,14 @@
   "id": 387686497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.128911,44.234562,-70.128911,44.234562",
     "geom:latitude":44.234562,
     "geom:longitude":-70.128911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Quaker Ridge Rd",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387686497,
-    "wof:lastmodified":1449058987,
+    "wof:lastmodified":1466586545,
     "wof:name":"Melanson Plumbing and Heating",
     "wof:parent_id":85849829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "heating"
     ]
 },
-  "bbox": [-70.128911,44.234562,-70.128911,44.234562],
+  "bbox": [
+    -70.128911,
+    44.234562,
+    -70.128911,
+    44.234562
+],
   "geometry": {"coordinates":[-70.128911,44.234562],"type":"Point"}
 }

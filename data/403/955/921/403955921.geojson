@@ -2,13 +2,14 @@
   "id": 403955921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.854857,44.946363,-69.854857,44.946363",
     "geom:latitude":44.946363,
     "geom:longitude":-69.854857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 S Main St",
     "sg:city":"Solon",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":403955921,
-    "wof:lastmodified":1449055532,
+    "wof:lastmodified":1466587079,
     "wof:name":"Solon Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.854857,44.946363,-69.854857,44.946363],
+  "bbox": [
+    -69.854857,
+    44.946363,
+    -69.854857,
+    44.946363
+],
   "geometry": {"coordinates":[-69.854857,44.946363],"type":"Point"}
 }

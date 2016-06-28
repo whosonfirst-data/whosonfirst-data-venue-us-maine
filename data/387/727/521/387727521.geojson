@@ -2,13 +2,14 @@
   "id": 387727521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.801668,44.714493,-69.801668,44.714493",
     "geom:latitude":44.714493,
     "geom:longitude":-69.801668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Upper Main St",
     "sg:city":"Norridgewock",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387727521,
-    "wof:lastmodified":1449056679,
+    "wof:lastmodified":1466586828,
     "wof:name":"Bolduc Butch Heating & Plbg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-69.801668,44.714493,-69.801668,44.714493],
-  "geometry": {"coordinates":[-69.801668,44.714493],"type":"Point"}
+  "bbox": [
+    -69.801668,
+    44.714493,
+    -69.801668,
+    44.714493
+],
+  "geometry": {"coordinates":[-69.80166800000001,44.714493],"type":"Point"}
 }

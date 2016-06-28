@@ -2,13 +2,14 @@
   "id": 387849829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.226315,43.629888,-70.226315,43.629888",
     "geom:latitude":43.629888,
     "geom:longitude":-70.226315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Oceanview Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387849829,
-    "wof:lastmodified":1449056801,
+    "wof:lastmodified":1466587059,
     "wof:name":"Harris & Harris",
     "wof:parent_id":85867975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.226315,43.629888,-70.226315,43.629888],
+  "bbox": [
+    -70.226315,
+    43.629888,
+    -70.226315,
+    43.629888
+],
   "geometry": {"coordinates":[-70.226315,43.629888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403964735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.838097,43.948776,-69.838097,43.948776",
     "geom:latitude":43.948776,
     "geom:longitude":-69.838097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 N Bath Rd",
     "sg:city":"West Bath",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403964735,
-    "wof:lastmodified":1449055631,
+    "wof:lastmodified":1466587124,
     "wof:name":"Sanford's Auto Body",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-69.838097,43.948776,-69.838097,43.948776],
+  "bbox": [
+    -69.838097,
+    43.948776,
+    -69.838097,
+    43.948776
+],
   "geometry": {"coordinates":[-69.838097,43.948776],"type":"Point"}
 }

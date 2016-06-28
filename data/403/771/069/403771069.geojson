@@ -2,13 +2,14 @@
   "id": 403771069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.000908,46.686557,-68.000908,46.686557",
     "geom:latitude":46.686557,
     "geom:longitude":-68.000908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Lombard St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403771069,
-    "wof:lastmodified":1449055353,
+    "wof:lastmodified":1466586680,
     "wof:name":"Chez Cecile Beauty Salon",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.000908,46.686557,-68.000908,46.686557],
+  "bbox": [
+    -68.000908,
+    46.686557,
+    -68.000908,
+    46.686557
+],
   "geometry": {"coordinates":[-68.000908,46.686557],"type":"Point"}
 }

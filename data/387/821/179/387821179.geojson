@@ -2,13 +2,14 @@
   "id": 387821179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.408631,44.113547,-70.408631,44.113547",
     "geom:latitude":44.113547,
     "geom:longitude":-70.408631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Pleasant St",
     "sg:city":"Mechanic Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387821179,
-    "wof:lastmodified":1449058186,
+    "wof:lastmodified":1466587102,
     "wof:name":"Follow Yellow Brick Road Dycr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.408631,44.113547,-70.408631,44.113547],
+  "bbox": [
+    -70.408631,
+    44.113547,
+    -70.408631,
+    44.113547
+],
   "geometry": {"coordinates":[-70.408631,44.113547],"type":"Point"}
 }

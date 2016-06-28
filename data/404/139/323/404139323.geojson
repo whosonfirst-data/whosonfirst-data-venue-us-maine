@@ -2,13 +2,14 @@
   "id": 404139323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.774683,44.313689,-69.774683,44.313689",
     "geom:latitude":44.313689,
     "geom:longitude":-69.774683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Water St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404139323,
-    "wof:lastmodified":1449039131,
+    "wof:lastmodified":1466586591,
     "wof:name":"Economic Management Svc",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-69.774683,44.313689,-69.774683,44.313689],
+  "bbox": [
+    -69.774683,
+    44.313689,
+    -69.774683,
+    44.313689
+],
   "geometry": {"coordinates":[-69.774683,44.313689],"type":"Point"}
 }

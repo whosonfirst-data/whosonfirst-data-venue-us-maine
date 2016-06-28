@@ -2,13 +2,14 @@
   "id": 404165345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.254575,43.6547,-70.254575,43.6547",
     "geom:latitude":43.6547,
     "geom:longitude":-70.254575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Commercial St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404165345,
-    "wof:lastmodified":1449040330,
+    "wof:lastmodified":1466586781,
     "wof:name":"Macomber Inc",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-70.254575,43.6547,-70.254575,43.6547],
+  "bbox": [
+    -70.254575,
+    43.6547,
+    -70.254575,
+    43.6547
+],
   "geometry": {"coordinates":[-70.254575,43.6547],"type":"Point"}
 }

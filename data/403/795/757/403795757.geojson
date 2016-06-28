@@ -2,13 +2,14 @@
   "id": 403795757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.600655,44.583037,-69.600655,44.583037",
     "geom:latitude":44.583037,
     "geom:longitude":-69.600655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Main St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403795757,
-    "wof:lastmodified":1449055434,
+    "wof:lastmodified":1466585885,
     "wof:name":"Al's Car Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-69.600655,44.583037,-69.600655,44.583037],
+  "bbox": [
+    -69.600655,
+    44.583037,
+    -69.600655,
+    44.583037
+],
   "geometry": {"coordinates":[-69.600655,44.583037],"type":"Point"}
 }

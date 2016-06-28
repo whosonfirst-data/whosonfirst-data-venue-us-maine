@@ -2,13 +2,14 @@
   "id": 403877135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.773852,44.4167,-70.773852,44.4167",
     "geom:latitude":44.4167,
     "geom:longitude":-70.773852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 Walkers Mill Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403877135,
-    "wof:lastmodified":1449055543,
+    "wof:lastmodified":1466586831,
     "wof:name":"D & E Sanitation Svc",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-70.773852,44.4167,-70.773852,44.4167],
-  "geometry": {"coordinates":[-70.773852,44.4167],"type":"Point"}
+  "bbox": [
+    -70.773852,
+    44.4167,
+    -70.773852,
+    44.4167
+],
+  "geometry": {"coordinates":[-70.77385200000001,44.4167],"type":"Point"}
 }

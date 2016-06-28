@@ -2,13 +2,14 @@
   "id": 403912581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.715297,45.653595,-68.715297,45.653595",
     "geom:latitude":45.653595,
     "geom:longitude":-68.715297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Spruce St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403912581,
-    "wof:lastmodified":1449055287,
+    "wof:lastmodified":1466586952,
     "wof:name":"William R Jenkins MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-68.715297,45.653595,-68.715297,45.653595],
-  "geometry": {"coordinates":[-68.715297,45.653595],"type":"Point"}
+  "bbox": [
+    -68.715297,
+    45.653595,
+    -68.715297,
+    45.653595
+],
+  "geometry": {"coordinates":[-68.71529700000001,45.653595],"type":"Point"}
 }

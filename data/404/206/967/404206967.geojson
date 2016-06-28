@@ -2,13 +2,14 @@
   "id": 404206967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.211638,44.105087,-70.211638,44.105087",
     "geom:latitude":44.105087,
     "geom:longitude":-70.211638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":404206967,
-    "wof:lastmodified":1449039954,
+    "wof:lastmodified":1466586945,
     "wof:name":"New Beginnings Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-70.211638,44.105087,-70.211638,44.105087],
-  "geometry": {"coordinates":[-70.211638,44.105087],"type":"Point"}
+  "bbox": [
+    -70.211638,
+    44.105087,
+    -70.211638,
+    44.105087
+],
+  "geometry": {"coordinates":[-70.21163799999999,44.105087],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404158771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.495168,44.042402,-70.495168,44.042402",
     "geom:latitude":44.042402,
     "geom:longitude":-70.495168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Wayaka Ln",
     "sg:city":"Otisfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404158771,
-    "wof:lastmodified":1449039931,
+    "wof:lastmodified":1466586753,
     "wof:name":"Vigue Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "home"
     ]
 },
-  "bbox": [-70.495168,44.042402,-70.495168,44.042402],
-  "geometry": {"coordinates":[-70.495168,44.042402],"type":"Point"}
+  "bbox": [
+    -70.495168,
+    44.042402,
+    -70.495168,
+    44.042402
+],
+  "geometry": {"coordinates":[-70.49516800000001,44.042402],"type":"Point"}
 }

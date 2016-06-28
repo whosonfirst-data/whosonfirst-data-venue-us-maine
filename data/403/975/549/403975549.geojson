@@ -2,13 +2,14 @@
   "id": 403975549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.88851,43.805798,-70.88851,43.805798",
     "geom:latitude":43.805798,
     "geom:longitude":-70.88851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Elm St",
     "sg:city":"Parsonsfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403975549,
-    "wof:lastmodified":1449055783,
+    "wof:lastmodified":1466587047,
     "wof:name":"Posy Patch",
     "wof:parent_id":85849757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.88851,43.805798,-70.88851,43.805798],
+  "bbox": [
+    -70.88851,
+    43.805798,
+    -70.88851,
+    43.805798
+],
   "geometry": {"coordinates":[-70.88851,43.805798],"type":"Point"}
 }

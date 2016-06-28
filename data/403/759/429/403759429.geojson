@@ -2,13 +2,14 @@
   "id": 403759429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.760817,44.827433,-68.760817,44.827433",
     "geom:latitude":44.827433,
     "geom:longitude":-68.760817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Carrie Ct",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403759429,
-    "wof:lastmodified":1449055992,
+    "wof:lastmodified":1466586383,
     "wof:name":"Monty Rand Photography",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commercial"
     ]
 },
-  "bbox": [-68.760817,44.827433,-68.760817,44.827433],
+  "bbox": [
+    -68.760817,
+    44.827433,
+    -68.760817,
+    44.827433
+],
   "geometry": {"coordinates":[-68.760817,44.827433],"type":"Point"}
 }

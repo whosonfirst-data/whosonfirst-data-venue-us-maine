@@ -2,13 +2,14 @@
   "id": 387824271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.475999,43.830223,-70.475999,43.830223",
     "geom:latitude":43.830223,
     "geom:longitude":-70.475999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Hearthside Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387824271,
-    "wof:lastmodified":1449057453,
+    "wof:lastmodified":1466587185,
     "wof:name":"Site Of Downeast Networking",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.475999,43.830223,-70.475999,43.830223],
+  "bbox": [
+    -70.475999,
+    43.830223,
+    -70.475999,
+    43.830223
+],
   "geometry": {"coordinates":[-70.475999,43.830223],"type":"Point"}
 }

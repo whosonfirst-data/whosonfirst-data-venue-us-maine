@@ -2,13 +2,14 @@
   "id": 404147311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.766501,44.816737,-68.766501,44.816737",
     "geom:latitude":44.816737,
     "geom:longitude":-68.766501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Milford St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404147311,
-    "wof:lastmodified":1449040193,
+    "wof:lastmodified":1466586711,
     "wof:name":"Chez Cheveux",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.766501,44.816737,-68.766501,44.816737],
-  "geometry": {"coordinates":[-68.766501,44.816737],"type":"Point"}
+  "bbox": [
+    -68.766501,
+    44.816737,
+    -68.766501,
+    44.816737
+],
+  "geometry": {"coordinates":[-68.76650100000001,44.816737],"type":"Point"}
 }

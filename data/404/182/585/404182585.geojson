@@ -2,13 +2,14 @@
   "id": 404182585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.104244,43.861591,-70.104244,43.861591",
     "geom:latitude":43.861591,
     "geom:longitude":-70.104244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Mallet Dr",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404182585,
-    "wof:lastmodified":1449039890,
+    "wof:lastmodified":1466586857,
     "wof:name":"Tracy Mc Callum",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-70.104244,43.861591,-70.104244,43.861591],
-  "geometry": {"coordinates":[-70.104244,43.861591],"type":"Point"}
+  "bbox": [
+    -70.104244,
+    43.861591,
+    -70.104244,
+    43.861591
+],
+  "geometry": {"coordinates":[-70.10424399999999,43.861591],"type":"Point"}
 }

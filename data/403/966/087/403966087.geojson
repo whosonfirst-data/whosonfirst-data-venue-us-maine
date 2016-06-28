@@ -2,13 +2,14 @@
   "id": 403966087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.21941,44.808568,-70.21941,44.808568",
     "geom:latitude":44.808568,
     "geom:longitude":-70.21941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Stewart Dr",
     "sg:city":"Corinna",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403966087,
-    "wof:lastmodified":1449054635,
+    "wof:lastmodified":1466587196,
     "wof:name":"Corinna Town Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-70.21941,44.808568,-70.21941,44.808568],
+  "bbox": [
+    -70.21941,
+    44.808568,
+    -70.21941,
+    44.808568
+],
   "geometry": {"coordinates":[-70.21941,44.808568],"type":"Point"}
 }

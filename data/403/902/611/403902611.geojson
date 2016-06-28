@@ -2,13 +2,14 @@
   "id": 403902611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.326509,43.872386,-70.326509,43.872386",
     "geom:latitude":43.872386,
     "geom:longitude":-70.326509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Portland Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403902611,
-    "wof:lastmodified":1449055602,
+    "wof:lastmodified":1466586928,
     "wof:name":"Carl Nitz Landscapes & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-70.326509,43.872386,-70.326509,43.872386],
+  "bbox": [
+    -70.326509,
+    43.872386,
+    -70.326509,
+    43.872386
+],
   "geometry": {"coordinates":[-70.326509,43.872386],"type":"Point"}
 }

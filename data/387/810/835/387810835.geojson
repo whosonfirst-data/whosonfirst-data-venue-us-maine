@@ -2,13 +2,14 @@
   "id": 387810835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.191934,44.145325,-70.191934,44.145325",
     "geom:latitude":44.145325,
     "geom:longitude":-70.191934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387810835,
-    "wof:lastmodified":1449057203,
+    "wof:lastmodified":1466587087,
     "wof:name":"Carol Ann's Daycare",
     "wof:parent_id":85819719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.191934,44.145325,-70.191934,44.145325],
+  "bbox": [
+    -70.191934,
+    44.145325,
+    -70.191934,
+    44.145325
+],
   "geometry": {"coordinates":[-70.191934,44.145325],"type":"Point"}
 }

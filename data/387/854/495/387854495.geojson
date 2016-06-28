@@ -2,13 +2,14 @@
   "id": 387854495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.188338,44.096998,-70.188338,44.096998",
     "geom:latitude":44.096998,
     "geom:longitude":-70.188338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Charles St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387854495,
-    "wof:lastmodified":1449059778,
+    "wof:lastmodified":1466587169,
     "wof:name":"Mattys Music",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-70.188338,44.096998,-70.188338,44.096998],
+  "bbox": [
+    -70.188338,
+    44.096998,
+    -70.188338,
+    44.096998
+],
   "geometry": {"coordinates":[-70.188338,44.096998],"type":"Point"}
 }

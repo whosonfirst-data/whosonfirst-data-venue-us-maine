@@ -2,13 +2,14 @@
   "id": 387830939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.000419,44.422102,-69.000419,44.422102",
     "geom:latitude":44.422102,
     "geom:longitude":-69.000419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 High St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387830939,
-    "wof:lastmodified":1449056908,
+    "wof:lastmodified":1466587204,
     "wof:name":"TW Communications",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "picture"
     ]
 },
-  "bbox": [-69.000419,44.422102,-69.000419,44.422102],
-  "geometry": {"coordinates":[-69.000419,44.422102],"type":"Point"}
+  "bbox": [
+    -69.000419,
+    44.422102,
+    -69.000419,
+    44.422102
+],
+  "geometry": {"coordinates":[-69.00041899999999,44.422102],"type":"Point"}
 }

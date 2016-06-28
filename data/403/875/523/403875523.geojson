@@ -2,13 +2,14 @@
   "id": 403875523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.646043,44.545036,-69.646043,44.545036",
     "geom:latitude":44.545036,
     "geom:longitude":-69.646043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Cool St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403875523,
-    "wof:lastmodified":1449055606,
+    "wof:lastmodified":1466586825,
     "wof:name":"Lutheran Church-Resurrection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-69.646043,44.545036,-69.646043,44.545036],
-  "geometry": {"coordinates":[-69.646043,44.545036],"type":"Point"}
+  "bbox": [
+    -69.646043,
+    44.545036,
+    -69.646043,
+    44.545036
+],
+  "geometry": {"coordinates":[-69.64604300000001,44.545036],"type":"Point"}
 }

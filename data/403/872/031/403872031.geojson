@@ -2,13 +2,14 @@
   "id": 403872031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.247732,43.810915,-70.247732,43.810915",
     "geom:latitude":43.810915,
     "geom:longitude":-70.247732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Cumberland Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403872031,
-    "wof:lastmodified":1449054753,
+    "wof:lastmodified":1466586795,
     "wof:name":"Russell's Taxidermy",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-70.247732,43.810915,-70.247732,43.810915],
+  "bbox": [
+    -70.247732,
+    43.810915,
+    -70.247732,
+    43.810915
+],
   "geometry": {"coordinates":[-70.247732,43.810915],"type":"Point"}
 }

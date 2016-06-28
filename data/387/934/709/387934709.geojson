@@ -2,13 +2,14 @@
   "id": 387934709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.700893,43.407954,-70.700893,43.407954",
     "geom:latitude":43.407954,
     "geom:longitude":-70.700893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Community Dr",
     "sg:city":"Harpswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387934709,
-    "wof:lastmodified":1449056301,
+    "wof:lastmodified":1466587275,
     "wof:name":"Harpswell Community Television",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "co"
     ]
 },
-  "bbox": [-70.700893,43.407954,-70.700893,43.407954],
-  "geometry": {"coordinates":[-70.700893,43.407954],"type":"Point"}
+  "bbox": [
+    -70.700893,
+    43.407954,
+    -70.700893,
+    43.407954
+],
+  "geometry": {"coordinates":[-70.70089299999999,43.407954],"type":"Point"}
 }

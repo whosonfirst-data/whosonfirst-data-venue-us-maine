@@ -2,13 +2,14 @@
   "id": 387804885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.191879,44.144792,-70.191879,44.144792",
     "geom:latitude":44.144792,
     "geom:longitude":-70.191879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1137 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387804885,
-    "wof:lastmodified":1449058761,
+    "wof:lastmodified":1466586971,
     "wof:name":"Acucom Inc",
     "wof:parent_id":85819719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-70.191879,44.144792,-70.191879,44.144792],
+  "bbox": [
+    -70.191879,
+    44.144792,
+    -70.191879,
+    44.144792
+],
   "geometry": {"coordinates":[-70.191879,44.144792],"type":"Point"}
 }

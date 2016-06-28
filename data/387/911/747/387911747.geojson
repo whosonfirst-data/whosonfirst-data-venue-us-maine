@@ -2,13 +2,14 @@
   "id": 387911747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.298792,44.275916,-69.298792,44.275916",
     "geom:latitude":44.275916,
     "geom:longitude":-69.298792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Snow Hill Rd",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387911747,
-    "wof:lastmodified":1449059303,
+    "wof:lastmodified":1466587320,
     "wof:name":"Johnsons Residential Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handicapped"
     ]
 },
-  "bbox": [-69.298792,44.275916,-69.298792,44.275916],
-  "geometry": {"coordinates":[-69.298792,44.275916],"type":"Point"}
+  "bbox": [
+    -69.298792,
+    44.275916,
+    -69.298792,
+    44.275916
+],
+  "geometry": {"coordinates":[-69.29879200000001,44.275916],"type":"Point"}
 }

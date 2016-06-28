@@ -2,13 +2,14 @@
   "id": 404044469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.816127,43.910725,-69.816127,43.910725",
     "geom:latitude":43.910725,
     "geom:longitude":-69.816127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 Washington St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404044469,
-    "wof:lastmodified":1449039744,
+    "wof:lastmodified":1466586172,
     "wof:name":"AFL-CIO",
     "wof:parent_id":85858289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.816127,43.910725,-69.816127,43.910725],
-  "geometry": {"coordinates":[-69.816127,43.910725],"type":"Point"}
+  "bbox": [
+    -69.816127,
+    43.910725,
+    -69.816127,
+    43.910725
+],
+  "geometry": {"coordinates":[-69.81612699999999,43.910725],"type":"Point"}
 }

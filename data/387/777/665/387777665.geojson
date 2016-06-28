@@ -2,13 +2,14 @@
   "id": 387777665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.234252,43.643682,-70.234252,43.643682",
     "geom:latitude":43.643682,
     "geom:longitude":-70.234252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Summit St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387777665,
-    "wof:lastmodified":1449058114,
+    "wof:lastmodified":1466586996,
     "wof:name":"Jacques Chazaud",
     "wof:parent_id":85867975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-70.234252,43.643682,-70.234252,43.643682],
+  "bbox": [
+    -70.234252,
+    43.643682,
+    -70.234252,
+    43.643682
+],
   "geometry": {"coordinates":[-70.234252,43.643682],"type":"Point"}
 }

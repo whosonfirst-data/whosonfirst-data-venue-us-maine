@@ -2,13 +2,14 @@
   "id": 387712851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.327581,43.884946,-70.327581,43.884946",
     "geom:latitude":43.884946,
     "geom:longitude":-70.327581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Hancock St",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387712851,
-    "wof:lastmodified":1449057738,
+    "wof:lastmodified":1466586682,
     "wof:name":"Gray Town Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.327581,43.884946,-70.327581,43.884946],
+  "bbox": [
+    -70.327581,
+    43.884946,
+    -70.327581,
+    43.884946
+],
   "geometry": {"coordinates":[-70.327581,43.884946],"type":"Point"}
 }

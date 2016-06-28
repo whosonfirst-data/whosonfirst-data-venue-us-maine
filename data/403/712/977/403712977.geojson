@@ -2,13 +2,14 @@
   "id": 403712977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.584781,43.30972,-70.584781,43.30972",
     "geom:latitude":43.30972,
     "geom:longitude":-70.584781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"971 Post Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403712977,
-    "wof:lastmodified":1449055208,
+    "wof:lastmodified":1466585760,
     "wof:name":"Chalet By The Sea",
     "wof:parent_id":85810445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.584781,43.30972,-70.584781,43.30972],
-  "geometry": {"coordinates":[-70.584781,43.30972],"type":"Point"}
+  "bbox": [
+    -70.584781,
+    43.30972,
+    -70.584781,
+    43.30972
+],
+  "geometry": {"coordinates":[-70.58478100000001,43.30972],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403867291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.21987,44.087101,-70.21987,44.087101",
     "geom:latitude":44.087101,
     "geom:longitude":-70.21987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Riverside Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403867291,
-    "wof:lastmodified":1449055211,
+    "wof:lastmodified":1466586774,
     "wof:name":"Tyler Transportation Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-70.21987,44.087101,-70.21987,44.087101],
+  "bbox": [
+    -70.21987,
+    44.087101,
+    -70.21987,
+    44.087101
+],
   "geometry": {"coordinates":[-70.21987,44.087101],"type":"Point"}
 }

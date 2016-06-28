@@ -2,13 +2,14 @@
   "id": 387771793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.272796,44.474949,-68.272796,44.474949",
     "geom:latitude":44.474949,
     "geom:longitude":-68.272796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Marlboro Beach Rd",
     "sg:city":"Lamoine",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387771793,
-    "wof:lastmodified":1449058179,
+    "wof:lastmodified":1466586973,
     "wof:name":"Bayview Studio",
     "wof:parent_id":85832501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-68.272796,44.474949,-68.272796,44.474949],
+  "bbox": [
+    -68.272796,
+    44.474949,
+    -68.272796,
+    44.474949
+],
   "geometry": {"coordinates":[-68.272796,44.474949],"type":"Point"}
 }

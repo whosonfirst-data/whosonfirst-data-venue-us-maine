@@ -2,13 +2,14 @@
   "id": 387909661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.746671,43.086699,-70.746671,43.086699",
     "geom:latitude":43.086699,
     "geom:longitude":-70.746671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Walker St",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387909661,
-    "wof:lastmodified":1449058969,
+    "wof:lastmodified":1466587319,
     "wof:name":"Cole Harrison Agency",
     "wof:parent_id":85828587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.746671,43.086699,-70.746671,43.086699],
-  "geometry": {"coordinates":[-70.746671,43.086699],"type":"Point"}
+  "bbox": [
+    -70.746671,
+    43.086699,
+    -70.746671,
+    43.086699
+],
+  "geometry": {"coordinates":[-70.74667100000001,43.086699],"type":"Point"}
 }

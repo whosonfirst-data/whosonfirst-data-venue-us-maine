@@ -2,13 +2,14 @@
   "id": 403982827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.254018,44.082064,-70.254018,44.082064",
     "geom:latitude":44.082064,
     "geom:longitude":-70.254018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 Minot Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403982827,
-    "wof:lastmodified":1449054862,
+    "wof:lastmodified":1466587159,
     "wof:name":"Interstate Brands Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cookie"
     ]
 },
-  "bbox": [-70.254018,44.082064,-70.254018,44.082064],
+  "bbox": [
+    -70.254018,
+    44.082064,
+    -70.254018,
+    44.082064
+],
   "geometry": {"coordinates":[-70.254018,44.082064],"type":"Point"}
 }

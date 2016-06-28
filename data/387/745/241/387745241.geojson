@@ -2,13 +2,14 @@
   "id": 387745241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.755312,44.819406,-68.755312,44.819406",
     "geom:latitude":44.819406,
     "geom:longitude":-68.755312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Harvard St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387745241,
-    "wof:lastmodified":1449059749,
+    "wof:lastmodified":1466586795,
     "wof:name":"Affordable Signs By Jones",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialty"
     ]
 },
-  "bbox": [-68.755312,44.819406,-68.755312,44.819406],
+  "bbox": [
+    -68.755312,
+    44.819406,
+    -68.755312,
+    44.819406
+],
   "geometry": {"coordinates":[-68.755312,44.819406],"type":"Point"}
 }

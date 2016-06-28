@@ -2,13 +2,14 @@
   "id": 403726577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.034444,46.691769,-68.034444,46.691769",
     "geom:latitude":46.691769,
     "geom:longitude":-68.034444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Airport Dr",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403726577,
-    "wof:lastmodified":1449055521,
+    "wof:lastmodified":1466585922,
     "wof:name":"Aroostook Testing & Consulting",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-68.034444,46.691769,-68.034444,46.691769],
-  "geometry": {"coordinates":[-68.034444,46.691769],"type":"Point"}
+  "bbox": [
+    -68.034444,
+    46.691769,
+    -68.034444,
+    46.691769
+],
+  "geometry": {"coordinates":[-68.03444399999999,46.691769],"type":"Point"}
 }

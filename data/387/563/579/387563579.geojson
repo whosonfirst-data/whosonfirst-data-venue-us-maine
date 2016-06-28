@@ -2,13 +2,14 @@
   "id": 387563579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.50897,44.535745,-70.50897,44.535745",
     "geom:latitude":44.535745,
     "geom:longitude":-70.50897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 River Rd",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387563579,
-    "wof:lastmodified":1449056174,
+    "wof:lastmodified":1466586635,
     "wof:name":"Big Apple",
     "wof:parent_id":85814509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.50897,44.535745,-70.50897,44.535745],
-  "geometry": {"coordinates":[-70.50897,44.535745],"type":"Point"}
+  "bbox": [
+    -70.50897,
+    44.535745,
+    -70.50897,
+    44.535745
+],
+  "geometry": {"coordinates":[-70.50897000000001,44.535745],"type":"Point"}
 }

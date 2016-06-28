@@ -2,13 +2,14 @@
   "id": 387938211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.989248,44.402471,-68.989248,44.402471",
     "geom:latitude":44.402471,
     "geom:longitude":-68.989248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Northport Ave",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387938211,
-    "wof:lastmodified":1449058942,
+    "wof:lastmodified":1466587272,
     "wof:name":"Oral & Maxillofacial Surgeons",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-68.989248,44.402471,-68.989248,44.402471],
+  "bbox": [
+    -68.989248,
+    44.402471,
+    -68.989248,
+    44.402471
+],
   "geometry": {"coordinates":[-68.989248,44.402471],"type":"Point"}
 }

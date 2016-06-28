@@ -2,13 +2,14 @@
   "id": 387956551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.827728,46.907668,-67.827728,46.907668",
     "geom:latitude":46.907668,
     "geom:longitude":-67.827728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 High St",
     "sg:city":"Limestone",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387956551,
-    "wof:lastmodified":1449056747,
+    "wof:lastmodified":1466587339,
     "wof:name":"Conservative Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-67.827728,46.907668,-67.827728,46.907668],
-  "geometry": {"coordinates":[-67.827728,46.907668],"type":"Point"}
+  "bbox": [
+    -67.827728,
+    46.907668,
+    -67.827728,
+    46.907668
+],
+  "geometry": {"coordinates":[-67.82772799999999,46.907668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403715955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.301012,43.746814,-70.301012,43.746814",
     "geom:latitude":43.746814,
     "geom:longitude":-70.301012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Mountain Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":403715955,
-    "wof:lastmodified":1449055689,
+    "wof:lastmodified":1466585814,
     "wof:name":"Falmouth Corner Co Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "school"
     ]
 },
-  "bbox": [-70.301012,43.746814,-70.301012,43.746814],
+  "bbox": [
+    -70.301012,
+    43.746814,
+    -70.301012,
+    43.746814
+],
   "geometry": {"coordinates":[-70.301012,43.746814],"type":"Point"}
 }

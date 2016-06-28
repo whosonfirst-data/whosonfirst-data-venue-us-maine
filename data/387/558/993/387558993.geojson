@@ -2,13 +2,14 @@
   "id": 387558993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.729177,44.336155,-69.729177,44.336155",
     "geom:latitude":44.336155,
     "geom:longitude":-69.729177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"196 Church Hill Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387558993,
-    "wof:lastmodified":1449057133,
+    "wof:lastmodified":1466585736,
     "wof:name":"Boucher Painting",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-69.729177,44.336155,-69.729177,44.336155],
-  "geometry": {"coordinates":[-69.729177,44.336155],"type":"Point"}
+  "bbox": [
+    -69.729177,
+    44.336155,
+    -69.729177,
+    44.336155
+],
+  "geometry": {"coordinates":[-69.72917700000001,44.336155],"type":"Point"}
 }

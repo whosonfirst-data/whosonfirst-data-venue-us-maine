@@ -2,13 +2,14 @@
   "id": 403776419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.450162,43.722302,-70.450162,43.722302",
     "geom:latitude":43.722302,
     "geom:longitude":-70.450162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Huston Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403776419,
-    "wof:lastmodified":1449054939,
+    "wof:lastmodified":1466586600,
     "wof:name":"Public Works Garage",
     "wof:parent_id":85820911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-70.450162,43.722302,-70.450162,43.722302],
-  "geometry": {"coordinates":[-70.450162,43.722302],"type":"Point"}
+  "bbox": [
+    -70.450162,
+    43.722302,
+    -70.450162,
+    43.722302
+],
+  "geometry": {"coordinates":[-70.45016200000001,43.722302],"type":"Point"}
 }

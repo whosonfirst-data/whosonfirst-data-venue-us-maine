@@ -2,13 +2,14 @@
   "id": 403933889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.246625,43.664564,-70.246625,43.664564",
     "geom:latitude":43.664564,
     "geom:longitude":-70.246625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Waterville St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403933889,
-    "wof:lastmodified":1449054909,
+    "wof:lastmodified":1466587117,
     "wof:name":"Body & Co",
     "wof:parent_id":85835993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-70.246625,43.664564,-70.246625,43.664564],
-  "geometry": {"coordinates":[-70.246625,43.664564],"type":"Point"}
+  "bbox": [
+    -70.246625,
+    43.664564,
+    -70.246625,
+    43.664564
+],
+  "geometry": {"coordinates":[-70.24662499999999,43.664564],"type":"Point"}
 }

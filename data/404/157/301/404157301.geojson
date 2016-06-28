@@ -2,13 +2,14 @@
   "id": 404157301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.29549,43.669758,-70.29549,43.669758",
     "geom:latitude":43.669758,
     "geom:longitude":-70.29549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"388 Woodford St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404157301,
-    "wof:lastmodified":1449040150,
+    "wof:lastmodified":1466586751,
     "wof:name":"Spurwink School Therapeutic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "group"
     ]
 },
-  "bbox": [-70.29549,43.669758,-70.29549,43.669758],
+  "bbox": [
+    -70.29549,
+    43.669758,
+    -70.29549,
+    43.669758
+],
   "geometry": {"coordinates":[-70.29549,43.669758],"type":"Point"}
 }

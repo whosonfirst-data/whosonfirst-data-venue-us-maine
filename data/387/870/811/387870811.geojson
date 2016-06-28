@@ -2,13 +2,14 @@
   "id": 387870811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.593128,43.544872,-70.593128,43.544872",
     "geom:latitude":43.544872,
     "geom:longitude":-70.593128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Clarks Mills Rd",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387870811,
-    "wof:lastmodified":1449057103,
+    "wof:lastmodified":1466587204,
     "wof:name":"Dayton Town Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-70.593128,43.544872,-70.593128,43.544872],
-  "geometry": {"coordinates":[-70.593128,43.544872],"type":"Point"}
+  "bbox": [
+    -70.593128,
+    43.544872,
+    -70.593128,
+    43.544872
+],
+  "geometry": {"coordinates":[-70.59312799999999,43.544872],"type":"Point"}
 }

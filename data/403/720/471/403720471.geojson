@@ -2,13 +2,14 @@
   "id": 403720471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.217595,43.568078,-70.217595,43.568078",
     "geom:latitude":43.568078,
     "geom:longitude":-70.217595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Two Lights Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403720471,
-    "wof:lastmodified":1449054960,
+    "wof:lastmodified":1466585849,
     "wof:name":"Two Lights Construction Co",
     "wof:parent_id":85867971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.217595,43.568078,-70.217595,43.568078],
+  "bbox": [
+    -70.217595,
+    43.568078,
+    -70.217595,
+    43.568078
+],
   "geometry": {"coordinates":[-70.217595,43.568078],"type":"Point"}
 }

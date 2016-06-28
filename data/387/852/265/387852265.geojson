@@ -2,13 +2,14 @@
   "id": 387852265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.256925,43.657098,-70.256925,43.657098",
     "geom:latitude":43.657098,
     "geom:longitude":-70.256925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 City Center",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387852265,
-    "wof:lastmodified":1449059275,
+    "wof:lastmodified":1466587078,
     "wof:name":"Men's Room Salon & Lounge",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.256925,43.657098,-70.256925,43.657098],
+  "bbox": [
+    -70.256925,
+    43.657098,
+    -70.256925,
+    43.657098
+],
   "geometry": {"coordinates":[-70.256925,43.657098],"type":"Point"}
 }

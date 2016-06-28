@@ -2,13 +2,14 @@
   "id": 387650221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.285106,43.672738,-70.285106,43.672738",
     "geom:latitude":43.672738,
     "geom:longitude":-70.285106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387650221,
-    "wof:lastmodified":1449058424,
+    "wof:lastmodified":1466585972,
     "wof:name":"Haknuman Meanchey",
     "wof:parent_id":85858627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-70.285106,43.672738,-70.285106,43.672738],
+  "bbox": [
+    -70.285106,
+    43.672738,
+    -70.285106,
+    43.672738
+],
   "geometry": {"coordinates":[-70.285106,43.672738],"type":"Point"}
 }

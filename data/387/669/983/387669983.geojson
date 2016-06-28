@@ -2,13 +2,14 @@
   "id": 387669983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.719696,43.642544,-70.719696,43.642544",
     "geom:latitude":43.642544,
     "geom:longitude":-70.719696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Beaver Dam Rd",
     "sg:city":"North Waterboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387669983,
-    "wof:lastmodified":1449056545,
+    "wof:lastmodified":1466586279,
     "wof:name":"Once Upon A Time Pre-School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nursery"
     ]
 },
-  "bbox": [-70.719696,43.642544,-70.719696,43.642544],
+  "bbox": [
+    -70.719696,
+    43.642544,
+    -70.719696,
+    43.642544
+],
   "geometry": {"coordinates":[-70.719696,43.642544],"type":"Point"}
 }

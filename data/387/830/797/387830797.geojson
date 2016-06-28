@@ -2,13 +2,14 @@
   "id": 387830797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.181763,43.798632,-70.181763,43.798632",
     "geom:latitude":43.798632,
     "geom:longitude":-70.181763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Main St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387830797,
-    "wof:lastmodified":1449056909,
+    "wof:lastmodified":1466587203,
     "wof:name":"Cotton Weeds",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.181763,43.798632,-70.181763,43.798632],
+  "bbox": [
+    -70.181763,
+    43.798632,
+    -70.181763,
+    43.798632
+],
   "geometry": {"coordinates":[-70.181763,43.798632],"type":"Point"}
 }

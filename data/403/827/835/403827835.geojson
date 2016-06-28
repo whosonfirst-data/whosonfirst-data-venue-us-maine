@@ -2,13 +2,14 @@
   "id": 403827835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.181056,43.798133,-70.181056,43.798133",
     "geom:latitude":43.798133,
     "geom:longitude":-70.181056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Main St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403827835,
-    "wof:lastmodified":1449055103,
+    "wof:lastmodified":1466586393,
     "wof:name":"Ken's Monitor & Toyo Sales",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.181056,43.798133,-70.181056,43.798133],
+  "bbox": [
+    -70.181056,
+    43.798133,
+    -70.181056,
+    43.798133
+],
   "geometry": {"coordinates":[-70.181056,43.798133],"type":"Point"}
 }

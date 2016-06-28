@@ -2,13 +2,14 @@
   "id": 387729879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.321094,44.279142,-68.321094,44.279142",
     "geom:latitude":44.279142,
     "geom:longitude":-68.321094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Harbor Ave",
     "sg:city":"Southwest Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387729879,
-    "wof:lastmodified":1449058021,
+    "wof:lastmodified":1466586839,
     "wof:name":"CES Inc",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-68.321094,44.279142,-68.321094,44.279142],
+  "bbox": [
+    -68.321094,
+    44.279142,
+    -68.321094,
+    44.279142
+],
   "geometry": {"coordinates":[-68.321094,44.279142],"type":"Point"}
 }

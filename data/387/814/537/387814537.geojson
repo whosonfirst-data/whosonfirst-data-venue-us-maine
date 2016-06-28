@@ -2,13 +2,14 @@
   "id": 387814537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.875532,44.130804,-68.875532,44.130804",
     "geom:latitude":44.130804,
     "geom:longitude":-68.875532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Main St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387814537,
-    "wof:lastmodified":1449056795,
+    "wof:lastmodified":1466587174,
     "wof:name":"Brown Bag",
     "wof:parent_id":85843265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.875532,44.130804,-68.875532,44.130804],
-  "geometry": {"coordinates":[-68.875532,44.130804],"type":"Point"}
+  "bbox": [
+    -68.875532,
+    44.130804,
+    -68.875532,
+    44.130804
+],
+  "geometry": {"coordinates":[-68.87553200000001,44.130804],"type":"Point"}
 }

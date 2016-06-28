@@ -2,13 +2,14 @@
   "id": 403946825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.699621,43.083649,-70.699621,43.083649",
     "geom:latitude":43.083649,
     "geom:longitude":-70.699621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Pepperrell Rd",
     "sg:city":"Kittery Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403946825,
-    "wof:lastmodified":1449055810,
+    "wof:lastmodified":1466587070,
     "wof:name":"Kittery Point Citgo",
     "wof:parent_id":85807497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-70.699621,43.083649,-70.699621,43.083649],
-  "geometry": {"coordinates":[-70.699621,43.083649],"type":"Point"}
+  "bbox": [
+    -70.699621,
+    43.083649,
+    -70.699621,
+    43.083649
+],
+  "geometry": {"coordinates":[-70.69962099999999,43.083649],"type":"Point"}
 }

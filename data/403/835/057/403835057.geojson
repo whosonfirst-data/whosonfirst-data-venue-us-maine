@@ -2,13 +2,14 @@
   "id": 403835057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.690224,44.858928,-68.690224,44.858928",
     "geom:latitude":44.858928,
     "geom:longitude":-68.690224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Main St",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403835057,
-    "wof:lastmodified":1449054821,
+    "wof:lastmodified":1466586511,
     "wof:name":"Housing Foundation",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-68.690224,44.858928,-68.690224,44.858928],
+  "bbox": [
+    -68.690224,
+    44.858928,
+    -68.690224,
+    44.858928
+],
   "geometry": {"coordinates":[-68.690224,44.858928],"type":"Point"}
 }

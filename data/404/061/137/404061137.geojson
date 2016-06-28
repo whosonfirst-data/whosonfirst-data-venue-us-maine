@@ -2,13 +2,14 @@
   "id": 404061137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.927062,44.476246,-67.927062,44.476246",
     "geom:latitude":44.476246,
     "geom:longitude":-67.927062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Goods Point Rd",
     "sg:city":"Steuben",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404061137,
-    "wof:lastmodified":1449039992,
+    "wof:lastmodified":1466586454,
     "wof:name":"T Jason Boats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boat"
     ]
 },
-  "bbox": [-67.927062,44.476246,-67.927062,44.476246],
-  "geometry": {"coordinates":[-67.927062,44.476246],"type":"Point"}
+  "bbox": [
+    -67.927062,
+    44.476246,
+    -67.927062,
+    44.476246
+],
+  "geometry": {"coordinates":[-67.92706200000001,44.476246],"type":"Point"}
 }

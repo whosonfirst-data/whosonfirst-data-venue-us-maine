@@ -2,13 +2,14 @@
   "id": 387650959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.368939,44.790313,-69.368939,44.790313",
     "geom:latitude":44.790313,
     "geom:longitude":-69.368939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Leighton St",
     "sg:city":"Pittsfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387650959,
-    "wof:lastmodified":1449058425,
+    "wof:lastmodified":1466585985,
     "wof:name":"Sebasticook Health Care Fclty",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-69.368939,44.790313,-69.368939,44.790313],
+  "bbox": [
+    -69.368939,
+    44.790313,
+    -69.368939,
+    44.790313
+],
   "geometry": {"coordinates":[-69.368939,44.790313],"type":"Point"}
 }

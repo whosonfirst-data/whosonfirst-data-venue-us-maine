@@ -2,13 +2,14 @@
   "id": 404005925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.299547,43.968222,-70.299547,43.968222",
     "geom:latitude":43.968222,
     "geom:longitude":-70.299547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Lewiston Rd",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404005925,
-    "wof:lastmodified":1449040237,
+    "wof:lastmodified":1466585775,
     "wof:name":"Lisbon Falls Redemption Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "center"
     ]
 },
-  "bbox": [-70.299547,43.968222,-70.299547,43.968222],
+  "bbox": [
+    -70.299547,
+    43.968222,
+    -70.299547,
+    43.968222
+],
   "geometry": {"coordinates":[-70.299547,43.968222],"type":"Point"}
 }

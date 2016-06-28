@@ -2,13 +2,14 @@
   "id": 403996183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.263576,43.65416,-70.263576,43.65416",
     "geom:latitude":43.65416,
     "geom:longitude":-70.263576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 High St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":403996183,
-    "wof:lastmodified":1449055004,
+    "wof:lastmodified":1466587180,
     "wof:name":"Whimsical World David Cedrone",
     "wof:parent_id":85880027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-70.263576,43.65416,-70.263576,43.65416],
+  "bbox": [
+    -70.263576,
+    43.65416,
+    -70.263576,
+    43.65416
+],
   "geometry": {"coordinates":[-70.263576,43.65416],"type":"Point"}
 }

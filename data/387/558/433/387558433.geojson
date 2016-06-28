@@ -2,13 +2,14 @@
   "id": 387558433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.775239,44.819235,-68.775239,44.819235",
     "geom:latitude":44.819235,
     "geom:longitude":-68.775239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"493 Broadway",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387558433,
-    "wof:lastmodified":1449057132,
+    "wof:lastmodified":1466585726,
     "wof:name":"Studio 1 Hair Salon",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.775239,44.819235,-68.775239,44.819235],
+  "bbox": [
+    -68.775239,
+    44.819235,
+    -68.775239,
+    44.819235
+],
   "geometry": {"coordinates":[-68.775239,44.819235],"type":"Point"}
 }

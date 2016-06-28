@@ -2,13 +2,14 @@
   "id": 403942317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.186757,44.196596,-70.186757,44.196596",
     "geom:latitude":44.196596,
     "geom:longitude":-70.186757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Meadow Hill Rd",
     "sg:city":"Greene",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403942317,
-    "wof:lastmodified":1449055249,
+    "wof:lastmodified":1466587062,
     "wof:name":"Finely Finished Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.186757,44.196596,-70.186757,44.196596],
+  "bbox": [
+    -70.186757,
+    44.196596,
+    -70.186757,
+    44.196596
+],
   "geometry": {"coordinates":[-70.186757,44.196596],"type":"Point"}
 }

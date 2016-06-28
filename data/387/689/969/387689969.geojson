@@ -2,13 +2,14 @@
   "id": 387689969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.847033,43.672236,-70.847033,43.672236",
     "geom:latitude":43.672236,
     "geom:longitude":-70.847033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Staples Rd",
     "sg:city":"Limington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387689969,
-    "wof:lastmodified":1449059281,
+    "wof:lastmodified":1466586603,
     "wof:name":"Steeplebush Farm Herbs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.847033,43.672236,-70.847033,43.672236],
+  "bbox": [
+    -70.847033,
+    43.672236,
+    -70.847033,
+    43.672236
+],
   "geometry": {"coordinates":[-70.847033,43.672236],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387663887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.289788,43.669042,-70.289788,43.669042",
     "geom:latitude":43.669042,
     "geom:longitude":-70.289788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Highland St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387663887,
-    "wof:lastmodified":1449058904,
+    "wof:lastmodified":1466586185,
     "wof:name":"Maine Lead Action Project",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lead"
     ]
 },
-  "bbox": [-70.289788,43.669042,-70.289788,43.669042],
+  "bbox": [
+    -70.289788,
+    43.669042,
+    -70.289788,
+    43.669042
+],
   "geometry": {"coordinates":[-70.289788,43.669042],"type":"Point"}
 }

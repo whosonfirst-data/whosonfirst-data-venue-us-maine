@@ -2,13 +2,14 @@
   "id": 387696977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.310245,44.478709,-68.310245,44.478709",
     "geom:latitude":44.478709,
     "geom:longitude":-68.310245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Wood Run",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387696977,
-    "wof:lastmodified":1449056396,
+    "wof:lastmodified":1466586725,
     "wof:name":"C E D 1974",
     "wof:parent_id":85829637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-68.310245,44.478709,-68.310245,44.478709],
-  "geometry": {"coordinates":[-68.310245,44.478709],"type":"Point"}
+  "bbox": [
+    -68.310245,
+    44.478709,
+    -68.310245,
+    44.478709
+],
+  "geometry": {"coordinates":[-68.31024499999999,44.478709],"type":"Point"}
 }

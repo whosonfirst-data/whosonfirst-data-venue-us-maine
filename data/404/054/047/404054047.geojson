@@ -2,13 +2,14 @@
   "id": 404054047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.217455,44.271821,-70.217455,44.271821",
     "geom:latitude":44.271821,
     "geom:longitude":-70.217455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Cobb Rd",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404054047,
-    "wof:lastmodified":1449039574,
+    "wof:lastmodified":1466586340,
     "wof:name":"Turner Primary School",
     "wof:parent_id":85852835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.217455,44.271821,-70.217455,44.271821],
+  "bbox": [
+    -70.217455,
+    44.271821,
+    -70.217455,
+    44.271821
+],
   "geometry": {"coordinates":[-70.217455,44.271821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387867063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.253801,43.658476,-70.253801,43.658476",
     "geom:latitude":43.658476,
     "geom:longitude":-70.253801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Pearl St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387867063,
-    "wof:lastmodified":1449057750,
+    "wof:lastmodified":1466587116,
     "wof:name":"Greater Portland Chamber-Cmmrc",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commerce"
     ]
 },
-  "bbox": [-70.253801,43.658476,-70.253801,43.658476],
+  "bbox": [
+    -70.253801,
+    43.658476,
+    -70.253801,
+    43.658476
+],
   "geometry": {"coordinates":[-70.253801,43.658476],"type":"Point"}
 }

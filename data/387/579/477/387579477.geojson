@@ -2,13 +2,14 @@
   "id": 387579477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.568096,45.623657,-68.568096,45.623657",
     "geom:latitude":45.623657,
     "geom:longitude":-68.568096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Main St",
     "sg:city":"East Millinocket",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387579477,
-    "wof:lastmodified":1449057309,
+    "wof:lastmodified":1466586010,
     "wof:name":"CHIMNEYLINERSTORE.COM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "chimney"
     ]
 },
-  "bbox": [-68.568096,45.623657,-68.568096,45.623657],
+  "bbox": [
+    -68.568096,
+    45.623657,
+    -68.568096,
+    45.623657
+],
   "geometry": {"coordinates":[-68.568096,45.623657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404159691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.315251,43.654754,-70.315251,43.654754",
     "geom:latitude":43.654754,
     "geom:longitude":-70.315251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Tide Mill Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404159691,
-    "wof:lastmodified":1449039164,
+    "wof:lastmodified":1466586763,
     "wof:name":"Riverwoods Construction",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.315251,43.654754,-70.315251,43.654754],
+  "bbox": [
+    -70.315251,
+    43.654754,
+    -70.315251,
+    43.654754
+],
   "geometry": {"coordinates":[-70.315251,43.654754],"type":"Point"}
 }

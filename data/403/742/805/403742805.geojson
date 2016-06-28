@@ -2,13 +2,14 @@
   "id": 403742805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.787632,44.798287,-68.787632,44.798287",
     "geom:latitude":44.798287,
     "geom:longitude":-68.787632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Wing St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403742805,
-    "wof:lastmodified":1449054719,
+    "wof:lastmodified":1466586096,
     "wof:name":"Statewide Roofing & Contr",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.787632,44.798287,-68.787632,44.798287],
+  "bbox": [
+    -68.787632,
+    44.798287,
+    -68.787632,
+    44.798287
+],
   "geometry": {"coordinates":[-68.787632,44.798287],"type":"Point"}
 }

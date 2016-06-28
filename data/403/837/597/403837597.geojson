@@ -2,13 +2,14 @@
   "id": 403837597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.581731,43.312481,-70.581731,43.312481",
     "geom:latitude":43.312481,
     "geom:longitude":-70.581731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Darling Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403837597,
-    "wof:lastmodified":1449054841,
+    "wof:lastmodified":1466586558,
     "wof:name":"Darling's A-1 Ind Group",
     "wof:parent_id":85810445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.581731,43.312481,-70.581731,43.312481],
+  "bbox": [
+    -70.581731,
+    43.312481,
+    -70.581731,
+    43.312481
+],
   "geometry": {"coordinates":[-70.581731,43.312481],"type":"Point"}
 }

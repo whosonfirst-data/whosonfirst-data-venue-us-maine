@@ -2,13 +2,14 @@
   "id": 404072515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.450445,43.85105,-70.450445,43.85105",
     "geom:latitude":43.85105,
     "geom:longitude":-70.450445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"964 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404072515,
-    "wof:lastmodified":1449039766,
+    "wof:lastmodified":1466586593,
     "wof:name":"JMC Self Storage",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-70.450445,43.85105,-70.450445,43.85105],
+  "bbox": [
+    -70.450445,
+    43.85105,
+    -70.450445,
+    43.85105
+],
   "geometry": {"coordinates":[-70.450445,43.85105],"type":"Point"}
 }

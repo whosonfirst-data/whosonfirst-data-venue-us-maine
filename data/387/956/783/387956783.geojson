@@ -2,13 +2,14 @@
   "id": 387956783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.036011,44.236309,-70.036011,44.236309",
     "geom:latitude":44.236309,
     "geom:longitude":-70.036011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"765 Main St",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387956783,
-    "wof:lastmodified":1449056748,
+    "wof:lastmodified":1466587339,
     "wof:name":"Leone's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.036011,44.236309,-70.036011,44.236309],
+  "bbox": [
+    -70.036011,
+    44.236309,
+    -70.036011,
+    44.236309
+],
   "geometry": {"coordinates":[-70.036011,44.236309],"type":"Point"}
 }

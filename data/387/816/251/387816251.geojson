@@ -2,13 +2,14 @@
   "id": 387816251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.238523,43.81531,-70.238523,43.81531",
     "geom:latitude":43.81531,
     "geom:longitude":-70.238523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Walnut Hill Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387816251,
-    "wof:lastmodified":1449058319,
+    "wof:lastmodified":1466587013,
     "wof:name":"Poolside Inc",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-70.238523,43.81531,-70.238523,43.81531],
+  "bbox": [
+    -70.238523,
+    43.81531,
+    -70.238523,
+    43.81531
+],
   "geometry": {"coordinates":[-70.238523,43.81531],"type":"Point"}
 }

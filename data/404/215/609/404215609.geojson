@@ -2,13 +2,14 @@
   "id": 404215609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.752007,44.784743,-68.752007,44.784743",
     "geom:latitude":44.784743,
     "geom:longitude":-68.752007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"264 State St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404215609,
-    "wof:lastmodified":1449040091,
+    "wof:lastmodified":1466586902,
     "wof:name":"Winterport Boot Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.752007,44.784743,-68.752007,44.784743],
-  "geometry": {"coordinates":[-68.752007,44.784743],"type":"Point"}
+  "bbox": [
+    -68.752007,
+    44.784743,
+    -68.752007,
+    44.784743
+],
+  "geometry": {"coordinates":[-68.75200700000001,44.784743],"type":"Point"}
 }

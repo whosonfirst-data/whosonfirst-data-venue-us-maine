@@ -2,13 +2,14 @@
   "id": 404188357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.794421,43.32553,-70.794421,43.32553",
     "geom:latitude":43.32553,
     "geom:longitude":-70.794421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Clark Rd",
     "sg:city":"North Berwick",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404188357,
-    "wof:lastmodified":1449039667,
+    "wof:lastmodified":1466586786,
     "wof:name":"Nelson Begin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.794421,43.32553,-70.794421,43.32553],
+  "bbox": [
+    -70.794421,
+    43.32553,
+    -70.794421,
+    43.32553
+],
   "geometry": {"coordinates":[-70.794421,43.32553],"type":"Point"}
 }

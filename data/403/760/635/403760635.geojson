@@ -2,13 +2,14 @@
   "id": 403760635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.102047,44.114438,-70.102047,44.114438",
     "geom:latitude":44.114438,
     "geom:longitude":-70.102047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Middle Rd",
     "sg:city":"Sabattus",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403760635,
-    "wof:lastmodified":1449055895,
+    "wof:lastmodified":1466586413,
     "wof:name":"Glen Dube Excavation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.102047,44.114438,-70.102047,44.114438],
+  "bbox": [
+    -70.102047,
+    44.114438,
+    -70.102047,
+    44.114438
+],
   "geometry": {"coordinates":[-70.102047,44.114438],"type":"Point"}
 }

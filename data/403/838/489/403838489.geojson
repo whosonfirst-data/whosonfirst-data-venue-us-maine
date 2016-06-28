@@ -2,13 +2,14 @@
   "id": 403838489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.4458,43.50329,-70.4458,43.50329",
     "geom:latitude":43.50329,
     "geom:longitude":-70.4458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 North St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403838489,
-    "wof:lastmodified":1449054782,
+    "wof:lastmodified":1466586573,
     "wof:name":"Mc Dougal Associates",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-70.4458,43.50329,-70.4458,43.50329],
-  "geometry": {"coordinates":[-70.4458,43.50329],"type":"Point"}
+  "bbox": [
+    -70.4458,
+    43.50329,
+    -70.4458,
+    43.50329
+],
+  "geometry": {"coordinates":[-70.44580000000001,43.50329],"type":"Point"}
 }

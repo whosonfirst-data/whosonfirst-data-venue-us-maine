@@ -2,13 +2,14 @@
   "id": 403903103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.226641,44.408099,-70.226641,44.408099",
     "geom:latitude":44.408099,
     "geom:longitude":-70.226641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Newman Rd",
     "sg:city":"Livermore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":403903103,
-    "wof:lastmodified":1449054705,
+    "wof:lastmodified":1466586862,
     "wof:name":"Newman's Discount Fuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-70.226641,44.408099,-70.226641,44.408099],
+  "bbox": [
+    -70.226641,
+    44.408099,
+    -70.226641,
+    44.408099
+],
   "geometry": {"coordinates":[-70.226641,44.408099],"type":"Point"}
 }

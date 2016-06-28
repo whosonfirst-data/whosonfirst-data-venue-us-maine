@@ -2,13 +2,14 @@
   "id": 387652245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.306592,43.670469,-70.306592,43.670469",
     "geom:latitude":43.670469,
     "geom:longitude":-70.306592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"686 Brighton Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387652245,
-    "wof:lastmodified":1449058562,
+    "wof:lastmodified":1466586003,
     "wof:name":"Virginia M Johnson",
     "wof:parent_id":85880021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-70.306592,43.670469,-70.306592,43.670469],
-  "geometry": {"coordinates":[-70.306592,43.670469],"type":"Point"}
+  "bbox": [
+    -70.306592,
+    43.670469,
+    -70.306592,
+    43.670469
+],
+  "geometry": {"coordinates":[-70.30659199999999,43.670469],"type":"Point"}
 }

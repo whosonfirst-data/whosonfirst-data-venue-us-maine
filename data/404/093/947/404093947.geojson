@@ -2,13 +2,14 @@
   "id": 404093947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.860777,44.32476,-69.860777,44.32476",
     "geom:latitude":44.32476,
     "geom:longitude":-69.860777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Readfield Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404093947,
-    "wof:lastmodified":1449039082,
+    "wof:lastmodified":1466585907,
     "wof:name":"US Post Office",
     "wof:parent_id":85841121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.860777,44.32476,-69.860777,44.32476],
+  "bbox": [
+    -69.860777,
+    44.32476,
+    -69.860777,
+    44.32476
+],
   "geometry": {"coordinates":[-69.860777,44.32476],"type":"Point"}
 }

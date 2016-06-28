@@ -2,13 +2,14 @@
   "id": 387764563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.795208,44.770245,-68.795208,44.770245",
     "geom:latitude":44.770245,
     "geom:longitude":-68.795208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"637 Main Rd N",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387764563,
-    "wof:lastmodified":1449059739,
+    "wof:lastmodified":1466586953,
     "wof:name":"Bickford Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-68.795208,44.770245,-68.795208,44.770245],
+  "bbox": [
+    -68.795208,
+    44.770245,
+    -68.795208,
+    44.770245
+],
   "geometry": {"coordinates":[-68.795208,44.770245],"type":"Point"}
 }

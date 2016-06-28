@@ -2,13 +2,14 @@
   "id": 387801583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.780135,44.784593,-68.780135,44.784593",
     "geom:latitude":44.784593,
     "geom:longitude":-68.780135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 Main St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387801583,
-    "wof:lastmodified":1449059253,
+    "wof:lastmodified":1466587054,
     "wof:name":"Charlotte White Ctr Case Mgmt",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.780135,44.784593,-68.780135,44.784593],
+  "bbox": [
+    -68.780135,
+    44.784593,
+    -68.780135,
+    44.784593
+],
   "geometry": {"coordinates":[-68.780135,44.784593],"type":"Point"}
 }

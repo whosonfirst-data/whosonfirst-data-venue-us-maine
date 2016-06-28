@@ -2,13 +2,14 @@
   "id": 403868447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.290441,44.04852,-70.290441,44.04852",
     "geom:latitude":44.04852,
     "geom:longitude":-70.290441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Omni Cir",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403868447,
-    "wof:lastmodified":1449054679,
+    "wof:lastmodified":1466586780,
     "wof:name":"Spc Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-70.290441,44.04852,-70.290441,44.04852],
+  "bbox": [
+    -70.290441,
+    44.04852,
+    -70.290441,
+    44.04852
+],
   "geometry": {"coordinates":[-70.290441,44.04852],"type":"Point"}
 }

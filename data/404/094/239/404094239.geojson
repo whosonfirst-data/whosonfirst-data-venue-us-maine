@@ -2,13 +2,14 @@
   "id": 404094239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.275721,44.080207,-70.275721,44.080207",
     "geom:latitude":44.080207,
     "geom:longitude":-70.275721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Industry Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404094239,
-    "wof:lastmodified":1449039866,
+    "wof:lastmodified":1466585911,
     "wof:name":"Auburn Transportation",
     "wof:parent_id":85831033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "program"
     ]
 },
-  "bbox": [-70.275721,44.080207,-70.275721,44.080207],
+  "bbox": [
+    -70.275721,
+    44.080207,
+    -70.275721,
+    44.080207
+],
   "geometry": {"coordinates":[-70.275721,44.080207],"type":"Point"}
 }

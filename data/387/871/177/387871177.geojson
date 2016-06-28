@@ -2,13 +2,14 @@
   "id": 387871177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.337816,43.71951,-70.337816,43.71951",
     "geom:latitude":43.71951,
     "geom:longitude":-70.337816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"589 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387871177,
-    "wof:lastmodified":1449057354,
+    "wof:lastmodified":1466587198,
     "wof:name":"Lyn's Mane Salon",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.337816,43.71951,-70.337816,43.71951],
+  "bbox": [
+    -70.337816,
+    43.71951,
+    -70.337816,
+    43.71951
+],
   "geometry": {"coordinates":[-70.337816,43.71951],"type":"Point"}
 }

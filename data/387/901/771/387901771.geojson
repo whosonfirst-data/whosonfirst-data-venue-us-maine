@@ -2,13 +2,14 @@
   "id": 387901771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.292657,43.658045,-70.292657,43.658045",
     "geom:latitude":43.658045,
     "geom:longitude":-70.292657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1290 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387901771,
-    "wof:lastmodified":1449057701,
+    "wof:lastmodified":1466587242,
     "wof:name":"Burgess Advertising & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-70.292657,43.658045,-70.292657,43.658045],
-  "geometry": {"coordinates":[-70.292657,43.658045],"type":"Point"}
+  "bbox": [
+    -70.292657,
+    43.658045,
+    -70.292657,
+    43.658045
+],
+  "geometry": {"coordinates":[-70.29265700000001,43.658045],"type":"Point"}
 }

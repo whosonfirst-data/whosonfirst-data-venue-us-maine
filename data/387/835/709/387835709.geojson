@@ -2,13 +2,14 @@
   "id": 387835709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.394548,43.471197,-70.394548,43.471197",
     "geom:latitude":43.471197,
     "geom:longitude":-70.394548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"551 Ferry Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387835709,
-    "wof:lastmodified":1449056644,
+    "wof:lastmodified":1466587134,
     "wof:name":"Baron Rental Units",
     "wof:parent_id":85809025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-70.394548,43.471197,-70.394548,43.471197],
+  "bbox": [
+    -70.394548,
+    43.471197,
+    -70.394548,
+    43.471197
+],
   "geometry": {"coordinates":[-70.394548,43.471197],"type":"Point"}
 }

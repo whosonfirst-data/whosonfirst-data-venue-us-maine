@@ -2,13 +2,14 @@
   "id": 387859569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.402869,44.835702,-69.402869,44.835702",
     "geom:latitude":44.835702,
     "geom:longitude":-69.402869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"564 Main St",
     "sg:city":"Jackman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387859569,
-    "wof:lastmodified":1449058834,
+    "wof:lastmodified":1466587182,
     "wof:name":"Norman G Jensen Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "customs"
     ]
 },
-  "bbox": [-69.402869,44.835702,-69.402869,44.835702],
+  "bbox": [
+    -69.402869,
+    44.835702,
+    -69.402869,
+    44.835702
+],
   "geometry": {"coordinates":[-69.402869,44.835702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403989207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.594512,43.330164,-70.594512,43.330164",
     "geom:latitude":43.330164,
     "geom:longitude":-70.594512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 Burnt Mill Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403989207,
-    "wof:lastmodified":1449055589,
+    "wof:lastmodified":1466587088,
     "wof:name":"Personal Touch",
     "wof:parent_id":85815165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.594512,43.330164,-70.594512,43.330164],
-  "geometry": {"coordinates":[-70.594512,43.330164],"type":"Point"}
+  "bbox": [
+    -70.594512,
+    43.330164,
+    -70.594512,
+    43.330164
+],
+  "geometry": {"coordinates":[-70.59451199999999,43.330164],"type":"Point"}
 }

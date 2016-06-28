@@ -2,13 +2,14 @@
   "id": 403815337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.614672,44.543222,-69.614672,44.543222",
     "geom:latitude":44.543222,
     "geom:longitude":-69.614672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Charland St",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403815337,
-    "wof:lastmodified":1449055275,
+    "wof:lastmodified":1466586190,
     "wof:name":"Pool-Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tub"
     ]
 },
-  "bbox": [-69.614672,44.543222,-69.614672,44.543222],
+  "bbox": [
+    -69.614672,
+    44.543222,
+    -69.614672,
+    44.543222
+],
   "geometry": {"coordinates":[-69.614672,44.543222],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403942747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.431496,43.628047,-70.431496,43.628047",
     "geom:latitude":43.628047,
     "geom:longitude":-70.431496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Burnham Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403942747,
-    "wof:lastmodified":1449055244,
+    "wof:lastmodified":1466587067,
     "wof:name":"Watsons Software Solutions",
     "wof:parent_id":85838011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-70.431496,43.628047,-70.431496,43.628047],
+  "bbox": [
+    -70.431496,
+    43.628047,
+    -70.431496,
+    43.628047
+],
   "geometry": {"coordinates":[-70.431496,43.628047],"type":"Point"}
 }

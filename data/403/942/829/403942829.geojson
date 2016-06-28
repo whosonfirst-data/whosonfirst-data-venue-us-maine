@@ -2,13 +2,14 @@
   "id": 403942829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.28199,43.653899,-70.28199,43.653899",
     "geom:latitude":43.653899,
     "geom:longitude":-70.28199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Hemlock St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403942829,
-    "wof:lastmodified":1449055251,
+    "wof:lastmodified":1466587070,
     "wof:name":"Libby's Loving Pet Care",
     "wof:parent_id":85880029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-70.28199,43.653899,-70.28199,43.653899],
-  "geometry": {"coordinates":[-70.28199,43.653899],"type":"Point"}
+  "bbox": [
+    -70.28199,
+    43.653899,
+    -70.28199,
+    43.653899
+],
+  "geometry": {"coordinates":[-70.28198999999999,43.653899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404007607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.345283,43.58342,-70.345283,43.58342",
     "geom:latitude":43.58342,
     "geom:longitude":-70.345283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Commerce Dr",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404007607,
-    "wof:lastmodified":1449040101,
+    "wof:lastmodified":1466585793,
     "wof:name":"Scarborough Terrace",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adult"
     ]
 },
-  "bbox": [-70.345283,43.58342,-70.345283,43.58342],
-  "geometry": {"coordinates":[-70.345283,43.58342],"type":"Point"}
+  "bbox": [
+    -70.345283,
+    43.58342,
+    -70.345283,
+    43.58342
+],
+  "geometry": {"coordinates":[-70.34528299999999,43.58342],"type":"Point"}
 }

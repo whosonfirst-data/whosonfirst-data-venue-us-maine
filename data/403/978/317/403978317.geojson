@@ -2,13 +2,14 @@
   "id": 403978317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.649713,44.569294,-69.649713,44.569294",
     "geom:latitude":44.569294,
     "geom:longitude":-69.649713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Quarry Rd",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403978317,
-    "wof:lastmodified":1449055396,
+    "wof:lastmodified":1466587217,
     "wof:name":"Ken-A-Set Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.649713,44.569294,-69.649713,44.569294],
-  "geometry": {"coordinates":[-69.649713,44.569294],"type":"Point"}
+  "bbox": [
+    -69.649713,
+    44.569294,
+    -69.649713,
+    44.569294
+],
+  "geometry": {"coordinates":[-69.64971300000001,44.569294],"type":"Point"}
 }

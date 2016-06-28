@@ -2,13 +2,14 @@
   "id": 403956301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.712463,45.65302,-68.712463,45.65302",
     "geom:latitude":45.65302,
     "geom:longitude":-68.712463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Poplar St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403956301,
-    "wof:lastmodified":1449054856,
+    "wof:lastmodified":1466587157,
     "wof:name":"Adtime Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-68.712463,45.65302,-68.712463,45.65302],
+  "bbox": [
+    -68.712463,
+    45.65302,
+    -68.712463,
+    45.65302
+],
   "geometry": {"coordinates":[-68.712463,45.65302],"type":"Point"}
 }

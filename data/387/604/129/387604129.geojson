@@ -2,13 +2,14 @@
   "id": 387604129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.749907,44.836622,-68.749907,44.836622",
     "geom:latitude":44.836622,
     "geom:longitude":-68.749907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Penn Plz",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387604129,
-    "wof:lastmodified":1449059478,
+    "wof:lastmodified":1466586394,
     "wof:name":"Paul & Paul",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-68.749907,44.836622,-68.749907,44.836622],
-  "geometry": {"coordinates":[-68.749907,44.836622],"type":"Point"}
+  "bbox": [
+    -68.749907,
+    44.836622,
+    -68.749907,
+    44.836622
+],
+  "geometry": {"coordinates":[-68.74990699999999,44.836622],"type":"Point"}
 }

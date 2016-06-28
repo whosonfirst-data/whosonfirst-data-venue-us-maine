@@ -2,13 +2,14 @@
   "id": 387687991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.15106,44.670582,-70.15106,44.670582",
     "geom:latitude":44.670582,
     "geom:longitude":-70.15106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Broadway",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387687991,
-    "wof:lastmodified":1449057164,
+    "wof:lastmodified":1466586572,
     "wof:name":"Turners Tender Cut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.15106,44.670582,-70.15106,44.670582],
+  "bbox": [
+    -70.15106,
+    44.670582,
+    -70.15106,
+    44.670582
+],
   "geometry": {"coordinates":[-70.15106,44.670582],"type":"Point"}
 }

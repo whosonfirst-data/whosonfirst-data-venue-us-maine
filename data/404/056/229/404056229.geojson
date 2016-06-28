@@ -2,13 +2,14 @@
   "id": 404056229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.216497,44.095263,-70.216497,44.095263",
     "geom:latitude":44.095263,
     "geom:longitude":-70.216497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404056229,
-    "wof:lastmodified":1449039357,
+    "wof:lastmodified":1466586370,
     "wof:name":"Addiction & Behavior Cnslng",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-70.216497,44.095263,-70.216497,44.095263],
+  "bbox": [
+    -70.216497,
+    44.095263,
+    -70.216497,
+    44.095263
+],
   "geometry": {"coordinates":[-70.216497,44.095263],"type":"Point"}
 }

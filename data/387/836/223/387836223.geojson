@@ -2,13 +2,14 @@
   "id": 387836223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.473982,43.417314,-70.473982,43.417314",
     "geom:latitude":43.417314,
     "geom:longitude":-70.473982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Willey Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387836223,
-    "wof:lastmodified":1449058622,
+    "wof:lastmodified":1466587137,
     "wof:name":"Lake Region Security",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-70.473982,43.417314,-70.473982,43.417314],
-  "geometry": {"coordinates":[-70.473982,43.417314],"type":"Point"}
+  "bbox": [
+    -70.473982,
+    43.417314,
+    -70.473982,
+    43.417314
+],
+  "geometry": {"coordinates":[-70.47398200000001,43.417314],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404032081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.422882,44.543359,-68.422882,44.543359",
     "geom:latitude":44.543359,
     "geom:longitude":-68.422882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Church St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404032081,
-    "wof:lastmodified":1449039602,
+    "wof:lastmodified":1466585991,
     "wof:name":"Substance Abuse Svc-Ellsworth",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-68.422882,44.543359,-68.422882,44.543359],
+  "bbox": [
+    -68.422882,
+    44.543359,
+    -68.422882,
+    44.543359
+],
   "geometry": {"coordinates":[-68.422882,44.543359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387868003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.737358,43.305994,-70.737358,43.305994",
     "geom:latitude":43.305994,
     "geom:longitude":-70.737358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Wells St",
     "sg:city":"North Berwick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387868003,
-    "wof:lastmodified":1449056292,
+    "wof:lastmodified":1466587288,
     "wof:name":"United Technologies Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-70.737358,43.305994,-70.737358,43.305994],
+  "bbox": [
+    -70.737358,
+    43.305994,
+    -70.737358,
+    43.305994
+],
   "geometry": {"coordinates":[-70.737358,43.305994],"type":"Point"}
 }

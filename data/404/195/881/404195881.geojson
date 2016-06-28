@@ -2,13 +2,14 @@
   "id": 404195881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.288598,43.683869,-70.288598,43.683869",
     "geom:latitude":43.683869,
     "geom:longitude":-70.288598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Read St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404195881,
-    "wof:lastmodified":1449039925,
+    "wof:lastmodified":1466586905,
     "wof:name":"Business Equipment Unlimited",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "copying"
     ]
 },
-  "bbox": [-70.288598,43.683869,-70.288598,43.683869],
-  "geometry": {"coordinates":[-70.288598,43.683869],"type":"Point"}
+  "bbox": [
+    -70.288598,
+    43.683869,
+    -70.288598,
+    43.683869
+],
+  "geometry": {"coordinates":[-70.28859799999999,43.683869],"type":"Point"}
 }

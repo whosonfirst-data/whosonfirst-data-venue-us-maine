@@ -2,13 +2,14 @@
   "id": 403819895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.863475,43.280786,-70.863475,43.280786",
     "geom:latitude":43.280786,
     "geom:longitude":-70.863475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Old Pine Hill Rd",
     "sg:city":"Berwick",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403819895,
-    "wof:lastmodified":1449054955,
+    "wof:lastmodified":1466586261,
     "wof:name":"D D s Leather Shop & Feeds",
     "wof:parent_id":85892311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "riding"
     ]
 },
-  "bbox": [-70.863475,43.280786,-70.863475,43.280786],
-  "geometry": {"coordinates":[-70.863475,43.280786],"type":"Point"}
+  "bbox": [
+    -70.863475,
+    43.280786,
+    -70.863475,
+    43.280786
+],
+  "geometry": {"coordinates":[-70.86347499999999,43.280786],"type":"Point"}
 }

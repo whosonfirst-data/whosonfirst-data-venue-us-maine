@@ -2,13 +2,14 @@
   "id": 404058755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.455755,43.497309,-70.455755,43.497309",
     "geom:latitude":43.497309,
     "geom:longitude":-70.455755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Diamond St",
     "sg:city":"Lovell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404058755,
-    "wof:lastmodified":1449039189,
+    "wof:lastmodified":1466586417,
     "wof:name":"Residue-North Inc/Skip & Robin",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salvage"
     ]
 },
-  "bbox": [-70.455755,43.497309,-70.455755,43.497309],
+  "bbox": [
+    -70.455755,
+    43.497309,
+    -70.455755,
+    43.497309
+],
   "geometry": {"coordinates":[-70.455755,43.497309],"type":"Point"}
 }

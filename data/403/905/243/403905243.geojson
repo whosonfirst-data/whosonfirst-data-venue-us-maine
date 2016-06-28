@@ -2,13 +2,14 @@
   "id": 403905243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.663729,44.941455,-68.663729,44.941455",
     "geom:latitude":44.941455,
     "geom:longitude":-68.663729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Gilman Falls Ave",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403905243,
-    "wof:lastmodified":1449055164,
+    "wof:lastmodified":1466586936,
     "wof:name":"Magnetic North Guide Svc",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-68.663729,44.941455,-68.663729,44.941455],
+  "bbox": [
+    -68.663729,
+    44.941455,
+    -68.663729,
+    44.941455
+],
   "geometry": {"coordinates":[-68.663729,44.941455],"type":"Point"}
 }

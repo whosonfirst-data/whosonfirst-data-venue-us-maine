@@ -2,13 +2,14 @@
   "id": 387645909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.505073,45.36409,-68.505073,45.36409",
     "geom:latitude":45.36409,
     "geom:longitude":-68.505073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Fleming St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387645909,
-    "wof:lastmodified":1449056494,
+    "wof:lastmodified":1466585943,
     "wof:name":"Fleming Street Floral",
     "wof:parent_id":85849837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.505073,45.36409,-68.505073,45.36409],
+  "bbox": [
+    -68.505073,
+    45.36409,
+    -68.505073,
+    45.36409
+],
   "geometry": {"coordinates":[-68.505073,45.36409],"type":"Point"}
 }

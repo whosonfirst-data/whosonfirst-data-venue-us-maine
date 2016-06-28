@@ -2,13 +2,14 @@
   "id": 403933421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.750538,44.809675,-68.750538,44.809675",
     "geom:latitude":44.809675,
     "geom:longitude":-68.750538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 State St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403933421,
-    "wof:lastmodified":1449054909,
+    "wof:lastmodified":1466587030,
     "wof:name":"Penobscot Valley Plastic Surg",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-68.750538,44.809675,-68.750538,44.809675],
-  "geometry": {"coordinates":[-68.750538,44.809675],"type":"Point"}
+  "bbox": [
+    -68.750538,
+    44.809675,
+    -68.750538,
+    44.809675
+],
+  "geometry": {"coordinates":[-68.75053800000001,44.809675],"type":"Point"}
 }

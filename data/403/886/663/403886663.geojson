@@ -2,13 +2,14 @@
   "id": 403886663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.284471,43.670823,-70.284471,43.670823",
     "geom:latitude":43.670823,
     "geom:longitude":-70.284471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403886663,
-    "wof:lastmodified":1449055372,
+    "wof:lastmodified":1466586871,
     "wof:name":"New Wave",
     "wof:parent_id":85858627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-70.284471,43.670823,-70.284471,43.670823],
+  "bbox": [
+    -70.284471,
+    43.670823,
+    -70.284471,
+    43.670823
+],
   "geometry": {"coordinates":[-70.284471,43.670823],"type":"Point"}
 }

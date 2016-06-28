@@ -2,13 +2,14 @@
   "id": 387606743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.329374,43.629944,-70.329374,43.629944",
     "geom:latitude":43.629944,
     "geom:longitude":-70.329374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 John Roberts Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387606743,
-    "wof:lastmodified":1449056692,
+    "wof:lastmodified":1466586437,
     "wof:name":"TRC Environmental Corp",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pollution"
     ]
 },
-  "bbox": [-70.329374,43.629944,-70.329374,43.629944],
+  "bbox": [
+    -70.329374,
+    43.629944,
+    -70.329374,
+    43.629944
+],
   "geometry": {"coordinates":[-70.329374,43.629944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404060669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.404998,43.40273,-70.404998,43.40273",
     "geom:latitude":43.40273,
     "geom:longitude":-70.404998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Kings Hwy",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404060669,
-    "wof:lastmodified":1449040218,
+    "wof:lastmodified":1466586451,
     "wof:name":"Douston Construction Trailer",
     "wof:parent_id":85822309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.404998,43.40273,-70.404998,43.40273],
-  "geometry": {"coordinates":[-70.404998,43.40273],"type":"Point"}
+  "bbox": [
+    -70.404998,
+    43.40273,
+    -70.404998,
+    43.40273
+],
+  "geometry": {"coordinates":[-70.40499800000001,43.40273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387917843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.102021,43.858467,-70.102021,43.858467",
     "geom:latitude":43.858467,
     "geom:longitude":-70.102021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 School St",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387917843,
-    "wof:lastmodified":1449059420,
+    "wof:lastmodified":1466587176,
     "wof:name":"Rapid River Co",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.102021,43.858467,-70.102021,43.858467],
-  "geometry": {"coordinates":[-70.102021,43.858467],"type":"Point"}
+  "bbox": [
+    -70.102021,
+    43.858467,
+    -70.102021,
+    43.858467
+],
+  "geometry": {"coordinates":[-70.10202099999999,43.858467],"type":"Point"}
 }

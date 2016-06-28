@@ -2,13 +2,14 @@
   "id": 387650585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.349419,43.63352,-70.349419,43.63352",
     "geom:latitude":43.63352,
     "geom:longitude":-70.349419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Cummings Rd",
     "sg:city":"Buxton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387650585,
-    "wof:lastmodified":1449058426,
+    "wof:lastmodified":1466585980,
     "wof:name":"Done With Care Construction",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.349419,43.63352,-70.349419,43.63352],
+  "bbox": [
+    -70.349419,
+    43.63352,
+    -70.349419,
+    43.63352
+],
   "geometry": {"coordinates":[-70.349419,43.63352],"type":"Point"}
 }

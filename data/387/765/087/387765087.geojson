@@ -2,13 +2,14 @@
   "id": 387765087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.356081,43.585649,-70.356081,43.585649",
     "geom:latitude":43.585649,
     "geom:longitude":-70.356081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"371 US Hwy 1",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387765087,
-    "wof:lastmodified":1449058302,
+    "wof:lastmodified":1466586948,
     "wof:name":"Landrover Of Scarborough",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.356081,43.585649,-70.356081,43.585649],
+  "bbox": [
+    -70.356081,
+    43.585649,
+    -70.356081,
+    43.585649
+],
   "geometry": {"coordinates":[-70.356081,43.585649],"type":"Point"}
 }

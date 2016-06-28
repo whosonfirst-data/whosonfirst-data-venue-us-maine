@@ -2,13 +2,14 @@
   "id": 404122407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.973112,43.916843,-69.973112,43.916843",
     "geom:latitude":43.916843,
     "geom:longitude":-69.973112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Mill St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404122407,
-    "wof:lastmodified":1449039814,
+    "wof:lastmodified":1466586334,
     "wof:name":"Rent A Husband Of Brunswick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-69.973112,43.916843,-69.973112,43.916843],
+  "bbox": [
+    -69.973112,
+    43.916843,
+    -69.973112,
+    43.916843
+],
   "geometry": {"coordinates":[-69.973112,43.916843],"type":"Point"}
 }

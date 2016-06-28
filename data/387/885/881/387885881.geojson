@@ -2,13 +2,14 @@
   "id": 387885881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.986654,44.912697,-66.986654,44.912697",
     "geom:latitude":44.912697,
     "geom:longitude":-66.986654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Water St",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387885881,
-    "wof:lastmodified":1449058130,
+    "wof:lastmodified":1466587307,
     "wof:name":"Brian Schuth",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-66.986654,44.912697,-66.986654,44.912697],
+  "bbox": [
+    -66.986654,
+    44.912697,
+    -66.986654,
+    44.912697
+],
   "geometry": {"coordinates":[-66.986654,44.912697],"type":"Point"}
 }

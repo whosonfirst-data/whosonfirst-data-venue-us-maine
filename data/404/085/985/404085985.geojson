@@ -2,13 +2,14 @@
   "id": 404085985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.277575,43.674283,-70.277575,43.674283",
     "geom:latitude":43.674283,
     "geom:longitude":-70.277575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Parsons Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404085985,
-    "wof:lastmodified":1449039343,
+    "wof:lastmodified":1466585823,
     "wof:name":"Yardley Development Co",
     "wof:parent_id":85858625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.277575,43.674283,-70.277575,43.674283],
+  "bbox": [
+    -70.277575,
+    43.674283,
+    -70.277575,
+    43.674283
+],
   "geometry": {"coordinates":[-70.277575,43.674283],"type":"Point"}
 }

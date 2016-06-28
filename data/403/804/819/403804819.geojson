@@ -2,13 +2,14 @@
   "id": 403804819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.244774,43.970889,-70.244774,43.970889",
     "geom:latitude":43.970889,
     "geom:longitude":-70.244774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Woodman Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403804819,
-    "wof:lastmodified":1449055533,
+    "wof:lastmodified":1466586024,
     "wof:name":"Chaplin Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.244774,43.970889,-70.244774,43.970889],
-  "geometry": {"coordinates":[-70.244774,43.970889],"type":"Point"}
+  "bbox": [
+    -70.244774,
+    43.970889,
+    -70.244774,
+    43.970889
+],
+  "geometry": {"coordinates":[-70.24477400000001,43.970889],"type":"Point"}
 }

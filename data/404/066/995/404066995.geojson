@@ -2,13 +2,14 @@
   "id": 404066995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.98917,44.402283,-68.98917,44.402283",
     "geom:latitude":44.402283,
     "geom:longitude":-68.98917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Northport Ave",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404066995,
-    "wof:lastmodified":1449039370,
+    "wof:lastmodified":1466586527,
     "wof:name":"Belfast Veterinary Hospital",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-68.98917,44.402283,-68.98917,44.402283],
+  "bbox": [
+    -68.98917,
+    44.402283,
+    -68.98917,
+    44.402283
+],
   "geometry": {"coordinates":[-68.98917,44.402283],"type":"Point"}
 }

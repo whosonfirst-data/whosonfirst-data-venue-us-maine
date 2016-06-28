@@ -2,13 +2,14 @@
   "id": 404030541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.996077,44.703768,-68.996077,44.703768",
     "geom:latitude":44.703768,
     "geom:longitude":-68.996077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Flynn Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404030541,
-    "wof:lastmodified":1449039467,
+    "wof:lastmodified":1466585978,
     "wof:name":"Traci L Martin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-68.996077,44.703768,-68.996077,44.703768],
+  "bbox": [
+    -68.996077,
+    44.703768,
+    -68.996077,
+    44.703768
+],
   "geometry": {"coordinates":[-68.996077,44.703768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387895837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.528371,45.08296,-70.528371,45.08296",
     "geom:latitude":45.08296,
     "geom:longitude":-70.528371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 Rangeley Rd",
     "sg:city":"Phillips",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387895837,
-    "wof:lastmodified":1449057720,
+    "wof:lastmodified":1466587237,
     "wof:name":"B & M Auctions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-70.528371,45.08296,-70.528371,45.08296],
-  "geometry": {"coordinates":[-70.528371,45.08296],"type":"Point"}
+  "bbox": [
+    -70.528371,
+    45.08296,
+    -70.528371,
+    45.08296
+],
+  "geometry": {"coordinates":[-70.52837100000001,45.08296],"type":"Point"}
 }

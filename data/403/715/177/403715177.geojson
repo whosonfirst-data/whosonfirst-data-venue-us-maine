@@ -2,13 +2,14 @@
   "id": 403715177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.288965,43.663171,-70.288965,43.663171",
     "geom:latitude":43.663171,
     "geom:longitude":-70.288965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"196 Whitney Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403715177,
-    "wof:lastmodified":1449055691,
+    "wof:lastmodified":1466585800,
     "wof:name":"Hosmer Barry J Ldscp Architec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-70.288965,43.663171,-70.288965,43.663171],
+  "bbox": [
+    -70.288965,
+    43.663171,
+    -70.288965,
+    43.663171
+],
   "geometry": {"coordinates":[-70.288965,43.663171],"type":"Point"}
 }

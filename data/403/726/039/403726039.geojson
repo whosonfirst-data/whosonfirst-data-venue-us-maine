@@ -2,13 +2,14 @@
   "id": 403726039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.719545,45.667472,-68.719545,45.667472",
     "geom:latitude":45.667472,
     "geom:longitude":-68.719545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Bates St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403726039,
-    "wof:lastmodified":1449055519,
+    "wof:lastmodified":1466585915,
     "wof:name":"Toms Nascar Novelties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.719545,45.667472,-68.719545,45.667472],
+  "bbox": [
+    -68.719545,
+    45.667472,
+    -68.719545,
+    45.667472
+],
   "geometry": {"coordinates":[-68.719545,45.667472],"type":"Point"}
 }

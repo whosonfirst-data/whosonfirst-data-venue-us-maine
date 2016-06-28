@@ -2,13 +2,14 @@
   "id": 387625489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.649575,44.821213,-68.649575,44.821213",
     "geom:latitude":44.821213,
     "geom:longitude":-68.649575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Lunn Ln",
     "sg:city":"Eddington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387625489,
-    "wof:lastmodified":1449059979,
+    "wof:lastmodified":1466586692,
     "wof:name":"Imperial Homes",
     "wof:parent_id":85804681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.649575,44.821213,-68.649575,44.821213],
+  "bbox": [
+    -68.649575,
+    44.821213,
+    -68.649575,
+    44.821213
+],
   "geometry": {"coordinates":[-68.649575,44.821213],"type":"Point"}
 }

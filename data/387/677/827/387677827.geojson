@@ -2,13 +2,14 @@
   "id": 387677827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.632263,43.999804,-69.632263,43.999804",
     "geom:latitude":43.999804,
     "geom:longitude":-69.632263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Booth Boy Rd",
     "sg:city":"East Boothbay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387677827,
-    "wof:lastmodified":1449057464,
+    "wof:lastmodified":1466586406,
     "wof:name":"Five Gables Inn",
     "wof:parent_id":85837569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-69.632263,43.999804,-69.632263,43.999804],
-  "geometry": {"coordinates":[-69.632263,43.999804],"type":"Point"}
+  "bbox": [
+    -69.632263,
+    43.999804,
+    -69.632263,
+    43.999804
+],
+  "geometry": {"coordinates":[-69.63226299999999,43.999804],"type":"Point"}
 }

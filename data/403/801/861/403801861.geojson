@@ -2,13 +2,14 @@
   "id": 403801861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.429022,43.833596,-70.429022,43.833596",
     "geom:latitude":43.833596,
     "geom:longitude":-70.429022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Heathwood Dr",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403801861,
-    "wof:lastmodified":1449055742,
+    "wof:lastmodified":1466585976,
     "wof:name":"Automotive Execellence",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.429022,43.833596,-70.429022,43.833596],
+  "bbox": [
+    -70.429022,
+    43.833596,
+    -70.429022,
+    43.833596
+],
   "geometry": {"coordinates":[-70.429022,43.833596],"type":"Point"}
 }

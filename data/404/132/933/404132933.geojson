@@ -2,13 +2,14 @@
   "id": 404132933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.160874,43.834299,-70.160874,43.834299",
     "geom:latitude":43.834299,
     "geom:longitude":-70.160874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Sequoia Dr",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404132933,
-    "wof:lastmodified":1449039596,
+    "wof:lastmodified":1466586493,
     "wof:name":"Samuel W Meyer Ent",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.160874,43.834299,-70.160874,43.834299],
-  "geometry": {"coordinates":[-70.160874,43.834299],"type":"Point"}
+  "bbox": [
+    -70.160874,
+    43.834299,
+    -70.160874,
+    43.834299
+],
+  "geometry": {"coordinates":[-70.16087400000001,43.834299],"type":"Point"}
 }

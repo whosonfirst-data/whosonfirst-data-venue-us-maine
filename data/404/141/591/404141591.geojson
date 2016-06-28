@@ -2,13 +2,14 @@
   "id": 404141591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.442414,43.602978,-70.442414,43.602978",
     "geom:latitude":43.602978,
     "geom:longitude":-70.442414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"284 Broadturn Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404141591,
-    "wof:lastmodified":1449039442,
+    "wof:lastmodified":1466586686,
     "wof:name":"Lori L Sarnecki",
     "wof:parent_id":85834397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.442414,43.602978,-70.442414,43.602978],
+  "bbox": [
+    -70.442414,
+    43.602978,
+    -70.442414,
+    43.602978
+],
   "geometry": {"coordinates":[-70.442414,43.602978],"type":"Point"}
 }

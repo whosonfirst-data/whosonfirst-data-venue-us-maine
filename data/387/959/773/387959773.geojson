@@ -2,13 +2,14 @@
   "id": 387959773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.08324,44.184075,-69.08324,44.184075",
     "geom:latitude":44.184075,
     "geom:longitude":-69.08324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Commercial St",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387959773,
-    "wof:lastmodified":1449059534,
+    "wof:lastmodified":1466587343,
     "wof:name":"David C Olivas DDS",
     "wof:parent_id":85845529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-69.08324,44.184075,-69.08324,44.184075],
+  "bbox": [
+    -69.08324,
+    44.184075,
+    -69.08324,
+    44.184075
+],
   "geometry": {"coordinates":[-69.08324,44.184075],"type":"Point"}
 }

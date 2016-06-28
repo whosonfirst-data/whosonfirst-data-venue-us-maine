@@ -2,13 +2,14 @@
   "id": 404070527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.309664,43.651923,-70.309664,43.651923",
     "geom:latitude":43.651923,
     "geom:longitude":-70.309664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Westbrook St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404070527,
-    "wof:lastmodified":1449039593,
+    "wof:lastmodified":1466586589,
     "wof:name":"System Support Center",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-70.309664,43.651923,-70.309664,43.651923],
+  "bbox": [
+    -70.309664,
+    43.651923,
+    -70.309664,
+    43.651923
+],
   "geometry": {"coordinates":[-70.309664,43.651923],"type":"Point"}
 }

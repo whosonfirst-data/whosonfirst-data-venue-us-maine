@@ -2,13 +2,14 @@
   "id": 403721573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.246533,43.823795,-70.246533,43.823795",
     "geom:latitude":43.823795,
     "geom:longitude":-70.246533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"373 Walnut Hill Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403721573,
-    "wof:lastmodified":1449055962,
+    "wof:lastmodified":1466585875,
     "wof:name":"North East Sportsmans Whlsl",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fishing"
     ]
 },
-  "bbox": [-70.246533,43.823795,-70.246533,43.823795],
+  "bbox": [
+    -70.246533,
+    43.823795,
+    -70.246533,
+    43.823795
+],
   "geometry": {"coordinates":[-70.246533,43.823795],"type":"Point"}
 }

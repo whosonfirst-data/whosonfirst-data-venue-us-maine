@@ -2,13 +2,14 @@
   "id": 387850297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.249323,43.660867,-70.249323,43.660867",
     "geom:latitude":43.660867,
     "geom:longitude":-70.249323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Middle St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387850297,
-    "wof:lastmodified":1449058307,
+    "wof:lastmodified":1466587066,
     "wof:name":"Hannon & Sneden",
     "wof:parent_id":85835993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [-70.249323,43.660867,-70.249323,43.660867],
+  "bbox": [
+    -70.249323,
+    43.660867,
+    -70.249323,
+    43.660867
+],
   "geometry": {"coordinates":[-70.249323,43.660867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403922623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.920843,44.960822,-68.920843,44.960822",
     "geom:latitude":44.960822,
     "geom:longitude":-68.920843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Darling Rd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403922623,
-    "wof:lastmodified":1449054759,
+    "wof:lastmodified":1466586993,
     "wof:name":"Burns Septic Systems",
     "wof:parent_id":85855557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.920843,44.960822,-68.920843,44.960822],
+  "bbox": [
+    -68.920843,
+    44.960822,
+    -68.920843,
+    44.960822
+],
   "geometry": {"coordinates":[-68.920843,44.960822],"type":"Point"}
 }

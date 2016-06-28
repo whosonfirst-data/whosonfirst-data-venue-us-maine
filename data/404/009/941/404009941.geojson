@@ -2,13 +2,14 @@
   "id": 404009941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.3378,43.719358,-70.3378,43.719358",
     "geom:latitude":43.719358,
     "geom:longitude":-70.3378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"582 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404009941,
-    "wof:lastmodified":1449040310,
+    "wof:lastmodified":1466585805,
     "wof:name":"Swenson Granite Works",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "granite"
     ]
 },
-  "bbox": [-70.3378,43.719358,-70.3378,43.719358],
+  "bbox": [
+    -70.3378,
+    43.719358,
+    -70.3378,
+    43.719358
+],
   "geometry": {"coordinates":[-70.3378,43.719358],"type":"Point"}
 }

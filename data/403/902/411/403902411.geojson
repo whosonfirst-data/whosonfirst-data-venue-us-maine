@@ -2,13 +2,14 @@
   "id": 403902411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.688741,44.867917,-68.688741,44.867917",
     "geom:latitude":44.867917,
     "geom:longitude":-68.688741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Alumni Dr",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403902411,
-    "wof:lastmodified":1449055598,
+    "wof:lastmodified":1466586928,
     "wof:name":"University Of Maine Foundation",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "philanthropic"
     ]
 },
-  "bbox": [-68.688741,44.867917,-68.688741,44.867917],
-  "geometry": {"coordinates":[-68.688741,44.867917],"type":"Point"}
+  "bbox": [
+    -68.688741,
+    44.867917,
+    -68.688741,
+    44.867917
+],
+  "geometry": {"coordinates":[-68.68874099999999,44.867917],"type":"Point"}
 }

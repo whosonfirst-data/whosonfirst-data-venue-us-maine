@@ -2,13 +2,14 @@
   "id": 404013259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.490092,44.26812,-69.490092,44.26812",
     "geom:latitude":44.26812,
     "geom:longitude":-69.490092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"672 Crummett Mountain Rd",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404013259,
-    "wof:lastmodified":1449039938,
+    "wof:lastmodified":1466585826,
     "wof:name":"Susans Lupine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.490092,44.26812,-69.490092,44.26812],
+  "bbox": [
+    -69.490092,
+    44.26812,
+    -69.490092,
+    44.26812
+],
   "geometry": {"coordinates":[-69.490092,44.26812],"type":"Point"}
 }

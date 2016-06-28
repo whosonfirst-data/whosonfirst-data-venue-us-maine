@@ -2,13 +2,14 @@
   "id": 387578629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.289518,43.680645,-70.289518,43.680645",
     "geom:latitude":43.680645,
     "geom:longitude":-70.289518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"970 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387578629,
-    "wof:lastmodified":1449057062,
+    "wof:lastmodified":1466586002,
     "wof:name":"All Options Clergy Pregnancy",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "information"
     ]
 },
-  "bbox": [-70.289518,43.680645,-70.289518,43.680645],
+  "bbox": [
+    -70.289518,
+    43.680645,
+    -70.289518,
+    43.680645
+],
   "geometry": {"coordinates":[-70.289518,43.680645],"type":"Point"}
 }

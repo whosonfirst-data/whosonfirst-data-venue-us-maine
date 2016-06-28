@@ -2,13 +2,14 @@
   "id": 387809927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.262734,43.658366,-70.262734,43.658366",
     "geom:latitude":43.658366,
     "geom:longitude":-70.262734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Portland St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387809927,
-    "wof:lastmodified":1449059242,
+    "wof:lastmodified":1466587166,
     "wof:name":"US Hearings & Appeals Ofc",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.262734,43.658366,-70.262734,43.658366],
-  "geometry": {"coordinates":[-70.262734,43.658366],"type":"Point"}
+  "bbox": [
+    -70.262734,
+    43.658366,
+    -70.262734,
+    43.658366
+],
+  "geometry": {"coordinates":[-70.26273399999999,43.658366],"type":"Point"}
 }

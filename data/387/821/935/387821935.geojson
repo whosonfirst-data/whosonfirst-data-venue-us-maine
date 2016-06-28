@@ -2,13 +2,14 @@
   "id": 387821935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.826947,46.762931,-67.826947,46.762931",
     "geom:latitude":46.762931,
     "geom:longitude":-67.826947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Harding Ave",
     "sg:city":"Island Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387821935,
-    "wof:lastmodified":1449058185,
+    "wof:lastmodified":1466587190,
     "wof:name":"Island Falls Vet Clinic",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-67.826947,46.762931,-67.826947,46.762931],
+  "bbox": [
+    -67.826947,
+    46.762931,
+    -67.826947,
+    46.762931
+],
   "geometry": {"coordinates":[-67.826947,46.762931],"type":"Point"}
 }

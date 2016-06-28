@@ -2,13 +2,14 @@
   "id": 404211619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.615893,43.323017,-70.615893,43.323017",
     "geom:latitude":43.323017,
     "geom:longitude":-70.615893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Hubbard Ln",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404211619,
-    "wof:lastmodified":1449039337,
+    "wof:lastmodified":1466586961,
     "wof:name":"Oakwood Development",
     "wof:parent_id":85810445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.615893,43.323017,-70.615893,43.323017],
+  "bbox": [
+    -70.615893,
+    43.323017,
+    -70.615893,
+    43.323017
+],
   "geometry": {"coordinates":[-70.615893,43.323017],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403917163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.07777,44.388923,-68.07777,44.388923",
     "geom:latitude":44.388923,
     "geom:longitude":-68.07777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Sargent St",
     "sg:city":"Winter Harbor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403917163,
-    "wof:lastmodified":1449055790,
+    "wof:lastmodified":1466586883,
     "wof:name":"Winter Harbor Marine",
     "wof:parent_id":85821423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-68.07777,44.388923,-68.07777,44.388923],
+  "bbox": [
+    -68.07777,
+    44.388923,
+    -68.07777,
+    44.388923
+],
   "geometry": {"coordinates":[-68.07777,44.388923],"type":"Point"}
 }

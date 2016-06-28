@@ -2,13 +2,14 @@
   "id": 403993137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.842016,43.299677,-70.842016,43.299677",
     "geom:latitude":43.299677,
     "geom:longitude":-70.842016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Cranberry Meadow Rd",
     "sg:city":"Berwick",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403993137,
-    "wof:lastmodified":1449055220,
+    "wof:lastmodified":1466587171,
     "wof:name":"L & S Equipment Co",
     "wof:parent_id":85892311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tractor"
     ]
 },
-  "bbox": [-70.842016,43.299677,-70.842016,43.299677],
+  "bbox": [
+    -70.842016,
+    43.299677,
+    -70.842016,
+    43.299677
+],
   "geometry": {"coordinates":[-70.842016,43.299677],"type":"Point"}
 }

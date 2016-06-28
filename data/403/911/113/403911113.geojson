@@ -2,13 +2,14 @@
   "id": 403911113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.274435,43.65182,-70.274435,43.65182",
     "geom:latitude":43.65182,
     "geom:longitude":-70.274435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Chadwick St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403911113,
-    "wof:lastmodified":1449055756,
+    "wof:lastmodified":1466587044,
     "wof:name":"Bowdoin Development Co",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "agency"
     ]
 },
-  "bbox": [-70.274435,43.65182,-70.274435,43.65182],
+  "bbox": [
+    -70.274435,
+    43.65182,
+    -70.274435,
+    43.65182
+],
   "geometry": {"coordinates":[-70.274435,43.65182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404092983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.721377,43.432567,-70.721377,43.432567",
     "geom:latitude":43.432567,
     "geom:longitude":-70.721377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Terry Dr",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404092983,
-    "wof:lastmodified":1449040072,
+    "wof:lastmodified":1466585893,
     "wof:name":"Dube Design & Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.721377,43.432567,-70.721377,43.432567],
+  "bbox": [
+    -70.721377,
+    43.432567,
+    -70.721377,
+    43.432567
+],
   "geometry": {"coordinates":[-70.721377,43.432567],"type":"Point"}
 }

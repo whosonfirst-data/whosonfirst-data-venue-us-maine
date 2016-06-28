@@ -2,13 +2,14 @@
   "id": 403913285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.163491,44.073116,-69.163491,44.073116",
     "geom:latitude":44.073116,
     "geom:longitude":-69.163491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 St George Rd",
     "sg:city":"South Thomaston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403913285,
-    "wof:lastmodified":1449055146,
+    "wof:lastmodified":1466586878,
     "wof:name":"Phoenix Mandolins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.163491,44.073116,-69.163491,44.073116],
-  "geometry": {"coordinates":[-69.163491,44.073116],"type":"Point"}
+  "bbox": [
+    -69.163491,
+    44.073116,
+    -69.163491,
+    44.073116
+],
+  "geometry": {"coordinates":[-69.16349099999999,44.073116],"type":"Point"}
 }

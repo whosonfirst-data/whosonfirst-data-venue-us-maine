@@ -2,13 +2,14 @@
   "id": 387644901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.206881,44.102698,-70.206881,44.102698",
     "geom:latitude":44.102698,
     "geom:longitude":-70.206881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Nichols St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387644901,
-    "wof:lastmodified":1449058282,
+    "wof:lastmodified":1466586663,
     "wof:name":"Reflections Mobile Wash",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.206881,44.102698,-70.206881,44.102698],
+  "bbox": [
+    -70.206881,
+    44.102698,
+    -70.206881,
+    44.102698
+],
   "geometry": {"coordinates":[-70.206881,44.102698],"type":"Point"}
 }

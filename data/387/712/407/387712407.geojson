@@ -2,13 +2,14 @@
   "id": 387712407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.177938,44.031576,-70.177938,44.031576",
     "geom:latitude":44.031576,
     "geom:longitude":-70.177938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Ferry Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387712407,
-    "wof:lastmodified":1449057739,
+    "wof:lastmodified":1466586770,
     "wof:name":"Cerenau Natural Living Center",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "sitting"
     ]
 },
-  "bbox": [-70.177938,44.031576,-70.177938,44.031576],
+  "bbox": [
+    -70.177938,
+    44.031576,
+    -70.177938,
+    44.031576
+],
   "geometry": {"coordinates":[-70.177938,44.031576],"type":"Point"}
 }

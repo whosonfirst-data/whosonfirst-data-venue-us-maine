@@ -2,13 +2,14 @@
   "id": 403886701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.505446,43.879188,-69.505446,43.879188",
     "geom:latitude":43.879188,
     "geom:longitude":-69.505446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Huddle Rd",
     "sg:city":"New Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403886701,
-    "wof:lastmodified":1449055374,
+    "wof:lastmodified":1466586872,
     "wof:name":"Harbor Waves",
     "wof:parent_id":85841123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.505446,43.879188,-69.505446,43.879188],
-  "geometry": {"coordinates":[-69.505446,43.879188],"type":"Point"}
+  "bbox": [
+    -69.505446,
+    43.879188,
+    -69.505446,
+    43.879188
+],
+  "geometry": {"coordinates":[-69.50544600000001,43.879188],"type":"Point"}
 }

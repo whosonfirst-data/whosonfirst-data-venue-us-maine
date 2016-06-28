@@ -2,13 +2,14 @@
   "id": 387833773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.208442,44.092971,-70.208442,44.092971",
     "geom:latitude":44.092971,
     "geom:longitude":-70.208442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Bartlett St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387833773,
-    "wof:lastmodified":1449056592,
+    "wof:lastmodified":1466587212,
     "wof:name":"American Abatement Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "removal"
     ]
 },
-  "bbox": [-70.208442,44.092971,-70.208442,44.092971],
-  "geometry": {"coordinates":[-70.208442,44.092971],"type":"Point"}
+  "bbox": [
+    -70.208442,
+    44.092971,
+    -70.208442,
+    44.092971
+],
+  "geometry": {"coordinates":[-70.20844200000001,44.092971],"type":"Point"}
 }

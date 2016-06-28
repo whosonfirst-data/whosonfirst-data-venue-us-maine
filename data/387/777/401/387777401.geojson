@@ -2,13 +2,14 @@
   "id": 387777401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.836072,46.771804,-67.836072,46.771804",
     "geom:latitude":46.771804,
     "geom:longitude":-67.836072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Pool Dr",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387777401,
-    "wof:lastmodified":1449058116,
+    "wof:lastmodified":1466586993,
     "wof:name":"Swimming Pool",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-67.836072,46.771804,-67.836072,46.771804],
+  "bbox": [
+    -67.836072,
+    46.771804,
+    -67.836072,
+    46.771804
+],
   "geometry": {"coordinates":[-67.836072,46.771804],"type":"Point"}
 }

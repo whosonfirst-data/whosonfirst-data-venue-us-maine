@@ -2,13 +2,14 @@
   "id": 403863815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.334871,43.717601,-70.334871,43.717601",
     "geom:latitude":43.717601,
     "geom:longitude":-70.334871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Elmwood Ave",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403863815,
-    "wof:lastmodified":1449055526,
+    "wof:lastmodified":1466586757,
     "wof:name":"B S Ingraham Inc",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "driveway"
     ]
 },
-  "bbox": [-70.334871,43.717601,-70.334871,43.717601],
-  "geometry": {"coordinates":[-70.334871,43.717601],"type":"Point"}
+  "bbox": [
+    -70.334871,
+    43.717601,
+    -70.334871,
+    43.717601
+],
+  "geometry": {"coordinates":[-70.33487100000001,43.717601],"type":"Point"}
 }

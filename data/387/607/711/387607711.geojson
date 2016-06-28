@@ -2,13 +2,14 @@
   "id": 387607711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.751078,44.783871,-68.751078,44.783871",
     "geom:latitude":44.783871,
     "geom:longitude":-68.751078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 Wilson St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387607711,
-    "wof:lastmodified":1449056612,
+    "wof:lastmodified":1466586456,
     "wof:name":"B & D Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-68.751078,44.783871,-68.751078,44.783871],
-  "geometry": {"coordinates":[-68.751078,44.783871],"type":"Point"}
+  "bbox": [
+    -68.751078,
+    44.783871,
+    -68.751078,
+    44.783871
+],
+  "geometry": {"coordinates":[-68.75107800000001,44.783871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387962841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.434226,43.68077,-70.434226,43.68077",
     "geom:latitude":43.68077,
     "geom:longitude":-70.434226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 New Portland Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387962841,
-    "wof:lastmodified":1449058340,
+    "wof:lastmodified":1466587299,
     "wof:name":"Gorham House Preschool",
     "wof:parent_id":85835377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-70.434226,43.68077,-70.434226,43.68077],
+  "bbox": [
+    -70.434226,
+    43.68077,
+    -70.434226,
+    43.68077
+],
   "geometry": {"coordinates":[-70.434226,43.68077],"type":"Point"}
 }

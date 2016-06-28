@@ -2,13 +2,14 @@
   "id": 387762847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.287757,44.294469,-68.287757,44.294469",
     "geom:latitude":44.294469,
     "geom:longitude":-68.287757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Sea St",
     "sg:city":"Northeast Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387762847,
-    "wof:lastmodified":1449058793,
+    "wof:lastmodified":1466586947,
     "wof:name":"Mount Desert Municipal Office",
     "wof:parent_id":85803817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-68.287757,44.294469,-68.287757,44.294469],
+  "bbox": [
+    -68.287757,
+    44.294469,
+    -68.287757,
+    44.294469
+],
   "geometry": {"coordinates":[-68.287757,44.294469],"type":"Point"}
 }

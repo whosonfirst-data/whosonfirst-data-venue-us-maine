@@ -2,13 +2,14 @@
   "id": 403856051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.092318,44.219427,-70.092318,44.219427",
     "geom:latitude":44.219427,
     "geom:longitude":-70.092318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 US Hwy 202",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403856051,
-    "wof:lastmodified":1449055020,
+    "wof:lastmodified":1466586736,
     "wof:name":"Pierre's Auto Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-70.092318,44.219427,-70.092318,44.219427],
-  "geometry": {"coordinates":[-70.092318,44.219427],"type":"Point"}
+  "bbox": [
+    -70.092318,
+    44.219427,
+    -70.092318,
+    44.219427
+],
+  "geometry": {"coordinates":[-70.09231800000001,44.219427],"type":"Point"}
 }

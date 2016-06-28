@@ -2,13 +2,14 @@
   "id": 404088519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.797488,44.422736,-70.797488,44.422736",
     "geom:latitude":44.422736,
     "geom:longitude":-70.797488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Mayville Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404088519,
-    "wof:lastmodified":1449040023,
+    "wof:lastmodified":1466586642,
     "wof:name":"Briar-Lea Inn & Restaurant",
     "wof:parent_id":85837355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.797488,44.422736,-70.797488,44.422736],
+  "bbox": [
+    -70.797488,
+    44.422736,
+    -70.797488,
+    44.422736
+],
   "geometry": {"coordinates":[-70.797488,44.422736],"type":"Point"}
 }

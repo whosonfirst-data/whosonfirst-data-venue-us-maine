@@ -2,13 +2,14 @@
   "id": 387558757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.273522,43.629343,-70.273522,43.629343",
     "geom:latitude":43.629343,
     "geom:longitude":-70.273522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Minott St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387558757,
-    "wof:lastmodified":1449057135,
+    "wof:lastmodified":1466585731,
     "wof:name":"Missionaries LDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.273522,43.629343,-70.273522,43.629343],
+  "bbox": [
+    -70.273522,
+    43.629343,
+    -70.273522,
+    43.629343
+],
   "geometry": {"coordinates":[-70.273522,43.629343],"type":"Point"}
 }

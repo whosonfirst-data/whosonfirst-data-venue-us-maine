@@ -2,13 +2,14 @@
   "id": 387629609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.648422,43.988613,-69.648422,43.988613",
     "geom:latitude":43.988613,
     "geom:longitude":-69.648422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Eddy Rd",
     "sg:city":"Edgecomb",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387629609,
-    "wof:lastmodified":1449059017,
+    "wof:lastmodified":1466585796,
     "wof:name":"Eddy Yacht Sales & Marina",
     "wof:parent_id":85820077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-69.648422,43.988613,-69.648422,43.988613],
+  "bbox": [
+    -69.648422,
+    43.988613,
+    -69.648422,
+    43.988613
+],
   "geometry": {"coordinates":[-69.648422,43.988613],"type":"Point"}
 }

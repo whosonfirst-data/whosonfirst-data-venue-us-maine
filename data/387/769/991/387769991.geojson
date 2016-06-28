@@ -2,13 +2,14 @@
   "id": 387769991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.106472,44.020414,-70.106472,44.020414",
     "geom:latitude":44.020414,
     "geom:longitude":-70.106472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Andrea St",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387769991,
-    "wof:lastmodified":1449057363,
+    "wof:lastmodified":1466587055,
     "wof:name":"Support Solution",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-70.106472,44.020414,-70.106472,44.020414],
+  "bbox": [
+    -70.106472,
+    44.020414,
+    -70.106472,
+    44.020414
+],
   "geometry": {"coordinates":[-70.106472,44.020414],"type":"Point"}
 }

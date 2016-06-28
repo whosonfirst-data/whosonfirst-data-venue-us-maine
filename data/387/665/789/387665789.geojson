@@ -2,13 +2,14 @@
   "id": 387665789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.287185,43.635282,-70.287185,43.635282",
     "geom:latitude":43.635282,
     "geom:longitude":-70.287185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Main St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387665789,
-    "wof:lastmodified":1449057263,
+    "wof:lastmodified":1466586215,
     "wof:name":"Sheila Mc Kenzie",
     "wof:parent_id":85809743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "registry"
     ]
 },
-  "bbox": [-70.287185,43.635282,-70.287185,43.635282],
-  "geometry": {"coordinates":[-70.287185,43.635282],"type":"Point"}
+  "bbox": [
+    -70.287185,
+    43.635282,
+    -70.287185,
+    43.635282
+],
+  "geometry": {"coordinates":[-70.28718499999999,43.635282],"type":"Point"}
 }

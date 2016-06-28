@@ -2,13 +2,14 @@
   "id": 387901585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.792563,43.118381,-70.792563,43.118381",
     "geom:latitude":43.118381,
     "geom:longitude":-70.792563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Farmer Rd",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387901585,
-    "wof:lastmodified":1449057701,
+    "wof:lastmodified":1466587240,
     "wof:name":"Eliot Meat Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-70.792563,43.118381,-70.792563,43.118381],
+  "bbox": [
+    -70.792563,
+    43.118381,
+    -70.792563,
+    43.118381
+],
   "geometry": {"coordinates":[-70.792563,43.118381],"type":"Point"}
 }

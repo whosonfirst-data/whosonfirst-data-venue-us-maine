@@ -2,13 +2,14 @@
   "id": 403846735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.795361,44.286804,-69.795361,44.286804",
     "geom:latitude":44.286804,
     "geom:longitude":-69.795361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Central St",
     "sg:city":"Hallowell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403846735,
-    "wof:lastmodified":1449055674,
+    "wof:lastmodified":1466586710,
     "wof:name":"Atlantic Provisions",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-69.795361,44.286804,-69.795361,44.286804],
+  "bbox": [
+    -69.795361,
+    44.286804,
+    -69.795361,
+    44.286804
+],
   "geometry": {"coordinates":[-69.795361,44.286804],"type":"Point"}
 }

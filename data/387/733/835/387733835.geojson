@@ -2,13 +2,14 @@
   "id": 387733835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.371349,44.270782,-69.371349,44.270782",
     "geom:latitude":44.270782,
     "geom:longitude":-69.371349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Waldoboro Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387733835,
-    "wof:lastmodified":1449056632,
+    "wof:lastmodified":1466586849,
     "wof:name":"Bill Orrick Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-69.371349,44.270782,-69.371349,44.270782],
+  "bbox": [
+    -69.371349,
+    44.270782,
+    -69.371349,
+    44.270782
+],
   "geometry": {"coordinates":[-69.371349,44.270782],"type":"Point"}
 }

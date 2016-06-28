@@ -2,13 +2,14 @@
   "id": 404085313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.312955,43.863183,-70.312955,43.863183",
     "geom:latitude":43.863183,
     "geom:longitude":-70.312955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Hyde Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404085313,
-    "wof:lastmodified":1449039343,
+    "wof:lastmodified":1466585812,
     "wof:name":"Lafontaine James T",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.312955,43.863183,-70.312955,43.863183],
+  "bbox": [
+    -70.312955,
+    43.863183,
+    -70.312955,
+    43.863183
+],
   "geometry": {"coordinates":[-70.312955,43.863183],"type":"Point"}
 }

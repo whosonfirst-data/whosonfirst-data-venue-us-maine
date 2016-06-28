@@ -2,13 +2,14 @@
   "id": 403955625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.424763,43.751479,-70.424763,43.751479",
     "geom:latitude":43.751479,
     "geom:longitude":-70.424763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Main St",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403955625,
-    "wof:lastmodified":1449055533,
+    "wof:lastmodified":1466587076,
     "wof:name":"Classic Glass",
     "wof:parent_id":85830911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.424763,43.751479,-70.424763,43.751479],
+  "bbox": [
+    -70.424763,
+    43.751479,
+    -70.424763,
+    43.751479
+],
   "geometry": {"coordinates":[-70.424763,43.751479],"type":"Point"}
 }

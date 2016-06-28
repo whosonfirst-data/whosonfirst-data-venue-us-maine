@@ -2,13 +2,14 @@
   "id": 404007405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.520789,43.373148,-70.520789,43.373148",
     "geom:latitude":43.373148,
     "geom:longitude":-70.520789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bittersweet Way",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404007405,
-    "wof:lastmodified":1449040103,
+    "wof:lastmodified":1466585790,
     "wof:name":"Max A1 Ubik Magic",
     "wof:parent_id":85828039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-70.520789,43.373148,-70.520789,43.373148],
-  "geometry": {"coordinates":[-70.520789,43.373148],"type":"Point"}
+  "bbox": [
+    -70.520789,
+    43.373148,
+    -70.520789,
+    43.373148
+],
+  "geometry": {"coordinates":[-70.52078899999999,43.373148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387856591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.723507,44.375486,-69.723507,44.375486",
     "geom:latitude":44.375486,
     "geom:longitude":-69.723507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"987 Riverside Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387856591,
-    "wof:lastmodified":1449057175,
+    "wof:lastmodified":1466587178,
     "wof:name":"Hershey Ice Cream",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cream"
     ]
 },
-  "bbox": [-69.723507,44.375486,-69.723507,44.375486],
+  "bbox": [
+    -69.723507,
+    44.375486,
+    -69.723507,
+    44.375486
+],
   "geometry": {"coordinates":[-69.723507,44.375486],"type":"Point"}
 }

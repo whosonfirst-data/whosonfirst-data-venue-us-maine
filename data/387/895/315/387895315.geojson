@@ -2,13 +2,14 @@
   "id": 387895315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.629928,44.742652,-68.629928,44.742652",
     "geom:latitude":44.742652,
     "geom:longitude":-68.629928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Mann Hill Rd",
     "sg:city":"Holden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387895315,
-    "wof:lastmodified":1449057721,
+    "wof:lastmodified":1466587229,
     "wof:name":"Top Hat II Dance Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dancing"
     ]
 },
-  "bbox": [-68.629928,44.742652,-68.629928,44.742652],
-  "geometry": {"coordinates":[-68.629928,44.742652],"type":"Point"}
+  "bbox": [
+    -68.629928,
+    44.742652,
+    -68.629928,
+    44.742652
+],
+  "geometry": {"coordinates":[-68.62992800000001,44.742652],"type":"Point"}
 }

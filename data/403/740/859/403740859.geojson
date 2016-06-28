@@ -2,13 +2,14 @@
   "id": 403740859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.296562,43.668188,-70.296562,43.668188",
     "geom:latitude":43.668188,
     "geom:longitude":-70.296562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Belfield St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403740859,
-    "wof:lastmodified":1449055243,
+    "wof:lastmodified":1466586066,
     "wof:name":"Lou Nichols",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-70.296562,43.668188,-70.296562,43.668188],
-  "geometry": {"coordinates":[-70.296562,43.668188],"type":"Point"}
+  "bbox": [
+    -70.296562,
+    43.668188,
+    -70.296562,
+    43.668188
+],
+  "geometry": {"coordinates":[-70.29656199999999,43.668188],"type":"Point"}
 }

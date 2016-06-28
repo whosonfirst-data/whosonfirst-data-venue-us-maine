@@ -2,13 +2,14 @@
   "id": 403757751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.060915,43.996137,-70.060915,43.996137",
     "geom:latitude":43.996137,
     "geom:longitude":-70.060915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"686 Lisbon St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403757751,
-    "wof:lastmodified":1449055381,
+    "wof:lastmodified":1466586360,
     "wof:name":"Lisbon Falls Getty",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-70.060915,43.996137,-70.060915,43.996137],
-  "geometry": {"coordinates":[-70.060915,43.996137],"type":"Point"}
+  "bbox": [
+    -70.060915,
+    43.996137,
+    -70.060915,
+    43.996137
+],
+  "geometry": {"coordinates":[-70.06091499999999,43.996137],"type":"Point"}
 }

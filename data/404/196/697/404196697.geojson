@@ -2,13 +2,14 @@
   "id": 404196697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.443298,43.496421,-70.443298,43.496421",
     "geom:latitude":43.496421,
     "geom:longitude":-70.443298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Common St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404196697,
-    "wof:lastmodified":1449039326,
+    "wof:lastmodified":1466586899,
     "wof:name":"Kiddy Express Daycare",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-70.443298,43.496421,-70.443298,43.496421],
+  "bbox": [
+    -70.443298,
+    43.496421,
+    -70.443298,
+    43.496421
+],
   "geometry": {"coordinates":[-70.443298,43.496421],"type":"Point"}
 }

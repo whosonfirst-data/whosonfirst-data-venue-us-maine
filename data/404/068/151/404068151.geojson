@@ -2,13 +2,14 @@
   "id": 404068151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.91014,46.652216,-67.91014,46.652216",
     "geom:latitude":46.652216,
     "geom:longitude":-67.91014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Station Rd",
     "sg:city":"Easton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404068151,
-    "wof:lastmodified":1449039702,
+    "wof:lastmodified":1466586544,
     "wof:name":"Gray's Refrigeration",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-67.91014,46.652216,-67.91014,46.652216],
+  "bbox": [
+    -67.91014,
+    46.652216,
+    -67.91014,
+    46.652216
+],
   "geometry": {"coordinates":[-67.91014,46.652216],"type":"Point"}
 }

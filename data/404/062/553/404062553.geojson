@@ -2,13 +2,14 @@
   "id": 404062553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.739014,43.09797,-70.739014,43.09797",
     "geom:latitude":43.09797,
     "geom:longitude":-70.739014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Rogers Rd",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404062553,
-    "wof:lastmodified":1449040254,
+    "wof:lastmodified":1466586488,
     "wof:name":"Disability Consultants",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.739014,43.09797,-70.739014,43.09797],
+  "bbox": [
+    -70.739014,
+    43.09797,
+    -70.739014,
+    43.09797
+],
   "geometry": {"coordinates":[-70.739014,43.09797],"type":"Point"}
 }

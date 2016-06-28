@@ -2,13 +2,14 @@
   "id": 387580945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.655012,44.541741,-69.655012,44.541741",
     "geom:latitude":44.541741,
     "geom:longitude":-69.655012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Kennedy Memorial Dr",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387580945,
-    "wof:lastmodified":1449058669,
+    "wof:lastmodified":1466586017,
     "wof:name":"Garbacik Surveyors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-69.655012,44.541741,-69.655012,44.541741],
+  "bbox": [
+    -69.655012,
+    44.541741,
+    -69.655012,
+    44.541741
+],
   "geometry": {"coordinates":[-69.655012,44.541741],"type":"Point"}
 }

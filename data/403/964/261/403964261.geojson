@@ -2,13 +2,14 @@
   "id": 403964261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.110961,44.103234,-69.110961,44.103234",
     "geom:latitude":44.103234,
     "geom:longitude":-69.110961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Union St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403964261,
-    "wof:lastmodified":1449055628,
+    "wof:lastmodified":1466587116,
     "wof:name":"Rockland Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.110961,44.103234,-69.110961,44.103234],
+  "bbox": [
+    -69.110961,
+    44.103234,
+    -69.110961,
+    44.103234
+],
   "geometry": {"coordinates":[-69.110961,44.103234],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404137655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.063574,46.878415,-68.063574,46.878415",
     "geom:latitude":46.878415,
     "geom:longitude":-68.063574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Brown Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404137655,
-    "wof:lastmodified":1449040157,
+    "wof:lastmodified":1466586567,
     "wof:name":"Moir Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-68.063574,46.878415,-68.063574,46.878415],
+  "bbox": [
+    -68.063574,
+    46.878415,
+    -68.063574,
+    46.878415
+],
   "geometry": {"coordinates":[-68.063574,46.878415],"type":"Point"}
 }

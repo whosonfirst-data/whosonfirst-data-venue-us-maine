@@ -2,13 +2,14 @@
   "id": 387753603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.599157,44.583585,-69.599157,44.583585",
     "geom:latitude":44.583585,
     "geom:longitude":-69.599157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Main St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387753603,
-    "wof:lastmodified":1449056559,
+    "wof:lastmodified":1466586905,
     "wof:name":"Richardson Hollow Mental Hlth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-69.599157,44.583585,-69.599157,44.583585],
-  "geometry": {"coordinates":[-69.599157,44.583585],"type":"Point"}
+  "bbox": [
+    -69.599157,
+    44.583585,
+    -69.599157,
+    44.583585
+],
+  "geometry": {"coordinates":[-69.59915700000001,44.583585],"type":"Point"}
 }

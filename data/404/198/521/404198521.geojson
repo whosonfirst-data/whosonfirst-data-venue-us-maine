@@ -2,13 +2,14 @@
   "id": 404198521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.309991,43.70512,-70.309991,43.70512",
     "geom:latitude":43.70512,
     "geom:longitude":-70.309991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Riverside Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404198521,
-    "wof:lastmodified":1449039461,
+    "wof:lastmodified":1466586832,
     "wof:name":"Lyon Steel Shelving",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welding"
     ]
 },
-  "bbox": [-70.309991,43.70512,-70.309991,43.70512],
+  "bbox": [
+    -70.309991,
+    43.70512,
+    -70.309991,
+    43.70512
+],
   "geometry": {"coordinates":[-70.309991,43.70512],"type":"Point"}
 }

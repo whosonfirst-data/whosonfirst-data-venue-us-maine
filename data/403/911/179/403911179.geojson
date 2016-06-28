@@ -2,13 +2,14 @@
   "id": 403911179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.200621,44.087286,-70.200621,44.087286",
     "geom:latitude":44.087286,
     "geom:longitude":-70.200621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 East Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403911179,
-    "wof:lastmodified":1449055755,
+    "wof:lastmodified":1466586948,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.200621,44.087286,-70.200621,44.087286],
+  "bbox": [
+    -70.200621,
+    44.087286,
+    -70.200621,
+    44.087286
+],
   "geometry": {"coordinates":[-70.200621,44.087286],"type":"Point"}
 }

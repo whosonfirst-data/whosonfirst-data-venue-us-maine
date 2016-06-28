@@ -2,13 +2,14 @@
   "id": 387852353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.251265,43.614029,-70.251265,43.614029",
     "geom:latitude":43.614029,
     "geom:longitude":-70.251265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Valley Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387852353,
-    "wof:lastmodified":1449059274,
+    "wof:lastmodified":1466587158,
     "wof:name":"Fontana Engineering",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineering"
     ]
 },
-  "bbox": [-70.251265,43.614029,-70.251265,43.614029],
+  "bbox": [
+    -70.251265,
+    43.614029,
+    -70.251265,
+    43.614029
+],
   "geometry": {"coordinates":[-70.251265,43.614029],"type":"Point"}
 }

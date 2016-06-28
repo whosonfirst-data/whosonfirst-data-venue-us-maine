@@ -2,13 +2,14 @@
   "id": 387964499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.208486,44.3881,-68.208486,44.3881",
     "geom:latitude":44.3881,
     "geom:longitude":-68.208486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Roberts Ave",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387964499,
-    "wof:lastmodified":1449058972,
+    "wof:lastmodified":1466587305,
     "wof:name":"Canterbury Cottage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-68.208486,44.3881,-68.208486,44.3881],
-  "geometry": {"coordinates":[-68.208486,44.3881],"type":"Point"}
+  "bbox": [
+    -68.208486,
+    44.3881,
+    -68.208486,
+    44.3881
+],
+  "geometry": {"coordinates":[-68.20848599999999,44.3881],"type":"Point"}
 }

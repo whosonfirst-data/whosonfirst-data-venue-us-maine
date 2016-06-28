@@ -2,13 +2,14 @@
   "id": 387700431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.414325,44.53788,-68.414325,44.53788",
     "geom:latitude":44.53788,
     "geom:longitude":-68.414325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 High St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387700431,
-    "wof:lastmodified":1449059583,
+    "wof:lastmodified":1466586838,
     "wof:name":"Monroe Salt Works Outlet",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-68.414325,44.53788,-68.414325,44.53788],
-  "geometry": {"coordinates":[-68.414325,44.53788],"type":"Point"}
+  "bbox": [
+    -68.414325,
+    44.53788,
+    -68.414325,
+    44.53788
+],
+  "geometry": {"coordinates":[-68.41432500000001,44.53788],"type":"Point"}
 }

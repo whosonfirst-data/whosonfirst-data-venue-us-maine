@@ -2,13 +2,14 @@
   "id": 387864833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.758393,44.780631,-68.758393,44.780631",
     "geom:latitude":44.780631,
     "geom:longitude":-68.758393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Parkway S",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387864833,
-    "wof:lastmodified":1449059965,
+    "wof:lastmodified":1466587261,
     "wof:name":"Brewer Education Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-68.758393,44.780631,-68.758393,44.780631],
+  "bbox": [
+    -68.758393,
+    44.780631,
+    -68.758393,
+    44.780631
+],
   "geometry": {"coordinates":[-68.758393,44.780631],"type":"Point"}
 }

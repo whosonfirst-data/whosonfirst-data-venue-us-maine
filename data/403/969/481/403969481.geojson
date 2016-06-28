@@ -2,13 +2,14 @@
   "id": 403969481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.751123,43.467769,-70.751123,43.467769",
     "geom:latitude":43.467769,
     "geom:longitude":-70.751123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Mountain Rd",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403969481,
-    "wof:lastmodified":1449054968,
+    "wof:lastmodified":1466587130,
     "wof:name":"TLC Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-70.751123,43.467769,-70.751123,43.467769],
-  "geometry": {"coordinates":[-70.751123,43.467769],"type":"Point"}
+  "bbox": [
+    -70.751123,
+    43.467769,
+    -70.751123,
+    43.467769
+],
+  "geometry": {"coordinates":[-70.75112300000001,43.467769],"type":"Point"}
 }

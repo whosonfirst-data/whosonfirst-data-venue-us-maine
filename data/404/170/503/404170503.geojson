@@ -2,13 +2,14 @@
   "id": 404170503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.191542,44.078974,-70.191542,44.078974",
     "geom:latitude":44.078974,
     "geom:longitude":-70.191542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1160 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404170503,
-    "wof:lastmodified":1449039131,
+    "wof:lastmodified":1466586795,
     "wof:name":"Daniel R Grondin & Assoc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-70.191542,44.078974,-70.191542,44.078974],
+  "bbox": [
+    -70.191542,
+    44.078974,
+    -70.191542,
+    44.078974
+],
   "geometry": {"coordinates":[-70.191542,44.078974],"type":"Point"}
 }

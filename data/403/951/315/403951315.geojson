@@ -2,13 +2,14 @@
   "id": 403951315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.263927,44.093925,-70.263927,44.093925",
     "geom:latitude":44.093925,
     "geom:longitude":-70.263927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 Hotel Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403951315,
-    "wof:lastmodified":1449054677,
+    "wof:lastmodified":1466587073,
     "wof:name":"Robert Gardener Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.263927,44.093925,-70.263927,44.093925],
+  "bbox": [
+    -70.263927,
+    44.093925,
+    -70.263927,
+    44.093925
+],
   "geometry": {"coordinates":[-70.263927,44.093925],"type":"Point"}
 }

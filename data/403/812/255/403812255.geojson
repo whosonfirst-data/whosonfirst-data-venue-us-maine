@@ -2,13 +2,14 @@
   "id": 403812255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.423831,43.72282,-70.423831,43.72282",
     "geom:latitude":43.72282,
     "geom:longitude":-70.423831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Gray Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403812255,
-    "wof:lastmodified":1449054657,
+    "wof:lastmodified":1466586143,
     "wof:name":"Matthewjohn Salon",
     "wof:parent_id":85830911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.423831,43.72282,-70.423831,43.72282],
-  "geometry": {"coordinates":[-70.423831,43.72282],"type":"Point"}
+  "bbox": [
+    -70.423831,
+    43.72282,
+    -70.423831,
+    43.72282
+],
+  "geometry": {"coordinates":[-70.42383100000001,43.72282],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387639557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.446604,43.501965,-70.446604,43.501965",
     "geom:latitude":43.501965,
     "geom:longitude":-70.446604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Scammon St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387639557,
-    "wof:lastmodified":1449059903,
+    "wof:lastmodified":1466586648,
     "wof:name":"Catalina Marketing Corp",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-70.446604,43.501965,-70.446604,43.501965],
-  "geometry": {"coordinates":[-70.446604,43.501965],"type":"Point"}
+  "bbox": [
+    -70.446604,
+    43.501965,
+    -70.446604,
+    43.501965
+],
+  "geometry": {"coordinates":[-70.44660399999999,43.501965],"type":"Point"}
 }

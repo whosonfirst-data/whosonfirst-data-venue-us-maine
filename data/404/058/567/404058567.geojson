@@ -2,13 +2,14 @@
   "id": 404058567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.254079,43.65713,-70.254079,43.65713",
     "geom:latitude":43.65713,
     "geom:longitude":-70.254079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Exchange St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404058567,
-    "wof:lastmodified":1449039196,
+    "wof:lastmodified":1466586415,
     "wof:name":"Inventors",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-70.254079,43.65713,-70.254079,43.65713],
+  "bbox": [
+    -70.254079,
+    43.65713,
+    -70.254079,
+    43.65713
+],
   "geometry": {"coordinates":[-70.254079,43.65713],"type":"Point"}
 }

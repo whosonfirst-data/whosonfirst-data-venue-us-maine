@@ -2,13 +2,14 @@
   "id": 387784237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.815542,44.78354,-68.815542,44.78354",
     "geom:latitude":44.78354,
     "geom:longitude":-68.815542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Odlin Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387784237,
-    "wof:lastmodified":1449058648,
+    "wof:lastmodified":1466587000,
     "wof:name":"Town Taxi",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-68.815542,44.78354,-68.815542,44.78354],
-  "geometry": {"coordinates":[-68.815542,44.78354],"type":"Point"}
+  "bbox": [
+    -68.815542,
+    44.78354,
+    -68.815542,
+    44.78354
+],
+  "geometry": {"coordinates":[-68.81554199999999,44.78354],"type":"Point"}
 }

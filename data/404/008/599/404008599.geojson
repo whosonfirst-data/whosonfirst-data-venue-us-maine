@@ -2,13 +2,14 @@
   "id": 404008599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.187433,43.801737,-70.187433,43.801737",
     "geom:latitude":43.801737,
     "geom:longitude":-70.187433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 School St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404008599,
-    "wof:lastmodified":1449039394,
+    "wof:lastmodified":1466585799,
     "wof:name":"William H Rowe School",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.187433,43.801737,-70.187433,43.801737],
+  "bbox": [
+    -70.187433,
+    43.801737,
+    -70.187433,
+    43.801737
+],
   "geometry": {"coordinates":[-70.187433,43.801737],"type":"Point"}
 }

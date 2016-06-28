@@ -2,13 +2,14 @@
   "id": 403718305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.612782,43.264244,-70.612782,43.264244",
     "geom:latitude":43.264244,
     "geom:longitude":-70.612782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Autumn River Ln",
     "sg:city":"Ogunquit",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403718305,
-    "wof:lastmodified":1449054929,
+    "wof:lastmodified":1466585835,
     "wof:name":"Oqunquit River Builders",
     "wof:parent_id":85835101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.612782,43.264244,-70.612782,43.264244],
+  "bbox": [
+    -70.612782,
+    43.264244,
+    -70.612782,
+    43.264244
+],
   "geometry": {"coordinates":[-70.612782,43.264244],"type":"Point"}
 }

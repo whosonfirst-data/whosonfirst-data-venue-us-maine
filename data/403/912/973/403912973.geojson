@@ -2,13 +2,14 @@
   "id": 403912973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.321209,44.279004,-68.321209,44.279004",
     "geom:latitude":44.279004,
     "geom:longitude":-68.321209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Harbor Ave",
     "sg:city":"Southwest Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403912973,
-    "wof:lastmodified":1449055293,
+    "wof:lastmodified":1466586957,
     "wof:name":"Causeway Club",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-68.321209,44.279004,-68.321209,44.279004],
+  "bbox": [
+    -68.321209,
+    44.279004,
+    -68.321209,
+    44.279004
+],
   "geometry": {"coordinates":[-68.321209,44.279004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387893323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.651305,44.900815,-68.651305,44.900815",
     "geom:latitude":44.900815,
     "geom:longitude":-68.651305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Park St",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387893323,
-    "wof:lastmodified":1449059201,
+    "wof:lastmodified":1466587227,
     "wof:name":"Leona Cerkovitz",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-68.651305,44.900815,-68.651305,44.900815],
-  "geometry": {"coordinates":[-68.651305,44.900815],"type":"Point"}
+  "bbox": [
+    -68.651305,
+    44.900815,
+    -68.651305,
+    44.900815
+],
+  "geometry": {"coordinates":[-68.65130499999999,44.900815],"type":"Point"}
 }

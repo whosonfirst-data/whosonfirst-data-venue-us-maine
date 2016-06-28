@@ -2,13 +2,14 @@
   "id": 387891663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.712758,45.656918,-68.712758,45.656918",
     "geom:latitude":45.656918,
     "geom:longitude":-68.712758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Beech St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387891663,
-    "wof:lastmodified":1449058398,
+    "wof:lastmodified":1466587235,
     "wof:name":"Peter's Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-68.712758,45.656918,-68.712758,45.656918],
-  "geometry": {"coordinates":[-68.712758,45.656918],"type":"Point"}
+  "bbox": [
+    -68.712758,
+    45.656918,
+    -68.712758,
+    45.656918
+],
+  "geometry": {"coordinates":[-68.71275799999999,45.656918],"type":"Point"}
 }

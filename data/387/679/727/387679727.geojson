@@ -2,13 +2,14 @@
   "id": 387679727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.521602,43.664023,-70.521602,43.664023",
     "geom:latitude":43.664023,
     "geom:longitude":-70.521602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Turkey Ln",
     "sg:city":"Buxton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387679727,
-    "wof:lastmodified":1449058556,
+    "wof:lastmodified":1466586437,
     "wof:name":"All Aboard Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.521602,43.664023,-70.521602,43.664023],
+  "bbox": [
+    -70.521602,
+    43.664023,
+    -70.521602,
+    43.664023
+],
   "geometry": {"coordinates":[-70.521602,43.664023],"type":"Point"}
 }

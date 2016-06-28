@@ -2,13 +2,14 @@
   "id": 387734917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.553453,43.735718,-70.553453,43.735718",
     "geom:latitude":43.735718,
     "geom:longitude":-70.553453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Ossipee Trl W",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387734917,
-    "wof:lastmodified":1449059439,
+    "wof:lastmodified":1466586844,
     "wof:name":"P & P Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.553453,43.735718,-70.553453,43.735718],
+  "bbox": [
+    -70.553453,
+    43.735718,
+    -70.553453,
+    43.735718
+],
   "geometry": {"coordinates":[-70.553453,43.735718],"type":"Point"}
 }

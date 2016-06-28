@@ -2,13 +2,14 @@
   "id": 403937087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.74043,43.402167,-70.74043,43.402167",
     "geom:latitude":43.402167,
     "geom:longitude":-70.74043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Country Club Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403937087,
-    "wof:lastmodified":1449054893,
+    "wof:lastmodified":1466587039,
     "wof:name":"Michael Bourque Plumbing & Htg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.74043,43.402167,-70.74043,43.402167],
+  "bbox": [
+    -70.74043,
+    43.402167,
+    -70.74043,
+    43.402167
+],
   "geometry": {"coordinates":[-70.74043,43.402167],"type":"Point"}
 }

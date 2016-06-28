@@ -2,13 +2,14 @@
   "id": 387741731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.55413,43.518567,-70.55413,43.518567",
     "geom:latitude":43.518567,
     "geom:longitude":-70.55413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 Buzzell Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387741731,
-    "wof:lastmodified":1449056320,
+    "wof:lastmodified":1466586937,
     "wof:name":"Amos Gay",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.55413,43.518567,-70.55413,43.518567],
+  "bbox": [
+    -70.55413,
+    43.518567,
+    -70.55413,
+    43.518567
+],
   "geometry": {"coordinates":[-70.55413,43.518567],"type":"Point"}
 }

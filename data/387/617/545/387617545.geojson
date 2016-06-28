@@ -2,13 +2,14 @@
   "id": 387617545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.779421,44.774649,-68.779421,44.774649",
     "geom:latitude":44.774649,
     "geom:longitude":-68.779421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"471 S Main St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387617545,
-    "wof:lastmodified":1449056247,
+    "wof:lastmodified":1466585690,
     "wof:name":"Innovative Home Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-68.779421,44.774649,-68.779421,44.774649],
+  "bbox": [
+    -68.779421,
+    44.774649,
+    -68.779421,
+    44.774649
+],
   "geometry": {"coordinates":[-68.779421,44.774649],"type":"Point"}
 }

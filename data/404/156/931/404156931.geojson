@@ -2,13 +2,14 @@
   "id": 404156931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.326071,44.271053,-68.326071,44.271053",
     "geom:latitude":44.271053,
     "geom:longitude":-68.326071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"374 Main St",
     "sg:city":"Southwest Harbor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404156931,
-    "wof:lastmodified":1449039299,
+    "wof:lastmodified":1466586669,
     "wof:name":"Penury Hall Bed & Breakfast",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-68.326071,44.271053,-68.326071,44.271053],
+  "bbox": [
+    -68.326071,
+    44.271053,
+    -68.326071,
+    44.271053
+],
   "geometry": {"coordinates":[-68.326071,44.271053],"type":"Point"}
 }

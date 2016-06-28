@@ -2,13 +2,14 @@
   "id": 404144501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.796144,44.800813,-68.796144,44.800813",
     "geom:latitude":44.800813,
     "geom:longitude":-68.796144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Perkins St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404144501,
-    "wof:lastmodified":1449040000,
+    "wof:lastmodified":1466586695,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-68.796144,44.800813,-68.796144,44.800813],
+  "bbox": [
+    -68.796144,
+    44.800813,
+    -68.796144,
+    44.800813
+],
   "geometry": {"coordinates":[-68.796144,44.800813],"type":"Point"}
 }

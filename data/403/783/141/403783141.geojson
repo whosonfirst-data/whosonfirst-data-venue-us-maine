@@ -2,13 +2,14 @@
   "id": 403783141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.658688,44.542248,-69.658688,44.542248",
     "geom:latitude":44.542248,
     "geom:longitude":-69.658688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Kennedy Memorial Dr",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403783141,
-    "wof:lastmodified":1449054663,
+    "wof:lastmodified":1466585724,
     "wof:name":"Three Rivers Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-69.658688,44.542248,-69.658688,44.542248],
+  "bbox": [
+    -69.658688,
+    44.542248,
+    -69.658688,
+    44.542248
+],
   "geometry": {"coordinates":[-69.658688,44.542248],"type":"Point"}
 }

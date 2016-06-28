@@ -2,13 +2,14 @@
   "id": 403867877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.066516,44.208468,-69.066516,44.208468",
     "geom:latitude":44.208468,
     "geom:longitude":-69.066516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Elm St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403867877,
-    "wof:lastmodified":1449055215,
+    "wof:lastmodified":1466586776,
     "wof:name":"Edelweiss Editions",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-69.066516,44.208468,-69.066516,44.208468],
-  "geometry": {"coordinates":[-69.066516,44.208468],"type":"Point"}
+  "bbox": [
+    -69.066516,
+    44.208468,
+    -69.066516,
+    44.208468
+],
+  "geometry": {"coordinates":[-69.06651599999999,44.208468],"type":"Point"}
 }

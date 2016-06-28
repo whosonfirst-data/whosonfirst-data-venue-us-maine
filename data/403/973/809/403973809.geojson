@@ -2,13 +2,14 @@
   "id": 403973809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.782356,44.231035,-69.782356,44.231035",
     "geom:latitude":44.231035,
     "geom:longitude":-69.782356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Fountain St",
     "sg:city":"Gardiner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403973809,
-    "wof:lastmodified":1449055449,
+    "wof:lastmodified":1466587214,
     "wof:name":"Sign Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-69.782356,44.231035,-69.782356,44.231035],
-  "geometry": {"coordinates":[-69.782356,44.231035],"type":"Point"}
+  "bbox": [
+    -69.782356,
+    44.231035,
+    -69.782356,
+    44.231035
+],
+  "geometry": {"coordinates":[-69.78235599999999,44.231035],"type":"Point"}
 }

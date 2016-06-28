@@ -2,13 +2,14 @@
   "id": 404000797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.979669,44.146115,-70.979669,44.146115",
     "geom:latitude":44.146115,
     "geom:longitude":-70.979669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"273 Stow Rd",
     "sg:city":"Stow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404000797,
-    "wof:lastmodified":1449039208,
+    "wof:lastmodified":1466585680,
     "wof:name":"Electric Extra",
     "wof:parent_id":85820811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.979669,44.146115,-70.979669,44.146115],
+  "bbox": [
+    -70.979669,
+    44.146115,
+    -70.979669,
+    44.146115
+],
   "geometry": {"coordinates":[-70.979669,44.146115],"type":"Point"}
 }

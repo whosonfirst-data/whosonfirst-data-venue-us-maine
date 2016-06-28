@@ -2,13 +2,14 @@
   "id": 404013143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.409032,43.79265,-70.409032,43.79265",
     "geom:latitude":43.79265,
     "geom:longitude":-70.409032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 School Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404013143,
-    "wof:lastmodified":1449039943,
+    "wof:lastmodified":1466585825,
     "wof:name":"Moonshine Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "specialty"
     ]
 },
-  "bbox": [-70.409032,43.79265,-70.409032,43.79265],
+  "bbox": [
+    -70.409032,
+    43.79265,
+    -70.409032,
+    43.79265
+],
   "geometry": {"coordinates":[-70.409032,43.79265],"type":"Point"}
 }

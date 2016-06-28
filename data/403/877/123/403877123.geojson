@@ -2,13 +2,14 @@
   "id": 403877123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.404003,43.484114,-70.404003,43.484114",
     "geom:latitude":43.484114,
     "geom:longitude":-70.404003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Wildwood Dr",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403877123,
-    "wof:lastmodified":1449055545,
+    "wof:lastmodified":1466586831,
     "wof:name":"Days Off Contracting",
     "wof:parent_id":85828495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.404003,43.484114,-70.404003,43.484114],
+  "bbox": [
+    -70.404003,
+    43.484114,
+    -70.404003,
+    43.484114
+],
   "geometry": {"coordinates":[-70.404003,43.484114],"type":"Point"}
 }

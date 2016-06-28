@@ -2,13 +2,14 @@
   "id": 403735357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.157552,44.096151,-70.157552,44.096151",
     "geom:latitude":44.096151,
     "geom:longitude":-70.157552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Pond Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403735357,
-    "wof:lastmodified":1449055918,
+    "wof:lastmodified":1466586025,
     "wof:name":"James Jackson IV",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-70.157552,44.096151,-70.157552,44.096151],
+  "bbox": [
+    -70.157552,
+    44.096151,
+    -70.157552,
+    44.096151
+],
   "geometry": {"coordinates":[-70.157552,44.096151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403759353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.347241,44.348376,-68.347241,44.348376",
     "geom:latitude":44.348376,
     "geom:longitude":-68.347241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Beech Hill Rd",
     "sg:city":"Blue Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403759353,
-    "wof:lastmodified":1449055990,
+    "wof:lastmodified":1466586381,
     "wof:name":"Blue Hill Family & Cosmetic",
     "wof:parent_id":85849305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-68.347241,44.348376,-68.347241,44.348376],
+  "bbox": [
+    -68.347241,
+    44.348376,
+    -68.347241,
+    44.348376
+],
   "geometry": {"coordinates":[-68.347241,44.348376],"type":"Point"}
 }

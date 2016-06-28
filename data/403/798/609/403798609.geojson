@@ -2,13 +2,14 @@
   "id": 403798609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.217075,44.25861,-70.217075,44.25861",
     "geom:latitude":44.25861,
     "geom:longitude":-70.217075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Upper St",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403798609,
-    "wof:lastmodified":1449054885,
+    "wof:lastmodified":1466585924,
     "wof:name":"W E Reynolds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.217075,44.25861,-70.217075,44.25861],
-  "geometry": {"coordinates":[-70.217075,44.25861],"type":"Point"}
+  "bbox": [
+    -70.217075,
+    44.25861,
+    -70.217075,
+    44.25861
+],
+  "geometry": {"coordinates":[-70.21707499999999,44.25861],"type":"Point"}
 }

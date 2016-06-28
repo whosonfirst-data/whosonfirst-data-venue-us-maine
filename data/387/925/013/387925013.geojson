@@ -2,13 +2,14 @@
   "id": 387925013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.377207,43.517389,-70.377207,43.517389",
     "geom:latitude":43.517389,
     "geom:longitude":-70.377207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Old Orchard St",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387925013,
-    "wof:lastmodified":1449056145,
+    "wof:lastmodified":1466587190,
     "wof:name":"Pier French Fries",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cream"
     ]
 },
-  "bbox": [-70.377207,43.517389,-70.377207,43.517389],
+  "bbox": [
+    -70.377207,
+    43.517389,
+    -70.377207,
+    43.517389
+],
   "geometry": {"coordinates":[-70.377207,43.517389],"type":"Point"}
 }

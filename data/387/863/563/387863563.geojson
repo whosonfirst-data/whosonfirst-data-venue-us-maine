@@ -2,13 +2,14 @@
   "id": 387863563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.383794,44.79519,-69.383794,44.79519",
     "geom:latitude":44.79519,
     "geom:longitude":-69.383794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Waverly Ave",
     "sg:city":"Pittsfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387863563,
-    "wof:lastmodified":1449058736,
+    "wof:lastmodified":1466587186,
     "wof:name":"Central Maine Skydiving",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "jumping"
     ]
 },
-  "bbox": [-69.383794,44.79519,-69.383794,44.79519],
-  "geometry": {"coordinates":[-69.383794,44.79519],"type":"Point"}
+  "bbox": [
+    -69.383794,
+    44.79519,
+    -69.383794,
+    44.79519
+],
+  "geometry": {"coordinates":[-69.38379399999999,44.79519],"type":"Point"}
 }

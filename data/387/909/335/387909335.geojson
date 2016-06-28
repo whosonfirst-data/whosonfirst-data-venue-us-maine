@@ -2,13 +2,14 @@
   "id": 387909335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.144291,44.134486,-70.144291,44.134486",
     "geom:latitude":44.134486,
     "geom:longitude":-70.144291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 Old Greene Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387909335,
-    "wof:lastmodified":1449058971,
+    "wof:lastmodified":1466587318,
     "wof:name":"Jacqueline Stowe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.144291,44.134486,-70.144291,44.134486],
+  "bbox": [
+    -70.144291,
+    44.134486,
+    -70.144291,
+    44.134486
+],
   "geometry": {"coordinates":[-70.144291,44.134486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403805947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.910431,46.651524,-67.910431,46.651524",
     "geom:latitude":46.651524,
     "geom:longitude":-67.910431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Station Rd",
     "sg:city":"Easton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403805947,
-    "wof:lastmodified":1449055081,
+    "wof:lastmodified":1466586042,
     "wof:name":"Easton Town Office",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-67.910431,46.651524,-67.910431,46.651524],
+  "bbox": [
+    -67.910431,
+    46.651524,
+    -67.910431,
+    46.651524
+],
   "geometry": {"coordinates":[-67.910431,46.651524],"type":"Point"}
 }

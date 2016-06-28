@@ -2,13 +2,14 @@
   "id": 403873717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.837241,46.773418,-67.837241,46.773418",
     "geom:latitude":46.773418,
     "geom:longitude":-67.837241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 High St",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403873717,
-    "wof:lastmodified":1449054912,
+    "wof:lastmodified":1466586814,
     "wof:name":"Mmp",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-67.837241,46.773418,-67.837241,46.773418],
-  "geometry": {"coordinates":[-67.837241,46.773418],"type":"Point"}
+  "bbox": [
+    -67.837241,
+    46.773418,
+    -67.837241,
+    46.773418
+],
+  "geometry": {"coordinates":[-67.83724100000001,46.773418],"type":"Point"}
 }

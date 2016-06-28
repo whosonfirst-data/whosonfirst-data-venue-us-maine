@@ -2,13 +2,14 @@
   "id": 404190179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.335271,43.890488,-70.335271,43.890488",
     "geom:latitude":43.890488,
     "geom:longitude":-70.335271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Shaker Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404190179,
-    "wof:lastmodified":1449040265,
+    "wof:lastmodified":1466586807,
     "wof:name":"Bishop Adjustment Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-70.335271,43.890488,-70.335271,43.890488],
-  "geometry": {"coordinates":[-70.335271,43.890488],"type":"Point"}
+  "bbox": [
+    -70.335271,
+    43.890488,
+    -70.335271,
+    43.890488
+],
+  "geometry": {"coordinates":[-70.33527100000001,43.890488],"type":"Point"}
 }

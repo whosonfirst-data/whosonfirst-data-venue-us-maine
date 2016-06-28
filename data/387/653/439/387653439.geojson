@@ -2,13 +2,14 @@
   "id": 387653439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.782175,44.803501,-68.782175,44.803501",
     "geom:latitude":44.803501,
     "geom:longitude":-68.782175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Union St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387653439,
-    "wof:lastmodified":1449056385,
+    "wof:lastmodified":1466586023,
     "wof:name":"Rideout's Custom Upholstery",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "furniture"
     ]
 },
-  "bbox": [-68.782175,44.803501,-68.782175,44.803501],
+  "bbox": [
+    -68.782175,
+    44.803501,
+    -68.782175,
+    44.803501
+],
   "geometry": {"coordinates":[-68.782175,44.803501],"type":"Point"}
 }

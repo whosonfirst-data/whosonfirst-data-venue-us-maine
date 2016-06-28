@@ -2,13 +2,14 @@
   "id": 403828233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.994255,46.673626,-67.994255,46.673626",
     "geom:latitude":46.673626,
     "geom:longitude":-67.994255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Willimantic Ct",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403828233,
-    "wof:lastmodified":1449055327,
+    "wof:lastmodified":1466586399,
     "wof:name":"Joanne Driscoll",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-67.994255,46.673626,-67.994255,46.673626],
+  "bbox": [
+    -67.994255,
+    46.673626,
+    -67.994255,
+    46.673626
+],
   "geometry": {"coordinates":[-67.994255,46.673626],"type":"Point"}
 }

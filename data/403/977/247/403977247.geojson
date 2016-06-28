@@ -2,13 +2,14 @@
   "id": 403977247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.309567,43.687746,-70.309567,43.687746",
     "geom:latitude":43.687746,
     "geom:longitude":-70.309567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Warren Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403977247,
-    "wof:lastmodified":1449056007,
+    "wof:lastmodified":1466587136,
     "wof:name":"Brown Construction Inc",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.309567,43.687746,-70.309567,43.687746],
+  "bbox": [
+    -70.309567,
+    43.687746,
+    -70.309567,
+    43.687746
+],
   "geometry": {"coordinates":[-70.309567,43.687746],"type":"Point"}
 }

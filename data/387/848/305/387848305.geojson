@@ -2,13 +2,14 @@
   "id": 387848305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.073034,44.514231,-69.073034,44.514231",
     "geom:latitude":44.514231,
     "geom:longitude":-69.073034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1233 Waldo Station Rd",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387848305,
-    "wof:lastmodified":1449056637,
+    "wof:lastmodified":1466587150,
     "wof:name":"Leo Cyr & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-69.073034,44.514231,-69.073034,44.514231],
-  "geometry": {"coordinates":[-69.073034,44.514231],"type":"Point"}
+  "bbox": [
+    -69.073034,
+    44.514231,
+    -69.073034,
+    44.514231
+],
+  "geometry": {"coordinates":[-69.07303400000001,44.514231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387830989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.333484,44.363136,-68.333484,44.363136",
     "geom:latitude":44.363136,
     "geom:longitude":-68.333484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Main St",
     "sg:city":"Mt Desert",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387830989,
-    "wof:lastmodified":1449056909,
+    "wof:lastmodified":1466587122,
     "wof:name":"Port In A Storm Book Store",
     "wof:parent_id":85849305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-68.333484,44.363136,-68.333484,44.363136],
+  "bbox": [
+    -68.333484,
+    44.363136,
+    -68.333484,
+    44.363136
+],
   "geometry": {"coordinates":[-68.333484,44.363136],"type":"Point"}
 }

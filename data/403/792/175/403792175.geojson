@@ -2,13 +2,14 @@
   "id": 403792175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.710051,44.054682,-70.710051,44.054682",
     "geom:latitude":44.054682,
     "geom:longitude":-70.710051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Main St",
     "sg:city":"Bridgton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403792175,
-    "wof:lastmodified":1449054927,
+    "wof:lastmodified":1466585836,
     "wof:name":"Cool Moose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.710051,44.054682,-70.710051,44.054682],
-  "geometry": {"coordinates":[-70.710051,44.054682],"type":"Point"}
+  "bbox": [
+    -70.710051,
+    44.054682,
+    -70.710051,
+    44.054682
+],
+  "geometry": {"coordinates":[-70.71005100000001,44.054682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403758931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.450445,43.85105,-70.450445,43.85105",
     "geom:latitude":43.85105,
     "geom:longitude":-70.450445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403758931,
-    "wof:lastmodified":1449055045,
+    "wof:lastmodified":1466586377,
     "wof:name":"GPS Payroll Svc",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-70.450445,43.85105,-70.450445,43.85105],
+  "bbox": [
+    -70.450445,
+    43.85105,
+    -70.450445,
+    43.85105
+],
   "geometry": {"coordinates":[-70.450445,43.85105],"type":"Point"}
 }

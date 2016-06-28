@@ -2,13 +2,14 @@
   "id": 403972475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.223487,43.806994,-70.223487,43.806994",
     "geom:latitude":43.806994,
     "geom:longitude":-70.223487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Walnut Hill Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403972475,
-    "wof:lastmodified":1449055308,
+    "wof:lastmodified":1466587211,
     "wof:name":"SKB Contracting",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.223487,43.806994,-70.223487,43.806994],
-  "geometry": {"coordinates":[-70.223487,43.806994],"type":"Point"}
+  "bbox": [
+    -70.223487,
+    43.806994,
+    -70.223487,
+    43.806994
+],
+  "geometry": {"coordinates":[-70.22348700000001,43.806994],"type":"Point"}
 }

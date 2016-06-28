@@ -2,13 +2,14 @@
   "id": 387778593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.691757,45.657285,-68.691757,45.657285",
     "geom:latitude":45.657285,
     "geom:longitude":-68.691757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"760 Central St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387778593,
-    "wof:lastmodified":1449056197,
+    "wof:lastmodified":1466586993,
     "wof:name":"Mainely Rent To Own",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [-68.691757,45.657285,-68.691757,45.657285],
+  "bbox": [
+    -68.691757,
+    45.657285,
+    -68.691757,
+    45.657285
+],
   "geometry": {"coordinates":[-68.691757,45.657285],"type":"Point"}
 }

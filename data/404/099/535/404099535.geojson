@@ -2,13 +2,14 @@
   "id": 404099535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.814533,43.912787,-69.814533,43.912787",
     "geom:latitude":43.912787,
     "geom:longitude":-69.814533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Centre St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404099535,
-    "wof:lastmodified":1449039913,
+    "wof:lastmodified":1466586662,
     "wof:name":"R M Tate",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-69.814533,43.912787,-69.814533,43.912787],
+  "bbox": [
+    -69.814533,
+    43.912787,
+    -69.814533,
+    43.912787
+],
   "geometry": {"coordinates":[-69.814533,43.912787],"type":"Point"}
 }

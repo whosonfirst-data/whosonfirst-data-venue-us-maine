@@ -2,13 +2,14 @@
   "id": 404075483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.440102,44.539155,-68.440102,44.539155",
     "geom:latitude":44.539155,
     "geom:longitude":-68.440102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"249 Bucksport Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404075483,
-    "wof:lastmodified":1449039791,
+    "wof:lastmodified":1466585689,
     "wof:name":"Acadia Auto Body",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-68.440102,44.539155,-68.440102,44.539155],
+  "bbox": [
+    -68.440102,
+    44.539155,
+    -68.440102,
+    44.539155
+],
   "geometry": {"coordinates":[-68.440102,44.539155],"type":"Point"}
 }

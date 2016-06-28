@@ -2,13 +2,14 @@
   "id": 404000951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.393278,43.512522,-70.393278,43.512522",
     "geom:latitude":43.512522,
     "geom:longitude":-70.393278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Jameson Hill Rd",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404000951,
-    "wof:lastmodified":1449039206,
+    "wof:lastmodified":1466586614,
     "wof:name":"Old Orchard Beach Special Ed",
     "wof:parent_id":85828495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.393278,43.512522,-70.393278,43.512522],
+  "bbox": [
+    -70.393278,
+    43.512522,
+    -70.393278,
+    43.512522
+],
   "geometry": {"coordinates":[-70.393278,43.512522],"type":"Point"}
 }

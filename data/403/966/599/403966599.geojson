@@ -2,13 +2,14 @@
   "id": 403966599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.207722,43.804028,-70.207722,43.804028",
     "geom:latitude":43.804028,
     "geom:longitude":-70.207722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Anderson Ave",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403966599,
-    "wof:lastmodified":1449054635,
+    "wof:lastmodified":1466587206,
     "wof:name":"Dale Howe Heating",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.207722,43.804028,-70.207722,43.804028],
+  "bbox": [
+    -70.207722,
+    43.804028,
+    -70.207722,
+    43.804028
+],
   "geometry": {"coordinates":[-70.207722,43.804028],"type":"Point"}
 }

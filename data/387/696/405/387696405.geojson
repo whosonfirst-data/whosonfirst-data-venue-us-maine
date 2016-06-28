@@ -2,13 +2,14 @@
   "id": 387696405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.220744,43.735975,-70.220744,43.735975",
     "geom:latitude":43.735975,
     "geom:longitude":-70.220744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Northbrook Dr",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387696405,
-    "wof:lastmodified":1449056395,
+    "wof:lastmodified":1466586715,
     "wof:name":"Falmouth Orthopedic Ctr",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.220744,43.735975,-70.220744,43.735975],
+  "bbox": [
+    -70.220744,
+    43.735975,
+    -70.220744,
+    43.735975
+],
   "geometry": {"coordinates":[-70.220744,43.735975],"type":"Point"}
 }

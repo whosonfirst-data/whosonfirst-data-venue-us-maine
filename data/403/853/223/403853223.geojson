@@ -2,13 +2,14 @@
   "id": 403853223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.972172,44.307173,-69.972172,44.307173",
     "geom:latitude":44.307173,
     "geom:longitude":-69.972172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Union St",
     "sg:city":"Winthrop",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403853223,
-    "wof:lastmodified":1449055167,
+    "wof:lastmodified":1466586721,
     "wof:name":"Lorette's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.972172,44.307173,-69.972172,44.307173],
+  "bbox": [
+    -69.972172,
+    44.307173,
+    -69.972172,
+    44.307173
+],
   "geometry": {"coordinates":[-69.972172,44.307173],"type":"Point"}
 }

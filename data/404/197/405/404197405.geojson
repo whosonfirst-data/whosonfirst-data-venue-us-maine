@@ -2,13 +2,14 @@
   "id": 404197405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.451942,43.395475,-70.451942,43.395475",
     "geom:latitude":43.395475,
     "geom:longitude":-70.451942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Beachwood Ave",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404197405,
-    "wof:lastmodified":1449040173,
+    "wof:lastmodified":1466586906,
     "wof:name":"R & K Murphy Enterprises Ltd",
     "wof:parent_id":85852443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "urchin"
     ]
 },
-  "bbox": [-70.451942,43.395475,-70.451942,43.395475],
+  "bbox": [
+    -70.451942,
+    43.395475,
+    -70.451942,
+    43.395475
+],
   "geometry": {"coordinates":[-70.451942,43.395475],"type":"Point"}
 }

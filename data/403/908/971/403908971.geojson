@@ -2,13 +2,14 @@
   "id": 403908971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.18903,44.077673,-70.18903,44.077673",
     "geom:latitude":44.077673,
     "geom:longitude":-70.18903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1174 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403908971,
-    "wof:lastmodified":1449055392,
+    "wof:lastmodified":1466586948,
     "wof:name":"Kirby Center Of Lewiston",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-70.18903,44.077673,-70.18903,44.077673],
+  "bbox": [
+    -70.18903,
+    44.077673,
+    -70.18903,
+    44.077673
+],
   "geometry": {"coordinates":[-70.18903,44.077673],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387660899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.004773,46.653698,-68.004773,46.653698",
     "geom:latitude":46.653698,
     "geom:longitude":-68.004773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Houlton Rd",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387660899,
-    "wof:lastmodified":1449059522,
+    "wof:lastmodified":1466586136,
     "wof:name":"Cookies & Cuts",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cracker"
     ]
 },
-  "bbox": [-68.004773,46.653698,-68.004773,46.653698],
+  "bbox": [
+    -68.004773,
+    46.653698,
+    -68.004773,
+    46.653698
+],
   "geometry": {"coordinates":[-68.004773,46.653698],"type":"Point"}
 }

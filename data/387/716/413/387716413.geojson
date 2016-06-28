@@ -2,13 +2,14 @@
   "id": 387716413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.80229,44.7867,-68.80229,44.7867",
     "geom:latitude":44.7867,
     "geom:longitude":-68.80229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"278 Webster Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387716413,
-    "wof:lastmodified":1449056641,
+    "wof:lastmodified":1466586802,
     "wof:name":"Bangor Municipal Golf Course",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-68.80229,44.7867,-68.80229,44.7867],
+  "bbox": [
+    -68.80229,
+    44.7867,
+    -68.80229,
+    44.7867
+],
   "geometry": {"coordinates":[-68.80229,44.7867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387861623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.857783,43.904341,-69.857783,43.904341",
     "geom:latitude":43.904341,
     "geom:longitude":-69.857783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Industrial Way",
     "sg:city":"Boothbay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387861623,
-    "wof:lastmodified":1449059896,
+    "wof:lastmodified":1466587185,
     "wof:name":"AMA Inc",
     "wof:parent_id":85837805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financial"
     ]
 },
-  "bbox": [-69.857783,43.904341,-69.857783,43.904341],
+  "bbox": [
+    -69.857783,
+    43.904341,
+    -69.857783,
+    43.904341
+],
   "geometry": {"coordinates":[-69.857783,43.904341],"type":"Point"}
 }

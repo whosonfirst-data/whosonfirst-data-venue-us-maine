@@ -2,13 +2,14 @@
   "id": 387799833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.786173,44.464748,-70.786173,44.464748",
     "geom:latitude":44.464748,
     "geom:longitude":-70.786173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 Intervale Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387799833,
-    "wof:lastmodified":1449059937,
+    "wof:lastmodified":1466587043,
     "wof:name":"Carters Diversified Services",
     "wof:parent_id":85831117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.786173,44.464748,-70.786173,44.464748],
-  "geometry": {"coordinates":[-70.786173,44.464748],"type":"Point"}
+  "bbox": [
+    -70.786173,
+    44.464748,
+    -70.786173,
+    44.464748
+],
+  "geometry": {"coordinates":[-70.78617300000001,44.464748],"type":"Point"}
 }

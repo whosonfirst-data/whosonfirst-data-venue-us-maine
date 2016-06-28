@@ -2,13 +2,14 @@
   "id": 387960135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.293103,43.904553,-70.293103,43.904553",
     "geom:latitude":43.904553,
     "geom:longitude":-70.293103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Merrill Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387960135,
-    "wof:lastmodified":1449058844,
+    "wof:lastmodified":1466587344,
     "wof:name":"Wilsundale Country Care Chldcr",
     "wof:parent_id":85857545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.293103,43.904553,-70.293103,43.904553],
+  "bbox": [
+    -70.293103,
+    43.904553,
+    -70.293103,
+    43.904553
+],
   "geometry": {"coordinates":[-70.293103,43.904553],"type":"Point"}
 }

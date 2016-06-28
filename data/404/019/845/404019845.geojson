@@ -2,13 +2,14 @@
   "id": 404019845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.28126,43.655809,-70.28126,43.655809",
     "geom:latitude":43.655809,
     "geom:longitude":-70.28126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Park Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404019845,
-    "wof:lastmodified":1449039818,
+    "wof:lastmodified":1466585895,
     "wof:name":"Maine Artificial Limb & Ortho",
     "wof:parent_id":85880029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthopedic"
     ]
 },
-  "bbox": [-70.28126,43.655809,-70.28126,43.655809],
+  "bbox": [
+    -70.28126,
+    43.655809,
+    -70.28126,
+    43.655809
+],
   "geometry": {"coordinates":[-70.28126,43.655809],"type":"Point"}
 }

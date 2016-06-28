@@ -2,13 +2,14 @@
   "id": 403869237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.721207,44.777086,-69.721207,44.777086",
     "geom:latitude":44.777086,
     "geom:longitude":-69.721207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Jewett St",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403869237,
-    "wof:lastmodified":1449055854,
+    "wof:lastmodified":1466586684,
     "wof:name":"North Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.721207,44.777086,-69.721207,44.777086],
-  "geometry": {"coordinates":[-69.721207,44.777086],"type":"Point"}
+  "bbox": [
+    -69.721207,
+    44.777086,
+    -69.721207,
+    44.777086
+],
+  "geometry": {"coordinates":[-69.72120700000001,44.777086],"type":"Point"}
 }

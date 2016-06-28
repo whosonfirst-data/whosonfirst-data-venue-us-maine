@@ -2,13 +2,14 @@
   "id": 403802915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.74183,44.845697,-68.74183,44.845697",
     "geom:latitude":44.845697,
     "geom:longitude":-68.74183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Ridgewood Dr",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403802915,
-    "wof:lastmodified":1449055718,
+    "wof:lastmodified":1466585992,
     "wof:name":"Independent Medical Assoc",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-68.74183,44.845697,-68.74183,44.845697],
-  "geometry": {"coordinates":[-68.74183,44.845697],"type":"Point"}
+  "bbox": [
+    -68.74183,
+    44.845697,
+    -68.74183,
+    44.845697
+],
+  "geometry": {"coordinates":[-68.74182999999999,44.845697],"type":"Point"}
 }

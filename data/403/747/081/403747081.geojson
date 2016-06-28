@@ -2,13 +2,14 @@
   "id": 403747081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.36477,44.289558,-70.36477,44.289558",
     "geom:latitude":44.289558,
     "geom:longitude":-70.36477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Turner St",
     "sg:city":"Buckfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403747081,
-    "wof:lastmodified":1449054868,
+    "wof:lastmodified":1466586169,
     "wof:name":"US Post Office",
     "wof:parent_id":85816409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.36477,44.289558,-70.36477,44.289558],
-  "geometry": {"coordinates":[-70.36477,44.289558],"type":"Point"}
+  "bbox": [
+    -70.36477,
+    44.289558,
+    -70.36477,
+    44.289558
+],
+  "geometry": {"coordinates":[-70.36476999999999,44.289558],"type":"Point"}
 }

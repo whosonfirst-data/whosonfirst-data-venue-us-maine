@@ -2,13 +2,14 @@
   "id": 404039629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.509845,43.607577,-70.509845,43.607577",
     "geom:latitude":43.607577,
     "geom:longitude":-70.509845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Seavey Dr",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404039629,
-    "wof:lastmodified":1449040175,
+    "wof:lastmodified":1466586078,
     "wof:name":"Distribution Design Inc",
     "wof:parent_id":85852373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.509845,43.607577,-70.509845,43.607577],
+  "bbox": [
+    -70.509845,
+    43.607577,
+    -70.509845,
+    43.607577
+],
   "geometry": {"coordinates":[-70.509845,43.607577],"type":"Point"}
 }

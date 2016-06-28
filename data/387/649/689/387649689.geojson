@@ -2,13 +2,14 @@
   "id": 387649689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.402629,43.810177,-70.402629,43.810177",
     "geom:latitude":43.810177,
     "geom:longitude":-70.402629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"557 Gray Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387649689,
-    "wof:lastmodified":1449058704,
+    "wof:lastmodified":1466586739,
     "wof:name":"Legacy Homes Inc",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-70.402629,43.810177,-70.402629,43.810177],
+  "bbox": [
+    -70.402629,
+    43.810177,
+    -70.402629,
+    43.810177
+],
   "geometry": {"coordinates":[-70.402629,43.810177],"type":"Point"}
 }

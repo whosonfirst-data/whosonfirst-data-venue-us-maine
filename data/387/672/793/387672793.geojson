@@ -2,13 +2,14 @@
   "id": 387672793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.720505,43.120793,-70.720505,43.120793",
     "geom:latitude":43.120793,
     "geom:longitude":-70.720505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"447 US Hwy 1",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387672793,
-    "wof:lastmodified":1449056358,
+    "wof:lastmodified":1466586677,
     "wof:name":"Candlelight",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [-70.720505,43.120793,-70.720505,43.120793],
+  "bbox": [
+    -70.720505,
+    43.120793,
+    -70.720505,
+    43.120793
+],
   "geometry": {"coordinates":[-70.720505,43.120793],"type":"Point"}
 }

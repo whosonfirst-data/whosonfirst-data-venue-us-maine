@@ -2,13 +2,14 @@
   "id": 387778759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.121425,43.808708,-70.121425,43.808708",
     "geom:latitude":43.808708,
     "geom:longitude":-70.121425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Arnold Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387778759,
-    "wof:lastmodified":1449056198,
+    "wof:lastmodified":1466586995,
     "wof:name":"Mental Health Law News",
     "wof:parent_id":85813291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "news"
     ]
 },
-  "bbox": [-70.121425,43.808708,-70.121425,43.808708],
+  "bbox": [
+    -70.121425,
+    43.808708,
+    -70.121425,
+    43.808708
+],
   "geometry": {"coordinates":[-70.121425,43.808708],"type":"Point"}
 }

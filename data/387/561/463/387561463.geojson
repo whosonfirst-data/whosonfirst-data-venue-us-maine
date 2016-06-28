@@ -2,13 +2,14 @@
   "id": 387561463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.675258,44.879706,-68.675258,44.879706",
     "geom:latitude":44.879706,
     "geom:longitude":-68.675258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Main St",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387561463,
-    "wof:lastmodified":1449058808,
+    "wof:lastmodified":1466585786,
     "wof:name":"JGQ Property Management Inc",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-68.675258,44.879706,-68.675258,44.879706],
+  "bbox": [
+    -68.675258,
+    44.879706,
+    -68.675258,
+    44.879706
+],
   "geometry": {"coordinates":[-68.675258,44.879706],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387936879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.823985,44.782482,-68.823985,44.782482",
     "geom:latitude":44.782482,
     "geom:longitude":-68.823985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Dowd Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387936879,
-    "wof:lastmodified":1449057365,
+    "wof:lastmodified":1466587274,
     "wof:name":"Bangor Steel Svc Inc",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "warehouse"
     ]
 },
-  "bbox": [-68.823985,44.782482,-68.823985,44.782482],
-  "geometry": {"coordinates":[-68.823985,44.782482],"type":"Point"}
+  "bbox": [
+    -68.823985,
+    44.782482,
+    -68.823985,
+    44.782482
+],
+  "geometry": {"coordinates":[-68.82398499999999,44.782482],"type":"Point"}
 }

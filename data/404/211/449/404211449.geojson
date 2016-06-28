@@ -2,13 +2,14 @@
   "id": 404211449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.087379,44.405588,-68.087379,44.405588",
     "geom:latitude":44.405588,
     "geom:longitude":-68.087379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"456 Newman St",
     "sg:city":"Winter Harbor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404211449,
-    "wof:lastmodified":1449039341,
+    "wof:lastmodified":1466586960,
     "wof:name":"Winter Harbor Water District",
     "wof:parent_id":85821423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewage"
     ]
 },
-  "bbox": [-68.087379,44.405588,-68.087379,44.405588],
+  "bbox": [
+    -68.087379,
+    44.405588,
+    -68.087379,
+    44.405588
+],
   "geometry": {"coordinates":[-68.087379,44.405588],"type":"Point"}
 }

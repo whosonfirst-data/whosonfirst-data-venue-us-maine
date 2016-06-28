@@ -2,13 +2,14 @@
   "id": 404086993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.790004,44.405631,-70.790004,44.405631",
     "geom:latitude":44.405631,
     "geom:longitude":-70.790004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Main St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404086993,
-    "wof:lastmodified":1449039936,
+    "wof:lastmodified":1466586704,
     "wof:name":"Brooks Brothers Inc",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.790004,44.405631,-70.790004,44.405631],
+  "bbox": [
+    -70.790004,
+    44.405631,
+    -70.790004,
+    44.405631
+],
   "geometry": {"coordinates":[-70.790004,44.405631],"type":"Point"}
 }

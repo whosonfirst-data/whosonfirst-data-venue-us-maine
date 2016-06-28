@@ -2,13 +2,14 @@
   "id": 403748499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.216212,44.100134,-70.216212,44.100134",
     "geom:latitude":44.100134,
     "geom:longitude":-70.216212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Bates St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403748499,
-    "wof:lastmodified":1449055619,
+    "wof:lastmodified":1466586193,
     "wof:name":"Great Falls Regional Cu",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.216212,44.100134,-70.216212,44.100134],
+  "bbox": [
+    -70.216212,
+    44.100134,
+    -70.216212,
+    44.100134
+],
   "geometry": {"coordinates":[-70.216212,44.100134],"type":"Point"}
 }

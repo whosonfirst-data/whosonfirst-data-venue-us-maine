@@ -2,13 +2,14 @@
   "id": 403938195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.379765,44.095061,-69.379765,44.095061",
     "geom:latitude":44.095061,
     "geom:longitude":-69.379765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Medomak Ter",
     "sg:city":"Waldoboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403938195,
-    "wof:lastmodified":1449055610,
+    "wof:lastmodified":1466587038,
     "wof:name":"Daniel C Purdy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-69.379765,44.095061,-69.379765,44.095061],
-  "geometry": {"coordinates":[-69.379765,44.095061],"type":"Point"}
+  "bbox": [
+    -69.379765,
+    44.095061,
+    -69.379765,
+    44.095061
+],
+  "geometry": {"coordinates":[-69.37976500000001,44.095061],"type":"Point"}
 }

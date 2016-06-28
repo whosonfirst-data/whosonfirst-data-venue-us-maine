@@ -2,13 +2,14 @@
   "id": 404148493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242044,43.649701,-70.242044,43.649701",
     "geom:latitude":43.649701,
     "geom:longitude":-70.242044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404148493,
-    "wof:lastmodified":1449040125,
+    "wof:lastmodified":1466586725,
     "wof:name":"Hutchins Trucking Co",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-70.242044,43.649701,-70.242044,43.649701],
-  "geometry": {"coordinates":[-70.242044,43.649701],"type":"Point"}
+  "bbox": [
+    -70.242044,
+    43.649701,
+    -70.242044,
+    43.649701
+],
+  "geometry": {"coordinates":[-70.24204400000001,43.649701],"type":"Point"}
 }

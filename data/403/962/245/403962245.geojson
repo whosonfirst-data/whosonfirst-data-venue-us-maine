@@ -2,13 +2,14 @@
   "id": 403962245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.30843,43.693745,-70.30843,43.693745",
     "geom:latitude":43.693745,
     "geom:longitude":-70.30843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Belfort St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403962245,
-    "wof:lastmodified":1449055432,
+    "wof:lastmodified":1466587098,
     "wof:name":"Carr Home Improvement",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.30843,43.693745,-70.30843,43.693745],
+  "bbox": [
+    -70.30843,
+    43.693745,
+    -70.30843,
+    43.693745
+],
   "geometry": {"coordinates":[-70.30843,43.693745],"type":"Point"}
 }

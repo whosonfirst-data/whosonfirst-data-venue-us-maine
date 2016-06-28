@@ -2,13 +2,14 @@
   "id": 387562587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.356706,43.55113,-70.356706,43.55113",
     "geom:latitude":43.55113,
     "geom:longitude":-70.356706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Pine Point Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387562587,
-    "wof:lastmodified":1449058124,
+    "wof:lastmodified":1466585808,
     "wof:name":"1840 House Jacqueline Designs",
     "wof:parent_id":85806509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.356706,43.55113,-70.356706,43.55113],
+  "bbox": [
+    -70.356706,
+    43.55113,
+    -70.356706,
+    43.55113
+],
   "geometry": {"coordinates":[-70.356706,43.55113],"type":"Point"}
 }

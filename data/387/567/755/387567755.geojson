@@ -2,13 +2,14 @@
   "id": 387567755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.415574,43.502908,-70.415574,43.502908",
     "geom:latitude":43.502908,
     "geom:longitude":-70.415574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Old Orchard Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387567755,
-    "wof:lastmodified":1449059946,
+    "wof:lastmodified":1466585855,
     "wof:name":"New Testament Baptist Church",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.415574,43.502908,-70.415574,43.502908],
-  "geometry": {"coordinates":[-70.415574,43.502908],"type":"Point"}
+  "bbox": [
+    -70.415574,
+    43.502908,
+    -70.415574,
+    43.502908
+],
+  "geometry": {"coordinates":[-70.41557400000001,43.502908],"type":"Point"}
 }

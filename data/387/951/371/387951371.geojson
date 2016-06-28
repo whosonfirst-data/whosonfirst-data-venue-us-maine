@@ -2,13 +2,14 @@
   "id": 387951371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.226557,43.633416,-70.226557,43.633416",
     "geom:latitude":43.633416,
     "geom:longitude":-70.226557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"537 Shore Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387951371,
-    "wof:lastmodified":1449056286,
+    "wof:lastmodified":1466587209,
     "wof:name":"Sport-Trim",
     "wof:parent_id":85867975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-70.226557,43.633416,-70.226557,43.633416],
+  "bbox": [
+    -70.226557,
+    43.633416,
+    -70.226557,
+    43.633416
+],
   "geometry": {"coordinates":[-70.226557,43.633416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387725635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.120003,43.94753,-70.120003,43.94753",
     "geom:latitude":43.94753,
     "geom:longitude":-70.120003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1457 Royalsborough Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387725635,
-    "wof:lastmodified":1449057029,
+    "wof:lastmodified":1466586822,
     "wof:name":"Sawyer's Plumbing",
     "wof:parent_id":85849607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.120003,43.94753,-70.120003,43.94753],
+  "bbox": [
+    -70.120003,
+    43.94753,
+    -70.120003,
+    43.94753
+],
   "geometry": {"coordinates":[-70.120003,43.94753],"type":"Point"}
 }

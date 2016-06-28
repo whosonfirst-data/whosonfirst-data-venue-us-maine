@@ -2,13 +2,14 @@
   "id": 404060761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.321294,43.914044,-70.321294,43.914044",
     "geom:latitude":43.914044,
     "geom:longitude":-70.321294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Lewiston Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404060761,
-    "wof:lastmodified":1449040222,
+    "wof:lastmodified":1466586452,
     "wof:name":"Pine Tree Food Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-70.321294,43.914044,-70.321294,43.914044],
-  "geometry": {"coordinates":[-70.321294,43.914044],"type":"Point"}
+  "bbox": [
+    -70.321294,
+    43.914044,
+    -70.321294,
+    43.914044
+],
+  "geometry": {"coordinates":[-70.32129399999999,43.914044],"type":"Point"}
 }

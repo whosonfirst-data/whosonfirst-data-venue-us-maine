@@ -2,13 +2,14 @@
   "id": 403962205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.792334,44.799612,-68.792334,44.799612",
     "geom:latitude":44.799612,
     "geom:longitude":-68.792334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"592 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403962205,
-    "wof:lastmodified":1449055432,
+    "wof:lastmodified":1466587013,
     "wof:name":"Karam's Hardwood & Millwork",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hardwood"
     ]
 },
-  "bbox": [-68.792334,44.799612,-68.792334,44.799612],
+  "bbox": [
+    -68.792334,
+    44.799612,
+    -68.792334,
+    44.799612
+],
   "geometry": {"coordinates":[-68.792334,44.799612],"type":"Point"}
 }

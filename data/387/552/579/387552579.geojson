@@ -2,13 +2,14 @@
   "id": 387552579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.926451,44.458318,-68.926451,44.458318",
     "geom:latitude":44.458318,
     "geom:longitude":-68.926451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 E Main St",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387552579,
-    "wof:lastmodified":1449057698,
+    "wof:lastmodified":1466585703,
     "wof:name":"Scrapbook Closet",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-68.926451,44.458318,-68.926451,44.458318],
+  "bbox": [
+    -68.926451,
+    44.458318,
+    -68.926451,
+    44.458318
+],
   "geometry": {"coordinates":[-68.926451,44.458318],"type":"Point"}
 }

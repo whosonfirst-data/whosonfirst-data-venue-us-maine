@@ -2,13 +2,14 @@
   "id": 403827173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.772399,44.289721,-69.772399,44.289721",
     "geom:latitude":44.289721,
     "geom:longitude":-69.772399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Beech St",
     "sg:city":"Hallowell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403827173,
-    "wof:lastmodified":1449055103,
+    "wof:lastmodified":1466586382,
     "wof:name":"Audit Dept",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "taxation"
     ]
 },
-  "bbox": [-69.772399,44.289721,-69.772399,44.289721],
-  "geometry": {"coordinates":[-69.772399,44.289721],"type":"Point"}
+  "bbox": [
+    -69.772399,
+    44.289721,
+    -69.772399,
+    44.289721
+],
+  "geometry": {"coordinates":[-69.77239899999999,44.289721],"type":"Point"}
 }

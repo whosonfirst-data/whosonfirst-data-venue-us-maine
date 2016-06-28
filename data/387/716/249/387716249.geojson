@@ -2,13 +2,14 @@
   "id": 387716249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.977786,44.011089,-70.977786,44.011089",
     "geom:latitude":44.011089,
     "geom:longitude":-70.977786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Elm St",
     "sg:city":"Fryeburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387716249,
-    "wof:lastmodified":1449056641,
+    "wof:lastmodified":1466586690,
     "wof:name":"Mountain Sports Massage Thrpy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.977786,44.011089,-70.977786,44.011089],
-  "geometry": {"coordinates":[-70.977786,44.011089],"type":"Point"}
+  "bbox": [
+    -70.977786,
+    44.011089,
+    -70.977786,
+    44.011089
+],
+  "geometry": {"coordinates":[-70.97778599999999,44.011089],"type":"Point"}
 }

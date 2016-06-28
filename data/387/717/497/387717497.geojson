@@ -2,13 +2,14 @@
   "id": 387717497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.457082,43.485138,-70.457082,43.485138",
     "geom:latitude":43.485138,
     "geom:longitude":-70.457082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Hill St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387717497,
-    "wof:lastmodified":1449056221,
+    "wof:lastmodified":1466586809,
     "wof:name":"East Biddeford Little League",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "stadium"
     ]
 },
-  "bbox": [-70.457082,43.485138,-70.457082,43.485138],
+  "bbox": [
+    -70.457082,
+    43.485138,
+    -70.457082,
+    43.485138
+],
   "geometry": {"coordinates":[-70.457082,43.485138],"type":"Point"}
 }

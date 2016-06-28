@@ -2,13 +2,14 @@
   "id": 387670169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.954534,44.021385,-70.954534,44.021385",
     "geom:latitude":44.021385,
     "geom:longitude":-70.954534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Bridgton Rd",
     "sg:city":"Fryeburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387670169,
-    "wof:lastmodified":1449056674,
+    "wof:lastmodified":1466586283,
     "wof:name":"Fryeburg Glass Inc",
     "wof:parent_id":85820811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-70.954534,44.021385,-70.954534,44.021385],
+  "bbox": [
+    -70.954534,
+    44.021385,
+    -70.954534,
+    44.021385
+],
   "geometry": {"coordinates":[-70.954534,44.021385],"type":"Point"}
 }

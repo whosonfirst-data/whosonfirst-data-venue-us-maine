@@ -2,13 +2,14 @@
   "id": 387642779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.364274,43.670782,-70.364274,43.670782",
     "geom:latitude":43.670782,
     "geom:longitude":-70.364274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Middle St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387642779,
-    "wof:lastmodified":1449056332,
+    "wof:lastmodified":1466585912,
     "wof:name":"Lisa A Harris",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.364274,43.670782,-70.364274,43.670782],
-  "geometry": {"coordinates":[-70.364274,43.670782],"type":"Point"}
+  "bbox": [
+    -70.364274,
+    43.670782,
+    -70.364274,
+    43.670782
+],
+  "geometry": {"coordinates":[-70.36427399999999,43.670782],"type":"Point"}
 }

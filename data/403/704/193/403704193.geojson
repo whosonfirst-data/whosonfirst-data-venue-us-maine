@@ -2,13 +2,14 @@
   "id": 403704193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.172923,44.077283,-70.172923,44.077283",
     "geom:latitude":44.077283,
     "geom:longitude":-70.172923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Westminster St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403704193,
-    "wof:lastmodified":1449054987,
+    "wof:lastmodified":1466586256,
     "wof:name":"New England Svc",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-70.172923,44.077283,-70.172923,44.077283],
+  "bbox": [
+    -70.172923,
+    44.077283,
+    -70.172923,
+    44.077283
+],
   "geometry": {"coordinates":[-70.172923,44.077283],"type":"Point"}
 }

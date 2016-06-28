@@ -2,13 +2,14 @@
   "id": 404217327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.067778,43.845501,-70.067778,43.845501",
     "geom:latitude":43.845501,
     "geom:longitude":-70.067778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Wolfs Neck Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404217327,
-    "wof:lastmodified":1449040266,
+    "wof:lastmodified":1466587081,
     "wof:name":"Randy Baker Builders",
     "wof:parent_id":85813291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.067778,43.845501,-70.067778,43.845501],
+  "bbox": [
+    -70.067778,
+    43.845501,
+    -70.067778,
+    43.845501
+],
   "geometry": {"coordinates":[-70.067778,43.845501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403830463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.384937,45.167486,-69.384937,45.167486",
     "geom:latitude":45.167486,
     "geom:longitude":-69.384937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Oak St",
     "sg:city":"Guilford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403830463,
-    "wof:lastmodified":1449054922,
+    "wof:lastmodified":1466586435,
     "wof:name":"Crosby & Neal Funeral Homes",
     "wof:parent_id":85806555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-69.384937,45.167486,-69.384937,45.167486],
-  "geometry": {"coordinates":[-69.384937,45.167486],"type":"Point"}
+  "bbox": [
+    -69.384937,
+    45.167486,
+    -69.384937,
+    45.167486
+],
+  "geometry": {"coordinates":[-69.38493699999999,45.167486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403958827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.604305,43.703591,-70.604305,43.703591",
     "geom:latitude":43.703591,
     "geom:longitude":-70.604305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Cape Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403958827,
-    "wof:lastmodified":1449055679,
+    "wof:lastmodified":1466586978,
     "wof:name":"Lake Research Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.604305,43.703591,-70.604305,43.703591],
+  "bbox": [
+    -70.604305,
+    43.703591,
+    -70.604305,
+    43.703591
+],
   "geometry": {"coordinates":[-70.604305,43.703591],"type":"Point"}
 }

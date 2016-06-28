@@ -2,13 +2,14 @@
   "id": 387565257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.391292,43.512845,-70.391292,43.512845",
     "geom:latitude":43.512845,
     "geom:longitude":-70.391292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Saco Ave",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387565257,
-    "wof:lastmodified":1449059581,
+    "wof:lastmodified":1466585832,
     "wof:name":"Captain's Galley Restaurant",
     "wof:parent_id":85828495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.391292,43.512845,-70.391292,43.512845],
-  "geometry": {"coordinates":[-70.391292,43.512845],"type":"Point"}
+  "bbox": [
+    -70.391292,
+    43.512845,
+    -70.391292,
+    43.512845
+],
+  "geometry": {"coordinates":[-70.39129200000001,43.512845],"type":"Point"}
 }

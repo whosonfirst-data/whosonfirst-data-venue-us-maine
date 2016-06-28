@@ -2,13 +2,14 @@
   "id": 404099061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.06967,44.21093,-69.06967,44.21093",
     "geom:latitude":44.21093,
     "geom:longitude":-69.06967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Alden St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404099061,
-    "wof:lastmodified":1449039916,
+    "wof:lastmodified":1466585984,
     "wof:name":"Northeast Boat Rentals",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [-69.06967,44.21093,-69.06967,44.21093],
+  "bbox": [
+    -69.06967,
+    44.21093,
+    -69.06967,
+    44.21093
+],
   "geometry": {"coordinates":[-69.06967,44.21093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387827591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.378072,43.459427,-70.378072,43.459427",
     "geom:latitude":43.459427,
     "geom:longitude":-70.378072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Break Water Ave",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387827591,
-    "wof:lastmodified":1449057461,
+    "wof:lastmodified":1466587194,
     "wof:name":"Cronkhite Communications",
     "wof:parent_id":85825543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-70.378072,43.459427,-70.378072,43.459427],
+  "bbox": [
+    -70.378072,
+    43.459427,
+    -70.378072,
+    43.459427
+],
   "geometry": {"coordinates":[-70.378072,43.459427],"type":"Point"}
 }

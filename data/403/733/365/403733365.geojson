@@ -2,13 +2,14 @@
   "id": 403733365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.371497,44.062407,-70.371497,44.062407",
     "geom:latitude":44.062407,
     "geom:longitude":-70.371497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 Cobb Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403733365,
-    "wof:lastmodified":1449054804,
+    "wof:lastmodified":1466586015,
     "wof:name":"RKL Construction Svc",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-70.371497,44.062407,-70.371497,44.062407],
-  "geometry": {"coordinates":[-70.371497,44.062407],"type":"Point"}
+  "bbox": [
+    -70.371497,
+    44.062407,
+    -70.371497,
+    44.062407
+],
+  "geometry": {"coordinates":[-70.37149700000001,44.062407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403823333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.200042,44.0709,-70.200042,44.0709",
     "geom:latitude":44.0709,
     "geom:longitude":-70.200042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 River Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403823333,
-    "wof:lastmodified":1449055944,
+    "wof:lastmodified":1466586319,
     "wof:name":"Grimmel Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "iron"
     ]
 },
-  "bbox": [-70.200042,44.0709,-70.200042,44.0709],
+  "bbox": [
+    -70.200042,
+    44.0709,
+    -70.200042,
+    44.0709
+],
   "geometry": {"coordinates":[-70.200042,44.0709],"type":"Point"}
 }

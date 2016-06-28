@@ -2,13 +2,14 @@
   "id": 387614553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.96956,43.871818,-69.96956,43.871818",
     "geom:latitude":43.871818,
     "geom:longitude":-69.96956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Simpsons Point Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387614553,
-    "wof:lastmodified":1449060021,
+    "wof:lastmodified":1466586577,
     "wof:name":"Brunswick Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-69.96956,43.871818,-69.96956,43.871818],
+  "bbox": [
+    -69.96956,
+    43.871818,
+    -69.96956,
+    43.871818
+],
   "geometry": {"coordinates":[-69.96956,43.871818],"type":"Point"}
 }

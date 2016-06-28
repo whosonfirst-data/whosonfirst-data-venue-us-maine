@@ -2,13 +2,14 @@
   "id": 403868525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.801953,43.462875,-70.801953,43.462875",
     "geom:latitude":43.462875,
     "geom:longitude":-70.801953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Greenaway Ave",
     "sg:city":"Springvale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403868525,
-    "wof:lastmodified":1449054679,
+    "wof:lastmodified":1466586780,
     "wof:name":"Tonys Sewing Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewing"
     ]
 },
-  "bbox": [-70.801953,43.462875,-70.801953,43.462875],
+  "bbox": [
+    -70.801953,
+    43.462875,
+    -70.801953,
+    43.462875
+],
   "geometry": {"coordinates":[-70.801953,43.462875],"type":"Point"}
 }

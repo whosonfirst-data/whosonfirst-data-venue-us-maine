@@ -2,13 +2,14 @@
   "id": 387770593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.423118,43.534866,-70.423118,43.534866",
     "geom:latitude":43.534866,
     "geom:longitude":-70.423118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"885 Portland Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387770593,
-    "wof:lastmodified":1449059993,
+    "wof:lastmodified":1466586965,
     "wof:name":"Elegant Homes Home Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.423118,43.534866,-70.423118,43.534866],
+  "bbox": [
+    -70.423118,
+    43.534866,
+    -70.423118,
+    43.534866
+],
   "geometry": {"coordinates":[-70.423118,43.534866],"type":"Point"}
 }

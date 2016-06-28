@@ -2,13 +2,14 @@
   "id": 403806423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.289414,43.891221,-70.289414,43.891221",
     "geom:latitude":43.891221,
     "geom:longitude":-70.289414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Depot Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403806423,
-    "wof:lastmodified":1449054622,
+    "wof:lastmodified":1466586049,
     "wof:name":"Maine-Ly Bookkeeping Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-70.289414,43.891221,-70.289414,43.891221],
-  "geometry": {"coordinates":[-70.289414,43.891221],"type":"Point"}
+  "bbox": [
+    -70.289414,
+    43.891221,
+    -70.289414,
+    43.891221
+],
+  "geometry": {"coordinates":[-70.28941399999999,43.891221],"type":"Point"}
 }

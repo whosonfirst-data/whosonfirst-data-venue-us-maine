@@ -2,13 +2,14 @@
   "id": 403867027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.009678,46.687847,-68.009678,46.687847",
     "geom:latitude":46.687847,
     "geom:longitude":-68.009678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Martin St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403867027,
-    "wof:lastmodified":1449055212,
+    "wof:lastmodified":1466586772,
     "wof:name":"BDL Employment & Rehab Svc",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-68.009678,46.687847,-68.009678,46.687847],
-  "geometry": {"coordinates":[-68.009678,46.687847],"type":"Point"}
+  "bbox": [
+    -68.009678,
+    46.687847,
+    -68.009678,
+    46.687847
+],
+  "geometry": {"coordinates":[-68.00967799999999,46.687847],"type":"Point"}
 }

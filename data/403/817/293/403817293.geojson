@@ -2,13 +2,14 @@
   "id": 403817293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.207552,43.732252,-70.207552,43.732252",
     "geom:latitude":43.732252,
     "geom:longitude":-70.207552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Ramsdell Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403817293,
-    "wof:lastmodified":1449055696,
+    "wof:lastmodified":1466586220,
     "wof:name":"Action Based Care",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.207552,43.732252,-70.207552,43.732252],
-  "geometry": {"coordinates":[-70.207552,43.732252],"type":"Point"}
+  "bbox": [
+    -70.207552,
+    43.732252,
+    -70.207552,
+    43.732252
+],
+  "geometry": {"coordinates":[-70.20755200000001,43.732252],"type":"Point"}
 }

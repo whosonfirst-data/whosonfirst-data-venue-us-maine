@@ -2,13 +2,14 @@
   "id": 403882711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.644711,44.934415,-68.644711,44.934415",
     "geom:latitude":44.934415,
     "geom:longitude":-68.644711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Water St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403882711,
-    "wof:lastmodified":1449054866,
+    "wof:lastmodified":1466586852,
     "wof:name":"American Legion",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-68.644711,44.934415,-68.644711,44.934415],
+  "bbox": [
+    -68.644711,
+    44.934415,
+    -68.644711,
+    44.934415
+],
   "geometry": {"coordinates":[-68.644711,44.934415],"type":"Point"}
 }

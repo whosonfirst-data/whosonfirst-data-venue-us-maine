@@ -2,13 +2,14 @@
   "id": 404118653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.430011,43.435562,-70.430011,43.435562",
     "geom:latitude":43.435562,
     "geom:longitude":-70.430011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Oak Ridge Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404118653,
-    "wof:lastmodified":1449040062,
+    "wof:lastmodified":1466586275,
     "wof:name":"Bethany Baptist Church",
     "wof:parent_id":85836907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.430011,43.435562,-70.430011,43.435562],
-  "geometry": {"coordinates":[-70.430011,43.435562],"type":"Point"}
+  "bbox": [
+    -70.430011,
+    43.435562,
+    -70.430011,
+    43.435562
+],
+  "geometry": {"coordinates":[-70.43001099999999,43.435562],"type":"Point"}
 }

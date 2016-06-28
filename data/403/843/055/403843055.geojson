@@ -2,13 +2,14 @@
   "id": 403843055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252269,43.680458,-70.252269,43.680458",
     "geom:latitude":43.680458,
     "geom:longitude":-70.252269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Berwick St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403843055,
-    "wof:lastmodified":1449054748,
+    "wof:lastmodified":1466586810,
     "wof:name":"ABC Woodworks",
     "wof:parent_id":85816239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-70.252269,43.680458,-70.252269,43.680458],
+  "bbox": [
+    -70.252269,
+    43.680458,
+    -70.252269,
+    43.680458
+],
   "geometry": {"coordinates":[-70.252269,43.680458],"type":"Point"}
 }

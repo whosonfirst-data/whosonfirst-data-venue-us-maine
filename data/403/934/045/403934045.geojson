@@ -2,13 +2,14 @@
   "id": 403934045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.720422,44.82499,-68.720422,44.82499",
     "geom:latitude":44.82499,
     "geom:longitude":-68.720422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 Mount Hope Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403934045,
-    "wof:lastmodified":1449054695,
+    "wof:lastmodified":1466586934,
     "wof:name":"Tricia Quirk",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.720422,44.82499,-68.720422,44.82499],
+  "bbox": [
+    -68.720422,
+    44.82499,
+    -68.720422,
+    44.82499
+],
   "geometry": {"coordinates":[-68.720422,44.82499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404129473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.189244,43.790411,-70.189244,43.790411",
     "geom:latitude":43.790411,
     "geom:longitude":-70.189244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 US Hwy 1",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404129473,
-    "wof:lastmodified":1449040055,
+    "wof:lastmodified":1466586442,
     "wof:name":"Brookside Motel",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.189244,43.790411,-70.189244,43.790411],
+  "bbox": [
+    -70.189244,
+    43.790411,
+    -70.189244,
+    43.790411
+],
   "geometry": {"coordinates":[-70.189244,43.790411],"type":"Point"}
 }

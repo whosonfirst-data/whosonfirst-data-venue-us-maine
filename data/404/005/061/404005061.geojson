@@ -2,13 +2,14 @@
   "id": 404005061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.345558,43.595932,-70.345558,43.595932",
     "geom:latitude":43.595932,
     "geom:longitude":-70.345558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Sagebrush Dr",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404005061,
-    "wof:lastmodified":1449040240,
+    "wof:lastmodified":1466585762,
     "wof:name":"Windy City Enterprises Inc",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.345558,43.595932,-70.345558,43.595932],
+  "bbox": [
+    -70.345558,
+    43.595932,
+    -70.345558,
+    43.595932
+],
   "geometry": {"coordinates":[-70.345558,43.595932],"type":"Point"}
 }

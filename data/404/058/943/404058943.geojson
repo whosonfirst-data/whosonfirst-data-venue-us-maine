@@ -2,13 +2,14 @@
   "id": 404058943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.325153,43.596408,-70.325153,43.596408",
     "geom:latitude":43.596408,
     "geom:longitude":-70.325153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"649 US Hwy 1",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404058943,
-    "wof:lastmodified":1449039188,
+    "wof:lastmodified":1466586421,
     "wof:name":"Scarborough Historical Society",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.325153,43.596408,-70.325153,43.596408],
+  "bbox": [
+    -70.325153,
+    43.596408,
+    -70.325153,
+    43.596408
+],
   "geometry": {"coordinates":[-70.325153,43.596408],"type":"Point"}
 }

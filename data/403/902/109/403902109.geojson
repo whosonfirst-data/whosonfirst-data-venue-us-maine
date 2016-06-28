@@ -2,13 +2,14 @@
   "id": 403902109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.367237,43.676746,-70.367237,43.676746",
     "geom:latitude":43.676746,
     "geom:longitude":-70.367237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"884 Main St",
     "sg:city":"Waterboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403902109,
-    "wof:lastmodified":1449055600,
+    "wof:lastmodified":1466586927,
     "wof:name":"Mc Coy Trucking & Excavating",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.367237,43.676746,-70.367237,43.676746],
+  "bbox": [
+    -70.367237,
+    43.676746,
+    -70.367237,
+    43.676746
+],
   "geometry": {"coordinates":[-70.367237,43.676746],"type":"Point"}
 }

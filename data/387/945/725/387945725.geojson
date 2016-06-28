@@ -2,13 +2,14 @@
   "id": 387945725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.2332,43.718294,-70.2332,43.718294",
     "geom:latitude":43.718294,
     "geom:longitude":-70.2332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"196 US Hwy 1",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387945725,
-    "wof:lastmodified":1449056429,
+    "wof:lastmodified":1466587286,
     "wof:name":"City Dance Ctr",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-70.2332,43.718294,-70.2332,43.718294],
+  "bbox": [
+    -70.2332,
+    43.718294,
+    -70.2332,
+    43.718294
+],
   "geometry": {"coordinates":[-70.2332,43.718294],"type":"Point"}
 }

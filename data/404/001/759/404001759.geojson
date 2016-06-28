@@ -2,13 +2,14 @@
   "id": 404001759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.261705,43.656295,-70.261705,43.656295",
     "geom:latitude":43.656295,
     "geom:longitude":-70.261705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Casco St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404001759,
-    "wof:lastmodified":1449039330,
+    "wof:lastmodified":1466585685,
     "wof:name":"Briardenterprises Inc",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "promoter"
     ]
 },
-  "bbox": [-70.261705,43.656295,-70.261705,43.656295],
-  "geometry": {"coordinates":[-70.261705,43.656295],"type":"Point"}
+  "bbox": [
+    -70.261705,
+    43.656295,
+    -70.261705,
+    43.656295
+],
+  "geometry": {"coordinates":[-70.26170500000001,43.656295],"type":"Point"}
 }

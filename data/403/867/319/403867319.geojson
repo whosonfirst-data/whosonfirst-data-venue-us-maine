@@ -2,13 +2,14 @@
   "id": 403867319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.010342,46.70014,-68.010342,46.70014",
     "geom:latitude":46.70014,
     "geom:longitude":-68.010342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"771 Main St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403867319,
-    "wof:lastmodified":1449055212,
+    "wof:lastmodified":1466586681,
     "wof:name":"Health First",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-68.010342,46.70014,-68.010342,46.70014],
-  "geometry": {"coordinates":[-68.010342,46.70014],"type":"Point"}
+  "bbox": [
+    -68.010342,
+    46.70014,
+    -68.010342,
+    46.70014
+],
+  "geometry": {"coordinates":[-68.01034199999999,46.70014],"type":"Point"}
 }

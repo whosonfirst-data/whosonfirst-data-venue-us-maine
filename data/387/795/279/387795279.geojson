@@ -2,13 +2,14 @@
   "id": 387795279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.789017,44.407634,-70.789017,44.407634",
     "geom:latitude":44.407634,
     "geom:longitude":-70.789017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Main St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387795279,
-    "wof:lastmodified":1449058359,
+    "wof:lastmodified":1466587113,
     "wof:name":"US Post Office",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.789017,44.407634,-70.789017,44.407634],
+  "bbox": [
+    -70.789017,
+    44.407634,
+    -70.789017,
+    44.407634
+],
   "geometry": {"coordinates":[-70.789017,44.407634],"type":"Point"}
 }

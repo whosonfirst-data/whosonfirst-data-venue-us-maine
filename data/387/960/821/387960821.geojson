@@ -2,13 +2,14 @@
   "id": 387960821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.67389,43.431676,-70.67389,43.431676",
     "geom:latitude":43.431676,
     "geom:longitude":-70.67389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Whichers Mill Rd",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387960821,
-    "wof:lastmodified":1449058844,
+    "wof:lastmodified":1466587345,
     "wof:name":"Guilbaults Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-70.67389,43.431676,-70.67389,43.431676],
+  "bbox": [
+    -70.67389,
+    43.431676,
+    -70.67389,
+    43.431676
+],
   "geometry": {"coordinates":[-70.67389,43.431676],"type":"Point"}
 }

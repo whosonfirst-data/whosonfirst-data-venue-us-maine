@@ -2,13 +2,14 @@
   "id": 387889459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.459322,44.714406,-67.459322,44.714406",
     "geom:latitude":44.714406,
     "geom:longitude":-67.459322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Main St",
     "sg:city":"Machias",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387889459,
-    "wof:lastmodified":1449056042,
+    "wof:lastmodified":1466587311,
     "wof:name":"Sweet Pea's Boutique",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "boutique"
     ]
 },
-  "bbox": [-67.459322,44.714406,-67.459322,44.714406],
+  "bbox": [
+    -67.459322,
+    44.714406,
+    -67.459322,
+    44.714406
+],
   "geometry": {"coordinates":[-67.459322,44.714406],"type":"Point"}
 }

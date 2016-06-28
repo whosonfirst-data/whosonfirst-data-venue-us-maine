@@ -2,13 +2,14 @@
   "id": 404154705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.850952,44.931977,-68.850952,44.931977",
     "geom:latitude":44.931977,
     "geom:longitude":-68.850952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Marston Meadow Rd",
     "sg:city":"Glenburn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404154705,
-    "wof:lastmodified":1449040342,
+    "wof:lastmodified":1466586739,
     "wof:name":"Powers Towing",
     "wof:parent_id":85855557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-68.850952,44.931977,-68.850952,44.931977],
-  "geometry": {"coordinates":[-68.850952,44.931977],"type":"Point"}
+  "bbox": [
+    -68.850952,
+    44.931977,
+    -68.850952,
+    44.931977
+],
+  "geometry": {"coordinates":[-68.85095200000001,44.931977],"type":"Point"}
 }

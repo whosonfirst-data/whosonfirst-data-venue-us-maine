@@ -2,13 +2,14 @@
   "id": 387944057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.767638,44.781054,-68.767638,44.781054",
     "geom:latitude":44.781054,
     "geom:longitude":-68.767638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Coffin Ave",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387944057,
-    "wof:lastmodified":1449058013,
+    "wof:lastmodified":1466587277,
     "wof:name":"Jeff's Catering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-68.767638,44.781054,-68.767638,44.781054],
-  "geometry": {"coordinates":[-68.767638,44.781054],"type":"Point"}
+  "bbox": [
+    -68.767638,
+    44.781054,
+    -68.767638,
+    44.781054
+],
+  "geometry": {"coordinates":[-68.76763800000001,44.781054],"type":"Point"}
 }

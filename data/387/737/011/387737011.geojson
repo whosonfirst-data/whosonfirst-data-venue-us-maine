@@ -2,13 +2,14 @@
   "id": 387737011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.632337,44.552436,-69.632337,44.552436",
     "geom:latitude":44.552436,
     "geom:longitude":-69.632337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Elm Ter",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387737011,
-    "wof:lastmodified":1449056952,
+    "wof:lastmodified":1466586921,
     "wof:name":"Stanley Goodwin Portrait Artst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "artist"
     ]
 },
-  "bbox": [-69.632337,44.552436,-69.632337,44.552436],
-  "geometry": {"coordinates":[-69.632337,44.552436],"type":"Point"}
+  "bbox": [
+    -69.632337,
+    44.552436,
+    -69.632337,
+    44.552436
+],
+  "geometry": {"coordinates":[-69.63233700000001,44.552436],"type":"Point"}
 }

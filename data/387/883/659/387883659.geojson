@@ -2,13 +2,14 @@
   "id": 387883659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.461152,43.480588,-70.461152,43.480588",
     "geom:latitude":43.480588,
     "geom:longitude":-70.461152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 Hill St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387883659,
-    "wof:lastmodified":1449059012,
+    "wof:lastmodified":1466587304,
     "wof:name":"Ability Garage Door",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-70.461152,43.480588,-70.461152,43.480588],
+  "bbox": [
+    -70.461152,
+    43.480588,
+    -70.461152,
+    43.480588
+],
   "geometry": {"coordinates":[-70.461152,43.480588],"type":"Point"}
 }

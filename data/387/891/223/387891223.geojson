@@ -2,13 +2,14 @@
   "id": 387891223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.684546,43.476214,-70.684546,43.476214",
     "geom:latitude":43.476214,
     "geom:longitude":-70.684546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2325 Alfred St",
     "sg:city":"Lyman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387891223,
-    "wof:lastmodified":1449058397,
+    "wof:lastmodified":1466587229,
     "wof:name":"Perfect Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.684546,43.476214,-70.684546,43.476214],
+  "bbox": [
+    -70.684546,
+    43.476214,
+    -70.684546,
+    43.476214
+],
   "geometry": {"coordinates":[-70.684546,43.476214],"type":"Point"}
 }

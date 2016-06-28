@@ -2,13 +2,14 @@
   "id": 387559021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.70902,44.544983,-69.70902,44.544983",
     "geom:latitude":44.544983,
     "geom:longitude":-69.70902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1042 Kennedy Memorial Dr",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387559021,
-    "wof:lastmodified":1449059081,
+    "wof:lastmodified":1466586623,
     "wof:name":"Waterville Auto Top & Uphlstry",
     "wof:parent_id":85837327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-69.70902,44.544983,-69.70902,44.544983],
+  "bbox": [
+    -69.70902,
+    44.544983,
+    -69.70902,
+    44.544983
+],
   "geometry": {"coordinates":[-69.70902,44.544983],"type":"Point"}
 }

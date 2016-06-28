@@ -2,13 +2,14 @@
   "id": 403960363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.25011,44.37522,-70.25011,44.37522",
     "geom:latitude":44.37522,
     "geom:longitude":-70.25011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 Federal Rd",
     "sg:city":"Livermore",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403960363,
-    "wof:lastmodified":1449055566,
+    "wof:lastmodified":1466587088,
     "wof:name":"Wayside Bible Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.25011,44.37522,-70.25011,44.37522],
-  "geometry": {"coordinates":[-70.25011,44.37522],"type":"Point"}
+  "bbox": [
+    -70.25011,
+    44.37522,
+    -70.25011,
+    44.37522
+],
+  "geometry": {"coordinates":[-70.25011000000001,44.37522],"type":"Point"}
 }

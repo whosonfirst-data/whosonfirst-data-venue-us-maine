@@ -2,13 +2,14 @@
   "id": 403766029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.557275,43.86644,-69.557275,43.86644",
     "geom:latitude":43.86644,
     "geom:longitude":-69.557275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Thompson Inn Rd",
     "sg:city":"South Bristol",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403766029,
-    "wof:lastmodified":1449054612,
+    "wof:lastmodified":1466586679,
     "wof:name":"South Bristol Fishermens Co-Op",
     "wof:parent_id":85810969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-69.557275,43.86644,-69.557275,43.86644],
+  "bbox": [
+    -69.557275,
+    43.86644,
+    -69.557275,
+    43.86644
+],
   "geometry": {"coordinates":[-69.557275,43.86644],"type":"Point"}
 }

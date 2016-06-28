@@ -2,13 +2,14 @@
   "id": 387971499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.66506,44.007601,-69.66506,44.007601",
     "geom:latitude":44.007601,
     "geom:longitude":-69.66506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Hodge St",
     "sg:city":"Wiscasset",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387971499,
-    "wof:lastmodified":1449058031,
+    "wof:lastmodified":1466587308,
     "wof:name":"St Philips Episcopal Church",
     "wof:parent_id":85820077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-69.66506,44.007601,-69.66506,44.007601],
+  "bbox": [
+    -69.66506,
+    44.007601,
+    -69.66506,
+    44.007601
+],
   "geometry": {"coordinates":[-69.66506,44.007601],"type":"Point"}
 }

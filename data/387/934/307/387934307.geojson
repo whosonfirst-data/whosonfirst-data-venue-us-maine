@@ -2,13 +2,14 @@
   "id": 387934307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.414357,44.548438,-68.414357,44.548438",
     "geom:latitude":44.548438,
     "geom:longitude":-68.414357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Union St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387934307,
-    "wof:lastmodified":1449056301,
+    "wof:lastmodified":1466587267,
     "wof:name":"Maine Coast Memorial Hospital",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-68.414357,44.548438,-68.414357,44.548438],
+  "bbox": [
+    -68.414357,
+    44.548438,
+    -68.414357,
+    44.548438
+],
   "geometry": {"coordinates":[-68.414357,44.548438],"type":"Point"}
 }

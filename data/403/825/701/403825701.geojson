@@ -2,13 +2,14 @@
   "id": 403825701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.750475,44.783702,-68.750475,44.783702",
     "geom:latitude":44.783702,
     "geom:longitude":-68.750475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Wilson St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403825701,
-    "wof:lastmodified":1449054672,
+    "wof:lastmodified":1466586360,
     "wof:name":"Maine Smoke Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-68.750475,44.783702,-68.750475,44.783702],
-  "geometry": {"coordinates":[-68.750475,44.783702],"type":"Point"}
+  "bbox": [
+    -68.750475,
+    44.783702,
+    -68.750475,
+    44.783702
+],
+  "geometry": {"coordinates":[-68.75047499999999,44.783702],"type":"Point"}
 }

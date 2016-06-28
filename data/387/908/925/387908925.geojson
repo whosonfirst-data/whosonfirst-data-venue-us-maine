@@ -2,13 +2,14 @@
   "id": 387908925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.240643,43.578464,-70.240643,43.578464",
     "geom:latitude":43.578464,
     "geom:longitude":-70.240643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Fowler Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387908925,
-    "wof:lastmodified":1449058260,
+    "wof:lastmodified":1466587248,
     "wof:name":"Stephenson Electric",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-70.240643,43.578464,-70.240643,43.578464],
-  "geometry": {"coordinates":[-70.240643,43.578464],"type":"Point"}
+  "bbox": [
+    -70.240643,
+    43.578464,
+    -70.240643,
+    43.578464
+],
+  "geometry": {"coordinates":[-70.24064300000001,43.578464],"type":"Point"}
 }

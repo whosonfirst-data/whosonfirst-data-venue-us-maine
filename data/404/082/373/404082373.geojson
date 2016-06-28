@@ -2,13 +2,14 @@
   "id": 404082373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.246134,43.668007,-70.246134,43.668007",
     "geom:latitude":43.668007,
     "geom:longitude":-70.246134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Emerson St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404082373,
-    "wof:lastmodified":1449039111,
+    "wof:lastmodified":1466585773,
     "wof:name":"Maine Wood Salvage",
     "wof:parent_id":85816267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-70.246134,43.668007,-70.246134,43.668007],
+  "bbox": [
+    -70.246134,
+    43.668007,
+    -70.246134,
+    43.668007
+],
   "geometry": {"coordinates":[-70.246134,43.668007],"type":"Point"}
 }

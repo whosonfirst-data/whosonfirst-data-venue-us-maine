@@ -2,13 +2,14 @@
   "id": 387677001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.448147,45.996621,-68.448147,45.996621",
     "geom:latitude":45.996621,
     "geom:longitude":-68.448147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Katahdin St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387677001,
-    "wof:lastmodified":1449057465,
+    "wof:lastmodified":1466586392,
     "wof:name":"Katahdin Trust Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.448147,45.996621,-68.448147,45.996621],
-  "geometry": {"coordinates":[-68.448147,45.996621],"type":"Point"}
+  "bbox": [
+    -68.448147,
+    45.996621,
+    -68.448147,
+    45.996621
+],
+  "geometry": {"coordinates":[-68.44814700000001,45.996621],"type":"Point"}
 }

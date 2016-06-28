@@ -2,13 +2,14 @@
   "id": 404185597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.158447,44.256484,-69.158447,44.256484",
     "geom:latitude":44.256484,
     "geom:longitude":-69.158447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"778 Barnestown Rd",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404185597,
-    "wof:lastmodified":1449039235,
+    "wof:lastmodified":1466586768,
     "wof:name":"Wright's Auto Body Shop",
     "wof:parent_id":85829071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-69.158447,44.256484,-69.158447,44.256484],
+  "bbox": [
+    -69.158447,
+    44.256484,
+    -69.158447,
+    44.256484
+],
   "geometry": {"coordinates":[-69.158447,44.256484],"type":"Point"}
 }

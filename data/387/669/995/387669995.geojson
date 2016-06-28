@@ -2,13 +2,14 @@
   "id": 387669995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.62901,44.550731,-69.62901,44.550731",
     "geom:latitude":44.550731,
     "geom:longitude":-69.62901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Temple St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387669995,
-    "wof:lastmodified":1449056546,
+    "wof:lastmodified":1466586280,
     "wof:name":"Wheeler & Arey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-69.62901,44.550731,-69.62901,44.550731],
-  "geometry": {"coordinates":[-69.62901,44.550731],"type":"Point"}
+  "bbox": [
+    -69.62901,
+    44.550731,
+    -69.62901,
+    44.550731
+],
+  "geometry": {"coordinates":[-69.62900999999999,44.550731],"type":"Point"}
 }

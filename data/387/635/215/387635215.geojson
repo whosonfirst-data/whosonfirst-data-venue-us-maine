@@ -2,13 +2,14 @@
   "id": 387635215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.710992,43.098076,-70.710992,43.098076",
     "geom:latitude":43.098076,
     "geom:longitude":-70.710992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Haley Rd",
     "sg:city":"Kittery Point",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387635215,
-    "wof:lastmodified":1449057757,
+    "wof:lastmodified":1466585844,
     "wof:name":"Woodlander Associate",
     "wof:parent_id":85807497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.710992,43.098076,-70.710992,43.098076],
+  "bbox": [
+    -70.710992,
+    43.098076,
+    -70.710992,
+    43.098076
+],
   "geometry": {"coordinates":[-70.710992,43.098076],"type":"Point"}
 }

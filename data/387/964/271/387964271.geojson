@@ -2,13 +2,14 @@
   "id": 387964271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.324495,44.481604,-68.324495,44.481604",
     "geom:latitude":44.481604,
     "geom:longitude":-68.324495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Mill Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387964271,
-    "wof:lastmodified":1449058972,
+    "wof:lastmodified":1466587302,
     "wof:name":"Paul Cirard Masonry",
     "wof:parent_id":85829637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-68.324495,44.481604,-68.324495,44.481604],
+  "bbox": [
+    -68.324495,
+    44.481604,
+    -68.324495,
+    44.481604
+],
   "geometry": {"coordinates":[-68.324495,44.481604],"type":"Point"}
 }

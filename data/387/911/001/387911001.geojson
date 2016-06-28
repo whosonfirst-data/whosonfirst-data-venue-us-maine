@@ -2,13 +2,14 @@
   "id": 387911001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.125949,44.090914,-69.125949,44.090914",
     "geom:latitude":44.090914,
     "geom:longitude":-69.125949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"191 Thomaston St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387911001,
-    "wof:lastmodified":1449059302,
+    "wof:lastmodified":1466587319,
     "wof:name":"Cambrex Bio Science Rockland",
     "wof:parent_id":85803709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [-69.125949,44.090914,-69.125949,44.090914],
-  "geometry": {"coordinates":[-69.125949,44.090914],"type":"Point"}
+  "bbox": [
+    -69.125949,
+    44.090914,
+    -69.125949,
+    44.090914
+],
+  "geometry": {"coordinates":[-69.12594900000001,44.090914],"type":"Point"}
 }

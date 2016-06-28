@@ -2,13 +2,14 @@
   "id": 387595245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.561397,43.875772,-69.561397,43.875772",
     "geom:latitude":43.875772,
     "geom:longitude":-69.561397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2077 State Rte 129",
     "sg:city":"South Bristol",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387595245,
-    "wof:lastmodified":1449059549,
+    "wof:lastmodified":1466586276,
     "wof:name":"Harborside Grocery & Grill",
     "wof:parent_id":85810969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.561397,43.875772,-69.561397,43.875772],
+  "bbox": [
+    -69.561397,
+    43.875772,
+    -69.561397,
+    43.875772
+],
   "geometry": {"coordinates":[-69.561397,43.875772],"type":"Point"}
 }

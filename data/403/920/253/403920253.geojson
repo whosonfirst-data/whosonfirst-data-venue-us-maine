@@ -2,13 +2,14 @@
   "id": 403920253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.447459,43.506966,-70.447459,43.506966",
     "geom:latitude":43.506966,
     "geom:longitude":-70.447459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 North St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403920253,
-    "wof:lastmodified":1449055663,
+    "wof:lastmodified":1466586984,
     "wof:name":"Full Circle Counseling",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-70.447459,43.506966,-70.447459,43.506966],
-  "geometry": {"coordinates":[-70.447459,43.506966],"type":"Point"}
+  "bbox": [
+    -70.447459,
+    43.506966,
+    -70.447459,
+    43.506966
+],
+  "geometry": {"coordinates":[-70.44745899999999,43.506966],"type":"Point"}
 }

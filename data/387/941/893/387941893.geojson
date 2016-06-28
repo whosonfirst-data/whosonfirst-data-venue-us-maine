@@ -2,13 +2,14 @@
   "id": 387941893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.797118,44.79913,-68.797118,44.79913",
     "geom:latitude":44.79913,
     "geom:longitude":-68.797118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387941893,
-    "wof:lastmodified":1449058380,
+    "wof:lastmodified":1466587283,
     "wof:name":"Rapid Resume Today",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-68.797118,44.79913,-68.797118,44.79913],
+  "bbox": [
+    -68.797118,
+    44.79913,
+    -68.797118,
+    44.79913
+],
   "geometry": {"coordinates":[-68.797118,44.79913],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387962103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.19708,44.1009,-70.19708,44.1009",
     "geom:latitude":44.1009,
     "geom:longitude":-70.19708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Campus Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387962103,
-    "wof:lastmodified":1449058341,
+    "wof:lastmodified":1466587216,
     "wof:name":"CCS Psychiatry",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.19708,44.1009,-70.19708,44.1009],
+  "bbox": [
+    -70.19708,
+    44.1009,
+    -70.19708,
+    44.1009
+],
   "geometry": {"coordinates":[-70.19708,44.1009],"type":"Point"}
 }

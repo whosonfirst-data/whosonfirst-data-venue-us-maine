@@ -2,13 +2,14 @@
   "id": 404179937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.577728,47.247671,-68.577728,47.247671",
     "geom:latitude":47.247671,
     "geom:longitude":-68.577728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Market St",
     "sg:city":"Fort Kent",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404179937,
-    "wof:lastmodified":1449040205,
+    "wof:lastmodified":1466586716,
     "wof:name":"Human Service Dept",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [-68.577728,47.247671,-68.577728,47.247671],
-  "geometry": {"coordinates":[-68.577728,47.247671],"type":"Point"}
+  "bbox": [
+    -68.577728,
+    47.247671,
+    -68.577728,
+    47.247671
+],
+  "geometry": {"coordinates":[-68.57772799999999,47.247671],"type":"Point"}
 }

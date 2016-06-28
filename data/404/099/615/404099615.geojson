@@ -2,13 +2,14 @@
   "id": 404099615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.663526,44.515488,-70.663526,44.515488",
     "geom:latitude":44.515488,
     "geom:longitude":-70.663526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Martin Rd",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404099615,
-    "wof:lastmodified":1449039913,
+    "wof:lastmodified":1466585990,
     "wof:name":"Perennial Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.663526,44.515488,-70.663526,44.515488],
+  "bbox": [
+    -70.663526,
+    44.515488,
+    -70.663526,
+    44.515488
+],
   "geometry": {"coordinates":[-70.663526,44.515488],"type":"Point"}
 }

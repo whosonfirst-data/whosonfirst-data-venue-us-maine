@@ -2,13 +2,14 @@
   "id": 403765989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.76454,44.309763,-69.76454,44.309763",
     "geom:latitude":44.309763,
     "geom:longitude":-69.76454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Hospital St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403765989,
-    "wof:lastmodified":1449055403,
+    "wof:lastmodified":1466586480,
     "wof:name":"Kiddie Corner Day Care Inc",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.76454,44.309763,-69.76454,44.309763],
+  "bbox": [
+    -69.76454,
+    44.309763,
+    -69.76454,
+    44.309763
+],
   "geometry": {"coordinates":[-69.76454,44.309763],"type":"Point"}
 }

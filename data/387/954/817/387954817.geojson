@@ -2,13 +2,14 @@
   "id": 387954817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.750833,44.740672,-69.750833,44.740672",
     "geom:latitude":44.740672,
     "geom:longitude":-69.750833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Skowhegan Rd",
     "sg:city":"Norridgewock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387954817,
-    "wof:lastmodified":1449059429,
+    "wof:lastmodified":1466587297,
     "wof:name":"Lyman's Farm Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.750833,44.740672,-69.750833,44.740672],
+  "bbox": [
+    -69.750833,
+    44.740672,
+    -69.750833,
+    44.740672
+],
   "geometry": {"coordinates":[-69.750833,44.740672],"type":"Point"}
 }

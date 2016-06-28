@@ -2,13 +2,14 @@
   "id": 387955159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.794535,44.770777,-68.794535,44.770777",
     "geom:latitude":44.770777,
     "geom:longitude":-68.794535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Main Rd N",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387955159,
-    "wof:lastmodified":1449058751,
+    "wof:lastmodified":1466587337,
     "wof:name":"Vescom Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "patrol"
     ]
 },
-  "bbox": [-68.794535,44.770777,-68.794535,44.770777],
+  "bbox": [
+    -68.794535,
+    44.770777,
+    -68.794535,
+    44.770777
+],
   "geometry": {"coordinates":[-68.794535,44.770777],"type":"Point"}
 }

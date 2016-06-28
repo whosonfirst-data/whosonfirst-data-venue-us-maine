@@ -2,13 +2,14 @@
   "id": 404010293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.340957,43.724699,-70.340957,43.724699",
     "geom:latitude":43.724699,
     "geom:longitude":-70.340957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404010293,
-    "wof:lastmodified":1449039856,
+    "wof:lastmodified":1466585811,
     "wof:name":"Sail Away Cruises & Tours Inc",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-70.340957,43.724699,-70.340957,43.724699],
+  "bbox": [
+    -70.340957,
+    43.724699,
+    -70.340957,
+    43.724699
+],
   "geometry": {"coordinates":[-70.340957,43.724699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403805743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.55406,43.915313,-69.55406,43.915313",
     "geom:latitude":43.915313,
     "geom:longitude":-69.55406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Holmes Rd",
     "sg:city":"South Bristol",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403805743,
-    "wof:lastmodified":1449055082,
+    "wof:lastmodified":1466586040,
     "wof:name":"Peter Maccready Site Evaluator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "soil"
     ]
 },
-  "bbox": [-69.55406,43.915313,-69.55406,43.915313],
-  "geometry": {"coordinates":[-69.55406,43.915313],"type":"Point"}
+  "bbox": [
+    -69.55406,
+    43.915313,
+    -69.55406,
+    43.915313
+],
+  "geometry": {"coordinates":[-69.55406000000001,43.915313],"type":"Point"}
 }

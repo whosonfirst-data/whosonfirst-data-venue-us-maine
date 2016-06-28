@@ -2,13 +2,14 @@
   "id": 403878919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.334189,43.700174,-70.334189,43.700174",
     "geom:latitude":43.700174,
     "geom:longitude":-70.334189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Carlson St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403878919,
-    "wof:lastmodified":1449055340,
+    "wof:lastmodified":1466586722,
     "wof:name":"Thomas Engineering",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-70.334189,43.700174,-70.334189,43.700174],
-  "geometry": {"coordinates":[-70.334189,43.700174],"type":"Point"}
+  "bbox": [
+    -70.334189,
+    43.700174,
+    -70.334189,
+    43.700174
+],
+  "geometry": {"coordinates":[-70.33418899999999,43.700174],"type":"Point"}
 }

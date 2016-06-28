@@ -2,13 +2,14 @@
   "id": 387881803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.384155,43.500392,-70.384155,43.500392",
     "geom:latitude":43.500392,
     "geom:longitude":-70.384155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Colby Ave",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387881803,
-    "wof:lastmodified":1449058314,
+    "wof:lastmodified":1466587299,
     "wof:name":"Nautilus",
     "wof:parent_id":85828495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.384155,43.500392,-70.384155,43.500392],
-  "geometry": {"coordinates":[-70.384155,43.500392],"type":"Point"}
+  "bbox": [
+    -70.384155,
+    43.500392,
+    -70.384155,
+    43.500392
+],
+  "geometry": {"coordinates":[-70.38415500000001,43.500392],"type":"Point"}
 }

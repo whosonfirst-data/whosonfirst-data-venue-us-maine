@@ -2,13 +2,14 @@
   "id": 404097675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.999879,46.676732,-67.999879,46.676732",
     "geom:latitude":46.676732,
     "geom:longitude":-67.999879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Academy St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404097675,
-    "wof:lastmodified":1449039506,
+    "wof:lastmodified":1466585965,
     "wof:name":"Stephen Wood MD",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-67.999879,46.676732,-67.999879,46.676732],
-  "geometry": {"coordinates":[-67.999879,46.676732],"type":"Point"}
+  "bbox": [
+    -67.999879,
+    46.676732,
+    -67.999879,
+    46.676732
+],
+  "geometry": {"coordinates":[-67.99987900000001,46.676732],"type":"Point"}
 }

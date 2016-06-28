@@ -2,13 +2,14 @@
   "id": 403818807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.453372,43.505599,-70.453372,43.505599",
     "geom:latitude":43.505599,
     "geom:longitude":-70.453372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Pepperell St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403818807,
-    "wof:lastmodified":1449055280,
+    "wof:lastmodified":1466586245,
     "wof:name":"Lily Moon Cafe & Bakery",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.453372,43.505599,-70.453372,43.505599],
+  "bbox": [
+    -70.453372,
+    43.505599,
+    -70.453372,
+    43.505599
+],
   "geometry": {"coordinates":[-70.453372,43.505599],"type":"Point"}
 }

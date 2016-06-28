@@ -2,13 +2,14 @@
   "id": 387901571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.207363,44.3847,-68.207363,44.3847",
     "geom:latitude":44.3847,
     "geom:longitude":-68.207363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Ledgelawn Ave",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387901571,
-    "wof:lastmodified":1449057702,
+    "wof:lastmodified":1466587239,
     "wof:name":"First Baptst Church of Bar Hbr",
     "wof:parent_id":85803817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.207363,44.3847,-68.207363,44.3847],
+  "bbox": [
+    -68.207363,
+    44.3847,
+    -68.207363,
+    44.3847
+],
   "geometry": {"coordinates":[-68.207363,44.3847],"type":"Point"}
 }

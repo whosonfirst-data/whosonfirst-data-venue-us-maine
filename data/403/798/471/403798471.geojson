@@ -2,13 +2,14 @@
   "id": 403798471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.751877,44.421002,-70.751877,44.421002",
     "geom:latitude":44.421002,
     "geom:longitude":-70.751877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Chandler Hill Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403798471,
-    "wof:lastmodified":1449054885,
+    "wof:lastmodified":1466585921,
     "wof:name":"Harlan R Blake",
     "wof:parent_id":85831117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-70.751877,44.421002,-70.751877,44.421002],
-  "geometry": {"coordinates":[-70.751877,44.421002],"type":"Point"}
+  "bbox": [
+    -70.751877,
+    44.421002,
+    -70.751877,
+    44.421002
+],
+  "geometry": {"coordinates":[-70.75187699999999,44.421002],"type":"Point"}
 }

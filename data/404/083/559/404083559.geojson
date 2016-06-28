@@ -2,13 +2,14 @@
   "id": 404083559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.352971,43.680095,-70.352971,43.680095",
     "geom:latitude":43.680095,
     "geom:longitude":-70.352971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"538 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404083559,
-    "wof:lastmodified":1449039584,
+    "wof:lastmodified":1466585788,
     "wof:name":"Wise Guide",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-70.352971,43.680095,-70.352971,43.680095],
+  "bbox": [
+    -70.352971,
+    43.680095,
+    -70.352971,
+    43.680095
+],
   "geometry": {"coordinates":[-70.352971,43.680095],"type":"Point"}
 }

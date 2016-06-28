@@ -2,13 +2,14 @@
   "id": 404140179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.572765,43.286691,-70.572765,43.286691",
     "geom:latitude":43.286691,
     "geom:longitude":-70.572765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Prescott Ln",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404140179,
-    "wof:lastmodified":1449039185,
+    "wof:lastmodified":1466586603,
     "wof:name":"Mountain Caterers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rooms"
     ]
 },
-  "bbox": [-70.572765,43.286691,-70.572765,43.286691],
+  "bbox": [
+    -70.572765,
+    43.286691,
+    -70.572765,
+    43.286691
+],
   "geometry": {"coordinates":[-70.572765,43.286691],"type":"Point"}
 }

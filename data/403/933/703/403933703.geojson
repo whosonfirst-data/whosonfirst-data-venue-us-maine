@@ -2,13 +2,14 @@
   "id": 403933703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.756715,44.55189,-69.756715,44.55189",
     "geom:latitude":44.55189,
     "geom:longitude":-69.756715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Town Farm Rd",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403933703,
-    "wof:lastmodified":1449054909,
+    "wof:lastmodified":1466587033,
     "wof:name":"Gary L Crane P E",
     "wof:parent_id":85837327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.756715,44.55189,-69.756715,44.55189],
+  "bbox": [
+    -69.756715,
+    44.55189,
+    -69.756715,
+    44.55189
+],
   "geometry": {"coordinates":[-69.756715,44.55189],"type":"Point"}
 }

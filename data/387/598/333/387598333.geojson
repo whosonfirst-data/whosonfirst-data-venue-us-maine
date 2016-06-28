@@ -2,13 +2,14 @@
   "id": 387598333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.412822,44.251351,-69.412822,44.251351",
     "geom:latitude":44.251351,
     "geom:longitude":-69.412822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"392 Augusta Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387598333,
-    "wof:lastmodified":1449056319,
+    "wof:lastmodified":1466586322,
     "wof:name":"C J Brann & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-69.412822,44.251351,-69.412822,44.251351],
-  "geometry": {"coordinates":[-69.412822,44.251351],"type":"Point"}
+  "bbox": [
+    -69.412822,
+    44.251351,
+    -69.412822,
+    44.251351
+],
+  "geometry": {"coordinates":[-69.41282200000001,44.251351],"type":"Point"}
 }

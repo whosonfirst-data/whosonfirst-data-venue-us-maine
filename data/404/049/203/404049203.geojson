@@ -2,13 +2,14 @@
   "id": 404049203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.640947,43.764585,-70.640947,43.764585",
     "geom:latitude":43.764585,
     "geom:longitude":-70.640947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Woodridge Dr",
     "sg:city":"Limerick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404049203,
-    "wof:lastmodified":1449039661,
+    "wof:lastmodified":1466586280,
     "wof:name":"Back Country Excursions",
     "wof:parent_id":85816541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tour"
     ]
 },
-  "bbox": [-70.640947,43.764585,-70.640947,43.764585],
+  "bbox": [
+    -70.640947,
+    43.764585,
+    -70.640947,
+    43.764585
+],
   "geometry": {"coordinates":[-70.640947,43.764585],"type":"Point"}
 }

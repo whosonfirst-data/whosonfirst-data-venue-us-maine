@@ -2,13 +2,14 @@
   "id": 403709221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.954021,43.568711,-70.954021,43.568711",
     "geom:latitude":43.568711,
     "geom:longitude":-70.954021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"662 Youngs Ridge Rd",
     "sg:city":"Acton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403709221,
-    "wof:lastmodified":1449054897,
+    "wof:lastmodified":1466585711,
     "wof:name":"Lakeview Family Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.954021,43.568711,-70.954021,43.568711],
+  "bbox": [
+    -70.954021,
+    43.568711,
+    -70.954021,
+    43.568711
+],
   "geometry": {"coordinates":[-70.954021,43.568711],"type":"Point"}
 }

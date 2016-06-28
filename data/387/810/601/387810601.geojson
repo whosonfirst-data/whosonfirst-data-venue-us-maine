@@ -2,13 +2,14 @@
   "id": 387810601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.775401,44.796163,-68.775401,44.796163",
     "geom:latitude":44.796163,
     "geom:longitude":-68.775401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Barker St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387810601,
-    "wof:lastmodified":1449057205,
+    "wof:lastmodified":1466587086,
     "wof:name":"Big Red Redemption Ctr",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-68.775401,44.796163,-68.775401,44.796163],
+  "bbox": [
+    -68.775401,
+    44.796163,
+    -68.775401,
+    44.796163
+],
   "geometry": {"coordinates":[-68.775401,44.796163],"type":"Point"}
 }

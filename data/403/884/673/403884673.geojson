@@ -2,13 +2,14 @@
   "id": 403884673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.798116,44.768309,-68.798116,44.768309",
     "geom:latitude":44.768309,
     "geom:longitude":-68.798116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Main Rd N",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403884673,
-    "wof:lastmodified":1449055707,
+    "wof:lastmodified":1466586858,
     "wof:name":"Kamda's Pool Shed",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "swimming"
     ]
 },
-  "bbox": [-68.798116,44.768309,-68.798116,44.768309],
-  "geometry": {"coordinates":[-68.798116,44.768309],"type":"Point"}
+  "bbox": [
+    -68.798116,
+    44.768309,
+    -68.798116,
+    44.768309
+],
+  "geometry": {"coordinates":[-68.79811599999999,44.768309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387608561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.253383,44.105285,-70.253383,44.105285",
     "geom:latitude":44.105285,
     "geom:longitude":-70.253383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Sunset Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387608561,
-    "wof:lastmodified":1449057736,
+    "wof:lastmodified":1466586468,
     "wof:name":"BEP Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-70.253383,44.105285,-70.253383,44.105285],
+  "bbox": [
+    -70.253383,
+    44.105285,
+    -70.253383,
+    44.105285
+],
   "geometry": {"coordinates":[-70.253383,44.105285],"type":"Point"}
 }

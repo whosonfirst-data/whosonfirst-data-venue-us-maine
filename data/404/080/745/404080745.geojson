@@ -2,13 +2,14 @@
   "id": 404080745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.254409,43.640432,-70.254409,43.640432",
     "geom:latitude":43.640432,
     "geom:longitude":-70.254409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Ocean St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404080745,
-    "wof:lastmodified":1449040302,
+    "wof:lastmodified":1466585747,
     "wof:name":"Rent A Husband LLC",
     "wof:parent_id":85828657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-70.254409,43.640432,-70.254409,43.640432],
+  "bbox": [
+    -70.254409,
+    43.640432,
+    -70.254409,
+    43.640432
+],
   "geometry": {"coordinates":[-70.254409,43.640432],"type":"Point"}
 }

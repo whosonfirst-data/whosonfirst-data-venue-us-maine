@@ -2,13 +2,14 @@
   "id": 387778505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.286321,43.674622,-70.286321,43.674622",
     "geom:latitude":43.674622,
     "geom:longitude":-70.286321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387778505,
-    "wof:lastmodified":1449056199,
+    "wof:lastmodified":1466587086,
     "wof:name":"Design Hair Styling",
     "wof:parent_id":85858625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.286321,43.674622,-70.286321,43.674622],
+  "bbox": [
+    -70.286321,
+    43.674622,
+    -70.286321,
+    43.674622
+],
   "geometry": {"coordinates":[-70.286321,43.674622],"type":"Point"}
 }

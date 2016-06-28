@@ -2,13 +2,14 @@
   "id": 387578553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.331489,43.88651,-70.331489,43.88651",
     "geom:latitude":43.88651,
     "geom:longitude":-70.331489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Shaker Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387578553,
-    "wof:lastmodified":1449057059,
+    "wof:lastmodified":1466586000,
     "wof:name":"Gorrill-Palmer Consulting Engr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-70.331489,43.88651,-70.331489,43.88651],
+  "bbox": [
+    -70.331489,
+    43.88651,
+    -70.331489,
+    43.88651
+],
   "geometry": {"coordinates":[-70.331489,43.88651],"type":"Point"}
 }

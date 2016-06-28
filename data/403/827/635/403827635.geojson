@@ -2,13 +2,14 @@
   "id": 403827635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.198397,44.451334,-70.198397,44.451334",
     "geom:latitude":44.451334,
     "geom:longitude":-70.198397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 Federal Rd",
     "sg:city":"Livermore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403827635,
-    "wof:lastmodified":1449055103,
+    "wof:lastmodified":1466586389,
     "wof:name":"Construction Consultants Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "septic"
     ]
 },
-  "bbox": [-70.198397,44.451334,-70.198397,44.451334],
+  "bbox": [
+    -70.198397,
+    44.451334,
+    -70.198397,
+    44.451334
+],
   "geometry": {"coordinates":[-70.198397,44.451334],"type":"Point"}
 }

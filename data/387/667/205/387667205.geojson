@@ -2,13 +2,14 @@
   "id": 387667205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.505201,43.4201,-70.505201,43.4201",
     "geom:latitude":43.4201,
     "geom:longitude":-70.505201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"352 Log Cabin Rd",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387667205,
-    "wof:lastmodified":1449058598,
+    "wof:lastmodified":1466586238,
     "wof:name":"Theriault Sylvain",
     "wof:parent_id":85828039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.505201,43.4201,-70.505201,43.4201],
+  "bbox": [
+    -70.505201,
+    43.4201,
+    -70.505201,
+    43.4201
+],
   "geometry": {"coordinates":[-70.505201,43.4201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404031795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.16372,43.833416,-70.16372,43.833416",
     "geom:latitude":43.833416,
     "geom:longitude":-70.16372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"632 Granite St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404031795,
-    "wof:lastmodified":1449039480,
+    "wof:lastmodified":1466585985,
     "wof:name":"Rwd Auto Resterations",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-70.16372,43.833416,-70.16372,43.833416],
+  "bbox": [
+    -70.16372,
+    43.833416,
+    -70.16372,
+    43.833416
+],
   "geometry": {"coordinates":[-70.16372,43.833416],"type":"Point"}
 }

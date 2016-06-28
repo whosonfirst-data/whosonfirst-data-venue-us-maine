@@ -2,13 +2,14 @@
   "id": 387891861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.03652,46.87669,-68.03652,46.87669",
     "geom:latitude":46.87669,
     "geom:longitude":-68.03652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 Sweden St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387891861,
-    "wof:lastmodified":1449058399,
+    "wof:lastmodified":1466587238,
     "wof:name":"Gary's Yamaha & Small Engine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-68.03652,46.87669,-68.03652,46.87669],
+  "bbox": [
+    -68.03652,
+    46.87669,
+    -68.03652,
+    46.87669
+],
   "geometry": {"coordinates":[-68.03652,46.87669],"type":"Point"}
 }

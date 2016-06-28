@@ -2,13 +2,14 @@
   "id": 387884103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.844041,46.115993,-67.844041,46.115993",
     "geom:latitude":46.115993,
     "geom:longitude":-67.844041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Cleveland St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387884103,
-    "wof:lastmodified":1449059176,
+    "wof:lastmodified":1466587147,
     "wof:name":"Pro Tec T Online",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-67.844041,46.115993,-67.844041,46.115993],
+  "bbox": [
+    -67.844041,
+    46.115993,
+    -67.844041,
+    46.115993
+],
   "geometry": {"coordinates":[-67.844041,46.115993],"type":"Point"}
 }

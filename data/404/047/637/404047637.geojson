@@ -2,13 +2,14 @@
   "id": 404047637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.337031,43.678295,-70.337031,43.678295",
     "geom:latitude":43.678295,
     "geom:longitude":-70.337031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404047637,
-    "wof:lastmodified":1449039902,
+    "wof:lastmodified":1466586255,
     "wof:name":"Successful Financial Mgmt",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-70.337031,43.678295,-70.337031,43.678295],
+  "bbox": [
+    -70.337031,
+    43.678295,
+    -70.337031,
+    43.678295
+],
   "geometry": {"coordinates":[-70.337031,43.678295],"type":"Point"}
 }

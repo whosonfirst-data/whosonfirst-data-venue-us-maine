@@ -2,13 +2,14 @@
   "id": 387717771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.23744,43.648,-70.23744,43.648",
     "geom:latitude":43.648,
     "geom:longitude":-70.23744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Preble St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387717771,
-    "wof:lastmodified":1449056221,
+    "wof:lastmodified":1466586888,
     "wof:name":"Betsy Ross House",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adult"
     ]
 },
-  "bbox": [-70.23744,43.648,-70.23744,43.648],
-  "geometry": {"coordinates":[-70.23744,43.648],"type":"Point"}
+  "bbox": [
+    -70.23744,
+    43.648,
+    -70.23744,
+    43.648
+],
+  "geometry": {"coordinates":[-70.23744000000001,43.648],"type":"Point"}
 }

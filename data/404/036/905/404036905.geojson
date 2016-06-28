@@ -2,13 +2,14 @@
   "id": 404036905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.95398,44.543303,-68.95398,44.543303",
     "geom:latitude":44.543303,
     "geom:longitude":-68.95398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Loop Rd S",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404036905,
-    "wof:lastmodified":1449039313,
+    "wof:lastmodified":1466586039,
     "wof:name":"Bob's Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.95398,44.543303,-68.95398,44.543303],
+  "bbox": [
+    -68.95398,
+    44.543303,
+    -68.95398,
+    44.543303
+],
   "geometry": {"coordinates":[-68.95398,44.543303],"type":"Point"}
 }

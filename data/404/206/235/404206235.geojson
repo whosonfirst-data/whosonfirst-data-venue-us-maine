@@ -2,13 +2,14 @@
   "id": 404206235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.297738,43.7433,-70.297738,43.7433",
     "geom:latitude":43.7433,
     "geom:longitude":-70.297738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Gray Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":404206235,
-    "wof:lastmodified":1449039947,
+    "wof:lastmodified":1466587038,
     "wof:name":"Titcomb Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-70.297738,43.7433,-70.297738,43.7433],
+  "bbox": [
+    -70.297738,
+    43.7433,
+    -70.297738,
+    43.7433
+],
   "geometry": {"coordinates":[-70.297738,43.7433],"type":"Point"}
 }

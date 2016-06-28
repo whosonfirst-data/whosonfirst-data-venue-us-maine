@@ -2,13 +2,14 @@
   "id": 403806595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.840452,46.148565,-67.840452,46.148565",
     "geom:latitude":46.148565,
     "geom:longitude":-67.840452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 North St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403806595,
-    "wof:lastmodified":1449054629,
+    "wof:lastmodified":1466586052,
     "wof:name":"Aroostook Produce Distributors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "potato"
     ]
 },
-  "bbox": [-67.840452,46.148565,-67.840452,46.148565],
+  "bbox": [
+    -67.840452,
+    46.148565,
+    -67.840452,
+    46.148565
+],
   "geometry": {"coordinates":[-67.840452,46.148565],"type":"Point"}
 }

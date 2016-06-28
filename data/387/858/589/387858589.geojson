@@ -2,13 +2,14 @@
   "id": 387858589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.465717,43.488415,-70.465717,43.488415",
     "geom:latitude":43.488415,
     "geom:longitude":-70.465717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 Elm St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387858589,
-    "wof:lastmodified":1449056484,
+    "wof:lastmodified":1466587177,
     "wof:name":"Peoples Heritage Bank",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.465717,43.488415,-70.465717,43.488415],
+  "bbox": [
+    -70.465717,
+    43.488415,
+    -70.465717,
+    43.488415
+],
   "geometry": {"coordinates":[-70.465717,43.488415],"type":"Point"}
 }

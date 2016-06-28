@@ -2,13 +2,14 @@
   "id": 387852913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.773159,44.812226,-68.773159,44.812226",
     "geom:latitude":44.812226,
     "geom:longitude":-68.773159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Congress St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387852913,
-    "wof:lastmodified":1449059274,
+    "wof:lastmodified":1466587082,
     "wof:name":"Garth Cormier Web Design",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-68.773159,44.812226,-68.773159,44.812226],
-  "geometry": {"coordinates":[-68.773159,44.812226],"type":"Point"}
+  "bbox": [
+    -68.773159,
+    44.812226,
+    -68.773159,
+    44.812226
+],
+  "geometry": {"coordinates":[-68.77315900000001,44.812226],"type":"Point"}
 }

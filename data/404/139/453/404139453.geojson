@@ -2,13 +2,14 @@
   "id": 404139453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.246203,44.840779,-69.246203,44.840779",
     "geom:latitude":44.840779,
     "geom:longitude":-69.246203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Canadian Geese Dr",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404139453,
-    "wof:lastmodified":1449039133,
+    "wof:lastmodified":1466586593,
     "wof:name":"Newport Fence Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-69.246203,44.840779,-69.246203,44.840779],
-  "geometry": {"coordinates":[-69.246203,44.840779],"type":"Point"}
+  "bbox": [
+    -69.246203,
+    44.840779,
+    -69.246203,
+    44.840779
+],
+  "geometry": {"coordinates":[-69.24620299999999,44.840779],"type":"Point"}
 }

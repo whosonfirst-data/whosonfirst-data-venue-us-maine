@@ -2,13 +2,14 @@
   "id": 403883411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.513396,44.543815,-68.513396,44.543815",
     "geom:latitude":44.543815,
     "geom:longitude":-68.513396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"677 US Hwy 1",
     "sg:city":"Hancock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403883411,
-    "wof:lastmodified":1449055649,
+    "wof:lastmodified":1466586926,
     "wof:name":"Shirley's Yarns & Crafts",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yarn"
     ]
 },
-  "bbox": [-68.513396,44.543815,-68.513396,44.543815],
+  "bbox": [
+    -68.513396,
+    44.543815,
+    -68.513396,
+    44.543815
+],
   "geometry": {"coordinates":[-68.513396,44.543815],"type":"Point"}
 }

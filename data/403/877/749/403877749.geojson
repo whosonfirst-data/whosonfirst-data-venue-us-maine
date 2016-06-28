@@ -2,13 +2,14 @@
   "id": 403877749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.667752,43.150002,-70.667752,43.150002",
     "geom:latitude":43.150002,
     "geom:longitude":-70.667752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"449 US Hwy 1",
     "sg:city":"York",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403877749,
-    "wof:lastmodified":1449055544,
+    "wof:lastmodified":1466586835,
     "wof:name":"Chase Checks & Forms Co",
     "wof:parent_id":85859383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "system"
     ]
 },
-  "bbox": [-70.667752,43.150002,-70.667752,43.150002],
-  "geometry": {"coordinates":[-70.667752,43.150002],"type":"Point"}
+  "bbox": [
+    -70.667752,
+    43.150002,
+    -70.667752,
+    43.150002
+],
+  "geometry": {"coordinates":[-70.66775199999999,43.150002],"type":"Point"}
 }

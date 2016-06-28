@@ -2,13 +2,14 @@
   "id": 404189461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.892488,44.701878,-68.892488,44.701878",
     "geom:latitude":44.701878,
     "geom:longitude":-68.892488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"274 Monroe Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404189461,
-    "wof:lastmodified":1449039970,
+    "wof:lastmodified":1466586797,
     "wof:name":"Gerald N Childers Aircraft Dlv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "transporting"
     ]
 },
-  "bbox": [-68.892488,44.701878,-68.892488,44.701878],
+  "bbox": [
+    -68.892488,
+    44.701878,
+    -68.892488,
+    44.701878
+],
   "geometry": {"coordinates":[-68.892488,44.701878],"type":"Point"}
 }

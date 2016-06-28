@@ -2,13 +2,14 @@
   "id": 387658795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.777465,44.468897,-69.777465,44.468897",
     "geom:latitude":44.468897,
     "geom:longitude":-69.777465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Marigold Ln",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387658795,
-    "wof:lastmodified":1449056032,
+    "wof:lastmodified":1466586104,
     "wof:name":"Bangs Beach",
     "wof:parent_id":85837333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-69.777465,44.468897,-69.777465,44.468897],
-  "geometry": {"coordinates":[-69.777465,44.468897],"type":"Point"}
+  "bbox": [
+    -69.777465,
+    44.468897,
+    -69.777465,
+    44.468897
+],
+  "geometry": {"coordinates":[-69.77746500000001,44.468897],"type":"Point"}
 }

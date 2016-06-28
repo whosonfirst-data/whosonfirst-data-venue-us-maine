@@ -2,13 +2,14 @@
   "id": 403767461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.777762,44.802645,-68.777762,44.802645",
     "geom:latitude":44.802645,
     "geom:longitude":-68.777762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Ohio St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403767461,
-    "wof:lastmodified":1449055028,
+    "wof:lastmodified":1466586482,
     "wof:name":"Hair Fashions By Roger",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.777762,44.802645,-68.777762,44.802645],
+  "bbox": [
+    -68.777762,
+    44.802645,
+    -68.777762,
+    44.802645
+],
   "geometry": {"coordinates":[-68.777762,44.802645],"type":"Point"}
 }

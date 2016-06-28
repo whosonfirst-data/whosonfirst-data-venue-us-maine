@@ -2,13 +2,14 @@
   "id": 403952539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.442852,43.470698,-70.442852,43.470698",
     "geom:latitude":43.470698,
     "geom:longitude":-70.442852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Westwood Dr",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403952539,
-    "wof:lastmodified":1449055572,
+    "wof:lastmodified":1466587076,
     "wof:name":"CJC Plumbing & Heating",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.442852,43.470698,-70.442852,43.470698],
+  "bbox": [
+    -70.442852,
+    43.470698,
+    -70.442852,
+    43.470698
+],
   "geometry": {"coordinates":[-70.442852,43.470698],"type":"Point"}
 }

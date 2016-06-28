@@ -2,13 +2,14 @@
   "id": 387724767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.634945,44.13817,-69.634945,44.13817",
     "geom:latitude":44.13817,
     "geom:longitude":-69.634945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Wiscasset Rd",
     "sg:city":"Whitefield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387724767,
-    "wof:lastmodified":1449059839,
+    "wof:lastmodified":1466586701,
     "wof:name":"Downeast Solutions",
     "wof:parent_id":85824463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-69.634945,44.13817,-69.634945,44.13817],
+  "bbox": [
+    -69.634945,
+    44.13817,
+    -69.634945,
+    44.13817
+],
   "geometry": {"coordinates":[-69.634945,44.13817],"type":"Point"}
 }

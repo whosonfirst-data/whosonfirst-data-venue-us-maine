@@ -2,13 +2,14 @@
   "id": 403924693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.111714,43.849581,-70.111714,43.849581",
     "geom:latitude":43.849581,
     "geom:longitude":-70.111714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Independence Dr",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403924693,
-    "wof:lastmodified":1449055007,
+    "wof:lastmodified":1466587007,
     "wof:name":"3 Sister's Bed & Breakfast",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.111714,43.849581,-70.111714,43.849581],
-  "geometry": {"coordinates":[-70.111714,43.849581],"type":"Point"}
+  "bbox": [
+    -70.111714,
+    43.849581,
+    -70.111714,
+    43.849581
+],
+  "geometry": {"coordinates":[-70.11171400000001,43.849581],"type":"Point"}
 }

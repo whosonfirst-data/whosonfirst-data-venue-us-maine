@@ -2,13 +2,14 @@
   "id": 404031581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.990707,44.390192,-68.990707,44.390192",
     "geom:latitude":44.390192,
     "geom:longitude":-68.990707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Atlantic Hwy",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404031581,
-    "wof:lastmodified":1449039482,
+    "wof:lastmodified":1466585983,
     "wof:name":"Camden Hills Realty",
     "wof:parent_id":85804909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.990707,44.390192,-68.990707,44.390192],
+  "bbox": [
+    -68.990707,
+    44.390192,
+    -68.990707,
+    44.390192
+],
   "geometry": {"coordinates":[-68.990707,44.390192],"type":"Point"}
 }

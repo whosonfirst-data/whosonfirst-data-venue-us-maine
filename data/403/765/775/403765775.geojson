@@ -2,13 +2,14 @@
   "id": 403765775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.402168,46.626987,-68.402168,46.626987",
     "geom:latitude":46.626987,
     "geom:longitude":-68.402168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Presque Isle Rd",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403765775,
-    "wof:lastmodified":1449055402,
+    "wof:lastmodified":1466586477,
     "wof:name":"Four Seasons Inn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.402168,46.626987,-68.402168,46.626987],
+  "bbox": [
+    -68.402168,
+    46.626987,
+    -68.402168,
+    46.626987
+],
   "geometry": {"coordinates":[-68.402168,46.626987],"type":"Point"}
 }

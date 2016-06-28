@@ -2,13 +2,14 @@
   "id": 404139341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.177,44.072092,-70.177,44.072092",
     "geom:latitude":44.072092,
     "geom:longitude":-70.177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Commercial St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404139341,
-    "wof:lastmodified":1449039135,
+    "wof:lastmodified":1466586592,
     "wof:name":"R C Specialty Fabrication Inc",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "metal"
     ]
 },
-  "bbox": [-70.177,44.072092,-70.177,44.072092],
-  "geometry": {"coordinates":[-70.177,44.072092],"type":"Point"}
+  "bbox": [
+    -70.177,
+    44.072092,
+    -70.177,
+    44.072092
+],
+  "geometry": {"coordinates":[-70.17700000000001,44.072092],"type":"Point"}
 }

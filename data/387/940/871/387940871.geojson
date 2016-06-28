@@ -2,13 +2,14 @@
   "id": 387940871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.260525,43.697432,-70.260525,43.697432",
     "geom:latitude":43.697432,
     "geom:longitude":-70.260525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"960 Ocean Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387940871,
-    "wof:lastmodified":1449057033,
+    "wof:lastmodified":1466587285,
     "wof:name":"Dragon Products Co Inc",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-70.260525,43.697432,-70.260525,43.697432],
+  "bbox": [
+    -70.260525,
+    43.697432,
+    -70.260525,
+    43.697432
+],
   "geometry": {"coordinates":[-70.260525,43.697432],"type":"Point"}
 }

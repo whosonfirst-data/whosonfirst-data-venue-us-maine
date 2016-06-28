@@ -2,13 +2,14 @@
   "id": 387799715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.45613,44.533549,-70.45613,44.533549",
     "geom:latitude":44.533549,
     "geom:longitude":-70.45613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Weld St",
     "sg:city":"Dixfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387799715,
-    "wof:lastmodified":1449059938,
+    "wof:lastmodified":1466587043,
     "wof:name":"Bradbury Garage",
     "wof:parent_id":85814509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-70.45613,44.533549,-70.45613,44.533549],
+  "bbox": [
+    -70.45613,
+    44.533549,
+    -70.45613,
+    44.533549
+],
   "geometry": {"coordinates":[-70.45613,44.533549],"type":"Point"}
 }

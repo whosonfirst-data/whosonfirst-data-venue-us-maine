@@ -2,13 +2,14 @@
   "id": 387647459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.989419,45.261994,-68.989419,45.261994",
     "geom:latitude":45.261994,
     "geom:longitude":-68.989419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Park St",
     "sg:city":"Milo",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":387647459,
-    "wof:lastmodified":1449057903,
+    "wof:lastmodified":1466585964,
     "wof:name":"JSI Fixtures Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shoes"
     ]
 },
-  "bbox": [-68.989419,45.261994,-68.989419,45.261994],
+  "bbox": [
+    -68.989419,
+    45.261994,
+    -68.989419,
+    45.261994
+],
   "geometry": {"coordinates":[-68.989419,45.261994],"type":"Point"}
 }

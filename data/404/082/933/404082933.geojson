@@ -2,13 +2,14 @@
   "id": 404082933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.313755,44.442484,-70.313755,44.442484",
     "geom:latitude":44.442484,
     "geom:longitude":-70.313755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 School St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404082933,
-    "wof:lastmodified":1449039111,
+    "wof:lastmodified":1466585779,
     "wof:name":"Ralph Goding Cash Market",
     "wof:parent_id":85833559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-70.313755,44.442484,-70.313755,44.442484],
+  "bbox": [
+    -70.313755,
+    44.442484,
+    -70.313755,
+    44.442484
+],
   "geometry": {"coordinates":[-70.313755,44.442484],"type":"Point"}
 }

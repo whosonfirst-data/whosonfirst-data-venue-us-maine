@@ -2,13 +2,14 @@
   "id": 403962105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.62239,43.775798,-70.62239,43.775798",
     "geom:latitude":43.775798,
     "geom:longitude":-70.62239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Wheaton Way",
     "sg:city":"Steep Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403962105,
-    "wof:lastmodified":1449055429,
+    "wof:lastmodified":1466587012,
     "wof:name":"Excell Construction",
     "wof:parent_id":85816541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-70.62239,43.775798,-70.62239,43.775798],
+  "bbox": [
+    -70.62239,
+    43.775798,
+    -70.62239,
+    43.775798
+],
   "geometry": {"coordinates":[-70.62239,43.775798],"type":"Point"}
 }

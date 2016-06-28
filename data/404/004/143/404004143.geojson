@@ -2,13 +2,14 @@
   "id": 404004143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.553368,44.54735,-70.553368,44.54735",
     "geom:latitude":44.54735,
     "geom:longitude":-70.553368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Maine Ave",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":404004143,
-    "wof:lastmodified":1449039464,
+    "wof:lastmodified":1466585729,
     "wof:name":"MTS Distributors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "company"
     ]
 },
-  "bbox": [-70.553368,44.54735,-70.553368,44.54735],
-  "geometry": {"coordinates":[-70.553368,44.54735],"type":"Point"}
+  "bbox": [
+    -70.553368,
+    44.54735,
+    -70.553368,
+    44.54735
+],
+  "geometry": {"coordinates":[-70.55336800000001,44.54735],"type":"Point"}
 }

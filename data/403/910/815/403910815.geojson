@@ -2,13 +2,14 @@
   "id": 403910815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.41589,43.580203,-70.41589,43.580203",
     "geom:latitude":43.580203,
     "geom:longitude":-70.41589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Hearn Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403910815,
-    "wof:lastmodified":1449055180,
+    "wof:lastmodified":1466587047,
     "wof:name":"LTV Builders",
     "wof:parent_id":85834397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.41589,43.580203,-70.41589,43.580203],
+  "bbox": [
+    -70.41589,
+    43.580203,
+    -70.41589,
+    43.580203
+],
   "geometry": {"coordinates":[-70.41589,43.580203],"type":"Point"}
 }

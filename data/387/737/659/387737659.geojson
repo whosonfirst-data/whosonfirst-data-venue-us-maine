@@ -2,13 +2,14 @@
   "id": 387737659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.581365,44.795594,-68.581365,44.795594",
     "geom:latitude":44.795594,
     "geom:longitude":-68.581365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Merrill Rd",
     "sg:city":"Eddington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387737659,
-    "wof:lastmodified":1449056951,
+    "wof:lastmodified":1466586923,
     "wof:name":"Vogue Day Spa For Women",
     "wof:parent_id":85804681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.581365,44.795594,-68.581365,44.795594],
-  "geometry": {"coordinates":[-68.581365,44.795594],"type":"Point"}
+  "bbox": [
+    -68.581365,
+    44.795594,
+    -68.581365,
+    44.795594
+],
+  "geometry": {"coordinates":[-68.58136500000001,44.795594],"type":"Point"}
 }

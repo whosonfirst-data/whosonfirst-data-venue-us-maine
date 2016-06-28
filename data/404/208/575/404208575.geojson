@@ -2,13 +2,14 @@
   "id": 404208575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.707371,44.229557,-70.707371,44.229557",
     "geom:latitude":44.229557,
     "geom:longitude":-70.707371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Norway Rd",
     "sg:city":"Waterford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404208575,
-    "wof:lastmodified":1449039155,
+    "wof:lastmodified":1466586879,
     "wof:name":"Papoose Pond Camping Resort",
     "wof:parent_id":85831751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.707371,44.229557,-70.707371,44.229557],
-  "geometry": {"coordinates":[-70.707371,44.229557],"type":"Point"}
+  "bbox": [
+    -70.707371,
+    44.229557,
+    -70.707371,
+    44.229557
+],
+  "geometry": {"coordinates":[-70.70737099999999,44.229557],"type":"Point"}
 }

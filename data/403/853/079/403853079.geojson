@@ -2,13 +2,14 @@
   "id": 403853079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.009376,43.837888,-70.009376,43.837888",
     "geom:latitude":43.837888,
     "geom:longitude":-70.009376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Mere Point Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403853079,
-    "wof:lastmodified":1449055167,
+    "wof:lastmodified":1466586832,
     "wof:name":"Smith Boat Yard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sales"
     ]
 },
-  "bbox": [-70.009376,43.837888,-70.009376,43.837888],
+  "bbox": [
+    -70.009376,
+    43.837888,
+    -70.009376,
+    43.837888
+],
   "geometry": {"coordinates":[-70.009376,43.837888],"type":"Point"}
 }

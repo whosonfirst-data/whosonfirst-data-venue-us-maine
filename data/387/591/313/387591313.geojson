@@ -2,13 +2,14 @@
   "id": 387591313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.032511,44.248367,-70.032511,44.248367",
     "geom:latitude":44.248367,
     "geom:longitude":-70.032511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"847 Main St",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387591313,
-    "wof:lastmodified":1449058141,
+    "wof:lastmodified":1466586191,
     "wof:name":"Monmouth Rescue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-70.032511,44.248367,-70.032511,44.248367],
+  "bbox": [
+    -70.032511,
+    44.248367,
+    -70.032511,
+    44.248367
+],
   "geometry": {"coordinates":[-70.032511,44.248367],"type":"Point"}
 }

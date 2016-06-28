@@ -2,13 +2,14 @@
   "id": 387688549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.404749,45.154478,-67.404749,45.154478",
     "geom:latitude":45.154478,
     "geom:longitude":-67.404749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Main St",
     "sg:city":"Blue Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387688549,
-    "wof:lastmodified":1449057524,
+    "wof:lastmodified":1466586581,
     "wof:name":"Marine Environmental Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "org"
     ]
 },
-  "bbox": [-67.404749,45.154478,-67.404749,45.154478],
+  "bbox": [
+    -67.404749,
+    45.154478,
+    -67.404749,
+    45.154478
+],
   "geometry": {"coordinates":[-67.404749,45.154478],"type":"Point"}
 }

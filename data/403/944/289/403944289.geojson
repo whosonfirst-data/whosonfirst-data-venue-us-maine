@@ -2,13 +2,14 @@
   "id": 403944289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.336635,43.731436,-70.336635,43.731436",
     "geom:latitude":43.731436,
     "geom:longitude":-70.336635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"470 Duck Pond Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403944289,
-    "wof:lastmodified":1449055307,
+    "wof:lastmodified":1466587063,
     "wof:name":"Duntley Enterprises",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.336635,43.731436,-70.336635,43.731436],
+  "bbox": [
+    -70.336635,
+    43.731436,
+    -70.336635,
+    43.731436
+],
   "geometry": {"coordinates":[-70.336635,43.731436],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387600681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.959426,43.912908,-69.959426,43.912908",
     "geom:latitude":43.912908,
     "geom:longitude":-69.959426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Maple St",
     "sg:city":"Cornish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387600681,
-    "wof:lastmodified":1449056455,
+    "wof:lastmodified":1466586354,
     "wof:name":"Cote & Howe Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.959426,43.912908,-69.959426,43.912908],
-  "geometry": {"coordinates":[-69.959426,43.912908],"type":"Point"}
+  "bbox": [
+    -69.959426,
+    43.912908,
+    -69.959426,
+    43.912908
+],
+  "geometry": {"coordinates":[-69.95942599999999,43.912908],"type":"Point"}
 }

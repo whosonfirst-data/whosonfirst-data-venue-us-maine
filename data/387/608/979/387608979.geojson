@@ -2,13 +2,14 @@
   "id": 387608979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.371353,43.696237,-70.371353,43.696237",
     "geom:latitude":43.696237,
     "geom:longitude":-70.371353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"772 Cumberland St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387608979,
-    "wof:lastmodified":1449057736,
+    "wof:lastmodified":1466586473,
     "wof:name":"New England Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-70.371353,43.696237,-70.371353,43.696237],
+  "bbox": [
+    -70.371353,
+    43.696237,
+    -70.371353,
+    43.696237
+],
   "geometry": {"coordinates":[-70.371353,43.696237],"type":"Point"}
 }

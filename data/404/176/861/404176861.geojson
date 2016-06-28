@@ -2,13 +2,14 @@
   "id": 404176861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.346867,44.042777,-70.346867,44.042777",
     "geom:latitude":44.042777,
     "geom:longitude":-70.346867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Plains Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404176861,
-    "wof:lastmodified":1449039923,
+    "wof:lastmodified":1466586699,
     "wof:name":"Range Pond Campground",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.346867,44.042777,-70.346867,44.042777],
+  "bbox": [
+    -70.346867,
+    44.042777,
+    -70.346867,
+    44.042777
+],
   "geometry": {"coordinates":[-70.346867,44.042777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387772357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.664879,44.928314,-68.664879,44.928314",
     "geom:latitude":44.928314,
     "geom:longitude":-68.664879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"498 Stillwater Ave",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387772357,
-    "wof:lastmodified":1449057812,
+    "wof:lastmodified":1466586898,
     "wof:name":"Maine Smoke Shop",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-68.664879,44.928314,-68.664879,44.928314],
+  "bbox": [
+    -68.664879,
+    44.928314,
+    -68.664879,
+    44.928314
+],
   "geometry": {"coordinates":[-68.664879,44.928314],"type":"Point"}
 }

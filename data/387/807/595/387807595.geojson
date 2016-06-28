@@ -2,13 +2,14 @@
   "id": 387807595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.333329,43.872682,-70.333329,43.872682",
     "geom:latitude":43.872682,
     "geom:longitude":-70.333329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Center Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387807595,
-    "wof:lastmodified":1449057080,
+    "wof:lastmodified":1466587082,
     "wof:name":"Downeast Software Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.333329,43.872682,-70.333329,43.872682],
-  "geometry": {"coordinates":[-70.333329,43.872682],"type":"Point"}
+  "bbox": [
+    -70.333329,
+    43.872682,
+    -70.333329,
+    43.872682
+],
+  "geometry": {"coordinates":[-70.33332900000001,43.872682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403947931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.736995,43.091935,-70.736995,43.091935",
     "geom:latitude":43.091935,
     "geom:longitude":-70.736995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Shapleigh Rd",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403947931,
-    "wof:lastmodified":1449055575,
+    "wof:lastmodified":1466587070,
     "wof:name":"Down East Boat Twine Serv",
     "wof:parent_id":85828587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fishing"
     ]
 },
-  "bbox": [-70.736995,43.091935,-70.736995,43.091935],
-  "geometry": {"coordinates":[-70.736995,43.091935],"type":"Point"}
+  "bbox": [
+    -70.736995,
+    43.091935,
+    -70.736995,
+    43.091935
+],
+  "geometry": {"coordinates":[-70.73699499999999,43.091935],"type":"Point"}
 }

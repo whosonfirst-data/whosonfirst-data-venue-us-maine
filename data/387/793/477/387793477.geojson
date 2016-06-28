@@ -2,13 +2,14 @@
   "id": 387793477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.749845,44.836349,-68.749845,44.836349",
     "geom:latitude":44.836349,
     "geom:longitude":-68.749845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Penn Plz",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387793477,
-    "wof:lastmodified":1449058205,
+    "wof:lastmodified":1466587114,
     "wof:name":"Jonathan Herland MD",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-68.749845,44.836349,-68.749845,44.836349],
-  "geometry": {"coordinates":[-68.749845,44.836349],"type":"Point"}
+  "bbox": [
+    -68.749845,
+    44.836349,
+    -68.749845,
+    44.836349
+],
+  "geometry": {"coordinates":[-68.74984499999999,44.836349],"type":"Point"}
 }

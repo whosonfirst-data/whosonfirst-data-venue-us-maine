@@ -2,13 +2,14 @@
   "id": 404131343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.318382,43.672777,-70.318382,43.672777",
     "geom:latitude":43.672777,
     "geom:longitude":-70.318382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Rowe Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404131343,
-    "wof:lastmodified":1449039381,
+    "wof:lastmodified":1466586468,
     "wof:name":"Maine Way Contractors Inc",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.318382,43.672777,-70.318382,43.672777],
+  "bbox": [
+    -70.318382,
+    43.672777,
+    -70.318382,
+    43.672777
+],
   "geometry": {"coordinates":[-70.318382,43.672777],"type":"Point"}
 }

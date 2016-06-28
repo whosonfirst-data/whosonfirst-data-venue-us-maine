@@ -2,13 +2,14 @@
   "id": 404054185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.594518,43.239367,-70.594518,43.239367",
     "geom:latitude":43.239367,
     "geom:longitude":-70.594518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Shore Rd",
     "sg:city":"Ogunquit",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404054185,
-    "wof:lastmodified":1449039575,
+    "wof:lastmodified":1466586343,
     "wof:name":"Celtic Treasures",
     "wof:parent_id":85854335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.594518,43.239367,-70.594518,43.239367],
-  "geometry": {"coordinates":[-70.594518,43.239367],"type":"Point"}
+  "bbox": [
+    -70.594518,
+    43.239367,
+    -70.594518,
+    43.239367
+],
+  "geometry": {"coordinates":[-70.59451799999999,43.239367],"type":"Point"}
 }

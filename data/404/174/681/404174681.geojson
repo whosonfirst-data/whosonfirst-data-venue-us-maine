@@ -2,13 +2,14 @@
   "id": 404174681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.36843,43.80173,-70.36843,43.80173",
     "geom:latitude":43.80173,
     "geom:longitude":-70.36843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Falmouth Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404174681,
-    "wof:lastmodified":1449039168,
+    "wof:lastmodified":1466586806,
     "wof:name":"K & W Country Store",
     "wof:parent_id":85847399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.36843,43.80173,-70.36843,43.80173],
+  "bbox": [
+    -70.36843,
+    43.80173,
+    -70.36843,
+    43.80173
+],
   "geometry": {"coordinates":[-70.36843,43.80173],"type":"Point"}
 }

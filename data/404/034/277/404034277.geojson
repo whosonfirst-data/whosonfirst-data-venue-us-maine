@@ -2,13 +2,14 @@
   "id": 404034277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.654328,44.934434,-68.654328,44.934434",
     "geom:latitude":44.934434,
     "geom:longitude":-68.654328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Middle St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404034277,
-    "wof:lastmodified":1449039152,
+    "wof:lastmodified":1466586011,
     "wof:name":"Bricknet Communications",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-68.654328,44.934434,-68.654328,44.934434],
-  "geometry": {"coordinates":[-68.654328,44.934434],"type":"Point"}
+  "bbox": [
+    -68.654328,
+    44.934434,
+    -68.654328,
+    44.934434
+],
+  "geometry": {"coordinates":[-68.65432800000001,44.934434],"type":"Point"}
 }

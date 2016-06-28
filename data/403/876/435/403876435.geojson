@@ -2,13 +2,14 @@
   "id": 403876435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.47244,43.496439,-70.47244,43.496439",
     "geom:latitude":43.496439,
     "geom:longitude":-70.47244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Highland St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403876435,
-    "wof:lastmodified":1449054907,
+    "wof:lastmodified":1466586823,
     "wof:name":"Bastarache Insurance",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.47244,43.496439,-70.47244,43.496439],
-  "geometry": {"coordinates":[-70.47244,43.496439],"type":"Point"}
+  "bbox": [
+    -70.47244,
+    43.496439,
+    -70.47244,
+    43.496439
+],
+  "geometry": {"coordinates":[-70.47244000000001,43.496439],"type":"Point"}
 }

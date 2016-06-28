@@ -2,13 +2,14 @@
   "id": 387718707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.221033,44.09336,-70.221033,44.09336",
     "geom:latitude":44.09336,
     "geom:longitude":-70.221033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Beech St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387718707,
-    "wof:lastmodified":1449056921,
+    "wof:lastmodified":1466586809,
     "wof:name":"Tic-Tac-Toes",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shoes"
     ]
 },
-  "bbox": [-70.221033,44.09336,-70.221033,44.09336],
-  "geometry": {"coordinates":[-70.221033,44.09336],"type":"Point"}
+  "bbox": [
+    -70.221033,
+    44.09336,
+    -70.221033,
+    44.09336
+],
+  "geometry": {"coordinates":[-70.22103300000001,44.09336],"type":"Point"}
 }

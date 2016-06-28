@@ -2,13 +2,14 @@
   "id": 387720427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.000461,43.969737,-70.000461,43.969737",
     "geom:latitude":43.969737,
     "geom:longitude":-70.000461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Meadow Cross Rd",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387720427,
-    "wof:lastmodified":1449057012,
+    "wof:lastmodified":1466586808,
     "wof:name":"T & J Recycling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "collection"
     ]
 },
-  "bbox": [-70.000461,43.969737,-70.000461,43.969737],
+  "bbox": [
+    -70.000461,
+    43.969737,
+    -70.000461,
+    43.969737
+],
   "geometry": {"coordinates":[-70.000461,43.969737],"type":"Point"}
 }

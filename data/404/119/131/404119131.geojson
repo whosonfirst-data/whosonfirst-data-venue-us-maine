@@ -2,13 +2,14 @@
   "id": 404119131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.323511,43.971185,-70.323511,43.971185",
     "geom:latitude":43.971185,
     "geom:longitude":-70.323511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Swamp Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404119131,
-    "wof:lastmodified":1449039979,
+    "wof:lastmodified":1466586281,
     "wof:name":"Harmer & Sons Plumbing & Htg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.323511,43.971185,-70.323511,43.971185],
+  "bbox": [
+    -70.323511,
+    43.971185,
+    -70.323511,
+    43.971185
+],
   "geometry": {"coordinates":[-70.323511,43.971185],"type":"Point"}
 }

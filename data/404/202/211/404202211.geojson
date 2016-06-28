@@ -2,13 +2,14 @@
   "id": 404202211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.115224,44.109926,-70.115224,44.109926",
     "geom:latitude":44.109926,
     "geom:longitude":-70.115224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Sabattus Rd",
     "sg:city":"Sabattus",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404202211,
-    "wof:lastmodified":1449040165,
+    "wof:lastmodified":1466586926,
     "wof:name":"Xtreme Studios Of Self Defense",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-70.115224,44.109926,-70.115224,44.109926],
+  "bbox": [
+    -70.115224,
+    44.109926,
+    -70.115224,
+    44.109926
+],
   "geometry": {"coordinates":[-70.115224,44.109926],"type":"Point"}
 }

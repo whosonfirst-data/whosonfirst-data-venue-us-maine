@@ -2,13 +2,14 @@
   "id": 403771319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.639156,44.569021,-69.639156,44.569021",
     "geom:latitude":44.569021,
     "geom:longitude":-69.639156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Main St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403771319,
-    "wof:lastmodified":1449055353,
+    "wof:lastmodified":1466586553,
     "wof:name":"Cosgrove Insurance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.639156,44.569021,-69.639156,44.569021],
+  "bbox": [
+    -69.639156,
+    44.569021,
+    -69.639156,
+    44.569021
+],
   "geometry": {"coordinates":[-69.639156,44.569021],"type":"Point"}
 }

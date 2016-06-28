@@ -2,13 +2,14 @@
   "id": 404120465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.451281,43.855065,-70.451281,43.855065",
     "geom:latitude":43.855065,
     "geom:longitude":-70.451281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404120465,
-    "wof:lastmodified":1449040149,
+    "wof:lastmodified":1466586303,
     "wof:name":"Windham Assembly Of God",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.451281,43.855065,-70.451281,43.855065],
-  "geometry": {"coordinates":[-70.451281,43.855065],"type":"Point"}
+  "bbox": [
+    -70.451281,
+    43.855065,
+    -70.451281,
+    43.855065
+],
+  "geometry": {"coordinates":[-70.45128099999999,43.855065],"type":"Point"}
 }

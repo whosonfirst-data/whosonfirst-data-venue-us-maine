@@ -2,13 +2,14 @@
   "id": 403864751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.783607,43.698845,-70.783607,43.698845",
     "geom:latitude":43.698845,
     "geom:longitude":-70.783607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Central Ave",
     "sg:city":"Limerick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403864751,
-    "wof:lastmodified":1449055981,
+    "wof:lastmodified":1466586760,
     "wof:name":"Limerick Supermarket",
     "wof:parent_id":85819071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-70.783607,43.698845,-70.783607,43.698845],
+  "bbox": [
+    -70.783607,
+    43.698845,
+    -70.783607,
+    43.698845
+],
   "geometry": {"coordinates":[-70.783607,43.698845],"type":"Point"}
 }

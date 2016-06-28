@@ -2,13 +2,14 @@
   "id": 403877977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.762671,44.797459,-68.762671,44.797459",
     "geom:latitude":44.797459,
     "geom:longitude":-68.762671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Center St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403877977,
-    "wof:lastmodified":1449055546,
+    "wof:lastmodified":1466586836,
     "wof:name":"Collectors Corner",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "comic"
     ]
 },
-  "bbox": [-68.762671,44.797459,-68.762671,44.797459],
+  "bbox": [
+    -68.762671,
+    44.797459,
+    -68.762671,
+    44.797459
+],
   "geometry": {"coordinates":[-68.762671,44.797459],"type":"Point"}
 }

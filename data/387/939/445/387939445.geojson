@@ -2,13 +2,14 @@
   "id": 387939445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.850657,44.796341,-68.850657,44.796341",
     "geom:latitude":44.796341,
     "geom:longitude":-68.850657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Liberty Dr",
     "sg:city":"Hermon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387939445,
-    "wof:lastmodified":1449057213,
+    "wof:lastmodified":1466587277,
     "wof:name":"Auto Paint Supply Inc",
     "wof:parent_id":85838259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-68.850657,44.796341,-68.850657,44.796341],
+  "bbox": [
+    -68.850657,
+    44.796341,
+    -68.850657,
+    44.796341
+],
   "geometry": {"coordinates":[-68.850657,44.796341],"type":"Point"}
 }

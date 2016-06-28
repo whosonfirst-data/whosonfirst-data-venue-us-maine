@@ -2,13 +2,14 @@
   "id": 387679433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225914,44.093938,-70.225914,44.093938",
     "geom:latitude":44.093938,
     "geom:longitude":-70.225914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Main St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387679433,
-    "wof:lastmodified":1449058556,
+    "wof:lastmodified":1466586432,
     "wof:name":"Robert C Grieshaber CPA",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-70.225914,44.093938,-70.225914,44.093938],
+  "bbox": [
+    -70.225914,
+    44.093938,
+    -70.225914,
+    44.093938
+],
   "geometry": {"coordinates":[-70.225914,44.093938],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403759679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.964768,46.881127,-67.964768,46.881127",
     "geom:latitude":46.881127,
     "geom:longitude":-67.964768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Bowles Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403759679,
-    "wof:lastmodified":1449055990,
+    "wof:lastmodified":1466586386,
     "wof:name":"Aroostook County Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.964768,46.881127,-67.964768,46.881127],
-  "geometry": {"coordinates":[-67.964768,46.881127],"type":"Point"}
+  "bbox": [
+    -67.964768,
+    46.881127,
+    -67.964768,
+    46.881127
+],
+  "geometry": {"coordinates":[-67.96476800000001,46.881127],"type":"Point"}
 }

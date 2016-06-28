@@ -2,13 +2,14 @@
   "id": 404097487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.84287,46.768263,-67.84287,46.768263",
     "geom:latitude":46.768263,
     "geom:longitude":-67.84287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Wesleyan St",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404097487,
-    "wof:lastmodified":1449039505,
+    "wof:lastmodified":1466585961,
     "wof:name":"Aroostook Mental Health Ctr",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-67.84287,46.768263,-67.84287,46.768263],
+  "bbox": [
+    -67.84287,
+    46.768263,
+    -67.84287,
+    46.768263
+],
   "geometry": {"coordinates":[-67.84287,46.768263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403739659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.759328,44.573639,-68.759328,44.573639",
     "geom:latitude":44.573639,
     "geom:longitude":-68.759328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Wardwell Rd",
     "sg:city":"Orland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403739659,
-    "wof:lastmodified":1449055190,
+    "wof:lastmodified":1466586058,
     "wof:name":"Bucksport Bowling Ctr",
     "wof:parent_id":85843193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-68.759328,44.573639,-68.759328,44.573639],
+  "bbox": [
+    -68.759328,
+    44.573639,
+    -68.759328,
+    44.573639
+],
   "geometry": {"coordinates":[-68.759328,44.573639],"type":"Point"}
 }

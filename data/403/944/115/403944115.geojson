@@ -2,13 +2,14 @@
   "id": 403944115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.441331,43.499982,-70.441331,43.499982",
     "geom:latitude":43.499982,
     "geom:longitude":-70.441331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Beach St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403944115,
-    "wof:lastmodified":1449055302,
+    "wof:lastmodified":1466587060,
     "wof:name":"Prescott Lemonie Jamieson",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-70.441331,43.499982,-70.441331,43.499982],
-  "geometry": {"coordinates":[-70.441331,43.499982],"type":"Point"}
+  "bbox": [
+    -70.441331,
+    43.499982,
+    -70.441331,
+    43.499982
+],
+  "geometry": {"coordinates":[-70.44133100000001,43.499982],"type":"Point"}
 }

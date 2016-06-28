@@ -2,13 +2,14 @@
   "id": 404210721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.770682,44.801854,-68.770682,44.801854",
     "geom:latitude":44.801854,
     "geom:longitude":-68.770682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404210721,
-    "wof:lastmodified":1449039420,
+    "wof:lastmodified":1466587052,
     "wof:name":"Clark's Watch Repair",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "watch"
     ]
 },
-  "bbox": [-68.770682,44.801854,-68.770682,44.801854],
-  "geometry": {"coordinates":[-68.770682,44.801854],"type":"Point"}
+  "bbox": [
+    -68.770682,
+    44.801854,
+    -68.770682,
+    44.801854
+],
+  "geometry": {"coordinates":[-68.77068199999999,44.801854],"type":"Point"}
 }

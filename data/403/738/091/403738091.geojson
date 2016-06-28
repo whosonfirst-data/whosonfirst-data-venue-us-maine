@@ -2,13 +2,14 @@
   "id": 403738091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.26405,43.652949,-70.26405,43.652949",
     "geom:latitude":43.652949,
     "geom:longitude":-70.26405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Park St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403738091,
-    "wof:lastmodified":1449055582,
+    "wof:lastmodified":1466586040,
     "wof:name":"Crain & Lawrence Mediators",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arbitration"
     ]
 },
-  "bbox": [-70.26405,43.652949,-70.26405,43.652949],
+  "bbox": [
+    -70.26405,
+    43.652949,
+    -70.26405,
+    43.652949
+],
   "geometry": {"coordinates":[-70.26405,43.652949],"type":"Point"}
 }

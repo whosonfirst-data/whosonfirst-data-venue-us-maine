@@ -2,13 +2,14 @@
   "id": 403945687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.076711,44.209545,-69.076711,44.209545",
     "geom:latitude":44.209545,
     "geom:longitude":-69.076711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Rawson Ave",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403945687,
-    "wof:lastmodified":1449054743,
+    "wof:lastmodified":1466587155,
     "wof:name":"Ray Pendleton",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.076711,44.209545,-69.076711,44.209545],
+  "bbox": [
+    -69.076711,
+    44.209545,
+    -69.076711,
+    44.209545
+],
   "geometry": {"coordinates":[-69.076711,44.209545],"type":"Point"}
 }

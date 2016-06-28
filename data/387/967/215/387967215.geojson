@@ -2,13 +2,14 @@
   "id": 387967215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.445707,43.498463,-70.445707,43.498463",
     "geom:latitude":43.498463,
     "geom:longitude":-70.445707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Thornton Ave",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387967215,
-    "wof:lastmodified":1449059639,
+    "wof:lastmodified":1466587300,
     "wof:name":"Money Group",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-70.445707,43.498463,-70.445707,43.498463],
+  "bbox": [
+    -70.445707,
+    43.498463,
+    -70.445707,
+    43.498463
+],
   "geometry": {"coordinates":[-70.445707,43.498463],"type":"Point"}
 }

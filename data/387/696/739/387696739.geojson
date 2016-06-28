@@ -2,13 +2,14 @@
   "id": 387696739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.01544,46.68164,-68.01544,46.68164",
     "geom:latitude":46.68164,
     "geom:longitude":-68.01544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"477 Main St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387696739,
-    "wof:lastmodified":1449056395,
+    "wof:lastmodified":1466586719,
     "wof:name":"Kathleen T O'Boyle",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-68.01544,46.68164,-68.01544,46.68164],
+  "bbox": [
+    -68.01544,
+    46.68164,
+    -68.01544,
+    46.68164
+],
   "geometry": {"coordinates":[-68.01544,46.68164],"type":"Point"}
 }

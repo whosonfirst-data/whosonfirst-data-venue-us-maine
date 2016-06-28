@@ -2,13 +2,14 @@
   "id": 387778143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.216636,44.095888,-70.216636,44.095888",
     "geom:latitude":44.095888,
     "geom:longitude":-70.216636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387778143,
-    "wof:lastmodified":1449056199,
+    "wof:lastmodified":1466587085,
     "wof:name":"Hardy Wolf & Downing",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-70.216636,44.095888,-70.216636,44.095888],
-  "geometry": {"coordinates":[-70.216636,44.095888],"type":"Point"}
+  "bbox": [
+    -70.216636,
+    44.095888,
+    -70.216636,
+    44.095888
+],
+  "geometry": {"coordinates":[-70.21663599999999,44.095888],"type":"Point"}
 }

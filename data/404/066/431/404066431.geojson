@@ -2,13 +2,14 @@
   "id": 404066431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.156759,47.304151,-68.156759,47.304151",
     "geom:latitude":47.304151,
     "geom:longitude":-68.156759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Cremerie St",
     "sg:city":"Grand Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404066431,
-    "wof:lastmodified":1449039366,
+    "wof:lastmodified":1466586519,
     "wof:name":"Aroostook Mental Health Ctr",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-68.156759,47.304151,-68.156759,47.304151],
-  "geometry": {"coordinates":[-68.156759,47.304151],"type":"Point"}
+  "bbox": [
+    -68.156759,
+    47.304151,
+    -68.156759,
+    47.304151
+],
+  "geometry": {"coordinates":[-68.15675899999999,47.304151],"type":"Point"}
 }

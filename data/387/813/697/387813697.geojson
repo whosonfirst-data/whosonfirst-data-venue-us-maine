@@ -2,13 +2,14 @@
   "id": 387813697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.2657,43.648965,-70.2657,43.648965",
     "geom:latitude":43.648965,
     "geom:longitude":-70.2657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Clark St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387813697,
-    "wof:lastmodified":1449057084,
+    "wof:lastmodified":1466587175,
     "wof:name":"Connie Hayes Inc",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-70.2657,43.648965,-70.2657,43.648965],
+  "bbox": [
+    -70.2657,
+    43.648965,
+    -70.2657,
+    43.648965
+],
   "geometry": {"coordinates":[-70.2657,43.648965],"type":"Point"}
 }

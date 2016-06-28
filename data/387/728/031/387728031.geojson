@@ -2,13 +2,14 @@
   "id": 387728031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.748721,44.820699,-68.748721,44.820699",
     "geom:latitude":44.820699,
     "geom:longitude":-68.748721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Glen Cove Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387728031,
-    "wof:lastmodified":1449056993,
+    "wof:lastmodified":1466586717,
     "wof:name":"Canders Diving Services",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.748721,44.820699,-68.748721,44.820699],
+  "bbox": [
+    -68.748721,
+    44.820699,
+    -68.748721,
+    44.820699
+],
   "geometry": {"coordinates":[-68.748721,44.820699],"type":"Point"}
 }

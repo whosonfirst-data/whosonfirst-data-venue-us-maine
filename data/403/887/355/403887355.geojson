@@ -2,13 +2,14 @@
   "id": 403887355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.795592,43.882961,-70.795592,43.882961",
     "geom:latitude":43.882961,
     "geom:longitude":-70.795592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Sebago Rd",
     "sg:city":"Hiram",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403887355,
-    "wof:lastmodified":1449055692,
+    "wof:lastmodified":1466586767,
     "wof:name":"Joseph R D De Kay DO",
     "wof:parent_id":85856327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.795592,43.882961,-70.795592,43.882961],
+  "bbox": [
+    -70.795592,
+    43.882961,
+    -70.795592,
+    43.882961
+],
   "geometry": {"coordinates":[-70.795592,43.882961],"type":"Point"}
 }

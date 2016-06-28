@@ -2,13 +2,14 @@
   "id": 387865857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.102201,44.115073,-69.102201,44.115073",
     "geom:latitude":44.115073,
     "geom:longitude":-69.102201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Washington St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387865857,
-    "wof:lastmodified":1449058979,
+    "wof:lastmodified":1466587108,
     "wof:name":"Annes Old Chairs To Mend",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.102201,44.115073,-69.102201,44.115073],
-  "geometry": {"coordinates":[-69.102201,44.115073],"type":"Point"}
+  "bbox": [
+    -69.102201,
+    44.115073,
+    -69.102201,
+    44.115073
+],
+  "geometry": {"coordinates":[-69.10220099999999,44.115073],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387654671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.344938,43.563849,-70.344938,43.563849",
     "geom:latitude":43.563849,
     "geom:longitude":-70.344938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Salt Marsh Cir",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387654671,
-    "wof:lastmodified":1449057373,
+    "wof:lastmodified":1466586039,
     "wof:name":"Manufacturing Solutions",
     "wof:parent_id":85806509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-70.344938,43.563849,-70.344938,43.563849],
+  "bbox": [
+    -70.344938,
+    43.563849,
+    -70.344938,
+    43.563849
+],
   "geometry": {"coordinates":[-70.344938,43.563849],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403764923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.211804,44.107231,-70.211804,44.107231",
     "geom:latitude":44.107231,
     "geom:longitude":-70.211804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Wakefield St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403764923,
-    "wof:lastmodified":1449055887,
+    "wof:lastmodified":1466586479,
     "wof:name":"Sherwood Repair Svc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parts"
     ]
 },
-  "bbox": [-70.211804,44.107231,-70.211804,44.107231],
+  "bbox": [
+    -70.211804,
+    44.107231,
+    -70.211804,
+    44.107231
+],
   "geometry": {"coordinates":[-70.211804,44.107231],"type":"Point"}
 }

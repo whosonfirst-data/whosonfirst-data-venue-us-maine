@@ -2,13 +2,14 @@
   "id": 403977827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.162337,44.075781,-70.162337,44.075781",
     "geom:latitude":44.075781,
     "geom:longitude":-70.162337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Old Lisbon Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403977827,
-    "wof:lastmodified":1449056008,
+    "wof:lastmodified":1466587140,
     "wof:name":"John F Murphy Homes",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.162337,44.075781,-70.162337,44.075781],
-  "geometry": {"coordinates":[-70.162337,44.075781],"type":"Point"}
+  "bbox": [
+    -70.162337,
+    44.075781,
+    -70.162337,
+    44.075781
+],
+  "geometry": {"coordinates":[-70.16233699999999,44.075781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387585739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.979739,43.902702,-69.979739,43.902702",
     "geom:latitude":43.902702,
     "geom:longitude":-69.979739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Baribeau Dr",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387585739,
-    "wof:lastmodified":1449058642,
+    "wof:lastmodified":1466586094,
     "wof:name":"Nancy D Whiteside",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-69.979739,43.902702,-69.979739,43.902702],
+  "bbox": [
+    -69.979739,
+    43.902702,
+    -69.979739,
+    43.902702
+],
   "geometry": {"coordinates":[-69.979739,43.902702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403953069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.918791,43.937117,-70.918791,43.937117",
     "geom:latitude":43.937117,
     "geom:longitude":-70.918791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 Main St",
     "sg:city":"Waterboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403953069,
-    "wof:lastmodified":1449055521,
+    "wof:lastmodified":1466587071,
     "wof:name":"Anne Worth Realty",
     "wof:parent_id":85816061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.918791,43.937117,-70.918791,43.937117],
+  "bbox": [
+    -70.918791,
+    43.937117,
+    -70.918791,
+    43.937117
+],
   "geometry": {"coordinates":[-70.918791,43.937117],"type":"Point"}
 }

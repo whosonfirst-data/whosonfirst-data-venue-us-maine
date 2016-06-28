@@ -2,13 +2,14 @@
   "id": 387749453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.790122,44.405739,-70.790122,44.405739",
     "geom:latitude":44.405739,
     "geom:longitude":-70.790122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Main St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387749453,
-    "wof:lastmodified":1449057178,
+    "wof:lastmodified":1466586896,
     "wof:name":"Andover Log Homes",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-70.790122,44.405739,-70.790122,44.405739],
+  "bbox": [
+    -70.790122,
+    44.405739,
+    -70.790122,
+    44.405739
+],
   "geometry": {"coordinates":[-70.790122,44.405739],"type":"Point"}
 }

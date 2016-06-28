@@ -2,13 +2,14 @@
   "id": 404156915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.911531,44.362345,-69.911531,44.362345",
     "geom:latitude":44.362345,
     "geom:longitude":-69.911531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Plains Rd",
     "sg:city":"Litchfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404156915,
-    "wof:lastmodified":1449039300,
+    "wof:lastmodified":1466586746,
     "wof:name":"Litchfield Plains Baptist Chr",
     "wof:parent_id":85851777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-69.911531,44.362345,-69.911531,44.362345],
+  "bbox": [
+    -69.911531,
+    44.362345,
+    -69.911531,
+    44.362345
+],
   "geometry": {"coordinates":[-69.911531,44.362345],"type":"Point"}
 }

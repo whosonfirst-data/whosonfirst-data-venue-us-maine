@@ -2,13 +2,14 @@
   "id": 387949341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.338066,44.518865,-69.338066,44.518865",
     "geom:latitude":44.518865,
     "geom:longitude":-69.338066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 Belfast Rd",
     "sg:city":"Freedom",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387949341,
-    "wof:lastmodified":1449058463,
+    "wof:lastmodified":1466587195,
     "wof:name":"Joanne's Beauty Shop",
     "wof:parent_id":85828753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-69.338066,44.518865,-69.338066,44.518865],
+  "bbox": [
+    -69.338066,
+    44.518865,
+    -69.338066,
+    44.518865
+],
   "geometry": {"coordinates":[-69.338066,44.518865],"type":"Point"}
 }

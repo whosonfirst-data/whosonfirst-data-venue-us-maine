@@ -2,13 +2,14 @@
   "id": 387936817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.37319,43.648336,-70.37319,43.648336",
     "geom:latitude":43.648336,
     "geom:longitude":-70.37319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"776 County Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387936817,
-    "wof:lastmodified":1449057367,
+    "wof:lastmodified":1466587272,
     "wof:name":"M & M Semitrailers LTD",
     "wof:parent_id":85838011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trailer"
     ]
 },
-  "bbox": [-70.37319,43.648336,-70.37319,43.648336],
-  "geometry": {"coordinates":[-70.37319,43.648336],"type":"Point"}
+  "bbox": [
+    -70.37319,
+    43.648336,
+    -70.37319,
+    43.648336
+],
+  "geometry": {"coordinates":[-70.37318999999999,43.648336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404183053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.321545,43.696517,-70.321545,43.696517",
     "geom:latitude":43.696517,
     "geom:longitude":-70.321545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Waldron Way",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404183053,
-    "wof:lastmodified":1449039779,
+    "wof:lastmodified":1466586929,
     "wof:name":"PSC Ind Outsourcing",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.321545,43.696517,-70.321545,43.696517],
+  "bbox": [
+    -70.321545,
+    43.696517,
+    -70.321545,
+    43.696517
+],
   "geometry": {"coordinates":[-70.321545,43.696517],"type":"Point"}
 }

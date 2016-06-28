@@ -2,13 +2,14 @@
   "id": 387667653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.278964,44.460416,-68.278964,44.460416",
     "geom:latitude":44.460416,
     "geom:longitude":-68.278964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N Cove Rd",
     "sg:city":"Stonington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387667653,
-    "wof:lastmodified":1449058596,
+    "wof:lastmodified":1466586244,
     "wof:name":"Burnt Cove Market",
     "wof:parent_id":85829637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-68.278964,44.460416,-68.278964,44.460416],
+  "bbox": [
+    -68.278964,
+    44.460416,
+    -68.278964,
+    44.460416
+],
   "geometry": {"coordinates":[-68.278964,44.460416],"type":"Point"}
 }

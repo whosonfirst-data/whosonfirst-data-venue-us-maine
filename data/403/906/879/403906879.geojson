@@ -2,13 +2,14 @@
   "id": 403906879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.45011,44.893382,-69.45011,44.893382",
     "geom:latitude":44.893382,
     "geom:longitude":-69.45011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 Mountain Rd",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403906879,
-    "wof:lastmodified":1449055124,
+    "wof:lastmodified":1466586948,
     "wof:name":"Countertop",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-69.45011,44.893382,-69.45011,44.893382],
+  "bbox": [
+    -69.45011,
+    44.893382,
+    -69.45011,
+    44.893382
+],
   "geometry": {"coordinates":[-69.45011,44.893382],"type":"Point"}
 }

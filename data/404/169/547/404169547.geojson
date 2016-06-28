@@ -2,13 +2,14 @@
   "id": 404169547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.814693,44.784843,-68.814693,44.784843",
     "geom:latitude":44.784843,
     "geom:longitude":-68.814693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"547 Odlin Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404169547,
-    "wof:lastmodified":1449039846,
+    "wof:lastmodified":1466586792,
     "wof:name":"Howard Tool Co",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-68.814693,44.784843,-68.814693,44.784843],
-  "geometry": {"coordinates":[-68.814693,44.784843],"type":"Point"}
+  "bbox": [
+    -68.814693,
+    44.784843,
+    -68.814693,
+    44.784843
+],
+  "geometry": {"coordinates":[-68.81469300000001,44.784843],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403881991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.259815,43.65746,-70.259815,43.65746",
     "geom:latitude":43.65746,
     "geom:longitude":-70.259815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Preble St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403881991,
-    "wof:lastmodified":1449055410,
+    "wof:lastmodified":1466586921,
     "wof:name":"Maine Beer & Beverage Co",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-70.259815,43.65746,-70.259815,43.65746],
+  "bbox": [
+    -70.259815,
+    43.65746,
+    -70.259815,
+    43.65746
+],
   "geometry": {"coordinates":[-70.259815,43.65746],"type":"Point"}
 }

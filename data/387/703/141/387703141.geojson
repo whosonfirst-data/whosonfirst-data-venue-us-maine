@@ -2,13 +2,14 @@
   "id": 387703141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.060872,44.000274,-70.060872,44.000274",
     "geom:latitude":44.000274,
     "geom:longitude":-70.060872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 School St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387703141,
-    "wof:lastmodified":1449057255,
+    "wof:lastmodified":1466586751,
     "wof:name":"Little Angles Day Care",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-70.060872,44.000274,-70.060872,44.000274],
+  "bbox": [
+    -70.060872,
+    44.000274,
+    -70.060872,
+    44.000274
+],
   "geometry": {"coordinates":[-70.060872,44.000274],"type":"Point"}
 }

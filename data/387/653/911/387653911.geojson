@@ -2,13 +2,14 @@
   "id": 387653911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.848651,44.42131,-70.848651,44.42131",
     "geom:latitude":44.42131,
     "geom:longitude":-70.848651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 North Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387653911,
-    "wof:lastmodified":1449056387,
+    "wof:lastmodified":1466586029,
     "wof:name":"Crocker Pond House",
     "wof:parent_id":85833087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.848651,44.42131,-70.848651,44.42131],
+  "bbox": [
+    -70.848651,
+    44.42131,
+    -70.848651,
+    44.42131
+],
   "geometry": {"coordinates":[-70.848651,44.42131],"type":"Point"}
 }

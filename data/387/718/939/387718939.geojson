@@ -2,13 +2,14 @@
   "id": 387718939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.985847,44.904243,-66.985847,44.904243",
     "geom:latitude":44.904243,
     "geom:longitude":-66.985847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Dana St",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387718939,
-    "wof:lastmodified":1449056920,
+    "wof:lastmodified":1466586811,
     "wof:name":"Earth Forms",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-66.985847,44.904243,-66.985847,44.904243],
-  "geometry": {"coordinates":[-66.985847,44.904243],"type":"Point"}
+  "bbox": [
+    -66.985847,
+    44.904243,
+    -66.985847,
+    44.904243
+],
+  "geometry": {"coordinates":[-66.98584700000001,44.904243],"type":"Point"}
 }

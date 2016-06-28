@@ -2,13 +2,14 @@
   "id": 404112957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.230345,44.117157,-70.230345,44.117157",
     "geom:latitude":44.117157,
     "geom:longitude":-70.230345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Damy Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404112957,
-    "wof:lastmodified":1449039561,
+    "wof:lastmodified":1466586188,
     "wof:name":"Charles Plummer",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "war"
     ]
 },
-  "bbox": [-70.230345,44.117157,-70.230345,44.117157],
+  "bbox": [
+    -70.230345,
+    44.117157,
+    -70.230345,
+    44.117157
+],
   "geometry": {"coordinates":[-70.230345,44.117157],"type":"Point"}
 }

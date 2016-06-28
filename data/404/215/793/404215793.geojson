@@ -2,13 +2,14 @@
   "id": 404215793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.204283,44.388047,-68.204283,44.388047",
     "geom:latitude":44.388047,
     "geom:longitude":-68.204283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Main St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404215793,
-    "wof:lastmodified":1449040091,
+    "wof:lastmodified":1466586904,
     "wof:name":"Domus Isle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.204283,44.388047,-68.204283,44.388047],
+  "bbox": [
+    -68.204283,
+    44.388047,
+    -68.204283,
+    44.388047
+],
   "geometry": {"coordinates":[-68.204283,44.388047],"type":"Point"}
 }

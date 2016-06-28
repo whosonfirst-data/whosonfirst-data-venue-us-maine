@@ -2,13 +2,14 @@
   "id": 404088329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.948813,44.009862,-69.948813,44.009862",
     "geom:latitude":44.009862,
     "geom:longitude":-69.948813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Parkway",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404088329,
-    "wof:lastmodified":1449040021,
+    "wof:lastmodified":1466586704,
     "wof:name":"Bethel Station",
     "wof:parent_id":85809811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.948813,44.009862,-69.948813,44.009862],
+  "bbox": [
+    -69.948813,
+    44.009862,
+    -69.948813,
+    44.009862
+],
   "geometry": {"coordinates":[-69.948813,44.009862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404022489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.269336,44.112494,-70.269336,44.112494",
     "geom:latitude":44.112494,
     "geom:longitude":-70.269336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"731 Hotel Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404022489,
-    "wof:lastmodified":1449039416,
+    "wof:lastmodified":1466585927,
     "wof:name":"Lepage Environmental Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ecological"
     ]
 },
-  "bbox": [-70.269336,44.112494,-70.269336,44.112494],
+  "bbox": [
+    -70.269336,
+    44.112494,
+    -70.269336,
+    44.112494
+],
   "geometry": {"coordinates":[-70.269336,44.112494],"type":"Point"}
 }

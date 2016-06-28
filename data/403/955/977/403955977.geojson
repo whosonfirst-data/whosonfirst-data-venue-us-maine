@@ -2,13 +2,14 @@
   "id": 403955977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.758979,44.789637,-68.758979,44.789637",
     "geom:latitude":44.789637,
     "geom:longitude":-68.758979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Wilson St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403955977,
-    "wof:lastmodified":1449055534,
+    "wof:lastmodified":1466587081,
     "wof:name":"AA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-68.758979,44.789637,-68.758979,44.789637],
+  "bbox": [
+    -68.758979,
+    44.789637,
+    -68.758979,
+    44.789637
+],
   "geometry": {"coordinates":[-68.758979,44.789637],"type":"Point"}
 }

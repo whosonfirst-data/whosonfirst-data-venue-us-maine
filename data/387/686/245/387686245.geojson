@@ -2,13 +2,14 @@
   "id": 387686245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.654338,44.620723,-69.654338,44.620723",
     "geom:latitude":44.620723,
     "geom:longitude":-69.654338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Ohio Hill Rd",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387686245,
-    "wof:lastmodified":1449058987,
+    "wof:lastmodified":1466586540,
     "wof:name":"Captive Air Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [-69.654338,44.620723,-69.654338,44.620723],
+  "bbox": [
+    -69.654338,
+    44.620723,
+    -69.654338,
+    44.620723
+],
   "geometry": {"coordinates":[-69.654338,44.620723],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404173003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.70758,45.657333,-68.70758,45.657333",
     "geom:latitude":45.657333,
     "geom:longitude":-68.70758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Central St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404173003,
-    "wof:lastmodified":1449039287,
+    "wof:lastmodified":1466586686,
     "wof:name":"Bangor Savings Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.70758,45.657333,-68.70758,45.657333],
-  "geometry": {"coordinates":[-68.70758,45.657333],"type":"Point"}
+  "bbox": [
+    -68.70758,
+    45.657333,
+    -68.70758,
+    45.657333
+],
+  "geometry": {"coordinates":[-68.70757999999999,45.657333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387585893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.447018,43.496621,-70.447018,43.496621",
     "geom:latitude":43.496621,
     "geom:longitude":-70.447018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Water St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387585893,
-    "wof:lastmodified":1449058641,
+    "wof:lastmodified":1466586096,
     "wof:name":"Access Coastal",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-70.447018,43.496621,-70.447018,43.496621],
+  "bbox": [
+    -70.447018,
+    43.496621,
+    -70.447018,
+    43.496621
+],
   "geometry": {"coordinates":[-70.447018,43.496621],"type":"Point"}
 }

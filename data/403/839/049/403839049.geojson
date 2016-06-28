@@ -2,13 +2,14 @@
   "id": 403839049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.368287,43.675472,-70.368287,43.675472",
     "geom:latitude":43.675472,
     "geom:longitude":-70.368287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Central St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403839049,
-    "wof:lastmodified":1449055453,
+    "wof:lastmodified":1466586584,
     "wof:name":"Anderson-Watkins Insurance",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.368287,43.675472,-70.368287,43.675472],
+  "bbox": [
+    -70.368287,
+    43.675472,
+    -70.368287,
+    43.675472
+],
   "geometry": {"coordinates":[-70.368287,43.675472],"type":"Point"}
 }

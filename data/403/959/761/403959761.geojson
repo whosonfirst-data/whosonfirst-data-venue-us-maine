@@ -2,13 +2,14 @@
   "id": 403959761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.277631,43.655942,-70.277631,43.655942",
     "geom:latitude":43.655942,
     "geom:longitude":-70.277631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Park Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403959761,
-    "wof:lastmodified":1449055836,
+    "wof:lastmodified":1466586987,
     "wof:name":"Portland Exposition Building",
     "wof:parent_id":85880027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "stadium"
     ]
 },
-  "bbox": [-70.277631,43.655942,-70.277631,43.655942],
+  "bbox": [
+    -70.277631,
+    43.655942,
+    -70.277631,
+    43.655942
+],
   "geometry": {"coordinates":[-70.277631,43.655942],"type":"Point"}
 }

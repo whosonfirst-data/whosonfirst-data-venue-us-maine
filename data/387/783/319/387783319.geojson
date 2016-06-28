@@ -2,13 +2,14 @@
   "id": 387783319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.994248,46.674155,-67.994248,46.674155",
     "geom:latitude":46.674155,
     "geom:longitude":-67.994248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bridgeport Ct",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387783319,
-    "wof:lastmodified":1449056239,
+    "wof:lastmodified":1466587003,
     "wof:name":"Mc Laughlin Trucking",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-67.994248,46.674155,-67.994248,46.674155],
+  "bbox": [
+    -67.994248,
+    46.674155,
+    -67.994248,
+    46.674155
+],
   "geometry": {"coordinates":[-67.994248,46.674155],"type":"Point"}
 }

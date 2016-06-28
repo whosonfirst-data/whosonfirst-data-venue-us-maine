@@ -2,13 +2,14 @@
   "id": 404129299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.762998,44.796168,-68.762998,44.796168",
     "geom:latitude":44.796168,
     "geom:longitude":-68.762998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 N Main St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404129299,
-    "wof:lastmodified":1449040055,
+    "wof:lastmodified":1466586439,
     "wof:name":"Windows Direct",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-68.762998,44.796168,-68.762998,44.796168],
+  "bbox": [
+    -68.762998,
+    44.796168,
+    -68.762998,
+    44.796168
+],
   "geometry": {"coordinates":[-68.762998,44.796168],"type":"Point"}
 }

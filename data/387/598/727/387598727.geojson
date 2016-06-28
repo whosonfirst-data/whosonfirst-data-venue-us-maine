@@ -2,13 +2,14 @@
   "id": 387598727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.789423,44.798868,-68.789423,44.798868",
     "geom:latitude":44.798868,
     "geom:longitude":-68.789423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Vernon St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387598727,
-    "wof:lastmodified":1449056312,
+    "wof:lastmodified":1466586330,
     "wof:name":"Paladin Painting",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.789423,44.798868,-68.789423,44.798868],
+  "bbox": [
+    -68.789423,
+    44.798868,
+    -68.789423,
+    44.798868
+],
   "geometry": {"coordinates":[-68.789423,44.798868],"type":"Point"}
 }

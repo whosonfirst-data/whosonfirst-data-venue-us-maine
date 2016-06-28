@@ -2,13 +2,14 @@
   "id": 387933069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.45121,45.162548,-69.45121,45.162548",
     "geom:latitude":45.162548,
     "geom:longitude":-69.45121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Mountain Rd",
     "sg:city":"Abbot Village",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387933069,
-    "wof:lastmodified":1449056883,
+    "wof:lastmodified":1466587268,
     "wof:name":"Killam G Carpentry",
     "wof:parent_id":85806555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.45121,45.162548,-69.45121,45.162548],
+  "bbox": [
+    -69.45121,
+    45.162548,
+    -69.45121,
+    45.162548
+],
   "geometry": {"coordinates":[-69.45121,45.162548],"type":"Point"}
 }

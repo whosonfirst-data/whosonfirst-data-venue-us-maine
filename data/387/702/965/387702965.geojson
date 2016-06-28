@@ -2,13 +2,14 @@
   "id": 387702965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.51477,43.887449,-70.51477,43.887449",
     "geom:latitude":43.887449,
     "geom:longitude":-70.51477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Cape Rd",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387702965,
-    "wof:lastmodified":1449058008,
+    "wof:lastmodified":1466586749,
     "wof:name":"W P Clark & Sons",
     "wof:parent_id":85841571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-70.51477,43.887449,-70.51477,43.887449],
+  "bbox": [
+    -70.51477,
+    43.887449,
+    -70.51477,
+    43.887449
+],
   "geometry": {"coordinates":[-70.51477,43.887449],"type":"Point"}
 }

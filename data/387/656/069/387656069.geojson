@@ -2,13 +2,14 @@
   "id": 387656069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.778726,44.227748,-69.778726,44.227748",
     "geom:latitude":44.227748,
     "geom:longitude":-69.778726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Water St",
     "sg:city":"Gardiner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387656069,
-    "wof:lastmodified":1449058591,
+    "wof:lastmodified":1466586060,
     "wof:name":"Canton Village Chinese Rstrnt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.778726,44.227748,-69.778726,44.227748],
-  "geometry": {"coordinates":[-69.778726,44.227748],"type":"Point"}
+  "bbox": [
+    -69.778726,
+    44.227748,
+    -69.778726,
+    44.227748
+],
+  "geometry": {"coordinates":[-69.77872600000001,44.227748],"type":"Point"}
 }

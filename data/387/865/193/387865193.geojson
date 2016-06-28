@@ -2,13 +2,14 @@
   "id": 387865193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.301507,43.757491,-70.301507,43.757491",
     "geom:latitude":43.757491,
     "geom:longitude":-70.301507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Gray Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387865193,
-    "wof:lastmodified":1449058977,
+    "wof:lastmodified":1466587181,
     "wof:name":"A M Rudden Intl",
     "wof:parent_id":85855475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.301507,43.757491,-70.301507,43.757491],
+  "bbox": [
+    -70.301507,
+    43.757491,
+    -70.301507,
+    43.757491
+],
   "geometry": {"coordinates":[-70.301507,43.757491],"type":"Point"}
 }

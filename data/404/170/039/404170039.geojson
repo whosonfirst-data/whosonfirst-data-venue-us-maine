@@ -2,13 +2,14 @@
   "id": 404170039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.534168,43.726012,-70.534168,43.726012",
     "geom:latitude":43.726012,
     "geom:longitude":-70.534168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Ossipee Trl E",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404170039,
-    "wof:lastmodified":1449039131,
+    "wof:lastmodified":1466586877,
     "wof:name":"Can Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "center"
     ]
 },
-  "bbox": [-70.534168,43.726012,-70.534168,43.726012],
-  "geometry": {"coordinates":[-70.534168,43.726012],"type":"Point"}
+  "bbox": [
+    -70.534168,
+    43.726012,
+    -70.534168,
+    43.726012
+],
+  "geometry": {"coordinates":[-70.53416799999999,43.726012],"type":"Point"}
 }

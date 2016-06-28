@@ -2,13 +2,14 @@
   "id": 404157513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.838915,43.904065,-69.838915,43.904065",
     "geom:latitude":43.904065,
     "geom:longitude":-69.838915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 State Rd",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404157513,
-    "wof:lastmodified":1449040150,
+    "wof:lastmodified":1466586753,
     "wof:name":"Kevin Harris Marine Surveyors",
     "wof:parent_id":85837805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.838915,43.904065,-69.838915,43.904065],
+  "bbox": [
+    -69.838915,
+    43.904065,
+    -69.838915,
+    43.904065
+],
   "geometry": {"coordinates":[-69.838915,43.904065],"type":"Point"}
 }

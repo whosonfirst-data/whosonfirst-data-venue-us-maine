@@ -2,13 +2,14 @@
   "id": 403722119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.09842,47.265613,-68.09842,47.265613",
     "geom:latitude":47.265613,
     "geom:longitude":-68.09842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1277 Main St",
     "sg:city":"Saint Francis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403722119,
-    "wof:lastmodified":1449055092,
+    "wof:lastmodified":1466585871,
     "wof:name":"Bernard Thomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-68.09842,47.265613,-68.09842,47.265613],
+  "bbox": [
+    -68.09842,
+    47.265613,
+    -68.09842,
+    47.265613
+],
   "geometry": {"coordinates":[-68.09842,47.265613],"type":"Point"}
 }

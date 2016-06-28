@@ -2,13 +2,14 @@
   "id": 387849783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.44723,43.50107,-70.44723,43.50107",
     "geom:latitude":43.50107,
     "geom:longitude":-70.44723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Scammon St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387849783,
-    "wof:lastmodified":1449056799,
+    "wof:lastmodified":1466587152,
     "wof:name":"Game Zone",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-70.44723,43.50107,-70.44723,43.50107],
+  "bbox": [
+    -70.44723,
+    43.50107,
+    -70.44723,
+    43.50107
+],
   "geometry": {"coordinates":[-70.44723,43.50107],"type":"Point"}
 }

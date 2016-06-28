@@ -2,13 +2,14 @@
   "id": 387650851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.213659,44.387979,-68.213659,44.387979",
     "geom:latitude":44.387979,
     "geom:longitude":-68.213659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Brewer Ave",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387650851,
-    "wof:lastmodified":1449058425,
+    "wof:lastmodified":1466585982,
     "wof:name":"Root Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.213659,44.387979,-68.213659,44.387979],
-  "geometry": {"coordinates":[-68.213659,44.387979],"type":"Point"}
+  "bbox": [
+    -68.213659,
+    44.387979,
+    -68.213659,
+    44.387979
+],
+  "geometry": {"coordinates":[-68.21365900000001,44.387979],"type":"Point"}
 }

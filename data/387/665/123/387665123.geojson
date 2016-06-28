@@ -2,13 +2,14 @@
   "id": 387665123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.036827,44.594698,-70.036827,44.594698",
     "geom:latitude":44.594698,
     "geom:longitude":-70.036827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Vienna Rd",
     "sg:city":"Chesterville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387665123,
-    "wof:lastmodified":1449057263,
+    "wof:lastmodified":1466586205,
     "wof:name":"A 1 Auto Electric & Radiator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "radiator"
     ]
 },
-  "bbox": [-70.036827,44.594698,-70.036827,44.594698],
+  "bbox": [
+    -70.036827,
+    44.594698,
+    -70.036827,
+    44.594698
+],
   "geometry": {"coordinates":[-70.036827,44.594698],"type":"Point"}
 }

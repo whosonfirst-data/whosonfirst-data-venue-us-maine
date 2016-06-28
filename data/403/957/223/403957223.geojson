@@ -2,13 +2,14 @@
   "id": 403957223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.732393,43.362547,-70.732393,43.362547",
     "geom:latitude":43.362547,
     "geom:longitude":-70.732393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Sunny Ln",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403957223,
-    "wof:lastmodified":1449055770,
+    "wof:lastmodified":1466587075,
     "wof:name":"Painting By Jamie Emard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-70.732393,43.362547,-70.732393,43.362547],
+  "bbox": [
+    -70.732393,
+    43.362547,
+    -70.732393,
+    43.362547
+],
   "geometry": {"coordinates":[-70.732393,43.362547],"type":"Point"}
 }

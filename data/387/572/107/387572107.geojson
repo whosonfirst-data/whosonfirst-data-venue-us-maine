@@ -2,13 +2,14 @@
   "id": 387572107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.183947,44.079676,-70.183947,44.079676",
     "geom:latitude":44.079676,
     "geom:longitude":-70.183947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"394 Pleasant St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387572107,
-    "wof:lastmodified":1449058430,
+    "wof:lastmodified":1466585910,
     "wof:name":"Moes Drywall",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.183947,44.079676,-70.183947,44.079676],
+  "bbox": [
+    -70.183947,
+    44.079676,
+    -70.183947,
+    44.079676
+],
   "geometry": {"coordinates":[-70.183947,44.079676],"type":"Point"}
 }

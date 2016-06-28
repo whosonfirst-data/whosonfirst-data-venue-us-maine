@@ -2,13 +2,14 @@
   "id": 403934059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.980331,45.046771,-68.980331,45.046771",
     "geom:latitude":45.046771,
     "geom:longitude":-68.980331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Paine Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403934059,
-    "wof:lastmodified":1449054694,
+    "wof:lastmodified":1466587032,
     "wof:name":"Keanes Cooling & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.980331,45.046771,-68.980331,45.046771],
-  "geometry": {"coordinates":[-68.980331,45.046771],"type":"Point"}
+  "bbox": [
+    -68.980331,
+    45.046771,
+    -68.980331,
+    45.046771
+],
+  "geometry": {"coordinates":[-68.98033100000001,45.046771],"type":"Point"}
 }

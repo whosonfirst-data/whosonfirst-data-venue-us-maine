@@ -2,13 +2,14 @@
   "id": 387588841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.199387,43.789209,-70.199387,43.789209",
     "geom:latitude":43.789209,
     "geom:longitude":-70.199387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Oakwood Dr",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387588841,
-    "wof:lastmodified":1449059167,
+    "wof:lastmodified":1466586166,
     "wof:name":"Maine Center For Policy Rsrch",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.199387,43.789209,-70.199387,43.789209],
+  "bbox": [
+    -70.199387,
+    43.789209,
+    -70.199387,
+    43.789209
+],
   "geometry": {"coordinates":[-70.199387,43.789209],"type":"Point"}
 }

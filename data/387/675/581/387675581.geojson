@@ -2,13 +2,14 @@
   "id": 387675581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.356187,43.743575,-70.356187,43.743575",
     "geom:latitude":43.743575,
     "geom:longitude":-70.356187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Hardy Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387675581,
-    "wof:lastmodified":1449058040,
+    "wof:lastmodified":1466586370,
     "wof:name":"Katie's Korner Day Care",
     "wof:parent_id":85825127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.356187,43.743575,-70.356187,43.743575],
-  "geometry": {"coordinates":[-70.356187,43.743575],"type":"Point"}
+  "bbox": [
+    -70.356187,
+    43.743575,
+    -70.356187,
+    43.743575
+],
+  "geometry": {"coordinates":[-70.35618700000001,43.743575],"type":"Point"}
 }

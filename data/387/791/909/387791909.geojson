@@ -2,13 +2,14 @@
   "id": 387791909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.389572,46.630966,-68.389572,46.630966",
     "geom:latitude":46.630966,
     "geom:longitude":-68.389572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Frenchville Rd",
     "sg:city":"Madawaska",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387791909,
-    "wof:lastmodified":1449059026,
+    "wof:lastmodified":1466587014,
     "wof:name":"D Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-68.389572,46.630966,-68.389572,46.630966],
+  "bbox": [
+    -68.389572,
+    46.630966,
+    -68.389572,
+    46.630966
+],
   "geometry": {"coordinates":[-68.389572,46.630966],"type":"Point"}
 }

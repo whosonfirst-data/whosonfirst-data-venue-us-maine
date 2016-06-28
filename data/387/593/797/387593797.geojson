@@ -2,13 +2,14 @@
   "id": 387593797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.171478,43.804931,-70.171478,43.804931",
     "geom:latitude":43.804931,
     "geom:longitude":-70.171478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Spring St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387593797,
-    "wof:lastmodified":1449058636,
+    "wof:lastmodified":1466586225,
     "wof:name":"Maine Sportsman",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-70.171478,43.804931,-70.171478,43.804931],
-  "geometry": {"coordinates":[-70.171478,43.804931],"type":"Point"}
+  "bbox": [
+    -70.171478,
+    43.804931,
+    -70.171478,
+    43.804931
+],
+  "geometry": {"coordinates":[-70.17147799999999,43.804931],"type":"Point"}
 }

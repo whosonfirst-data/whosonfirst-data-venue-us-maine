@@ -2,13 +2,14 @@
   "id": 404082695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.110952,43.899222,-70.110952,43.899222",
     "geom:latitude":43.899222,
     "geom:longitude":-70.110952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Country Ln",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404082695,
-    "wof:lastmodified":1449039112,
+    "wof:lastmodified":1466586628,
     "wof:name":"Hugh A Bratner Photograph",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-70.110952,43.899222,-70.110952,43.899222],
+  "bbox": [
+    -70.110952,
+    43.899222,
+    -70.110952,
+    43.899222
+],
   "geometry": {"coordinates":[-70.110952,43.899222],"type":"Point"}
 }

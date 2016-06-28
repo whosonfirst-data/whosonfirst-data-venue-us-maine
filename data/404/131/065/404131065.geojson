@@ -2,13 +2,14 @@
   "id": 404131065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.968135,43.941209,-69.968135,43.941209",
     "geom:latitude":43.941209,
     "geom:longitude":-69.968135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Main St",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404131065,
-    "wof:lastmodified":1449039383,
+    "wof:lastmodified":1466586464,
     "wof:name":"Bishop Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-69.968135,43.941209,-69.968135,43.941209],
+  "bbox": [
+    -69.968135,
+    43.941209,
+    -69.968135,
+    43.941209
+],
   "geometry": {"coordinates":[-69.968135,43.941209],"type":"Point"}
 }

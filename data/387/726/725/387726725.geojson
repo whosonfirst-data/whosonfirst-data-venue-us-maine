@@ -2,13 +2,14 @@
   "id": 387726725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.780724,44.231973,-69.780724,44.231973",
     "geom:latitude":44.231973,
     "geom:longitude":-69.780724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Winter St",
     "sg:city":"Gardiner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387726725,
-    "wof:lastmodified":1449058715,
+    "wof:lastmodified":1466586911,
     "wof:name":"Winter Street Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-69.780724,44.231973,-69.780724,44.231973],
-  "geometry": {"coordinates":[-69.780724,44.231973],"type":"Point"}
+  "bbox": [
+    -69.780724,
+    44.231973,
+    -69.780724,
+    44.231973
+],
+  "geometry": {"coordinates":[-69.78072400000001,44.231973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387916737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.115973,44.046288,-70.115973,44.046288",
     "geom:latitude":44.046288,
     "geom:longitude":-70.115973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Lisbon St",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387916737,
-    "wof:lastmodified":1449058196,
+    "wof:lastmodified":1466587255,
     "wof:name":"Davis Landscape Co",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.115973,44.046288,-70.115973,44.046288],
+  "bbox": [
+    -70.115973,
+    44.046288,
+    -70.115973,
+    44.046288
+],
   "geometry": {"coordinates":[-70.115973,44.046288],"type":"Point"}
 }

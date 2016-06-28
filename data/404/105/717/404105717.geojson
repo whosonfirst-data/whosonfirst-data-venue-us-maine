@@ -2,13 +2,14 @@
   "id": 404105717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.278648,44.460213,-68.278648,44.460213",
     "geom:latitude":44.460213,
     "geom:longitude":-68.278648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 N Cove Rd",
     "sg:city":"Stonington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404105717,
-    "wof:lastmodified":1449039483,
+    "wof:lastmodified":1466586080,
     "wof:name":"Oakhill Estates",
     "wof:parent_id":85829637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-68.278648,44.460213,-68.278648,44.460213],
+  "bbox": [
+    -68.278648,
+    44.460213,
+    -68.278648,
+    44.460213
+],
   "geometry": {"coordinates":[-68.278648,44.460213],"type":"Point"}
 }

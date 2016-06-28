@@ -2,13 +2,14 @@
   "id": 404117485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.771367,44.802134,-68.771367,44.802134",
     "geom:latitude":44.802134,
     "geom:longitude":-68.771367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Central St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404117485,
-    "wof:lastmodified":1449039945,
+    "wof:lastmodified":1466586255,
     "wof:name":"Temple Of The Feminine Divine",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-68.771367,44.802134,-68.771367,44.802134],
+  "bbox": [
+    -68.771367,
+    44.802134,
+    -68.771367,
+    44.802134
+],
   "geometry": {"coordinates":[-68.771367,44.802134],"type":"Point"}
 }

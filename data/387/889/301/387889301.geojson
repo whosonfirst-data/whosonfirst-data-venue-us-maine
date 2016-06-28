@@ -2,13 +2,14 @@
   "id": 387889301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.122224,43.839091,-70.122224,43.839091",
     "geom:latitude":43.839091,
     "geom:longitude":-70.122224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"437 US Hwy 1",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387889301,
-    "wof:lastmodified":1449056043,
+    "wof:lastmodified":1466587311,
     "wof:name":"Maine Distilleries LLC",
     "wof:parent_id":85813291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distiller"
     ]
 },
-  "bbox": [-70.122224,43.839091,-70.122224,43.839091],
+  "bbox": [
+    -70.122224,
+    43.839091,
+    -70.122224,
+    43.839091
+],
   "geometry": {"coordinates":[-70.122224,43.839091],"type":"Point"}
 }

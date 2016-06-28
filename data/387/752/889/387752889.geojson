@@ -2,13 +2,14 @@
   "id": 387752889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.686902,44.05934,-69.686902,44.05934",
     "geom:latitude":44.05934,
     "geom:longitude":-69.686902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"568 Gardiner Rd",
     "sg:city":"Wiscasset",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387752889,
-    "wof:lastmodified":1449056738,
+    "wof:lastmodified":1466586980,
     "wof:name":"Northeast Home Control System",
     "wof:parent_id":85820077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-69.686902,44.05934,-69.686902,44.05934],
+  "bbox": [
+    -69.686902,
+    44.05934,
+    -69.686902,
+    44.05934
+],
   "geometry": {"coordinates":[-69.686902,44.05934],"type":"Point"}
 }

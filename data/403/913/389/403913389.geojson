@@ -2,13 +2,14 @@
   "id": 403913389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.368002,43.660685,-70.368002,43.660685",
     "geom:latitude":43.660685,
     "geom:longitude":-70.368002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Bradley Dr",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403913389,
-    "wof:lastmodified":1449055148,
+    "wof:lastmodified":1466586879,
     "wof:name":"Olympia Sports Inc",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.368002,43.660685,-70.368002,43.660685],
+  "bbox": [
+    -70.368002,
+    43.660685,
+    -70.368002,
+    43.660685
+],
   "geometry": {"coordinates":[-70.368002,43.660685],"type":"Point"}
 }

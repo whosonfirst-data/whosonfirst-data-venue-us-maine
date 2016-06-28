@@ -2,13 +2,14 @@
   "id": 387655297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.631195,43.852971,-69.631195,43.852971",
     "geom:latitude":43.852971,
     "geom:longitude":-69.631195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Howard St",
     "sg:city":"Boothbay Harbor",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387655297,
-    "wof:lastmodified":1449058294,
+    "wof:lastmodified":1466586049,
     "wof:name":"Boothbay Region Greenhouses",
     "wof:parent_id":85835605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-69.631195,43.852971,-69.631195,43.852971],
-  "geometry": {"coordinates":[-69.631195,43.852971],"type":"Point"}
+  "bbox": [
+    -69.631195,
+    43.852971,
+    -69.631195,
+    43.852971
+],
+  "geometry": {"coordinates":[-69.63119500000001,43.852971],"type":"Point"}
 }

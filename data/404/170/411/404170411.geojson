@@ -2,13 +2,14 @@
   "id": 404170411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242054,43.649719,-70.242054,43.649719",
     "geom:latitude":43.649719,
     "geom:longitude":-70.242054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404170411,
-    "wof:lastmodified":1449039129,
+    "wof:lastmodified":1466586794,
     "wof:name":"George G Savidge",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contract"
     ]
 },
-  "bbox": [-70.242054,43.649719,-70.242054,43.649719],
+  "bbox": [
+    -70.242054,
+    43.649719,
+    -70.242054,
+    43.649719
+],
   "geometry": {"coordinates":[-70.242054,43.649719],"type":"Point"}
 }

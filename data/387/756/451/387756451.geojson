@@ -2,13 +2,14 @@
   "id": 387756451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.254263,43.657808,-70.254263,43.657808",
     "geom:latitude":43.657808,
     "geom:longitude":-70.254263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Market St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":387756451,
-    "wof:lastmodified":1449058385,
+    "wof:lastmodified":1466586835,
     "wof:name":"Decktiles Western Boot Co",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mfg"
     ]
 },
-  "bbox": [-70.254263,43.657808,-70.254263,43.657808],
-  "geometry": {"coordinates":[-70.254263,43.657808],"type":"Point"}
+  "bbox": [
+    -70.254263,
+    43.657808,
+    -70.254263,
+    43.657808
+],
+  "geometry": {"coordinates":[-70.25426299999999,43.657808],"type":"Point"}
 }

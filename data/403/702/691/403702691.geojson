@@ -2,13 +2,14 @@
   "id": 403702691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.812245,44.33801,-69.812245,44.33801",
     "geom:latitude":44.33801,
     "geom:longitude":-69.812245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Leighton Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403702691,
-    "wof:lastmodified":1449055298,
+    "wof:lastmodified":1466585698,
     "wof:name":"Wag's Day Care For Dogs",
     "wof:parent_id":85841121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "exercising"
     ]
 },
-  "bbox": [-69.812245,44.33801,-69.812245,44.33801],
+  "bbox": [
+    -69.812245,
+    44.33801,
+    -69.812245,
+    44.33801
+],
   "geometry": {"coordinates":[-69.812245,44.33801],"type":"Point"}
 }

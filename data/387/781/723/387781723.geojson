@@ -2,13 +2,14 @@
   "id": 387781723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.794291,44.284006,-69.794291,44.284006",
     "geom:latitude":44.284006,
     "geom:longitude":-69.794291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Middle St",
     "sg:city":"Hallowell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387781723,
-    "wof:lastmodified":1449056815,
+    "wof:lastmodified":1466587092,
     "wof:name":"Stan Jones Patents",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-69.794291,44.284006,-69.794291,44.284006],
+  "bbox": [
+    -69.794291,
+    44.284006,
+    -69.794291,
+    44.284006
+],
   "geometry": {"coordinates":[-69.794291,44.284006],"type":"Point"}
 }

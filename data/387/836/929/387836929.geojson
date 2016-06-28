@@ -2,13 +2,14 @@
   "id": 387836929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.916746,46.641881,-67.916746,46.641881",
     "geom:latitude":46.641881,
     "geom:longitude":-67.916746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Center Rd",
     "sg:city":"Loring Cm Ctr",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387836929,
-    "wof:lastmodified":1449058625,
+    "wof:lastmodified":1466587142,
     "wof:name":"Limestone Country Club Rentals",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-67.916746,46.641881,-67.916746,46.641881],
+  "bbox": [
+    -67.916746,
+    46.641881,
+    -67.916746,
+    46.641881
+],
   "geometry": {"coordinates":[-67.916746,46.641881],"type":"Point"}
 }

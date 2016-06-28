@@ -2,13 +2,14 @@
   "id": 404163115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.839559,46.13452,-67.839559,46.13452",
     "geom:latitude":46.13452,
     "geom:longitude":-67.839559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 North St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404163115,
-    "wof:lastmodified":1449040301,
+    "wof:lastmodified":1466586777,
     "wof:name":"Peabody Lawn & Leisure Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mower"
     ]
 },
-  "bbox": [-67.839559,46.13452,-67.839559,46.13452],
-  "geometry": {"coordinates":[-67.839559,46.13452],"type":"Point"}
+  "bbox": [
+    -67.839559,
+    46.13452,
+    -67.839559,
+    46.13452
+],
+  "geometry": {"coordinates":[-67.83955899999999,46.13452],"type":"Point"}
 }

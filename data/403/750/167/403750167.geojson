@@ -2,13 +2,14 @@
   "id": 403750167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.224851,44.130139,-70.224851,44.130139",
     "geom:latitude":44.130139,
     "geom:longitude":-70.224851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"995 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403750167,
-    "wof:lastmodified":1449055466,
+    "wof:lastmodified":1466586215,
     "wof:name":"Gamache & Lessard Co",
     "wof:parent_id":85815921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-70.224851,44.130139,-70.224851,44.130139],
+  "bbox": [
+    -70.224851,
+    44.130139,
+    -70.224851,
+    44.130139
+],
   "geometry": {"coordinates":[-70.224851,44.130139],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387849903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.74226,44.835702,-68.74226,44.835702",
     "geom:latitude":44.835702,
     "geom:longitude":-68.74226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Springer Dr",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387849903,
-    "wof:lastmodified":1449056797,
+    "wof:lastmodified":1466587061,
     "wof:name":"Bonney Staffing & Training Ctr",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-68.74226,44.835702,-68.74226,44.835702],
+  "bbox": [
+    -68.74226,
+    44.835702,
+    -68.74226,
+    44.835702
+],
   "geometry": {"coordinates":[-68.74226,44.835702],"type":"Point"}
 }

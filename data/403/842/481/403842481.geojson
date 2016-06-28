@@ -2,13 +2,14 @@
   "id": 403842481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.358277,44.161694,-70.358277,44.161694",
     "geom:latitude":44.161694,
     "geom:longitude":-70.358277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Bradbury Hill Rd",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403842481,
-    "wof:lastmodified":1449054738,
+    "wof:lastmodified":1466586692,
     "wof:name":"Mazco Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-70.358277,44.161694,-70.358277,44.161694],
+  "bbox": [
+    -70.358277,
+    44.161694,
+    -70.358277,
+    44.161694
+],
   "geometry": {"coordinates":[-70.358277,44.161694],"type":"Point"}
 }

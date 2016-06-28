@@ -2,13 +2,14 @@
   "id": 403987793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.107741,43.869194,-70.107741,43.869194",
     "geom:latitude":43.869194,
     "geom:longitude":-70.107741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 True St",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403987793,
-    "wof:lastmodified":1449055379,
+    "wof:lastmodified":1466587247,
     "wof:name":"Pleasant Ridge Builders",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.107741,43.869194,-70.107741,43.869194],
+  "bbox": [
+    -70.107741,
+    43.869194,
+    -70.107741,
+    43.869194
+],
   "geometry": {"coordinates":[-70.107741,43.869194],"type":"Point"}
 }

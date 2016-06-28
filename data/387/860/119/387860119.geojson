@@ -2,13 +2,14 @@
   "id": 387860119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.879451,44.213361,-69.879451,44.213361",
     "geom:latitude":44.213361,
     "geom:longitude":-69.879451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Spears Corner Rd",
     "sg:city":"Gardiner",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387860119,
-    "wof:lastmodified":1449057799,
+    "wof:lastmodified":1466587179,
     "wof:name":"Certified Safety Consulta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-69.879451,44.213361,-69.879451,44.213361],
+  "bbox": [
+    -69.879451,
+    44.213361,
+    -69.879451,
+    44.213361
+],
   "geometry": {"coordinates":[-69.879451,44.213361],"type":"Point"}
 }

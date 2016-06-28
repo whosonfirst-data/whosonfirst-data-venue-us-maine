@@ -2,13 +2,14 @@
   "id": 403984001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.221686,44.073668,-70.221686,44.073668",
     "geom:latitude":44.073668,
     "geom:longitude":-70.221686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Louise St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403984001,
-    "wof:lastmodified":1449055386,
+    "wof:lastmodified":1466587082,
     "wof:name":"Us Allianz Securities",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.221686,44.073668,-70.221686,44.073668],
-  "geometry": {"coordinates":[-70.221686,44.073668],"type":"Point"}
+  "bbox": [
+    -70.221686,
+    44.073668,
+    -70.221686,
+    44.073668
+],
+  "geometry": {"coordinates":[-70.22168600000001,44.073668],"type":"Point"}
 }

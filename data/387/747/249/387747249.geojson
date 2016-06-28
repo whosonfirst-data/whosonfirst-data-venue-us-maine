@@ -2,13 +2,14 @@
   "id": 387747249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.632911,44.531874,-69.632911,44.531874",
     "geom:latitude":44.531874,
     "geom:longitude":-69.632911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Roy St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387747249,
-    "wof:lastmodified":1449056790,
+    "wof:lastmodified":1466586965,
     "wof:name":"Robert A Carignan DC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.632911,44.531874,-69.632911,44.531874],
-  "geometry": {"coordinates":[-69.632911,44.531874],"type":"Point"}
+  "bbox": [
+    -69.632911,
+    44.531874,
+    -69.632911,
+    44.531874
+],
+  "geometry": {"coordinates":[-69.63291099999999,44.531874],"type":"Point"}
 }

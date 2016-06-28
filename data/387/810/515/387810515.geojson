@@ -2,13 +2,14 @@
   "id": 387810515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.966397,45.000801,-68.966397,45.000801",
     "geom:latitude":45.000801,
     "geom:longitude":-68.966397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"374 Tate Rd",
     "sg:city":"East Corinth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387810515,
-    "wof:lastmodified":1449057203,
+    "wof:lastmodified":1466586992,
     "wof:name":"Mike Hatch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-68.966397,45.000801,-68.966397,45.000801],
+  "bbox": [
+    -68.966397,
+    45.000801,
+    -68.966397,
+    45.000801
+],
   "geometry": {"coordinates":[-68.966397,45.000801],"type":"Point"}
 }

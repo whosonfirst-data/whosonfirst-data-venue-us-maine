@@ -2,13 +2,14 @@
   "id": 387656501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.20504,44.104786,-70.20504,44.104786",
     "geom:latitude":44.104786,
     "geom:longitude":-70.20504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Campus Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387656501,
-    "wof:lastmodified":1449058591,
+    "wof:lastmodified":1466586067,
     "wof:name":"George & Helen Ladd Library",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.20504,44.104786,-70.20504,44.104786],
+  "bbox": [
+    -70.20504,
+    44.104786,
+    -70.20504,
+    44.104786
+],
   "geometry": {"coordinates":[-70.20504,44.104786],"type":"Point"}
 }

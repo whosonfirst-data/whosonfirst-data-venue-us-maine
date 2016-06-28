@@ -2,13 +2,14 @@
   "id": 403717211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.920506,44.460796,-68.920506,44.460796",
     "geom:latitude":44.460796,
     "geom:longitude":-68.920506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Union St",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403717211,
-    "wof:lastmodified":1449054653,
+    "wof:lastmodified":1466585825,
     "wof:name":"Pine Grove Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-68.920506,44.460796,-68.920506,44.460796],
+  "bbox": [
+    -68.920506,
+    44.460796,
+    -68.920506,
+    44.460796
+],
   "geometry": {"coordinates":[-68.920506,44.460796],"type":"Point"}
 }

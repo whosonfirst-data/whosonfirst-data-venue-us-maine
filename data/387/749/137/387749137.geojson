@@ -2,13 +2,14 @@
   "id": 387749137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.52655,44.5563,-70.52655,44.5563",
     "geom:latitude":44.5563,
     "geom:longitude":-70.52655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Highland Ter",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387749137,
-    "wof:lastmodified":1449057180,
+    "wof:lastmodified":1466586816,
     "wof:name":"Mountain Valley Middle School",
     "wof:parent_id":85844599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.52655,44.5563,-70.52655,44.5563],
+  "bbox": [
+    -70.52655,
+    44.5563,
+    -70.52655,
+    44.5563
+],
   "geometry": {"coordinates":[-70.52655,44.5563],"type":"Point"}
 }

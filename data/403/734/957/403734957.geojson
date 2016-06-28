@@ -2,13 +2,14 @@
   "id": 403734957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.253632,43.662014,-70.253632,43.662014",
     "geom:latitude":43.662014,
     "geom:longitude":-70.253632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Locust St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403734957,
-    "wof:lastmodified":1449055803,
+    "wof:lastmodified":1466586036,
     "wof:name":"Cathedral School",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.253632,43.662014,-70.253632,43.662014],
+  "bbox": [
+    -70.253632,
+    43.662014,
+    -70.253632,
+    43.662014
+],
   "geometry": {"coordinates":[-70.253632,43.662014],"type":"Point"}
 }

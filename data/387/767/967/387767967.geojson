@@ -2,13 +2,14 @@
   "id": 387767967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.542931,44.213792,-70.542931,44.213792",
     "geom:latitude":44.213792,
     "geom:longitude":-70.542931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Main St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387767967,
-    "wof:lastmodified":1449057186,
+    "wof:lastmodified":1466586959,
     "wof:name":"Life Safety Specialists",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "safety"
     ]
 },
-  "bbox": [-70.542931,44.213792,-70.542931,44.213792],
+  "bbox": [
+    -70.542931,
+    44.213792,
+    -70.542931,
+    44.213792
+],
   "geometry": {"coordinates":[-70.542931,44.213792],"type":"Point"}
 }

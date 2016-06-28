@@ -2,13 +2,14 @@
   "id": 403782239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.432445,44.555052,-68.432445,44.555052",
     "geom:latitude":44.555052,
     "geom:longitude":-68.432445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Western Ave",
     "sg:city":"Jonesport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403782239,
-    "wof:lastmodified":1449054621,
+    "wof:lastmodified":1466585710,
     "wof:name":"Look Ow & Bs Inc Packing",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "crating"
     ]
 },
-  "bbox": [-68.432445,44.555052,-68.432445,44.555052],
+  "bbox": [
+    -68.432445,
+    44.555052,
+    -68.432445,
+    44.555052
+],
   "geometry": {"coordinates":[-68.432445,44.555052],"type":"Point"}
 }

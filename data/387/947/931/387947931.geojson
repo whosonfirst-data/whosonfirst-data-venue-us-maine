@@ -2,13 +2,14 @@
   "id": 387947931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.77619,44.801172,-68.77619,44.801172",
     "geom:latitude":44.801172,
     "geom:longitude":-68.77619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387947931,
-    "wof:lastmodified":1449058868,
+    "wof:lastmodified":1466587289,
     "wof:name":"Mens Room The",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.77619,44.801172,-68.77619,44.801172],
+  "bbox": [
+    -68.77619,
+    44.801172,
+    -68.77619,
+    44.801172
+],
   "geometry": {"coordinates":[-68.77619,44.801172],"type":"Point"}
 }

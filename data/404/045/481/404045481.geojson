@@ -2,13 +2,14 @@
   "id": 404045481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.290636,43.710959,-70.290636,43.710959",
     "geom:latitude":43.710959,
     "geom:longitude":-70.290636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Christy Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404045481,
-    "wof:lastmodified":1449040181,
+    "wof:lastmodified":1466586192,
     "wof:name":"Richard A Profenno Heating",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.290636,43.710959,-70.290636,43.710959],
-  "geometry": {"coordinates":[-70.290636,43.710959],"type":"Point"}
+  "bbox": [
+    -70.290636,
+    43.710959,
+    -70.290636,
+    43.710959
+],
+  "geometry": {"coordinates":[-70.29063600000001,43.710959],"type":"Point"}
 }

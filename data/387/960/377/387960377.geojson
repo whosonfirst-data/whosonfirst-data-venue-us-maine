@@ -2,13 +2,14 @@
   "id": 387960377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.362528,43.675136,-70.362528,43.675136",
     "geom:latitude":43.675136,
     "geom:longitude":-70.362528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Spring St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387960377,
-    "wof:lastmodified":1449058844,
+    "wof:lastmodified":1466587298,
     "wof:name":"S & J Roofing",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.362528,43.675136,-70.362528,43.675136],
+  "bbox": [
+    -70.362528,
+    43.675136,
+    -70.362528,
+    43.675136
+],
   "geometry": {"coordinates":[-70.362528,43.675136],"type":"Point"}
 }

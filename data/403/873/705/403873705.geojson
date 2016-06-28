@@ -2,13 +2,14 @@
   "id": 403873705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.103232,44.119132,-69.103232,44.119132",
     "geom:latitude":44.119132,
     "geom:longitude":-69.103232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Philbrick Ave",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403873705,
-    "wof:lastmodified":1449054915,
+    "wof:lastmodified":1466586813,
     "wof:name":"Bit of Maine Communicat A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.103232,44.119132,-69.103232,44.119132],
-  "geometry": {"coordinates":[-69.103232,44.119132],"type":"Point"}
+  "bbox": [
+    -69.103232,
+    44.119132,
+    -69.103232,
+    44.119132
+],
+  "geometry": {"coordinates":[-69.10323200000001,44.119132],"type":"Point"}
 }

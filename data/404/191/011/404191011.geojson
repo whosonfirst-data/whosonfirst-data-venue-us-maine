@@ -2,13 +2,14 @@
   "id": 404191011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.48566,43.453604,-70.48566,43.453604",
     "geom:latitude":43.453604,
     "geom:longitude":-70.48566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Proctor Rd",
     "sg:city":"Arundel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404191011,
-    "wof:lastmodified":1449039838,
+    "wof:lastmodified":1466586890,
     "wof:name":"Port Cleaners LLC",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.48566,43.453604,-70.48566,43.453604],
+  "bbox": [
+    -70.48566,
+    43.453604,
+    -70.48566,
+    43.453604
+],
   "geometry": {"coordinates":[-70.48566,43.453604],"type":"Point"}
 }

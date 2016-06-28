@@ -2,13 +2,14 @@
   "id": 387565367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.840037,46.76817,-67.840037,46.76817",
     "geom:latitude":46.76817,
     "geom:longitude":-67.840037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 High School Dr",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387565367,
-    "wof:lastmodified":1449059581,
+    "wof:lastmodified":1466585833,
     "wof:name":"Students Baking A Living",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-67.840037,46.76817,-67.840037,46.76817],
+  "bbox": [
+    -67.840037,
+    46.76817,
+    -67.840037,
+    46.76817
+],
   "geometry": {"coordinates":[-67.840037,46.76817],"type":"Point"}
 }

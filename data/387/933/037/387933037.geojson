@@ -2,13 +2,14 @@
   "id": 387933037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.120378,44.047911,-70.120378,44.047911",
     "geom:latitude":44.047911,
     "geom:longitude":-70.120378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Lisbon St",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387933037,
-    "wof:lastmodified":1449056885,
+    "wof:lastmodified":1466587265,
     "wof:name":"Match Motors",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.120378,44.047911,-70.120378,44.047911],
+  "bbox": [
+    -70.120378,
+    44.047911,
+    -70.120378,
+    44.047911
+],
   "geometry": {"coordinates":[-70.120378,44.047911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387741743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.289549,43.680841,-70.289549,43.680841",
     "geom:latitude":43.680841,
     "geom:longitude":-70.289549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"955 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387741743,
-    "wof:lastmodified":1449056322,
+    "wof:lastmodified":1466586869,
     "wof:name":"Maine Wholesale Tire Inc",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-70.289549,43.680841,-70.289549,43.680841],
-  "geometry": {"coordinates":[-70.289549,43.680841],"type":"Point"}
+  "bbox": [
+    -70.289549,
+    43.680841,
+    -70.289549,
+    43.680841
+],
+  "geometry": {"coordinates":[-70.28954899999999,43.680841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403970565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.689294,44.474521,-69.689294,44.474521",
     "geom:latitude":44.474521,
     "geom:longitude":-69.689294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3535 W River Rd",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403970565,
-    "wof:lastmodified":1449055929,
+    "wof:lastmodified":1466587128,
     "wof:name":"Rainbow Valley Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.689294,44.474521,-69.689294,44.474521],
+  "bbox": [
+    -69.689294,
+    44.474521,
+    -69.689294,
+    44.474521
+],
   "geometry": {"coordinates":[-69.689294,44.474521],"type":"Point"}
 }

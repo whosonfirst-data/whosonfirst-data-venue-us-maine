@@ -2,13 +2,14 @@
   "id": 387760247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.773835,44.802207,-68.773835,44.802207",
     "geom:latitude":44.802207,
     "geom:longitude":-68.773835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Court St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387760247,
-    "wof:lastmodified":1449059775,
+    "wof:lastmodified":1466586930,
     "wof:name":"Maintenance",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.773835,44.802207,-68.773835,44.802207],
-  "geometry": {"coordinates":[-68.773835,44.802207],"type":"Point"}
+  "bbox": [
+    -68.773835,
+    44.802207,
+    -68.773835,
+    44.802207
+],
+  "geometry": {"coordinates":[-68.77383500000001,44.802207],"type":"Point"}
 }

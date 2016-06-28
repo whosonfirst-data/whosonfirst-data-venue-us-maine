@@ -2,13 +2,14 @@
   "id": 404020097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.516275,44.232743,-70.516275,44.232743",
     "geom:latitude":44.232743,
     "geom:longitude":-70.516275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Paris Promenade",
     "sg:city":"South Paris",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404020097,
-    "wof:lastmodified":1449039570,
+    "wof:lastmodified":1466586651,
     "wof:name":"Oxford County Extension Office",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.516275,44.232743,-70.516275,44.232743],
-  "geometry": {"coordinates":[-70.516275,44.232743],"type":"Point"}
+  "bbox": [
+    -70.516275,
+    44.232743,
+    -70.516275,
+    44.232743
+],
+  "geometry": {"coordinates":[-70.51627499999999,44.232743],"type":"Point"}
 }

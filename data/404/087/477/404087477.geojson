@@ -2,13 +2,14 @@
   "id": 404087477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.130145,43.880103,-70.130145,43.880103",
     "geom:latitude":43.880103,
     "geom:longitude":-70.130145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Bishop Farm Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404087477,
-    "wof:lastmodified":1449039562,
+    "wof:lastmodified":1466585830,
     "wof:name":"Enrico Construction",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-70.130145,43.880103,-70.130145,43.880103],
+  "bbox": [
+    -70.130145,
+    43.880103,
+    -70.130145,
+    43.880103
+],
   "geometry": {"coordinates":[-70.130145,43.880103],"type":"Point"}
 }

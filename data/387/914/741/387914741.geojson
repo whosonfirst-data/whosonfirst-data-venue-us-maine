@@ -2,13 +2,14 @@
   "id": 387914741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.064196,44.212516,-69.064196,44.212516",
     "geom:latitude":44.212516,
     "geom:longitude":-69.064196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 High St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387914741,
-    "wof:lastmodified":1449057559,
+    "wof:lastmodified":1466587325,
     "wof:name":"Windward House Bed & Breakfast",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-69.064196,44.212516,-69.064196,44.212516],
+  "bbox": [
+    -69.064196,
+    44.212516,
+    -69.064196,
+    44.212516
+],
   "geometry": {"coordinates":[-69.064196,44.212516],"type":"Point"}
 }

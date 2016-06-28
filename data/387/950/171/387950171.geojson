@@ -2,13 +2,14 @@
   "id": 387950171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.161261,44.101504,-70.161261,44.101504",
     "geom:latitude":44.101504,
     "geom:longitude":-70.161261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Sabattus St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387950171,
-    "wof:lastmodified":1449057590,
+    "wof:lastmodified":1466587198,
     "wof:name":"Dyno Power Of Maine",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "snowmobile"
     ]
 },
-  "bbox": [-70.161261,44.101504,-70.161261,44.101504],
+  "bbox": [
+    -70.161261,
+    44.101504,
+    -70.161261,
+    44.101504
+],
   "geometry": {"coordinates":[-70.161261,44.101504],"type":"Point"}
 }

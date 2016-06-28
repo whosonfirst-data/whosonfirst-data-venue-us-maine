@@ -2,13 +2,14 @@
   "id": 387723739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.335645,44.285902,-68.335645,44.285902",
     "geom:latitude":44.285902,
     "geom:longitude":-68.335645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 E Ridge Rd",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387723739,
-    "wof:lastmodified":1449058327,
+    "wof:lastmodified":1466586818,
     "wof:name":"Angela Leigh Inc",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-68.335645,44.285902,-68.335645,44.285902],
+  "bbox": [
+    -68.335645,
+    44.285902,
+    -68.335645,
+    44.285902
+],
   "geometry": {"coordinates":[-68.335645,44.285902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387870851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.353969,44.914618,-69.353969,44.914618",
     "geom:latitude":44.914618,
     "geom:longitude":-69.353969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Square Rd",
     "sg:city":"Saint Albans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387870851,
-    "wof:lastmodified":1449057102,
+    "wof:lastmodified":1466587205,
     "wof:name":"Moving Forward Farm",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-69.353969,44.914618,-69.353969,44.914618],
-  "geometry": {"coordinates":[-69.353969,44.914618],"type":"Point"}
+  "bbox": [
+    -69.353969,
+    44.914618,
+    -69.353969,
+    44.914618
+],
+  "geometry": {"coordinates":[-69.35396900000001,44.914618],"type":"Point"}
 }

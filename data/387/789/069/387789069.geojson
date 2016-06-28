@@ -2,13 +2,14 @@
   "id": 387789069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.059811,43.997979,-70.059811,43.997979",
     "geom:latitude":43.997979,
     "geom:longitude":-70.059811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Main St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387789069,
-    "wof:lastmodified":1449057818,
+    "wof:lastmodified":1466587005,
     "wof:name":"Lisbon Falls Fire Station",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-70.059811,43.997979,-70.059811,43.997979],
+  "bbox": [
+    -70.059811,
+    43.997979,
+    -70.059811,
+    43.997979
+],
   "geometry": {"coordinates":[-70.059811,43.997979],"type":"Point"}
 }

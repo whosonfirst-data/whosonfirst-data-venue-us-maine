@@ -2,13 +2,14 @@
   "id": 403836627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.255689,43.668434,-70.255689,43.668434",
     "geom:latitude":43.668434,
     "geom:longitude":-70.255689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Anderson St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403836627,
-    "wof:lastmodified":1449055500,
+    "wof:lastmodified":1466586542,
     "wof:name":"MEYERSPHOTO.COM",
     "wof:parent_id":85880023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-70.255689,43.668434,-70.255689,43.668434],
+  "bbox": [
+    -70.255689,
+    43.668434,
+    -70.255689,
+    43.668434
+],
   "geometry": {"coordinates":[-70.255689,43.668434],"type":"Point"}
 }

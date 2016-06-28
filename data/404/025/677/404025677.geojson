@@ -2,13 +2,14 @@
   "id": 404025677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.210337,43.580864,-70.210337,43.580864",
     "geom:latitude":43.580864,
     "geom:longitude":-70.210337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Katahdin Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404025677,
-    "wof:lastmodified":1449040115,
+    "wof:lastmodified":1466585961,
     "wof:name":"Dirigo Financial Group",
     "wof:parent_id":85867971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "financial"
     ]
 },
-  "bbox": [-70.210337,43.580864,-70.210337,43.580864],
+  "bbox": [
+    -70.210337,
+    43.580864,
+    -70.210337,
+    43.580864
+],
   "geometry": {"coordinates":[-70.210337,43.580864],"type":"Point"}
 }

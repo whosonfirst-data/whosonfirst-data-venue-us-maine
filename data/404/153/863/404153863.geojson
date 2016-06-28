@@ -2,13 +2,14 @@
   "id": 404153863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.331284,43.70184,-70.331284,43.70184",
     "geom:latitude":43.70184,
     "geom:longitude":-70.331284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Crestwood Dr",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404153863,
-    "wof:lastmodified":1449039956,
+    "wof:lastmodified":1466586851,
     "wof:name":"Unity Services",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-70.331284,43.70184,-70.331284,43.70184],
+  "bbox": [
+    -70.331284,
+    43.70184,
+    -70.331284,
+    43.70184
+],
   "geometry": {"coordinates":[-70.331284,43.70184],"type":"Point"}
 }

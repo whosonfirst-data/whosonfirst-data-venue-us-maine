@@ -2,13 +2,14 @@
   "id": 387905217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.235227,44.125806,-70.235227,44.125806",
     "geom:latitude":44.125806,
     "geom:longitude":-70.235227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Gracelawn Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387905217,
-    "wof:lastmodified":1449057595,
+    "wof:lastmodified":1466587240,
     "wof:name":"St Dominic Regional High Schl",
     "wof:parent_id":85815921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.235227,44.125806,-70.235227,44.125806],
-  "geometry": {"coordinates":[-70.235227,44.125806],"type":"Point"}
+  "bbox": [
+    -70.235227,
+    44.125806,
+    -70.235227,
+    44.125806
+],
+  "geometry": {"coordinates":[-70.23522699999999,44.125806],"type":"Point"}
 }

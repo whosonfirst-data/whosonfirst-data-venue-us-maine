@@ -2,13 +2,14 @@
   "id": 387700887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.001448,44.419304,-70.001448,44.419304",
     "geom:latitude":44.419304,
     "geom:longitude":-70.001448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"247 Chimney Rd",
     "sg:city":"Readfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387700887,
-    "wof:lastmodified":1449059586,
+    "wof:lastmodified":1466586853,
     "wof:name":"Meadow View Equestrian Ctr",
     "wof:parent_id":85855973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-70.001448,44.419304,-70.001448,44.419304],
+  "bbox": [
+    -70.001448,
+    44.419304,
+    -70.001448,
+    44.419304
+],
   "geometry": {"coordinates":[-70.001448,44.419304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387743819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.421086,44.542443,-68.421086,44.542443",
     "geom:latitude":44.542443,
     "geom:longitude":-68.421086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Main St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387743819,
-    "wof:lastmodified":1449059898,
+    "wof:lastmodified":1466586779,
     "wof:name":"Blaisdell & Blaisdell",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-68.421086,44.542443,-68.421086,44.542443],
+  "bbox": [
+    -68.421086,
+    44.542443,
+    -68.421086,
+    44.542443
+],
   "geometry": {"coordinates":[-68.421086,44.542443],"type":"Point"}
 }

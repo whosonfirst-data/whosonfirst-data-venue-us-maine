@@ -2,13 +2,14 @@
   "id": 387730223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.626336,44.217837,-70.626336,44.217837",
     "geom:latitude":44.217837,
     "geom:longitude":-70.626336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Yagger Rd",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387730223,
-    "wof:lastmodified":1449059310,
+    "wof:lastmodified":1466586835,
     "wof:name":"New England Timeshare Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.626336,44.217837,-70.626336,44.217837],
-  "geometry": {"coordinates":[-70.626336,44.217837],"type":"Point"}
+  "bbox": [
+    -70.626336,
+    44.217837,
+    -70.626336,
+    44.217837
+],
+  "geometry": {"coordinates":[-70.62633599999999,44.217837],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403987451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.89082,43.806893,-70.89082,43.806893",
     "geom:latitude":43.806893,
     "geom:longitude":-70.89082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Ossipee Trl",
     "sg:city":"Limington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403987451,
-    "wof:lastmodified":1449055378,
+    "wof:lastmodified":1466587247,
     "wof:name":"Kids Culture Child Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.89082,43.806893,-70.89082,43.806893],
-  "geometry": {"coordinates":[-70.89082,43.806893],"type":"Point"}
+  "bbox": [
+    -70.89082,
+    43.806893,
+    -70.89082,
+    43.806893
+],
+  "geometry": {"coordinates":[-70.89082000000001,43.806893],"type":"Point"}
 }

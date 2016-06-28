@@ -2,13 +2,14 @@
   "id": 403840967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.376976,43.52743,-70.376976,43.52743",
     "geom:latitude":43.52743,
     "geom:longitude":-70.376976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Portland Ave",
     "sg:city":"Old Orchard Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403840967,
-    "wof:lastmodified":1449055669,
+    "wof:lastmodified":1466586683,
     "wof:name":"Aro of North America Inc",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.376976,43.52743,-70.376976,43.52743],
+  "bbox": [
+    -70.376976,
+    43.52743,
+    -70.376976,
+    43.52743
+],
   "geometry": {"coordinates":[-70.376976,43.52743],"type":"Point"}
 }

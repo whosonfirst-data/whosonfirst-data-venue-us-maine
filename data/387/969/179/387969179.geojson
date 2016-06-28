@@ -2,13 +2,14 @@
   "id": 387969179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.022185,43.970254,-70.022185,43.970254",
     "geom:latitude":43.970254,
     "geom:longitude":-70.022185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Old Lisbon Rd",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387969179,
-    "wof:lastmodified":1449057018,
+    "wof:lastmodified":1466587303,
     "wof:name":"Coastal Metal Fab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "removal"
     ]
 },
-  "bbox": [-70.022185,43.970254,-70.022185,43.970254],
-  "geometry": {"coordinates":[-70.022185,43.970254],"type":"Point"}
+  "bbox": [
+    -70.022185,
+    43.970254,
+    -70.022185,
+    43.970254
+],
+  "geometry": {"coordinates":[-70.02218499999999,43.970254],"type":"Point"}
 }

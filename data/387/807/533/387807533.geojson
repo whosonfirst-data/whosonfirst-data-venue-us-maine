@@ -2,13 +2,14 @@
   "id": 387807533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.259259,43.65371,-70.259259,43.65371",
     "geom:latitude":43.65371,
     "geom:longitude":-70.259259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Pleasant St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387807533,
-    "wof:lastmodified":1449057077,
+    "wof:lastmodified":1466586982,
     "wof:name":"Ann Cox",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "worker"
     ]
 },
-  "bbox": [-70.259259,43.65371,-70.259259,43.65371],
+  "bbox": [
+    -70.259259,
+    43.65371,
+    -70.259259,
+    43.65371
+],
   "geometry": {"coordinates":[-70.259259,43.65371],"type":"Point"}
 }

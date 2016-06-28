@@ -2,13 +2,14 @@
   "id": 387878205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252656,43.636438,-70.252656,43.636438",
     "geom:latitude":43.636438,
     "geom:longitude":-70.252656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Ocean St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387878205,
-    "wof:lastmodified":1449058097,
+    "wof:lastmodified":1466587293,
     "wof:name":"Harold Steinberg Assoc",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-70.252656,43.636438,-70.252656,43.636438],
+  "bbox": [
+    -70.252656,
+    43.636438,
+    -70.252656,
+    43.636438
+],
   "geometry": {"coordinates":[-70.252656,43.636438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387969769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.99271,43.80727,-69.99271,43.80727",
     "geom:latitude":43.80727,
     "geom:longitude":-69.99271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Lookout Point Rd",
     "sg:city":"Harpswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387969769,
-    "wof:lastmodified":1449057015,
+    "wof:lastmodified":1466587309,
     "wof:name":"Harpswell Inn",
     "wof:parent_id":85837691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-69.99271,43.80727,-69.99271,43.80727],
+  "bbox": [
+    -69.99271,
+    43.80727,
+    -69.99271,
+    43.80727
+],
   "geometry": {"coordinates":[-69.99271,43.80727],"type":"Point"}
 }

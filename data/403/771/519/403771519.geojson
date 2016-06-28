@@ -2,13 +2,14 @@
   "id": 403771519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.639873,43.14082,-70.639873,43.14082",
     "geom:latitude":43.14082,
     "geom:longitude":-70.639873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Woodbridge Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403771519,
-    "wof:lastmodified":1449055359,
+    "wof:lastmodified":1466586556,
     "wof:name":"Little Acorn Nursery School",
     "wof:parent_id":85859383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-70.639873,43.14082,-70.639873,43.14082],
-  "geometry": {"coordinates":[-70.639873,43.14082],"type":"Point"}
+  "bbox": [
+    -70.639873,
+    43.14082,
+    -70.639873,
+    43.14082
+],
+  "geometry": {"coordinates":[-70.63987299999999,43.14082],"type":"Point"}
 }

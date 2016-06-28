@@ -2,13 +2,14 @@
   "id": 387854421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.39222,44.117104,-70.39222,44.117104",
     "geom:latitude":44.117104,
     "geom:longitude":-70.39222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 N Main St",
     "sg:city":"Mechanic Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387854421,
-    "wof:lastmodified":1449059778,
+    "wof:lastmodified":1466587169,
     "wof:name":"John Murphy Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-70.39222,44.117104,-70.39222,44.117104],
-  "geometry": {"coordinates":[-70.39222,44.117104],"type":"Point"}
+  "bbox": [
+    -70.39222,
+    44.117104,
+    -70.39222,
+    44.117104
+],
+  "geometry": {"coordinates":[-70.39221999999999,44.117104],"type":"Point"}
 }

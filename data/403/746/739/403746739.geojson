@@ -2,13 +2,14 @@
   "id": 403746739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.974275,44.429452,-68.974275,44.429452",
     "geom:latitude":44.429452,
     "geom:longitude":-68.974275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"191 Searsport Ave",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403746739,
-    "wof:lastmodified":1449054613,
+    "wof:lastmodified":1466586159,
     "wof:name":"Moorings Campground",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-68.974275,44.429452,-68.974275,44.429452],
-  "geometry": {"coordinates":[-68.974275,44.429452],"type":"Point"}
+  "bbox": [
+    -68.974275,
+    44.429452,
+    -68.974275,
+    44.429452
+],
+  "geometry": {"coordinates":[-68.97427500000001,44.429452],"type":"Point"}
 }

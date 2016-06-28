@@ -2,13 +2,14 @@
   "id": 404157965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.989385,45.245705,-68.989385,45.245705",
     "geom:latitude":45.245705,
     "geom:longitude":-68.989385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Gould St",
     "sg:city":"Milo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404157965,
-    "wof:lastmodified":1449040150,
+    "wof:lastmodified":1466586862,
     "wof:name":"Lewis P Valente",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-68.989385,45.245705,-68.989385,45.245705],
+  "bbox": [
+    -68.989385,
+    45.245705,
+    -68.989385,
+    45.245705
+],
   "geometry": {"coordinates":[-68.989385,45.245705],"type":"Point"}
 }

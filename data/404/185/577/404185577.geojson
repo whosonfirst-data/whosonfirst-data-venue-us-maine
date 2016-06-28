@@ -2,13 +2,14 @@
   "id": 404185577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.817677,44.787971,-68.817677,44.787971",
     "geom:latitude":44.787971,
     "geom:longitude":-68.817677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404185577,
-    "wof:lastmodified":1449039233,
+    "wof:lastmodified":1466586768,
     "wof:name":"Judy C Collier",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-68.817677,44.787971,-68.817677,44.787971],
+  "bbox": [
+    -68.817677,
+    44.787971,
+    -68.817677,
+    44.787971
+],
   "geometry": {"coordinates":[-68.817677,44.787971],"type":"Point"}
 }

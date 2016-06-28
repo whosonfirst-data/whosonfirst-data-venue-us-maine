@@ -2,13 +2,14 @@
   "id": 403852791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.110351,44.112361,-69.110351,44.112361",
     "geom:latitude":44.112361,
     "geom:longitude":-69.110351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rockland St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403852791,
-    "wof:lastmodified":1449055750,
+    "wof:lastmodified":1466586653,
     "wof:name":"Wendameen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boat"
     ]
 },
-  "bbox": [-69.110351,44.112361,-69.110351,44.112361],
-  "geometry": {"coordinates":[-69.110351,44.112361],"type":"Point"}
+  "bbox": [
+    -69.110351,
+    44.112361,
+    -69.110351,
+    44.112361
+],
+  "geometry": {"coordinates":[-69.11035099999999,44.112361],"type":"Point"}
 }

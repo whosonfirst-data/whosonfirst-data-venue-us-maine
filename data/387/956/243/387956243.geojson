@@ -2,13 +2,14 @@
   "id": 387956243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.767199,43.434286,-70.767199,43.434286",
     "geom:latitude":43.434286,
     "geom:longitude":-70.767199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 School St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387956243,
-    "wof:lastmodified":1449056748,
+    "wof:lastmodified":1466587338,
     "wof:name":"Selena Brock Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-70.767199,43.434286,-70.767199,43.434286],
-  "geometry": {"coordinates":[-70.767199,43.434286],"type":"Point"}
+  "bbox": [
+    -70.767199,
+    43.434286,
+    -70.767199,
+    43.434286
+],
+  "geometry": {"coordinates":[-70.76719900000001,43.434286],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387831817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.710347,44.815323,-68.710347,44.815323",
     "geom:latitude":44.815323,
     "geom:longitude":-68.710347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Day Rd",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387831817,
-    "wof:lastmodified":1449058336,
+    "wof:lastmodified":1466587208,
     "wof:name":"Alton Buck",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.710347,44.815323,-68.710347,44.815323],
+  "bbox": [
+    -68.710347,
+    44.815323,
+    -68.710347,
+    44.815323
+],
   "geometry": {"coordinates":[-68.710347,44.815323],"type":"Point"}
 }

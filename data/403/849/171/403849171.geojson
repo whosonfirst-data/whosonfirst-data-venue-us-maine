@@ -2,13 +2,14 @@
   "id": 403849171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.818578,44.788174,-68.818578,44.788174",
     "geom:latitude":44.788174,
     "geom:longitude":-68.818578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403849171,
-    "wof:lastmodified":1449054882,
+    "wof:lastmodified":1466586709,
     "wof:name":"Tire Warehouse",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-68.818578,44.788174,-68.818578,44.788174],
+  "bbox": [
+    -68.818578,
+    44.788174,
+    -68.818578,
+    44.788174
+],
   "geometry": {"coordinates":[-68.818578,44.788174],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403798163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.510329,44.536131,-70.510329,44.536131",
     "geom:latitude":44.536131,
     "geom:longitude":-70.510329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"344 River Rd",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403798163,
-    "wof:lastmodified":1449054887,
+    "wof:lastmodified":1466585916,
     "wof:name":"Aulenback Trucking Inc",
     "wof:parent_id":85814509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-70.510329,44.536131,-70.510329,44.536131],
+  "bbox": [
+    -70.510329,
+    44.536131,
+    -70.510329,
+    44.536131
+],
   "geometry": {"coordinates":[-70.510329,44.536131],"type":"Point"}
 }

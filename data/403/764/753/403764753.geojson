@@ -2,13 +2,14 @@
   "id": 403764753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.006106,44.428438,-69.006106,44.428438",
     "geom:latitude":44.428438,
     "geom:longitude":-69.006106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Front St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403764753,
-    "wof:lastmodified":1449055885,
+    "wof:lastmodified":1466586476,
     "wof:name":"Mac Gregor Mill Systems",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-69.006106,44.428438,-69.006106,44.428438],
+  "bbox": [
+    -69.006106,
+    44.428438,
+    -69.006106,
+    44.428438
+],
   "geometry": {"coordinates":[-69.006106,44.428438],"type":"Point"}
 }

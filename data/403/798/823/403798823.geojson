@@ -2,13 +2,14 @@
   "id": 403798823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.855065,43.272807,-70.855065,43.272807",
     "geom:latitude":43.272807,
     "geom:longitude":-70.855065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Old Pine Hill Rd",
     "sg:city":"Berwick",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403798823,
-    "wof:lastmodified":1449054886,
+    "wof:lastmodified":1466585928,
     "wof:name":"Berwick Paintball",
     "wof:parent_id":85892311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "ball"
     ]
 },
-  "bbox": [-70.855065,43.272807,-70.855065,43.272807],
+  "bbox": [
+    -70.855065,
+    43.272807,
+    -70.855065,
+    43.272807
+],
   "geometry": {"coordinates":[-70.855065,43.272807],"type":"Point"}
 }

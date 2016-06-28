@@ -2,13 +2,14 @@
   "id": 404118307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.971938,43.914971,-69.971938,43.914971",
     "geom:latitude":43.914971,
     "geom:longitude":-69.971938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Cushing St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404118307,
-    "wof:lastmodified":1449040069,
+    "wof:lastmodified":1466586268,
     "wof:name":"Beach Day Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-69.971938,43.914971,-69.971938,43.914971],
-  "geometry": {"coordinates":[-69.971938,43.914971],"type":"Point"}
+  "bbox": [
+    -69.971938,
+    43.914971,
+    -69.971938,
+    43.914971
+],
+  "geometry": {"coordinates":[-69.97193799999999,43.914971],"type":"Point"}
 }

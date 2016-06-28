@@ -2,13 +2,14 @@
   "id": 403842965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.320987,43.702005,-70.320987,43.702005",
     "geom:latitude":43.702005,
     "geom:longitude":-70.320987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 Riverside St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403842965,
-    "wof:lastmodified":1449054736,
+    "wof:lastmodified":1466586634,
     "wof:name":"K D Landscaping Co",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.320987,43.702005,-70.320987,43.702005],
+  "bbox": [
+    -70.320987,
+    43.702005,
+    -70.320987,
+    43.702005
+],
   "geometry": {"coordinates":[-70.320987,43.702005],"type":"Point"}
 }

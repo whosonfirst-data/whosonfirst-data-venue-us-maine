@@ -2,13 +2,14 @@
   "id": 403938743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.630624,43.14111,-70.630624,43.14111",
     "geom:latitude":43.14111,
     "geom:longitude":-70.630624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Glenn Ln",
     "sg:city":"York",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403938743,
-    "wof:lastmodified":1449055616,
+    "wof:lastmodified":1466586943,
     "wof:name":"Meramec Group",
     "wof:parent_id":85859383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.630624,43.14111,-70.630624,43.14111],
+  "bbox": [
+    -70.630624,
+    43.14111,
+    -70.630624,
+    43.14111
+],
   "geometry": {"coordinates":[-70.630624,43.14111],"type":"Point"}
 }

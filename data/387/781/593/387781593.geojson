@@ -2,13 +2,14 @@
   "id": 387781593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.433211,43.435545,-70.433211,43.435545",
     "geom:latitude":43.435545,
     "geom:longitude":-70.433211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 High Pine Dr",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387781593,
-    "wof:lastmodified":1449056815,
+    "wof:lastmodified":1466587091,
     "wof:name":"Petes Lunch",
     "wof:parent_id":85836907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-70.433211,43.435545,-70.433211,43.435545],
+  "bbox": [
+    -70.433211,
+    43.435545,
+    -70.433211,
+    43.435545
+],
   "geometry": {"coordinates":[-70.433211,43.435545],"type":"Point"}
 }

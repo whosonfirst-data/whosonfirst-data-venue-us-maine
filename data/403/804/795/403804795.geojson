@@ -2,13 +2,14 @@
   "id": 403804795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.417891,44.533016,-68.417891,44.533016",
     "geom:latitude":44.533016,
     "geom:longitude":-68.417891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Foster St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403804795,
-    "wof:lastmodified":1449055535,
+    "wof:lastmodified":1466586023,
     "wof:name":"Next Step",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [-68.417891,44.533016,-68.417891,44.533016],
+  "bbox": [
+    -68.417891,
+    44.533016,
+    -68.417891,
+    44.533016
+],
   "geometry": {"coordinates":[-68.417891,44.533016],"type":"Point"}
 }

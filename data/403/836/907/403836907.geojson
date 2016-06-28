@@ -2,13 +2,14 @@
   "id": 403836907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.533719,43.391134,-70.533719,43.391134",
     "geom:latitude":43.391134,
     "geom:longitude":-70.533719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Penny Ln",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403836907,
-    "wof:lastmodified":1449055500,
+    "wof:lastmodified":1466586548,
     "wof:name":"Associates Sunrise",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-70.533719,43.391134,-70.533719,43.391134],
+  "bbox": [
+    -70.533719,
+    43.391134,
+    -70.533719,
+    43.391134
+],
   "geometry": {"coordinates":[-70.533719,43.391134],"type":"Point"}
 }

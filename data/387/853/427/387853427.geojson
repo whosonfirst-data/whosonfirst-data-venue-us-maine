@@ -2,13 +2,14 @@
   "id": 387853427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.834785,44.930621,-69.834785,44.930621",
     "geom:latitude":44.930621,
     "geom:longitude":-69.834785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"394 Lakewood Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387853427,
-    "wof:lastmodified":1449057643,
+    "wof:lastmodified":1466587162,
     "wof:name":"Kirbys Karaoke Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.834785,44.930621,-69.834785,44.930621],
+  "bbox": [
+    -69.834785,
+    44.930621,
+    -69.834785,
+    44.930621
+],
   "geometry": {"coordinates":[-69.834785,44.930621],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387625957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.450254,43.518847,-70.450254,43.518847",
     "geom:latitude":43.518847,
     "geom:longitude":-70.450254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Industrial Park Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387625957,
-    "wof:lastmodified":1449059980,
+    "wof:lastmodified":1466586633,
     "wof:name":"Barlo Signs",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialty"
     ]
 },
-  "bbox": [-70.450254,43.518847,-70.450254,43.518847],
+  "bbox": [
+    -70.450254,
+    43.518847,
+    -70.450254,
+    43.518847
+],
   "geometry": {"coordinates":[-70.450254,43.518847],"type":"Point"}
 }

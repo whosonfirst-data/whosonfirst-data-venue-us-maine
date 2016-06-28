@@ -2,13 +2,14 @@
   "id": 387847897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.187841,44.472545,-70.187841,44.472545",
     "geom:latitude":44.472545,
     "geom:longitude":-70.187841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Depot St",
     "sg:city":"Livermore Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387847897,
-    "wof:lastmodified":1449057482,
+    "wof:lastmodified":1466587155,
     "wof:name":"Extreme Martial Arts Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instruction"
     ]
 },
-  "bbox": [-70.187841,44.472545,-70.187841,44.472545],
-  "geometry": {"coordinates":[-70.187841,44.472545],"type":"Point"}
+  "bbox": [
+    -70.187841,
+    44.472545,
+    -70.187841,
+    44.472545
+],
+  "geometry": {"coordinates":[-70.18784100000001,44.472545],"type":"Point"}
 }

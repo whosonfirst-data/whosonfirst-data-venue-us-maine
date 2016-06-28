@@ -2,13 +2,14 @@
   "id": 404022545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.457377,43.937268,-70.457377,43.937268",
     "geom:latitude":43.937268,
     "geom:longitude":-70.457377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Lloyds Ln",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404022545,
-    "wof:lastmodified":1449039411,
+    "wof:lastmodified":1466585928,
     "wof:name":"Maine Tainers Property Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.457377,43.937268,-70.457377,43.937268],
-  "geometry": {"coordinates":[-70.457377,43.937268],"type":"Point"}
+  "bbox": [
+    -70.457377,
+    43.937268,
+    -70.457377,
+    43.937268
+],
+  "geometry": {"coordinates":[-70.45737699999999,43.937268],"type":"Point"}
 }

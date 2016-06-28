@@ -2,13 +2,14 @@
   "id": 403952145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.839706,46.132748,-67.839706,46.132748",
     "geom:latitude":46.132748,
     "geom:longitude":-67.839706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 North St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403952145,
-    "wof:lastmodified":1449055568,
+    "wof:lastmodified":1466587070,
     "wof:name":"Stephen Johnson DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-67.839706,46.132748,-67.839706,46.132748],
-  "geometry": {"coordinates":[-67.839706,46.132748],"type":"Point"}
+  "bbox": [
+    -67.839706,
+    46.132748,
+    -67.839706,
+    46.132748
+],
+  "geometry": {"coordinates":[-67.83970600000001,46.132748],"type":"Point"}
 }

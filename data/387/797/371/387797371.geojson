@@ -2,13 +2,14 @@
   "id": 387797371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.333073,47.351634,-68.333073,47.351634",
     "geom:latitude":47.351634,
     "geom:longitude":-68.333073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 13th Ave",
     "sg:city":"Madawaska",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387797371,
-    "wof:lastmodified":1449059541,
+    "wof:lastmodified":1466587113,
     "wof:name":"Paul's Steam Cleaning",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-68.333073,47.351634,-68.333073,47.351634],
+  "bbox": [
+    -68.333073,
+    47.351634,
+    -68.333073,
+    47.351634
+],
   "geometry": {"coordinates":[-68.333073,47.351634],"type":"Point"}
 }

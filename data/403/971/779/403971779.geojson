@@ -2,13 +2,14 @@
   "id": 403971779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.752924,43.157859,-70.752924,43.157859",
     "geom:latitude":43.157859,
     "geom:longitude":-70.752924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Frost Hill Rd",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403971779,
-    "wof:lastmodified":1449055319,
+    "wof:lastmodified":1466587045,
     "wof:name":"Gbl Enterprises Inc",
     "wof:parent_id":85816255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.752924,43.157859,-70.752924,43.157859],
-  "geometry": {"coordinates":[-70.752924,43.157859],"type":"Point"}
+  "bbox": [
+    -70.752924,
+    43.157859,
+    -70.752924,
+    43.157859
+],
+  "geometry": {"coordinates":[-70.75292399999999,43.157859],"type":"Point"}
 }

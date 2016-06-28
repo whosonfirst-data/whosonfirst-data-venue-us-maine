@@ -2,13 +2,14 @@
   "id": 403960245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.385944,44.109872,-70.385944,44.109872",
     "geom:latitude":44.109872,
     "geom:longitude":-70.385944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Grove St",
     "sg:city":"Mechanic Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403960245,
-    "wof:lastmodified":1449055565,
+    "wof:lastmodified":1466586994,
     "wof:name":"Saint Marys Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.385944,44.109872,-70.385944,44.109872],
-  "geometry": {"coordinates":[-70.385944,44.109872],"type":"Point"}
+  "bbox": [
+    -70.385944,
+    44.109872,
+    -70.385944,
+    44.109872
+],
+  "geometry": {"coordinates":[-70.38594399999999,44.109872],"type":"Point"}
 }

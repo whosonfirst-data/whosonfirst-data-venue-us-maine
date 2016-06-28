@@ -2,13 +2,14 @@
   "id": 387552095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.946611,43.478749,-70.946611,43.478749",
     "geom:latitude":43.478749,
     "geom:longitude":-70.946611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Foxes Ridge Rd",
     "sg:city":"Acton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387552095,
-    "wof:lastmodified":1449057697,
+    "wof:lastmodified":1466585686,
     "wof:name":"Neal Beckerman Antiques Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-70.946611,43.478749,-70.946611,43.478749],
+  "bbox": [
+    -70.946611,
+    43.478749,
+    -70.946611,
+    43.478749
+],
   "geometry": {"coordinates":[-70.946611,43.478749],"type":"Point"}
 }

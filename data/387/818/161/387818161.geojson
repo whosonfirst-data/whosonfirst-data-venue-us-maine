@@ -2,13 +2,14 @@
   "id": 387818161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.818463,44.41146,-70.818463,44.41146",
     "geom:latitude":44.41146,
     "geom:longitude":-70.818463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 W Bethel Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387818161,
-    "wof:lastmodified":1449057949,
+    "wof:lastmodified":1466587102,
     "wof:name":"Rebel Family Restaurant",
     "wof:parent_id":85833087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "out"
     ]
 },
-  "bbox": [-70.818463,44.41146,-70.818463,44.41146],
-  "geometry": {"coordinates":[-70.818463,44.41146],"type":"Point"}
+  "bbox": [
+    -70.818463,
+    44.41146,
+    -70.818463,
+    44.41146
+],
+  "geometry": {"coordinates":[-70.81846299999999,44.41146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404061491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.332179,44.373754,-68.332179,44.373754",
     "geom:latitude":44.373754,
     "geom:longitude":-68.332179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1049 Main St",
     "sg:city":"Mt Desert",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404061491,
-    "wof:lastmodified":1449039987,
+    "wof:lastmodified":1466586459,
     "wof:name":"Pamela J Smith",
     "wof:parent_id":85849305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-68.332179,44.373754,-68.332179,44.373754],
+  "bbox": [
+    -68.332179,
+    44.373754,
+    -68.332179,
+    44.373754
+],
   "geometry": {"coordinates":[-68.332179,44.373754],"type":"Point"}
 }

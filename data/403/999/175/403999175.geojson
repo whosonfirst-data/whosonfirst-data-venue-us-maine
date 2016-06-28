@@ -2,13 +2,14 @@
   "id": 403999175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.956084,44.333828,-68.956084,44.333828",
     "geom:latitude":44.333828,
     "geom:longitude":-68.956084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Cliff Rd",
     "sg:city":"Lincolnville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403999175,
-    "wof:lastmodified":1449055812,
+    "wof:lastmodified":1466587111,
     "wof:name":"Cove Writers Inc",
     "wof:parent_id":85804909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "writer"
     ]
 },
-  "bbox": [-68.956084,44.333828,-68.956084,44.333828],
+  "bbox": [
+    -68.956084,
+    44.333828,
+    -68.956084,
+    44.333828
+],
   "geometry": {"coordinates":[-68.956084,44.333828],"type":"Point"}
 }

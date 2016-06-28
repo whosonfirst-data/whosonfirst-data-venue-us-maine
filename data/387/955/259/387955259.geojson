@@ -2,13 +2,14 @@
   "id": 387955259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.340963,43.613217,-70.340963,43.613217",
     "geom:latitude":43.613217,
     "geom:longitude":-70.340963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Gorham Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387955259,
-    "wof:lastmodified":1449058751,
+    "wof:lastmodified":1466587337,
     "wof:name":"Nonesuch Machining & Welding",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-70.340963,43.613217,-70.340963,43.613217],
+  "bbox": [
+    -70.340963,
+    43.613217,
+    -70.340963,
+    43.613217
+],
   "geometry": {"coordinates":[-70.340963,43.613217],"type":"Point"}
 }

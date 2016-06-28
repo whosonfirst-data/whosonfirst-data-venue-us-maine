@@ -2,13 +2,14 @@
   "id": 404041191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.983891,44.861473,-66.983891,44.861473",
     "geom:latitude":44.861473,
     "geom:longitude":-66.983891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Main St",
     "sg:city":"Deer Isle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404041191,
-    "wof:lastmodified":1449039455,
+    "wof:lastmodified":1466586100,
     "wof:name":"Deer Isle Photo Studio",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photography"
     ]
 },
-  "bbox": [-66.983891,44.861473,-66.983891,44.861473],
+  "bbox": [
+    -66.983891,
+    44.861473,
+    -66.983891,
+    44.861473
+],
   "geometry": {"coordinates":[-66.983891,44.861473],"type":"Point"}
 }

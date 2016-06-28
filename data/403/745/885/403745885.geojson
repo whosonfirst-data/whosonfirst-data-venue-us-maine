@@ -2,13 +2,14 @@
   "id": 403745885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.617497,44.338599,-70.617497,44.338599",
     "geom:latitude":44.338599,
     "geom:longitude":-70.617497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Heath Ln",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403745885,
-    "wof:lastmodified":1449055890,
+    "wof:lastmodified":1466586142,
     "wof:name":"Heath Auto Svc",
     "wof:parent_id":85831117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.617497,44.338599,-70.617497,44.338599],
+  "bbox": [
+    -70.617497,
+    44.338599,
+    -70.617497,
+    44.338599
+],
   "geometry": {"coordinates":[-70.617497,44.338599],"type":"Point"}
 }

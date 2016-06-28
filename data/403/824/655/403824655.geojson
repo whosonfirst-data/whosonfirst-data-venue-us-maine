@@ -2,13 +2,14 @@
   "id": 403824655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.091901,43.890247,-70.091901,43.890247",
     "geom:latitude":43.890247,
     "geom:longitude":-70.091901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Jackson Blvd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403824655,
-    "wof:lastmodified":1449055099,
+    "wof:lastmodified":1466586341,
     "wof:name":"Atlantic Tent Co",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camping"
     ]
 },
-  "bbox": [-70.091901,43.890247,-70.091901,43.890247],
-  "geometry": {"coordinates":[-70.091901,43.890247],"type":"Point"}
+  "bbox": [
+    -70.091901,
+    43.890247,
+    -70.091901,
+    43.890247
+],
+  "geometry": {"coordinates":[-70.09190099999999,43.890247],"type":"Point"}
 }

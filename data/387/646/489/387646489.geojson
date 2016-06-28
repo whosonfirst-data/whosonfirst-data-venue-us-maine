@@ -2,13 +2,14 @@
   "id": 387646489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.704803,44.831979,-68.704803,44.831979",
     "geom:latitude":44.831979,
     "geom:longitude":-68.704803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1071 School St",
     "sg:city":"Veazie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387646489,
-    "wof:lastmodified":1449056021,
+    "wof:lastmodified":1466585951,
     "wof:name":"Gifford & Assoc",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-68.704803,44.831979,-68.704803,44.831979],
+  "bbox": [
+    -68.704803,
+    44.831979,
+    -68.704803,
+    44.831979
+],
   "geometry": {"coordinates":[-68.704803,44.831979],"type":"Point"}
 }

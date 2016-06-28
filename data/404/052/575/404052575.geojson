@@ -2,13 +2,14 @@
   "id": 404052575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.152838,43.84411,-70.152838,43.84411",
     "geom:latitude":43.84411,
     "geom:longitude":-70.152838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Webster Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404052575,
-    "wof:lastmodified":1449039555,
+    "wof:lastmodified":1466586333,
     "wof:name":"Day's Electrical Svc Inc",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.152838,43.84411,-70.152838,43.84411],
+  "bbox": [
+    -70.152838,
+    43.84411,
+    -70.152838,
+    43.84411
+],
   "geometry": {"coordinates":[-70.152838,43.84411],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387844117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.694938,44.986705,-68.694938,44.986705",
     "geom:latitude":44.986705,
     "geom:longitude":-68.694938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1667 Bennoch Rd",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387844117,
-    "wof:lastmodified":1449057729,
+    "wof:lastmodified":1466587147,
     "wof:name":"Village Busin Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.694938,44.986705,-68.694938,44.986705],
-  "geometry": {"coordinates":[-68.694938,44.986705],"type":"Point"}
+  "bbox": [
+    -68.694938,
+    44.986705,
+    -68.694938,
+    44.986705
+],
+  "geometry": {"coordinates":[-68.69493799999999,44.986705],"type":"Point"}
 }

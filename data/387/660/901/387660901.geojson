@@ -2,13 +2,14 @@
   "id": 387660901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.190318,44.092402,-70.190318,44.092402",
     "geom:latitude":44.092402,
     "geom:longitude":-70.190318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"362 Webster St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387660901,
-    "wof:lastmodified":1449059522,
+    "wof:lastmodified":1466586137,
     "wof:name":"Flint Cons Svc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-70.190318,44.092402,-70.190318,44.092402],
+  "bbox": [
+    -70.190318,
+    44.092402,
+    -70.190318,
+    44.092402
+],
   "geometry": {"coordinates":[-70.190318,44.092402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403995117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.329002,43.885231,-70.329002,43.885231",
     "geom:latitude":43.885231,
     "geom:longitude":-70.329002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Yarmouth Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403995117,
-    "wof:lastmodified":1449055824,
+    "wof:lastmodified":1466587170,
     "wof:name":"North Yarmouth Fire Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-70.329002,43.885231,-70.329002,43.885231],
+  "bbox": [
+    -70.329002,
+    43.885231,
+    -70.329002,
+    43.885231
+],
   "geometry": {"coordinates":[-70.329002,43.885231],"type":"Point"}
 }

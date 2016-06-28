@@ -2,13 +2,14 @@
   "id": 387713379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.457984,43.493545,-70.457984,43.493545",
     "geom:latitude":43.493545,
     "geom:longitude":-70.457984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Jefferson St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387713379,
-    "wof:lastmodified":1449059562,
+    "wof:lastmodified":1466586785,
     "wof:name":"D C Construction Co",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.457984,43.493545,-70.457984,43.493545],
+  "bbox": [
+    -70.457984,
+    43.493545,
+    -70.457984,
+    43.493545
+],
   "geometry": {"coordinates":[-70.457984,43.493545],"type":"Point"}
 }

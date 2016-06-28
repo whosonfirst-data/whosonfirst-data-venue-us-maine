@@ -2,13 +2,14 @@
   "id": 404014163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.175727,44.170733,-70.175727,44.170733",
     "geom:latitude":44.170733,
     "geom:longitude":-70.175727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Daggett Hill Rd",
     "sg:city":"Greene",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404014163,
-    "wof:lastmodified":1449039629,
+    "wof:lastmodified":1466585832,
     "wof:name":"Town Line Beauty Nook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.175727,44.170733,-70.175727,44.170733],
-  "geometry": {"coordinates":[-70.175727,44.170733],"type":"Point"}
+  "bbox": [
+    -70.175727,
+    44.170733,
+    -70.175727,
+    44.170733
+],
+  "geometry": {"coordinates":[-70.17572699999999,44.170733],"type":"Point"}
 }

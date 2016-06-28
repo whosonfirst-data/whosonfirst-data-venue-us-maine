@@ -2,13 +2,14 @@
   "id": 404200435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.770932,43.433097,-70.770932,43.433097",
     "geom:latitude":43.433097,
     "geom:longitude":-70.770932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"997 Main St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404200435,
-    "wof:lastmodified":1449039518,
+    "wof:lastmodified":1466586840,
     "wof:name":"Lorrie Marx Adams Psychthrpst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [-70.770932,43.433097,-70.770932,43.433097],
+  "bbox": [
+    -70.770932,
+    43.433097,
+    -70.770932,
+    43.433097
+],
   "geometry": {"coordinates":[-70.770932,43.433097],"type":"Point"}
 }

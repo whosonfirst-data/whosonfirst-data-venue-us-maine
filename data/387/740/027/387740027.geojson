@@ -2,13 +2,14 @@
   "id": 387740027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.231543,43.811486,-70.231543,43.811486",
     "geom:latitude":43.811486,
     "geom:longitude":-70.231543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Walnut Hill Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387740027,
-    "wof:lastmodified":1449057822,
+    "wof:lastmodified":1466586860,
     "wof:name":"Caring Place Child Care",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.231543,43.811486,-70.231543,43.811486],
+  "bbox": [
+    -70.231543,
+    43.811486,
+    -70.231543,
+    43.811486
+],
   "geometry": {"coordinates":[-70.231543,43.811486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403875635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.394956,44.113044,-70.394956,44.113044",
     "geom:latitude":44.113044,
     "geom:longitude":-70.394956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 E Dwinal St",
     "sg:city":"Mechanic Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403875635,
-    "wof:lastmodified":1449055605,
+    "wof:lastmodified":1466586825,
     "wof:name":"Jerry Coleman's Collision Rpr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-70.394956,44.113044,-70.394956,44.113044],
-  "geometry": {"coordinates":[-70.394956,44.113044],"type":"Point"}
+  "bbox": [
+    -70.394956,
+    44.113044,
+    -70.394956,
+    44.113044
+],
+  "geometry": {"coordinates":[-70.39495599999999,44.113044],"type":"Point"}
 }

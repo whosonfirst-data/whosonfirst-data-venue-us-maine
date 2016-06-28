@@ -2,13 +2,14 @@
   "id": 387633199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.379539,43.538321,-70.379539,43.538321",
     "geom:latitude":43.538321,
     "geom:longitude":-70.379539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Ross Rd",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387633199,
-    "wof:lastmodified":1449059891,
+    "wof:lastmodified":1466586642,
     "wof:name":"M G Electric",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.379539,43.538321,-70.379539,43.538321],
-  "geometry": {"coordinates":[-70.379539,43.538321],"type":"Point"}
+  "bbox": [
+    -70.379539,
+    43.538321,
+    -70.379539,
+    43.538321
+],
+  "geometry": {"coordinates":[-70.37953899999999,43.538321],"type":"Point"}
 }

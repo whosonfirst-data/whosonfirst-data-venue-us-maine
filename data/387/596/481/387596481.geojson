@@ -2,13 +2,14 @@
   "id": 387596481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.461266,43.489414,-70.461266,43.489414",
     "geom:latitude":43.489414,
     "geom:longitude":-70.461266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Graham St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387596481,
-    "wof:lastmodified":1449058058,
+    "wof:lastmodified":1466586293,
     "wof:name":"Bowdoin Medical Group",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.461266,43.489414,-70.461266,43.489414],
-  "geometry": {"coordinates":[-70.461266,43.489414],"type":"Point"}
+  "bbox": [
+    -70.461266,
+    43.489414,
+    -70.461266,
+    43.489414
+],
+  "geometry": {"coordinates":[-70.46126599999999,43.489414],"type":"Point"}
 }

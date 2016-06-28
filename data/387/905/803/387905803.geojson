@@ -2,13 +2,14 @@
   "id": 387905803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.279588,43.96471,-70.279588,43.96471",
     "geom:latitude":43.96471,
     "geom:longitude":-70.279588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Grange Hall Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387905803,
-    "wof:lastmodified":1449057594,
+    "wof:lastmodified":1466587246,
     "wof:name":"Matthew T Moser Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.279588,43.96471,-70.279588,43.96471],
+  "bbox": [
+    -70.279588,
+    43.96471,
+    -70.279588,
+    43.96471
+],
   "geometry": {"coordinates":[-70.279588,43.96471],"type":"Point"}
 }

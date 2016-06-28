@@ -2,13 +2,14 @@
   "id": 403927987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.54349,44.528424,-70.54349,44.528424",
     "geom:latitude":44.528424,
     "geom:longitude":-70.54349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Front St",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403927987,
-    "wof:lastmodified":1449055830,
+    "wof:lastmodified":1466587019,
     "wof:name":"Dave's Welding & Fab",
     "wof:parent_id":85853959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-70.54349,44.528424,-70.54349,44.528424],
-  "geometry": {"coordinates":[-70.54349,44.528424],"type":"Point"}
+  "bbox": [
+    -70.54349,
+    44.528424,
+    -70.54349,
+    44.528424
+],
+  "geometry": {"coordinates":[-70.54349000000001,44.528424],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403758637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.325453,47.355714,-68.325453,47.355714",
     "geom:latitude":47.355714,
     "geom:longitude":-68.325453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"478 Main St",
     "sg:city":"Madawaska",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403758637,
-    "wof:lastmodified":1449055042,
+    "wof:lastmodified":1466586372,
     "wof:name":"Nature Store",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [-68.325453,47.355714,-68.325453,47.355714],
+  "bbox": [
+    -68.325453,
+    47.355714,
+    -68.325453,
+    47.355714
+],
   "geometry": {"coordinates":[-68.325453,47.355714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387804001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.277979,44.070095,-70.277979,44.070095",
     "geom:latitude":44.070095,
     "geom:longitude":-70.277979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Merrow Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387804001,
-    "wof:lastmodified":1449058758,
+    "wof:lastmodified":1466586968,
     "wof:name":"Future Guard Building Products",
     "wof:parent_id":85831033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "canopy"
     ]
 },
-  "bbox": [-70.277979,44.070095,-70.277979,44.070095],
+  "bbox": [
+    -70.277979,
+    44.070095,
+    -70.277979,
+    44.070095
+],
   "geometry": {"coordinates":[-70.277979,44.070095],"type":"Point"}
 }

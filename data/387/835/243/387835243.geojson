@@ -2,13 +2,14 @@
   "id": 387835243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.187297,45.023772,-69.187297,45.023772",
     "geom:latitude":45.023772,
     "geom:longitude":-69.187297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Parkman Rd",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387835243,
-    "wof:lastmodified":1449056645,
+    "wof:lastmodified":1466587133,
     "wof:name":"Wil O Way Tree Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-69.187297,45.023772,-69.187297,45.023772],
+  "bbox": [
+    -69.187297,
+    45.023772,
+    -69.187297,
+    45.023772
+],
   "geometry": {"coordinates":[-69.187297,45.023772],"type":"Point"}
 }

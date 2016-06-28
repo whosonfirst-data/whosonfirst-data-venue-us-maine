@@ -2,13 +2,14 @@
   "id": 404174163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.325039,43.638791,-70.325039,43.638791",
     "geom:latitude":43.638791,
     "geom:longitude":-70.325039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Foden Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404174163,
-    "wof:lastmodified":1449039171,
+    "wof:lastmodified":1466586799,
     "wof:name":"Foy Insurance Group",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.325039,43.638791,-70.325039,43.638791],
+  "bbox": [
+    -70.325039,
+    43.638791,
+    -70.325039,
+    43.638791
+],
   "geometry": {"coordinates":[-70.325039,43.638791],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387766043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.209714,44.100115,-70.209714,44.100115",
     "geom:latitude":44.100115,
     "geom:longitude":-70.209714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Shawmut St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387766043,
-    "wof:lastmodified":1449056066,
+    "wof:lastmodified":1466586878,
     "wof:name":"Anytime Roofing & Siding",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.209714,44.100115,-70.209714,44.100115],
-  "geometry": {"coordinates":[-70.209714,44.100115],"type":"Point"}
+  "bbox": [
+    -70.209714,
+    44.100115,
+    -70.209714,
+    44.100115
+],
+  "geometry": {"coordinates":[-70.20971400000001,44.100115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404152221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.160927,44.094141,-70.160927,44.094141",
     "geom:latitude":44.094141,
     "geom:longitude":-70.160927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Kevin St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404152221,
-    "wof:lastmodified":1449040014,
+    "wof:lastmodified":1466586656,
     "wof:name":"Northeastern Logistics Inc",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-70.160927,44.094141,-70.160927,44.094141],
+  "bbox": [
+    -70.160927,
+    44.094141,
+    -70.160927,
+    44.094141
+],
   "geometry": {"coordinates":[-70.160927,44.094141],"type":"Point"}
 }

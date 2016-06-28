@@ -2,13 +2,14 @@
   "id": 404115989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.791178,44.757609,-68.791178,44.757609",
     "geom:latitude":44.757609,
     "geom:longitude":-68.791178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 New Meadows Rd",
     "sg:city":"Orrington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404115989,
-    "wof:lastmodified":1449039077,
+    "wof:lastmodified":1466586233,
     "wof:name":"Tiques & Tocks Of Then",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-68.791178,44.757609,-68.791178,44.757609],
+  "bbox": [
+    -68.791178,
+    44.757609,
+    -68.791178,
+    44.757609
+],
   "geometry": {"coordinates":[-68.791178,44.757609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387659049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.622644,44.551338,-69.622644,44.551338",
     "geom:latitude":44.551338,
     "geom:longitude":-69.622644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Benton Ave",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387659049,
-    "wof:lastmodified":1449056517,
+    "wof:lastmodified":1466586107,
     "wof:name":"Winslow Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-69.622644,44.551338,-69.622644,44.551338],
-  "geometry": {"coordinates":[-69.622644,44.551338],"type":"Point"}
+  "bbox": [
+    -69.622644,
+    44.551338,
+    -69.622644,
+    44.551338
+],
+  "geometry": {"coordinates":[-69.62264399999999,44.551338],"type":"Point"}
 }

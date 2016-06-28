@@ -2,13 +2,14 @@
   "id": 387689677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.304568,43.935335,-70.304568,43.935335",
     "geom:latitude":43.935335,
     "geom:longitude":-70.304568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Town Farm Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387689677,
-    "wof:lastmodified":1449059282,
+    "wof:lastmodified":1466586599,
     "wof:name":"Leighton's Logging",
     "wof:parent_id":85857545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logging"
     ]
 },
-  "bbox": [-70.304568,43.935335,-70.304568,43.935335],
+  "bbox": [
+    -70.304568,
+    43.935335,
+    -70.304568,
+    43.935335
+],
   "geometry": {"coordinates":[-70.304568,43.935335],"type":"Point"}
 }

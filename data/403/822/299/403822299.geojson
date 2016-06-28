@@ -2,13 +2,14 @@
   "id": 403822299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.791862,44.799773,-68.791862,44.799773",
     "geom:latitude":44.799773,
     "geom:longitude":-68.791862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"543 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403822299,
-    "wof:lastmodified":1449055910,
+    "wof:lastmodified":1466586303,
     "wof:name":"Choices Hair & Tanning Studio",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.791862,44.799773,-68.791862,44.799773],
-  "geometry": {"coordinates":[-68.791862,44.799773],"type":"Point"}
+  "bbox": [
+    -68.791862,
+    44.799773,
+    -68.791862,
+    44.799773
+],
+  "geometry": {"coordinates":[-68.79186199999999,44.799773],"type":"Point"}
 }

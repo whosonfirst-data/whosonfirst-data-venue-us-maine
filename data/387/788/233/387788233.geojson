@@ -2,13 +2,14 @@
   "id": 387788233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.025823,44.28007,-70.025823,44.28007",
     "geom:latitude":44.28007,
     "geom:longitude":-70.025823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Wilson Pond Rd",
     "sg:city":"North Monmouth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387788233,
-    "wof:lastmodified":1449058071,
+    "wof:lastmodified":1466587094,
     "wof:name":"Joyce B Keeler Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.025823,44.28007,-70.025823,44.28007],
+  "bbox": [
+    -70.025823,
+    44.28007,
+    -70.025823,
+    44.28007
+],
   "geometry": {"coordinates":[-70.025823,44.28007],"type":"Point"}
 }

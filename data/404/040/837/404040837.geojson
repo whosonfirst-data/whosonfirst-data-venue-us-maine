@@ -2,13 +2,14 @@
   "id": 404040837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.626074,44.562236,-69.626074,44.562236",
     "geom:latitude":44.562236,
     "geom:longitude":-69.626074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 College Ave",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404040837,
-    "wof:lastmodified":1449040294,
+    "wof:lastmodified":1466586094,
     "wof:name":"Mail-It-Quik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shipping"
     ]
 },
-  "bbox": [-69.626074,44.562236,-69.626074,44.562236],
+  "bbox": [
+    -69.626074,
+    44.562236,
+    -69.626074,
+    44.562236
+],
   "geometry": {"coordinates":[-69.626074,44.562236],"type":"Point"}
 }

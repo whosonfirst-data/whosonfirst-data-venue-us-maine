@@ -2,13 +2,14 @@
   "id": 404136703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.526086,43.936334,-69.526086,43.936334",
     "geom:latitude":43.936334,
     "geom:longitude":-69.526086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 Carl Bailey Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404136703,
-    "wof:lastmodified":1449040316,
+    "wof:lastmodified":1466586553,
     "wof:name":"Ken Cotton Site Evaluator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "soil"
     ]
 },
-  "bbox": [-69.526086,43.936334,-69.526086,43.936334],
-  "geometry": {"coordinates":[-69.526086,43.936334],"type":"Point"}
+  "bbox": [
+    -69.526086,
+    43.936334,
+    -69.526086,
+    43.936334
+],
+  "geometry": {"coordinates":[-69.52608600000001,43.936334],"type":"Point"}
 }

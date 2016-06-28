@@ -2,13 +2,14 @@
   "id": 403798937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.289724,43.66815,-70.289724,43.66815",
     "geom:latitude":43.66815,
     "geom:longitude":-70.289724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Highland St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403798937,
-    "wof:lastmodified":1449054882,
+    "wof:lastmodified":1466585930,
     "wof:name":"Majolica Mosaics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.289724,43.66815,-70.289724,43.66815],
-  "geometry": {"coordinates":[-70.289724,43.66815],"type":"Point"}
+  "bbox": [
+    -70.289724,
+    43.66815,
+    -70.289724,
+    43.66815
+],
+  "geometry": {"coordinates":[-70.28972400000001,43.66815],"type":"Point"}
 }

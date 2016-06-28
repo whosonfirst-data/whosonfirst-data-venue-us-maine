@@ -2,13 +2,14 @@
   "id": 403800097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.554999,44.332998,-70.554999,44.332998",
     "geom:latitude":44.332998,
     "geom:longitude":-70.554999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 N Paris Rd",
     "sg:city":"West Paris",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403800097,
-    "wof:lastmodified":1449054740,
+    "wof:lastmodified":1466585947,
     "wof:name":"Quality Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.554999,44.332998,-70.554999,44.332998],
+  "bbox": [
+    -70.554999,
+    44.332998,
+    -70.554999,
+    44.332998
+],
   "geometry": {"coordinates":[-70.554999,44.332998],"type":"Point"}
 }

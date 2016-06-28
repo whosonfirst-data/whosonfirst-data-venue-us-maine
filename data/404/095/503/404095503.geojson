@@ -2,13 +2,14 @@
   "id": 404095503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.737523,44.822725,-68.737523,44.822725",
     "geom:latitude":44.822725,
     "geom:longitude":-68.737523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"674 Mount Hope Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404095503,
-    "wof:lastmodified":1449039700,
+    "wof:lastmodified":1466586655,
     "wof:name":"Mc Gary Vision Ctr",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.737523,44.822725,-68.737523,44.822725],
+  "bbox": [
+    -68.737523,
+    44.822725,
+    -68.737523,
+    44.822725
+],
   "geometry": {"coordinates":[-68.737523,44.822725],"type":"Point"}
 }

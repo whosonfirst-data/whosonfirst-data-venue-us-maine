@@ -2,13 +2,14 @@
   "id": 387720735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.462988,43.792759,-70.462988,43.792759",
     "geom:latitude":43.792759,
     "geom:longitude":-70.462988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"249 N Gorham Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387720735,
-    "wof:lastmodified":1449057013,
+    "wof:lastmodified":1466586812,
     "wof:name":"North Gorham Mill Inc",
     "wof:parent_id":85837655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sawmill"
     ]
 },
-  "bbox": [-70.462988,43.792759,-70.462988,43.792759],
+  "bbox": [
+    -70.462988,
+    43.792759,
+    -70.462988,
+    43.792759
+],
   "geometry": {"coordinates":[-70.462988,43.792759],"type":"Point"}
 }

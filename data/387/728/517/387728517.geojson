@@ -2,13 +2,14 @@
   "id": 387728517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.778288,44.766656,-68.778288,44.766656",
     "geom:latitude":44.766656,
     "geom:longitude":-68.778288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Elm St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387728517,
-    "wof:lastmodified":1449056992,
+    "wof:lastmodified":1466586723,
     "wof:name":"Wards Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-68.778288,44.766656,-68.778288,44.766656],
+  "bbox": [
+    -68.778288,
+    44.766656,
+    -68.778288,
+    44.766656
+],
   "geometry": {"coordinates":[-68.778288,44.766656],"type":"Point"}
 }

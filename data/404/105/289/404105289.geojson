@@ -2,13 +2,14 @@
   "id": 404105289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.008674,46.86475,-68.008674,46.86475",
     "geom:latitude":46.86475,
     "geom:longitude":-68.008674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Elmwood Ave",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404105289,
-    "wof:lastmodified":1449039486,
+    "wof:lastmodified":1466586072,
     "wof:name":"Web Impressions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-68.008674,46.86475,-68.008674,46.86475],
+  "bbox": [
+    -68.008674,
+    46.86475,
+    -68.008674,
+    46.86475
+],
   "geometry": {"coordinates":[-68.008674,46.86475],"type":"Point"}
 }

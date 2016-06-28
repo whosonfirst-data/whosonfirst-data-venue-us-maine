@@ -2,13 +2,14 @@
   "id": 403721453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.185956,44.098973,-70.185956,44.098973",
     "geom:latitude":44.098973,
     "geom:longitude":-70.185956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Harold St",
     "sg:city":"Hebron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403721453,
-    "wof:lastmodified":1449055963,
+    "wof:lastmodified":1466585874,
     "wof:name":"Harold Brooks Construction",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.185956,44.098973,-70.185956,44.098973],
+  "bbox": [
+    -70.185956,
+    44.098973,
+    -70.185956,
+    44.098973
+],
   "geometry": {"coordinates":[-70.185956,44.098973],"type":"Point"}
 }

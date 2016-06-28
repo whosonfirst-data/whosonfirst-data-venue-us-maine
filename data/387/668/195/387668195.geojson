@@ -2,13 +2,14 @@
   "id": 387668195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.744292,43.086226,-70.744292,43.086226",
     "geom:latitude":43.086226,
     "geom:longitude":-70.744292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Walker St",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387668195,
-    "wof:lastmodified":1449058764,
+    "wof:lastmodified":1466586252,
     "wof:name":"Ocean National Bank",
     "wof:parent_id":85828587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.744292,43.086226,-70.744292,43.086226],
+  "bbox": [
+    -70.744292,
+    43.086226,
+    -70.744292,
+    43.086226
+],
   "geometry": {"coordinates":[-70.744292,43.086226],"type":"Point"}
 }

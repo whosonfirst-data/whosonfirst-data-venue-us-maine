@@ -2,13 +2,14 @@
   "id": 387786277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.253127,43.890556,-70.253127,43.890556",
     "geom:latitude":43.890556,
     "geom:longitude":-70.253127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 New Gloucester Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387786277,
-    "wof:lastmodified":1449056601,
+    "wof:lastmodified":1466587000,
     "wof:name":"Gallant's Auto Salvage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-70.253127,43.890556,-70.253127,43.890556],
-  "geometry": {"coordinates":[-70.253127,43.890556],"type":"Point"}
+  "bbox": [
+    -70.253127,
+    43.890556,
+    -70.253127,
+    43.890556
+],
+  "geometry": {"coordinates":[-70.25312700000001,43.890556],"type":"Point"}
 }

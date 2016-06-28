@@ -2,13 +2,14 @@
   "id": 387672783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.449395,43.849707,-70.449395,43.849707",
     "geom:latitude":43.849707,
     "geom:longitude":-70.449395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"766 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387672783,
-    "wof:lastmodified":1449056355,
+    "wof:lastmodified":1466586324,
     "wof:name":"Turner Barker Insurance",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.449395,43.849707,-70.449395,43.849707],
+  "bbox": [
+    -70.449395,
+    43.849707,
+    -70.449395,
+    43.849707
+],
   "geometry": {"coordinates":[-70.449395,43.849707],"type":"Point"}
 }

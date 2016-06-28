@@ -2,13 +2,14 @@
   "id": 387711845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.365479,44.103711,-70.365479,44.103711",
     "geom:latitude":44.103711,
     "geom:longitude":-70.365479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Lewiston St",
     "sg:city":"Mechanic Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387711845,
-    "wof:lastmodified":1449059223,
+    "wof:lastmodified":1466586776,
     "wof:name":"Oxford Bank & Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.365479,44.103711,-70.365479,44.103711],
-  "geometry": {"coordinates":[-70.365479,44.103711],"type":"Point"}
+  "bbox": [
+    -70.365479,
+    44.103711,
+    -70.365479,
+    44.103711
+],
+  "geometry": {"coordinates":[-70.36547899999999,44.103711],"type":"Point"}
 }

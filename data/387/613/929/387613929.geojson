@@ -2,13 +2,14 @@
   "id": 387613929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.289865,43.700638,-70.289865,43.700638",
     "geom:latitude":43.700638,
     "geom:longitude":-70.289865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Brewster St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387613929,
-    "wof:lastmodified":1449057875,
+    "wof:lastmodified":1466586561,
     "wof:name":"Parker Hannifin",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.289865,43.700638,-70.289865,43.700638],
-  "geometry": {"coordinates":[-70.289865,43.700638],"type":"Point"}
+  "bbox": [
+    -70.289865,
+    43.700638,
+    -70.289865,
+    43.700638
+],
+  "geometry": {"coordinates":[-70.28986500000001,43.700638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403866129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.250391,44.116078,-70.250391,44.116078",
     "geom:latitude":44.116078,
     "geom:longitude":-70.250391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Park Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403866129,
-    "wof:lastmodified":1449055265,
+    "wof:lastmodified":1466586771,
     "wof:name":"Lachapelle Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.250391,44.116078,-70.250391,44.116078],
-  "geometry": {"coordinates":[-70.250391,44.116078],"type":"Point"}
+  "bbox": [
+    -70.250391,
+    44.116078,
+    -70.250391,
+    44.116078
+],
+  "geometry": {"coordinates":[-70.25039099999999,44.116078],"type":"Point"}
 }

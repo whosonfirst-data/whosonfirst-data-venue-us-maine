@@ -2,13 +2,14 @@
   "id": 387788813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252363,43.665622,-70.252363,43.665622",
     "geom:latitude":43.665622,
     "geom:longitude":-70.252363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Washington Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387788813,
-    "wof:lastmodified":1449058069,
+    "wof:lastmodified":1466587015,
     "wof:name":"TU Casa Salvadorena Restaurant",
     "wof:parent_id":85835993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.252363,43.665622,-70.252363,43.665622],
+  "bbox": [
+    -70.252363,
+    43.665622,
+    -70.252363,
+    43.665622
+],
   "geometry": {"coordinates":[-70.252363,43.665622],"type":"Point"}
 }

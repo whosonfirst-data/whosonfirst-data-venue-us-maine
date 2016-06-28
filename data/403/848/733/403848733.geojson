@@ -2,13 +2,14 @@
   "id": 403848733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.279425,43.670597,-70.279425,43.670597",
     "geom:latitude":43.670597,
     "geom:longitude":-70.279425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Clifton St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403848733,
-    "wof:lastmodified":1449054811,
+    "wof:lastmodified":1466586715,
     "wof:name":"Stephen Russell",
     "wof:parent_id":85858625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-70.279425,43.670597,-70.279425,43.670597],
+  "bbox": [
+    -70.279425,
+    43.670597,
+    -70.279425,
+    43.670597
+],
   "geometry": {"coordinates":[-70.279425,43.670597],"type":"Point"}
 }

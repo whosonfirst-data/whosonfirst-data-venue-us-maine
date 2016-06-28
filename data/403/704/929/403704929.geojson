@@ -2,13 +2,14 @@
   "id": 403704929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.645164,44.933451,-68.645164,44.933451",
     "geom:latitude":44.933451,
     "geom:longitude":-68.645164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Main St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403704929,
-    "wof:lastmodified":1449054992,
+    "wof:lastmodified":1466586302,
     "wof:name":"Chocolate Grille",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.645164,44.933451,-68.645164,44.933451],
-  "geometry": {"coordinates":[-68.645164,44.933451],"type":"Point"}
+  "bbox": [
+    -68.645164,
+    44.933451,
+    -68.645164,
+    44.933451
+],
+  "geometry": {"coordinates":[-68.64516399999999,44.933451],"type":"Point"}
 }

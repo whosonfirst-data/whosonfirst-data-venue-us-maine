@@ -2,13 +2,14 @@
   "id": 403996881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.391776,44.10416,-70.391776,44.10416",
     "geom:latitude":44.10416,
     "geom:longitude":-70.391776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Highland Ave",
     "sg:city":"Mechanic Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403996881,
-    "wof:lastmodified":1449055004,
+    "wof:lastmodified":1466587260,
     "wof:name":"Mechanic Falls Water Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-70.391776,44.10416,-70.391776,44.10416],
-  "geometry": {"coordinates":[-70.391776,44.10416],"type":"Point"}
+  "bbox": [
+    -70.391776,
+    44.10416,
+    -70.391776,
+    44.10416
+],
+  "geometry": {"coordinates":[-70.39177599999999,44.10416],"type":"Point"}
 }

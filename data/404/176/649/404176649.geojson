@@ -2,13 +2,14 @@
   "id": 404176649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.135838,44.101564,-69.135838,44.101564",
     "geom:latitude":44.101564,
     "geom:longitude":-69.135838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Park St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404176649,
-    "wof:lastmodified":1449039923,
+    "wof:lastmodified":1466586697,
     "wof:name":"KNOX County Sheriff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-69.135838,44.101564,-69.135838,44.101564],
-  "geometry": {"coordinates":[-69.135838,44.101564],"type":"Point"}
+  "bbox": [
+    -69.135838,
+    44.101564,
+    -69.135838,
+    44.101564
+],
+  "geometry": {"coordinates":[-69.13583800000001,44.101564],"type":"Point"}
 }

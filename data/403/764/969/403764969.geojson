@@ -2,13 +2,14 @@
   "id": 403764969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.32326,47.355448,-68.32326,47.355448",
     "geom:latitude":47.355448,
     "geom:longitude":-68.32326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Main St",
     "sg:city":"Madawaska",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403764969,
-    "wof:lastmodified":1449055884,
+    "wof:lastmodified":1466586481,
     "wof:name":"Tang Palace Restaurant",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.32326,47.355448,-68.32326,47.355448],
+  "bbox": [
+    -68.32326,
+    47.355448,
+    -68.32326,
+    47.355448
+],
   "geometry": {"coordinates":[-68.32326,47.355448],"type":"Point"}
 }

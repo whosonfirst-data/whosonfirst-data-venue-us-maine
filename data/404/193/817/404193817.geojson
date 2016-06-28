@@ -2,13 +2,14 @@
   "id": 404193817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.303721,44.115684,-69.303721,44.115684",
     "geom:latitude":44.115684,
     "geom:longitude":-69.303721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2834 Atlantic Hwy",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404193817,
-    "wof:lastmodified":1449039211,
+    "wof:lastmodified":1466586903,
     "wof:name":"Warren Barrel Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "drum"
     ]
 },
-  "bbox": [-69.303721,44.115684,-69.303721,44.115684],
+  "bbox": [
+    -69.303721,
+    44.115684,
+    -69.303721,
+    44.115684
+],
   "geometry": {"coordinates":[-69.303721,44.115684],"type":"Point"}
 }

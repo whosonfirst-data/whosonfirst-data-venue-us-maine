@@ -2,13 +2,14 @@
   "id": 387951449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.289913,45.023055,-69.289913,45.023055",
     "geom:latitude":45.023055,
     "geom:longitude":-69.289913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Spring St",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387951449,
-    "wof:lastmodified":1449056286,
+    "wof:lastmodified":1466587293,
     "wof:name":"Dexter Investment Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "investment"
     ]
 },
-  "bbox": [-69.289913,45.023055,-69.289913,45.023055],
+  "bbox": [
+    -69.289913,
+    45.023055,
+    -69.289913,
+    45.023055
+],
   "geometry": {"coordinates":[-69.289913,45.023055],"type":"Point"}
 }

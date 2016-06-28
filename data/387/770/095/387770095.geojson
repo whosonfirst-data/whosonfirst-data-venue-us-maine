@@ -2,13 +2,14 @@
   "id": 387770095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.081256,44.218989,-69.081256,44.218989",
     "geom:latitude":44.218989,
     "geom:longitude":-69.081256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Washington St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387770095,
-    "wof:lastmodified":1449059993,
+    "wof:lastmodified":1466586961,
     "wof:name":"Deborah Cook",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-69.081256,44.218989,-69.081256,44.218989],
+  "bbox": [
+    -69.081256,
+    44.218989,
+    -69.081256,
+    44.218989
+],
   "geometry": {"coordinates":[-69.081256,44.218989],"type":"Point"}
 }

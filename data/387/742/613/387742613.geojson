@@ -2,13 +2,14 @@
   "id": 387742613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.836639,46.123504,-67.836639,46.123504",
     "geom:latitude":46.123504,
     "geom:longitude":-67.836639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Kelleran St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387742613,
-    "wof:lastmodified":1449056365,
+    "wof:lastmodified":1466586765,
     "wof:name":"Kinsley Pond Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-67.836639,46.123504,-67.836639,46.123504],
-  "geometry": {"coordinates":[-67.836639,46.123504],"type":"Point"}
+  "bbox": [
+    -67.836639,
+    46.123504,
+    -67.836639,
+    46.123504
+],
+  "geometry": {"coordinates":[-67.83663900000001,46.123504],"type":"Point"}
 }

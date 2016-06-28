@@ -2,13 +2,14 @@
   "id": 403770001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.645431,44.94485,-68.645431,44.94485",
     "geom:latitude":44.94485,
     "geom:longitude":-68.645431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Davenport St",
     "sg:city":"Milford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403770001,
-    "wof:lastmodified":1449055996,
+    "wof:lastmodified":1466586680,
     "wof:name":"Milford Fire Dept",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-68.645431,44.94485,-68.645431,44.94485],
+  "bbox": [
+    -68.645431,
+    44.94485,
+    -68.645431,
+    44.94485
+],
   "geometry": {"coordinates":[-68.645431,44.94485],"type":"Point"}
 }

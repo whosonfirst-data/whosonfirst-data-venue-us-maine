@@ -2,13 +2,14 @@
   "id": 404204253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.346248,43.90552,-70.346248,43.90552",
     "geom:latitude":43.90552,
     "geom:longitude":-70.346248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Wanda Ln",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404204253,
-    "wof:lastmodified":1449040349,
+    "wof:lastmodified":1466587023,
     "wof:name":"Wilmas Family Hair Salon & Tan",
     "wof:parent_id":85815293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.346248,43.90552,-70.346248,43.90552],
+  "bbox": [
+    -70.346248,
+    43.90552,
+    -70.346248,
+    43.90552
+],
   "geometry": {"coordinates":[-70.346248,43.90552],"type":"Point"}
 }

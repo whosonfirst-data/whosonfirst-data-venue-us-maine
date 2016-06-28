@@ -2,13 +2,14 @@
   "id": 403739013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.547114,43.952256,-69.547114,43.952256",
     "geom:latitude":43.952256,
     "geom:longitude":-69.547114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Splitrock Rd",
     "sg:city":"Walpole",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403739013,
-    "wof:lastmodified":1449055190,
+    "wof:lastmodified":1466586049,
     "wof:name":"Shop To Shore Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "boat"
     ]
 },
-  "bbox": [-69.547114,43.952256,-69.547114,43.952256],
-  "geometry": {"coordinates":[-69.547114,43.952256],"type":"Point"}
+  "bbox": [
+    -69.547114,
+    43.952256,
+    -69.547114,
+    43.952256
+],
+  "geometry": {"coordinates":[-69.54711399999999,43.952256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403941135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.344067,43.68019,-70.344067,43.68019",
     "geom:latitude":43.68019,
     "geom:longitude":-70.344067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403941135,
-    "wof:lastmodified":1449055438,
+    "wof:lastmodified":1466586969,
     "wof:name":"Casco Bay Chimney & Masonry Co",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.344067,43.68019,-70.344067,43.68019],
+  "bbox": [
+    -70.344067,
+    43.68019,
+    -70.344067,
+    43.68019
+],
   "geometry": {"coordinates":[-70.344067,43.68019],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387957863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.763359,44.797011,-68.763359,44.797011",
     "geom:latitude":44.797011,
     "geom:longitude":-68.763359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Betton St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387957863,
-    "wof:lastmodified":1449059359,
+    "wof:lastmodified":1466587341,
     "wof:name":"Twin City Auto Supply",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-68.763359,44.797011,-68.763359,44.797011],
-  "geometry": {"coordinates":[-68.763359,44.797011],"type":"Point"}
+  "bbox": [
+    -68.763359,
+    44.797011,
+    -68.763359,
+    44.797011
+],
+  "geometry": {"coordinates":[-68.76335899999999,44.797011],"type":"Point"}
 }

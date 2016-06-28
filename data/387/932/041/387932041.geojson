@@ -2,13 +2,14 @@
   "id": 387932041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.157518,43.898077,-70.157518,43.898077",
     "geom:latitude":43.898077,
     "geom:longitude":-70.157518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Libby Rd",
     "sg:city":"Pownal",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387932041,
-    "wof:lastmodified":1449057517,
+    "wof:lastmodified":1466587265,
     "wof:name":"Blueberry Pond Observatory",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.157518,43.898077,-70.157518,43.898077],
+  "bbox": [
+    -70.157518,
+    43.898077,
+    -70.157518,
+    43.898077
+],
   "geometry": {"coordinates":[-70.157518,43.898077],"type":"Point"}
 }

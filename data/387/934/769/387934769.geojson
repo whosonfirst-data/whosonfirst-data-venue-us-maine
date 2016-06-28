@@ -2,13 +2,14 @@
   "id": 387934769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.482662,43.82182,-70.482662,43.82182",
     "geom:latitude":43.82182,
     "geom:longitude":-70.482662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Beech Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387934769,
-    "wof:lastmodified":1449056301,
+    "wof:lastmodified":1466587277,
     "wof:name":"Weber Field Services",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.482662,43.82182,-70.482662,43.82182],
+  "bbox": [
+    -70.482662,
+    43.82182,
+    -70.482662,
+    43.82182
+],
   "geometry": {"coordinates":[-70.482662,43.82182],"type":"Point"}
 }

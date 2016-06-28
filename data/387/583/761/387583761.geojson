@@ -2,13 +2,14 @@
   "id": 387583761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.269071,45.185363,-67.269071,45.185363",
     "geom:latitude":45.185363,
     "geom:longitude":-67.269071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"283 Main St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387583761,
-    "wof:lastmodified":1449059111,
+    "wof:lastmodified":1466586069,
     "wof:name":"Chmerto's Distinctive Maine",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-67.269071,45.185363,-67.269071,45.185363],
+  "bbox": [
+    -67.269071,
+    45.185363,
+    -67.269071,
+    45.185363
+],
   "geometry": {"coordinates":[-67.269071,45.185363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404017315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.371389,43.663748,-70.371389,43.663748",
     "geom:latitude":43.663748,
     "geom:longitude":-70.371389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Bradley Dr",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404017315,
-    "wof:lastmodified":1449039771,
+    "wof:lastmodified":1466586647,
     "wof:name":"Bearings Specialty Co Inc",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bearing"
     ]
 },
-  "bbox": [-70.371389,43.663748,-70.371389,43.663748],
-  "geometry": {"coordinates":[-70.371389,43.663748],"type":"Point"}
+  "bbox": [
+    -70.371389,
+    43.663748,
+    -70.371389,
+    43.663748
+],
+  "geometry": {"coordinates":[-70.37138899999999,43.663748],"type":"Point"}
 }

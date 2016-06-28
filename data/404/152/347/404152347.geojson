@@ -2,13 +2,14 @@
   "id": 404152347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.447207,45.999334,-68.447207,45.999334",
     "geom:latitude":45.999334,
     "geom:longitude":-68.447207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Maine St",
     "sg:city":"Patten",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404152347,
-    "wof:lastmodified":1449040014,
+    "wof:lastmodified":1466586731,
     "wof:name":"Patten Pentecostal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-68.447207,45.999334,-68.447207,45.999334],
-  "geometry": {"coordinates":[-68.447207,45.999334],"type":"Point"}
+  "bbox": [
+    -68.447207,
+    45.999334,
+    -68.447207,
+    45.999334
+],
+  "geometry": {"coordinates":[-68.44720700000001,45.999334],"type":"Point"}
 }

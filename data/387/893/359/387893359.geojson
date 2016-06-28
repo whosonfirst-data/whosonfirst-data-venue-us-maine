@@ -2,13 +2,14 @@
   "id": 387893359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.146825,43.85918,-70.146825,43.85918",
     "geom:latitude":43.85918,
     "geom:longitude":-70.146825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Estes Dr",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387893359,
-    "wof:lastmodified":1449059200,
+    "wof:lastmodified":1466587227,
     "wof:name":"J J Carlin",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.146825,43.85918,-70.146825,43.85918],
-  "geometry": {"coordinates":[-70.146825,43.85918],"type":"Point"}
+  "bbox": [
+    -70.146825,
+    43.85918,
+    -70.146825,
+    43.85918
+],
+  "geometry": {"coordinates":[-70.14682500000001,43.85918],"type":"Point"}
 }

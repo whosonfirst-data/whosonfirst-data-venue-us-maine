@@ -2,13 +2,14 @@
   "id": 403824769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.020084,46.859911,-68.020084,46.859911",
     "geom:latitude":46.859911,
     "geom:longitude":-68.020084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Coolidge Ave",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403824769,
-    "wof:lastmodified":1449055100,
+    "wof:lastmodified":1466586342,
     "wof:name":"Roman Catholic Bishop Portland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.020084,46.859911,-68.020084,46.859911],
+  "bbox": [
+    -68.020084,
+    46.859911,
+    -68.020084,
+    46.859911
+],
   "geometry": {"coordinates":[-68.020084,46.859911],"type":"Point"}
 }

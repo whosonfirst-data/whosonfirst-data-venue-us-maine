@@ -2,13 +2,14 @@
   "id": 403706191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.496358,44.161262,-70.496358,44.161262",
     "geom:latitude":44.161262,
     "geom:longitude":-70.496358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"961 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403706191,
-    "wof:lastmodified":1449054729,
+    "wof:lastmodified":1466585674,
     "wof:name":"Goodschmidts Landscaping Ctr",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.496358,44.161262,-70.496358,44.161262],
+  "bbox": [
+    -70.496358,
+    44.161262,
+    -70.496358,
+    44.161262
+],
   "geometry": {"coordinates":[-70.496358,44.161262],"type":"Point"}
 }

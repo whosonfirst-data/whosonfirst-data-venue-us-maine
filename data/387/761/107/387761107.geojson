@@ -2,13 +2,14 @@
   "id": 387761107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.630645,43.737323,-70.630645,43.737323",
     "geom:latitude":43.737323,
     "geom:longitude":-70.630645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Saco Rd",
     "sg:city":"Steep Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387761107,
-    "wof:lastmodified":1449059005,
+    "wof:lastmodified":1466586931,
     "wof:name":"Stiles Transmission",
     "wof:parent_id":85816541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-70.630645,43.737323,-70.630645,43.737323],
+  "bbox": [
+    -70.630645,
+    43.737323,
+    -70.630645,
+    43.737323
+],
   "geometry": {"coordinates":[-70.630645,43.737323],"type":"Point"}
 }

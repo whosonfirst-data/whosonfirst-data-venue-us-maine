@@ -2,13 +2,14 @@
   "id": 387843765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.520359,44.214747,-70.520359,44.214747",
     "geom:latitude":44.214747,
     "geom:longitude":-70.520359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Main St",
     "sg:city":"South Paris",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387843765,
-    "wof:lastmodified":1449056444,
+    "wof:lastmodified":1466587145,
     "wof:name":"Michael Hagar Od",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.520359,44.214747,-70.520359,44.214747],
+  "bbox": [
+    -70.520359,
+    44.214747,
+    -70.520359,
+    44.214747
+],
   "geometry": {"coordinates":[-70.520359,44.214747],"type":"Point"}
 }

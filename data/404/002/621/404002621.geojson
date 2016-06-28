@@ -2,13 +2,14 @@
   "id": 404002621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.154923,47.307921,-68.154923,47.307921",
     "geom:latitude":47.307921,
     "geom:longitude":-68.154923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 Main St",
     "sg:city":"Grand Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404002621,
-    "wof:lastmodified":1449040083,
+    "wof:lastmodified":1466585700,
     "wof:name":"Ursula's Variety Store",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-68.154923,47.307921,-68.154923,47.307921],
+  "bbox": [
+    -68.154923,
+    47.307921,
+    -68.154923,
+    47.307921
+],
   "geometry": {"coordinates":[-68.154923,47.307921],"type":"Point"}
 }

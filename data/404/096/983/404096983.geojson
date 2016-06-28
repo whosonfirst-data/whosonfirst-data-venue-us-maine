@@ -2,13 +2,14 @@
   "id": 404096983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.711019,44.76686,-68.711019,44.76686",
     "geom:latitude":44.76686,
     "geom:longitude":-68.711019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Main Rd",
     "sg:city":"Holden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404096983,
-    "wof:lastmodified":1449039405,
+    "wof:lastmodified":1466585952,
     "wof:name":"Town'n Country Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.711019,44.76686,-68.711019,44.76686],
-  "geometry": {"coordinates":[-68.711019,44.76686],"type":"Point"}
+  "bbox": [
+    -68.711019,
+    44.76686,
+    -68.711019,
+    44.76686
+],
+  "geometry": {"coordinates":[-68.71101899999999,44.76686],"type":"Point"}
 }

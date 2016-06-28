@@ -2,13 +2,14 @@
   "id": 387841037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.176526,44.082432,-70.176526,44.082432",
     "geom:latitude":44.082432,
     "geom:longitude":-70.176526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Trident Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387841037,
-    "wof:lastmodified":1449056901,
+    "wof:lastmodified":1466587137,
     "wof:name":"Custom Metal Roofs Of Maine",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.176526,44.082432,-70.176526,44.082432],
+  "bbox": [
+    -70.176526,
+    44.082432,
+    -70.176526,
+    44.082432
+],
   "geometry": {"coordinates":[-70.176526,44.082432],"type":"Point"}
 }

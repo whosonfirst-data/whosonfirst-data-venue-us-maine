@@ -2,13 +2,14 @@
   "id": 387912135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.674416,44.88639,-68.674416,44.88639",
     "geom:latitude":44.88639,
     "geom:longitude":-68.674416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Bennoch Rd",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387912135,
-    "wof:lastmodified":1449057983,
+    "wof:lastmodified":1466587321,
     "wof:name":"C C Dorion Geological Svc",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-68.674416,44.88639,-68.674416,44.88639],
-  "geometry": {"coordinates":[-68.674416,44.88639],"type":"Point"}
+  "bbox": [
+    -68.674416,
+    44.88639,
+    -68.674416,
+    44.88639
+],
+  "geometry": {"coordinates":[-68.67441599999999,44.88639],"type":"Point"}
 }

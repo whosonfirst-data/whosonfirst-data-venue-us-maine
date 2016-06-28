@@ -2,13 +2,14 @@
   "id": 387957777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.984715,44.752476,-68.984715,44.752476",
     "geom:latitude":44.752476,
     "geom:longitude":-68.984715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 North Rd",
     "sg:city":"Newburgh",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387957777,
-    "wof:lastmodified":1449059359,
+    "wof:lastmodified":1466587340,
     "wof:name":"Jones Motor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-68.984715,44.752476,-68.984715,44.752476],
-  "geometry": {"coordinates":[-68.984715,44.752476],"type":"Point"}
+  "bbox": [
+    -68.984715,
+    44.752476,
+    -68.984715,
+    44.752476
+],
+  "geometry": {"coordinates":[-68.98471499999999,44.752476],"type":"Point"}
 }

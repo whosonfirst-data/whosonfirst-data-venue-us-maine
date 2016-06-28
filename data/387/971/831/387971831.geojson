@@ -2,13 +2,14 @@
   "id": 387971831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.216994,43.829996,-70.216994,43.829996",
     "geom:latitude":43.829996,
     "geom:longitude":-70.216994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"657 Sligo Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387971831,
-    "wof:lastmodified":1449058033,
+    "wof:lastmodified":1466587309,
     "wof:name":"Think Media & Design",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.216994,43.829996,-70.216994,43.829996],
+  "bbox": [
+    -70.216994,
+    43.829996,
+    -70.216994,
+    43.829996
+],
   "geometry": {"coordinates":[-70.216994,43.829996],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387669725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.181165,44.163937,-70.181165,44.163937",
     "geom:latitude":44.163937,
     "geom:longitude":-70.181165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 US Hwy 202",
     "sg:city":"Greene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387669725,
-    "wof:lastmodified":1449056544,
+    "wof:lastmodified":1466586275,
     "wof:name":"Morgan's Auto Sales",
     "wof:parent_id":85819719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.181165,44.163937,-70.181165,44.163937],
-  "geometry": {"coordinates":[-70.181165,44.163937],"type":"Point"}
+  "bbox": [
+    -70.181165,
+    44.163937,
+    -70.181165,
+    44.163937
+],
+  "geometry": {"coordinates":[-70.18116499999999,44.163937],"type":"Point"}
 }

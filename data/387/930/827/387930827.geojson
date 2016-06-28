@@ -2,13 +2,14 @@
   "id": 387930827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.509757,44.650294,-68.509757,44.650294",
     "geom:latitude":44.650294,
     "geom:longitude":-68.509757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Nicolin Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387930827,
-    "wof:lastmodified":1449057313,
+    "wof:lastmodified":1466587272,
     "wof:name":"Black Mountian Technologies",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-68.509757,44.650294,-68.509757,44.650294],
-  "geometry": {"coordinates":[-68.509757,44.650294],"type":"Point"}
+  "bbox": [
+    -68.509757,
+    44.650294,
+    -68.509757,
+    44.650294
+],
+  "geometry": {"coordinates":[-68.50975699999999,44.650294],"type":"Point"}
 }

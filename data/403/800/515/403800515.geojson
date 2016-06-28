@@ -2,13 +2,14 @@
   "id": 403800515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.916807,44.61191,-68.916807,44.61191",
     "geom:latitude":44.61191,
     "geom:longitude":-68.916807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"468 Loggin Rd",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403800515,
-    "wof:lastmodified":1449054738,
+    "wof:lastmodified":1466585956,
     "wof:name":"G T Rich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.916807,44.61191,-68.916807,44.61191],
-  "geometry": {"coordinates":[-68.916807,44.61191],"type":"Point"}
+  "bbox": [
+    -68.916807,
+    44.61191,
+    -68.916807,
+    44.61191
+],
+  "geometry": {"coordinates":[-68.91680700000001,44.61191],"type":"Point"}
 }

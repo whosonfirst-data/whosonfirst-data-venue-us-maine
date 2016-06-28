@@ -2,13 +2,14 @@
   "id": 387646211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.67542,44.884243,-68.67542,44.884243",
     "geom:latitude":44.884243,
     "geom:longitude":-68.67542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Forest Ave",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387646211,
-    "wof:lastmodified":1449056021,
+    "wof:lastmodified":1466585947,
     "wof:name":"Bangor Orono Charter",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.67542,44.884243,-68.67542,44.884243],
+  "bbox": [
+    -68.67542,
+    44.884243,
+    -68.67542,
+    44.884243
+],
   "geometry": {"coordinates":[-68.67542,44.884243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403733063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.458611,43.533708,-70.458611,43.533708",
     "geom:latitude":43.533708,
     "geom:longitude":-70.458611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Sullivan Ln",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403733063,
-    "wof:lastmodified":1449054802,
+    "wof:lastmodified":1466586011,
     "wof:name":"Drl International",
     "wof:parent_id":85847051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "investment"
     ]
 },
-  "bbox": [-70.458611,43.533708,-70.458611,43.533708],
+  "bbox": [
+    -70.458611,
+    43.533708,
+    -70.458611,
+    43.533708
+],
   "geometry": {"coordinates":[-70.458611,43.533708],"type":"Point"}
 }

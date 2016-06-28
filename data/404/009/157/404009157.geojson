@@ -2,13 +2,14 @@
   "id": 404009157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.325636,43.67581,-70.325636,43.67581",
     "geom:latitude":43.67581,
     "geom:longitude":-70.325636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Brighton Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404009157,
-    "wof:lastmodified":1449040312,
+    "wof:lastmodified":1466585796,
     "wof:name":"Tucker & Sons",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-70.325636,43.67581,-70.325636,43.67581],
+  "bbox": [
+    -70.325636,
+    43.67581,
+    -70.325636,
+    43.67581
+],
   "geometry": {"coordinates":[-70.325636,43.67581],"type":"Point"}
 }

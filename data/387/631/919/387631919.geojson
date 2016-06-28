@@ -2,13 +2,14 @@
   "id": 387631919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.206538,43.793676,-70.206538,43.793676",
     "geom:latitude":43.793676,
     "geom:longitude":-70.206538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Ledgewood Dr",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387631919,
-    "wof:lastmodified":1449057276,
+    "wof:lastmodified":1466585827,
     "wof:name":"Daigle J M Wood Services",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.206538,43.793676,-70.206538,43.793676],
-  "geometry": {"coordinates":[-70.206538,43.793676],"type":"Point"}
+  "bbox": [
+    -70.206538,
+    43.793676,
+    -70.206538,
+    43.793676
+],
+  "geometry": {"coordinates":[-70.20653799999999,43.793676],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387905969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.085795,43.875451,-70.085795,43.875451",
     "geom:latitude":43.875451,
     "geom:longitude":-70.085795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"348 US Hwy 1",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387905969,
-    "wof:lastmodified":1449057590,
+    "wof:lastmodified":1466587247,
     "wof:name":"Lindal Cedar Homes Inc",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-70.085795,43.875451,-70.085795,43.875451],
+  "bbox": [
+    -70.085795,
+    43.875451,
+    -70.085795,
+    43.875451
+],
   "geometry": {"coordinates":[-70.085795,43.875451],"type":"Point"}
 }

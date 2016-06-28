@@ -2,13 +2,14 @@
   "id": 387860601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.322294,43.669857,-70.322294,43.669857",
     "geom:latitude":43.669857,
     "geom:longitude":-70.322294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Rand Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387860601,
-    "wof:lastmodified":1449057797,
+    "wof:lastmodified":1466587259,
     "wof:name":"Greg's Glass & Glazing Co",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-70.322294,43.669857,-70.322294,43.669857],
+  "bbox": [
+    -70.322294,
+    43.669857,
+    -70.322294,
+    43.669857
+],
   "geometry": {"coordinates":[-70.322294,43.669857],"type":"Point"}
 }

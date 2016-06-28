@@ -2,13 +2,14 @@
   "id": 404219769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.777477,43.44079,-70.777477,43.44079",
     "geom:latitude":43.44079,
     "geom:longitude":-70.777477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"866 Main St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404219769,
-    "wof:lastmodified":1449040276,
+    "wof:lastmodified":1466587089,
     "wof:name":"Michael R Lincourt MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.777477,43.44079,-70.777477,43.44079],
+  "bbox": [
+    -70.777477,
+    43.44079,
+    -70.777477,
+    43.44079
+],
   "geometry": {"coordinates":[-70.777477,43.44079],"type":"Point"}
 }

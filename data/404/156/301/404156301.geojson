@@ -2,13 +2,14 @@
   "id": 404156301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.436301,43.509917,-70.436301,43.509917",
     "geom:latitude":43.509917,
     "geom:longitude":-70.436301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Woodland Ave",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404156301,
-    "wof:lastmodified":1449039288,
+    "wof:lastmodified":1466586741,
     "wof:name":"Gary's Trucking",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.436301,43.509917,-70.436301,43.509917],
+  "bbox": [
+    -70.436301,
+    43.509917,
+    -70.436301,
+    43.509917
+],
   "geometry": {"coordinates":[-70.436301,43.509917],"type":"Point"}
 }

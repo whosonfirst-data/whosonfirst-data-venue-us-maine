@@ -2,13 +2,14 @@
   "id": 387877085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.184711,44.08163,-70.184711,44.08163",
     "geom:latitude":44.08163,
     "geom:longitude":-70.184711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Hillmount Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387877085,
-    "wof:lastmodified":1449058783,
+    "wof:lastmodified":1466587197,
     "wof:name":"Marco's Restaurant",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.184711,44.08163,-70.184711,44.08163],
-  "geometry": {"coordinates":[-70.184711,44.08163],"type":"Point"}
+  "bbox": [
+    -70.184711,
+    44.08163,
+    -70.184711,
+    44.08163
+],
+  "geometry": {"coordinates":[-70.18471099999999,44.08163],"type":"Point"}
 }

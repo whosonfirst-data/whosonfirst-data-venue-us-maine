@@ -2,13 +2,14 @@
   "id": 403750137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.246227,43.823695,-70.246227,43.823695",
     "geom:latitude":43.823695,
     "geom:longitude":-70.246227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"378 Walnut Hill Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403750137,
-    "wof:lastmodified":1449055467,
+    "wof:lastmodified":1466586215,
     "wof:name":"Vacationland Video",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-70.246227,43.823695,-70.246227,43.823695],
+  "bbox": [
+    -70.246227,
+    43.823695,
+    -70.246227,
+    43.823695
+],
   "geometry": {"coordinates":[-70.246227,43.823695],"type":"Point"}
 }

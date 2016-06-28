@@ -2,13 +2,14 @@
   "id": 403976711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.212146,44.384628,-70.212146,44.384628",
     "geom:latitude":44.384628,
     "geom:longitude":-70.212146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Boothby Rd",
     "sg:city":"Livermore",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403976711,
-    "wof:lastmodified":1449055178,
+    "wof:lastmodified":1466587140,
     "wof:name":"Rocky Lake Plumbing Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.212146,44.384628,-70.212146,44.384628],
+  "bbox": [
+    -70.212146,
+    44.384628,
+    -70.212146,
+    44.384628
+],
   "geometry": {"coordinates":[-70.212146,44.384628],"type":"Point"}
 }

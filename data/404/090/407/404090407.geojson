@@ -2,13 +2,14 @@
   "id": 404090407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.29439,45.062104,-69.29439,45.062104",
     "geom:latitude":45.062104,
     "geom:longitude":-69.29439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Pleasant Ridge Rd",
     "sg:city":"Corinna",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404090407,
-    "wof:lastmodified":1449040040,
+    "wof:lastmodified":1466585855,
     "wof:name":"Simpson Piano Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-69.29439,45.062104,-69.29439,45.062104],
-  "geometry": {"coordinates":[-69.29439,45.062104],"type":"Point"}
+  "bbox": [
+    -69.29439,
+    45.062104,
+    -69.29439,
+    45.062104
+],
+  "geometry": {"coordinates":[-69.29439000000001,45.062104],"type":"Point"}
 }

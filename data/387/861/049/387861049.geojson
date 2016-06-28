@@ -2,13 +2,14 @@
   "id": 387861049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.44205,43.500033,-70.44205,43.500033",
     "geom:latitude":43.500033,
     "geom:longitude":-70.44205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Middle St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387861049,
-    "wof:lastmodified":1449059896,
+    "wof:lastmodified":1466587180,
     "wof:name":"Cindy's Beauty Salon",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.44205,43.500033,-70.44205,43.500033],
-  "geometry": {"coordinates":[-70.44205,43.500033],"type":"Point"}
+  "bbox": [
+    -70.44205,
+    43.500033,
+    -70.44205,
+    43.500033
+],
+  "geometry": {"coordinates":[-70.44204999999999,43.500033],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404006195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.234691,44.110949,-70.234691,44.110949",
     "geom:latitude":44.110949,
     "geom:longitude":-70.234691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Mayfield Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404006195,
-    "wof:lastmodified":1449040051,
+    "wof:lastmodified":1466585779,
     "wof:name":"Androscoggin County Appraisals",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-70.234691,44.110949,-70.234691,44.110949],
+  "bbox": [
+    -70.234691,
+    44.110949,
+    -70.234691,
+    44.110949
+],
   "geometry": {"coordinates":[-70.234691,44.110949],"type":"Point"}
 }

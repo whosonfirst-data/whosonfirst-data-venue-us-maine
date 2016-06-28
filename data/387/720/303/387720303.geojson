@@ -2,13 +2,14 @@
   "id": 387720303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.259714,43.649369,-70.259714,43.649369",
     "geom:latitude":43.649369,
     "geom:longitude":-70.259714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 York St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387720303,
-    "wof:lastmodified":1449057010,
+    "wof:lastmodified":1466586807,
     "wof:name":"Monaghan Mortgage & Finance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-70.259714,43.649369,-70.259714,43.649369],
+  "bbox": [
+    -70.259714,
+    43.649369,
+    -70.259714,
+    43.649369
+],
   "geometry": {"coordinates":[-70.259714,43.649369],"type":"Point"}
 }

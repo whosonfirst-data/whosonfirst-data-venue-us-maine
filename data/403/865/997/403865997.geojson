@@ -2,13 +2,14 @@
   "id": 403865997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.290154,43.672202,-70.290154,43.672202",
     "geom:latitude":43.672202,
     "geom:longitude":-70.290154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Berkeley St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403865997,
-    "wof:lastmodified":1449055636,
+    "wof:lastmodified":1466586770,
     "wof:name":"Beverly J Strzok",
     "wof:parent_id":85858627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-70.290154,43.672202,-70.290154,43.672202],
+  "bbox": [
+    -70.290154,
+    43.672202,
+    -70.290154,
+    43.672202
+],
   "geometry": {"coordinates":[-70.290154,43.672202],"type":"Point"}
 }

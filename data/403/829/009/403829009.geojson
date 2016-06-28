@@ -2,13 +2,14 @@
   "id": 403829009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.31114,43.70355,-70.31114,43.70355",
     "geom:latitude":43.70355,
     "geom:longitude":-70.31114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Riverside Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403829009,
-    "wof:lastmodified":1449055874,
+    "wof:lastmodified":1466586412,
     "wof:name":"Maine Microwave Assoc",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "microwave"
     ]
 },
-  "bbox": [-70.31114,43.70355,-70.31114,43.70355],
-  "geometry": {"coordinates":[-70.31114,43.70355],"type":"Point"}
+  "bbox": [
+    -70.31114,
+    43.70355,
+    -70.31114,
+    43.70355
+],
+  "geometry": {"coordinates":[-70.31113999999999,43.70355],"type":"Point"}
 }

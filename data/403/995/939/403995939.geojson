@@ -2,13 +2,14 @@
   "id": 403995939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.465141,43.883654,-70.465141,43.883654",
     "geom:latitude":43.883654,
     "geom:longitude":-70.465141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1261 Roosevelt Trl",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403995939,
-    "wof:lastmodified":1449055821,
+    "wof:lastmodified":1466587177,
     "wof:name":"Ideal Landscaping",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.465141,43.883654,-70.465141,43.883654],
+  "bbox": [
+    -70.465141,
+    43.883654,
+    -70.465141,
+    43.883654
+],
   "geometry": {"coordinates":[-70.465141,43.883654],"type":"Point"}
 }

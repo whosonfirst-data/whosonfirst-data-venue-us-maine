@@ -2,13 +2,14 @@
   "id": 387809351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.64511,44.935278,-68.64511,44.935278",
     "geom:latitude":44.935278,
     "geom:longitude":-68.64511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Center St",
     "sg:city":"Drew Plt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387809351,
-    "wof:lastmodified":1449059242,
+    "wof:lastmodified":1466587085,
     "wof:name":"Crawford's Store",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-68.64511,44.935278,-68.64511,44.935278],
+  "bbox": [
+    -68.64511,
+    44.935278,
+    -68.64511,
+    44.935278
+],
   "geometry": {"coordinates":[-68.64511,44.935278],"type":"Point"}
 }

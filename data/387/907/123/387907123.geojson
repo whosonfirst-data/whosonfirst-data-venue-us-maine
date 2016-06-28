@@ -2,13 +2,14 @@
   "id": 387907123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.343909,43.685185,-70.343909,43.685185",
     "geom:latitude":43.685185,
     "geom:longitude":-70.343909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Warren Ave",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387907123,
-    "wof:lastmodified":1449059627,
+    "wof:lastmodified":1466587315,
     "wof:name":"Downeast Hardwood Flooring",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-70.343909,43.685185,-70.343909,43.685185],
+  "bbox": [
+    -70.343909,
+    43.685185,
+    -70.343909,
+    43.685185
+],
   "geometry": {"coordinates":[-70.343909,43.685185],"type":"Point"}
 }

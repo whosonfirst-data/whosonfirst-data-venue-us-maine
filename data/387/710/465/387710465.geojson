@@ -2,13 +2,14 @@
   "id": 387710465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.399498,43.908752,-70.399498,43.908752",
     "geom:latitude":43.908752,
     "geom:longitude":-70.399498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"347 Westwood Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387710465,
-    "wof:lastmodified":1449056349,
+    "wof:lastmodified":1466586870,
     "wof:name":"Fossil Films Inc",
     "wof:parent_id":85851311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-70.399498,43.908752,-70.399498,43.908752],
-  "geometry": {"coordinates":[-70.399498,43.908752],"type":"Point"}
+  "bbox": [
+    -70.399498,
+    43.908752,
+    -70.399498,
+    43.908752
+],
+  "geometry": {"coordinates":[-70.39949799999999,43.908752],"type":"Point"}
 }

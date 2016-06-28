@@ -2,13 +2,14 @@
   "id": 387774211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.495904,43.525684,-70.495904,43.525684",
     "geom:latitude":43.525684,
     "geom:longitude":-70.495904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"178 New County Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387774211,
-    "wof:lastmodified":1449057584,
+    "wof:lastmodified":1466586979,
     "wof:name":"Elldee Associates Electric",
     "wof:parent_id":85847051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.495904,43.525684,-70.495904,43.525684],
+  "bbox": [
+    -70.495904,
+    43.525684,
+    -70.495904,
+    43.525684
+],
   "geometry": {"coordinates":[-70.495904,43.525684],"type":"Point"}
 }

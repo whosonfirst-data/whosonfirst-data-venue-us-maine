@@ -2,13 +2,14 @@
   "id": 404126171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.966753,43.935649,-69.966753,43.935649",
     "geom:latitude":43.935649,
     "geom:longitude":-69.966753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Monument Pl",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404126171,
-    "wof:lastmodified":1449039478,
+    "wof:lastmodified":1466586391,
     "wof:name":"Beaubella Day Spa & Hair Salon",
     "wof:parent_id":85809811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.966753,43.935649,-69.966753,43.935649],
+  "bbox": [
+    -69.966753,
+    43.935649,
+    -69.966753,
+    43.935649
+],
   "geometry": {"coordinates":[-69.966753,43.935649],"type":"Point"}
 }

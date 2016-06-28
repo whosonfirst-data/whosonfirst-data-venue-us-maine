@@ -2,13 +2,14 @@
   "id": 387735097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.966995,43.93897,-69.966995,43.93897",
     "geom:latitude":43.93897,
     "geom:longitude":-69.966995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Main St",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387735097,
-    "wof:lastmodified":1449059833,
+    "wof:lastmodified":1466586845,
     "wof:name":"Cleaning Authority",
     "wof:parent_id":85809811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-69.966995,43.93897,-69.966995,43.93897],
+  "bbox": [
+    -69.966995,
+    43.93897,
+    -69.966995,
+    43.93897
+],
   "geometry": {"coordinates":[-69.966995,43.93897],"type":"Point"}
 }

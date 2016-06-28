@@ -2,13 +2,14 @@
   "id": 404213583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.431097,44.032998,-69.431097,44.032998",
     "geom:latitude":44.032998,
     "geom:longitude":-69.431097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Turner Rd",
     "sg:city":"Medomak",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404213583,
-    "wof:lastmodified":1449039100,
+    "wof:lastmodified":1466587058,
     "wof:name":"Discovering Kids",
     "wof:parent_id":85831495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.431097,44.032998,-69.431097,44.032998],
-  "geometry": {"coordinates":[-69.431097,44.032998],"type":"Point"}
+  "bbox": [
+    -69.431097,
+    44.032998,
+    -69.431097,
+    44.032998
+],
+  "geometry": {"coordinates":[-69.43109699999999,44.032998],"type":"Point"}
 }

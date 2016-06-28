@@ -2,13 +2,14 @@
   "id": 403977761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.782194,44.302333,-69.782194,44.302333",
     "geom:latitude":44.302333,
     "geom:longitude":-69.782194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"268 State St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403977761,
-    "wof:lastmodified":1449056008,
+    "wof:lastmodified":1466587139,
     "wof:name":"O'Connor Saab Volkswagen",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-69.782194,44.302333,-69.782194,44.302333],
+  "bbox": [
+    -69.782194,
+    44.302333,
+    -69.782194,
+    44.302333
+],
   "geometry": {"coordinates":[-69.782194,44.302333],"type":"Point"}
 }

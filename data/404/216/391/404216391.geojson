@@ -2,13 +2,14 @@
   "id": 404216391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.258633,43.659737,-70.258633,43.659737",
     "geom:latitude":43.659737,
     "geom:longitude":-70.258633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Chestnut St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404216391,
-    "wof:lastmodified":1449040186,
+    "wof:lastmodified":1466586982,
     "wof:name":"Opportunity For Change",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-70.258633,43.659737,-70.258633,43.659737],
+  "bbox": [
+    -70.258633,
+    43.659737,
+    -70.258633,
+    43.659737
+],
   "geometry": {"coordinates":[-70.258633,43.659737],"type":"Point"}
 }

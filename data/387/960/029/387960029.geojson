@@ -2,13 +2,14 @@
   "id": 387960029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.208004,44.201825,-69.208004,44.201825",
     "geom:latitude":44.201825,
     "geom:longitude":-69.208004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Davis Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387960029,
-    "wof:lastmodified":1449058844,
+    "wof:lastmodified":1466587343,
     "wof:name":"Feener Foundations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.208004,44.201825,-69.208004,44.201825],
+  "bbox": [
+    -69.208004,
+    44.201825,
+    -69.208004,
+    44.201825
+],
   "geometry": {"coordinates":[-69.208004,44.201825],"type":"Point"}
 }

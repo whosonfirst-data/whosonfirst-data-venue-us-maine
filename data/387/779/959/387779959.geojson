@@ -2,13 +2,14 @@
   "id": 387779959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.776918,44.820941,-68.776918,44.820941",
     "geom:latitude":44.820941,
     "geom:longitude":-68.776918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 Broadway",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387779959,
-    "wof:lastmodified":1449056688,
+    "wof:lastmodified":1466587089,
     "wof:name":"Guernsey Monuments",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-68.776918,44.820941,-68.776918,44.820941],
-  "geometry": {"coordinates":[-68.776918,44.820941],"type":"Point"}
+  "bbox": [
+    -68.776918,
+    44.820941,
+    -68.776918,
+    44.820941
+],
+  "geometry": {"coordinates":[-68.77691799999999,44.820941],"type":"Point"}
 }

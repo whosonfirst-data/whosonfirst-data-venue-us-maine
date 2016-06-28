@@ -2,13 +2,14 @@
   "id": 387812741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.292747,45.168911,-67.292747,45.168911",
     "geom:latitude":45.168911,
     "geom:longitude":-67.292747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 North St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387812741,
-    "wof:lastmodified":1449056221,
+    "wof:lastmodified":1466587175,
     "wof:name":"Down East Times",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-67.292747,45.168911,-67.292747,45.168911],
-  "geometry": {"coordinates":[-67.292747,45.168911],"type":"Point"}
+  "bbox": [
+    -67.292747,
+    45.168911,
+    -67.292747,
+    45.168911
+],
+  "geometry": {"coordinates":[-67.29274700000001,45.168911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403784183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.303353,43.924235,-70.303353,43.924235",
     "geom:latitude":43.924235,
     "geom:longitude":-70.303353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Morse Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403784183,
-    "wof:lastmodified":1449055501,
+    "wof:lastmodified":1466585739,
     "wof:name":"Maschino & Sons Lumber Co",
     "wof:parent_id":85857545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-70.303353,43.924235,-70.303353,43.924235],
+  "bbox": [
+    -70.303353,
+    43.924235,
+    -70.303353,
+    43.924235
+],
   "geometry": {"coordinates":[-70.303353,43.924235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387830505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.299407,43.691641,-70.299407,43.691641",
     "geom:latitude":43.691641,
     "geom:longitude":-70.299407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387830505,
-    "wof:lastmodified":1449056909,
+    "wof:lastmodified":1466587121,
     "wof:name":"Deadline Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "design"
     ]
 },
-  "bbox": [-70.299407,43.691641,-70.299407,43.691641],
+  "bbox": [
+    -70.299407,
+    43.691641,
+    -70.299407,
+    43.691641
+],
   "geometry": {"coordinates":[-70.299407,43.691641],"type":"Point"}
 }

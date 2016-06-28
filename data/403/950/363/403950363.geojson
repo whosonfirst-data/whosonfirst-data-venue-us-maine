@@ -2,13 +2,14 @@
   "id": 403950363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.899491,44.330578,-68.899491,44.330578",
     "geom:latitude":44.330578,
     "geom:longitude":-68.899491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Main Rd",
     "sg:city":"Islesboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403950363,
-    "wof:lastmodified":1449055159,
+    "wof:lastmodified":1466586974,
     "wof:name":"Fanda Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.899491,44.330578,-68.899491,44.330578],
+  "bbox": [
+    -68.899491,
+    44.330578,
+    -68.899491,
+    44.330578
+],
   "geometry": {"coordinates":[-68.899491,44.330578],"type":"Point"}
 }

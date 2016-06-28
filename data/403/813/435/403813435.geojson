@@ -2,13 +2,14 @@
   "id": 403813435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.273121,43.682614,-70.273121,43.682614",
     "geom:latitude":43.682614,
     "geom:longitude":-70.273121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Ocean Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403813435,
-    "wof:lastmodified":1449054988,
+    "wof:lastmodified":1466586159,
     "wof:name":"Payson Park Evangelical Free",
     "wof:parent_id":85880019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.273121,43.682614,-70.273121,43.682614],
+  "bbox": [
+    -70.273121,
+    43.682614,
+    -70.273121,
+    43.682614
+],
   "geometry": {"coordinates":[-70.273121,43.682614],"type":"Point"}
 }

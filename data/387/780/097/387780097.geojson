@@ -2,13 +2,14 @@
   "id": 387780097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.40448,46.632332,-68.40448,46.632332",
     "geom:latitude":46.632332,
     "geom:longitude":-68.40448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Sheridan Rd",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387780097,
-    "wof:lastmodified":1449058957,
+    "wof:lastmodified":1466586989,
     "wof:name":"Ashland Computer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-68.40448,46.632332,-68.40448,46.632332],
-  "geometry": {"coordinates":[-68.40448,46.632332],"type":"Point"}
+  "bbox": [
+    -68.40448,
+    46.632332,
+    -68.40448,
+    46.632332
+],
+  "geometry": {"coordinates":[-68.40448000000001,46.632332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387773801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.941257,43.374061,-70.941257,43.374061",
     "geom:latitude":43.374061,
     "geom:longitude":-70.941257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 W Lebanon Rd",
     "sg:city":"East Lebanon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387773801,
-    "wof:lastmodified":1449056591,
+    "wof:lastmodified":1466586986,
     "wof:name":"Buzy Little Hands Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-70.941257,43.374061,-70.941257,43.374061],
-  "geometry": {"coordinates":[-70.941257,43.374061],"type":"Point"}
+  "bbox": [
+    -70.941257,
+    43.374061,
+    -70.941257,
+    43.374061
+],
+  "geometry": {"coordinates":[-70.94125699999999,43.374061],"type":"Point"}
 }

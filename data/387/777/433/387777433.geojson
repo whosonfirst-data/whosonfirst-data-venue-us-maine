@@ -2,13 +2,14 @@
   "id": 387777433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.842682,46.124592,-67.842682,46.124592",
     "geom:latitude":46.124592,
     "geom:longitude":-67.842682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Bangor St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387777433,
-    "wof:lastmodified":1449058114,
+    "wof:lastmodified":1466586994,
     "wof:name":"Aroostook Print Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "invitation"
     ]
 },
-  "bbox": [-67.842682,46.124592,-67.842682,46.124592],
+  "bbox": [
+    -67.842682,
+    46.124592,
+    -67.842682,
+    46.124592
+],
   "geometry": {"coordinates":[-67.842682,46.124592],"type":"Point"}
 }

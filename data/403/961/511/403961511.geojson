@@ -2,13 +2,14 @@
   "id": 403961511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.305358,43.711757,-70.305358,43.711757",
     "geom:latitude":43.711757,
     "geom:longitude":-70.305358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Riverside Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403961511,
-    "wof:lastmodified":1449055923,
+    "wof:lastmodified":1466587004,
     "wof:name":"Enviro Logix Inc",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-70.305358,43.711757,-70.305358,43.711757],
+  "bbox": [
+    -70.305358,
+    43.711757,
+    -70.305358,
+    43.711757
+],
   "geometry": {"coordinates":[-70.305358,43.711757],"type":"Point"}
 }

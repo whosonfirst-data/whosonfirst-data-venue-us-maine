@@ -2,13 +2,14 @@
   "id": 387798203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.629272,43.973556,-69.629272,43.973556",
     "geom:latitude":43.973556,
     "geom:longitude":-69.629272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Middle Rd",
     "sg:city":"Wiscasset",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387798203,
-    "wof:lastmodified":1449056806,
+    "wof:lastmodified":1466586932,
     "wof:name":"Village Therapeutic Massage",
     "wof:parent_id":85820077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-69.629272,43.973556,-69.629272,43.973556],
+  "bbox": [
+    -69.629272,
+    43.973556,
+    -69.629272,
+    43.973556
+],
   "geometry": {"coordinates":[-69.629272,43.973556],"type":"Point"}
 }

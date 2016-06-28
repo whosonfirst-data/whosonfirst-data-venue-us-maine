@@ -2,13 +2,14 @@
   "id": 387834341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.73063,44.382441,-68.73063,44.382441",
     "geom:latitude":44.382441,
     "geom:longitude":-68.73063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Varnumville Rd",
     "sg:city":"Brooksville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387834341,
-    "wof:lastmodified":1449056460,
+    "wof:lastmodified":1466587128,
     "wof:name":"Sunrise Cottages",
     "wof:parent_id":85838497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-68.73063,44.382441,-68.73063,44.382441],
+  "bbox": [
+    -68.73063,
+    44.382441,
+    -68.73063,
+    44.382441
+],
   "geometry": {"coordinates":[-68.73063,44.382441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387679079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.210942,44.095243,-70.210942,44.095243",
     "geom:latitude":44.095243,
     "geom:longitude":-70.210942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Pierce St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387679079,
-    "wof:lastmodified":1449058560,
+    "wof:lastmodified":1466586426,
     "wof:name":"Pierce St Comm Resource Ctr",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conservation"
     ]
 },
-  "bbox": [-70.210942,44.095243,-70.210942,44.095243],
+  "bbox": [
+    -70.210942,
+    44.095243,
+    -70.210942,
+    44.095243
+],
   "geometry": {"coordinates":[-70.210942,44.095243],"type":"Point"}
 }

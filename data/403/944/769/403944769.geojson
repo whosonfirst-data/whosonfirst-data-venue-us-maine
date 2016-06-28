@@ -2,13 +2,14 @@
   "id": 403944769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.254841,43.669956,-70.254841,43.669956",
     "geom:latitude":43.669956,
     "geom:longitude":-70.254841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Washington Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403944769,
-    "wof:lastmodified":1449055304,
+    "wof:lastmodified":1466587068,
     "wof:name":"Northern Burner Supply Co",
     "wof:parent_id":85835993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "burner"
     ]
 },
-  "bbox": [-70.254841,43.669956,-70.254841,43.669956],
+  "bbox": [
+    -70.254841,
+    43.669956,
+    -70.254841,
+    43.669956
+],
   "geometry": {"coordinates":[-70.254841,43.669956],"type":"Point"}
 }

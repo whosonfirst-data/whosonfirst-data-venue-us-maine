@@ -2,13 +2,14 @@
   "id": 403940073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.253581,43.635845,-70.253581,43.635845",
     "geom:latitude":43.635845,
     "geom:longitude":-70.253581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Market St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403940073,
-    "wof:lastmodified":1449054975,
+    "wof:lastmodified":1466586956,
     "wof:name":"J & R Millcreek Laundromat",
     "wof:parent_id":85828657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.253581,43.635845,-70.253581,43.635845],
+  "bbox": [
+    -70.253581,
+    43.635845,
+    -70.253581,
+    43.635845
+],
   "geometry": {"coordinates":[-70.253581,43.635845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404197923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242183,43.649899,-70.242183,43.649899",
     "geom:latitude":43.649899,
     "geom:longitude":-70.242183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404197923,
-    "wof:lastmodified":1449040172,
+    "wof:lastmodified":1466586828,
     "wof:name":"Portland Pharmacy Ascend",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.242183,43.649899,-70.242183,43.649899],
+  "bbox": [
+    -70.242183,
+    43.649899,
+    -70.242183,
+    43.649899
+],
   "geometry": {"coordinates":[-70.242183,43.649899],"type":"Point"}
 }

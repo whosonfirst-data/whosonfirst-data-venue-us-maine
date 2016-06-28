@@ -2,13 +2,14 @@
   "id": 404005251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.448392,43.528157,-70.448392,43.528157",
     "geom:latitude":43.528157,
     "geom:longitude":-70.448392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Spring Hill Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404005251,
-    "wof:lastmodified":1449040236,
+    "wof:lastmodified":1466585765,
     "wof:name":"Casco Bay Steel Structures Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-70.448392,43.528157,-70.448392,43.528157],
+  "bbox": [
+    -70.448392,
+    43.528157,
+    -70.448392,
+    43.528157
+],
   "geometry": {"coordinates":[-70.448392,43.528157],"type":"Point"}
 }

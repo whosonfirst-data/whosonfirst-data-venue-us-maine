@@ -2,13 +2,14 @@
   "id": 387784201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.258874,43.695085,-70.258874,43.695085",
     "geom:latitude":43.695085,
     "geom:longitude":-70.258874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"372 Presumpscot St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387784201,
-    "wof:lastmodified":1449058650,
+    "wof:lastmodified":1466586999,
     "wof:name":"Back Bay Automotive",
     "wof:parent_id":85816239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.258874,43.695085,-70.258874,43.695085],
-  "geometry": {"coordinates":[-70.258874,43.695085],"type":"Point"}
+  "bbox": [
+    -70.258874,
+    43.695085,
+    -70.258874,
+    43.695085
+],
+  "geometry": {"coordinates":[-70.25887400000001,43.695085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404214627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.099271,46.953759,-68.099271,46.953759",
     "geom:latitude":46.953759,
     "geom:longitude":-68.099271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 Station Rd",
     "sg:city":"New Sweden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404214627,
-    "wof:lastmodified":1449040294,
+    "wof:lastmodified":1466586972,
     "wof:name":"Anderson Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-68.099271,46.953759,-68.099271,46.953759],
+  "bbox": [
+    -68.099271,
+    46.953759,
+    -68.099271,
+    46.953759
+],
   "geometry": {"coordinates":[-68.099271,46.953759],"type":"Point"}
 }

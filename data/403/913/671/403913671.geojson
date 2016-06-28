@@ -2,13 +2,14 @@
   "id": 403913671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.771039,44.810584,-68.771039,44.810584",
     "geom:latitude":44.810584,
     "geom:longitude":-68.771039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"354 French St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403913671,
-    "wof:lastmodified":1449055146,
+    "wof:lastmodified":1466586956,
     "wof:name":"Archi-Check Pro Property",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-68.771039,44.810584,-68.771039,44.810584],
+  "bbox": [
+    -68.771039,
+    44.810584,
+    -68.771039,
+    44.810584
+],
   "geometry": {"coordinates":[-68.771039,44.810584],"type":"Point"}
 }

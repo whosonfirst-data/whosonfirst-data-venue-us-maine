@@ -2,13 +2,14 @@
   "id": 387703063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.817587,44.754736,-68.817587,44.754736",
     "geom:latitude":44.754736,
     "geom:longitude":-68.817587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Riverview Dr",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387703063,
-    "wof:lastmodified":1449057252,
+    "wof:lastmodified":1466586751,
     "wof:name":"Predict Lubrication Analysis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-68.817587,44.754736,-68.817587,44.754736],
+  "bbox": [
+    -68.817587,
+    44.754736,
+    -68.817587,
+    44.754736
+],
   "geometry": {"coordinates":[-68.817587,44.754736],"type":"Point"}
 }

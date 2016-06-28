@@ -2,13 +2,14 @@
   "id": 403822185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.960961,44.371198,-68.960961,44.371198",
     "geom:latitude":44.371198,
     "geom:longitude":-68.960961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 Shore Rd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403822185,
-    "wof:lastmodified":1449055911,
+    "wof:lastmodified":1466586301,
     "wof:name":"Penobscot Bay Obgyn Assoc",
     "wof:parent_id":85804909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-68.960961,44.371198,-68.960961,44.371198],
+  "bbox": [
+    -68.960961,
+    44.371198,
+    -68.960961,
+    44.371198
+],
   "geometry": {"coordinates":[-68.960961,44.371198],"type":"Point"}
 }

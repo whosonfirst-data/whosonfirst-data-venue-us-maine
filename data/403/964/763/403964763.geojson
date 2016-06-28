@@ -2,13 +2,14 @@
   "id": 403964763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.741047,44.788846,-68.741047,44.788846",
     "geom:latitude":44.788846,
     "geom:longitude":-68.741047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Whitney Ct",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403964763,
-    "wof:lastmodified":1449055631,
+    "wof:lastmodified":1466587125,
     "wof:name":"Briggs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-68.741047,44.788846,-68.741047,44.788846],
-  "geometry": {"coordinates":[-68.741047,44.788846],"type":"Point"}
+  "bbox": [
+    -68.741047,
+    44.788846,
+    -68.741047,
+    44.788846
+],
+  "geometry": {"coordinates":[-68.74104699999999,44.788846],"type":"Point"}
 }

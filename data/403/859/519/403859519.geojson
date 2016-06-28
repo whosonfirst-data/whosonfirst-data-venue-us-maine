@@ -2,13 +2,14 @@
   "id": 403859519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.833413,44.86208,-68.833413,44.86208",
     "geom:latitude":44.86208,
     "geom:longitude":-68.833413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2354 Broadway",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403859519,
-    "wof:lastmodified":1449055563,
+    "wof:lastmodified":1466586859,
     "wof:name":"Six Mile Falls Meat Market",
     "wof:parent_id":85848853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.833413,44.86208,-68.833413,44.86208],
-  "geometry": {"coordinates":[-68.833413,44.86208],"type":"Point"}
+  "bbox": [
+    -68.833413,
+    44.86208,
+    -68.833413,
+    44.86208
+],
+  "geometry": {"coordinates":[-68.83341299999999,44.86208],"type":"Point"}
 }

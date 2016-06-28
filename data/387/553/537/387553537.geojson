@@ -2,13 +2,14 @@
   "id": 387553537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.747682,44.837151,-68.747682,44.837151",
     "geom:latitude":44.837151,
     "geom:longitude":-68.747682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Stillwater Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387553537,
-    "wof:lastmodified":1449056136,
+    "wof:lastmodified":1466585784,
     "wof:name":"Merrill Merchants Bank",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.747682,44.837151,-68.747682,44.837151],
+  "bbox": [
+    -68.747682,
+    44.837151,
+    -68.747682,
+    44.837151
+],
   "geometry": {"coordinates":[-68.747682,44.837151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387697507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.942411,47.165602,-67.942411,47.165602",
     "geom:latitude":47.165602,
     "geom:longitude":-67.942411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Main St",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387697507,
-    "wof:lastmodified":1449058509,
+    "wof:lastmodified":1466586721,
     "wof:name":"Gem Machine Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-67.942411,47.165602,-67.942411,47.165602],
-  "geometry": {"coordinates":[-67.942411,47.165602],"type":"Point"}
+  "bbox": [
+    -67.942411,
+    47.165602,
+    -67.942411,
+    47.165602
+],
+  "geometry": {"coordinates":[-67.94241100000001,47.165602],"type":"Point"}
 }

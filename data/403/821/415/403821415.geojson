@@ -2,13 +2,14 @@
   "id": 403821415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.203371,45.027829,-69.203371,45.027829",
     "geom:latitude":45.027829,
     "geom:longitude":-69.203371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 Dexter Rd",
     "sg:city":"Corinna",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403821415,
-    "wof:lastmodified":1449055360,
+    "wof:lastmodified":1466586286,
     "wof:name":"Pet Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sitting"
     ]
 },
-  "bbox": [-69.203371,45.027829,-69.203371,45.027829],
+  "bbox": [
+    -69.203371,
+    45.027829,
+    -69.203371,
+    45.027829
+],
   "geometry": {"coordinates":[-69.203371,45.027829],"type":"Point"}
 }

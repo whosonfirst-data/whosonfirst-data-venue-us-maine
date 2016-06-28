@@ -2,13 +2,14 @@
   "id": 404134501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.946565,44.387178,-69.946565,44.387178",
     "geom:latitude":44.387178,
     "geom:longitude":-69.946565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"834 Main St",
     "sg:city":"Readfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404134501,
-    "wof:lastmodified":1449040276,
+    "wof:lastmodified":1466586516,
     "wof:name":"Simmons Health Care Billing",
     "wof:parent_id":85855973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-69.946565,44.387178,-69.946565,44.387178],
-  "geometry": {"coordinates":[-69.946565,44.387178],"type":"Point"}
+  "bbox": [
+    -69.946565,
+    44.387178,
+    -69.946565,
+    44.387178
+],
+  "geometry": {"coordinates":[-69.94656500000001,44.387178],"type":"Point"}
 }

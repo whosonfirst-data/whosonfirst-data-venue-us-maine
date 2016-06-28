@@ -2,13 +2,14 @@
   "id": 403996247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.272477,43.738353,-70.272477,43.738353",
     "geom:latitude":43.738353,
     "geom:longitude":-70.272477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Woodville Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":403996247,
-    "wof:lastmodified":1449055005,
+    "wof:lastmodified":1466587181,
     "wof:name":"Falmouth Driver Ed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "driving"
     ]
 },
-  "bbox": [-70.272477,43.738353,-70.272477,43.738353],
-  "geometry": {"coordinates":[-70.272477,43.738353],"type":"Point"}
+  "bbox": [
+    -70.272477,
+    43.738353,
+    -70.272477,
+    43.738353
+],
+  "geometry": {"coordinates":[-70.27247699999999,43.738353],"type":"Point"}
 }

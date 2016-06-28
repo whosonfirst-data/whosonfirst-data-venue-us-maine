@@ -2,13 +2,14 @@
   "id": 403747953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.429416,44.033717,-70.429416,44.033717",
     "geom:latitude":44.033717,
     "geom:longitude":-70.429416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"664 Bakerstown Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403747953,
-    "wof:lastmodified":1449054871,
+    "wof:lastmodified":1466586181,
     "wof:name":"Garys Garage",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-70.429416,44.033717,-70.429416,44.033717],
+  "bbox": [
+    -70.429416,
+    44.033717,
+    -70.429416,
+    44.033717
+],
   "geometry": {"coordinates":[-70.429416,44.033717],"type":"Point"}
 }

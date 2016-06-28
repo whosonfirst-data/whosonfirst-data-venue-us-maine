@@ -2,13 +2,14 @@
   "id": 387909887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.839819,46.125554,-67.839819,46.125554",
     "geom:latitude":46.125554,
     "geom:longitude":-67.839819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Court St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387909887,
-    "wof:lastmodified":1449058969,
+    "wof:lastmodified":1466587319,
     "wof:name":"Keenan Foundations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "foundation"
     ]
 },
-  "bbox": [-67.839819,46.125554,-67.839819,46.125554],
-  "geometry": {"coordinates":[-67.839819,46.125554],"type":"Point"}
+  "bbox": [
+    -67.839819,
+    46.125554,
+    -67.839819,
+    46.125554
+],
+  "geometry": {"coordinates":[-67.83981900000001,46.125554],"type":"Point"}
 }

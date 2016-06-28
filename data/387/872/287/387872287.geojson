@@ -2,13 +2,14 @@
   "id": 387872287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.573491,43.435021,-70.573491,43.435021",
     "geom:latitude":43.435021,
     "geom:longitude":-70.573491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 Alewive Rd",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387872287,
-    "wof:lastmodified":1449056445,
+    "wof:lastmodified":1466587201,
     "wof:name":"Luke's Reel Repair",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fishing"
     ]
 },
-  "bbox": [-70.573491,43.435021,-70.573491,43.435021],
+  "bbox": [
+    -70.573491,
+    43.435021,
+    -70.573491,
+    43.435021
+],
   "geometry": {"coordinates":[-70.573491,43.435021],"type":"Point"}
 }

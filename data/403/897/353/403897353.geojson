@@ -2,13 +2,14 @@
   "id": 403897353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.450157,43.850561,-70.450157,43.850561",
     "geom:latitude":43.850561,
     "geom:longitude":-70.450157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403897353,
-    "wof:lastmodified":1449055758,
+    "wof:lastmodified":1466586834,
     "wof:name":"Dovetail Group",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-70.450157,43.850561,-70.450157,43.850561],
+  "bbox": [
+    -70.450157,
+    43.850561,
+    -70.450157,
+    43.850561
+],
   "geometry": {"coordinates":[-70.450157,43.850561],"type":"Point"}
 }

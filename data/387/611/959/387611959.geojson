@@ -2,13 +2,14 @@
   "id": 387611959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.847893,44.940485,-68.847893,44.940485",
     "geom:latitude":44.940485,
     "geom:longitude":-68.847893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1984 Pushaw Rd",
     "sg:city":"Glenburn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387611959,
-    "wof:lastmodified":1449059110,
+    "wof:lastmodified":1466586530,
     "wof:name":"Fifield's Typewriter Svc & Rpr",
     "wof:parent_id":85855557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typewriter"
     ]
 },
-  "bbox": [-68.847893,44.940485,-68.847893,44.940485],
+  "bbox": [
+    -68.847893,
+    44.940485,
+    -68.847893,
+    44.940485
+],
   "geometry": {"coordinates":[-68.847893,44.940485],"type":"Point"}
 }

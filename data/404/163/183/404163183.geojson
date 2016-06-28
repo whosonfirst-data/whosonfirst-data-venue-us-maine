@@ -2,13 +2,14 @@
   "id": 404163183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.439247,43.581945,-70.439247,43.581945",
     "geom:latitude":43.581945,
     "geom:longitude":-70.439247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Ash Swamp Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404163183,
-    "wof:lastmodified":1449040307,
+    "wof:lastmodified":1466586778,
     "wof:name":"O'd Appliance Svc",
     "wof:parent_id":85834397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.439247,43.581945,-70.439247,43.581945],
-  "geometry": {"coordinates":[-70.439247,43.581945],"type":"Point"}
+  "bbox": [
+    -70.439247,
+    43.581945,
+    -70.439247,
+    43.581945
+],
+  "geometry": {"coordinates":[-70.43924699999999,43.581945],"type":"Point"}
 }

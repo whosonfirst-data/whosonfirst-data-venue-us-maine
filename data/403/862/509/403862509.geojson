@@ -2,13 +2,14 @@
   "id": 403862509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.193706,44.116309,-70.193706,44.116309",
     "geom:latitude":44.116309,
     "geom:longitude":-70.193706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Novella St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403862509,
-    "wof:lastmodified":1449056012,
+    "wof:lastmodified":1466586754,
     "wof:name":"Maine Industrial Medical Clnc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.193706,44.116309,-70.193706,44.116309],
-  "geometry": {"coordinates":[-70.193706,44.116309],"type":"Point"}
+  "bbox": [
+    -70.193706,
+    44.116309,
+    -70.193706,
+    44.116309
+],
+  "geometry": {"coordinates":[-70.19370600000001,44.116309],"type":"Point"}
 }

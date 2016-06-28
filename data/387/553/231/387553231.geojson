@@ -2,13 +2,14 @@
   "id": 387553231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.217225,44.096557,-70.217225,44.096557",
     "geom:latitude":44.096557,
     "geom:longitude":-70.217225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387553231,
-    "wof:lastmodified":1449056134,
+    "wof:lastmodified":1466585780,
     "wof:name":"Berman & Simmons",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-70.217225,44.096557,-70.217225,44.096557],
+  "bbox": [
+    -70.217225,
+    44.096557,
+    -70.217225,
+    44.096557
+],
   "geometry": {"coordinates":[-70.217225,44.096557],"type":"Point"}
 }

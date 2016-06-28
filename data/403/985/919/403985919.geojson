@@ -2,13 +2,14 @@
   "id": 403985919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.126547,43.808943,-70.126547,43.808943",
     "geom:latitude":43.808943,
     "geom:longitude":-70.126547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Spar Cove Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403985919,
-    "wof:lastmodified":1449055297,
+    "wof:lastmodified":1466587246,
     "wof:name":"James B Sawyer Plumbing Inc",
     "wof:parent_id":85813291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.126547,43.808943,-70.126547,43.808943],
+  "bbox": [
+    -70.126547,
+    43.808943,
+    -70.126547,
+    43.808943
+],
   "geometry": {"coordinates":[-70.126547,43.808943],"type":"Point"}
 }

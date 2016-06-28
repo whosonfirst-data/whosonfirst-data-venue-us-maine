@@ -2,13 +2,14 @@
   "id": 387622513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.323354,44.269517,-68.323354,44.269517",
     "geom:latitude":44.269517,
     "geom:longitude":-68.323354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Seawall Rd",
     "sg:city":"Southwest Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387622513,
-    "wof:lastmodified":1449059238,
+    "wof:lastmodified":1466585726,
     "wof:name":"XYZ Restaurant",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.323354,44.269517,-68.323354,44.269517],
-  "geometry": {"coordinates":[-68.323354,44.269517],"type":"Point"}
+  "bbox": [
+    -68.323354,
+    44.269517,
+    -68.323354,
+    44.269517
+],
+  "geometry": {"coordinates":[-68.32335399999999,44.269517],"type":"Point"}
 }

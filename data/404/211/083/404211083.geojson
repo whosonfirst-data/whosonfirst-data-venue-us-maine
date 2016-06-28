@@ -2,13 +2,14 @@
   "id": 404211083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.710379,44.484538,-70.710379,44.484538",
     "geom:latitude":44.484538,
     "geom:longitude":-70.710379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Top Hat Rd",
     "sg:city":"Hanover",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404211083,
-    "wof:lastmodified":1449039339,
+    "wof:lastmodified":1466586957,
     "wof:name":"Kellner Sales Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "industrial"
     ]
 },
-  "bbox": [-70.710379,44.484538,-70.710379,44.484538],
+  "bbox": [
+    -70.710379,
+    44.484538,
+    -70.710379,
+    44.484538
+],
   "geometry": {"coordinates":[-70.710379,44.484538],"type":"Point"}
 }

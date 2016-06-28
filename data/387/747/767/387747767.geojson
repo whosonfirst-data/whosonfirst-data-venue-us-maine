@@ -2,13 +2,14 @@
   "id": 387747767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.665737,43.414818,-70.665737,43.414818",
     "geom:latitude":43.414818,
     "geom:longitude":-70.665737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Robin Ln",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387747767,
-    "wof:lastmodified":1449056791,
+    "wof:lastmodified":1466586891,
     "wof:name":"Peter D Petrin Carpenter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.665737,43.414818,-70.665737,43.414818],
-  "geometry": {"coordinates":[-70.665737,43.414818],"type":"Point"}
+  "bbox": [
+    -70.665737,
+    43.414818,
+    -70.665737,
+    43.414818
+],
+  "geometry": {"coordinates":[-70.66573699999999,43.414818],"type":"Point"}
 }

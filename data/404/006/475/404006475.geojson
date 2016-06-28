@@ -2,13 +2,14 @@
   "id": 404006475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.103563,43.980761,-70.103563,43.980761",
     "geom:latitude":43.980761,
     "geom:longitude":-70.103563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Plummer Mill Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404006475,
-    "wof:lastmodified":1449040049,
+    "wof:lastmodified":1466585783,
     "wof:name":"Chases Jeanna Day Care",
     "wof:parent_id":85806367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-70.103563,43.980761,-70.103563,43.980761],
-  "geometry": {"coordinates":[-70.103563,43.980761],"type":"Point"}
+  "bbox": [
+    -70.103563,
+    43.980761,
+    -70.103563,
+    43.980761
+],
+  "geometry": {"coordinates":[-70.10356299999999,43.980761],"type":"Point"}
 }

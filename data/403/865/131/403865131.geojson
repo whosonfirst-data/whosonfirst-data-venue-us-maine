@@ -2,13 +2,14 @@
   "id": 403865131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.448152,44.134582,-68.448152,44.134582",
     "geom:latitude":44.134582,
     "geom:longitude":-68.448152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"382 Harbor Rd",
     "sg:city":"Swans Island",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403865131,
-    "wof:lastmodified":1449055635,
+    "wof:lastmodified":1466586676,
     "wof:name":"Swans Island Fishermens Co-Op",
     "wof:parent_id":85803863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.448152,44.134582,-68.448152,44.134582],
-  "geometry": {"coordinates":[-68.448152,44.134582],"type":"Point"}
+  "bbox": [
+    -68.448152,
+    44.134582,
+    -68.448152,
+    44.134582
+],
+  "geometry": {"coordinates":[-68.44815199999999,44.134582],"type":"Point"}
 }

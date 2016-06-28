@@ -2,13 +2,14 @@
   "id": 387628523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242761,44.082868,-70.242761,44.082868",
     "geom:latitude":44.082868,
     "geom:longitude":-70.242761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Poland Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387628523,
-    "wof:lastmodified":1449059200,
+    "wof:lastmodified":1466585779,
     "wof:name":"Sounds Galactic",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-70.242761,44.082868,-70.242761,44.082868],
+  "bbox": [
+    -70.242761,
+    44.082868,
+    -70.242761,
+    44.082868
+],
   "geometry": {"coordinates":[-70.242761,44.082868],"type":"Point"}
 }

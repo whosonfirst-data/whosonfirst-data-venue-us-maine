@@ -2,13 +2,14 @@
   "id": 403825087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.104692,44.074727,-69.104692,44.074727",
     "geom:latitude":44.074727,
     "geom:longitude":-69.104692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Weskeag Rd",
     "sg:city":"Owls Head",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403825087,
-    "wof:lastmodified":1449054668,
+    "wof:lastmodified":1466586349,
     "wof:name":"Frankie's Garage",
     "wof:parent_id":85803709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-69.104692,44.074727,-69.104692,44.074727],
+  "bbox": [
+    -69.104692,
+    44.074727,
+    -69.104692,
+    44.074727
+],
   "geometry": {"coordinates":[-69.104692,44.074727],"type":"Point"}
 }

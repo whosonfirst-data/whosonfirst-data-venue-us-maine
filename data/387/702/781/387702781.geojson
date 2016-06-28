@@ -2,13 +2,14 @@
   "id": 387702781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.045088,46.759222,-68.045088,46.759222",
     "geom:latitude":46.759222,
     "geom:longitude":-68.045088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Chandler Rd",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387702781,
-    "wof:lastmodified":1449058006,
+    "wof:lastmodified":1466586748,
     "wof:name":"Coles Shoe Repair",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parlor"
     ]
 },
-  "bbox": [-68.045088,46.759222,-68.045088,46.759222],
-  "geometry": {"coordinates":[-68.045088,46.759222],"type":"Point"}
+  "bbox": [
+    -68.045088,
+    46.759222,
+    -68.045088,
+    46.759222
+],
+  "geometry": {"coordinates":[-68.04508800000001,46.759222],"type":"Point"}
 }

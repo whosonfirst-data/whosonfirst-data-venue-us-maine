@@ -2,13 +2,14 @@
   "id": 404206679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.985065,44.906183,-66.985065,44.906183",
     "geom:latitude":44.906183,
     "geom:longitude":-66.985065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Water St",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404206679,
-    "wof:lastmodified":1449039949,
+    "wof:lastmodified":1466587041,
     "wof:name":"Harborside Clipper",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-66.985065,44.906183,-66.985065,44.906183],
-  "geometry": {"coordinates":[-66.985065,44.906183],"type":"Point"}
+  "bbox": [
+    -66.985065,
+    44.906183,
+    -66.985065,
+    44.906183
+],
+  "geometry": {"coordinates":[-66.98506500000001,44.906183],"type":"Point"}
 }

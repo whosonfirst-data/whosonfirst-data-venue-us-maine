@@ -2,13 +2,14 @@
   "id": 404026039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.853348,46.116883,-67.853348,46.116883",
     "geom:latitude":46.116883,
     "geom:longitude":-67.853348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Bangor St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404026039,
-    "wof:lastmodified":1449039826,
+    "wof:lastmodified":1466585956,
     "wof:name":"Thompson Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-67.853348,46.116883,-67.853348,46.116883],
+  "bbox": [
+    -67.853348,
+    46.116883,
+    -67.853348,
+    46.116883
+],
   "geometry": {"coordinates":[-67.853348,46.116883],"type":"Point"}
 }

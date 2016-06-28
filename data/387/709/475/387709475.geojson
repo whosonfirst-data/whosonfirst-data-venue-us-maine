@@ -2,13 +2,14 @@
   "id": 387709475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.661806,43.169996,-70.661806,43.169996",
     "geom:latitude":43.169996,
     "geom:longitude":-70.661806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Prebble Ln",
     "sg:city":"York",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387709475,
-    "wof:lastmodified":1449056856,
+    "wof:lastmodified":1466586773,
     "wof:name":"Russell Hume",
     "wof:parent_id":85810513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.661806,43.169996,-70.661806,43.169996],
+  "bbox": [
+    -70.661806,
+    43.169996,
+    -70.661806,
+    43.169996
+],
   "geometry": {"coordinates":[-70.661806,43.169996],"type":"Point"}
 }

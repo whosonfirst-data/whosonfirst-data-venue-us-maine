@@ -2,13 +2,14 @@
   "id": 403971311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.208327,44.10557,-70.208327,44.10557",
     "geom:latitude":44.10557,
     "geom:longitude":-70.208327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Frye St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403971311,
-    "wof:lastmodified":1449055318,
+    "wof:lastmodified":1466587043,
     "wof:name":"Wrbc FM",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-70.208327,44.10557,-70.208327,44.10557],
+  "bbox": [
+    -70.208327,
+    44.10557,
+    -70.208327,
+    44.10557
+],
   "geometry": {"coordinates":[-70.208327,44.10557],"type":"Point"}
 }

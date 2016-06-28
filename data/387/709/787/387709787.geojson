@@ -2,13 +2,14 @@
   "id": 387709787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.466117,44.710427,-67.466117,44.710427",
     "geom:latitude":44.710427,
     "geom:longitude":-67.466117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Water St",
     "sg:city":"Machias",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387709787,
-    "wof:lastmodified":1449056856,
+    "wof:lastmodified":1466586872,
     "wof:name":"Alan D Graves",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-67.466117,44.710427,-67.466117,44.710427],
+  "bbox": [
+    -67.466117,
+    44.710427,
+    -67.466117,
+    44.710427
+],
   "geometry": {"coordinates":[-67.466117,44.710427],"type":"Point"}
 }

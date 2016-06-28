@@ -2,13 +2,14 @@
   "id": 404019337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.782384,44.373411,-69.782384,44.373411",
     "geom:latitude":44.373411,
     "geom:longitude":-69.782384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Gagne St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404019337,
-    "wof:lastmodified":1449039820,
+    "wof:lastmodified":1466585884,
     "wof:name":"Marc's Building & Remodeling",
     "wof:parent_id":85837243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.782384,44.373411,-69.782384,44.373411],
-  "geometry": {"coordinates":[-69.782384,44.373411],"type":"Point"}
+  "bbox": [
+    -69.782384,
+    44.373411,
+    -69.782384,
+    44.373411
+],
+  "geometry": {"coordinates":[-69.78238399999999,44.373411],"type":"Point"}
 }

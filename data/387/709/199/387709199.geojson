@@ -2,13 +2,14 @@
   "id": 387709199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.391577,43.763069,-70.391577,43.763069",
     "geom:latitude":43.763069,
     "geom:longitude":-70.391577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Chute Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387709199,
-    "wof:lastmodified":1449056857,
+    "wof:lastmodified":1466586767,
     "wof:name":"Paul W Lawrence Consulting",
     "wof:parent_id":85830911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "land"
     ]
 },
-  "bbox": [-70.391577,43.763069,-70.391577,43.763069],
+  "bbox": [
+    -70.391577,
+    43.763069,
+    -70.391577,
+    43.763069
+],
   "geometry": {"coordinates":[-70.391577,43.763069],"type":"Point"}
 }

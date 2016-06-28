@@ -2,13 +2,14 @@
   "id": 387674725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.228132,43.65069,-70.228132,43.65069",
     "geom:latitude":43.65069,
     "geom:longitude":-70.228132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Fort Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387674725,
-    "wof:lastmodified":1449058952,
+    "wof:lastmodified":1466586359,
     "wof:name":"Mr & Mrs Fish Program",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "educational"
     ]
 },
-  "bbox": [-70.228132,43.65069,-70.228132,43.65069],
+  "bbox": [
+    -70.228132,
+    43.65069,
+    -70.228132,
+    43.65069
+],
   "geometry": {"coordinates":[-70.228132,43.65069],"type":"Point"}
 }

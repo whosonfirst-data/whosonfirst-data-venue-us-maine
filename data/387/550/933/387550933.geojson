@@ -2,13 +2,14 @@
   "id": 387550933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.533941,43.709059,-70.533941,43.709059",
     "geom:latitude":43.709059,
     "geom:longitude":-70.533941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Dingley Spring Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387550933,
-    "wof:lastmodified":1449058168,
+    "wof:lastmodified":1466585762,
     "wof:name":"Connections For Kids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "welfare"
     ]
 },
-  "bbox": [-70.533941,43.709059,-70.533941,43.709059],
+  "bbox": [
+    -70.533941,
+    43.709059,
+    -70.533941,
+    43.709059
+],
   "geometry": {"coordinates":[-70.533941,43.709059],"type":"Point"}
 }

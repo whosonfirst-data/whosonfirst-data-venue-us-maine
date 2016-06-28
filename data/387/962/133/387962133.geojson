@@ -2,13 +2,14 @@
   "id": 387962133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.379523,43.514504,-70.379523,43.514504",
     "geom:latitude":43.514504,
     "geom:longitude":-70.379523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Heath St",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387962133,
-    "wof:lastmodified":1449058341,
+    "wof:lastmodified":1466587298,
     "wof:name":"A Z's Pizza & Deli",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.379523,43.514504,-70.379523,43.514504],
-  "geometry": {"coordinates":[-70.379523,43.514504],"type":"Point"}
+  "bbox": [
+    -70.379523,
+    43.514504,
+    -70.379523,
+    43.514504
+],
+  "geometry": {"coordinates":[-70.37952300000001,43.514504],"type":"Point"}
 }

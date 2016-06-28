@@ -2,13 +2,14 @@
   "id": 387799115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.428567,43.512664,-70.428567,43.512664",
     "geom:latitude":43.512664,
     "geom:longitude":-70.428567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Woodman Ave",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387799115,
-    "wof:lastmodified":1449059937,
+    "wof:lastmodified":1466587037,
     "wof:name":"D L Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [-70.428567,43.512664,-70.428567,43.512664],
+  "bbox": [
+    -70.428567,
+    43.512664,
+    -70.428567,
+    43.512664
+],
   "geometry": {"coordinates":[-70.428567,43.512664],"type":"Point"}
 }

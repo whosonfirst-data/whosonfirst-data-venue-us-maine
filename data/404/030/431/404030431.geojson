@@ -2,13 +2,14 @@
   "id": 404030431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.365592,43.676583,-70.365592,43.676583",
     "geom:latitude":43.676583,
     "geom:longitude":-70.365592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"857 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404030431,
-    "wof:lastmodified":1449039467,
+    "wof:lastmodified":1466585977,
     "wof:name":"Rookies",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.365592,43.676583,-70.365592,43.676583],
-  "geometry": {"coordinates":[-70.365592,43.676583],"type":"Point"}
+  "bbox": [
+    -70.365592,
+    43.676583,
+    -70.365592,
+    43.676583
+],
+  "geometry": {"coordinates":[-70.36559200000001,43.676583],"type":"Point"}
 }

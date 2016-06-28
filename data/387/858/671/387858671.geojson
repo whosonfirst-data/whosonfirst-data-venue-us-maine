@@ -2,13 +2,14 @@
   "id": 387858671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.77583,44.336905,-69.77583,44.336905",
     "geom:latitude":44.336905,
     "geom:longitude":-69.77583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Forest Ave",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387858671,
-    "wof:lastmodified":1449056482,
+    "wof:lastmodified":1466587178,
     "wof:name":"Horstman 3 Corp",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-69.77583,44.336905,-69.77583,44.336905],
+  "bbox": [
+    -69.77583,
+    44.336905,
+    -69.77583,
+    44.336905
+],
   "geometry": {"coordinates":[-69.77583,44.336905],"type":"Point"}
 }

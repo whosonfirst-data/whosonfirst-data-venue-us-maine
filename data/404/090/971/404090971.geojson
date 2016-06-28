@@ -2,13 +2,14 @@
   "id": 404090971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.33002,43.886268,-70.33002,43.886268",
     "geom:latitude":43.886268,
     "geom:longitude":-70.33002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Main St",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404090971,
-    "wof:lastmodified":1449040040,
+    "wof:lastmodified":1466585863,
     "wof:name":"Coastline Industrial Piping",
     "wof:parent_id":85815293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.33002,43.886268,-70.33002,43.886268],
+  "bbox": [
+    -70.33002,
+    43.886268,
+    -70.33002,
+    43.886268
+],
   "geometry": {"coordinates":[-70.33002,43.886268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404142395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.179606,44.1026,-70.179606,44.1026",
     "geom:latitude":44.1026,
     "geom:longitude":-70.179606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"693 Sabattus St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404142395,
-    "wof:lastmodified":1449040045,
+    "wof:lastmodified":1466586625,
     "wof:name":"L A Professionals Bookkeeping",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-70.179606,44.1026,-70.179606,44.1026],
-  "geometry": {"coordinates":[-70.179606,44.1026],"type":"Point"}
+  "bbox": [
+    -70.179606,
+    44.1026,
+    -70.179606,
+    44.1026
+],
+  "geometry": {"coordinates":[-70.17960600000001,44.1026],"type":"Point"}
 }

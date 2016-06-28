@@ -2,13 +2,14 @@
   "id": 404113279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.666512,44.137927,-70.666512,44.137927",
     "geom:latitude":44.137927,
     "geom:longitude":-70.666512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Deer Hill Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404113279,
-    "wof:lastmodified":1449040227,
+    "wof:lastmodified":1466586191,
     "wof:name":"Gilman Counseling Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "family"
     ]
 },
-  "bbox": [-70.666512,44.137927,-70.666512,44.137927],
+  "bbox": [
+    -70.666512,
+    44.137927,
+    -70.666512,
+    44.137927
+],
   "geometry": {"coordinates":[-70.666512,44.137927],"type":"Point"}
 }

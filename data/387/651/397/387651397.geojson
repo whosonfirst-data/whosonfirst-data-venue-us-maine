@@ -2,13 +2,14 @@
   "id": 387651397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.444384,43.448572,-70.444384,43.448572",
     "geom:latitude":43.448572,
     "geom:longitude":-70.444384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Proctor Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387651397,
-    "wof:lastmodified":1449056852,
+    "wof:lastmodified":1466585988,
     "wof:name":"Bob's Garage",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-70.444384,43.448572,-70.444384,43.448572],
+  "bbox": [
+    -70.444384,
+    43.448572,
+    -70.444384,
+    43.448572
+],
   "geometry": {"coordinates":[-70.444384,43.448572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387918029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.765906,44.772939,-68.765906,44.772939",
     "geom:latitude":44.772939,
     "geom:longitude":-68.765906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Robinhood Dr",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387918029,
-    "wof:lastmodified":1449058701,
+    "wof:lastmodified":1466587255,
     "wof:name":"Sunshine Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.765906,44.772939,-68.765906,44.772939],
+  "bbox": [
+    -68.765906,
+    44.772939,
+    -68.765906,
+    44.772939
+],
   "geometry": {"coordinates":[-68.765906,44.772939],"type":"Point"}
 }

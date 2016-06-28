@@ -2,13 +2,14 @@
   "id": 387847081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.278194,44.212996,-69.278194,44.212996",
     "geom:latitude":44.212996,
     "geom:longitude":-69.278194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"293 Common Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387847081,
-    "wof:lastmodified":1449057479,
+    "wof:lastmodified":1466587147,
     "wof:name":"Union House On The Common",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bed"
     ]
 },
-  "bbox": [-69.278194,44.212996,-69.278194,44.212996],
+  "bbox": [
+    -69.278194,
+    44.212996,
+    -69.278194,
+    44.212996
+],
   "geometry": {"coordinates":[-69.278194,44.212996],"type":"Point"}
 }

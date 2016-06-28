@@ -2,13 +2,14 @@
   "id": 387634595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.766368,44.246645,-69.766368,44.246645",
     "geom:latitude":44.246645,
     "geom:longitude":-69.766368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"734 River Rd",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387634595,
-    "wof:lastmodified":1449057920,
+    "wof:lastmodified":1466586709,
     "wof:name":"TLC Variety",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "out"
     ]
 },
-  "bbox": [-69.766368,44.246645,-69.766368,44.246645],
+  "bbox": [
+    -69.766368,
+    44.246645,
+    -69.766368,
+    44.246645
+],
   "geometry": {"coordinates":[-69.766368,44.246645],"type":"Point"}
 }

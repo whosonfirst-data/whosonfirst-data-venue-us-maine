@@ -2,13 +2,14 @@
   "id": 403864187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.959674,43.904968,-69.959674,43.904968",
     "geom:latitude":43.904968,
     "geom:longitude":-69.959674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Longfellow Ave",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403864187,
-    "wof:lastmodified":1449055984,
+    "wof:lastmodified":1466586672,
     "wof:name":"Laurie Blain Lcsw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "worker"
     ]
 },
-  "bbox": [-69.959674,43.904968,-69.959674,43.904968],
-  "geometry": {"coordinates":[-69.959674,43.904968],"type":"Point"}
+  "bbox": [
+    -69.959674,
+    43.904968,
+    -69.959674,
+    43.904968
+],
+  "geometry": {"coordinates":[-69.95967400000001,43.904968],"type":"Point"}
 }

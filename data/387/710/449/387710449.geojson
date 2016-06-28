@@ -2,13 +2,14 @@
   "id": 387710449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.30601,44.263166,-68.30601,44.263166",
     "geom:latitude":44.263166,
     "geom:longitude":-68.30601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Seawall Rd",
     "sg:city":"Southwest Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387710449,
-    "wof:lastmodified":1449056350,
+    "wof:lastmodified":1466586870,
     "wof:name":"Double J Grocery & Deli",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-68.30601,44.263166,-68.30601,44.263166],
+  "bbox": [
+    -68.30601,
+    44.263166,
+    -68.30601,
+    44.263166
+],
   "geometry": {"coordinates":[-68.30601,44.263166],"type":"Point"}
 }

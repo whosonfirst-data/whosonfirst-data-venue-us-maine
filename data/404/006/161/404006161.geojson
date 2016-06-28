@@ -2,13 +2,14 @@
   "id": 404006161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.907674,44.461901,-68.907674,44.461901",
     "geom:latitude":44.461901,
     "geom:longitude":-68.907674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 E Main St",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404006161,
-    "wof:lastmodified":1449040048,
+    "wof:lastmodified":1466585779,
     "wof:name":"Ja Distributors Rainbow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-68.907674,44.461901,-68.907674,44.461901],
+  "bbox": [
+    -68.907674,
+    44.461901,
+    -68.907674,
+    44.461901
+],
   "geometry": {"coordinates":[-68.907674,44.461901],"type":"Point"}
 }

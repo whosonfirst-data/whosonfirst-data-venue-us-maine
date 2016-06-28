@@ -2,13 +2,14 @@
   "id": 387697219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.533001,44.212483,-70.533001,44.212483",
     "geom:latitude":44.212483,
     "geom:longitude":-70.533001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Winter St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387697219,
-    "wof:lastmodified":1449058509,
+    "wof:lastmodified":1466586717,
     "wof:name":"Community Concepts Inc",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-70.533001,44.212483,-70.533001,44.212483],
+  "bbox": [
+    -70.533001,
+    44.212483,
+    -70.533001,
+    44.212483
+],
   "geometry": {"coordinates":[-70.533001,44.212483],"type":"Point"}
 }

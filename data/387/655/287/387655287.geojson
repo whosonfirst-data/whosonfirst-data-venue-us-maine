@@ -2,13 +2,14 @@
   "id": 387655287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.195539,44.1028,-70.195539,44.1028",
     "geom:latitude":44.1028,
     "geom:longitude":-70.195539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Lafayette St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387655287,
-    "wof:lastmodified":1449058293,
+    "wof:lastmodified":1466586048,
     "wof:name":"On The Fly Productions",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "music"
     ]
 },
-  "bbox": [-70.195539,44.1028,-70.195539,44.1028],
+  "bbox": [
+    -70.195539,
+    44.1028,
+    -70.195539,
+    44.1028
+],
   "geometry": {"coordinates":[-70.195539,44.1028],"type":"Point"}
 }

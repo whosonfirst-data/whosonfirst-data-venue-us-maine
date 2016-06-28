@@ -2,13 +2,14 @@
   "id": 403879213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.007935,44.915481,-67.007935,44.915481",
     "geom:latitude":44.915481,
     "geom:longitude":-67.007935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Redoubt Rd",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403879213,
-    "wof:lastmodified":1449054642,
+    "wof:lastmodified":1466586727,
     "wof:name":"Eastport Windjammers Inc",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catching"
     ]
 },
-  "bbox": [-67.007935,44.915481,-67.007935,44.915481],
+  "bbox": [
+    -67.007935,
+    44.915481,
+    -67.007935,
+    44.915481
+],
   "geometry": {"coordinates":[-67.007935,44.915481],"type":"Point"}
 }

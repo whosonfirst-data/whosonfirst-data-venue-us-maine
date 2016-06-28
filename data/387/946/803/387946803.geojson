@@ -2,13 +2,14 @@
   "id": 387946803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.690647,43.141792,-70.690647,43.141792",
     "geom:latitude":43.141792,
     "geom:longitude":-70.690647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 US Hwy 1",
     "sg:city":"York",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387946803,
-    "wof:lastmodified":1449059464,
+    "wof:lastmodified":1466587289,
     "wof:name":"Breckinridge Public Affairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "facility"
     ]
 },
-  "bbox": [-70.690647,43.141792,-70.690647,43.141792],
+  "bbox": [
+    -70.690647,
+    43.141792,
+    -70.690647,
+    43.141792
+],
   "geometry": {"coordinates":[-70.690647,43.141792],"type":"Point"}
 }

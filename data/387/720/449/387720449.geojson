@@ -2,13 +2,14 @@
   "id": 387720449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.09123,43.916637,-70.09123,43.916637",
     "geom:latitude":43.916637,
     "geom:longitude":-70.09123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Grant Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387720449,
-    "wof:lastmodified":1449057013,
+    "wof:lastmodified":1466586886,
     "wof:name":"Rhea Wr Assc Inc",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.09123,43.916637,-70.09123,43.916637],
+  "bbox": [
+    -70.09123,
+    43.916637,
+    -70.09123,
+    43.916637
+],
   "geometry": {"coordinates":[-70.09123,43.916637],"type":"Point"}
 }

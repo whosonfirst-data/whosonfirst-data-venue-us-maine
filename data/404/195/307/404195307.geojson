@@ -2,13 +2,14 @@
   "id": 404195307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.814145,43.912516,-69.814145,43.912516",
     "geom:latitude":43.912516,
     "geom:longitude":-69.814145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Front St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404195307,
-    "wof:lastmodified":1449039924,
+    "wof:lastmodified":1466586897,
     "wof:name":"Ben's Barber Shop",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.814145,43.912516,-69.814145,43.912516],
+  "bbox": [
+    -69.814145,
+    43.912516,
+    -69.814145,
+    43.912516
+],
   "geometry": {"coordinates":[-69.814145,43.912516],"type":"Point"}
 }

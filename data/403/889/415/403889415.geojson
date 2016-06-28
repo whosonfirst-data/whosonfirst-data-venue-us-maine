@@ -2,13 +2,14 @@
   "id": 403889415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.545056,43.388736,-70.545056,43.388736",
     "geom:latitude":43.388736,
     "geom:longitude":-70.545056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Storer St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403889415,
-    "wof:lastmodified":1449054608,
+    "wof:lastmodified":1466586879,
     "wof:name":"Music Man",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-70.545056,43.388736,-70.545056,43.388736],
+  "bbox": [
+    -70.545056,
+    43.388736,
+    -70.545056,
+    43.388736
+],
   "geometry": {"coordinates":[-70.545056,43.388736],"type":"Point"}
 }

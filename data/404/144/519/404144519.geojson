@@ -2,13 +2,14 @@
   "id": 404144519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225573,44.073332,-70.225573,44.073332",
     "geom:latitude":44.073332,
     "geom:longitude":-70.225573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Dee St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404144519,
-    "wof:lastmodified":1449040001,
+    "wof:lastmodified":1466586696,
     "wof:name":"Stay N Play Family Child Care",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-70.225573,44.073332,-70.225573,44.073332],
+  "bbox": [
+    -70.225573,
+    44.073332,
+    -70.225573,
+    44.073332
+],
   "geometry": {"coordinates":[-70.225573,44.073332],"type":"Point"}
 }

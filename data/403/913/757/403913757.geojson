@@ -2,13 +2,14 @@
   "id": 403913757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.467402,44.135775,-70.467402,44.135775",
     "geom:latitude":44.135775,
     "geom:longitude":-70.467402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403913757,
-    "wof:lastmodified":1449055146,
+    "wof:lastmodified":1466586956,
     "wof:name":"Service Master",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.467402,44.135775,-70.467402,44.135775],
-  "geometry": {"coordinates":[-70.467402,44.135775],"type":"Point"}
+  "bbox": [
+    -70.467402,
+    44.135775,
+    -70.467402,
+    44.135775
+],
+  "geometry": {"coordinates":[-70.46740200000001,44.135775],"type":"Point"}
 }

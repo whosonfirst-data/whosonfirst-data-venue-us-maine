@@ -2,13 +2,14 @@
   "id": 404050505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.323114,44.269509,-68.323114,44.269509",
     "geom:latitude":44.269509,
     "geom:longitude":-68.323114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Seawall Rd",
     "sg:city":"Southwest Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404050505,
-    "wof:lastmodified":1449039800,
+    "wof:lastmodified":1466586295,
     "wof:name":"International Trade Info Svc",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-68.323114,44.269509,-68.323114,44.269509],
+  "bbox": [
+    -68.323114,
+    44.269509,
+    -68.323114,
+    44.269509
+],
   "geometry": {"coordinates":[-68.323114,44.269509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387897115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.184059,43.892708,-70.184059,43.892708",
     "geom:latitude":43.892708,
     "geom:longitude":-70.184059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Hallowell Rd",
     "sg:city":"Pownal",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387897115,
-    "wof:lastmodified":1449059308,
+    "wof:lastmodified":1466587226,
     "wof:name":"Crossroads Video Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.184059,43.892708,-70.184059,43.892708],
+  "bbox": [
+    -70.184059,
+    43.892708,
+    -70.184059,
+    43.892708
+],
   "geometry": {"coordinates":[-70.184059,43.892708],"type":"Point"}
 }

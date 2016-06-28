@@ -2,13 +2,14 @@
   "id": 403761091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.609061,43.671206,-70.609061,43.671206",
     "geom:latitude":43.671206,
     "geom:longitude":-70.609061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Bonney Eagle Rd",
     "sg:city":"Hollis Center",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":403761091,
-    "wof:lastmodified":1449055643,
+    "wof:lastmodified":1466586421,
     "wof:name":"Pool Shed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-70.609061,43.671206,-70.609061,43.671206],
+  "bbox": [
+    -70.609061,
+    43.671206,
+    -70.609061,
+    43.671206
+],
   "geometry": {"coordinates":[-70.609061,43.671206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387590213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.245263,44.079827,-70.245263,44.079827",
     "geom:latitude":44.079827,
     "geom:longitude":-70.245263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Poland Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387590213,
-    "wof:lastmodified":1449058367,
+    "wof:lastmodified":1466586189,
     "wof:name":"Versatile Plumbing & Heating",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.245263,44.079827,-70.245263,44.079827],
-  "geometry": {"coordinates":[-70.245263,44.079827],"type":"Point"}
+  "bbox": [
+    -70.245263,
+    44.079827,
+    -70.245263,
+    44.079827
+],
+  "geometry": {"coordinates":[-70.24526299999999,44.079827],"type":"Point"}
 }

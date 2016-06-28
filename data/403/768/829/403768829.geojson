@@ -2,13 +2,14 @@
   "id": 403768829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.431697,44.531108,-68.431697,44.531108",
     "geom:latitude":44.531108,
     "geom:longitude":-68.431697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Surry Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403768829,
-    "wof:lastmodified":1449055146,
+    "wof:lastmodified":1466586513,
     "wof:name":"Audiology Center Of Maine",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audiologists"
     ]
 },
-  "bbox": [-68.431697,44.531108,-68.431697,44.531108],
+  "bbox": [
+    -68.431697,
+    44.531108,
+    -68.431697,
+    44.531108
+],
   "geometry": {"coordinates":[-68.431697,44.531108],"type":"Point"}
 }

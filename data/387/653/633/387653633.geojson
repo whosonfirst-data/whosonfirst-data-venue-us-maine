@@ -2,13 +2,14 @@
   "id": 387653633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.604895,43.170301,-70.604895,43.170301",
     "geom:latitude":43.170301,
     "geom:longitude":-70.604895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Airport Dr",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387653633,
-    "wof:lastmodified":1449056388,
+    "wof:lastmodified":1466586025,
     "wof:name":"Brencor Computer",
     "wof:parent_id":85831291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-70.604895,43.170301,-70.604895,43.170301],
+  "bbox": [
+    -70.604895,
+    43.170301,
+    -70.604895,
+    43.170301
+],
   "geometry": {"coordinates":[-70.604895,43.170301],"type":"Point"}
 }

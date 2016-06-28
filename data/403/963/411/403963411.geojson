@@ -2,13 +2,14 @@
   "id": 403963411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.430283,44.553645,-68.430283,44.553645",
     "geom:latitude":44.553645,
     "geom:longitude":-68.430283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 State St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403963411,
-    "wof:lastmodified":1449054767,
+    "wof:lastmodified":1466587026,
     "wof:name":"Acadia Burial & Cremation",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crematory"
     ]
 },
-  "bbox": [-68.430283,44.553645,-68.430283,44.553645],
+  "bbox": [
+    -68.430283,
+    44.553645,
+    -68.430283,
+    44.553645
+],
   "geometry": {"coordinates":[-68.430283,44.553645],"type":"Point"}
 }

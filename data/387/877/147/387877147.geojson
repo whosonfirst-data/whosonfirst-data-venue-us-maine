@@ -2,13 +2,14 @@
   "id": 387877147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.272336,43.650743,-70.272336,43.650743",
     "geom:latitude":43.650743,
     "geom:longitude":-70.272336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 West St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387877147,
-    "wof:lastmodified":1449058788,
+    "wof:lastmodified":1466587198,
     "wof:name":"Round The Clock Resources",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-70.272336,43.650743,-70.272336,43.650743],
+  "bbox": [
+    -70.272336,
+    43.650743,
+    -70.272336,
+    43.650743
+],
   "geometry": {"coordinates":[-70.272336,43.650743],"type":"Point"}
 }

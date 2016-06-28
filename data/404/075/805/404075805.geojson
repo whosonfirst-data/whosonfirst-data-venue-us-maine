@@ -2,13 +2,14 @@
   "id": 404075805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.475405,43.478737,-70.475405,43.478737",
     "geom:latitude":43.478737,
     "geom:longitude":-70.475405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 Elm St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404075805,
-    "wof:lastmodified":1449039789,
+    "wof:lastmodified":1466585692,
     "wof:name":"Dargis & Busby",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-70.475405,43.478737,-70.475405,43.478737],
-  "geometry": {"coordinates":[-70.475405,43.478737],"type":"Point"}
+  "bbox": [
+    -70.475405,
+    43.478737,
+    -70.475405,
+    43.478737
+],
+  "geometry": {"coordinates":[-70.47540499999999,43.478737],"type":"Point"}
 }

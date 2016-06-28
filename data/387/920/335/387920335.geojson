@@ -2,13 +2,14 @@
   "id": 387920335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.489679,43.728533,-70.489679,43.728533",
     "geom:latitude":43.728533,
     "geom:longitude":-70.489679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"594 Fort Hill Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387920335,
-    "wof:lastmodified":1449059048,
+    "wof:lastmodified":1466587258,
     "wof:name":"Vienna Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "academy"
     ]
 },
-  "bbox": [-70.489679,43.728533,-70.489679,43.728533],
+  "bbox": [
+    -70.489679,
+    43.728533,
+    -70.489679,
+    43.728533
+],
   "geometry": {"coordinates":[-70.489679,43.728533],"type":"Point"}
 }

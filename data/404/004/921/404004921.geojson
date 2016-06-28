@@ -2,13 +2,14 @@
   "id": 404004921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.367718,43.523945,-70.367718,43.523945",
     "geom:latitude":43.523945,
     "geom:longitude":-70.367718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Grand Ave",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404004921,
-    "wof:lastmodified":1449039466,
+    "wof:lastmodified":1466585741,
     "wof:name":"Beach Walk & Wind Song Motel",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.367718,43.523945,-70.367718,43.523945],
+  "bbox": [
+    -70.367718,
+    43.523945,
+    -70.367718,
+    43.523945
+],
   "geometry": {"coordinates":[-70.367718,43.523945],"type":"Point"}
 }

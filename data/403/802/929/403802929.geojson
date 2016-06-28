@@ -2,13 +2,14 @@
   "id": 403802929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.540544,44.213035,-70.540544,44.213035",
     "geom:latitude":44.213035,
     "geom:longitude":-70.540544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Main St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403802929,
-    "wof:lastmodified":1449055717,
+    "wof:lastmodified":1466585993,
     "wof:name":"Rape Education & Crisis",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-70.540544,44.213035,-70.540544,44.213035],
+  "bbox": [
+    -70.540544,
+    44.213035,
+    -70.540544,
+    44.213035
+],
   "geometry": {"coordinates":[-70.540544,44.213035],"type":"Point"}
 }

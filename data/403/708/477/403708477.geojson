@@ -2,13 +2,14 @@
   "id": 403708477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.26215,43.655179,-70.26215,43.655179",
     "geom:latitude":43.655179,
     "geom:longitude":-70.26215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"567 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403708477,
-    "wof:lastmodified":1449054841,
+    "wof:lastmodified":1466585700,
     "wof:name":"Commercial & Ind Props Inc",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-70.26215,43.655179,-70.26215,43.655179],
-  "geometry": {"coordinates":[-70.26215,43.655179],"type":"Point"}
+  "bbox": [
+    -70.26215,
+    43.655179,
+    -70.26215,
+    43.655179
+],
+  "geometry": {"coordinates":[-70.26215000000001,43.655179],"type":"Point"}
 }

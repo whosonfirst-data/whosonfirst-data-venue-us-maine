@@ -2,13 +2,14 @@
   "id": 403942235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.809294,44.802768,-68.809294,44.802768",
     "geom:latitude":44.802768,
     "geom:longitude":-68.809294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"188 Maine Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403942235,
-    "wof:lastmodified":1449055244,
+    "wof:lastmodified":1466587061,
     "wof:name":"A N Deringer Inc",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-68.809294,44.802768,-68.809294,44.802768],
-  "geometry": {"coordinates":[-68.809294,44.802768],"type":"Point"}
+  "bbox": [
+    -68.809294,
+    44.802768,
+    -68.809294,
+    44.802768
+],
+  "geometry": {"coordinates":[-68.80929399999999,44.802768],"type":"Point"}
 }

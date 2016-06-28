@@ -2,13 +2,14 @@
   "id": 403988431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.188505,43.793812,-70.188505,43.793812",
     "geom:latitude":43.793812,
     "geom:longitude":-70.188505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 US Hwy 1",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403988431,
-    "wof:lastmodified":1449055083,
+    "wof:lastmodified":1466587164,
     "wof:name":"Yarmouth Mobil",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-70.188505,43.793812,-70.188505,43.793812],
-  "geometry": {"coordinates":[-70.188505,43.793812],"type":"Point"}
+  "bbox": [
+    -70.188505,
+    43.793812,
+    -70.188505,
+    43.793812
+],
+  "geometry": {"coordinates":[-70.18850500000001,43.793812],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404199557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.553703,44.545136,-70.553703,44.545136",
     "geom:latitude":44.545136,
     "geom:longitude":-70.553703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Spruce St",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":404199557,
-    "wof:lastmodified":1449039144,
+    "wof:lastmodified":1466587002,
     "wof:name":"His Gathering Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.553703,44.545136,-70.553703,44.545136],
+  "bbox": [
+    -70.553703,
+    44.545136,
+    -70.553703,
+    44.545136
+],
   "geometry": {"coordinates":[-70.553703,44.545136],"type":"Point"}
 }

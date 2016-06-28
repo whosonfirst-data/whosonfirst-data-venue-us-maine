@@ -2,13 +2,14 @@
   "id": 387895439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.476351,43.360051,-70.476351,43.360051",
     "geom:latitude":43.360051,
     "geom:longitude":-70.476351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Ocean Ave",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387895439,
-    "wof:lastmodified":1449057720,
+    "wof:lastmodified":1466587231,
     "wof:name":"Carla's Corner",
     "wof:parent_id":85812189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.476351,43.360051,-70.476351,43.360051],
-  "geometry": {"coordinates":[-70.476351,43.360051],"type":"Point"}
+  "bbox": [
+    -70.476351,
+    43.360051,
+    -70.476351,
+    43.360051
+],
+  "geometry": {"coordinates":[-70.47635099999999,43.360051],"type":"Point"}
 }

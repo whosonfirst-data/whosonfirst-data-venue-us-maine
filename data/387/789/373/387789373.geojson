@@ -2,13 +2,14 @@
   "id": 387789373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.265483,43.656861,-70.265483,43.656861",
     "geom:latitude":43.656861,
     "geom:longitude":-70.265483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387789373,
-    "wof:lastmodified":1449057815,
+    "wof:lastmodified":1466587095,
     "wof:name":"Princeton Village",
     "wof:parent_id":85880027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-70.265483,43.656861,-70.265483,43.656861],
+  "bbox": [
+    -70.265483,
+    43.656861,
+    -70.265483,
+    43.656861
+],
   "geometry": {"coordinates":[-70.265483,43.656861],"type":"Point"}
 }

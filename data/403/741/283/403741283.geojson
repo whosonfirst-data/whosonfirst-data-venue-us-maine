@@ -2,13 +2,14 @@
   "id": 403741283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.729973,43.134606,-70.729973,43.134606",
     "geom:latitude":43.134606,
     "geom:longitude":-70.729973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Deer Ridge Ln",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403741283,
-    "wof:lastmodified":1449054695,
+    "wof:lastmodified":1466586071,
     "wof:name":"Andrews Construction Co",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.729973,43.134606,-70.729973,43.134606],
+  "bbox": [
+    -70.729973,
+    43.134606,
+    -70.729973,
+    43.134606
+],
   "geometry": {"coordinates":[-70.729973,43.134606],"type":"Point"}
 }

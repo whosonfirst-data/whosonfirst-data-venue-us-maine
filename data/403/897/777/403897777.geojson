@@ -2,13 +2,14 @@
   "id": 403897777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.105746,43.855599,-70.105746,43.855599",
     "geom:latitude":43.855599,
     "geom:longitude":-70.105746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Main St",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403897777,
-    "wof:lastmodified":1449055759,
+    "wof:lastmodified":1466586837,
     "wof:name":"Body Shop",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-70.105746,43.855599,-70.105746,43.855599],
+  "bbox": [
+    -70.105746,
+    43.855599,
+    -70.105746,
+    43.855599
+],
   "geometry": {"coordinates":[-70.105746,43.855599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404183487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.989833,43.918763,-69.989833,43.918763",
     "geom:latitude":43.918763,
     "geom:longitude":-69.989833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 River Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404183487,
-    "wof:lastmodified":1449039780,
+    "wof:lastmodified":1466586930,
     "wof:name":"On The Green",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-69.989833,43.918763,-69.989833,43.918763],
+  "bbox": [
+    -69.989833,
+    43.918763,
+    -69.989833,
+    43.918763
+],
   "geometry": {"coordinates":[-69.989833,43.918763],"type":"Point"}
 }

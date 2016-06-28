@@ -2,13 +2,14 @@
   "id": 387554685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.550958,43.735603,-70.550958,43.735603",
     "geom:latitude":43.735603,
     "geom:longitude":-70.550958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Northeast Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387554685,
-    "wof:lastmodified":1449056890,
+    "wof:lastmodified":1466585864,
     "wof:name":"Northeastern General Contrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.550958,43.735603,-70.550958,43.735603],
-  "geometry": {"coordinates":[-70.550958,43.735603],"type":"Point"}
+  "bbox": [
+    -70.550958,
+    43.735603,
+    -70.550958,
+    43.735603
+],
+  "geometry": {"coordinates":[-70.55095799999999,43.735603],"type":"Point"}
 }

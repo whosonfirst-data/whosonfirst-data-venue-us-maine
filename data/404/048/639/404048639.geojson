@@ -2,13 +2,14 @@
   "id": 404048639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.520733,43.526325,-70.520733,43.526325",
     "geom:latitude":43.526325,
     "geom:longitude":-70.520733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"492 Boom Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404048639,
-    "wof:lastmodified":1449039440,
+    "wof:lastmodified":1466586266,
     "wof:name":"Alcorn Property Services",
     "wof:parent_id":85847051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.520733,43.526325,-70.520733,43.526325],
-  "geometry": {"coordinates":[-70.520733,43.526325],"type":"Point"}
+  "bbox": [
+    -70.520733,
+    43.526325,
+    -70.520733,
+    43.526325
+],
+  "geometry": {"coordinates":[-70.52073300000001,43.526325],"type":"Point"}
 }

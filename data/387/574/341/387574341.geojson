@@ -2,13 +2,14 @@
   "id": 387574341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.755183,44.828566,-68.755183,44.828566",
     "geom:latitude":44.828566,
     "geom:longitude":-68.755183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 Stillwater Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387574341,
-    "wof:lastmodified":1449056091,
+    "wof:lastmodified":1466585963,
     "wof:name":"Pepino's Mexican Restaurant",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.755183,44.828566,-68.755183,44.828566],
+  "bbox": [
+    -68.755183,
+    44.828566,
+    -68.755183,
+    44.828566
+],
   "geometry": {"coordinates":[-68.755183,44.828566],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404078775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.271299,44.290873,-70.271299,44.290873",
     "geom:latitude":44.290873,
     "geom:longitude":-70.271299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 Auburn Rd",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404078775,
-    "wof:lastmodified":1449040130,
+    "wof:lastmodified":1466585718,
     "wof:name":"On The Way Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.271299,44.290873,-70.271299,44.290873],
+  "bbox": [
+    -70.271299,
+    44.290873,
+    -70.271299,
+    44.290873
+],
   "geometry": {"coordinates":[-70.271299,44.290873],"type":"Point"}
 }

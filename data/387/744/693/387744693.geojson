@@ -2,13 +2,14 @@
   "id": 387744693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.83971,46.125776,-67.83971,46.125776",
     "geom:latitude":46.125776,
     "geom:longitude":-67.83971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Water St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387744693,
-    "wof:lastmodified":1449057468,
+    "wof:lastmodified":1466586877,
     "wof:name":"Visiting Nurses Of Aroostook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "registry"
     ]
 },
-  "bbox": [-67.83971,46.125776,-67.83971,46.125776],
+  "bbox": [
+    -67.83971,
+    46.125776,
+    -67.83971,
+    46.125776
+],
   "geometry": {"coordinates":[-67.83971,46.125776],"type":"Point"}
 }

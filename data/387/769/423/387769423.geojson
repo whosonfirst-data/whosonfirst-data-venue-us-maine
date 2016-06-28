@@ -2,13 +2,14 @@
   "id": 387769423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.779616,43.128527,-70.779616,43.128527",
     "geom:latitude":43.128527,
     "geom:longitude":-70.779616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Debbie Ln",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387769423,
-    "wof:lastmodified":1449057363,
+    "wof:lastmodified":1466587052,
     "wof:name":"New Hampshire Landscape Assctn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-70.779616,43.128527,-70.779616,43.128527],
+  "bbox": [
+    -70.779616,
+    43.128527,
+    -70.779616,
+    43.128527
+],
   "geometry": {"coordinates":[-70.779616,43.128527],"type":"Point"}
 }

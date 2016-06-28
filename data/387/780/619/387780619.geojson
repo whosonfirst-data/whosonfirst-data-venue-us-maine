@@ -2,13 +2,14 @@
   "id": 387780619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.620196,44.94452,-68.620196,44.94452",
     "geom:latitude":44.94452,
     "geom:longitude":-68.620196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1590 County Rd",
     "sg:city":"Milford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387780619,
-    "wof:lastmodified":1449058957,
+    "wof:lastmodified":1466586997,
     "wof:name":"Cosmo's Crafters",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.620196,44.94452,-68.620196,44.94452],
-  "geometry": {"coordinates":[-68.620196,44.94452],"type":"Point"}
+  "bbox": [
+    -68.620196,
+    44.94452,
+    -68.620196,
+    44.94452
+],
+  "geometry": {"coordinates":[-68.62019600000001,44.94452],"type":"Point"}
 }

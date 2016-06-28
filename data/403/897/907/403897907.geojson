@@ -2,13 +2,14 @@
   "id": 403897907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.625443,44.545856,-69.625443,44.545856",
     "geom:latitude":44.545856,
     "geom:longitude":-69.625443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Bay St",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403897907,
-    "wof:lastmodified":1449055760,
+    "wof:lastmodified":1466586837,
     "wof:name":"Nason Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.625443,44.545856,-69.625443,44.545856],
+  "bbox": [
+    -69.625443,
+    44.545856,
+    -69.625443,
+    44.545856
+],
   "geometry": {"coordinates":[-69.625443,44.545856],"type":"Point"}
 }

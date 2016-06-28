@@ -2,13 +2,14 @@
   "id": 403890523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.291972,43.670655,-70.291972,43.670655",
     "geom:latitude":43.670655,
     "geom:longitude":-70.291972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Glenwood Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403890523,
-    "wof:lastmodified":1449054943,
+    "wof:lastmodified":1466586883,
     "wof:name":"Margolspneo Cncept Copy Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-70.291972,43.670655,-70.291972,43.670655],
+  "bbox": [
+    -70.291972,
+    43.670655,
+    -70.291972,
+    43.670655
+],
   "geometry": {"coordinates":[-70.291972,43.670655],"type":"Point"}
 }

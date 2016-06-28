@@ -2,13 +2,14 @@
   "id": 404192261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.408941,44.533342,-68.408941,44.533342",
     "geom:latitude":44.533342,
     "geom:longitude":-68.408941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 High St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404192261,
-    "wof:lastmodified":1449039972,
+    "wof:lastmodified":1466586891,
     "wof:name":"Brown Appliance & Mattress",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.408941,44.533342,-68.408941,44.533342],
+  "bbox": [
+    -68.408941,
+    44.533342,
+    -68.408941,
+    44.533342
+],
   "geometry": {"coordinates":[-68.408941,44.533342],"type":"Point"}
 }

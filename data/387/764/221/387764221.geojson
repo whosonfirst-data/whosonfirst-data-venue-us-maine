@@ -2,13 +2,14 @@
   "id": 387764221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.947196,43.922009,-70.947196,43.922009",
     "geom:latitude":43.922009,
     "geom:longitude":-70.947196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Sam Brown Hill Rd",
     "sg:city":"Brownfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387764221,
-    "wof:lastmodified":1449059740,
+    "wof:lastmodified":1466586950,
     "wof:name":"William F Quinn Jr",
     "wof:parent_id":85816061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.947196,43.922009,-70.947196,43.922009],
-  "geometry": {"coordinates":[-70.947196,43.922009],"type":"Point"}
+  "bbox": [
+    -70.947196,
+    43.922009,
+    -70.947196,
+    43.922009
+],
+  "geometry": {"coordinates":[-70.94719600000001,43.922009],"type":"Point"}
 }

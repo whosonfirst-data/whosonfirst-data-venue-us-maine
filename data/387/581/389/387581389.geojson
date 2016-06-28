@@ -2,13 +2,14 @@
   "id": 387581389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.228558,43.745795,-70.228558,43.745795",
     "geom:latitude":43.745795,
     "geom:longitude":-70.228558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"378 Middle Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387581389,
-    "wof:lastmodified":1449056904,
+    "wof:lastmodified":1466586028,
     "wof:name":"Axel Berg Inc",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-70.228558,43.745795,-70.228558,43.745795],
-  "geometry": {"coordinates":[-70.228558,43.745795],"type":"Point"}
+  "bbox": [
+    -70.228558,
+    43.745795,
+    -70.228558,
+    43.745795
+],
+  "geometry": {"coordinates":[-70.22855800000001,43.745795],"type":"Point"}
 }

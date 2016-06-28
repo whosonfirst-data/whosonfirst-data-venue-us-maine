@@ -2,13 +2,14 @@
   "id": 387955457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.789709,44.784449,-68.789709,44.784449",
     "geom:latitude":44.784449,
     "geom:longitude":-68.789709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Godsoe Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387955457,
-    "wof:lastmodified":1449058751,
+    "wof:lastmodified":1466587337,
     "wof:name":"Uni First Corp",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-68.789709,44.784449,-68.789709,44.784449],
+  "bbox": [
+    -68.789709,
+    44.784449,
+    -68.789709,
+    44.784449
+],
   "geometry": {"coordinates":[-68.789709,44.784449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403990257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.010687,46.699406,-68.010687,46.699406",
     "geom:latitude":46.699406,
     "geom:longitude":-68.010687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"781 Main St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403990257,
-    "wof:lastmodified":1449055508,
+    "wof:lastmodified":1466587248,
     "wof:name":"U S Cellular",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-68.010687,46.699406,-68.010687,46.699406],
+  "bbox": [
+    -68.010687,
+    46.699406,
+    -68.010687,
+    46.699406
+],
   "geometry": {"coordinates":[-68.010687,46.699406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404062943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.636625,44.597299,-69.636625,44.597299",
     "geom:latitude":44.597299,
     "geom:longitude":-69.636625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Center Rd",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404062943,
-    "wof:lastmodified":1449040255,
+    "wof:lastmodified":1466586492,
     "wof:name":"Brothers Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carpet"
     ]
 },
-  "bbox": [-69.636625,44.597299,-69.636625,44.597299],
+  "bbox": [
+    -69.636625,
+    44.597299,
+    -69.636625,
+    44.597299
+],
   "geometry": {"coordinates":[-69.636625,44.597299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403803425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.220136,43.855106,-70.220136,43.855106",
     "geom:latitude":43.855106,
     "geom:longitude":-70.220136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Memorial Hwy",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403803425,
-    "wof:lastmodified":1449055979,
+    "wof:lastmodified":1466585999,
     "wof:name":"PEOPLE Places & Plants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-70.220136,43.855106,-70.220136,43.855106],
+  "bbox": [
+    -70.220136,
+    43.855106,
+    -70.220136,
+    43.855106
+],
   "geometry": {"coordinates":[-70.220136,43.855106],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403946425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.285934,43.636732,-70.285934,43.636732",
     "geom:latitude":43.636732,
     "geom:longitude":-70.285934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Lincoln St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403946425,
-    "wof:lastmodified":1449055813,
+    "wof:lastmodified":1466587064,
     "wof:name":"Accurate Industry",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "waste"
     ]
 },
-  "bbox": [-70.285934,43.636732,-70.285934,43.636732],
+  "bbox": [
+    -70.285934,
+    43.636732,
+    -70.285934,
+    43.636732
+],
   "geometry": {"coordinates":[-70.285934,43.636732],"type":"Point"}
 }

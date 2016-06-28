@@ -2,13 +2,14 @@
   "id": 403785723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225727,44.106162,-70.225727,44.106162",
     "geom:latitude":44.106162,
     "geom:longitude":-70.225727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403785723,
-    "wof:lastmodified":1449055746,
+    "wof:lastmodified":1466585761,
     "wof:name":"A T & T",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-70.225727,44.106162,-70.225727,44.106162],
-  "geometry": {"coordinates":[-70.225727,44.106162],"type":"Point"}
+  "bbox": [
+    -70.225727,
+    44.106162,
+    -70.225727,
+    44.106162
+],
+  "geometry": {"coordinates":[-70.22572700000001,44.106162],"type":"Point"}
 }

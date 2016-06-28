@@ -2,13 +2,14 @@
   "id": 387635045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.799567,44.767122,-68.799567,44.767122",
     "geom:latitude":44.767122,
     "geom:longitude":-68.799567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"586 Main Rd N",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387635045,
-    "wof:lastmodified":1449057758,
+    "wof:lastmodified":1466585841,
     "wof:name":"Hidden Treasures",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-68.799567,44.767122,-68.799567,44.767122],
+  "bbox": [
+    -68.799567,
+    44.767122,
+    -68.799567,
+    44.767122
+],
   "geometry": {"coordinates":[-68.799567,44.767122],"type":"Point"}
 }

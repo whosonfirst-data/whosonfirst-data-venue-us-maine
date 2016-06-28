@@ -2,13 +2,14 @@
   "id": 387899399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.459315,44.713719,-67.459315,44.713719",
     "geom:latitude":44.713719,
     "geom:longitude":-67.459315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Water St",
     "sg:city":"Machias",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387899399,
-    "wof:lastmodified":1449059726,
+    "wof:lastmodified":1466587236,
     "wof:name":"Machias Cleaners & Laundry Ctr",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.459315,44.713719,-67.459315,44.713719],
+  "bbox": [
+    -67.459315,
+    44.713719,
+    -67.459315,
+    44.713719
+],
   "geometry": {"coordinates":[-67.459315,44.713719],"type":"Point"}
 }

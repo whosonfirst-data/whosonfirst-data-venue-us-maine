@@ -2,13 +2,14 @@
   "id": 387856843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.472413,43.902566,-70.472413,43.902566",
     "geom:latitude":43.902566,
     "geom:longitude":-70.472413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Main St",
     "sg:city":"Cornish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387856843,
-    "wof:lastmodified":1449057176,
+    "wof:lastmodified":1466587183,
     "wof:name":"Kimball Supply Co",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.472413,43.902566,-70.472413,43.902566],
+  "bbox": [
+    -70.472413,
+    43.902566,
+    -70.472413,
+    43.902566
+],
   "geometry": {"coordinates":[-70.472413,43.902566],"type":"Point"}
 }

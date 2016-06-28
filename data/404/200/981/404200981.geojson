@@ -2,13 +2,14 @@
   "id": 404200981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.394432,44.451148,-69.394432,44.451148",
     "geom:latitude":44.451148,
     "geom:longitude":-69.394432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2511 N Palermo Rd",
     "sg:city":"Palermo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404200981,
-    "wof:lastmodified":1449039520,
+    "wof:lastmodified":1466586845,
     "wof:name":"Country Loft Upholstery",
     "wof:parent_id":85828753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-69.394432,44.451148,-69.394432,44.451148],
-  "geometry": {"coordinates":[-69.394432,44.451148],"type":"Point"}
+  "bbox": [
+    -69.394432,
+    44.451148,
+    -69.394432,
+    44.451148
+],
+  "geometry": {"coordinates":[-69.39443199999999,44.451148],"type":"Point"}
 }

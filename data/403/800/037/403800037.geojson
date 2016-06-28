@@ -2,13 +2,14 @@
   "id": 403800037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.828924,46.124763,-67.828924,46.124763",
     "geom:latitude":46.124763,
     "geom:longitude":-67.828924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Military St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403800037,
-    "wof:lastmodified":1449054741,
+    "wof:lastmodified":1466585947,
     "wof:name":"Howland Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-67.828924,46.124763,-67.828924,46.124763],
+  "bbox": [
+    -67.828924,
+    46.124763,
+    -67.828924,
+    46.124763
+],
   "geometry": {"coordinates":[-67.828924,46.124763],"type":"Point"}
 }

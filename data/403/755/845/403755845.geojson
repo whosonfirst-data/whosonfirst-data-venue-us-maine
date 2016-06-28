@@ -2,13 +2,14 @@
   "id": 403755845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.779958,44.772916,-68.779958,44.772916",
     "geom:latitude":44.772916,
     "geom:longitude":-68.779958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 S Main St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403755845,
-    "wof:lastmodified":1449055014,
+    "wof:lastmodified":1466586330,
     "wof:name":"School House Antique Mall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.779958,44.772916,-68.779958,44.772916],
-  "geometry": {"coordinates":[-68.779958,44.772916],"type":"Point"}
+  "bbox": [
+    -68.779958,
+    44.772916,
+    -68.779958,
+    44.772916
+],
+  "geometry": {"coordinates":[-68.77995799999999,44.772916],"type":"Point"}
 }

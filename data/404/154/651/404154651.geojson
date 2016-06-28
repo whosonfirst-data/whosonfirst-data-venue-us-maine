@@ -2,13 +2,14 @@
   "id": 404154651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.333326,43.59044,-70.333326,43.59044",
     "geom:latitude":43.59044,
     "geom:longitude":-70.333326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 US Hwy 1",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404154651,
-    "wof:lastmodified":1449040338,
+    "wof:lastmodified":1466586738,
     "wof:name":"Fielding's Oil Co Inc",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "burner"
     ]
 },
-  "bbox": [-70.333326,43.59044,-70.333326,43.59044],
+  "bbox": [
+    -70.333326,
+    43.59044,
+    -70.333326,
+    43.59044
+],
   "geometry": {"coordinates":[-70.333326,43.59044],"type":"Point"}
 }

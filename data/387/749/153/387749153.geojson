@@ -2,13 +2,14 @@
   "id": 387749153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.533543,44.555741,-70.533543,44.555741",
     "geom:latitude":44.555741,
     "geom:longitude":-70.533543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Cross St",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387749153,
-    "wof:lastmodified":1449057179,
+    "wof:lastmodified":1466586891,
     "wof:name":"Laperie-Durland Memorials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-70.533543,44.555741,-70.533543,44.555741],
-  "geometry": {"coordinates":[-70.533543,44.555741],"type":"Point"}
+  "bbox": [
+    -70.533543,
+    44.555741,
+    -70.533543,
+    44.555741
+],
+  "geometry": {"coordinates":[-70.53354299999999,44.555741],"type":"Point"}
 }

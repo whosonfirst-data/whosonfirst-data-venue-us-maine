@@ -2,13 +2,14 @@
   "id": 403894903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.976255,43.911818,-69.976255,43.911818",
     "geom:latitude":43.911818,
     "geom:longitude":-69.976255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Stanwood St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403894903,
-    "wof:lastmodified":1449055170,
+    "wof:lastmodified":1466586825,
     "wof:name":"Carol Banks Lcsw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "worker"
     ]
 },
-  "bbox": [-69.976255,43.911818,-69.976255,43.911818],
-  "geometry": {"coordinates":[-69.976255,43.911818],"type":"Point"}
+  "bbox": [
+    -69.976255,
+    43.911818,
+    -69.976255,
+    43.911818
+],
+  "geometry": {"coordinates":[-69.97625499999999,43.911818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387580343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.910985,43.909153,-69.910985,43.909153",
     "geom:latitude":43.909153,
     "geom:longitude":-69.910985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Farley Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387580343,
-    "wof:lastmodified":1449058673,
+    "wof:lastmodified":1466586010,
     "wof:name":"East Brunswick Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-69.910985,43.909153,-69.910985,43.909153],
+  "bbox": [
+    -69.910985,
+    43.909153,
+    -69.910985,
+    43.909153
+],
   "geometry": {"coordinates":[-69.910985,43.909153],"type":"Point"}
 }

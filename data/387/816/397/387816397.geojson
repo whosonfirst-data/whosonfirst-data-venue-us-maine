@@ -2,13 +2,14 @@
   "id": 387816397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.278694,44.070201,-70.278694,44.070201",
     "geom:latitude":44.070201,
     "geom:longitude":-70.278694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Merrow Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387816397,
-    "wof:lastmodified":1449058320,
+    "wof:lastmodified":1466587098,
     "wof:name":"M & P Used Auto Parts",
     "wof:parent_id":85831033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-70.278694,44.070201,-70.278694,44.070201],
+  "bbox": [
+    -70.278694,
+    44.070201,
+    -70.278694,
+    44.070201
+],
   "geometry": {"coordinates":[-70.278694,44.070201],"type":"Point"}
 }

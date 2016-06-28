@@ -2,13 +2,14 @@
   "id": 403900657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.830315,46.124773,-67.830315,46.124773",
     "geom:latitude":46.124773,
     "geom:longitude":-67.830315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Military St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403900657,
-    "wof:lastmodified":1449055207,
+    "wof:lastmodified":1466586926,
     "wof:name":"Madigan Estates Nursing Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-67.830315,46.124773,-67.830315,46.124773],
+  "bbox": [
+    -67.830315,
+    46.124773,
+    -67.830315,
+    46.124773
+],
   "geometry": {"coordinates":[-67.830315,46.124773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403853087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.756851,44.831663,-68.756851,44.831663",
     "geom:latitude":44.831663,
     "geom:longitude":-68.756851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Gillman Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403853087,
-    "wof:lastmodified":1449055167,
+    "wof:lastmodified":1466586718,
     "wof:name":"Occuptonal Hlth Rehabilitation",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-68.756851,44.831663,-68.756851,44.831663],
+  "bbox": [
+    -68.756851,
+    44.831663,
+    -68.756851,
+    44.831663
+],
   "geometry": {"coordinates":[-68.756851,44.831663],"type":"Point"}
 }

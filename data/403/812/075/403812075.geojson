@@ -2,13 +2,14 @@
   "id": 403812075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.787498,44.761527,-68.787498,44.761527",
     "geom:latitude":44.761527,
     "geom:longitude":-68.787498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 River Rd",
     "sg:city":"Orrington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403812075,
-    "wof:lastmodified":1449054662,
+    "wof:lastmodified":1466586138,
     "wof:name":"Sherman Carpentry Lance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.787498,44.761527,-68.787498,44.761527],
+  "bbox": [
+    -68.787498,
+    44.761527,
+    -68.787498,
+    44.761527
+],
   "geometry": {"coordinates":[-68.787498,44.761527],"type":"Point"}
 }

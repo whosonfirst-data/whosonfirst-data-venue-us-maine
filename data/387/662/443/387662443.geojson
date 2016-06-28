@@ -2,13 +2,14 @@
   "id": 387662443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.838924,44.938872,-68.838924,44.938872",
     "geom:latitude":44.938872,
     "geom:longitude":-68.838924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Pushaw Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387662443,
-    "wof:lastmodified":1449058678,
+    "wof:lastmodified":1466586160,
     "wof:name":"Douglas Ouellette",
     "wof:parent_id":85855557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.838924,44.938872,-68.838924,44.938872],
-  "geometry": {"coordinates":[-68.838924,44.938872],"type":"Point"}
+  "bbox": [
+    -68.838924,
+    44.938872,
+    -68.838924,
+    44.938872
+],
+  "geometry": {"coordinates":[-68.83892400000001,44.938872],"type":"Point"}
 }

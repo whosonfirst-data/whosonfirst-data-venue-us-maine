@@ -2,13 +2,14 @@
   "id": 387833811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.540322,44.21308,-70.540322,44.21308",
     "geom:latitude":44.21308,
     "geom:longitude":-70.540322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Main St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387833811,
-    "wof:lastmodified":1449056595,
+    "wof:lastmodified":1466587212,
     "wof:name":"Western Auto Of Norway",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-70.540322,44.21308,-70.540322,44.21308],
+  "bbox": [
+    -70.540322,
+    44.21308,
+    -70.540322,
+    44.21308
+],
   "geometry": {"coordinates":[-70.540322,44.21308],"type":"Point"}
 }

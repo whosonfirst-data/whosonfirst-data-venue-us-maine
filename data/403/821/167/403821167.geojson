@@ -2,13 +2,14 @@
   "id": 403821167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.384795,43.847783,-70.384795,43.847783",
     "geom:latitude":43.847783,
     "geom:longitude":-70.384795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"787 Gray Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403821167,
-    "wof:lastmodified":1449055360,
+    "wof:lastmodified":1466586282,
     "wof:name":"Godspeed Recovery Bookstore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.384795,43.847783,-70.384795,43.847783],
+  "bbox": [
+    -70.384795,
+    43.847783,
+    -70.384795,
+    43.847783
+],
   "geometry": {"coordinates":[-70.384795,43.847783],"type":"Point"}
 }

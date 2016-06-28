@@ -2,13 +2,14 @@
   "id": 387794917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.670928,43.149704,-70.670928,43.149704",
     "geom:latitude":43.149704,
     "geom:longitude":-70.670928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 S Berwick Rd",
     "sg:city":"South Berwick",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387794917,
-    "wof:lastmodified":1449057931,
+    "wof:lastmodified":1466587031,
     "wof:name":"Portland Street Mobil",
     "wof:parent_id":85859383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-70.670928,43.149704,-70.670928,43.149704],
+  "bbox": [
+    -70.670928,
+    43.149704,
+    -70.670928,
+    43.149704
+],
   "geometry": {"coordinates":[-70.670928,43.149704],"type":"Point"}
 }

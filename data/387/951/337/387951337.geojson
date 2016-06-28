@@ -2,13 +2,14 @@
   "id": 387951337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.668337,44.003266,-69.668337,44.003266",
     "geom:latitude":44.003266,
     "geom:longitude":-69.668337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 High St",
     "sg:city":"Wiscasset",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387951337,
-    "wof:lastmodified":1449056286,
+    "wof:lastmodified":1466587292,
     "wof:name":"Musical Wonder House",
     "wof:parent_id":85820077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "music"
     ]
 },
-  "bbox": [-69.668337,44.003266,-69.668337,44.003266],
-  "geometry": {"coordinates":[-69.668337,44.003266],"type":"Point"}
+  "bbox": [
+    -69.668337,
+    44.003266,
+    -69.668337,
+    44.003266
+],
+  "geometry": {"coordinates":[-69.66833699999999,44.003266],"type":"Point"}
 }

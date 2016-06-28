@@ -2,13 +2,14 @@
   "id": 387661895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.202106,44.278085,-70.202106,44.278085",
     "geom:latitude":44.278085,
     "geom:longitude":-70.202106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"294 Fish St",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387661895,
-    "wof:lastmodified":1449059503,
+    "wof:lastmodified":1466586150,
     "wof:name":"Wayne's Appliance Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.202106,44.278085,-70.202106,44.278085],
+  "bbox": [
+    -70.202106,
+    44.278085,
+    -70.202106,
+    44.278085
+],
   "geometry": {"coordinates":[-70.202106,44.278085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404080215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.839068,46.117402,-67.839068,46.117402",
     "geom:latitude":46.117402,
     "geom:longitude":-67.839068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Franklin Ave",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404080215,
-    "wof:lastmodified":1449040302,
+    "wof:lastmodified":1466585739,
     "wof:name":"Fitzpatrick & Miller Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-67.839068,46.117402,-67.839068,46.117402],
+  "bbox": [
+    -67.839068,
+    46.117402,
+    -67.839068,
+    46.117402
+],
   "geometry": {"coordinates":[-67.839068,46.117402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404178457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.528538,43.371371,-70.528538,43.371371",
     "geom:latitude":43.371371,
     "geom:longitude":-70.528538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Mere Ln",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404178457,
-    "wof:lastmodified":1449039988,
+    "wof:lastmodified":1466586826,
     "wof:name":"Whitney Group",
     "wof:parent_id":85828039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "footwear"
     ]
 },
-  "bbox": [-70.528538,43.371371,-70.528538,43.371371],
+  "bbox": [
+    -70.528538,
+    43.371371,
+    -70.528538,
+    43.371371
+],
   "geometry": {"coordinates":[-70.528538,43.371371],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404081059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.289129,43.680178,-70.289129,43.680178",
     "geom:latitude":43.680178,
     "geom:longitude":-70.289129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"973 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404081059,
-    "wof:lastmodified":1449039390,
+    "wof:lastmodified":1466585752,
     "wof:name":"Forest Avenue Veterinary Hosp",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-70.289129,43.680178,-70.289129,43.680178],
+  "bbox": [
+    -70.289129,
+    43.680178,
+    -70.289129,
+    43.680178
+],
   "geometry": {"coordinates":[-70.289129,43.680178],"type":"Point"}
 }

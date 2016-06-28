@@ -2,13 +2,14 @@
   "id": 404003707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.775321,44.319914,-69.775321,44.319914",
     "geom:latitude":44.319914,
     "geom:longitude":-69.775321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 State St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404003707,
-    "wof:lastmodified":1449040243,
+    "wof:lastmodified":1466585720,
     "wof:name":"Dep Response Building",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-69.775321,44.319914,-69.775321,44.319914],
-  "geometry": {"coordinates":[-69.775321,44.319914],"type":"Point"}
+  "bbox": [
+    -69.775321,
+    44.319914,
+    -69.775321,
+    44.319914
+],
+  "geometry": {"coordinates":[-69.77532100000001,44.319914],"type":"Point"}
 }

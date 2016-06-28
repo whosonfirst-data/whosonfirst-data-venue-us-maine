@@ -2,13 +2,14 @@
   "id": 403794975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.228468,43.583214,-70.228468,43.583214",
     "geom:latitude":43.583214,
     "geom:longitude":-70.228468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Hampton Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403794975,
-    "wof:lastmodified":1449055271,
+    "wof:lastmodified":1466585873,
     "wof:name":"Yacht Management Services Inc",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.228468,43.583214,-70.228468,43.583214],
-  "geometry": {"coordinates":[-70.228468,43.583214],"type":"Point"}
+  "bbox": [
+    -70.228468,
+    43.583214,
+    -70.228468,
+    43.583214
+],
+  "geometry": {"coordinates":[-70.22846800000001,43.583214],"type":"Point"}
 }

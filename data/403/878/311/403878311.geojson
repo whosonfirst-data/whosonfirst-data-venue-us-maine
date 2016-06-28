@@ -2,13 +2,14 @@
   "id": 403878311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.783545,43.230868,-70.783545,43.230868",
     "geom:latitude":43.230868,
     "geom:longitude":-70.783545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Locust Ln",
     "sg:city":"South Berwick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403878311,
-    "wof:lastmodified":1449055336,
+    "wof:lastmodified":1466586831,
     "wof:name":"Bright Beginnings Nursery Sch",
     "wof:parent_id":85802477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-70.783545,43.230868,-70.783545,43.230868],
+  "bbox": [
+    -70.783545,
+    43.230868,
+    -70.783545,
+    43.230868
+],
   "geometry": {"coordinates":[-70.783545,43.230868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387945491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.69014,44.11949,-70.69014,44.11949",
     "geom:latitude":44.11949,
     "geom:longitude":-70.69014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Waterford Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":387945491,
-    "wof:lastmodified":1449056430,
+    "wof:lastmodified":1466587282,
     "wof:name":"MAINEMADESTUFF.COM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [-70.69014,44.11949,-70.69014,44.11949],
+  "bbox": [
+    -70.69014,
+    44.11949,
+    -70.69014,
+    44.11949
+],
   "geometry": {"coordinates":[-70.69014,44.11949],"type":"Point"}
 }

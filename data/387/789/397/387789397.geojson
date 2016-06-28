@@ -2,13 +2,14 @@
   "id": 387789397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.681,44.901308,-68.681,44.901308",
     "geom:latitude":44.901308,
     "geom:longitude":-68.681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Bennoch Rd",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387789397,
-    "wof:lastmodified":1449057816,
+    "wof:lastmodified":1466587009,
     "wof:name":"Richard Wardwell Consulting",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-68.681,44.901308,-68.681,44.901308],
+  "bbox": [
+    -68.681,
+    44.901308,
+    -68.681,
+    44.901308
+],
   "geometry": {"coordinates":[-68.681,44.901308],"type":"Point"}
 }

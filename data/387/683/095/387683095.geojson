@@ -2,13 +2,14 @@
   "id": 387683095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.295126,43.674324,-70.295126,43.674324",
     "geom:latitude":43.674324,
     "geom:longitude":-70.295126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"461 Stevens Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387683095,
-    "wof:lastmodified":1449057503,
+    "wof:lastmodified":1466586490,
     "wof:name":"Sewing Shop",
     "wof:parent_id":85880021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tailor"
     ]
 },
-  "bbox": [-70.295126,43.674324,-70.295126,43.674324],
+  "bbox": [
+    -70.295126,
+    43.674324,
+    -70.295126,
+    43.674324
+],
   "geometry": {"coordinates":[-70.295126,43.674324],"type":"Point"}
 }

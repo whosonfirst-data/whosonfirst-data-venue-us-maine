@@ -2,13 +2,14 @@
   "id": 387682399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.168027,43.809312,-70.168027,43.809312",
     "geom:latitude":43.809312,
     "geom:longitude":-70.168027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Collins Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387682399,
-    "wof:lastmodified":1449056763,
+    "wof:lastmodified":1466586479,
     "wof:name":"Collin Home Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-70.168027,43.809312,-70.168027,43.809312],
+  "bbox": [
+    -70.168027,
+    43.809312,
+    -70.168027,
+    43.809312
+],
   "geometry": {"coordinates":[-70.168027,43.809312],"type":"Point"}
 }

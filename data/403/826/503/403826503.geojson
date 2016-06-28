@@ -2,13 +2,14 @@
   "id": 403826503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.141836,44.191753,-70.141836,44.191753",
     "geom:latitude":44.191753,
     "geom:longitude":-70.141836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"693 US Hwy 202",
     "sg:city":"Greene",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403826503,
-    "wof:lastmodified":1449055578,
+    "wof:lastmodified":1466586372,
     "wof:name":"Ron's Family Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.141836,44.191753,-70.141836,44.191753],
+  "bbox": [
+    -70.141836,
+    44.191753,
+    -70.141836,
+    44.191753
+],
   "geometry": {"coordinates":[-70.141836,44.191753],"type":"Point"}
 }

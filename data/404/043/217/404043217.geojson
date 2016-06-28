@@ -2,13 +2,14 @@
   "id": 404043217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.676105,44.887992,-68.676105,44.887992",
     "geom:latitude":44.887992,
     "geom:longitude":-68.676105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Bennoch Rd",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404043217,
-    "wof:lastmodified":1449040006,
+    "wof:lastmodified":1466586146,
     "wof:name":"Charles O Grant PHD",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.676105,44.887992,-68.676105,44.887992],
-  "geometry": {"coordinates":[-68.676105,44.887992],"type":"Point"}
+  "bbox": [
+    -68.676105,
+    44.887992,
+    -68.676105,
+    44.887992
+],
+  "geometry": {"coordinates":[-68.67610500000001,44.887992],"type":"Point"}
 }

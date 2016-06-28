@@ -2,13 +2,14 @@
   "id": 387661017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.96865,43.915403,-69.96865,43.915403",
     "geom:latitude":43.915403,
     "geom:longitude":-69.96865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Union St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387661017,
-    "wof:lastmodified":1449059503,
+    "wof:lastmodified":1466586138,
     "wof:name":"Coffin Elementary Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.96865,43.915403,-69.96865,43.915403],
+  "bbox": [
+    -69.96865,
+    43.915403,
+    -69.96865,
+    43.915403
+],
   "geometry": {"coordinates":[-69.96865,43.915403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404220145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.707887,43.475942,-70.707887,43.475942",
     "geom:latitude":43.475942,
     "geom:longitude":-70.707887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Biddeford Rd",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404220145,
-    "wof:lastmodified":1449040282,
+    "wof:lastmodified":1466586991,
     "wof:name":"L & R Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carpet"
     ]
 },
-  "bbox": [-70.707887,43.475942,-70.707887,43.475942],
+  "bbox": [
+    -70.707887,
+    43.475942,
+    -70.707887,
+    43.475942
+],
   "geometry": {"coordinates":[-70.707887,43.475942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403796233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.825499,44.049935,-68.825499,44.049935",
     "geom:latitude":44.049935,
     "geom:longitude":-68.825499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Beaver Dam Rd",
     "sg:city":"Vinalhaven",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403796233,
-    "wof:lastmodified":1449055260,
+    "wof:lastmodified":1466585891,
     "wof:name":"Vinalhaven Eldercare Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-68.825499,44.049935,-68.825499,44.049935],
-  "geometry": {"coordinates":[-68.825499,44.049935],"type":"Point"}
+  "bbox": [
+    -68.825499,
+    44.049935,
+    -68.825499,
+    44.049935
+],
+  "geometry": {"coordinates":[-68.82549899999999,44.049935],"type":"Point"}
 }

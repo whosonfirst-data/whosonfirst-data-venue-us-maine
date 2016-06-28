@@ -2,13 +2,14 @@
   "id": 403756201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.36967,43.598647,-70.36967,43.598647",
     "geom:latitude":43.598647,
     "geom:longitude":-70.36967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Payne Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403756201,
-    "wof:lastmodified":1449055444,
+    "wof:lastmodified":1466586337,
     "wof:name":"Great Moose Lake Corp",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "executive"
     ]
 },
-  "bbox": [-70.36967,43.598647,-70.36967,43.598647],
+  "bbox": [
+    -70.36967,
+    43.598647,
+    -70.36967,
+    43.598647
+],
   "geometry": {"coordinates":[-70.36967,43.598647],"type":"Point"}
 }

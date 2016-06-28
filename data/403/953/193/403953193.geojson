@@ -2,13 +2,14 @@
   "id": 403953193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.194247,44.107172,-70.194247,44.107172",
     "geom:latitude":44.107172,
     "geom:longitude":-70.194247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Lemont Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403953193,
-    "wof:lastmodified":1449055522,
+    "wof:lastmodified":1466587073,
     "wof:name":"Michaud Y M Private Tutoring",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"
     ]
 },
-  "bbox": [-70.194247,44.107172,-70.194247,44.107172],
+  "bbox": [
+    -70.194247,
+    44.107172,
+    -70.194247,
+    44.107172
+],
   "geometry": {"coordinates":[-70.194247,44.107172],"type":"Point"}
 }

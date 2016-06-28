@@ -2,13 +2,14 @@
   "id": 404055257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.226341,44.039836,-70.226341,44.039836",
     "geom:latitude":44.039836,
     "geom:longitude":-70.226341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 Harmons Corner Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404055257,
-    "wof:lastmodified":1449039317,
+    "wof:lastmodified":1466586361,
     "wof:name":"Anesthesia Billing Svc Inc",
     "wof:parent_id":85841167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processing"
     ]
 },
-  "bbox": [-70.226341,44.039836,-70.226341,44.039836],
-  "geometry": {"coordinates":[-70.226341,44.039836],"type":"Point"}
+  "bbox": [
+    -70.226341,
+    44.039836,
+    -70.226341,
+    44.039836
+],
+  "geometry": {"coordinates":[-70.22634100000001,44.039836],"type":"Point"}
 }

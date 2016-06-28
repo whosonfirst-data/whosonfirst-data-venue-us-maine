@@ -2,13 +2,14 @@
   "id": 387933361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.555059,44.54904,-70.555059,44.54904",
     "geom:latitude":44.54904,
     "geom:longitude":-70.555059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Knox St",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":387933361,
-    "wof:lastmodified":1449056883,
+    "wof:lastmodified":1466587270,
     "wof:name":"Homeless Youth Outreach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "center"
     ]
 },
-  "bbox": [-70.555059,44.54904,-70.555059,44.54904],
+  "bbox": [
+    -70.555059,
+    44.54904,
+    -70.555059,
+    44.54904
+],
   "geometry": {"coordinates":[-70.555059,44.54904],"type":"Point"}
 }

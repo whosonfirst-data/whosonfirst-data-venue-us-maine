@@ -2,13 +2,14 @@
   "id": 403854267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.244803,43.631473,-70.244803,43.631473",
     "geom:latitude":43.631473,
     "geom:longitude":-70.244803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Pitt St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403854267,
-    "wof:lastmodified":1449055901,
+    "wof:lastmodified":1466586720,
     "wof:name":"Cybergenie Bigsmartcom",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-70.244803,43.631473,-70.244803,43.631473],
+  "bbox": [
+    -70.244803,
+    43.631473,
+    -70.244803,
+    43.631473
+],
   "geometry": {"coordinates":[-70.244803,43.631473],"type":"Point"}
 }

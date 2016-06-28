@@ -2,13 +2,14 @@
   "id": 387803715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.260682,43.652411,-70.260682,43.652411",
     "geom:latitude":43.652411,
     "geom:longitude":-70.260682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 High St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387803715,
-    "wof:lastmodified":1449059964,
+    "wof:lastmodified":1466586966,
     "wof:name":"Side By Side Program",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.260682,43.652411,-70.260682,43.652411],
+  "bbox": [
+    -70.260682,
+    43.652411,
+    -70.260682,
+    43.652411
+],
   "geometry": {"coordinates":[-70.260682,43.652411],"type":"Point"}
 }

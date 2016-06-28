@@ -2,13 +2,14 @@
   "id": 387641467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.047117,44.508854,-70.047117,44.508854",
     "geom:latitude":44.508854,
     "geom:longitude":-70.047117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Main Rd",
     "sg:city":"Chesterville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":387641467,
-    "wof:lastmodified":1449058998,
+    "wof:lastmodified":1466585894,
     "wof:name":"Howard's Liggett Rexall Drug",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.047117,44.508854,-70.047117,44.508854],
+  "bbox": [
+    -70.047117,
+    44.508854,
+    -70.047117,
+    44.508854
+],
   "geometry": {"coordinates":[-70.047117,44.508854],"type":"Point"}
 }

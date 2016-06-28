@@ -2,13 +2,14 @@
   "id": 403898099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.29248,43.850217,-70.29248,43.850217",
     "geom:latitude":43.850217,
     "geom:longitude":-70.29248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Long Hill Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403898099,
-    "wof:lastmodified":1449054602,
+    "wof:lastmodified":1466586841,
     "wof:name":"Warner Woodworking",
     "wof:parent_id":85855337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.29248,43.850217,-70.29248,43.850217],
+  "bbox": [
+    -70.29248,
+    43.850217,
+    -70.29248,
+    43.850217
+],
   "geometry": {"coordinates":[-70.29248,43.850217],"type":"Point"}
 }

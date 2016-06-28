@@ -2,13 +2,14 @@
   "id": 404177239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.490659,43.482786,-70.490659,43.482786",
     "geom:latitude":43.482786,
     "geom:longitude":-70.490659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Barra Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404177239,
-    "wof:lastmodified":1449040322,
+    "wof:lastmodified":1466586817,
     "wof:name":"Biddeford Radiators & Exhaust",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radiator"
     ]
 },
-  "bbox": [-70.490659,43.482786,-70.490659,43.482786],
-  "geometry": {"coordinates":[-70.490659,43.482786],"type":"Point"}
+  "bbox": [
+    -70.490659,
+    43.482786,
+    -70.490659,
+    43.482786
+],
+  "geometry": {"coordinates":[-70.49065899999999,43.482786],"type":"Point"}
 }

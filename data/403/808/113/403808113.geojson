@@ -2,13 +2,14 @@
   "id": 403808113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.258225,44.562101,-69.258225,44.562101",
     "geom:latitude":44.562101,
     "geom:longitude":-69.258225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Leonard Rd",
     "sg:city":"Thorndike",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403808113,
-    "wof:lastmodified":1449054684,
+    "wof:lastmodified":1466586075,
     "wof:name":"J & S Sand Gravel & Fill Inc",
     "wof:parent_id":85828753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gravel"
     ]
 },
-  "bbox": [-69.258225,44.562101,-69.258225,44.562101],
+  "bbox": [
+    -69.258225,
+    44.562101,
+    -69.258225,
+    44.562101
+],
   "geometry": {"coordinates":[-69.258225,44.562101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387941943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.274563,44.839774,-69.274563,44.839774",
     "geom:latitude":44.839774,
     "geom:longitude":-69.274563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Elm St",
     "sg:city":"Jackman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387941943,
-    "wof:lastmodified":1449058378,
+    "wof:lastmodified":1466587285,
     "wof:name":"Cozy Cove Cabins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cabin"
     ]
 },
-  "bbox": [-69.274563,44.839774,-69.274563,44.839774],
+  "bbox": [
+    -69.274563,
+    44.839774,
+    -69.274563,
+    44.839774
+],
   "geometry": {"coordinates":[-69.274563,44.839774],"type":"Point"}
 }

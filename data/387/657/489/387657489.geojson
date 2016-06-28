@@ -2,13 +2,14 @@
   "id": 387657489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.196285,44.081155,-70.196285,44.081155",
     "geom:latitude":44.081155,
     "geom:longitude":-70.196285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387657489,
-    "wof:lastmodified":1449056537,
+    "wof:lastmodified":1466586081,
     "wof:name":"St Croix Regional Federal CU",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.196285,44.081155,-70.196285,44.081155],
+  "bbox": [
+    -70.196285,
+    44.081155,
+    -70.196285,
+    44.081155
+],
   "geometry": {"coordinates":[-70.196285,44.081155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387676857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.214319,44.503204,-70.214319,44.503204",
     "geom:latitude":44.503204,
     "geom:longitude":-70.214319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Main St",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387676857,
-    "wof:lastmodified":1449058552,
+    "wof:lastmodified":1466586390,
     "wof:name":"Ski Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "skiing"
     ]
 },
-  "bbox": [-70.214319,44.503204,-70.214319,44.503204],
+  "bbox": [
+    -70.214319,
+    44.503204,
+    -70.214319,
+    44.503204
+],
   "geometry": {"coordinates":[-70.214319,44.503204],"type":"Point"}
 }

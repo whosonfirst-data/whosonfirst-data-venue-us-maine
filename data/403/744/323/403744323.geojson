@@ -2,13 +2,14 @@
   "id": 403744323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.53876,43.40195,-70.53876,43.40195",
     "geom:latitude":43.40195,
     "geom:longitude":-70.53876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Longwood Dr",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403744323,
-    "wof:lastmodified":1449055109,
+    "wof:lastmodified":1466586127,
     "wof:name":"Lindgren North",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-70.53876,43.40195,-70.53876,43.40195],
+  "bbox": [
+    -70.53876,
+    43.40195,
+    -70.53876,
+    43.40195
+],
   "geometry": {"coordinates":[-70.53876,43.40195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403789703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.993181,44.409347,-68.993181,44.409347",
     "geom:latitude":44.409347,
     "geom:longitude":-68.993181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Northport Ave",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403789703,
-    "wof:lastmodified":1449055234,
+    "wof:lastmodified":1466585803,
     "wof:name":"Janis Stone Interiors",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-68.993181,44.409347,-68.993181,44.409347],
-  "geometry": {"coordinates":[-68.993181,44.409347],"type":"Point"}
+  "bbox": [
+    -68.993181,
+    44.409347,
+    -68.993181,
+    44.409347
+],
+  "geometry": {"coordinates":[-68.99318100000001,44.409347],"type":"Point"}
 }

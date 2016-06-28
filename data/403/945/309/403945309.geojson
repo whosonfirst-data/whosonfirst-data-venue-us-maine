@@ -2,13 +2,14 @@
   "id": 403945309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.258245,43.649595,-70.258245,43.649595",
     "geom:latitude":43.649595,
     "geom:longitude":-70.258245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 Commercial St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403945309,
-    "wof:lastmodified":1449054741,
+    "wof:lastmodified":1466587063,
     "wof:name":"P & O Ports New England Inc",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.258245,43.649595,-70.258245,43.649595],
+  "bbox": [
+    -70.258245,
+    43.649595,
+    -70.258245,
+    43.649595
+],
   "geometry": {"coordinates":[-70.258245,43.649595],"type":"Point"}
 }

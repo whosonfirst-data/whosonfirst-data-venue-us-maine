@@ -2,13 +2,14 @@
   "id": 403868325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.283125,43.567549,-70.283125,43.567549",
     "geom:latitude":43.567549,
     "geom:longitude":-70.283125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Spurwink Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403868325,
-    "wof:lastmodified":1449054675,
+    "wof:lastmodified":1466586779,
     "wof:name":"Higgins Beach Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.283125,43.567549,-70.283125,43.567549],
+  "bbox": [
+    -70.283125,
+    43.567549,
+    -70.283125,
+    43.567549
+],
   "geometry": {"coordinates":[-70.283125,43.567549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387852423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.775559,43.439152,-70.775559,43.439152",
     "geom:latitude":43.439152,
     "geom:longitude":-70.775559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Main St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387852423,
-    "wof:lastmodified":1449059274,
+    "wof:lastmodified":1466587079,
     "wof:name":"Best Friend Grooming & In-Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-70.775559,43.439152,-70.775559,43.439152],
+  "bbox": [
+    -70.775559,
+    43.439152,
+    -70.775559,
+    43.439152
+],
   "geometry": {"coordinates":[-70.775559,43.439152],"type":"Point"}
 }

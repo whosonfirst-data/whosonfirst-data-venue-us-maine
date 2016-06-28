@@ -2,13 +2,14 @@
   "id": 387946003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.149776,43.858875,-70.149776,43.858875",
     "geom:latitude":43.858875,
     "geom:longitude":-70.149776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Merrill Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387946003,
-    "wof:lastmodified":1449059463,
+    "wof:lastmodified":1466587333,
     "wof:name":"Patrick J Enking PA",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-70.149776,43.858875,-70.149776,43.858875],
+  "bbox": [
+    -70.149776,
+    43.858875,
+    -70.149776,
+    43.858875
+],
   "geometry": {"coordinates":[-70.149776,43.858875],"type":"Point"}
 }

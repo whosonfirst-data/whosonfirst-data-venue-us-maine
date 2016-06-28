@@ -2,13 +2,14 @@
   "id": 403981395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.128583,46.654581,-68.128583,46.654581",
     "geom:latitude":46.654581,
     "geom:longitude":-68.128583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 Grendell Rd",
     "sg:city":"Chapman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403981395,
-    "wof:lastmodified":1449055995,
+    "wof:lastmodified":1466587065,
     "wof:name":"Sue's Beauty Shop",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.128583,46.654581,-68.128583,46.654581],
-  "geometry": {"coordinates":[-68.128583,46.654581],"type":"Point"}
+  "bbox": [
+    -68.128583,
+    46.654581,
+    -68.128583,
+    46.654581
+],
+  "geometry": {"coordinates":[-68.12858300000001,46.654581],"type":"Point"}
 }

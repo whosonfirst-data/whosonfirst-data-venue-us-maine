@@ -2,13 +2,14 @@
   "id": 403772591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.770004,44.16644,-69.770004,44.16644",
     "geom:latitude":44.16644,
     "geom:longitude":-69.770004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"690 River Rd",
     "sg:city":"South Gardiner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403772591,
-    "wof:lastmodified":1449055231,
+    "wof:lastmodified":1466586566,
     "wof:name":"Chet's Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-69.770004,44.16644,-69.770004,44.16644],
+  "bbox": [
+    -69.770004,
+    44.16644,
+    -69.770004,
+    44.16644
+],
   "geometry": {"coordinates":[-69.770004,44.16644],"type":"Point"}
 }

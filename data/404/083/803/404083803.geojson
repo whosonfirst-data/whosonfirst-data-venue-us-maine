@@ -2,13 +2,14 @@
   "id": 404083803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.016463,46.690246,-68.016463,46.690246",
     "geom:latitude":46.690246,
     "geom:longitude":-68.016463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Downing Pl",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404083803,
-    "wof:lastmodified":1449039582,
+    "wof:lastmodified":1466585792,
     "wof:name":"Rapid River Outfitters",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outfitter"
     ]
 },
-  "bbox": [-68.016463,46.690246,-68.016463,46.690246],
+  "bbox": [
+    -68.016463,
+    46.690246,
+    -68.016463,
+    46.690246
+],
   "geometry": {"coordinates":[-68.016463,46.690246],"type":"Point"}
 }

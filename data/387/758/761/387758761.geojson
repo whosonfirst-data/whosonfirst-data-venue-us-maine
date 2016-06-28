@@ -2,13 +2,14 @@
   "id": 387758761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.073984,44.188205,-69.073984,44.188205",
     "geom:latitude":44.188205,
     "geom:longitude":-69.073984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Main St",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387758761,
-    "wof:lastmodified":1449057252,
+    "wof:lastmodified":1466586850,
     "wof:name":"Timothy Whelan Photographic",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-69.073984,44.188205,-69.073984,44.188205],
+  "bbox": [
+    -69.073984,
+    44.188205,
+    -69.073984,
+    44.188205
+],
   "geometry": {"coordinates":[-69.073984,44.188205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387874211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.260881,43.614277,-70.260881,43.614277",
     "geom:latitude":43.614277,
     "geom:longitude":-70.260881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Sawyer Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387874211,
-    "wof:lastmodified":1449059675,
+    "wof:lastmodified":1466587199,
     "wof:name":"Dining By Design",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-70.260881,43.614277,-70.260881,43.614277],
+  "bbox": [
+    -70.260881,
+    43.614277,
+    -70.260881,
+    43.614277
+],
   "geometry": {"coordinates":[-70.260881,43.614277],"type":"Point"}
 }

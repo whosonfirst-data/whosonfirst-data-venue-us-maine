@@ -2,13 +2,14 @@
   "id": 404050803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.220054,43.623094,-70.220054,43.623094",
     "geom:latitude":43.623094,
     "geom:longitude":-70.220054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Robinhood Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404050803,
-    "wof:lastmodified":1449039801,
+    "wof:lastmodified":1466586298,
     "wof:name":"Douglas Strout Health Ins",
     "wof:parent_id":85867971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.220054,43.623094,-70.220054,43.623094],
+  "bbox": [
+    -70.220054,
+    43.623094,
+    -70.220054,
+    43.623094
+],
   "geometry": {"coordinates":[-70.220054,43.623094],"type":"Point"}
 }

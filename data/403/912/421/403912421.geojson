@@ -2,13 +2,14 @@
   "id": 403912421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.749977,43.082347,-70.749977,43.082347",
     "geom:latitude":43.082347,
     "geom:longitude":-70.749977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Island Ave",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403912421,
-    "wof:lastmodified":1449055293,
+    "wof:lastmodified":1466586951,
     "wof:name":"Kittery Landing Marina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.749977,43.082347,-70.749977,43.082347],
+  "bbox": [
+    -70.749977,
+    43.082347,
+    -70.749977,
+    43.082347
+],
   "geometry": {"coordinates":[-70.749977,43.082347],"type":"Point"}
 }

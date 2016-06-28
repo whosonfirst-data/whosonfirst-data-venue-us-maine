@@ -2,13 +2,14 @@
   "id": 387801885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.663686,44.539693,-68.663686,44.539693",
     "geom:latitude":44.539693,
     "geom:longitude":-68.663686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"464 Back Ridge Rd",
     "sg:city":"Orland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387801885,
-    "wof:lastmodified":1449059252,
+    "wof:lastmodified":1466587055,
     "wof:name":"Atwood Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.663686,44.539693,-68.663686,44.539693],
+  "bbox": [
+    -68.663686,
+    44.539693,
+    -68.663686,
+    44.539693
+],
   "geometry": {"coordinates":[-68.663686,44.539693],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387705153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.392717,44.462001,-70.392717,44.462001",
     "geom:latitude":44.462001,
     "geom:longitude":-70.392717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 E Shore Rd",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387705153,
-    "wof:lastmodified":1449059942,
+    "wof:lastmodified":1466586757,
     "wof:name":"Worthley Pond Variety & Rstrnt",
     "wof:parent_id":85814509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.392717,44.462001,-70.392717,44.462001],
+  "bbox": [
+    -70.392717,
+    44.462001,
+    -70.392717,
+    44.462001
+],
   "geometry": {"coordinates":[-70.392717,44.462001],"type":"Point"}
 }

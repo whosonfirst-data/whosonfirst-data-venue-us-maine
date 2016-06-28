@@ -2,13 +2,14 @@
   "id": 403957747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.471763,43.48753,-70.471763,43.48753",
     "geom:latitude":43.48753,
     "geom:longitude":-70.471763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Amherst St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403957747,
-    "wof:lastmodified":1449055772,
+    "wof:lastmodified":1466587159,
     "wof:name":"Norms Drywall",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.471763,43.48753,-70.471763,43.48753],
+  "bbox": [
+    -70.471763,
+    43.48753,
+    -70.471763,
+    43.48753
+],
   "geometry": {"coordinates":[-70.471763,43.48753],"type":"Point"}
 }

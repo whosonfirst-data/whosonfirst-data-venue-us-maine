@@ -2,13 +2,14 @@
   "id": 387633721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.617335,43.392107,-70.617335,43.392107",
     "geom:latitude":43.392107,
     "geom:longitude":-70.617335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"258 Maguire Rd",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387633721,
-    "wof:lastmodified":1449059894,
+    "wof:lastmodified":1466586709,
     "wof:name":"Brex Corp",
     "wof:parent_id":85817893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.617335,43.392107,-70.617335,43.392107],
+  "bbox": [
+    -70.617335,
+    43.392107,
+    -70.617335,
+    43.392107
+],
   "geometry": {"coordinates":[-70.617335,43.392107],"type":"Point"}
 }

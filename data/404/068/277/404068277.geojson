@@ -2,13 +2,14 @@
   "id": 404068277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.811174,44.790262,-68.811174,44.790262",
     "geom:latitude":44.790262,
     "geom:longitude":-68.811174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 Odlin Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404068277,
-    "wof:lastmodified":1449039700,
+    "wof:lastmodified":1466586547,
     "wof:name":"Blackbeard's",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.811174,44.790262,-68.811174,44.790262],
-  "geometry": {"coordinates":[-68.811174,44.790262],"type":"Point"}
+  "bbox": [
+    -68.811174,
+    44.790262,
+    -68.811174,
+    44.790262
+],
+  "geometry": {"coordinates":[-68.81117399999999,44.790262],"type":"Point"}
 }

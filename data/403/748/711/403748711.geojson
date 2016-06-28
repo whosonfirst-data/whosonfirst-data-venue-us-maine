@@ -2,13 +2,14 @@
   "id": 403748711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.312134,43.70222,-70.312134,43.70222",
     "geom:latitude":43.70222,
     "geom:longitude":-70.312134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Riverside Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403748711,
-    "wof:lastmodified":1449055621,
+    "wof:lastmodified":1466586195,
     "wof:name":"Envelopes Plus Inc",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "envelope"
     ]
 },
-  "bbox": [-70.312134,43.70222,-70.312134,43.70222],
+  "bbox": [
+    -70.312134,
+    43.70222,
+    -70.312134,
+    43.70222
+],
   "geometry": {"coordinates":[-70.312134,43.70222],"type":"Point"}
 }

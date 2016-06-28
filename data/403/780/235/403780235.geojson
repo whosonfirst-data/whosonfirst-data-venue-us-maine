@@ -2,13 +2,14 @@
   "id": 403780235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225373,44.119723,-70.225373,44.119723",
     "geom:latitude":44.119723,
     "geom:longitude":-70.225373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"484 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403780235,
-    "wof:lastmodified":1449055614,
+    "wof:lastmodified":1466585682,
     "wof:name":"J & S Oil Convenience Stores",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.225373,44.119723,-70.225373,44.119723],
+  "bbox": [
+    -70.225373,
+    44.119723,
+    -70.225373,
+    44.119723
+],
   "geometry": {"coordinates":[-70.225373,44.119723],"type":"Point"}
 }

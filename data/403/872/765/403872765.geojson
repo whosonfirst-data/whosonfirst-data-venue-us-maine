@@ -2,13 +2,14 @@
   "id": 403872765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.780185,44.315625,-69.780185,44.315625",
     "geom:latitude":44.315625,
     "geom:longitude":-69.780185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Winthrop St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403872765,
-    "wof:lastmodified":1449054753,
+    "wof:lastmodified":1466586799,
     "wof:name":"Employment Specialists-Maine",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.780185,44.315625,-69.780185,44.315625],
+  "bbox": [
+    -69.780185,
+    44.315625,
+    -69.780185,
+    44.315625
+],
   "geometry": {"coordinates":[-69.780185,44.315625],"type":"Point"}
 }

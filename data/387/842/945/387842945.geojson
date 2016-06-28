@@ -2,13 +2,14 @@
   "id": 387842945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.099256,43.857049,-70.099256,43.857049",
     "geom:latitude":43.857049,
     "geom:longitude":-70.099256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Park St",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387842945,
-    "wof:lastmodified":1449056387,
+    "wof:lastmodified":1466587220,
     "wof:name":"Hilton Garden Inn",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.099256,43.857049,-70.099256,43.857049],
+  "bbox": [
+    -70.099256,
+    43.857049,
+    -70.099256,
+    43.857049
+],
   "geometry": {"coordinates":[-70.099256,43.857049],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403843453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.931099,44.687781,-68.931099,44.687781",
     "geom:latitude":44.687781,
     "geom:longitude":-68.931099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Carmel Rd S",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403843453,
-    "wof:lastmodified":1449054750,
+    "wof:lastmodified":1466586812,
     "wof:name":"Goulds Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-68.931099,44.687781,-68.931099,44.687781],
+  "bbox": [
+    -68.931099,
+    44.687781,
+    -68.931099,
+    44.687781
+],
   "geometry": {"coordinates":[-68.931099,44.687781],"type":"Point"}
 }

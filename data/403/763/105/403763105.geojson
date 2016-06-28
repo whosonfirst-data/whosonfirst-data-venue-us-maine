@@ -2,13 +2,14 @@
   "id": 403763105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.18131,44.078039,-70.18131,44.078039",
     "geom:latitude":44.078039,
     "geom:longitude":-70.18131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 Pleasant St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403763105,
-    "wof:lastmodified":1449055954,
+    "wof:lastmodified":1466586453,
     "wof:name":"Colonial Adjustment Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-70.18131,44.078039,-70.18131,44.078039],
+  "bbox": [
+    -70.18131,
+    44.078039,
+    -70.18131,
+    44.078039
+],
   "geometry": {"coordinates":[-70.18131,44.078039],"type":"Point"}
 }

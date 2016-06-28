@@ -2,13 +2,14 @@
   "id": 403720449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.741233,43.306956,-70.741233,43.306956",
     "geom:latitude":43.306956,
     "geom:longitude":-70.741233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Varney St",
     "sg:city":"North Berwick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403720449,
-    "wof:lastmodified":1449054963,
+    "wof:lastmodified":1466586642,
     "wof:name":"Anderson Swett Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.741233,43.306956,-70.741233,43.306956],
-  "geometry": {"coordinates":[-70.741233,43.306956],"type":"Point"}
+  "bbox": [
+    -70.741233,
+    43.306956,
+    -70.741233,
+    43.306956
+],
+  "geometry": {"coordinates":[-70.74123299999999,43.306956],"type":"Point"}
 }

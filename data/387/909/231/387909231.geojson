@@ -2,13 +2,14 @@
   "id": 387909231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.316242,43.654889,-70.316242,43.654889",
     "geom:latitude":43.654889,
     "geom:longitude":-70.316242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387909231,
-    "wof:lastmodified":1449058969,
+    "wof:lastmodified":1466587318,
     "wof:name":"A Better Way Chiropractic",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.316242,43.654889,-70.316242,43.654889],
+  "bbox": [
+    -70.316242,
+    43.654889,
+    -70.316242,
+    43.654889
+],
   "geometry": {"coordinates":[-70.316242,43.654889],"type":"Point"}
 }

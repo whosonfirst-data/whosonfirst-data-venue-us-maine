@@ -2,13 +2,14 @@
   "id": 403941747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.299644,43.692045,-70.299644,43.692045",
     "geom:latitude":43.692045,
     "geom:longitude":-70.299644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1375 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403941747,
-    "wof:lastmodified":1449055435,
+    "wof:lastmodified":1466586972,
     "wof:name":"Kaycen Technologies",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.299644,43.692045,-70.299644,43.692045],
+  "bbox": [
+    -70.299644,
+    43.692045,
+    -70.299644,
+    43.692045
+],
   "geometry": {"coordinates":[-70.299644,43.692045],"type":"Point"}
 }

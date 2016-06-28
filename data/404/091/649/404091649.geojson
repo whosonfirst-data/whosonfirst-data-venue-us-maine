@@ -2,13 +2,14 @@
   "id": 404091649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.024455,46.81367,-68.024455,46.81367",
     "geom:latitude":46.81367,
     "geom:longitude":-68.024455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"347 W Presque Isle Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404091649,
-    "wof:lastmodified":1449039138,
+    "wof:lastmodified":1466585875,
     "wof:name":"Horse Talk Equestrian Ctr",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-68.024455,46.81367,-68.024455,46.81367],
+  "bbox": [
+    -68.024455,
+    46.81367,
+    -68.024455,
+    46.81367
+],
   "geometry": {"coordinates":[-68.024455,46.81367],"type":"Point"}
 }

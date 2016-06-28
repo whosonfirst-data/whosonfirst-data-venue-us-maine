@@ -2,13 +2,14 @@
   "id": 403892623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.883588,43.953382,-70.883588,43.953382",
     "geom:latitude":43.953382,
     "geom:longitude":-70.883588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Denmark Rd",
     "sg:city":"Brownfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403892623,
-    "wof:lastmodified":1449054824,
+    "wof:lastmodified":1466586815,
     "wof:name":"Eastmans Logging",
     "wof:parent_id":85816061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-70.883588,43.953382,-70.883588,43.953382],
+  "bbox": [
+    -70.883588,
+    43.953382,
+    -70.883588,
+    43.953382
+],
   "geometry": {"coordinates":[-70.883588,43.953382],"type":"Point"}
 }

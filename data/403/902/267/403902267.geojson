@@ -2,13 +2,14 @@
   "id": 403902267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.814976,43.947268,-69.814976,43.947268",
     "geom:latitude":43.947268,
     "geom:longitude":-69.814976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1565 Washington St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403902267,
-    "wof:lastmodified":1449055602,
+    "wof:lastmodified":1466586928,
     "wof:name":"Watson & Mann",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-69.814976,43.947268,-69.814976,43.947268],
+  "bbox": [
+    -69.814976,
+    43.947268,
+    -69.814976,
+    43.947268
+],
   "geometry": {"coordinates":[-69.814976,43.947268],"type":"Point"}
 }

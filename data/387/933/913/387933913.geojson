@@ -2,13 +2,14 @@
   "id": 387933913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.37276,43.860679,-70.37276,43.860679",
     "geom:latitude":43.860679,
     "geom:longitude":-70.37276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 W Gray Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387933913,
-    "wof:lastmodified":1449056883,
+    "wof:lastmodified":1466587278,
     "wof:name":"West Gray Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-70.37276,43.860679,-70.37276,43.860679],
+  "bbox": [
+    -70.37276,
+    43.860679,
+    -70.37276,
+    43.860679
+],
   "geometry": {"coordinates":[-70.37276,43.860679],"type":"Point"}
 }

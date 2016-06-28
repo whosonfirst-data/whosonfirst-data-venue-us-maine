@@ -2,13 +2,14 @@
   "id": 404189201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.806286,44.805363,-68.806286,44.805363",
     "geom:latitude":44.805363,
     "geom:longitude":-68.806286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Texas Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404189201,
-    "wof:lastmodified":1449039972,
+    "wof:lastmodified":1466586795,
     "wof:name":"WMEB",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.806286,44.805363,-68.806286,44.805363],
+  "bbox": [
+    -68.806286,
+    44.805363,
+    -68.806286,
+    44.805363
+],
   "geometry": {"coordinates":[-68.806286,44.805363],"type":"Point"}
 }

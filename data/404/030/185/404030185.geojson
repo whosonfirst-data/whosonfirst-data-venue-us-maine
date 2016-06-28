@@ -2,13 +2,14 @@
   "id": 404030185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.250301,43.65626,-70.250301,43.65626",
     "geom:latitude":43.65626,
     "geom:longitude":-70.250301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Custom House Wharf",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404030185,
-    "wof:lastmodified":1449039468,
+    "wof:lastmodified":1466585972,
     "wof:name":"SOS Environmental Svc",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-70.250301,43.65626,-70.250301,43.65626],
-  "geometry": {"coordinates":[-70.250301,43.65626],"type":"Point"}
+  "bbox": [
+    -70.250301,
+    43.65626,
+    -70.250301,
+    43.65626
+],
+  "geometry": {"coordinates":[-70.25030099999999,43.65626],"type":"Point"}
 }

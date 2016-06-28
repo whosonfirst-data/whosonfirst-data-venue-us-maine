@@ -2,13 +2,14 @@
   "id": 387773807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.841798,43.260392,-70.841798,43.260392",
     "geom:latitude":43.260392,
     "geom:longitude":-70.841798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Power House Rd",
     "sg:city":"Berwick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387773807,
-    "wof:lastmodified":1449056590,
+    "wof:lastmodified":1466586987,
     "wof:name":"Pitbull Automotive",
     "wof:parent_id":85892311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.841798,43.260392,-70.841798,43.260392],
+  "bbox": [
+    -70.841798,
+    43.260392,
+    -70.841798,
+    43.260392
+],
   "geometry": {"coordinates":[-70.841798,43.260392],"type":"Point"}
 }

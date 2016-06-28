@@ -2,13 +2,14 @@
   "id": 387668101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.217511,44.097238,-70.217511,44.097238",
     "geom:latitude":44.097238,
     "geom:longitude":-70.217511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387668101,
-    "wof:lastmodified":1449058762,
+    "wof:lastmodified":1466586252,
     "wof:name":"Communication Systems",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "internet"
     ]
 },
-  "bbox": [-70.217511,44.097238,-70.217511,44.097238],
+  "bbox": [
+    -70.217511,
+    44.097238,
+    -70.217511,
+    44.097238
+],
   "geometry": {"coordinates":[-70.217511,44.097238],"type":"Point"}
 }

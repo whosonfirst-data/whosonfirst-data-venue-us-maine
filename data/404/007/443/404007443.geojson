@@ -2,13 +2,14 @@
   "id": 404007443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.015987,46.67503,-68.015987,46.67503",
     "geom:latitude":46.67503,
     "geom:longitude":-68.015987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Main St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404007443,
-    "wof:lastmodified":1449040104,
+    "wof:lastmodified":1466585791,
     "wof:name":"Maine Potato Growers Inc",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-68.015987,46.67503,-68.015987,46.67503],
+  "bbox": [
+    -68.015987,
+    46.67503,
+    -68.015987,
+    46.67503
+],
   "geometry": {"coordinates":[-68.015987,46.67503],"type":"Point"}
 }

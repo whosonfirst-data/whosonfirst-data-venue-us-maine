@@ -2,13 +2,14 @@
   "id": 387967843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.106872,44.028593,-70.106872,44.028593",
     "geom:latitude":44.028593,
     "geom:longitude":-70.106872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Village St",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387967843,
-    "wof:lastmodified":1449059637,
+    "wof:lastmodified":1466587220,
     "wof:name":"T & B Home Improvements",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-70.106872,44.028593,-70.106872,44.028593],
+  "bbox": [
+    -70.106872,
+    44.028593,
+    -70.106872,
+    44.028593
+],
   "geometry": {"coordinates":[-70.106872,44.028593],"type":"Point"}
 }

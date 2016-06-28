@@ -2,13 +2,14 @@
   "id": 404178159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.086444,44.057075,-70.086444,44.057075",
     "geom:latitude":44.057075,
     "geom:longitude":-70.086444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 Ridge Rd",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404178159,
-    "wof:lastmodified":1449039982,
+    "wof:lastmodified":1466586822,
     "wof:name":"Mistyridge Kennel",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.086444,44.057075,-70.086444,44.057075],
+  "bbox": [
+    -70.086444,
+    44.057075,
+    -70.086444,
+    44.057075
+],
   "geometry": {"coordinates":[-70.086444,44.057075],"type":"Point"}
 }

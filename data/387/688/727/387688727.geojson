@@ -2,13 +2,14 @@
   "id": 387688727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.072191,44.191939,-69.072191,44.191939",
     "geom:latitude":44.191939,
     "geom:longitude":-69.072191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Union St",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387688727,
-    "wof:lastmodified":1449057524,
+    "wof:lastmodified":1466586585,
     "wof:name":"Forrest Sherman",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.072191,44.191939,-69.072191,44.191939],
+  "bbox": [
+    -69.072191,
+    44.191939,
+    -69.072191,
+    44.191939
+],
   "geometry": {"coordinates":[-69.072191,44.191939],"type":"Point"}
 }

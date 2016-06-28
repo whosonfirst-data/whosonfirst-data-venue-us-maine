@@ -2,13 +2,14 @@
   "id": 387746503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.368758,44.130219,-69.368758,44.130219",
     "geom:latitude":44.130219,
     "geom:longitude":-69.368758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Moose Meadow Ln",
     "sg:city":"Waldoboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387746503,
-    "wof:lastmodified":1449056082,
+    "wof:lastmodified":1466586967,
     "wof:name":"Downeast School Of Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "institute"
     ]
 },
-  "bbox": [-69.368758,44.130219,-69.368758,44.130219],
+  "bbox": [
+    -69.368758,
+    44.130219,
+    -69.368758,
+    44.130219
+],
   "geometry": {"coordinates":[-69.368758,44.130219],"type":"Point"}
 }

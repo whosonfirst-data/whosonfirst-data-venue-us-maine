@@ -2,13 +2,14 @@
   "id": 403903063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.228263,44.097587,-70.228263,44.097587",
     "geom:latitude":44.097587,
     "geom:longitude":-70.228263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Court St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403903063,
-    "wof:lastmodified":1449054705,
+    "wof:lastmodified":1466586930,
     "wof:name":"Jaguar Printing & Computers",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.228263,44.097587,-70.228263,44.097587],
+  "bbox": [
+    -70.228263,
+    44.097587,
+    -70.228263,
+    44.097587
+],
   "geometry": {"coordinates":[-70.228263,44.097587],"type":"Point"}
 }

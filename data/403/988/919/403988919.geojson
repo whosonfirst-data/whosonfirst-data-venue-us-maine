@@ -2,13 +2,14 @@
   "id": 403988919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.310417,44.279757,-69.310417,44.279757",
     "geom:latitude":44.279757,
     "geom:longitude":-69.310417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Guinea Ridge Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403988919,
-    "wof:lastmodified":1449055086,
+    "wof:lastmodified":1466587165,
     "wof:name":"A Touch Of Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fiber"
     ]
 },
-  "bbox": [-69.310417,44.279757,-69.310417,44.279757],
+  "bbox": [
+    -69.310417,
+    44.279757,
+    -69.310417,
+    44.279757
+],
   "geometry": {"coordinates":[-69.310417,44.279757],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403974599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.750335,44.834085,-68.750335,44.834085",
     "geom:latitude":44.834085,
     "geom:longitude":-68.750335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"792 Stillwater Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403974599,
-    "wof:lastmodified":1449055792,
+    "wof:lastmodified":1466587135,
     "wof:name":"Richard D Hogan Insurance",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.750335,44.834085,-68.750335,44.834085],
-  "geometry": {"coordinates":[-68.750335,44.834085],"type":"Point"}
+  "bbox": [
+    -68.750335,
+    44.834085,
+    -68.750335,
+    44.834085
+],
+  "geometry": {"coordinates":[-68.75033500000001,44.834085],"type":"Point"}
 }

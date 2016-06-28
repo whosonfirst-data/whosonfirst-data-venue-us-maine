@@ -2,13 +2,14 @@
   "id": 403954775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.566147,43.306303,-70.566147,43.306303",
     "geom:latitude":43.306303,
     "geom:longitude":-70.566147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Atlantic Ave",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403954775,
-    "wof:lastmodified":1449055799,
+    "wof:lastmodified":1466587073,
     "wof:name":"Seward Enterprises Inc",
     "wof:parent_id":85855053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.566147,43.306303,-70.566147,43.306303],
+  "bbox": [
+    -70.566147,
+    43.306303,
+    -70.566147,
+    43.306303
+],
   "geometry": {"coordinates":[-70.566147,43.306303],"type":"Point"}
 }

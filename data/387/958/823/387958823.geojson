@@ -2,13 +2,14 @@
   "id": 387958823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.421307,43.63547,-70.421307,43.63547",
     "geom:latitude":43.63547,
     "geom:longitude":-70.421307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Burnham Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387958823,
-    "wof:lastmodified":1449059074,
+    "wof:lastmodified":1466587342,
     "wof:name":"Mayne Studio",
     "wof:parent_id":85838011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photography"
     ]
 },
-  "bbox": [-70.421307,43.63547,-70.421307,43.63547],
+  "bbox": [
+    -70.421307,
+    43.63547,
+    -70.421307,
+    43.63547
+],
   "geometry": {"coordinates":[-70.421307,43.63547],"type":"Point"}
 }

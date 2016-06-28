@@ -2,13 +2,14 @@
   "id": 404047263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.25555,43.652468,-70.25555,43.652468",
     "geom:latitude":43.652468,
     "geom:longitude":-70.25555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Portland Fish Pier",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404047263,
-    "wof:lastmodified":1449039908,
+    "wof:lastmodified":1466586250,
     "wof:name":"Bristol Seafood Adm Ofc Sales",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.25555,43.652468,-70.25555,43.652468],
+  "bbox": [
+    -70.25555,
+    43.652468,
+    -70.25555,
+    43.652468
+],
   "geometry": {"coordinates":[-70.25555,43.652468],"type":"Point"}
 }

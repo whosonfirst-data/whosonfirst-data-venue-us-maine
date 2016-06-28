@@ -2,13 +2,14 @@
   "id": 387904471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.764272,44.804266,-68.764272,44.804266",
     "geom:latitude":44.804266,
     "geom:longitude":-68.764272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 State St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387904471,
-    "wof:lastmodified":1449060003,
+    "wof:lastmodified":1466587236,
     "wof:name":"Randal C Peters CPA",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-68.764272,44.804266,-68.764272,44.804266],
-  "geometry": {"coordinates":[-68.764272,44.804266],"type":"Point"}
+  "bbox": [
+    -68.764272,
+    44.804266,
+    -68.764272,
+    44.804266
+],
+  "geometry": {"coordinates":[-68.76427200000001,44.804266],"type":"Point"}
 }

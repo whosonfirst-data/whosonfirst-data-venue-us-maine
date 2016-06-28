@@ -2,13 +2,14 @@
   "id": 387871777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.749856,44.836409,-68.749856,44.836409",
     "geom:latitude":44.836409,
     "geom:longitude":-68.749856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Penn Plz",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387871777,
-    "wof:lastmodified":1449057350,
+    "wof:lastmodified":1466587291,
     "wof:name":"Michele E Spekhardt DDS",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-68.749856,44.836409,-68.749856,44.836409],
-  "geometry": {"coordinates":[-68.749856,44.836409],"type":"Point"}
+  "bbox": [
+    -68.749856,
+    44.836409,
+    -68.749856,
+    44.836409
+],
+  "geometry": {"coordinates":[-68.74985599999999,44.836409],"type":"Point"}
 }

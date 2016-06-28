@@ -2,13 +2,14 @@
   "id": 404172015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.903997,44.308724,-68.903997,44.308724",
     "geom:latitude":44.308724,
     "geom:longitude":-68.903997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"376 W Bay Rd",
     "sg:city":"Islesboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404172015,
-    "wof:lastmodified":1449039520,
+    "wof:lastmodified":1466586789,
     "wof:name":"Islesboro Affordable Property",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.903997,44.308724,-68.903997,44.308724],
+  "bbox": [
+    -68.903997,
+    44.308724,
+    -68.903997,
+    44.308724
+],
   "geometry": {"coordinates":[-68.903997,44.308724],"type":"Point"}
 }

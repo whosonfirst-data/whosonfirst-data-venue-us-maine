@@ -2,13 +2,14 @@
   "id": 387925283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.937734,44.839744,-68.937734,44.839744",
     "geom:latitude":44.839744,
     "geom:longitude":-68.937734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3040 Maple Leaf Ln",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387925283,
-    "wof:lastmodified":1449056144,
+    "wof:lastmodified":1466587262,
     "wof:name":"Accounting Services of Maine",
     "wof:parent_id":85838259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-68.937734,44.839744,-68.937734,44.839744],
-  "geometry": {"coordinates":[-68.937734,44.839744],"type":"Point"}
+  "bbox": [
+    -68.937734,
+    44.839744,
+    -68.937734,
+    44.839744
+],
+  "geometry": {"coordinates":[-68.93773400000001,44.839744],"type":"Point"}
 }

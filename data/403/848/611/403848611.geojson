@@ -2,13 +2,14 @@
   "id": 403848611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.365094,43.67649,-70.365094,43.67649",
     "geom:latitude":43.67649,
     "geom:longitude":-70.365094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403848611,
-    "wof:lastmodified":1449054812,
+    "wof:lastmodified":1466586828,
     "wof:name":"Wellness Through The Seasons",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-70.365094,43.67649,-70.365094,43.67649],
+  "bbox": [
+    -70.365094,
+    43.67649,
+    -70.365094,
+    43.67649
+],
   "geometry": {"coordinates":[-70.365094,43.67649],"type":"Point"}
 }

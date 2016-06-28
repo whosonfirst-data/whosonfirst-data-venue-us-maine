@@ -2,13 +2,14 @@
   "id": 403963145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.644587,44.930817,-68.644587,44.930817",
     "geom:latitude":44.930817,
     "geom:longitude":-68.644587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Main St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403963145,
-    "wof:lastmodified":1449054767,
+    "wof:lastmodified":1466587022,
     "wof:name":"Signature Professional Clng",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-68.644587,44.930817,-68.644587,44.930817],
+  "bbox": [
+    -68.644587,
+    44.930817,
+    -68.644587,
+    44.930817
+],
   "geometry": {"coordinates":[-68.644587,44.930817],"type":"Point"}
 }

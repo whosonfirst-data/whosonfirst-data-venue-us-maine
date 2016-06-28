@@ -2,13 +2,14 @@
   "id": 387942521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.309325,43.70551,-70.309325,43.70551",
     "geom:latitude":43.70551,
     "geom:longitude":-70.309325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Riverside Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387942521,
-    "wof:lastmodified":1449057839,
+    "wof:lastmodified":1466587281,
     "wof:name":"R H Scales Co",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cap"
     ]
 },
-  "bbox": [-70.309325,43.70551,-70.309325,43.70551],
+  "bbox": [
+    -70.309325,
+    43.70551,
+    -70.309325,
+    43.70551
+],
   "geometry": {"coordinates":[-70.309325,43.70551],"type":"Point"}
 }

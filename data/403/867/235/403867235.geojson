@@ -2,13 +2,14 @@
   "id": 403867235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.108092,44.112083,-69.108092,44.112083",
     "geom:latitude":44.112083,
     "geom:longitude":-69.108092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 James St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403867235,
-    "wof:lastmodified":1449055211,
+    "wof:lastmodified":1466586773,
     "wof:name":"Clay Brook Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.108092,44.112083,-69.108092,44.112083],
+  "bbox": [
+    -69.108092,
+    44.112083,
+    -69.108092,
+    44.112083
+],
   "geometry": {"coordinates":[-69.108092,44.112083],"type":"Point"}
 }

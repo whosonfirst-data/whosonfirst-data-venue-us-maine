@@ -2,13 +2,14 @@
   "id": 387746963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.456842,43.488149,-70.456842,43.488149",
     "geom:latitude":43.488149,
     "geom:longitude":-70.456842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Foss St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387746963,
-    "wof:lastmodified":1449056079,
+    "wof:lastmodified":1466586969,
     "wof:name":"Professnal Rfund Recovery Svcs",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.456842,43.488149,-70.456842,43.488149],
-  "geometry": {"coordinates":[-70.456842,43.488149],"type":"Point"}
+  "bbox": [
+    -70.456842,
+    43.488149,
+    -70.456842,
+    43.488149
+],
+  "geometry": {"coordinates":[-70.45684199999999,43.488149],"type":"Point"}
 }

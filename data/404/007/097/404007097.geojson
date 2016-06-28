@@ -2,13 +2,14 @@
   "id": 404007097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.201125,44.083382,-70.201125,44.083382",
     "geom:latitude":44.083382,
     "geom:longitude":-70.201125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404007097,
-    "wof:lastmodified":1449040101,
+    "wof:lastmodified":1466585786,
     "wof:name":"Lisbon Street News",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.201125,44.083382,-70.201125,44.083382],
+  "bbox": [
+    -70.201125,
+    44.083382,
+    -70.201125,
+    44.083382
+],
   "geometry": {"coordinates":[-70.201125,44.083382],"type":"Point"}
 }

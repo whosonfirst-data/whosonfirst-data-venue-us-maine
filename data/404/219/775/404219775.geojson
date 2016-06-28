@@ -2,13 +2,14 @@
   "id": 404219775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.823489,44.909959,-68.823489,44.909959",
     "geom:latitude":44.909959,
     "geom:longitude":-68.823489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Cushing Dr",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404219775,
-    "wof:lastmodified":1449040277,
+    "wof:lastmodified":1466586997,
     "wof:name":"Health Connections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.823489,44.909959,-68.823489,44.909959],
+  "bbox": [
+    -68.823489,
+    44.909959,
+    -68.823489,
+    44.909959
+],
   "geometry": {"coordinates":[-68.823489,44.909959],"type":"Point"}
 }

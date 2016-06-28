@@ -2,13 +2,14 @@
   "id": 387727699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.366986,43.627105,-70.366986,43.627105",
     "geom:latitude":43.627105,
     "geom:longitude":-70.366986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 New Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387727699,
-    "wof:lastmodified":1449056676,
+    "wof:lastmodified":1466586828,
     "wof:name":"Duraclean Fabric Specialists",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "drycleaning"
     ]
 },
-  "bbox": [-70.366986,43.627105,-70.366986,43.627105],
+  "bbox": [
+    -70.366986,
+    43.627105,
+    -70.366986,
+    43.627105
+],
   "geometry": {"coordinates":[-70.366986,43.627105],"type":"Point"}
 }

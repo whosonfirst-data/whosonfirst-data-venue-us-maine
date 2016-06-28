@@ -2,13 +2,14 @@
   "id": 387701967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.351,43.579988,-70.351,43.579988",
     "geom:latitude":43.579988,
     "geom:longitude":-70.351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Willowdale Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387701967,
-    "wof:lastmodified":1449059117,
+    "wof:lastmodified":1466586740,
     "wof:name":"Mitchell's Electric",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.351,43.579988,-70.351,43.579988],
+  "bbox": [
+    -70.351,
+    43.579988,
+    -70.351,
+    43.579988
+],
   "geometry": {"coordinates":[-70.351,43.579988],"type":"Point"}
 }

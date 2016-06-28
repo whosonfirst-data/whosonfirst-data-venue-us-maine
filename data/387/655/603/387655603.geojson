@@ -2,13 +2,14 @@
   "id": 387655603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.012391,46.872246,-68.012391,46.872246",
     "geom:latitude":46.872246,
     "geom:longitude":-68.012391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 Main St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387655603,
-    "wof:lastmodified":1449058296,
+    "wof:lastmodified":1466586053,
     "wof:name":"Ann Y Lin MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-68.012391,46.872246,-68.012391,46.872246],
-  "geometry": {"coordinates":[-68.012391,46.872246],"type":"Point"}
+  "bbox": [
+    -68.012391,
+    46.872246,
+    -68.012391,
+    46.872246
+],
+  "geometry": {"coordinates":[-68.01239099999999,46.872246],"type":"Point"}
 }

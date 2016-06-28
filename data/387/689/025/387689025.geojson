@@ -2,13 +2,14 @@
   "id": 387689025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.01283,46.688323,-68.01283,46.688323",
     "geom:latitude":46.688323,
     "geom:longitude":-68.01283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"692 Main St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387689025,
-    "wof:lastmodified":1449059284,
+    "wof:lastmodified":1466586590,
     "wof:name":"I AM Computer Svc & Repair",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-68.01283,46.688323,-68.01283,46.688323],
-  "geometry": {"coordinates":[-68.01283,46.688323],"type":"Point"}
+  "bbox": [
+    -68.01283,
+    46.688323,
+    -68.01283,
+    46.688323
+],
+  "geometry": {"coordinates":[-68.01282999999999,46.688323],"type":"Point"}
 }

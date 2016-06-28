@@ -2,13 +2,14 @@
   "id": 403772079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.84033,46.143601,-67.84033,46.143601",
     "geom:latitude":46.143601,
     "geom:longitude":-67.84033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"289 North St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403772079,
-    "wof:lastmodified":1449055230,
+    "wof:lastmodified":1466586559,
     "wof:name":"Doc's Place Gas Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-67.84033,46.143601,-67.84033,46.143601],
-  "geometry": {"coordinates":[-67.84033,46.143601],"type":"Point"}
+  "bbox": [
+    -67.84033,
+    46.143601,
+    -67.84033,
+    46.143601
+],
+  "geometry": {"coordinates":[-67.84032999999999,46.143601],"type":"Point"}
 }

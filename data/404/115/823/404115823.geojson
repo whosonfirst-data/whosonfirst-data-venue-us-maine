@@ -2,13 +2,14 @@
   "id": 404115823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.672363,44.173767,-70.672363,44.173767",
     "geom:latitude":44.173767,
     "geom:longitude":-70.672363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Mill Hill Rd",
     "sg:city":"Waterford",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404115823,
-    "wof:lastmodified":1449039081,
+    "wof:lastmodified":1466586230,
     "wof:name":"Camp Waziyatah",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.672363,44.173767,-70.672363,44.173767],
+  "bbox": [
+    -70.672363,
+    44.173767,
+    -70.672363,
+    44.173767
+],
   "geometry": {"coordinates":[-70.672363,44.173767],"type":"Point"}
 }

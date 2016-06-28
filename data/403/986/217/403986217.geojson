@@ -2,13 +2,14 @@
   "id": 403986217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.314917,43.707691,-70.314917,43.707691",
     "geom:latitude":43.707691,
     "geom:longitude":-70.314917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Evergreen Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403986217,
-    "wof:lastmodified":1449055704,
+    "wof:lastmodified":1466587243,
     "wof:name":"D L Geary Brewing Co",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brewer"
     ]
 },
-  "bbox": [-70.314917,43.707691,-70.314917,43.707691],
-  "geometry": {"coordinates":[-70.314917,43.707691],"type":"Point"}
+  "bbox": [
+    -70.314917,
+    43.707691,
+    -70.314917,
+    43.707691
+],
+  "geometry": {"coordinates":[-70.31491699999999,43.707691],"type":"Point"}
 }

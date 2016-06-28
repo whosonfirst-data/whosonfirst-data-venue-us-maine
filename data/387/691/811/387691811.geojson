@@ -2,13 +2,14 @@
   "id": 387691811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.183055,44.163738,-70.183055,44.163738",
     "geom:latitude":44.163738,
     "geom:longitude":-70.183055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 S River Rd",
     "sg:city":"Greene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387691811,
-    "wof:lastmodified":1449056423,
+    "wof:lastmodified":1466586627,
     "wof:name":"3 T Stables Of Maine",
     "wof:parent_id":85815921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-70.183055,44.163738,-70.183055,44.163738],
+  "bbox": [
+    -70.183055,
+    44.163738,
+    -70.183055,
+    44.163738
+],
   "geometry": {"coordinates":[-70.183055,44.163738],"type":"Point"}
 }

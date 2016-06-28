@@ -2,13 +2,14 @@
   "id": 387942637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.424496,43.533659,-70.424496,43.533659",
     "geom:latitude":43.533659,
     "geom:longitude":-70.424496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"899 Portland Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387942637,
-    "wof:lastmodified":1449057838,
+    "wof:lastmodified":1466587283,
     "wof:name":"A V Advantage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leasing"
     ]
 },
-  "bbox": [-70.424496,43.533659,-70.424496,43.533659],
+  "bbox": [
+    -70.424496,
+    43.533659,
+    -70.424496,
+    43.533659
+],
   "geometry": {"coordinates":[-70.424496,43.533659],"type":"Point"}
 }

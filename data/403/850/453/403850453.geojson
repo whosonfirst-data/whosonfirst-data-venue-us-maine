@@ -2,13 +2,14 @@
   "id": 403850453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.444124,43.840903,-70.444124,43.840903",
     "geom:latitude":43.840903,
     "geom:longitude":-70.444124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"653 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403850453,
-    "wof:lastmodified":1449055406,
+    "wof:lastmodified":1466586710,
     "wof:name":"Lee Autocare",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.444124,43.840903,-70.444124,43.840903],
+  "bbox": [
+    -70.444124,
+    43.840903,
+    -70.444124,
+    43.840903
+],
   "geometry": {"coordinates":[-70.444124,43.840903],"type":"Point"}
 }

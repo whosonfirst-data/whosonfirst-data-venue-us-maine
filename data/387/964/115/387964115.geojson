@@ -2,13 +2,14 @@
   "id": 387964115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.483989,47.188458,-68.483989,47.188458",
     "geom:latitude":47.188458,
     "geom:longitude":-68.483989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1788 Caribou Rd",
     "sg:city":"New Canada",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387964115,
-    "wof:lastmodified":1449058971,
+    "wof:lastmodified":1466587300,
     "wof:name":"Michaud Stump Grinding Svc",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-68.483989,47.188458,-68.483989,47.188458],
-  "geometry": {"coordinates":[-68.483989,47.188458],"type":"Point"}
+  "bbox": [
+    -68.483989,
+    47.188458,
+    -68.483989,
+    47.188458
+],
+  "geometry": {"coordinates":[-68.48398899999999,47.188458],"type":"Point"}
 }

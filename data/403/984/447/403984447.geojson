@@ -2,13 +2,14 @@
   "id": 403984447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.33778,43.926865,-70.33778,43.926865",
     "geom:latitude":43.926865,
     "geom:longitude":-70.33778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Stave Mill Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403984447,
-    "wof:lastmodified":1449055390,
+    "wof:lastmodified":1466587161,
     "wof:name":"A&B Floral Designs",
     "wof:parent_id":85815293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.33778,43.926865,-70.33778,43.926865],
+  "bbox": [
+    -70.33778,
+    43.926865,
+    -70.33778,
+    43.926865
+],
   "geometry": {"coordinates":[-70.33778,43.926865],"type":"Point"}
 }

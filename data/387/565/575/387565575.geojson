@@ -2,13 +2,14 @@
   "id": 387565575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.813931,43.911856,-69.813931,43.911856",
     "geom:latitude":43.911856,
     "geom:longitude":-69.813931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Front St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387565575,
-    "wof:lastmodified":1449059581,
+    "wof:lastmodified":1466585836,
     "wof:name":"Spencer E Gray Jr LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.813931,43.911856,-69.813931,43.911856],
+  "bbox": [
+    -69.813931,
+    43.911856,
+    -69.813931,
+    43.911856
+],
   "geometry": {"coordinates":[-69.813931,43.911856],"type":"Point"}
 }

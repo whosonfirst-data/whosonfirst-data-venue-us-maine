@@ -2,13 +2,14 @@
   "id": 387868821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.278938,43.649971,-70.278938,43.649971",
     "geom:latitude":43.649971,
     "geom:longitude":-70.278938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Saint John St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387868821,
-    "wof:lastmodified":1449056291,
+    "wof:lastmodified":1466587290,
     "wof:name":"Omnia Technologies Inc",
     "wof:parent_id":85880029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-70.278938,43.649971,-70.278938,43.649971],
+  "bbox": [
+    -70.278938,
+    43.649971,
+    -70.278938,
+    43.649971
+],
   "geometry": {"coordinates":[-70.278938,43.649971],"type":"Point"}
 }

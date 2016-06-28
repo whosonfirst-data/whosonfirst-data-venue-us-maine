@@ -2,13 +2,14 @@
   "id": 403926935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.317244,43.684326,-70.317244,43.684326",
     "geom:latitude":43.684326,
     "geom:longitude":-70.317244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Birchwood Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403926935,
-    "wof:lastmodified":1449055091,
+    "wof:lastmodified":1466587017,
     "wof:name":"Custom Creations-Beth & Kate",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parcel"
     ]
 },
-  "bbox": [-70.317244,43.684326,-70.317244,43.684326],
+  "bbox": [
+    -70.317244,
+    43.684326,
+    -70.317244,
+    43.684326
+],
   "geometry": {"coordinates":[-70.317244,43.684326],"type":"Point"}
 }

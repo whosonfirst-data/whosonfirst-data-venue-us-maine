@@ -2,13 +2,14 @@
   "id": 387938273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.007275,46.860508,-68.007275,46.860508",
     "geom:latitude":46.860508,
     "geom:longitude":-68.007275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 High St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387938273,
-    "wof:lastmodified":1449058944,
+    "wof:lastmodified":1466587274,
     "wof:name":"Allan Hanson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-68.007275,46.860508,-68.007275,46.860508],
-  "geometry": {"coordinates":[-68.007275,46.860508],"type":"Point"}
+  "bbox": [
+    -68.007275,
+    46.860508,
+    -68.007275,
+    46.860508
+],
+  "geometry": {"coordinates":[-68.00727500000001,46.860508],"type":"Point"}
 }

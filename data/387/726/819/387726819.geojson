@@ -2,13 +2,14 @@
   "id": 387726819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.776057,43.43973,-70.776057,43.43973",
     "geom:latitude":43.43973,
     "geom:longitude":-70.776057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"898 Main St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387726819,
-    "wof:lastmodified":1449058714,
+    "wof:lastmodified":1466586830,
     "wof:name":"Fluff N Puff Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.776057,43.43973,-70.776057,43.43973],
-  "geometry": {"coordinates":[-70.776057,43.43973],"type":"Point"}
+  "bbox": [
+    -70.776057,
+    43.43973,
+    -70.776057,
+    43.43973
+],
+  "geometry": {"coordinates":[-70.77605699999999,43.43973],"type":"Point"}
 }

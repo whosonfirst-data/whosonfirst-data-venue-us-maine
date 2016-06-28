@@ -2,13 +2,14 @@
   "id": 387651101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.979747,44.016367,-70.979747,44.016367",
     "geom:latitude":44.016367,
     "geom:longitude":-70.979747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Portland St",
     "sg:city":"Fryeburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387651101,
-    "wof:lastmodified":1449056854,
+    "wof:lastmodified":1466585986,
     "wof:name":"North Country Kitchens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-70.979747,44.016367,-70.979747,44.016367],
+  "bbox": [
+    -70.979747,
+    44.016367,
+    -70.979747,
+    44.016367
+],
   "geometry": {"coordinates":[-70.979747,44.016367],"type":"Point"}
 }

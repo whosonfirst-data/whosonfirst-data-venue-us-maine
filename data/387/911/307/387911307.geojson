@@ -2,13 +2,14 @@
   "id": 387911307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.350976,43.538085,-70.350976,43.538085",
     "geom:latitude":43.538085,
     "geom:longitude":-70.350976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E Grand Ave",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387911307,
-    "wof:lastmodified":1449059302,
+    "wof:lastmodified":1466587320,
     "wof:name":"Holiday House Inn",
     "wof:parent_id":85822441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.350976,43.538085,-70.350976,43.538085],
+  "bbox": [
+    -70.350976,
+    43.538085,
+    -70.350976,
+    43.538085
+],
   "geometry": {"coordinates":[-70.350976,43.538085],"type":"Point"}
 }

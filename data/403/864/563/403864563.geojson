@@ -2,13 +2,14 @@
   "id": 403864563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.142546,46.694574,-68.142546,46.694574",
     "geom:latitude":46.694574,
     "geom:longitude":-68.142546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Pulcifur Rd",
     "sg:city":"Mapleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403864563,
-    "wof:lastmodified":1449055981,
+    "wof:lastmodified":1466586673,
     "wof:name":"Advanced Agriculture",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "applicator"
     ]
 },
-  "bbox": [-68.142546,46.694574,-68.142546,46.694574],
+  "bbox": [
+    -68.142546,
+    46.694574,
+    -68.142546,
+    46.694574
+],
   "geometry": {"coordinates":[-68.142546,46.694574],"type":"Point"}
 }

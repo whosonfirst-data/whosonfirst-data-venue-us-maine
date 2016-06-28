@@ -2,13 +2,14 @@
   "id": 403816899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.440502,43.443974,-70.440502,43.443974",
     "geom:latitude":43.443974,
     "geom:longitude":-70.440502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Guinea Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403816899,
-    "wof:lastmodified":1449055417,
+    "wof:lastmodified":1466586212,
     "wof:name":"A2Z Custom Embroidery",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-70.440502,43.443974,-70.440502,43.443974],
+  "bbox": [
+    -70.440502,
+    43.443974,
+    -70.440502,
+    43.443974
+],
   "geometry": {"coordinates":[-70.440502,43.443974],"type":"Point"}
 }

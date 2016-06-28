@@ -2,13 +2,14 @@
   "id": 403834319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.965115,43.914994,-69.965115,43.914994",
     "geom:latitude":43.914994,
     "geom:longitude":-69.965115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Maine St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403834319,
-    "wof:lastmodified":1449054761,
+    "wof:lastmodified":1466586501,
     "wof:name":"Broadway Delicatessen Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-69.965115,43.914994,-69.965115,43.914994],
+  "bbox": [
+    -69.965115,
+    43.914994,
+    -69.965115,
+    43.914994
+],
   "geometry": {"coordinates":[-69.965115,43.914994],"type":"Point"}
 }

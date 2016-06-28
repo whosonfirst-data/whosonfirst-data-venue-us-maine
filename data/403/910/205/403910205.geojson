@@ -2,13 +2,14 @@
   "id": 403910205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.601169,44.049288,-69.601169,44.049288",
     "geom:latitude":44.049288,
     "geom:longitude":-69.601169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 W Old County Rd",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403910205,
-    "wof:lastmodified":1449055179,
+    "wof:lastmodified":1466586949,
     "wof:name":"Mindful Healing Inc",
     "wof:parent_id":85849907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.601169,44.049288,-69.601169,44.049288],
+  "bbox": [
+    -69.601169,
+    44.049288,
+    -69.601169,
+    44.049288
+],
   "geometry": {"coordinates":[-69.601169,44.049288],"type":"Point"}
 }

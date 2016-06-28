@@ -2,13 +2,14 @@
   "id": 403870835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.869437,44.999055,-68.869437,44.999055",
     "geom:latitude":44.999055,
     "geom:longitude":-68.869437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"191 Old Town Rd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403870835,
-    "wof:lastmodified":1449054994,
+    "wof:lastmodified":1466586801,
     "wof:name":"Angel's Heavenly Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-68.869437,44.999055,-68.869437,44.999055],
+  "bbox": [
+    -68.869437,
+    44.999055,
+    -68.869437,
+    44.999055
+],
   "geometry": {"coordinates":[-68.869437,44.999055],"type":"Point"}
 }

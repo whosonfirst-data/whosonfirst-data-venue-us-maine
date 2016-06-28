@@ -2,13 +2,14 @@
   "id": 387805507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.457424,44.092394,-69.457424,44.092394",
     "geom:latitude":44.092394,
     "geom:longitude":-69.457424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Duckpuddle Rd",
     "sg:city":"Nobleboro",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387805507,
-    "wof:lastmodified":1449057372,
+    "wof:lastmodified":1466587152,
     "wof:name":"F/V Sea Smoke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fishing"
     ]
 },
-  "bbox": [-69.457424,44.092394,-69.457424,44.092394],
+  "bbox": [
+    -69.457424,
+    44.092394,
+    -69.457424,
+    44.092394
+],
   "geometry": {"coordinates":[-69.457424,44.092394],"type":"Point"}
 }

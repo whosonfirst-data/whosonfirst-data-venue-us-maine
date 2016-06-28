@@ -2,13 +2,14 @@
   "id": 387913345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.461441,43.408803,-70.461441,43.408803",
     "geom:latitude":43.408803,
     "geom:longitude":-70.461441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Arundel Rd",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387913345,
-    "wof:lastmodified":1449057577,
+    "wof:lastmodified":1466587322,
     "wof:name":"Brennan Builders",
     "wof:parent_id":85822309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.461441,43.408803,-70.461441,43.408803],
-  "geometry": {"coordinates":[-70.461441,43.408803],"type":"Point"}
+  "bbox": [
+    -70.461441,
+    43.408803,
+    -70.461441,
+    43.408803
+],
+  "geometry": {"coordinates":[-70.46144099999999,43.408803],"type":"Point"}
 }

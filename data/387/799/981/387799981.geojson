@@ -2,13 +2,14 @@
   "id": 387799981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252468,43.663381,-70.252468,43.663381",
     "geom:latitude":43.663381,
     "geom:longitude":-70.252468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Cumberland Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387799981,
-    "wof:lastmodified":1449059939,
+    "wof:lastmodified":1466587043,
     "wof:name":"Labor Ready 2801",
     "wof:parent_id":85835993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.252468,43.663381,-70.252468,43.663381],
-  "geometry": {"coordinates":[-70.252468,43.663381],"type":"Point"}
+  "bbox": [
+    -70.252468,
+    43.663381,
+    -70.252468,
+    43.663381
+],
+  "geometry": {"coordinates":[-70.25246799999999,43.663381],"type":"Point"}
 }

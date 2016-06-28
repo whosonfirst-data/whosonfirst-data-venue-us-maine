@@ -2,13 +2,14 @@
   "id": 404157345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.635854,44.55054,-69.635854,44.55054",
     "geom:latitude":44.55054,
     "geom:longitude":-69.635854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Pleasant St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404157345,
-    "wof:lastmodified":1449040152,
+    "wof:lastmodified":1466586859,
     "wof:name":"Albert S Hall School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.635854,44.55054,-69.635854,44.55054],
-  "geometry": {"coordinates":[-69.635854,44.55054],"type":"Point"}
+  "bbox": [
+    -69.635854,
+    44.55054,
+    -69.635854,
+    44.55054
+],
+  "geometry": {"coordinates":[-69.63585399999999,44.55054],"type":"Point"}
 }

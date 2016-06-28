@@ -2,13 +2,14 @@
   "id": 387780001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225663,43.631338,-70.225663,43.631338",
     "geom:latitude":43.631338,
     "geom:longitude":-70.225663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Forest Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387780001,
-    "wof:lastmodified":1449058956,
+    "wof:lastmodified":1466586913,
     "wof:name":"Learng Disbld Brkthr To Ltrcy",
     "wof:parent_id":85867975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "learning"
     ]
 },
-  "bbox": [-70.225663,43.631338,-70.225663,43.631338],
+  "bbox": [
+    -70.225663,
+    43.631338,
+    -70.225663,
+    43.631338
+],
   "geometry": {"coordinates":[-70.225663,43.631338],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404198455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.190088,44.474002,-70.190088,44.474002",
     "geom:latitude":44.474002,
     "geom:longitude":-70.190088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Main St",
     "sg:city":"Livermore Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404198455,
-    "wof:lastmodified":1449039459,
+    "wof:lastmodified":1466586913,
     "wof:name":"A Cut Above Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.190088,44.474002,-70.190088,44.474002],
+  "bbox": [
+    -70.190088,
+    44.474002,
+    -70.190088,
+    44.474002
+],
   "geometry": {"coordinates":[-70.190088,44.474002],"type":"Point"}
 }

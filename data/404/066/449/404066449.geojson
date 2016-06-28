@@ -2,13 +2,14 @@
   "id": 404066449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.246938,43.824553,-70.246938,43.824553",
     "geom:latitude":43.824553,
     "geom:longitude":-70.246938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Cumberland Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404066449,
-    "wof:lastmodified":1449039369,
+    "wof:lastmodified":1466586519,
     "wof:name":"Foggs Boat Works",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fiber"
     ]
 },
-  "bbox": [-70.246938,43.824553,-70.246938,43.824553],
+  "bbox": [
+    -70.246938,
+    43.824553,
+    -70.246938,
+    43.824553
+],
   "geometry": {"coordinates":[-70.246938,43.824553],"type":"Point"}
 }

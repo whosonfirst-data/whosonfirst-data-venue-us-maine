@@ -2,13 +2,14 @@
   "id": 403838189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.344371,43.742601,-70.344371,43.742601",
     "geom:latitude":43.742601,
     "geom:longitude":-70.344371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"632 Duck Pond Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403838189,
-    "wof:lastmodified":1449054782,
+    "wof:lastmodified":1466586567,
     "wof:name":"James P Moses Photography",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-70.344371,43.742601,-70.344371,43.742601],
+  "bbox": [
+    -70.344371,
+    43.742601,
+    -70.344371,
+    43.742601
+],
   "geometry": {"coordinates":[-70.344371,43.742601],"type":"Point"}
 }

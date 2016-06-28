@@ -2,13 +2,14 @@
   "id": 403733933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.798028,44.40304,-69.798028,44.40304",
     "geom:latitude":44.40304,
     "geom:longitude":-69.798028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Spruce Trl",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403733933,
-    "wof:lastmodified":1449054802,
+    "wof:lastmodified":1466586024,
     "wof:name":"Steve's Appliance",
     "wof:parent_id":85856385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-69.798028,44.40304,-69.798028,44.40304],
+  "bbox": [
+    -69.798028,
+    44.40304,
+    -69.798028,
+    44.40304
+],
   "geometry": {"coordinates":[-69.798028,44.40304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387878441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.966233,43.914391,-69.966233,43.914391",
     "geom:latitude":43.914391,
     "geom:longitude":-69.966233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Pleasant St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387878441,
-    "wof:lastmodified":1449058095,
+    "wof:lastmodified":1466587294,
     "wof:name":"Permanent Addictions Tattooing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-69.966233,43.914391,-69.966233,43.914391],
+  "bbox": [
+    -69.966233,
+    43.914391,
+    -69.966233,
+    43.914391
+],
   "geometry": {"coordinates":[-69.966233,43.914391],"type":"Point"}
 }

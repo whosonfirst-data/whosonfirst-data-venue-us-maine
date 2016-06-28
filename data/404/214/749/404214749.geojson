@@ -2,13 +2,14 @@
   "id": 404214749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.609593,44.577897,-69.609593,44.577897",
     "geom:latitude":44.577897,
     "geom:longitude":-69.609593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Main St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404214749,
-    "wof:lastmodified":1449040288,
+    "wof:lastmodified":1466586894,
     "wof:name":"Keith's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-69.609593,44.577897,-69.609593,44.577897],
+  "bbox": [
+    -69.609593,
+    44.577897,
+    -69.609593,
+    44.577897
+],
   "geometry": {"coordinates":[-69.609593,44.577897],"type":"Point"}
 }

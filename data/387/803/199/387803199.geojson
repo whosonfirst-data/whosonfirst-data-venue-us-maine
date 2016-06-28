@@ -2,13 +2,14 @@
   "id": 387803199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.425176,43.813907,-70.425176,43.813907",
     "geom:latitude":43.813907,
     "geom:longitude":-70.425176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387803199,
-    "wof:lastmodified":1449059960,
+    "wof:lastmodified":1466586961,
     "wof:name":"Seavey's Furniture Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.425176,43.813907,-70.425176,43.813907],
-  "geometry": {"coordinates":[-70.425176,43.813907],"type":"Point"}
+  "bbox": [
+    -70.425176,
+    43.813907,
+    -70.425176,
+    43.813907
+],
+  "geometry": {"coordinates":[-70.42517599999999,43.813907],"type":"Point"}
 }

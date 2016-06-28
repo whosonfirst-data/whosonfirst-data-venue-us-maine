@@ -2,13 +2,14 @@
   "id": 387744445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.765647,44.794861,-68.765647,44.794861",
     "geom:latitude":44.794861,
     "geom:longitude":-68.765647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 N Main St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387744445,
-    "wof:lastmodified":1449057467,
+    "wof:lastmodified":1466586877,
     "wof:name":"Heroes Games & Movies",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-68.765647,44.794861,-68.765647,44.794861],
+  "bbox": [
+    -68.765647,
+    44.794861,
+    -68.765647,
+    44.794861
+],
   "geometry": {"coordinates":[-68.765647,44.794861],"type":"Point"}
 }

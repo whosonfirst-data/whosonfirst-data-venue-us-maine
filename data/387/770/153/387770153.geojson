@@ -2,13 +2,14 @@
   "id": 387770153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.542733,44.031254,-69.542733,44.031254",
     "geom:latitude":44.031254,
     "geom:longitude":-69.542733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 River Rd",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387770153,
-    "wof:lastmodified":1449059993,
+    "wof:lastmodified":1466586884,
     "wof:name":"Damariscotta Brewing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-69.542733,44.031254,-69.542733,44.031254],
+  "bbox": [
+    -69.542733,
+    44.031254,
+    -69.542733,
+    44.031254
+],
   "geometry": {"coordinates":[-69.542733,44.031254],"type":"Point"}
 }

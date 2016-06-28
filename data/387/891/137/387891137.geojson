@@ -2,13 +2,14 @@
   "id": 387891137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.243055,43.666361,-70.243055,43.666361",
     "geom:latitude":43.666361,
     "geom:longitude":-70.243055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Vesper St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387891137,
-    "wof:lastmodified":1449058399,
+    "wof:lastmodified":1466587228,
     "wof:name":"M C Construction Co",
     "wof:parent_id":85816267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.243055,43.666361,-70.243055,43.666361],
+  "bbox": [
+    -70.243055,
+    43.666361,
+    -70.243055,
+    43.666361
+],
   "geometry": {"coordinates":[-70.243055,43.666361],"type":"Point"}
 }

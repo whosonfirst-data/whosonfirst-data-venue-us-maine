@@ -2,13 +2,14 @@
   "id": 403819773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.791195,44.731345,-68.791195,44.731345",
     "geom:latitude":44.731345,
     "geom:longitude":-68.791195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Johnson Mill Rd",
     "sg:city":"Orrington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403819773,
-    "wof:lastmodified":1449054954,
+    "wof:lastmodified":1466586259,
     "wof:name":"Kens Vac & Sew Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "electrical"
     ]
 },
-  "bbox": [-68.791195,44.731345,-68.791195,44.731345],
+  "bbox": [
+    -68.791195,
+    44.731345,
+    -68.791195,
+    44.731345
+],
   "geometry": {"coordinates":[-68.791195,44.731345],"type":"Point"}
 }

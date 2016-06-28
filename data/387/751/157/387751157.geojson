@@ -2,13 +2,14 @@
   "id": 387751157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.00691,46.862208,-68.00691,46.862208",
     "geom:latitude":46.862208,
     "geom:longitude":-68.00691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Glenn St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387751157,
-    "wof:lastmodified":1449056329,
+    "wof:lastmodified":1466586901,
     "wof:name":"Caribou Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.00691,46.862208,-68.00691,46.862208],
+  "bbox": [
+    -68.00691,
+    46.862208,
+    -68.00691,
+    46.862208
+],
   "geometry": {"coordinates":[-68.00691,46.862208],"type":"Point"}
 }

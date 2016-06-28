@@ -2,13 +2,14 @@
   "id": 404102343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.356081,43.549306,-70.356081,43.549306",
     "geom:latitude":43.549306,
     "geom:longitude":-70.356081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Pine Point Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404102343,
-    "wof:lastmodified":1449040254,
+    "wof:lastmodified":1466586030,
     "wof:name":"Bayley's Campground Snack Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.356081,43.549306,-70.356081,43.549306],
+  "bbox": [
+    -70.356081,
+    43.549306,
+    -70.356081,
+    43.549306
+],
   "geometry": {"coordinates":[-70.356081,43.549306],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403723383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.824065,44.843313,-68.824065,44.843313",
     "geom:latitude":44.843313,
     "geom:longitude":-68.824065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Davis Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403723383,
-    "wof:lastmodified":1449055422,
+    "wof:lastmodified":1466585885,
     "wof:name":"Crestwood Place",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-68.824065,44.843313,-68.824065,44.843313],
+  "bbox": [
+    -68.824065,
+    44.843313,
+    -68.824065,
+    44.843313
+],
   "geometry": {"coordinates":[-68.824065,44.843313],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404154199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.206268,44.390912,-68.206268,44.390912",
     "geom:latitude":44.390912,
     "geom:longitude":-68.206268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 West St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404154199,
-    "wof:lastmodified":1449040339,
+    "wof:lastmodified":1466586735,
     "wof:name":"Bar Harbor Whale Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.206268,44.390912,-68.206268,44.390912],
-  "geometry": {"coordinates":[-68.206268,44.390912],"type":"Point"}
+  "bbox": [
+    -68.206268,
+    44.390912,
+    -68.206268,
+    44.390912
+],
+  "geometry": {"coordinates":[-68.20626799999999,44.390912],"type":"Point"}
 }

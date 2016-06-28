@@ -2,13 +2,14 @@
   "id": 403980917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.502008,45.364061,-68.502008,45.364061",
     "geom:latitude":45.364061,
     "geom:longitude":-68.502008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 School St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403980917,
-    "wof:lastmodified":1449054729,
+    "wof:lastmodified":1466587059,
     "wof:name":"Lincoln Court Apartments",
     "wof:parent_id":85849837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-68.502008,45.364061,-68.502008,45.364061],
+  "bbox": [
+    -68.502008,
+    45.364061,
+    -68.502008,
+    45.364061
+],
   "geometry": {"coordinates":[-68.502008,45.364061],"type":"Point"}
 }

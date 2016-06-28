@@ -2,13 +2,14 @@
   "id": 403737249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.464647,43.36439,-70.464647,43.36439",
     "geom:latitude":43.36439,
     "geom:longitude":-70.464647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 School St",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403737249,
-    "wof:lastmodified":1449054945,
+    "wof:lastmodified":1466586039,
     "wof:name":"Charlie Neville",
     "wof:parent_id":85857739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [-70.464647,43.36439,-70.464647,43.36439],
+  "bbox": [
+    -70.464647,
+    43.36439,
+    -70.464647,
+    43.36439
+],
   "geometry": {"coordinates":[-70.464647,43.36439],"type":"Point"}
 }

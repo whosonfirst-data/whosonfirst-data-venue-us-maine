@@ -2,13 +2,14 @@
   "id": 404173975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.636488,43.502481,-70.636488,43.502481",
     "geom:latitude":43.502481,
     "geom:longitude":-70.636488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Kennebunk Pond Rd",
     "sg:city":"Lyman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404173975,
-    "wof:lastmodified":1449039287,
+    "wof:lastmodified":1466586798,
     "wof:name":"Bear Hugs Preschool",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-70.636488,43.502481,-70.636488,43.502481],
+  "bbox": [
+    -70.636488,
+    43.502481,
+    -70.636488,
+    43.502481
+],
   "geometry": {"coordinates":[-70.636488,43.502481],"type":"Point"}
 }

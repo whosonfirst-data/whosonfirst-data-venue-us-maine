@@ -2,13 +2,14 @@
   "id": 403890565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.954571,43.844132,-69.954571,43.844132",
     "geom:latitude":43.844132,
     "geom:longitude":-69.954571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Harpswell Neck Rd",
     "sg:city":"South Harpswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403890565,
-    "wof:lastmodified":1449054944,
+    "wof:lastmodified":1466586803,
     "wof:name":"Kens Lobster",
     "wof:parent_id":85841203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.954571,43.844132,-69.954571,43.844132],
+  "bbox": [
+    -69.954571,
+    43.844132,
+    -69.954571,
+    43.844132
+],
   "geometry": {"coordinates":[-69.954571,43.844132],"type":"Point"}
 }

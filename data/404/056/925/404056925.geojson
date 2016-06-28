@@ -2,13 +2,14 @@
   "id": 404056925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.236591,43.766196,-70.236591,43.766196",
     "geom:latitude":43.766196,
     "geom:longitude":-70.236591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Harris Rd",
     "sg:city":"Cumberland Ctr",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404056925,
-    "wof:lastmodified":1449039353,
+    "wof:lastmodified":1466586379,
     "wof:name":"Dale Bragg Builders Inc",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.236591,43.766196,-70.236591,43.766196],
+  "bbox": [
+    -70.236591,
+    43.766196,
+    -70.236591,
+    43.766196
+],
   "geometry": {"coordinates":[-70.236591,43.766196],"type":"Point"}
 }

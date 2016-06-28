@@ -2,13 +2,14 @@
   "id": 387753979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.063623,44.186479,-69.063623,44.186479",
     "geom:latitude":44.186479,
     "geom:longitude":-69.063623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Russell Ave",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387753979,
-    "wof:lastmodified":1449056559,
+    "wof:lastmodified":1466586825,
     "wof:name":"Chilton Creative",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-69.063623,44.186479,-69.063623,44.186479],
-  "geometry": {"coordinates":[-69.063623,44.186479],"type":"Point"}
+  "bbox": [
+    -69.063623,
+    44.186479,
+    -69.063623,
+    44.186479
+],
+  "geometry": {"coordinates":[-69.06362300000001,44.186479],"type":"Point"}
 }

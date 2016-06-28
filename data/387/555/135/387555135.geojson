@@ -2,13 +2,14 @@
   "id": 387555135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.477638,43.46756,-70.477638,43.46756",
     "geom:latitude":43.46756,
     "geom:longitude":-70.477638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Hill St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387555135,
-    "wof:lastmodified":1449059382,
+    "wof:lastmodified":1466585670,
     "wof:name":"Dick Coffin Entertainment",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "show"
     ]
 },
-  "bbox": [-70.477638,43.46756,-70.477638,43.46756],
+  "bbox": [
+    -70.477638,
+    43.46756,
+    -70.477638,
+    43.46756
+],
   "geometry": {"coordinates":[-70.477638,43.46756],"type":"Point"}
 }

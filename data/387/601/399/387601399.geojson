@@ -2,13 +2,14 @@
   "id": 387601399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.206279,44.387101,-68.206279,44.387101",
     "geom:latitude":44.387101,
     "geom:longitude":-68.206279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Mount Desert St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387601399,
-    "wof:lastmodified":1449057805,
+    "wof:lastmodified":1466586356,
     "wof:name":"Abbe Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.206279,44.387101,-68.206279,44.387101],
-  "geometry": {"coordinates":[-68.206279,44.387101],"type":"Point"}
+  "bbox": [
+    -68.206279,
+    44.387101,
+    -68.206279,
+    44.387101
+],
+  "geometry": {"coordinates":[-68.20627899999999,44.387101],"type":"Point"}
 }

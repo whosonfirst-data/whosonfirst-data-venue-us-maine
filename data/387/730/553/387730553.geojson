@@ -2,13 +2,14 @@
   "id": 387730553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.836353,44.793008,-68.836353,44.793008",
     "geom:latitude":44.793008,
     "geom:longitude":-68.836353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Rice St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387730553,
-    "wof:lastmodified":1449059311,
+    "wof:lastmodified":1466586733,
     "wof:name":"Waterfront Bar & Grill",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.836353,44.793008,-68.836353,44.793008],
+  "bbox": [
+    -68.836353,
+    44.793008,
+    -68.836353,
+    44.793008
+],
   "geometry": {"coordinates":[-68.836353,44.793008],"type":"Point"}
 }

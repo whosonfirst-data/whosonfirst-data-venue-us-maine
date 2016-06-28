@@ -2,13 +2,14 @@
   "id": 403988543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.385025,43.45775,-70.385025,43.45775",
     "geom:latitude":43.45775,
     "geom:longitude":-70.385025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Hills Beach Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403988543,
-    "wof:lastmodified":1449055084,
+    "wof:lastmodified":1466587087,
     "wof:name":"University of New England",
     "wof:parent_id":85825543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "university"
     ]
 },
-  "bbox": [-70.385025,43.45775,-70.385025,43.45775],
+  "bbox": [
+    -70.385025,
+    43.45775,
+    -70.385025,
+    43.45775
+],
   "geometry": {"coordinates":[-70.385025,43.45775],"type":"Point"}
 }

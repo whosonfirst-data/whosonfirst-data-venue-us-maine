@@ -2,13 +2,14 @@
   "id": 403738591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.781105,44.51604,-69.781105,44.51604",
     "geom:latitude":44.51604,
     "geom:longitude":-69.781105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Ridge Walk",
     "sg:city":"Belgrade",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403738591,
-    "wof:lastmodified":1449055583,
+    "wof:lastmodified":1466586044,
     "wof:name":"Dean E Parent",
     "wof:parent_id":85837327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.781105,44.51604,-69.781105,44.51604],
+  "bbox": [
+    -69.781105,
+    44.51604,
+    -69.781105,
+    44.51604
+],
   "geometry": {"coordinates":[-69.781105,44.51604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403856873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.692666,45.666706,-68.692666,45.666706",
     "geom:latitude":45.666706,
     "geom:longitude":-68.692666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 New Hampshire St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403856873,
-    "wof:lastmodified":1449055019,
+    "wof:lastmodified":1466586744,
     "wof:name":"Wild Flower Gazebos Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.692666,45.666706,-68.692666,45.666706],
+  "bbox": [
+    -68.692666,
+    45.666706,
+    -68.692666,
+    45.666706
+],
   "geometry": {"coordinates":[-68.692666,45.666706],"type":"Point"}
 }

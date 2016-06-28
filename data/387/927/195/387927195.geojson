@@ -2,13 +2,14 @@
   "id": 387927195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.186322,43.893253,-70.186322,43.893253",
     "geom:latitude":43.893253,
     "geom:longitude":-70.186322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"469 Elmwood Rd",
     "sg:city":"Pownal",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387927195,
-    "wof:lastmodified":1449059517,
+    "wof:lastmodified":1466587331,
     "wof:name":"Rousseau Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.186322,43.893253,-70.186322,43.893253],
+  "bbox": [
+    -70.186322,
+    43.893253,
+    -70.186322,
+    43.893253
+],
   "geometry": {"coordinates":[-70.186322,43.893253],"type":"Point"}
 }

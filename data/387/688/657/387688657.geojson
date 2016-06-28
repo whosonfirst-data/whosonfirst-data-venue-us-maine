@@ -2,13 +2,14 @@
   "id": 387688657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.451226,43.396535,-70.451226,43.396535",
     "geom:latitude":43.396535,
     "geom:longitude":-70.451226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Beachwood Ave",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387688657,
-    "wof:lastmodified":1449057523,
+    "wof:lastmodified":1466586583,
     "wof:name":"Kennebunkport Highway Dept",
     "wof:parent_id":85857739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-70.451226,43.396535,-70.451226,43.396535],
-  "geometry": {"coordinates":[-70.451226,43.396535],"type":"Point"}
+  "bbox": [
+    -70.451226,
+    43.396535,
+    -70.451226,
+    43.396535
+],
+  "geometry": {"coordinates":[-70.45122600000001,43.396535],"type":"Point"}
 }

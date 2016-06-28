@@ -2,13 +2,14 @@
   "id": 387933033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.325179,44.276156,-68.325179,44.276156",
     "geom:latitude":44.276156,
     "geom:longitude":-68.325179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"396 Main St",
     "sg:city":"Southwest Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387933033,
-    "wof:lastmodified":1449056883,
+    "wof:lastmodified":1466587265,
     "wof:name":"Carroll Harper & Assoc Inc",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.325179,44.276156,-68.325179,44.276156],
-  "geometry": {"coordinates":[-68.325179,44.276156],"type":"Point"}
+  "bbox": [
+    -68.325179,
+    44.276156,
+    -68.325179,
+    44.276156
+],
+  "geometry": {"coordinates":[-68.32517900000001,44.276156],"type":"Point"}
 }

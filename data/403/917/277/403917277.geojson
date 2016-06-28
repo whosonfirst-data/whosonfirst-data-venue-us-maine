@@ -2,13 +2,14 @@
   "id": 403917277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.275806,45.188699,-67.275806,45.188699",
     "geom:latitude":45.188699,
     "geom:longitude":-67.275806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"199 Main St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403917277,
-    "wof:lastmodified":1449055788,
+    "wof:lastmodified":1466586885,
     "wof:name":"First Congregational Thrift",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-67.275806,45.188699,-67.275806,45.188699],
+  "bbox": [
+    -67.275806,
+    45.188699,
+    -67.275806,
+    45.188699
+],
   "geometry": {"coordinates":[-67.275806,45.188699],"type":"Point"}
 }

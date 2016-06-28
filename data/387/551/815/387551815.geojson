@@ -2,13 +2,14 @@
   "id": 387551815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.777048,44.236838,-69.777048,44.236838",
     "geom:latitude":44.236838,
     "geom:longitude":-69.777048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Northern Ave",
     "sg:city":"Farmingdale",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387551815,
-    "wof:lastmodified":1449056861,
+    "wof:lastmodified":1466585690,
     "wof:name":"Farmingdale Kayak & Canoe Rntl",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "canoe"
     ]
 },
-  "bbox": [-69.777048,44.236838,-69.777048,44.236838],
-  "geometry": {"coordinates":[-69.777048,44.236838],"type":"Point"}
+  "bbox": [
+    -69.777048,
+    44.236838,
+    -69.777048,
+    44.236838
+],
+  "geometry": {"coordinates":[-69.77704799999999,44.236838],"type":"Point"}
 }

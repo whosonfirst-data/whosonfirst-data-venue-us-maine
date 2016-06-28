@@ -2,13 +2,14 @@
   "id": 404168631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.850125,44.795094,-68.850125,44.795094",
     "geom:latitude":44.795094,
     "geom:longitude":-68.850125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Liberty Dr",
     "sg:city":"Hermon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404168631,
-    "wof:lastmodified":1449039749,
+    "wof:lastmodified":1466586787,
     "wof:name":"Team Industrial Svc Inc",
     "wof:parent_id":85838259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "detecting"
     ]
 },
-  "bbox": [-68.850125,44.795094,-68.850125,44.795094],
-  "geometry": {"coordinates":[-68.850125,44.795094],"type":"Point"}
+  "bbox": [
+    -68.850125,
+    44.795094,
+    -68.850125,
+    44.795094
+],
+  "geometry": {"coordinates":[-68.85012500000001,44.795094],"type":"Point"}
 }

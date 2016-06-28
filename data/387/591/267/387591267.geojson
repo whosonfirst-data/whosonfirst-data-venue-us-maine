@@ -2,13 +2,14 @@
   "id": 387591267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.968041,45.233756,-68.968041,45.233756",
     "geom:latitude":45.233756,
     "geom:longitude":-68.968041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 2nd St",
     "sg:city":"Milo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387591267,
-    "wof:lastmodified":1449058147,
+    "wof:lastmodified":1466586190,
     "wof:name":"Derby Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-68.968041,45.233756,-68.968041,45.233756],
+  "bbox": [
+    -68.968041,
+    45.233756,
+    -68.968041,
+    45.233756
+],
   "geometry": {"coordinates":[-68.968041,45.233756],"type":"Point"}
 }

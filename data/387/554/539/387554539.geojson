@@ -2,13 +2,14 @@
   "id": 387554539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.382244,44.844831,-69.382244,44.844831",
     "geom:latitude":44.844831,
     "geom:longitude":-69.382244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 Main St",
     "sg:city":"Moose River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387554539,
-    "wof:lastmodified":1449056889,
+    "wof:lastmodified":1466585864,
     "wof:name":"Potting Shed",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.382244,44.844831,-69.382244,44.844831],
+  "bbox": [
+    -69.382244,
+    44.844831,
+    -69.382244,
+    44.844831
+],
   "geometry": {"coordinates":[-69.382244,44.844831],"type":"Point"}
 }

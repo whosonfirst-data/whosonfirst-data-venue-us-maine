@@ -2,13 +2,14 @@
   "id": 404062301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.210668,44.088062,-70.210668,44.088062",
     "geom:latitude":44.088062,
     "geom:longitude":-70.210668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404062301,
-    "wof:lastmodified":1449040254,
+    "wof:lastmodified":1466586484,
     "wof:name":"O'Brien Consolidated Ind Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-70.210668,44.088062,-70.210668,44.088062],
+  "bbox": [
+    -70.210668,
+    44.088062,
+    -70.210668,
+    44.088062
+],
   "geometry": {"coordinates":[-70.210668,44.088062],"type":"Point"}
 }

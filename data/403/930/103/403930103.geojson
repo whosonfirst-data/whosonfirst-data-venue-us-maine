@@ -2,13 +2,14 @@
   "id": 403930103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.150408,44.662434,-70.150408,44.662434",
     "geom:latitude":44.662434,
     "geom:longitude":-70.150408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Hill St",
     "sg:city":"North Anson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403930103,
-    "wof:lastmodified":1449055056,
+    "wof:lastmodified":1466587025,
     "wof:name":"North Country Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.150408,44.662434,-70.150408,44.662434],
+  "bbox": [
+    -70.150408,
+    44.662434,
+    -70.150408,
+    44.662434
+],
   "geometry": {"coordinates":[-70.150408,44.662434],"type":"Point"}
 }

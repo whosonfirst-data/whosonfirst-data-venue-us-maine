@@ -2,13 +2,14 @@
   "id": 387706755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.629556,43.142393,-70.629556,43.142393",
     "geom:latitude":43.142393,
     "geom:longitude":-70.629556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Glenn Ln",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387706755,
-    "wof:lastmodified":1449056381,
+    "wof:lastmodified":1466586865,
     "wof:name":"A Guest Of Honor",
     "wof:parent_id":85859383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-70.629556,43.142393,-70.629556,43.142393],
-  "geometry": {"coordinates":[-70.629556,43.142393],"type":"Point"}
+  "bbox": [
+    -70.629556,
+    43.142393,
+    -70.629556,
+    43.142393
+],
+  "geometry": {"coordinates":[-70.62955599999999,43.142393],"type":"Point"}
 }

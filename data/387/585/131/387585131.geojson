@@ -2,13 +2,14 @@
   "id": 387585131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.820151,43.911457,-69.820151,43.911457",
     "geom:latitude":43.911457,
     "geom:longitude":-69.820151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Centre St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387585131,
-    "wof:lastmodified":1449058641,
+    "wof:lastmodified":1466586086,
     "wof:name":"Kristina's Restaurant & Bakery",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-69.820151,43.911457,-69.820151,43.911457],
+  "bbox": [
+    -69.820151,
+    43.911457,
+    -69.820151,
+    43.911457
+],
   "geometry": {"coordinates":[-69.820151,43.911457],"type":"Point"}
 }

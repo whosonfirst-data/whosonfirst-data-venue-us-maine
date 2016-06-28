@@ -2,13 +2,14 @@
   "id": 404170325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.01216,46.867017,-68.01216,46.867017",
     "geom:latitude":46.867017,
     "geom:longitude":-68.01216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Main St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404170325,
-    "wof:lastmodified":1449039129,
+    "wof:lastmodified":1466586791,
     "wof:name":"Appliance Servicenter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.01216,46.867017,-68.01216,46.867017],
-  "geometry": {"coordinates":[-68.01216,46.867017],"type":"Point"}
+  "bbox": [
+    -68.01216,
+    46.867017,
+    -68.01216,
+    46.867017
+],
+  "geometry": {"coordinates":[-68.01215999999999,46.867017],"type":"Point"}
 }

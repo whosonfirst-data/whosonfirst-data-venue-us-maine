@@ -2,13 +2,14 @@
   "id": 387762109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.935562,47.157136,-67.935562,47.157136",
     "geom:latitude":47.157136,
     "geom:longitude":-67.935562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Main St",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387762109,
-    "wof:lastmodified":1449058793,
+    "wof:lastmodified":1466586872,
     "wof:name":"Jim & Jack's Florist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.935562,47.157136,-67.935562,47.157136],
+  "bbox": [
+    -67.935562,
+    47.157136,
+    -67.935562,
+    47.157136
+],
   "geometry": {"coordinates":[-67.935562,47.157136],"type":"Point"}
 }

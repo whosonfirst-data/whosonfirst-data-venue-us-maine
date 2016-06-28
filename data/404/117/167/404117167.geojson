@@ -2,13 +2,14 @@
   "id": 404117167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.15269,46.792255,-68.15269,46.792255",
     "geom:latitude":46.792255,
     "geom:longitude":-68.15269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Main St",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404117167,
-    "wof:lastmodified":1449039945,
+    "wof:lastmodified":1466586249,
     "wof:name":"Saucier's Iga Inc",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-68.15269,46.792255,-68.15269,46.792255],
-  "geometry": {"coordinates":[-68.15269,46.792255],"type":"Point"}
+  "bbox": [
+    -68.15269,
+    46.792255,
+    -68.15269,
+    46.792255
+],
+  "geometry": {"coordinates":[-68.15269000000001,46.792255],"type":"Point"}
 }

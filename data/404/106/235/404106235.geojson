@@ -2,13 +2,14 @@
   "id": 404106235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.903911,43.882346,-69.903911,43.882346",
     "geom:latitude":43.882346,
     "geom:longitude":-69.903911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Kimberley Cir",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404106235,
-    "wof:lastmodified":1449039073,
+    "wof:lastmodified":1466586086,
     "wof:name":"Relive Intl Independents",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.903911,43.882346,-69.903911,43.882346],
-  "geometry": {"coordinates":[-69.903911,43.882346],"type":"Point"}
+  "bbox": [
+    -69.903911,
+    43.882346,
+    -69.903911,
+    43.882346
+],
+  "geometry": {"coordinates":[-69.90391099999999,43.882346],"type":"Point"}
 }

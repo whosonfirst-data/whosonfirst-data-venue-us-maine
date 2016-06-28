@@ -2,13 +2,14 @@
   "id": 404087519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.175054,44.072502,-70.175054,44.072502",
     "geom:latitude":44.072502,
     "geom:longitude":-70.175054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404087519,
-    "wof:lastmodified":1449039569,
+    "wof:lastmodified":1466585831,
     "wof:name":"Motor Power Inc",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motor"
     ]
 },
-  "bbox": [-70.175054,44.072502,-70.175054,44.072502],
+  "bbox": [
+    -70.175054,
+    44.072502,
+    -70.175054,
+    44.072502
+],
   "geometry": {"coordinates":[-70.175054,44.072502],"type":"Point"}
 }

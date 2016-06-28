@@ -2,13 +2,14 @@
   "id": 387920261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.926513,44.457834,-68.926513,44.457834",
     "geom:latitude":44.457834,
     "geom:longitude":-68.926513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Water St",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387920261,
-    "wof:lastmodified":1449059044,
+    "wof:lastmodified":1466587257,
     "wof:name":"Searsport Games & Internet",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-68.926513,44.457834,-68.926513,44.457834],
+  "bbox": [
+    -68.926513,
+    44.457834,
+    -68.926513,
+    44.457834
+],
   "geometry": {"coordinates":[-68.926513,44.457834],"type":"Point"}
 }

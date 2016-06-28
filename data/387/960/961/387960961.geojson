@@ -2,13 +2,14 @@
   "id": 387960961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.122163,44.412223,-70.122163,44.412223",
     "geom:latitude":44.412223,
     "geom:longitude":-70.122163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Campground Rd",
     "sg:city":"Livermore Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387960961,
-    "wof:lastmodified":1449058846,
+    "wof:lastmodified":1466587301,
     "wof:name":"Allie Bonds Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-70.122163,44.412223,-70.122163,44.412223],
+  "bbox": [
+    -70.122163,
+    44.412223,
+    -70.122163,
+    44.412223
+],
   "geometry": {"coordinates":[-70.122163,44.412223],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403959701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.255399,43.635661,-70.255399,43.635661",
     "geom:latitude":43.635661,
     "geom:longitude":-70.255399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Market St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403959701,
-    "wof:lastmodified":1449055834,
+    "wof:lastmodified":1466587084,
     "wof:name":"Frest Market Pasta Co",
     "wof:parent_id":85828657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.255399,43.635661,-70.255399,43.635661],
+  "bbox": [
+    -70.255399,
+    43.635661,
+    -70.255399,
+    43.635661
+],
   "geometry": {"coordinates":[-70.255399,43.635661],"type":"Point"}
 }

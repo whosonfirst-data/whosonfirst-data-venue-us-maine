@@ -2,13 +2,14 @@
   "id": 403706189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.257834,44.076566,-70.257834,44.076566",
     "geom:latitude":44.076566,
     "geom:longitude":-70.257834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Rodman Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403706189,
-    "wof:lastmodified":1449054730,
+    "wof:lastmodified":1466585673,
     "wof:name":"Metal Specialties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-70.257834,44.076566,-70.257834,44.076566],
+  "bbox": [
+    -70.257834,
+    44.076566,
+    -70.257834,
+    44.076566
+],
   "geometry": {"coordinates":[-70.257834,44.076566],"type":"Point"}
 }

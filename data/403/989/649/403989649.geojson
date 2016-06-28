@@ -2,13 +2,14 @@
   "id": 403989649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.292189,43.704398,-70.292189,43.704398",
     "geom:latitude":43.704398,
     "geom:longitude":-70.292189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1571 Washington Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403989649,
-    "wof:lastmodified":1449055587,
+    "wof:lastmodified":1466587166,
     "wof:name":"Emmanuel Assembly Of God",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.292189,43.704398,-70.292189,43.704398],
-  "geometry": {"coordinates":[-70.292189,43.704398],"type":"Point"}
+  "bbox": [
+    -70.292189,
+    43.704398,
+    -70.292189,
+    43.704398
+],
+  "geometry": {"coordinates":[-70.29218899999999,43.704398],"type":"Point"}
 }

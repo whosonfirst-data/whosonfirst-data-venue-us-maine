@@ -2,13 +2,14 @@
   "id": 403938133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.570514,43.73311,-70.570514,43.73311",
     "geom:latitude":43.73311,
     "geom:longitude":-70.570514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Ossipee Trl W",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403938133,
-    "wof:lastmodified":1449055614,
+    "wof:lastmodified":1466587038,
     "wof:name":"Clements Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.570514,43.73311,-70.570514,43.73311],
+  "bbox": [
+    -70.570514,
+    43.73311,
+    -70.570514,
+    43.73311
+],
   "geometry": {"coordinates":[-70.570514,43.73311],"type":"Point"}
 }

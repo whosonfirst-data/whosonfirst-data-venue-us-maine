@@ -2,13 +2,14 @@
   "id": 403885907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.822299,46.768436,-67.822299,46.768436",
     "geom:latitude":46.768436,
     "geom:longitude":-67.822299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 School St",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403885907,
-    "wof:lastmodified":1449055350,
+    "wof:lastmodified":1466586764,
     "wof:name":"Fort Fairfield Housing Auth",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-67.822299,46.768436,-67.822299,46.768436],
+  "bbox": [
+    -67.822299,
+    46.768436,
+    -67.822299,
+    46.768436
+],
   "geometry": {"coordinates":[-67.822299,46.768436],"type":"Point"}
 }

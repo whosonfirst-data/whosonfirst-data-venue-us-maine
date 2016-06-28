@@ -2,13 +2,14 @@
   "id": 403928633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.267031,45.182774,-67.267031,45.182774",
     "geom:latitude":45.182774,
     "geom:longitude":-67.267031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Franklin St",
     "sg:city":"Hancock",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403928633,
-    "wof:lastmodified":1449055781,
+    "wof:lastmodified":1466587022,
     "wof:name":"CCS & Millers LLC",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "milling"
     ]
 },
-  "bbox": [-67.267031,45.182774,-67.267031,45.182774],
+  "bbox": [
+    -67.267031,
+    45.182774,
+    -67.267031,
+    45.182774
+],
   "geometry": {"coordinates":[-67.267031,45.182774],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403960039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.84786,46.147156,-67.84786,46.147156",
     "geom:latitude":46.147156,
     "geom:longitude":-67.84786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 B Rd",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403960039,
-    "wof:lastmodified":1449055566,
+    "wof:lastmodified":1466586991,
     "wof:name":"Chiropractic Corp Of N Maine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.84786,46.147156,-67.84786,46.147156],
+  "bbox": [
+    -67.84786,
+    46.147156,
+    -67.84786,
+    46.147156
+],
   "geometry": {"coordinates":[-67.84786,46.147156],"type":"Point"}
 }

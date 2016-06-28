@@ -2,13 +2,14 @@
   "id": 403914791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.224658,44.072148,-70.224658,44.072148",
     "geom:latitude":44.072148,
     "geom:longitude":-70.224658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"272 S Main St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403914791,
-    "wof:lastmodified":1449055135,
+    "wof:lastmodified":1466586962,
     "wof:name":"Larry's Lunch Convienience",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-70.224658,44.072148,-70.224658,44.072148],
-  "geometry": {"coordinates":[-70.224658,44.072148],"type":"Point"}
+  "bbox": [
+    -70.224658,
+    44.072148,
+    -70.224658,
+    44.072148
+],
+  "geometry": {"coordinates":[-70.22465800000001,44.072148],"type":"Point"}
 }

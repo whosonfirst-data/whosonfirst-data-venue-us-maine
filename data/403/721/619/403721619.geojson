@@ -2,13 +2,14 @@
   "id": 403721619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.708993,45.65589,-68.708993,45.65589",
     "geom:latitude":45.65589,
     "geom:longitude":-68.708993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Penobscot Ave",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403721619,
-    "wof:lastmodified":1449055960,
+    "wof:lastmodified":1466585876,
     "wof:name":"Magic City Morning Star & Hard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-68.708993,45.65589,-68.708993,45.65589],
-  "geometry": {"coordinates":[-68.708993,45.65589],"type":"Point"}
+  "bbox": [
+    -68.708993,
+    45.65589,
+    -68.708993,
+    45.65589
+],
+  "geometry": {"coordinates":[-68.70899300000001,45.65589],"type":"Point"}
 }

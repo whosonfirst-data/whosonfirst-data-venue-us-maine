@@ -2,13 +2,14 @@
   "id": 404218597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.64311,44.575071,-69.64311,44.575071",
     "geom:latitude":44.575071,
     "geom:longitude":-69.64311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Main St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404218597,
-    "wof:lastmodified":1449039897,
+    "wof:lastmodified":1466586982,
     "wof:name":"UHL Melanson Investor Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-69.64311,44.575071,-69.64311,44.575071],
-  "geometry": {"coordinates":[-69.64311,44.575071],"type":"Point"}
+  "bbox": [
+    -69.64311,
+    44.575071,
+    -69.64311,
+    44.575071
+],
+  "geometry": {"coordinates":[-69.64310999999999,44.575071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387616975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.769041,44.808351,-68.769041,44.808351",
     "geom:latitude":44.808351,
     "geom:longitude":-68.769041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Broadway",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387616975,
-    "wof:lastmodified":1449058902,
+    "wof:lastmodified":1466585682,
     "wof:name":"Prudential Ne Properties",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.769041,44.808351,-68.769041,44.808351],
+  "bbox": [
+    -68.769041,
+    44.808351,
+    -68.769041,
+    44.808351
+],
   "geometry": {"coordinates":[-68.769041,44.808351],"type":"Point"}
 }

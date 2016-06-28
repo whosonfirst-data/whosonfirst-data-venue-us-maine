@@ -2,13 +2,14 @@
   "id": 387872251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.410153,43.83995,-70.410153,43.83995",
     "geom:latitude":43.83995,
     "geom:longitude":-70.410153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 State Rte 115",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387872251,
-    "wof:lastmodified":1449056444,
+    "wof:lastmodified":1466587200,
     "wof:name":"Marcus Woods Apartments",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-70.410153,43.83995,-70.410153,43.83995],
-  "geometry": {"coordinates":[-70.410153,43.83995],"type":"Point"}
+  "bbox": [
+    -70.410153,
+    43.83995,
+    -70.410153,
+    43.83995
+],
+  "geometry": {"coordinates":[-70.41015299999999,43.83995],"type":"Point"}
 }

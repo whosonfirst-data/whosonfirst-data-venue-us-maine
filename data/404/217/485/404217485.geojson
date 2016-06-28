@@ -2,13 +2,14 @@
   "id": 404217485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.251961,44.078686,-70.251961,44.078686",
     "geom:latitude":44.078686,
     "geom:longitude":-70.251961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Moore Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404217485,
-    "wof:lastmodified":1449040267,
+    "wof:lastmodified":1466586983,
     "wof:name":"Bellefleur Gas Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.251961,44.078686,-70.251961,44.078686],
-  "geometry": {"coordinates":[-70.251961,44.078686],"type":"Point"}
+  "bbox": [
+    -70.251961,
+    44.078686,
+    -70.251961,
+    44.078686
+],
+  "geometry": {"coordinates":[-70.25196099999999,44.078686],"type":"Point"}
 }

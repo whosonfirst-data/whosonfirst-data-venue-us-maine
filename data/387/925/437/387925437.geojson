@@ -2,13 +2,14 @@
   "id": 387925437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.541139,44.806493,-68.541139,44.806493",
     "geom:latitude":44.806493,
     "geom:longitude":-68.541139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Getchell Rd",
     "sg:city":"Clifton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387925437,
-    "wof:lastmodified":1449056144,
+    "wof:lastmodified":1466587191,
     "wof:name":"Ron's Moving & Storage",
     "wof:parent_id":85804681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-68.541139,44.806493,-68.541139,44.806493],
+  "bbox": [
+    -68.541139,
+    44.806493,
+    -68.541139,
+    44.806493
+],
   "geometry": {"coordinates":[-68.541139,44.806493],"type":"Point"}
 }

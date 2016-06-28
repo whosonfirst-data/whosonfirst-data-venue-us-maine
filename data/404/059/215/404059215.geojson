@@ -2,13 +2,14 @@
   "id": 404059215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242111,43.612935,-70.242111,43.612935",
     "geom:latitude":43.612935,
     "geom:longitude":-70.242111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Windmill Ln",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404059215,
-    "wof:lastmodified":1449039355,
+    "wof:lastmodified":1466586438,
     "wof:name":"Joyce Beecher Realty",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.242111,43.612935,-70.242111,43.612935],
-  "geometry": {"coordinates":[-70.242111,43.612935],"type":"Point"}
+  "bbox": [
+    -70.242111,
+    43.612935,
+    -70.242111,
+    43.612935
+],
+  "geometry": {"coordinates":[-70.24211099999999,43.612935],"type":"Point"}
 }

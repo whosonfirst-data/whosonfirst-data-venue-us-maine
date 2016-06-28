@@ -2,13 +2,14 @@
   "id": 387665039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.748226,43.14206,-70.748226,43.14206",
     "geom:latitude":43.14206,
     "geom:longitude":-70.748226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Goodwin Rd",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387665039,
-    "wof:lastmodified":1449057265,
+    "wof:lastmodified":1466586202,
     "wof:name":"Kingfish Inc",
     "wof:parent_id":85816255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fisherman"
     ]
 },
-  "bbox": [-70.748226,43.14206,-70.748226,43.14206],
+  "bbox": [
+    -70.748226,
+    43.14206,
+    -70.748226,
+    43.14206
+],
   "geometry": {"coordinates":[-70.748226,43.14206],"type":"Point"}
 }

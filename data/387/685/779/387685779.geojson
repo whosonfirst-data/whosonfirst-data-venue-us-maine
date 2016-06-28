@@ -2,13 +2,14 @@
   "id": 387685779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.968349,43.916444,-69.968349,43.916444",
     "geom:latitude":43.916444,
     "geom:longitude":-69.968349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Lincoln St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387685779,
-    "wof:lastmodified":1449059825,
+    "wof:lastmodified":1466586534,
     "wof:name":"Greater Brunswick Physcl Thrpy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-69.968349,43.916444,-69.968349,43.916444],
+  "bbox": [
+    -69.968349,
+    43.916444,
+    -69.968349,
+    43.916444
+],
   "geometry": {"coordinates":[-69.968349,43.916444],"type":"Point"}
 }

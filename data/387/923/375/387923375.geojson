@@ -2,13 +2,14 @@
   "id": 387923375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.967533,43.880036,-69.967533,43.880036",
     "geom:latitude":43.880036,
     "geom:longitude":-69.967533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Mere Point Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387923375,
-    "wof:lastmodified":1449059786,
+    "wof:lastmodified":1466587329,
     "wof:name":"Excel Copier Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-69.967533,43.880036,-69.967533,43.880036],
+  "bbox": [
+    -69.967533,
+    43.880036,
+    -69.967533,
+    43.880036
+],
   "geometry": {"coordinates":[-69.967533,43.880036],"type":"Point"}
 }

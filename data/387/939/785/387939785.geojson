@@ -2,13 +2,14 @@
   "id": 387939785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.732569,43.307095,-70.732569,43.307095",
     "geom:latitude":43.307095,
     "geom:longitude":-70.732569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Burma Rd",
     "sg:city":"North Berwick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387939785,
-    "wof:lastmodified":1449057215,
+    "wof:lastmodified":1466587283,
     "wof:name":"Dave's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alignment"
     ]
 },
-  "bbox": [-70.732569,43.307095,-70.732569,43.307095],
+  "bbox": [
+    -70.732569,
+    43.307095,
+    -70.732569,
+    43.307095
+],
   "geometry": {"coordinates":[-70.732569,43.307095],"type":"Point"}
 }

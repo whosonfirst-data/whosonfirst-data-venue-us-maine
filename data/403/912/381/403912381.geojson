@@ -2,13 +2,14 @@
   "id": 403912381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.198227,43.657029,-70.198227,43.657029",
     "geom:latitude":43.657029,
     "geom:longitude":-70.198227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Island Ave",
     "sg:city":"Peaks Island",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403912381,
-    "wof:lastmodified":1449055288,
+    "wof:lastmodified":1466586950,
     "wof:name":"Cockeyed Gull",
     "wof:parent_id":85827601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.198227,43.657029,-70.198227,43.657029],
+  "bbox": [
+    -70.198227,
+    43.657029,
+    -70.198227,
+    43.657029
+],
   "geometry": {"coordinates":[-70.198227,43.657029],"type":"Point"}
 }

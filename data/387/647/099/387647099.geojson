@@ -2,13 +2,14 @@
   "id": 387647099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.789639,44.409082,-70.789639,44.409082",
     "geom:latitude":44.409082,
     "geom:longitude":-70.789639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Mechanic St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387647099,
-    "wof:lastmodified":1449057905,
+    "wof:lastmodified":1466585959,
     "wof:name":"Sallys Beauty Parlor",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.789639,44.409082,-70.789639,44.409082],
-  "geometry": {"coordinates":[-70.789639,44.409082],"type":"Point"}
+  "bbox": [
+    -70.789639,
+    44.409082,
+    -70.789639,
+    44.409082
+],
+  "geometry": {"coordinates":[-70.78963899999999,44.409082],"type":"Point"}
 }

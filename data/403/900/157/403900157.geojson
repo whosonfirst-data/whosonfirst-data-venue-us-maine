@@ -2,13 +2,14 @@
   "id": 403900157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.931206,43.9805,-69.931206,43.9805",
     "geom:latitude":43.9805,
     "geom:longitude":-69.931206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Trufant Ln",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403900157,
-    "wof:lastmodified":1449055209,
+    "wof:lastmodified":1466586923,
     "wof:name":"Cloutier's Landscape",
     "wof:parent_id":85809811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.931206,43.9805,-69.931206,43.9805],
+  "bbox": [
+    -69.931206,
+    43.9805,
+    -69.931206,
+    43.9805
+],
   "geometry": {"coordinates":[-69.931206,43.9805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403915745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.815497,44.455782,-70.815497,44.455782",
     "geom:latitude":44.455782,
     "geom:longitude":-70.815497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Sunday River Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403915745,
-    "wof:lastmodified":1449055941,
+    "wof:lastmodified":1466587055,
     "wof:name":"Mountainside Country Crafts",
     "wof:parent_id":85837355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.815497,44.455782,-70.815497,44.455782],
-  "geometry": {"coordinates":[-70.815497,44.455782],"type":"Point"}
+  "bbox": [
+    -70.815497,
+    44.455782,
+    -70.815497,
+    44.455782
+],
+  "geometry": {"coordinates":[-70.81549699999999,44.455782],"type":"Point"}
 }

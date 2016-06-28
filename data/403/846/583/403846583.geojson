@@ -2,13 +2,14 @@
   "id": 403846583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.257779,43.654434,-70.257779,43.654434",
     "geom:latitude":43.654434,
     "geom:longitude":-70.257779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Pleasant St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403846583,
-    "wof:lastmodified":1449055675,
+    "wof:lastmodified":1466586823,
     "wof:name":"Kitchenware News",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "publication"
     ]
 },
-  "bbox": [-70.257779,43.654434,-70.257779,43.654434],
+  "bbox": [
+    -70.257779,
+    43.654434,
+    -70.257779,
+    43.654434
+],
   "geometry": {"coordinates":[-70.257779,43.654434],"type":"Point"}
 }

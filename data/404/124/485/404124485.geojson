@@ -2,13 +2,14 @@
   "id": 404124485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.952526,43.823059,-69.952526,43.823059",
     "geom:latitude":43.823059,
     "geom:longitude":-69.952526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Hildreth Rd",
     "sg:city":"South Harpswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404124485,
-    "wof:lastmodified":1449040248,
+    "wof:lastmodified":1466586363,
     "wof:name":"Seams By The Sea",
     "wof:parent_id":85837691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.952526,43.823059,-69.952526,43.823059],
-  "geometry": {"coordinates":[-69.952526,43.823059],"type":"Point"}
+  "bbox": [
+    -69.952526,
+    43.823059,
+    -69.952526,
+    43.823059
+],
+  "geometry": {"coordinates":[-69.95252600000001,43.823059],"type":"Point"}
 }

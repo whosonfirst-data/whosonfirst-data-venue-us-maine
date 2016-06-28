@@ -2,13 +2,14 @@
   "id": 403789573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.440451,43.369459,-70.440451,43.369459",
     "geom:latitude":43.369459,
     "geom:longitude":-70.440451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Ward Rd",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403789573,
-    "wof:lastmodified":1449055235,
+    "wof:lastmodified":1466585802,
     "wof:name":"Desk Bond Group",
     "wof:parent_id":85857739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.440451,43.369459,-70.440451,43.369459],
+  "bbox": [
+    -70.440451,
+    43.369459,
+    -70.440451,
+    43.369459
+],
   "geometry": {"coordinates":[-70.440451,43.369459],"type":"Point"}
 }

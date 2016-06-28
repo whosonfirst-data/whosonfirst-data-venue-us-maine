@@ -2,13 +2,14 @@
   "id": 403981439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.964746,43.91417,-69.964746,43.91417",
     "geom:latitude":43.91417,
     "geom:longitude":-69.964746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Maine St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403981439,
-    "wof:lastmodified":1449055992,
+    "wof:lastmodified":1466587066,
     "wof:name":"Global Village Learning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-69.964746,43.91417,-69.964746,43.91417],
-  "geometry": {"coordinates":[-69.964746,43.91417],"type":"Point"}
+  "bbox": [
+    -69.964746,
+    43.91417,
+    -69.964746,
+    43.91417
+],
+  "geometry": {"coordinates":[-69.96474600000001,43.91417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404092243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.104288,43.858747,-70.104288,43.858747",
     "geom:latitude":43.858747,
     "geom:longitude":-70.104288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Justins Way",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404092243,
-    "wof:lastmodified":1449040070,
+    "wof:lastmodified":1466586650,
     "wof:name":"A Christian Ministry-Natl Pk",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.104288,43.858747,-70.104288,43.858747],
+  "bbox": [
+    -70.104288,
+    43.858747,
+    -70.104288,
+    43.858747
+],
   "geometry": {"coordinates":[-70.104288,43.858747],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387624179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.450428,43.490641,-70.450428,43.490641",
     "geom:latitude":43.490641,
     "geom:longitude":-70.450428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Sullivan St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387624179,
-    "wof:lastmodified":1449058723,
+    "wof:lastmodified":1466585752,
     "wof:name":"Office Of Faith Formation",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-70.450428,43.490641,-70.450428,43.490641],
+  "bbox": [
+    -70.450428,
+    43.490641,
+    -70.450428,
+    43.490641
+],
   "geometry": {"coordinates":[-70.450428,43.490641],"type":"Point"}
 }

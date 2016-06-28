@@ -2,13 +2,14 @@
   "id": 403706041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.644441,44.930028,-68.644441,44.930028",
     "geom:latitude":44.930028,
     "geom:longitude":-68.644441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 Main St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403706041,
-    "wof:lastmodified":1449054729,
+    "wof:lastmodified":1466586612,
     "wof:name":"Penobscot Federal Credit Union",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.644441,44.930028,-68.644441,44.930028],
+  "bbox": [
+    -68.644441,
+    44.930028,
+    -68.644441,
+    44.930028
+],
   "geometry": {"coordinates":[-68.644441,44.930028],"type":"Point"}
 }

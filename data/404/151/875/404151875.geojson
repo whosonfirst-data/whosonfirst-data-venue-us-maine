@@ -2,13 +2,14 @@
   "id": 404151875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.041482,46.827145,-68.041482,46.827145",
     "geom:latitude":46.827145,
     "geom:longitude":-68.041482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Old Washburn Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404151875,
-    "wof:lastmodified":1449039095,
+    "wof:lastmodified":1466586731,
     "wof:name":"Home Farm Kennels",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-68.041482,46.827145,-68.041482,46.827145],
+  "bbox": [
+    -68.041482,
+    46.827145,
+    -68.041482,
+    46.827145
+],
   "geometry": {"coordinates":[-68.041482,46.827145],"type":"Point"}
 }

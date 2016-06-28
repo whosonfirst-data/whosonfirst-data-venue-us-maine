@@ -2,13 +2,14 @@
   "id": 387774611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.41948,44.538416,-68.41948,44.538416",
     "geom:latitude":44.538416,
     "geom:longitude":-68.41948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Deane St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387774611,
-    "wof:lastmodified":1449057584,
+    "wof:lastmodified":1466586984,
     "wof:name":"Gillen-Worden Jody Lcsw",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-68.41948,44.538416,-68.41948,44.538416],
-  "geometry": {"coordinates":[-68.41948,44.538416],"type":"Point"}
+  "bbox": [
+    -68.41948,
+    44.538416,
+    -68.41948,
+    44.538416
+],
+  "geometry": {"coordinates":[-68.41947999999999,44.538416],"type":"Point"}
 }

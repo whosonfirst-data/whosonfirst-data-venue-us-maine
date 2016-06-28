@@ -2,13 +2,14 @@
   "id": 387598523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.271901,43.649533,-70.271901,43.649533",
     "geom:latitude":43.649533,
     "geom:longitude":-70.271901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Pine St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387598523,
-    "wof:lastmodified":1449056315,
+    "wof:lastmodified":1466586325,
     "wof:name":"Leza Gough Painting",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.271901,43.649533,-70.271901,43.649533],
+  "bbox": [
+    -70.271901,
+    43.649533,
+    -70.271901,
+    43.649533
+],
   "geometry": {"coordinates":[-70.271901,43.649533],"type":"Point"}
 }

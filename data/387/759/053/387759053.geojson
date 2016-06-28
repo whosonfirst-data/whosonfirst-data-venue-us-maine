@@ -2,13 +2,14 @@
   "id": 387759053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.316462,44.441891,-68.316462,44.441891",
     "geom:latitude":44.441891,
     "geom:longitude":-68.316462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Bay View Dr",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387759053,
-    "wof:lastmodified":1449059973,
+    "wof:lastmodified":1466586853,
     "wof:name":"Carol Woolman Lcsw",
     "wof:parent_id":85817297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-68.316462,44.441891,-68.316462,44.441891],
+  "bbox": [
+    -68.316462,
+    44.441891,
+    -68.316462,
+    44.441891
+],
   "geometry": {"coordinates":[-68.316462,44.441891],"type":"Point"}
 }

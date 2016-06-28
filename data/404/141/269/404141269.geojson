@@ -2,13 +2,14 @@
   "id": 404141269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.257937,44.081746,-70.257937,44.081746",
     "geom:latitude":44.081746,
     "geom:longitude":-70.257937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"744 Minot Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404141269,
-    "wof:lastmodified":1449039443,
+    "wof:lastmodified":1466586616,
     "wof:name":"Maine Tire & Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-70.257937,44.081746,-70.257937,44.081746],
+  "bbox": [
+    -70.257937,
+    44.081746,
+    -70.257937,
+    44.081746
+],
   "geometry": {"coordinates":[-70.257937,44.081746],"type":"Point"}
 }

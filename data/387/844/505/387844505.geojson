@@ -2,13 +2,14 @@
   "id": 387844505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.837394,46.125754,-67.837394,46.125754",
     "geom:latitude":46.125754,
     "geom:longitude":-67.837394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Main St",
     "sg:city":"Bridgewater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387844505,
-    "wof:lastmodified":1449057731,
+    "wof:lastmodified":1466587221,
     "wof:name":"Bradbury Barrell Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "drum"
     ]
 },
-  "bbox": [-67.837394,46.125754,-67.837394,46.125754],
+  "bbox": [
+    -67.837394,
+    46.125754,
+    -67.837394,
+    46.125754
+],
   "geometry": {"coordinates":[-67.837394,46.125754],"type":"Point"}
 }

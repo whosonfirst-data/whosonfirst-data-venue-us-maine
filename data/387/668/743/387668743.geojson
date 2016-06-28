@@ -2,13 +2,14 @@
   "id": 387668743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.190446,44.474323,-70.190446,44.474323",
     "geom:latitude":44.474323,
     "geom:longitude":-70.190446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Main St",
     "sg:city":"Livermore Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387668743,
-    "wof:lastmodified":1449058764,
+    "wof:lastmodified":1466586262,
     "wof:name":"Treat Memorial Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.190446,44.474323,-70.190446,44.474323],
-  "geometry": {"coordinates":[-70.190446,44.474323],"type":"Point"}
+  "bbox": [
+    -70.190446,
+    44.474323,
+    -70.190446,
+    44.474323
+],
+  "geometry": {"coordinates":[-70.19044599999999,44.474323],"type":"Point"}
 }

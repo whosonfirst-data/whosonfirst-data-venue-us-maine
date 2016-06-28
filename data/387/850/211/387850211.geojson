@@ -2,13 +2,14 @@
   "id": 387850211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.182208,43.798814,-70.182208,43.798814",
     "geom:latitude":43.798814,
     "geom:longitude":-70.182208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Main St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387850211,
-    "wof:lastmodified":1449058306,
+    "wof:lastmodified":1466587065,
     "wof:name":"First Universalist Church",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.182208,43.798814,-70.182208,43.798814],
+  "bbox": [
+    -70.182208,
+    43.798814,
+    -70.182208,
+    43.798814
+],
   "geometry": {"coordinates":[-70.182208,43.798814],"type":"Point"}
 }

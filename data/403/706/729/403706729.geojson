@@ -2,13 +2,14 @@
   "id": 403706729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.129263,43.811985,-70.129263,43.811985",
     "geom:latitude":43.811985,
     "geom:longitude":-70.129263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Redding Ln",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403706729,
-    "wof:lastmodified":1449054730,
+    "wof:lastmodified":1466585681,
     "wof:name":"Braley & Springer PR",
     "wof:parent_id":85813291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "relations"
     ]
 },
-  "bbox": [-70.129263,43.811985,-70.129263,43.811985],
-  "geometry": {"coordinates":[-70.129263,43.811985],"type":"Point"}
+  "bbox": [
+    -70.129263,
+    43.811985,
+    -70.129263,
+    43.811985
+],
+  "geometry": {"coordinates":[-70.12926299999999,43.811985],"type":"Point"}
 }

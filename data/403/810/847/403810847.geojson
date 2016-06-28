@@ -2,13 +2,14 @@
   "id": 403810847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.697498,43.455472,-70.697498,43.455472",
     "geom:latitude":43.455472,
     "geom:longitude":-70.697498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Mouse Ln",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403810847,
-    "wof:lastmodified":1449055033,
+    "wof:lastmodified":1466586117,
     "wof:name":"E W Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.697498,43.455472,-70.697498,43.455472],
+  "bbox": [
+    -70.697498,
+    43.455472,
+    -70.697498,
+    43.455472
+],
   "geometry": {"coordinates":[-70.697498,43.455472],"type":"Point"}
 }

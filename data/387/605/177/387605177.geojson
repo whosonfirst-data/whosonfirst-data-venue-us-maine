@@ -2,13 +2,14 @@
   "id": 387605177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.304653,43.713681,-70.304653,43.713681",
     "geom:latitude":43.713681,
     "geom:longitude":-70.304653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 Riverside Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387605177,
-    "wof:lastmodified":1449057957,
+    "wof:lastmodified":1466586413,
     "wof:name":"Portland Stone Works",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-70.304653,43.713681,-70.304653,43.713681],
+  "bbox": [
+    -70.304653,
+    43.713681,
+    -70.304653,
+    43.713681
+],
   "geometry": {"coordinates":[-70.304653,43.713681],"type":"Point"}
 }

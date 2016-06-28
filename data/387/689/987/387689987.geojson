@@ -2,13 +2,14 @@
   "id": 387689987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.757251,44.415097,-69.757251,44.415097",
     "geom:latitude":44.415097,
     "geom:longitude":-69.757251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2631 Middle Rd",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387689987,
-    "wof:lastmodified":1449059284,
+    "wof:lastmodified":1466586603,
     "wof:name":"Duke's",
     "wof:parent_id":85837243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.757251,44.415097,-69.757251,44.415097],
+  "bbox": [
+    -69.757251,
+    44.415097,
+    -69.757251,
+    44.415097
+],
   "geometry": {"coordinates":[-69.757251,44.415097],"type":"Point"}
 }

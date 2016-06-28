@@ -2,13 +2,14 @@
   "id": 404135881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.296347,44.065183,-70.296347,44.065183",
     "geom:latitude":44.065183,
     "geom:longitude":-70.296347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 Hardscrabble Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404135881,
-    "wof:lastmodified":1449039493,
+    "wof:lastmodified":1466586539,
     "wof:name":"Maine Source",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "prefab"
     ]
 },
-  "bbox": [-70.296347,44.065183,-70.296347,44.065183],
+  "bbox": [
+    -70.296347,
+    44.065183,
+    -70.296347,
+    44.065183
+],
   "geometry": {"coordinates":[-70.296347,44.065183],"type":"Point"}
 }

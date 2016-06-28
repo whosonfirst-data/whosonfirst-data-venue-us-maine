@@ -2,13 +2,14 @@
   "id": 404148165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.682479,44.884619,-68.682479,44.884619",
     "geom:latitude":44.884619,
     "geom:longitude":-68.682479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Frost Ln",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404148165,
-    "wof:lastmodified":1449040128,
+    "wof:lastmodified":1466586719,
     "wof:name":"Warren Brooks Financial Svc",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-68.682479,44.884619,-68.682479,44.884619],
+  "bbox": [
+    -68.682479,
+    44.884619,
+    -68.682479,
+    44.884619
+],
   "geometry": {"coordinates":[-68.682479,44.884619],"type":"Point"}
 }

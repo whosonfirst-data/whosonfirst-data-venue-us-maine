@@ -2,13 +2,14 @@
   "id": 404017301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.054979,44.000785,-70.054979,44.000785",
     "geom:latitude":44.000785,
     "geom:longitude":-70.054979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Earle St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404017301,
-    "wof:lastmodified":1449039770,
+    "wof:lastmodified":1466586647,
     "wof:name":"Rhetoric Technologies",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.054979,44.000785,-70.054979,44.000785],
+  "bbox": [
+    -70.054979,
+    44.000785,
+    -70.054979,
+    44.000785
+],
   "geometry": {"coordinates":[-70.054979,44.000785],"type":"Point"}
 }

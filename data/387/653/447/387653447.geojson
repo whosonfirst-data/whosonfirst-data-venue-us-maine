@@ -2,13 +2,14 @@
   "id": 387653447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.326306,43.668494,-70.326306,43.668494",
     "geom:latitude":43.668494,
     "geom:longitude":-70.326306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Pine Tree Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387653447,
-    "wof:lastmodified":1449056387,
+    "wof:lastmodified":1466586024,
     "wof:name":"Hale Trailer Brake & Wheel",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trailer"
     ]
 },
-  "bbox": [-70.326306,43.668494,-70.326306,43.668494],
+  "bbox": [
+    -70.326306,
+    43.668494,
+    -70.326306,
+    43.668494
+],
   "geometry": {"coordinates":[-70.326306,43.668494],"type":"Point"}
 }

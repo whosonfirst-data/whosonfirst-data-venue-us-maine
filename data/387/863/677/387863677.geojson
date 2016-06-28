@@ -2,13 +2,14 @@
   "id": 387863677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.161116,43.784729,-70.161116,43.784729",
     "geom:latitude":43.784729,
     "geom:longitude":-70.161116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Royal Meadows Rd",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387863677,
-    "wof:lastmodified":1449058739,
+    "wof:lastmodified":1466587260,
     "wof:name":"Obaat Development Inc",
     "wof:parent_id":85812603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-70.161116,43.784729,-70.161116,43.784729],
-  "geometry": {"coordinates":[-70.161116,43.784729],"type":"Point"}
+  "bbox": [
+    -70.161116,
+    43.784729,
+    -70.161116,
+    43.784729
+],
+  "geometry": {"coordinates":[-70.16111600000001,43.784729],"type":"Point"}
 }

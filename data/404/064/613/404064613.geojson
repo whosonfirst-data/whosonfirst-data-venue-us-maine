@@ -2,13 +2,14 @@
   "id": 404064613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.329409,43.592791,-70.329409,43.592791",
     "geom:latitude":43.592791,
     "geom:longitude":-70.329409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 US Hwy 1",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404064613,
-    "wof:lastmodified":1449039444,
+    "wof:lastmodified":1466586497,
     "wof:name":"Diane N Pelletier",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-70.329409,43.592791,-70.329409,43.592791],
+  "bbox": [
+    -70.329409,
+    43.592791,
+    -70.329409,
+    43.592791
+],
   "geometry": {"coordinates":[-70.329409,43.592791],"type":"Point"}
 }

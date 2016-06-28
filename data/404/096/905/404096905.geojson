@@ -2,13 +2,14 @@
   "id": 404096905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.550238,44.023963,-69.550238,44.023963",
     "geom:latitude":44.023963,
     "geom:longitude":-69.550238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Robinson Rd",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404096905,
-    "wof:lastmodified":1449039401,
+    "wof:lastmodified":1466585950,
     "wof:name":"Coastal Promotions Inc",
     "wof:parent_id":85849907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "raising"
     ]
 },
-  "bbox": [-69.550238,44.023963,-69.550238,44.023963],
-  "geometry": {"coordinates":[-69.550238,44.023963],"type":"Point"}
+  "bbox": [
+    -69.550238,
+    44.023963,
+    -69.550238,
+    44.023963
+],
+  "geometry": {"coordinates":[-69.55023799999999,44.023963],"type":"Point"}
 }

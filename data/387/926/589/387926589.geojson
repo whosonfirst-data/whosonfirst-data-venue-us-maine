@@ -2,13 +2,14 @@
   "id": 387926589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.883292,44.683531,-68.883292,44.683531",
     "geom:latitude":44.683531,
     "geom:longitude":-68.883292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Twining Rd",
     "sg:city":"Winterport",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387926589,
-    "wof:lastmodified":1449057427,
+    "wof:lastmodified":1466587270,
     "wof:name":"Families & Children Together",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-68.883292,44.683531,-68.883292,44.683531],
+  "bbox": [
+    -68.883292,
+    44.683531,
+    -68.883292,
+    44.683531
+],
   "geometry": {"coordinates":[-68.883292,44.683531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403917779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.553847,44.332926,-70.553847,44.332926",
     "geom:latitude":44.332926,
     "geom:longitude":-70.553847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 N Paris Rd",
     "sg:city":"West Paris",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403917779,
-    "wof:lastmodified":1449055789,
+    "wof:lastmodified":1466586969,
     "wof:name":"Hungry Hollow Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-70.553847,44.332926,-70.553847,44.332926],
+  "bbox": [
+    -70.553847,
+    44.332926,
+    -70.553847,
+    44.332926
+],
   "geometry": {"coordinates":[-70.553847,44.332926],"type":"Point"}
 }

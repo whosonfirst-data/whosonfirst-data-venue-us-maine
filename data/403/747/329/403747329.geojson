@@ -2,13 +2,14 @@
   "id": 403747329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.45677,43.492638,-70.45677,43.492638",
     "geom:latitude":43.492638,
     "geom:longitude":-70.45677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Adams St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403747329,
-    "wof:lastmodified":1449054868,
+    "wof:lastmodified":1466586172,
     "wof:name":"Maine Bank & Trust Co",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.45677,43.492638,-70.45677,43.492638],
-  "geometry": {"coordinates":[-70.45677,43.492638],"type":"Point"}
+  "bbox": [
+    -70.45677,
+    43.492638,
+    -70.45677,
+    43.492638
+],
+  "geometry": {"coordinates":[-70.45677000000001,43.492638],"type":"Point"}
 }

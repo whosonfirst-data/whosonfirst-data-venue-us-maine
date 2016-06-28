@@ -2,13 +2,14 @@
   "id": 387680549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.642157,44.762301,-68.642157,44.762301",
     "geom:latitude":44.762301,
     "geom:longitude":-68.642157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 Mann Hill Rd",
     "sg:city":"Holden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387680549,
-    "wof:lastmodified":1449058772,
+    "wof:lastmodified":1466586449,
     "wof:name":"R Penley Co",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.642157,44.762301,-68.642157,44.762301],
+  "bbox": [
+    -68.642157,
+    44.762301,
+    -68.642157,
+    44.762301
+],
   "geometry": {"coordinates":[-68.642157,44.762301],"type":"Point"}
 }

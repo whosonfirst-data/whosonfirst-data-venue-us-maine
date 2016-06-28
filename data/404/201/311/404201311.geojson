@@ -2,13 +2,14 @@
   "id": 404201311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.315738,43.61649,-70.315738,43.61649",
     "geom:latitude":43.61649,
     "geom:longitude":-70.315738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Eliot St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404201311,
-    "wof:lastmodified":1449040160,
+    "wof:lastmodified":1466586850,
     "wof:name":"Caring Touch Pet Grooming",
     "wof:parent_id":85852203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.315738,43.61649,-70.315738,43.61649],
+  "bbox": [
+    -70.315738,
+    43.61649,
+    -70.315738,
+    43.61649
+],
   "geometry": {"coordinates":[-70.315738,43.61649],"type":"Point"}
 }

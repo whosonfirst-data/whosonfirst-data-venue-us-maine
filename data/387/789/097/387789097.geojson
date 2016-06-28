@@ -2,13 +2,14 @@
   "id": 387789097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.72938,43.090712,-70.72938,43.090712",
     "geom:latitude":43.090712,
     "geom:longitude":-70.72938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Cole St",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387789097,
-    "wof:lastmodified":1449057816,
+    "wof:lastmodified":1466587005,
     "wof:name":"Frank S Service",
     "wof:parent_id":85828587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-70.72938,43.090712,-70.72938,43.090712],
-  "geometry": {"coordinates":[-70.72938,43.090712],"type":"Point"}
+  "bbox": [
+    -70.72938,
+    43.090712,
+    -70.72938,
+    43.090712
+],
+  "geometry": {"coordinates":[-70.72938000000001,43.090712],"type":"Point"}
 }

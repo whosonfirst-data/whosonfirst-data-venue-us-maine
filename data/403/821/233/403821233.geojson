@@ -2,13 +2,14 @@
   "id": 403821233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.365474,44.349844,-68.365474,44.349844",
     "geom:latitude":44.349844,
     "geom:longitude":-68.365474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Northern Neck Rd",
     "sg:city":"Mt Desert",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403821233,
-    "wof:lastmodified":1449055362,
+    "wof:lastmodified":1466586285,
     "wof:name":"Quentin Armstrong",
     "wof:parent_id":85849305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.365474,44.349844,-68.365474,44.349844],
-  "geometry": {"coordinates":[-68.365474,44.349844],"type":"Point"}
+  "bbox": [
+    -68.365474,
+    44.349844,
+    -68.365474,
+    44.349844
+],
+  "geometry": {"coordinates":[-68.36547400000001,44.349844],"type":"Point"}
 }

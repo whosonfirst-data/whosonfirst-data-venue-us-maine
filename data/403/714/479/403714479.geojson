@@ -2,13 +2,14 @@
   "id": 403714479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.794278,44.838937,-68.794278,44.838937",
     "geom:latitude":44.838937,
     "geom:longitude":-68.794278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Broadway",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403714479,
-    "wof:lastmodified":1449055285,
+    "wof:lastmodified":1466585804,
     "wof:name":"Broadway TV & Appliance",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.794278,44.838937,-68.794278,44.838937],
-  "geometry": {"coordinates":[-68.794278,44.838937],"type":"Point"}
+  "bbox": [
+    -68.794278,
+    44.838937,
+    -68.794278,
+    44.838937
+],
+  "geometry": {"coordinates":[-68.79427800000001,44.838937],"type":"Point"}
 }

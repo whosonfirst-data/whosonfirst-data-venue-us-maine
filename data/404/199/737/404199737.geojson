@@ -2,13 +2,14 @@
   "id": 404199737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.175637,43.816196,-70.175637,43.816196",
     "geom:latitude":43.816196,
     "geom:longitude":-70.175637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 June Berry Ct",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404199737,
-    "wof:lastmodified":1449039140,
+    "wof:lastmodified":1466587002,
     "wof:name":"Pharm Corp",
     "wof:parent_id":85849253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.175637,43.816196,-70.175637,43.816196],
-  "geometry": {"coordinates":[-70.175637,43.816196],"type":"Point"}
+  "bbox": [
+    -70.175637,
+    43.816196,
+    -70.175637,
+    43.816196
+],
+  "geometry": {"coordinates":[-70.17563699999999,43.816196],"type":"Point"}
 }

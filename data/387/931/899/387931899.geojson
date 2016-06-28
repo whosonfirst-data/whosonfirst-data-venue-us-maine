@@ -2,13 +2,14 @@
   "id": 387931899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.543932,43.37922,-70.543932,43.37922",
     "geom:latitude":43.37922,
     "geom:longitude":-70.543932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Brown St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387931899,
-    "wof:lastmodified":1449059577,
+    "wof:lastmodified":1466587280,
     "wof:name":"Atlantic Window Washing",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-70.543932,43.37922,-70.543932,43.37922],
+  "bbox": [
+    -70.543932,
+    43.37922,
+    -70.543932,
+    43.37922
+],
   "geometry": {"coordinates":[-70.543932,43.37922],"type":"Point"}
 }

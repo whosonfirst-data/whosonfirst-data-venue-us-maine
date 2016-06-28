@@ -2,13 +2,14 @@
   "id": 403909113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.718057,44.766798,-69.718057,44.766798",
     "geom:latitude":44.766798,
     "geom:longitude":-69.718057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Cross St",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403909113,
-    "wof:lastmodified":1449055627,
+    "wof:lastmodified":1466586941,
     "wof:name":"Donald E Eames Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-69.718057,44.766798,-69.718057,44.766798],
+  "bbox": [
+    -69.718057,
+    44.766798,
+    -69.718057,
+    44.766798
+],
   "geometry": {"coordinates":[-69.718057,44.766798],"type":"Point"}
 }

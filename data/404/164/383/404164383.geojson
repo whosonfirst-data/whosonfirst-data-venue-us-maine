@@ -2,13 +2,14 @@
   "id": 404164383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.632303,44.911407,-68.632303,44.911407",
     "geom:latitude":44.911407,
     "geom:longitude":-68.632303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Main Rd",
     "sg:city":"Abbot",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404164383,
-    "wof:lastmodified":1449039162,
+    "wof:lastmodified":1466586782,
     "wof:name":"Town Of Abbot",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-68.632303,44.911407,-68.632303,44.911407],
-  "geometry": {"coordinates":[-68.632303,44.911407],"type":"Point"}
+  "bbox": [
+    -68.632303,
+    44.911407,
+    -68.632303,
+    44.911407
+],
+  "geometry": {"coordinates":[-68.63230299999999,44.911407],"type":"Point"}
 }

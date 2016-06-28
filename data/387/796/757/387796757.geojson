@@ -2,13 +2,14 @@
   "id": 387796757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.09761,44.209452,-69.09761,44.209452",
     "geom:latitude":44.209452,
     "geom:longitude":-69.09761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Annis Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387796757,
-    "wof:lastmodified":1449057899,
+    "wof:lastmodified":1466587029,
     "wof:name":"Hazel Eaton",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firm"
     ]
 },
-  "bbox": [-69.09761,44.209452,-69.09761,44.209452],
+  "bbox": [
+    -69.09761,
+    44.209452,
+    -69.09761,
+    44.209452
+],
   "geometry": {"coordinates":[-69.09761,44.209452],"type":"Point"}
 }

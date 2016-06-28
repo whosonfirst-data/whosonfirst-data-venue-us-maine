@@ -2,13 +2,14 @@
   "id": 387811519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.211721,44.314348,-68.211721,44.314348",
     "geom:latitude":44.314348,
     "geom:longitude":-68.211721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Ottercreek Dr",
     "sg:city":"Otter Creek",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387811519,
-    "wof:lastmodified":1449057936,
+    "wof:lastmodified":1466587091,
     "wof:name":"Otter Creek Inn",
     "wof:parent_id":85803817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.211721,44.314348,-68.211721,44.314348],
+  "bbox": [
+    -68.211721,
+    44.314348,
+    -68.211721,
+    44.314348
+],
   "geometry": {"coordinates":[-68.211721,44.314348],"type":"Point"}
 }

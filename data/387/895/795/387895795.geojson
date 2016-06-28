@@ -2,13 +2,14 @@
   "id": 387895795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.220725,44.084704,-70.220725,44.084704",
     "geom:latitude":44.084704,
     "geom:longitude":-70.220725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 4th St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387895795,
-    "wof:lastmodified":1449057721,
+    "wof:lastmodified":1466587236,
     "wof:name":"J & B Tent Rentals",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camping"
     ]
 },
-  "bbox": [-70.220725,44.084704,-70.220725,44.084704],
+  "bbox": [
+    -70.220725,
+    44.084704,
+    -70.220725,
+    44.084704
+],
   "geometry": {"coordinates":[-70.220725,44.084704],"type":"Point"}
 }

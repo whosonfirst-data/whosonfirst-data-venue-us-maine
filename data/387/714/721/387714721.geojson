@@ -2,13 +2,14 @@
   "id": 387714721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.305287,44.244562,-70.305287,44.244562",
     "geom:latitude":44.244562,
     "geom:longitude":-70.305287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"461 E Hebron Rd",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387714721,
-    "wof:lastmodified":1449057980,
+    "wof:lastmodified":1466586790,
     "wof:name":"Keystone Masonry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.305287,44.244562,-70.305287,44.244562],
-  "geometry": {"coordinates":[-70.305287,44.244562],"type":"Point"}
+  "bbox": [
+    -70.305287,
+    44.244562,
+    -70.305287,
+    44.244562
+],
+  "geometry": {"coordinates":[-70.30528700000001,44.244562],"type":"Point"}
 }

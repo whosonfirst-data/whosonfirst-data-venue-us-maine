@@ -2,13 +2,14 @@
   "id": 387698767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.009822,44.427072,-69.009822,44.427072",
     "geom:latitude":44.427072,
     "geom:longitude":-69.009822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Church St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387698767,
-    "wof:lastmodified":1449059685,
+    "wof:lastmodified":1466586728,
     "wof:name":"Waldo Independent",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-69.009822,44.427072,-69.009822,44.427072],
+  "bbox": [
+    -69.009822,
+    44.427072,
+    -69.009822,
+    44.427072
+],
   "geometry": {"coordinates":[-69.009822,44.427072],"type":"Point"}
 }

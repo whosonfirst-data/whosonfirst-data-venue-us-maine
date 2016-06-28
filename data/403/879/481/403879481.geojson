@@ -2,13 +2,14 @@
   "id": 403879481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.029229,46.677813,-68.029229,46.677813",
     "geom:latitude":46.677813,
     "geom:longitude":-68.029229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Industrial St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403879481,
-    "wof:lastmodified":1449054646,
+    "wof:lastmodified":1466586835,
     "wof:name":"Redlon & Johnson",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-68.029229,46.677813,-68.029229,46.677813],
+  "bbox": [
+    -68.029229,
+    46.677813,
+    -68.029229,
+    46.677813
+],
   "geometry": {"coordinates":[-68.029229,46.677813],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387584879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225805,44.105187,-70.225805,44.105187",
     "geom:latitude":44.105187,
     "geom:longitude":-70.225805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Vernon St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387584879,
-    "wof:lastmodified":1449056524,
+    "wof:lastmodified":1466586082,
     "wof:name":"Atlantis Day Spa",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "day"
     ]
 },
-  "bbox": [-70.225805,44.105187,-70.225805,44.105187],
-  "geometry": {"coordinates":[-70.225805,44.105187],"type":"Point"}
+  "bbox": [
+    -70.225805,
+    44.105187,
+    -70.225805,
+    44.105187
+],
+  "geometry": {"coordinates":[-70.22580499999999,44.105187],"type":"Point"}
 }

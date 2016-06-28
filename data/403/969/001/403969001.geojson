@@ -2,13 +2,14 @@
   "id": 403969001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.742472,44.840379,-68.742472,44.840379",
     "geom:latitude":44.840379,
     "geom:longitude":-68.742472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Longview Dr",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403969001,
-    "wof:lastmodified":1449054966,
+    "wof:lastmodified":1466587205,
     "wof:name":"Ski Rack Sports",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "skiing"
     ]
 },
-  "bbox": [-68.742472,44.840379,-68.742472,44.840379],
-  "geometry": {"coordinates":[-68.742472,44.840379],"type":"Point"}
+  "bbox": [
+    -68.742472,
+    44.840379,
+    -68.742472,
+    44.840379
+],
+  "geometry": {"coordinates":[-68.74247200000001,44.840379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387892285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.474859,44.141771,-70.474859,44.141771",
     "geom:latitude":44.141771,
     "geom:longitude":-70.474859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":387892285,
-    "wof:lastmodified":1449056662,
+    "wof:lastmodified":1466587229,
     "wof:name":"Record Building Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-70.474859,44.141771,-70.474859,44.141771],
+  "bbox": [
+    -70.474859,
+    44.141771,
+    -70.474859,
+    44.141771
+],
   "geometry": {"coordinates":[-70.474859,44.141771],"type":"Point"}
 }

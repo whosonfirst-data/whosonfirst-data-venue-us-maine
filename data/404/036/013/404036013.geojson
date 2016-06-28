@@ -2,13 +2,14 @@
   "id": 404036013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.312009,43.687555,-70.312009,43.687555",
     "geom:latitude":43.687555,
     "geom:longitude":-70.312009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 Warren Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404036013,
-    "wof:lastmodified":1449039315,
+    "wof:lastmodified":1466586026,
     "wof:name":"Happy Wheels Skate Ctr",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rink"
     ]
 },
-  "bbox": [-70.312009,43.687555,-70.312009,43.687555],
+  "bbox": [
+    -70.312009,
+    43.687555,
+    -70.312009,
+    43.687555
+],
   "geometry": {"coordinates":[-70.312009,43.687555],"type":"Point"}
 }

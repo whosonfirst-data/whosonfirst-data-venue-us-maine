@@ -2,13 +2,14 @@
   "id": 387746273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.339615,43.565417,-70.339615,43.565417",
     "geom:latitude":43.565417,
     "geom:longitude":-70.339615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 High Point Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387746273,
-    "wof:lastmodified":1449056081,
+    "wof:lastmodified":1466586886,
     "wof:name":"Closet Works Of Maine",
     "wof:parent_id":85806509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [-70.339615,43.565417,-70.339615,43.565417],
-  "geometry": {"coordinates":[-70.339615,43.565417],"type":"Point"}
+  "bbox": [
+    -70.339615,
+    43.565417,
+    -70.339615,
+    43.565417
+],
+  "geometry": {"coordinates":[-70.33961499999999,43.565417],"type":"Point"}
 }

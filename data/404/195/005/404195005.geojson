@@ -2,13 +2,14 @@
   "id": 404195005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.223052,43.569953,-70.223052,43.569953",
     "geom:latitude":43.569953,
     "geom:longitude":-70.223052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Bowery Beach Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404195005,
-    "wof:lastmodified":1449039926,
+    "wof:lastmodified":1466586973,
     "wof:name":"Plant'n Grow Landscaping",
     "wof:parent_id":85824889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.223052,43.569953,-70.223052,43.569953],
+  "bbox": [
+    -70.223052,
+    43.569953,
+    -70.223052,
+    43.569953
+],
   "geometry": {"coordinates":[-70.223052,43.569953],"type":"Point"}
 }

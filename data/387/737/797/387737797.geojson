@@ -2,13 +2,14 @@
   "id": 387737797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.94849,43.91521,-69.94849,43.91521",
     "geom:latitude":43.91521,
     "geom:longitude":-69.94849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Riverview Dr",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387737797,
-    "wof:lastmodified":1449056952,
+    "wof:lastmodified":1466586923,
     "wof:name":"Three Little Bears Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-69.94849,43.91521,-69.94849,43.91521],
-  "geometry": {"coordinates":[-69.94849,43.91521],"type":"Point"}
+  "bbox": [
+    -69.94849,
+    43.91521,
+    -69.94849,
+    43.91521
+],
+  "geometry": {"coordinates":[-69.94849000000001,43.91521],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404051417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.060126,44.209486,-69.060126,44.209486",
     "geom:latitude":44.209486,
     "geom:longitude":-69.060126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Sea St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404051417,
-    "wof:lastmodified":1449039852,
+    "wof:lastmodified":1466586318,
     "wof:name":"Wayfarer Marine Corp",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-69.060126,44.209486,-69.060126,44.209486],
+  "bbox": [
+    -69.060126,
+    44.209486,
+    -69.060126,
+    44.209486
+],
   "geometry": {"coordinates":[-69.060126,44.209486],"type":"Point"}
 }

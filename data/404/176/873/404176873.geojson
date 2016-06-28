@@ -2,13 +2,14 @@
   "id": 404176873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.305043,43.626806,-70.305043,43.626806",
     "geom:latitude":43.626806,
     "geom:longitude":-70.305043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Wescott Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404176873,
-    "wof:lastmodified":1449039920,
+    "wof:lastmodified":1466586815,
     "wof:name":"Mary M Smith DO",
     "wof:parent_id":85852203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.305043,43.626806,-70.305043,43.626806],
+  "bbox": [
+    -70.305043,
+    43.626806,
+    -70.305043,
+    43.626806
+],
   "geometry": {"coordinates":[-70.305043,43.626806],"type":"Point"}
 }

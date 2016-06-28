@@ -2,13 +2,14 @@
   "id": 403979671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.299529,44.177703,-69.299529,44.177703",
     "geom:latitude":44.177703,
     "geom:longitude":-69.299529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1845 Clarry Hill Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403979671,
-    "wof:lastmodified":1449055551,
+    "wof:lastmodified":1466587147,
     "wof:name":"Custom Gameheads Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-69.299529,44.177703,-69.299529,44.177703],
-  "geometry": {"coordinates":[-69.299529,44.177703],"type":"Point"}
+  "bbox": [
+    -69.299529,
+    44.177703,
+    -69.299529,
+    44.177703
+],
+  "geometry": {"coordinates":[-69.29952900000001,44.177703],"type":"Point"}
 }

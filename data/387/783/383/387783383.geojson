@@ -2,13 +2,14 @@
   "id": 387783383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.298382,43.599818,-70.298382,43.599818",
     "geom:latitude":43.599818,
     "geom:longitude":-70.298382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Pleasant Hill Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387783383,
-    "wof:lastmodified":1449056238,
+    "wof:lastmodified":1466587093,
     "wof:name":"Target Mail Advertising",
     "wof:parent_id":85842219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "agitation"
     ]
 },
-  "bbox": [-70.298382,43.599818,-70.298382,43.599818],
+  "bbox": [
+    -70.298382,
+    43.599818,
+    -70.298382,
+    43.599818
+],
   "geometry": {"coordinates":[-70.298382,43.599818],"type":"Point"}
 }

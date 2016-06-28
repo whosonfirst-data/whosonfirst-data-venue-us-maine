@@ -2,13 +2,14 @@
   "id": 387831701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.216198,44.588282,-70.216198,44.588282",
     "geom:latitude":44.588282,
     "geom:longitude":-70.216198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Union St",
     "sg:city":"Wilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387831701,
-    "wof:lastmodified":1449058337,
+    "wof:lastmodified":1466587208,
     "wof:name":"Jen's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.216198,44.588282,-70.216198,44.588282],
-  "geometry": {"coordinates":[-70.216198,44.588282],"type":"Point"}
+  "bbox": [
+    -70.216198,
+    44.588282,
+    -70.216198,
+    44.588282
+],
+  "geometry": {"coordinates":[-70.21619800000001,44.588282],"type":"Point"}
 }

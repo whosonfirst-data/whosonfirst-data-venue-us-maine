@@ -2,13 +2,14 @@
   "id": 403752057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.27079,43.648194,-70.27079,43.648194",
     "geom:latitude":43.648194,
     "geom:longitude":-70.27079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Carroll St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403752057,
-    "wof:lastmodified":1449054853,
+    "wof:lastmodified":1466586240,
     "wof:name":"Annie Rose Photography",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photography"
     ]
 },
-  "bbox": [-70.27079,43.648194,-70.27079,43.648194],
-  "geometry": {"coordinates":[-70.27079,43.648194],"type":"Point"}
+  "bbox": [
+    -70.27079,
+    43.648194,
+    -70.27079,
+    43.648194
+],
+  "geometry": {"coordinates":[-70.27079000000001,43.648194],"type":"Point"}
 }

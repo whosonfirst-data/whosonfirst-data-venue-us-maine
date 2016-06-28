@@ -2,13 +2,14 @@
   "id": 404052261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.349149,43.681295,-70.349149,43.681295",
     "geom:latitude":43.681295,
     "geom:longitude":-70.349149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"458 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404052261,
-    "wof:lastmodified":1449039551,
+    "wof:lastmodified":1466586329,
     "wof:name":"Facts & Figures",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-70.349149,43.681295,-70.349149,43.681295],
+  "bbox": [
+    -70.349149,
+    43.681295,
+    -70.349149,
+    43.681295
+],
   "geometry": {"coordinates":[-70.349149,43.681295],"type":"Point"}
 }

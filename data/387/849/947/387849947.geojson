@@ -2,13 +2,14 @@
   "id": 387849947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.969107,43.931675,-69.969107,43.931675",
     "geom:latitude":43.931675,
     "geom:longitude":-69.969107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Barrows Dr",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387849947,
-    "wof:lastmodified":1449056799,
+    "wof:lastmodified":1466587154,
     "wof:name":"Woodside School",
     "wof:parent_id":85867969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.969107,43.931675,-69.969107,43.931675],
-  "geometry": {"coordinates":[-69.969107,43.931675],"type":"Point"}
+  "bbox": [
+    -69.969107,
+    43.931675,
+    -69.969107,
+    43.931675
+],
+  "geometry": {"coordinates":[-69.96910699999999,43.931675],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403703115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.417971,44.543817,-68.417971,44.543817",
     "geom:latitude":44.543817,
     "geom:longitude":-68.417971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Union St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403703115,
-    "wof:lastmodified":1449055045,
+    "wof:lastmodified":1466585706,
     "wof:name":"About Women",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-68.417971,44.543817,-68.417971,44.543817],
-  "geometry": {"coordinates":[-68.417971,44.543817],"type":"Point"}
+  "bbox": [
+    -68.417971,
+    44.543817,
+    -68.417971,
+    44.543817
+],
+  "geometry": {"coordinates":[-68.41797099999999,44.543817],"type":"Point"}
 }

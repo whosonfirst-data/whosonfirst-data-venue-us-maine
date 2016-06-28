@@ -2,13 +2,14 @@
   "id": 387669049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.202646,44.083959,-70.202646,44.083959",
     "geom:latitude":44.083959,
     "geom:longitude":-70.202646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"855 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387669049,
-    "wof:lastmodified":1449056545,
+    "wof:lastmodified":1466586265,
     "wof:name":"Flagship Cinemas",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "picture"
     ]
 },
-  "bbox": [-70.202646,44.083959,-70.202646,44.083959],
+  "bbox": [
+    -70.202646,
+    44.083959,
+    -70.202646,
+    44.083959
+],
   "geometry": {"coordinates":[-70.202646,44.083959],"type":"Point"}
 }

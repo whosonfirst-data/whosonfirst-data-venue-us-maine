@@ -2,13 +2,14 @@
   "id": 403796155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.244616,44.688444,-70.244616,44.688444",
     "geom:latitude":44.688444,
     "geom:longitude":-70.244616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Mitchell Brook Rd",
     "sg:city":"Temple",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403796155,
-    "wof:lastmodified":1449055259,
+    "wof:lastmodified":1466585890,
     "wof:name":"W A Mitchell Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "custom"
     ]
 },
-  "bbox": [-70.244616,44.688444,-70.244616,44.688444],
-  "geometry": {"coordinates":[-70.244616,44.688444],"type":"Point"}
+  "bbox": [
+    -70.244616,
+    44.688444,
+    -70.244616,
+    44.688444
+],
+  "geometry": {"coordinates":[-70.24461599999999,44.688444],"type":"Point"}
 }

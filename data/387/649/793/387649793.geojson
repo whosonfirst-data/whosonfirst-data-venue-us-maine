@@ -2,13 +2,14 @@
   "id": 387649793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.329026,43.706648,-70.329026,43.706648",
     "geom:latitude":43.706648,
     "geom:longitude":-70.329026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Reed St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387649793,
-    "wof:lastmodified":1449058704,
+    "wof:lastmodified":1466586740,
     "wof:name":"Perfecta Systems",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-70.329026,43.706648,-70.329026,43.706648],
+  "bbox": [
+    -70.329026,
+    43.706648,
+    -70.329026,
+    43.706648
+],
   "geometry": {"coordinates":[-70.329026,43.706648],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403950201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242639,43.650308,-70.242639,43.650308",
     "geom:latitude":43.650308,
     "geom:longitude":-70.242639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403950201,
-    "wof:lastmodified":1449055158,
+    "wof:lastmodified":1466587061,
     "wof:name":"Ne Mobile Health Services",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "transportation"
     ]
 },
-  "bbox": [-70.242639,43.650308,-70.242639,43.650308],
+  "bbox": [
+    -70.242639,
+    43.650308,
+    -70.242639,
+    43.650308
+],
   "geometry": {"coordinates":[-70.242639,43.650308],"type":"Point"}
 }

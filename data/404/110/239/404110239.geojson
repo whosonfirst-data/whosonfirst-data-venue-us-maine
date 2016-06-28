@@ -2,13 +2,14 @@
   "id": 404110239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.269983,44.130986,-70.269983,44.130986",
     "geom:latitude":44.130986,
     "geom:longitude":-70.269983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 W Auburn Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404110239,
-    "wof:lastmodified":1449039404,
+    "wof:lastmodified":1466586146,
     "wof:name":"Morse Payson & Noyes Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.269983,44.130986,-70.269983,44.130986],
+  "bbox": [
+    -70.269983,
+    44.130986,
+    -70.269983,
+    44.130986
+],
   "geometry": {"coordinates":[-70.269983,44.130986],"type":"Point"}
 }

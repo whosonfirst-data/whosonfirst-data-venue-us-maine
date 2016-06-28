@@ -2,13 +2,14 @@
   "id": 404097355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.314396,43.566373,-70.314396,43.566373",
     "geom:latitude":43.566373,
     "geom:longitude":-70.314396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Black Point Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":404097355,
-    "wof:lastmodified":1449039504,
+    "wof:lastmodified":1466585959,
     "wof:name":"Peary's Small Engine Repair",
     "wof:parent_id":85843227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-70.314396,43.566373,-70.314396,43.566373],
+  "bbox": [
+    -70.314396,
+    43.566373,
+    -70.314396,
+    43.566373
+],
   "geometry": {"coordinates":[-70.314396,43.566373],"type":"Point"}
 }

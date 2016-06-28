@@ -2,13 +2,14 @@
   "id": 404131583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.882903,43.806612,-70.882903,43.806612",
     "geom:latitude":43.806612,
     "geom:longitude":-70.882903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Federal St",
     "sg:city":"Parsonsfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404131583,
-    "wof:lastmodified":1449039382,
+    "wof:lastmodified":1466586472,
     "wof:name":"Country Falls Restaurant",
     "wof:parent_id":85849757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.882903,43.806612,-70.882903,43.806612],
+  "bbox": [
+    -70.882903,
+    43.806612,
+    -70.882903,
+    43.806612
+],
   "geometry": {"coordinates":[-70.882903,43.806612],"type":"Point"}
 }

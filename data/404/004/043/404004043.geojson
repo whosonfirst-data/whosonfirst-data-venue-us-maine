@@ -2,13 +2,14 @@
   "id": 404004043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.290803,43.683246,-70.290803,43.683246",
     "geom:latitude":43.683246,
     "geom:longitude":-70.290803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1037 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404004043,
-    "wof:lastmodified":1449039466,
+    "wof:lastmodified":1466585728,
     "wof:name":"Sun City Tanning Inc",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-70.290803,43.683246,-70.290803,43.683246],
+  "bbox": [
+    -70.290803,
+    43.683246,
+    -70.290803,
+    43.683246
+],
   "geometry": {"coordinates":[-70.290803,43.683246],"type":"Point"}
 }

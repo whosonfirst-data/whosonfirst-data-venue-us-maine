@@ -2,13 +2,14 @@
   "id": 404194913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.261436,43.659494,-70.261436,43.659494",
     "geom:latitude":43.659494,
     "geom:longitude":-70.261436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Oxford St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404194913,
-    "wof:lastmodified":1449040140,
+    "wof:lastmodified":1466586976,
     "wof:name":"Carepartners",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-70.261436,43.659494,-70.261436,43.659494],
+  "bbox": [
+    -70.261436,
+    43.659494,
+    -70.261436,
+    43.659494
+],
   "geometry": {"coordinates":[-70.261436,43.659494],"type":"Point"}
 }

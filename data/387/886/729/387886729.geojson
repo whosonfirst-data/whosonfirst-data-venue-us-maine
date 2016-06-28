@@ -2,13 +2,14 @@
   "id": 387886729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.931514,46.826749,-67.931514,46.826749",
     "geom:latitude":46.826749,
     "geom:longitude":-67.931514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 Fort Fairfield Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387886729,
-    "wof:lastmodified":1449058217,
+    "wof:lastmodified":1466587224,
     "wof:name":"Silver Star Enterprises",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "marking"
     ]
 },
-  "bbox": [-67.931514,46.826749,-67.931514,46.826749],
-  "geometry": {"coordinates":[-67.931514,46.826749],"type":"Point"}
+  "bbox": [
+    -67.931514,
+    46.826749,
+    -67.931514,
+    46.826749
+],
+  "geometry": {"coordinates":[-67.93151400000001,46.826749],"type":"Point"}
 }

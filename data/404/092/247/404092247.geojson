@@ -2,13 +2,14 @@
   "id": 404092247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.621739,44.542481,-69.621739,44.542481",
     "geom:latitude":44.542481,
     "geom:longitude":-69.621739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Halifax St",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":404092247,
-    "wof:lastmodified":1449040072,
+    "wof:lastmodified":1466585883,
     "wof:name":"M & M Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "painting"
     ]
 },
-  "bbox": [-69.621739,44.542481,-69.621739,44.542481],
-  "geometry": {"coordinates":[-69.621739,44.542481],"type":"Point"}
+  "bbox": [
+    -69.621739,
+    44.542481,
+    -69.621739,
+    44.542481
+],
+  "geometry": {"coordinates":[-69.62173900000001,44.542481],"type":"Point"}
 }

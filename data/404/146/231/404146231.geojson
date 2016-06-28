@@ -2,13 +2,14 @@
   "id": 404146231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.690205,43.141962,-70.690205,43.141962",
     "geom:latitude":43.141962,
     "geom:longitude":-70.690205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 US Hwy 1",
     "sg:city":"York",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404146231,
-    "wof:lastmodified":1449039533,
+    "wof:lastmodified":1466586702,
     "wof:name":"Coastal Kitchen & Bath Design",
     "wof:parent_id":85811017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-70.690205,43.141962,-70.690205,43.141962],
-  "geometry": {"coordinates":[-70.690205,43.141962],"type":"Point"}
+  "bbox": [
+    -70.690205,
+    43.141962,
+    -70.690205,
+    43.141962
+],
+  "geometry": {"coordinates":[-70.69020500000001,43.141962],"type":"Point"}
 }

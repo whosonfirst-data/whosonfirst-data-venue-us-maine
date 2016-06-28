@@ -2,13 +2,14 @@
   "id": 387561163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.808142,43.173131,-70.808142,43.173131",
     "geom:latitude":43.173131,
     "geom:longitude":-70.808142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 Goodwin Rd",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387561163,
-    "wof:lastmodified":1449058806,
+    "wof:lastmodified":1466586631,
     "wof:name":"Shattuck Kate Wall Coverings",
     "wof:parent_id":85822373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.808142,43.173131,-70.808142,43.173131],
+  "bbox": [
+    -70.808142,
+    43.173131,
+    -70.808142,
+    43.173131
+],
   "geometry": {"coordinates":[-70.808142,43.173131],"type":"Point"}
 }

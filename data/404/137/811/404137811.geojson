@@ -2,13 +2,14 @@
   "id": 404137811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.598975,43.25933,-70.598975,43.25933",
     "geom:latitude":43.25933,
     "geom:longitude":-70.598975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Main St",
     "sg:city":"Ogunquit",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404137811,
-    "wof:lastmodified":1449040157,
+    "wof:lastmodified":1466586570,
     "wof:name":"Bread & Roses Bakery",
     "wof:parent_id":85835101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-70.598975,43.25933,-70.598975,43.25933],
+  "bbox": [
+    -70.598975,
+    43.25933,
+    -70.598975,
+    43.25933
+],
   "geometry": {"coordinates":[-70.598975,43.25933],"type":"Point"}
 }

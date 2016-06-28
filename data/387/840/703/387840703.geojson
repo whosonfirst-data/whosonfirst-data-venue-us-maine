@@ -2,13 +2,14 @@
   "id": 387840703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.502856,44.538754,-68.502856,44.538754",
     "geom:latitude":44.538754,
     "geom:longitude":-68.502856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Redfern Rd",
     "sg:city":"Trenton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387840703,
-    "wof:lastmodified":1449059049,
+    "wof:lastmodified":1466587217,
     "wof:name":"Sanborn's Upholstery",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-68.502856,44.538754,-68.502856,44.538754],
-  "geometry": {"coordinates":[-68.502856,44.538754],"type":"Point"}
+  "bbox": [
+    -68.502856,
+    44.538754,
+    -68.502856,
+    44.538754
+],
+  "geometry": {"coordinates":[-68.50285599999999,44.538754],"type":"Point"}
 }

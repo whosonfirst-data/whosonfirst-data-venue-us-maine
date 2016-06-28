@@ -2,13 +2,14 @@
   "id": 387894631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.324274,44.268972,-70.324274,44.268972",
     "geom:latitude":44.268972,
     "geom:longitude":-70.324274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Bryant Rd",
     "sg:city":"Buckfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387894631,
-    "wof:lastmodified":1449057673,
+    "wof:lastmodified":1466587231,
     "wof:name":"Douglass 24 Hr Towing",
     "wof:parent_id":85816409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-70.324274,44.268972,-70.324274,44.268972],
+  "bbox": [
+    -70.324274,
+    44.268972,
+    -70.324274,
+    44.268972
+],
   "geometry": {"coordinates":[-70.324274,44.268972],"type":"Point"}
 }

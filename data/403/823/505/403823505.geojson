@@ -2,13 +2,14 @@
   "id": 403823505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.495121,44.159454,-70.495121,44.159454",
     "geom:latitude":44.159454,
     "geom:longitude":-70.495121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"960 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403823505,
-    "wof:lastmodified":1449055944,
+    "wof:lastmodified":1466586321,
     "wof:name":"Toms Gift",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.495121,44.159454,-70.495121,44.159454],
+  "bbox": [
+    -70.495121,
+    44.159454,
+    -70.495121,
+    44.159454
+],
   "geometry": {"coordinates":[-70.495121,44.159454],"type":"Point"}
 }

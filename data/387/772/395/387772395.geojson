@@ -2,13 +2,14 @@
   "id": 387772395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.88695,43.808677,-70.88695,43.808677",
     "geom:latitude":43.808677,
     "geom:longitude":-70.88695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 River St",
     "sg:city":"Porter",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387772395,
-    "wof:lastmodified":1449057810,
+    "wof:lastmodified":1466586899,
     "wof:name":"Haskell Temporary Labor Serv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.88695,43.808677,-70.88695,43.808677],
+  "bbox": [
+    -70.88695,
+    43.808677,
+    -70.88695,
+    43.808677
+],
   "geometry": {"coordinates":[-70.88695,43.808677],"type":"Point"}
 }

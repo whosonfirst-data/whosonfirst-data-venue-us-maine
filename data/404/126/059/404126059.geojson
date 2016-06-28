@@ -2,13 +2,14 @@
   "id": 404126059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.108728,44.098257,-69.108728,44.098257",
     "geom:latitude":44.098257,
     "geom:longitude":-69.108728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Ocean St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404126059,
-    "wof:lastmodified":1449039474,
+    "wof:lastmodified":1466586389,
     "wof:name":"Mast Mate",
     "wof:parent_id":85803709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.108728,44.098257,-69.108728,44.098257],
+  "bbox": [
+    -69.108728,
+    44.098257,
+    -69.108728,
+    44.098257
+],
   "geometry": {"coordinates":[-69.108728,44.098257],"type":"Point"}
 }

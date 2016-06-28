@@ -2,13 +2,14 @@
   "id": 387738895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.348428,43.737568,-70.348428,43.737568",
     "geom:latitude":43.737568,
     "geom:longitude":-70.348428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387738895,
-    "wof:lastmodified":1449058896,
+    "wof:lastmodified":1466586923,
     "wof:name":"Westbrook Pool & Spa Co",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tub"
     ]
 },
-  "bbox": [-70.348428,43.737568,-70.348428,43.737568],
+  "bbox": [
+    -70.348428,
+    43.737568,
+    -70.348428,
+    43.737568
+],
   "geometry": {"coordinates":[-70.348428,43.737568],"type":"Point"}
 }

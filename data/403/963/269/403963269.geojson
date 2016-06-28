@@ -2,13 +2,14 @@
   "id": 403963269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.930419,46.917237,-67.930419,46.917237",
     "geom:latitude":46.917237,
     "geom:longitude":-67.930419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Thompson Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403963269,
-    "wof:lastmodified":1449054768,
+    "wof:lastmodified":1466587024,
     "wof:name":"Ms Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "general"
     ]
 },
-  "bbox": [-67.930419,46.917237,-67.930419,46.917237],
+  "bbox": [
+    -67.930419,
+    46.917237,
+    -67.930419,
+    46.917237
+],
   "geometry": {"coordinates":[-67.930419,46.917237],"type":"Point"}
 }

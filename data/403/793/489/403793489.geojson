@@ -2,13 +2,14 @@
   "id": 403793489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.742395,44.829161,-68.742395,44.829161",
     "geom:latitude":44.829161,
     "geom:longitude":-68.742395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"268 Sylvan Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403793489,
-    "wof:lastmodified":1449055368,
+    "wof:lastmodified":1466585855,
     "wof:name":"Northeast Emergency Medical Sv",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.742395,44.829161,-68.742395,44.829161],
+  "bbox": [
+    -68.742395,
+    44.829161,
+    -68.742395,
+    44.829161
+],
   "geometry": {"coordinates":[-68.742395,44.829161],"type":"Point"}
 }

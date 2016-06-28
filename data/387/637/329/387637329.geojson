@@ -2,13 +2,14 @@
   "id": 387637329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.645746,44.832649,-68.645746,44.832649",
     "geom:latitude":44.832649,
     "geom:longitude":-68.645746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Davis Rd",
     "sg:city":"Eddington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387637329,
-    "wof:lastmodified":1449056112,
+    "wof:lastmodified":1466586649,
     "wof:name":"Penobscot Welding",
     "wof:parent_id":85804681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-68.645746,44.832649,-68.645746,44.832649],
+  "bbox": [
+    -68.645746,
+    44.832649,
+    -68.645746,
+    44.832649
+],
   "geometry": {"coordinates":[-68.645746,44.832649],"type":"Point"}
 }

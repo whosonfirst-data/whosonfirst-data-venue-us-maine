@@ -2,13 +2,14 @@
   "id": 403817165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.598071,44.591327,-69.598071,44.591327",
     "geom:latitude":44.591327,
     "geom:longitude":-69.598071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Western Ave",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403817165,
-    "wof:lastmodified":1449055700,
+    "wof:lastmodified":1466586218,
     "wof:name":"Hillman's Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-69.598071,44.591327,-69.598071,44.591327],
+  "bbox": [
+    -69.598071,
+    44.591327,
+    -69.598071,
+    44.591327
+],
   "geometry": {"coordinates":[-69.598071,44.591327],"type":"Point"}
 }

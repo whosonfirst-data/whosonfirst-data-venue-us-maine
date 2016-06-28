@@ -2,13 +2,14 @@
   "id": 387569813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.257474,43.654548,-70.257474,43.654548",
     "geom:latitude":43.654548,
     "geom:longitude":-70.257474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Pleasant St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387569813,
-    "wof:lastmodified":1449059764,
+    "wof:lastmodified":1466585889,
     "wof:name":"Maine Olmstead Alliance",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "historical"
     ]
 },
-  "bbox": [-70.257474,43.654548,-70.257474,43.654548],
+  "bbox": [
+    -70.257474,
+    43.654548,
+    -70.257474,
+    43.654548
+],
   "geometry": {"coordinates":[-70.257474,43.654548],"type":"Point"}
 }

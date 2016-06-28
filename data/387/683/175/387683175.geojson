@@ -2,13 +2,14 @@
   "id": 387683175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.008925,43.888175,-70.008925,43.888175",
     "geom:latitude":43.888175,
     "geom:longitude":-70.008925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Casco Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387683175,
-    "wof:lastmodified":1449057502,
+    "wof:lastmodified":1466586491,
     "wof:name":"Naples Auto Mainly Imports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.008925,43.888175,-70.008925,43.888175],
+  "bbox": [
+    -70.008925,
+    43.888175,
+    -70.008925,
+    43.888175
+],
   "geometry": {"coordinates":[-70.008925,43.888175],"type":"Point"}
 }

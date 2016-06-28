@@ -2,13 +2,14 @@
   "id": 404037025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.991433,46.793977,-67.991433,46.793977",
     "geom:latitude":46.793977,
     "geom:longitude":-67.991433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1137 Presque Isle Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404037025,
-    "wof:lastmodified":1449040343,
+    "wof:lastmodified":1466586044,
     "wof:name":"Circle Of Learning Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.991433,46.793977,-67.991433,46.793977],
+  "bbox": [
+    -67.991433,
+    46.793977,
+    -67.991433,
+    46.793977
+],
   "geometry": {"coordinates":[-67.991433,46.793977],"type":"Point"}
 }

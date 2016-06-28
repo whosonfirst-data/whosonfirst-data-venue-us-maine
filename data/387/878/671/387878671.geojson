@@ -2,13 +2,14 @@
   "id": 387878671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.293087,43.802698,-70.293087,43.802698",
     "geom:latitude":43.802698,
     "geom:longitude":-70.293087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Bruce Hill Rd",
     "sg:city":"Cumberland Center",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387878671,
-    "wof:lastmodified":1449058096,
+    "wof:lastmodified":1466587213,
     "wof:name":"Integrated Market Solutions",
     "wof:parent_id":85855337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "research"
     ]
 },
-  "bbox": [-70.293087,43.802698,-70.293087,43.802698],
+  "bbox": [
+    -70.293087,
+    43.802698,
+    -70.293087,
+    43.802698
+],
   "geometry": {"coordinates":[-70.293087,43.802698],"type":"Point"}
 }

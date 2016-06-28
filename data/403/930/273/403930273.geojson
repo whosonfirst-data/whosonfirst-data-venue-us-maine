@@ -2,13 +2,14 @@
   "id": 403930273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.254554,45.179032,-67.254554,45.179032",
     "geom:latitude":45.179032,
     "geom:longitude":-67.254554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"344 Main St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403930273,
-    "wof:lastmodified":1449055057,
+    "wof:lastmodified":1466587027,
     "wof:name":"Calais Federal Savings & Loan",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.254554,45.179032,-67.254554,45.179032],
+  "bbox": [
+    -67.254554,
+    45.179032,
+    -67.254554,
+    45.179032
+],
   "geometry": {"coordinates":[-67.254554,45.179032],"type":"Point"}
 }

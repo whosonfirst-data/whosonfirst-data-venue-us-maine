@@ -2,13 +2,14 @@
   "id": 404144781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.788278,44.410432,-70.788278,44.410432",
     "geom:latitude":44.410432,
     "geom:longitude":-70.788278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Main St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404144781,
-    "wof:lastmodified":1449039993,
+    "wof:lastmodified":1466586814,
     "wof:name":"Michael T Steven & Assoc",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-70.788278,44.410432,-70.788278,44.410432],
-  "geometry": {"coordinates":[-70.788278,44.410432],"type":"Point"}
+  "bbox": [
+    -70.788278,
+    44.410432,
+    -70.788278,
+    44.410432
+],
+  "geometry": {"coordinates":[-70.78827800000001,44.410432],"type":"Point"}
 }

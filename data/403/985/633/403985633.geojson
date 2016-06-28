@@ -2,13 +2,14 @@
   "id": 403985633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.954407,43.897528,-69.954407,43.897528",
     "geom:latitude":43.897528,
     "geom:longitude":-69.954407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Harpswell Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403985633,
-    "wof:lastmodified":1449055297,
+    "wof:lastmodified":1466587245,
     "wof:name":"Maine Pines Racquet & Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-69.954407,43.897528,-69.954407,43.897528],
+  "bbox": [
+    -69.954407,
+    43.897528,
+    -69.954407,
+    43.897528
+],
   "geometry": {"coordinates":[-69.954407,43.897528],"type":"Point"}
 }

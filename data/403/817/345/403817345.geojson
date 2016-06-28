@@ -2,13 +2,14 @@
   "id": 403817345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.777086,44.790208,-68.777086,44.790208",
     "geom:latitude":44.790208,
     "geom:longitude":-68.777086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Main St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403817345,
-    "wof:lastmodified":1449055701,
+    "wof:lastmodified":1466586222,
     "wof:name":"Henry's Bridal & Formal Wear",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fur"
     ]
 },
-  "bbox": [-68.777086,44.790208,-68.777086,44.790208],
+  "bbox": [
+    -68.777086,
+    44.790208,
+    -68.777086,
+    44.790208
+],
   "geometry": {"coordinates":[-68.777086,44.790208],"type":"Point"}
 }

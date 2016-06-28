@@ -2,13 +2,14 @@
   "id": 403829965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.325636,43.67581,-70.325636,43.67581",
     "geom:latitude":43.67581,
     "geom:longitude":-70.325636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Brighton Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403829965,
-    "wof:lastmodified":1449055874,
+    "wof:lastmodified":1466586427,
     "wof:name":"Republicash",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-70.325636,43.67581,-70.325636,43.67581],
+  "bbox": [
+    -70.325636,
+    43.67581,
+    -70.325636,
+    43.67581
+],
   "geometry": {"coordinates":[-70.325636,43.67581],"type":"Point"}
 }

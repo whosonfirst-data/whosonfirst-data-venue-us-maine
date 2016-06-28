@@ -2,13 +2,14 @@
   "id": 403797417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.744036,43.661327,-70.744036,43.661327",
     "geom:latitude":43.661327,
     "geom:longitude":-70.744036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Old Portland Rd",
     "sg:city":"North Waterboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403797417,
-    "wof:lastmodified":1449055836,
+    "wof:lastmodified":1466585907,
     "wof:name":"Maine Table Pads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pad"
     ]
 },
-  "bbox": [-70.744036,43.661327,-70.744036,43.661327],
-  "geometry": {"coordinates":[-70.744036,43.661327],"type":"Point"}
+  "bbox": [
+    -70.744036,
+    43.661327,
+    -70.744036,
+    43.661327
+],
+  "geometry": {"coordinates":[-70.74403599999999,43.661327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403771189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.811624,43.239861,-70.811624,43.239861",
     "geom:latitude":43.239861,
     "geom:longitude":-70.811624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Front St",
     "sg:city":"South Berwick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403771189,
-    "wof:lastmodified":1449055353,
+    "wof:lastmodified":1466586550,
     "wof:name":"Dennis Paul Robillard Inc",
     "wof:parent_id":85813221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-70.811624,43.239861,-70.811624,43.239861],
-  "geometry": {"coordinates":[-70.811624,43.239861],"type":"Point"}
+  "bbox": [
+    -70.811624,
+    43.239861,
+    -70.811624,
+    43.239861
+],
+  "geometry": {"coordinates":[-70.81162399999999,43.239861],"type":"Point"}
 }

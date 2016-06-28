@@ -2,13 +2,14 @@
   "id": 403791031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.321653,43.569192,-70.321653,43.569192",
     "geom:latitude":43.569192,
     "geom:longitude":-70.321653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Nonesuch Cove Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403791031,
-    "wof:lastmodified":1449055660,
+    "wof:lastmodified":1466585816,
     "wof:name":"Darrell Davis Inc",
     "wof:parent_id":85843227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-70.321653,43.569192,-70.321653,43.569192],
+  "bbox": [
+    -70.321653,
+    43.569192,
+    -70.321653,
+    43.569192
+],
   "geometry": {"coordinates":[-70.321653,43.569192],"type":"Point"}
 }

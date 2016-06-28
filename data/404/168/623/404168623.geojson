@@ -2,13 +2,14 @@
   "id": 404168623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.261541,43.657488,-70.261541,43.657488",
     "geom:latitude":43.657488,
     "geom:longitude":-70.261541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 O Brion St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404168623,
-    "wof:lastmodified":1449039751,
+    "wof:lastmodified":1466586787,
     "wof:name":"Eurospeed Limited",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.261541,43.657488,-70.261541,43.657488],
-  "geometry": {"coordinates":[-70.261541,43.657488],"type":"Point"}
+  "bbox": [
+    -70.261541,
+    43.657488,
+    -70.261541,
+    43.657488
+],
+  "geometry": {"coordinates":[-70.26154099999999,43.657488],"type":"Point"}
 }

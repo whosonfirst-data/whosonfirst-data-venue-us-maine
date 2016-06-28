@@ -2,13 +2,14 @@
   "id": 403991821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.449173,43.849631,-70.449173,43.849631",
     "geom:latitude":43.849631,
     "geom:longitude":-70.449173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"765 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403991821,
-    "wof:lastmodified":1449055052,
+    "wof:lastmodified":1466587169,
     "wof:name":"Pet Quarters",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-70.449173,43.849631,-70.449173,43.849631],
+  "bbox": [
+    -70.449173,
+    43.849631,
+    -70.449173,
+    43.849631
+],
   "geometry": {"coordinates":[-70.449173,43.849631],"type":"Point"}
 }

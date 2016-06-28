@@ -2,13 +2,14 @@
   "id": 403970249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.264181,43.693082,-70.264181,43.693082",
     "geom:latitude":43.693082,
     "geom:longitude":-70.264181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"691 Ocean Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403970249,
-    "wof:lastmodified":1449055927,
+    "wof:lastmodified":1466587125,
     "wof:name":"Portland Dine Around Club",
     "wof:parent_id":85816239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.264181,43.693082,-70.264181,43.693082],
-  "geometry": {"coordinates":[-70.264181,43.693082],"type":"Point"}
+  "bbox": [
+    -70.264181,
+    43.693082,
+    -70.264181,
+    43.693082
+],
+  "geometry": {"coordinates":[-70.26418099999999,43.693082],"type":"Point"}
 }

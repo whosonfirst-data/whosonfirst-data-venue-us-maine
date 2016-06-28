@@ -2,13 +2,14 @@
   "id": 404055993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.446939,43.46791,-70.446939,43.46791",
     "geom:latitude":43.46791,
     "geom:longitude":-70.446939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 West St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404055993,
-    "wof:lastmodified":1449039318,
+    "wof:lastmodified":1466586372,
     "wof:name":"Allen's Mayflower",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-70.446939,43.46791,-70.446939,43.46791],
+  "bbox": [
+    -70.446939,
+    43.46791,
+    -70.446939,
+    43.46791
+],
   "geometry": {"coordinates":[-70.446939,43.46791],"type":"Point"}
 }

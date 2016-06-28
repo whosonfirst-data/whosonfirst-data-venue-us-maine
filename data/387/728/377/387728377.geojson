@@ -2,13 +2,14 @@
   "id": 387728377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.584365,43.295097,-70.584365,43.295097",
     "geom:latitude":43.295097,
     "geom:longitude":-70.584365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Ridings Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387728377,
-    "wof:lastmodified":1449056993,
+    "wof:lastmodified":1466586720,
     "wof:name":"Dennis Maher Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-70.584365,43.295097,-70.584365,43.295097],
-  "geometry": {"coordinates":[-70.584365,43.295097],"type":"Point"}
+  "bbox": [
+    -70.584365,
+    43.295097,
+    -70.584365,
+    43.295097
+],
+  "geometry": {"coordinates":[-70.58436500000001,43.295097],"type":"Point"}
 }

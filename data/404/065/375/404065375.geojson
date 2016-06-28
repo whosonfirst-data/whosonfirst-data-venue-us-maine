@@ -2,13 +2,14 @@
   "id": 404065375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.976769,46.125351,-67.976769,46.125351",
     "geom:latitude":46.125351,
     "geom:longitude":-67.976769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1356 County Rd",
     "sg:city":"New Limerick",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404065375,
-    "wof:lastmodified":1449040320,
+    "wof:lastmodified":1466586505,
     "wof:name":"Calvin Bishop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-67.976769,46.125351,-67.976769,46.125351],
+  "bbox": [
+    -67.976769,
+    46.125351,
+    -67.976769,
+    46.125351
+],
   "geometry": {"coordinates":[-67.976769,46.125351],"type":"Point"}
 }

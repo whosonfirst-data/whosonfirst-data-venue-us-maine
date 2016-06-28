@@ -2,13 +2,14 @@
   "id": 387722005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.113695,43.863451,-70.113695,43.863451",
     "geom:latitude":43.863451,
     "geom:longitude":-70.113695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Pownal Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387722005,
-    "wof:lastmodified":1449057435,
+    "wof:lastmodified":1466586886,
     "wof:name":"Pinetree Academy",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.113695,43.863451,-70.113695,43.863451],
-  "geometry": {"coordinates":[-70.113695,43.863451],"type":"Point"}
+  "bbox": [
+    -70.113695,
+    43.863451,
+    -70.113695,
+    43.863451
+],
+  "geometry": {"coordinates":[-70.11369500000001,43.863451],"type":"Point"}
 }

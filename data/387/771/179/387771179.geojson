@@ -2,13 +2,14 @@
   "id": 387771179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.414608,43.472698,-70.414608,43.472698",
     "geom:latitude":43.472698,
     "geom:longitude":-70.414608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Meeting House Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387771179,
-    "wof:lastmodified":1449058180,
+    "wof:lastmodified":1466586888,
     "wof:name":"Lamarre's Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-70.414608,43.472698,-70.414608,43.472698],
+  "bbox": [
+    -70.414608,
+    43.472698,
+    -70.414608,
+    43.472698
+],
   "geometry": {"coordinates":[-70.414608,43.472698],"type":"Point"}
 }

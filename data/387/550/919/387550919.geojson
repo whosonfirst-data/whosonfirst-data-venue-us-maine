@@ -2,13 +2,14 @@
   "id": 387550919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.771505,44.802005,-68.771505,44.802005",
     "geom:latitude":44.802005,
     "geom:longitude":-68.771505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Central St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387550919,
-    "wof:lastmodified":1449058170,
+    "wof:lastmodified":1466585761,
     "wof:name":"C M Weston",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-68.771505,44.802005,-68.771505,44.802005],
+  "bbox": [
+    -68.771505,
+    44.802005,
+    -68.771505,
+    44.802005
+],
   "geometry": {"coordinates":[-68.771505,44.802005],"type":"Point"}
 }

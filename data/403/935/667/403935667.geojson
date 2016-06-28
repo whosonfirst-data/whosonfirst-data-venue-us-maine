@@ -2,13 +2,14 @@
   "id": 403935667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.992759,44.90638,-66.992759,44.90638",
     "geom:latitude":44.90638,
     "geom:longitude":-66.992759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Washington St",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403935667,
-    "wof:lastmodified":1449055732,
+    "wof:lastmodified":1466587123,
     "wof:name":"Sytex Inc",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "relations"
     ]
 },
-  "bbox": [-66.992759,44.90638,-66.992759,44.90638],
-  "geometry": {"coordinates":[-66.992759,44.90638],"type":"Point"}
+  "bbox": [
+    -66.992759,
+    44.90638,
+    -66.992759,
+    44.90638
+],
+  "geometry": {"coordinates":[-66.99275900000001,44.90638],"type":"Point"}
 }

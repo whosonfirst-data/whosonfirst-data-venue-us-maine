@@ -2,13 +2,14 @@
   "id": 404193333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.344962,43.649692,-70.344962,43.649692",
     "geom:latitude":43.649692,
     "geom:longitude":-70.344962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Thomas Dr",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404193333,
-    "wof:lastmodified":1449039211,
+    "wof:lastmodified":1466586898,
     "wof:name":"Serenity Power Plus Inc",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-70.344962,43.649692,-70.344962,43.649692],
+  "bbox": [
+    -70.344962,
+    43.649692,
+    -70.344962,
+    43.649692
+],
   "geometry": {"coordinates":[-70.344962,43.649692],"type":"Point"}
 }

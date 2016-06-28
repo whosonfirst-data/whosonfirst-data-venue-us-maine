@@ -2,13 +2,14 @@
   "id": 387923399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.916377,43.833632,-69.916377,43.833632",
     "geom:latitude":43.833632,
     "geom:longitude":-69.916377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Log Dr",
     "sg:city":"Harpswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387923399,
-    "wof:lastmodified":1449059787,
+    "wof:lastmodified":1466587329,
     "wof:name":"Real Log Homes Mid Coast Maine",
     "wof:parent_id":85815689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-69.916377,43.833632,-69.916377,43.833632],
+  "bbox": [
+    -69.916377,
+    43.833632,
+    -69.916377,
+    43.833632
+],
   "geometry": {"coordinates":[-69.916377,43.833632],"type":"Point"}
 }

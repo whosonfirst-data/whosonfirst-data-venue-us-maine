@@ -2,13 +2,14 @@
   "id": 387776785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.342016,47.355575,-68.342016,47.355575",
     "geom:latitude":47.355575,
     "geom:longitude":-68.342016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"774 Main St",
     "sg:city":"Madawaska",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387776785,
-    "wof:lastmodified":1449056930,
+    "wof:lastmodified":1466586986,
     "wof:name":"St David's Church",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-68.342016,47.355575,-68.342016,47.355575],
+  "bbox": [
+    -68.342016,
+    47.355575,
+    -68.342016,
+    47.355575
+],
   "geometry": {"coordinates":[-68.342016,47.355575],"type":"Point"}
 }

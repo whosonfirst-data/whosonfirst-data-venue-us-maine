@@ -2,13 +2,14 @@
   "id": 404030227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.724996,43.450137,-70.724996,43.450137",
     "geom:latitude":43.450137,
     "geom:longitude":-70.724996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Jordan Springs Rd",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404030227,
-    "wof:lastmodified":1449039467,
+    "wof:lastmodified":1466585973,
     "wof:name":"Murley's Auto Body & Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-70.724996,43.450137,-70.724996,43.450137],
+  "bbox": [
+    -70.724996,
+    43.450137,
+    -70.724996,
+    43.450137
+],
   "geometry": {"coordinates":[-70.724996,43.450137],"type":"Point"}
 }

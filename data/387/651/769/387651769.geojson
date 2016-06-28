@@ -2,13 +2,14 @@
   "id": 387651769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.420216,43.687999,-70.420216,43.687999",
     "geom:latitude":43.687999,
     "geom:longitude":-70.420216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Primrose Ln",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387651769,
-    "wof:lastmodified":1449056853,
+    "wof:lastmodified":1466585996,
     "wof:name":"Parent & Family",
     "wof:parent_id":85835377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-70.420216,43.687999,-70.420216,43.687999],
+  "bbox": [
+    -70.420216,
+    43.687999,
+    -70.420216,
+    43.687999
+],
   "geometry": {"coordinates":[-70.420216,43.687999],"type":"Point"}
 }

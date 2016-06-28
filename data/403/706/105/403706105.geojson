@@ -2,13 +2,14 @@
   "id": 403706105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.079117,44.184751,-69.079117,44.184751",
     "geom:latitude":44.184751,
     "geom:longitude":-69.079117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 West St",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403706105,
-    "wof:lastmodified":1449054729,
+    "wof:lastmodified":1466585672,
     "wof:name":"Rockport Elementary School",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.079117,44.184751,-69.079117,44.184751],
+  "bbox": [
+    -69.079117,
+    44.184751,
+    -69.079117,
+    44.184751
+],
   "geometry": {"coordinates":[-69.079117,44.184751],"type":"Point"}
 }

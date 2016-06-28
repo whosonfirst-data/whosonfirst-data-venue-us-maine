@@ -2,13 +2,14 @@
   "id": 387722035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.214519,44.108779,-70.214519,44.108779",
     "geom:latitude":44.108779,
     "geom:longitude":-70.214519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Summer St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387722035,
-    "wof:lastmodified":1449057436,
+    "wof:lastmodified":1466586887,
     "wof:name":"Auburn Machinery Co",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-70.214519,44.108779,-70.214519,44.108779],
+  "bbox": [
+    -70.214519,
+    44.108779,
+    -70.214519,
+    44.108779
+],
   "geometry": {"coordinates":[-70.214519,44.108779],"type":"Point"}
 }

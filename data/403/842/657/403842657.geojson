@@ -2,13 +2,14 @@
   "id": 403842657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.798709,43.464892,-70.798709,43.464892",
     "geom:latitude":43.464892,
     "geom:longitude":-70.798709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Bradeen St",
     "sg:city":"Springvale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403842657,
-    "wof:lastmodified":1449054731,
+    "wof:lastmodified":1466586694,
     "wof:name":"Business Enterprise Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-70.798709,43.464892,-70.798709,43.464892],
+  "bbox": [
+    -70.798709,
+    43.464892,
+    -70.798709,
+    43.464892
+],
   "geometry": {"coordinates":[-70.798709,43.464892],"type":"Point"}
 }

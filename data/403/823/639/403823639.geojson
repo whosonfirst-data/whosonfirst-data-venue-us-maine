@@ -2,13 +2,14 @@
   "id": 403823639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.39757,43.871366,-70.39757,43.871366",
     "geom:latitude":43.871366,
     "geom:longitude":-70.39757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Skillings Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403823639,
-    "wof:lastmodified":1449055945,
+    "wof:lastmodified":1466586323,
     "wof:name":"Robert A Skilling & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.39757,43.871366,-70.39757,43.871366],
+  "bbox": [
+    -70.39757,
+    43.871366,
+    -70.39757,
+    43.871366
+],
   "geometry": {"coordinates":[-70.39757,43.871366],"type":"Point"}
 }

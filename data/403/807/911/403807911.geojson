@@ -2,13 +2,14 @@
   "id": 403807911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.187563,44.077203,-70.187563,44.077203",
     "geom:latitude":44.077203,
     "geom:longitude":-70.187563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":403807911,
-    "wof:lastmodified":1449054984,
+    "wof:lastmodified":1466586071,
     "wof:name":"Champion Glass Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "replacement"
     ]
 },
-  "bbox": [-70.187563,44.077203,-70.187563,44.077203],
+  "bbox": [
+    -70.187563,
+    44.077203,
+    -70.187563,
+    44.077203
+],
   "geometry": {"coordinates":[-70.187563,44.077203],"type":"Point"}
 }

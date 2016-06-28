@@ -2,13 +2,14 @@
   "id": 387841115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.135215,45.051479,-67.135215,45.051479",
     "geom:latitude":45.051479,
     "geom:longitude":-67.135215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 Ridge Rd",
     "sg:city":"Marshfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387841115,
-    "wof:lastmodified":1449056898,
+    "wof:lastmodified":1466587137,
     "wof:name":"Hanscom Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-67.135215,45.051479,-67.135215,45.051479],
+  "bbox": [
+    -67.135215,
+    45.051479,
+    -67.135215,
+    45.051479
+],
   "geometry": {"coordinates":[-67.135215,45.051479],"type":"Point"}
 }

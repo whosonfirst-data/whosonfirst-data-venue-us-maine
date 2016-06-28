@@ -2,13 +2,14 @@
   "id": 404180813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.564512,43.341014,-70.564512,43.341014",
     "geom:latitude":43.341014,
     "geom:longitude":-70.564512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Laudholm Farm Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404180813,
-    "wof:lastmodified":1449039117,
+    "wof:lastmodified":1466586728,
     "wof:name":"Maplewood Farm Driving Range",
     "wof:parent_id":85817893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "golf"
     ]
 },
-  "bbox": [-70.564512,43.341014,-70.564512,43.341014],
-  "geometry": {"coordinates":[-70.564512,43.341014],"type":"Point"}
+  "bbox": [
+    -70.564512,
+    43.341014,
+    -70.564512,
+    43.341014
+],
+  "geometry": {"coordinates":[-70.56451199999999,43.341014],"type":"Point"}
 }

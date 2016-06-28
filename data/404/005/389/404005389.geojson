@@ -2,13 +2,14 @@
   "id": 404005389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.261357,44.08759,-70.261357,44.08759",
     "geom:latitude":44.08759,
     "geom:longitude":-70.261357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Stevens Mill Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404005389,
-    "wof:lastmodified":1449040239,
+    "wof:lastmodified":1466585767,
     "wof:name":"T H Creations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-70.261357,44.08759,-70.261357,44.08759],
+  "bbox": [
+    -70.261357,
+    44.08759,
+    -70.261357,
+    44.08759
+],
   "geometry": {"coordinates":[-70.261357,44.08759],"type":"Point"}
 }

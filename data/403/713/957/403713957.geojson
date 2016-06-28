@@ -2,13 +2,14 @@
   "id": 403713957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.270554,44.630754,-68.270554,44.630754",
     "geom:latitude":44.630754,
     "geom:longitude":-68.270554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Eastbrook Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403713957,
-    "wof:lastmodified":1449055845,
+    "wof:lastmodified":1466585794,
     "wof:name":"J&A Handyman Service",
     "wof:parent_id":85820603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.270554,44.630754,-68.270554,44.630754],
+  "bbox": [
+    -68.270554,
+    44.630754,
+    -68.270554,
+    44.630754
+],
   "geometry": {"coordinates":[-68.270554,44.630754],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403788245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.187924,44.264961,-70.187924,44.264961",
     "geom:latitude":44.264961,
     "geom:longitude":-70.187924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Back Cove Dr",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403788245,
-    "wof:lastmodified":1449055331,
+    "wof:lastmodified":1466585783,
     "wof:name":"Suzanne's Hairstyles",
     "wof:parent_id":85852835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.187924,44.264961,-70.187924,44.264961],
+  "bbox": [
+    -70.187924,
+    44.264961,
+    -70.187924,
+    44.264961
+],
   "geometry": {"coordinates":[-70.187924,44.264961],"type":"Point"}
 }

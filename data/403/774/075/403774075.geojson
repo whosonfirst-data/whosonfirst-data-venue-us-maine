@@ -2,13 +2,14 @@
   "id": 403774075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.256226,43.669986,-70.256226,43.669986",
     "geom:latitude":43.669986,
     "geom:longitude":-70.256226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Anderson St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403774075,
-    "wof:lastmodified":1449055151,
+    "wof:lastmodified":1466586680,
     "wof:name":"Nappi's Bakery",
     "wof:parent_id":85880023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cookie"
     ]
 },
-  "bbox": [-70.256226,43.669986,-70.256226,43.669986],
+  "bbox": [
+    -70.256226,
+    43.669986,
+    -70.256226,
+    43.669986
+],
   "geometry": {"coordinates":[-70.256226,43.669986],"type":"Point"}
 }

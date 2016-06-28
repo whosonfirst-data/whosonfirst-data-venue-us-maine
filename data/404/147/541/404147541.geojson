@@ -2,13 +2,14 @@
   "id": 404147541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.220267,43.571731,-70.220267,43.571731",
     "geom:latitude":43.571731,
     "geom:longitude":-70.220267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Two Lights Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404147541,
-    "wof:lastmodified":1449040191,
+    "wof:lastmodified":1466586715,
     "wof:name":"New England NAHRO",
     "wof:parent_id":85867971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.220267,43.571731,-70.220267,43.571731],
-  "geometry": {"coordinates":[-70.220267,43.571731],"type":"Point"}
+  "bbox": [
+    -70.220267,
+    43.571731,
+    -70.220267,
+    43.571731
+],
+  "geometry": {"coordinates":[-70.22026700000001,43.571731],"type":"Point"}
 }

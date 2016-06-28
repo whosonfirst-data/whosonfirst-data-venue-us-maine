@@ -2,13 +2,14 @@
   "id": 387747845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.24969,44.103187,-69.24969,44.103187",
     "geom:latitude":44.103187,
     "geom:longitude":-69.24969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1079 Atlantic Hwy",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387747845,
-    "wof:lastmodified":1449056789,
+    "wof:lastmodified":1466586892,
     "wof:name":"Sukee Kennel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sitting"
     ]
 },
-  "bbox": [-69.24969,44.103187,-69.24969,44.103187],
+  "bbox": [
+    -69.24969,
+    44.103187,
+    -69.24969,
+    44.103187
+],
   "geometry": {"coordinates":[-69.24969,44.103187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404063143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.283577,45.188431,-67.283577,45.188431",
     "geom:latitude":45.188431,
     "geom:longitude":-67.283577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 High St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404063143,
-    "wof:lastmodified":1449039126,
+    "wof:lastmodified":1466586489,
     "wof:name":"A & D West Woodworking",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-67.283577,45.188431,-67.283577,45.188431],
-  "geometry": {"coordinates":[-67.283577,45.188431],"type":"Point"}
+  "bbox": [
+    -67.283577,
+    45.188431,
+    -67.283577,
+    45.188431
+],
+  "geometry": {"coordinates":[-67.28357699999999,45.188431],"type":"Point"}
 }

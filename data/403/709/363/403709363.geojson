@@ -2,13 +2,14 @@
   "id": 403709363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.604207,47.247249,-68.604207,47.247249",
     "geom:latitude":47.247249,
     "geom:longitude":-68.604207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Main St",
     "sg:city":"Fort Kent",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403709363,
-    "wof:lastmodified":1449054900,
+    "wof:lastmodified":1466585714,
     "wof:name":"Ft Kent Town Recreation Dept",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-68.604207,47.247249,-68.604207,47.247249],
+  "bbox": [
+    -68.604207,
+    47.247249,
+    -68.604207,
+    47.247249
+],
   "geometry": {"coordinates":[-68.604207,47.247249],"type":"Point"}
 }

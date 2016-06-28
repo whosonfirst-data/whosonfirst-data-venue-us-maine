@@ -2,13 +2,14 @@
   "id": 387846589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.284171,43.669546,-70.284171,43.669546",
     "geom:latitude":43.669546,
     "geom:longitude":-70.284171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Deering Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387846589,
-    "wof:lastmodified":1449059054,
+    "wof:lastmodified":1466587154,
     "wof:name":"Subway Developemnt Of Me",
     "wof:parent_id":85858627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "franchising"
     ]
 },
-  "bbox": [-70.284171,43.669546,-70.284171,43.669546],
+  "bbox": [
+    -70.284171,
+    43.669546,
+    -70.284171,
+    43.669546
+],
   "geometry": {"coordinates":[-70.284171,43.669546],"type":"Point"}
 }

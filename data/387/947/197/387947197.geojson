@@ -2,13 +2,14 @@
   "id": 387947197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.755944,43.097179,-70.755944,43.097179",
     "geom:latitude":43.097179,
     "geom:longitude":-70.755944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Dennett Rd",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387947197,
-    "wof:lastmodified":1449058867,
+    "wof:lastmodified":1466587282,
     "wof:name":"A Dickerson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.755944,43.097179,-70.755944,43.097179],
+  "bbox": [
+    -70.755944,
+    43.097179,
+    -70.755944,
+    43.097179
+],
   "geometry": {"coordinates":[-70.755944,43.097179],"type":"Point"}
 }

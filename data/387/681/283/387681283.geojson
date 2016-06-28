@@ -2,13 +2,14 @@
   "id": 387681283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.897444,43.93429,-70.897444,43.93429",
     "geom:latitude":43.93429,
     "geom:longitude":-70.897444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Lewis Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387681283,
-    "wof:lastmodified":1449058428,
+    "wof:lastmodified":1466586460,
     "wof:name":"Fran Vicario",
     "wof:parent_id":85816061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.897444,43.93429,-70.897444,43.93429],
-  "geometry": {"coordinates":[-70.897444,43.93429],"type":"Point"}
+  "bbox": [
+    -70.897444,
+    43.93429,
+    -70.897444,
+    43.93429
+],
+  "geometry": {"coordinates":[-70.89744399999999,43.93429],"type":"Point"}
 }

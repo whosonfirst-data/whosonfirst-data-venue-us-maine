@@ -2,13 +2,14 @@
   "id": 404160483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.209621,44.108513,-70.209621,44.108513",
     "geom:latitude":44.108513,
     "geom:longitude":-70.209621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"485 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404160483,
-    "wof:lastmodified":1449040124,
+    "wof:lastmodified":1466586760,
     "wof:name":"Skillings Shaw & Assoc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-70.209621,44.108513,-70.209621,44.108513],
+  "bbox": [
+    -70.209621,
+    44.108513,
+    -70.209621,
+    44.108513
+],
   "geometry": {"coordinates":[-70.209621,44.108513],"type":"Point"}
 }

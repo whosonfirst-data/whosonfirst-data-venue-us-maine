@@ -2,13 +2,14 @@
   "id": 387566529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.513079,43.906975,-70.513079,43.906975",
     "geom:latitude":43.906975,
     "geom:longitude":-70.513079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Cape Rd",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387566529,
-    "wof:lastmodified":1449056201,
+    "wof:lastmodified":1466585849,
     "wof:name":"J & L Variety",
     "wof:parent_id":85841571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.513079,43.906975,-70.513079,43.906975],
+  "bbox": [
+    -70.513079,
+    43.906975,
+    -70.513079,
+    43.906975
+],
   "geometry": {"coordinates":[-70.513079,43.906975],"type":"Point"}
 }

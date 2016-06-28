@@ -2,13 +2,14 @@
   "id": 387694985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.009806,44.427054,-69.009806,44.427054",
     "geom:latitude":44.427054,
     "geom:longitude":-69.009806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Church St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387694985,
-    "wof:lastmodified":1449057169,
+    "wof:lastmodified":1466586707,
     "wof:name":"Opera House Video",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-69.009806,44.427054,-69.009806,44.427054],
+  "bbox": [
+    -69.009806,
+    44.427054,
+    -69.009806,
+    44.427054
+],
   "geometry": {"coordinates":[-69.009806,44.427054],"type":"Point"}
 }

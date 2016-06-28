@@ -2,13 +2,14 @@
   "id": 387622709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.257278,43.666404,-70.257278,43.666404",
     "geom:latitude":43.666404,
     "geom:longitude":-70.257278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Diamond St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387622709,
-    "wof:lastmodified":1449059236,
+    "wof:lastmodified":1466585728,
     "wof:name":"Tartan Textiles Inc",
     "wof:parent_id":85880023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "uniform"
     ]
 },
-  "bbox": [-70.257278,43.666404,-70.257278,43.666404],
+  "bbox": [
+    -70.257278,
+    43.666404,
+    -70.257278,
+    43.666404
+],
   "geometry": {"coordinates":[-70.257278,43.666404],"type":"Point"}
 }

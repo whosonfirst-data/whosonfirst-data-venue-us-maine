@@ -2,13 +2,14 @@
   "id": 403753641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.237506,44.620168,-68.237506,44.620168",
     "geom:latitude":44.620168,
     "geom:longitude":-68.237506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Georges Pond Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403753641,
-    "wof:lastmodified":1449054779,
+    "wof:lastmodified":1466586269,
     "wof:name":"Northern Light Dance Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.237506,44.620168,-68.237506,44.620168],
+  "bbox": [
+    -68.237506,
+    44.620168,
+    -68.237506,
+    44.620168
+],
   "geometry": {"coordinates":[-68.237506,44.620168],"type":"Point"}
 }

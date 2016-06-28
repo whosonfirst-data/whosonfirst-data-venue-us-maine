@@ -2,13 +2,14 @@
   "id": 403972435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.26626,43.631513,-70.26626,43.631513",
     "geom:latitude":43.631513,
     "geom:longitude":-70.26626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"854 Broadway",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403972435,
-    "wof:lastmodified":1449055315,
+    "wof:lastmodified":1466587131,
     "wof:name":"Boggs Productions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "datum"
     ]
 },
-  "bbox": [-70.26626,43.631513,-70.26626,43.631513],
+  "bbox": [
+    -70.26626,
+    43.631513,
+    -70.26626,
+    43.631513
+],
   "geometry": {"coordinates":[-70.26626,43.631513],"type":"Point"}
 }

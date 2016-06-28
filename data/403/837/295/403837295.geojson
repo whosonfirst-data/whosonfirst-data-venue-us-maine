@@ -2,13 +2,14 @@
   "id": 403837295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.774611,44.801288,-68.774611,44.801288",
     "geom:latitude":44.801288,
     "geom:longitude":-68.774611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403837295,
-    "wof:lastmodified":1449054835,
+    "wof:lastmodified":1466586552,
     "wof:name":"Maine Home Mortgage",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-68.774611,44.801288,-68.774611,44.801288],
-  "geometry": {"coordinates":[-68.774611,44.801288],"type":"Point"}
+  "bbox": [
+    -68.774611,
+    44.801288,
+    -68.774611,
+    44.801288
+],
+  "geometry": {"coordinates":[-68.77461099999999,44.801288],"type":"Point"}
 }

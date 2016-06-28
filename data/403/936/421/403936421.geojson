@@ -2,13 +2,14 @@
   "id": 403936421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.584782,43.309799,-70.584782,43.309799",
     "geom:latitude":43.309799,
     "geom:longitude":-70.584782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"952 Post Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403936421,
-    "wof:lastmodified":1449055078,
+    "wof:lastmodified":1466587040,
     "wof:name":"RPM Video LLC",
     "wof:parent_id":85810445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.584782,43.309799,-70.584782,43.309799],
+  "bbox": [
+    -70.584782,
+    43.309799,
+    -70.584782,
+    43.309799
+],
   "geometry": {"coordinates":[-70.584782,43.309799],"type":"Point"}
 }

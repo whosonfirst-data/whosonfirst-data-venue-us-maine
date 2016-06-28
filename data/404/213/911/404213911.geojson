@@ -2,13 +2,14 @@
   "id": 404213911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.844949,46.123433,-67.844949,46.123433",
     "geom:latitude":46.123433,
     "geom:longitude":-67.844949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Bangor St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404213911,
-    "wof:lastmodified":1449039100,
+    "wof:lastmodified":1466587058,
     "wof:name":"Daigle Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-67.844949,46.123433,-67.844949,46.123433],
+  "bbox": [
+    -67.844949,
+    46.123433,
+    -67.844949,
+    46.123433
+],
   "geometry": {"coordinates":[-67.844949,46.123433],"type":"Point"}
 }

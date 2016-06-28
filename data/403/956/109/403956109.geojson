@@ -2,13 +2,14 @@
   "id": 403956109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.255876,44.083837,-70.255876,44.083837",
     "geom:latitude":44.083837,
     "geom:longitude":-70.255876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Beck Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403956109,
-    "wof:lastmodified":1449054855,
+    "wof:lastmodified":1466587156,
     "wof:name":"Baskets By Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.255876,44.083837,-70.255876,44.083837],
+  "bbox": [
+    -70.255876,
+    44.083837,
+    -70.255876,
+    44.083837
+],
   "geometry": {"coordinates":[-70.255876,44.083837],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387846957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.940134,46.901055,-67.940134,46.901055",
     "geom:latitude":46.901055,
     "geom:longitude":-67.940134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"747 Access Hwy",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387846957,
-    "wof:lastmodified":1449059053,
+    "wof:lastmodified":1466587223,
     "wof:name":"Pennys Cut & Curl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-67.940134,46.901055,-67.940134,46.901055],
+  "bbox": [
+    -67.940134,
+    46.901055,
+    -67.940134,
+    46.901055
+],
   "geometry": {"coordinates":[-67.940134,46.901055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387612097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.437586,44.034599,-70.437586,44.034599",
     "geom:latitude":44.034599,
     "geom:longitude":-70.437586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"588 N Raymond Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387612097,
-    "wof:lastmodified":1449057789,
+    "wof:lastmodified":1466586530,
     "wof:name":"Mikes Repair Shop",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engine"
     ]
 },
-  "bbox": [-70.437586,44.034599,-70.437586,44.034599],
+  "bbox": [
+    -70.437586,
+    44.034599,
+    -70.437586,
+    44.034599
+],
   "geometry": {"coordinates":[-70.437586,44.034599],"type":"Point"}
 }

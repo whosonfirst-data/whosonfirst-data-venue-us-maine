@@ -2,13 +2,14 @@
   "id": 404059895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.290768,43.657599,-70.290768,43.657599",
     "geom:latitude":43.657599,
     "geom:longitude":-70.290768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Sewall St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404059895,
-    "wof:lastmodified":1449039353,
+    "wof:lastmodified":1466586446,
     "wof:name":"Orthopedic Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.290768,43.657599,-70.290768,43.657599],
+  "bbox": [
+    -70.290768,
+    43.657599,
+    -70.290768,
+    43.657599
+],
   "geometry": {"coordinates":[-70.290768,43.657599],"type":"Point"}
 }

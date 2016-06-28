@@ -2,13 +2,14 @@
   "id": 387850157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.273302,43.77295,-70.273302,43.77295",
     "geom:latitude":43.77295,
     "geom:longitude":-70.273302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Inverness Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387850157,
-    "wof:lastmodified":1449058308,
+    "wof:lastmodified":1466587064,
     "wof:name":"Rupert A Edwards & Builders",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.273302,43.77295,-70.273302,43.77295],
+  "bbox": [
+    -70.273302,
+    43.77295,
+    -70.273302,
+    43.77295
+],
   "geometry": {"coordinates":[-70.273302,43.77295],"type":"Point"}
 }

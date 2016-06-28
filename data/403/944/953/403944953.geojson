@@ -2,13 +2,14 @@
   "id": 403944953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.753527,44.78532,-68.753527,44.78532",
     "geom:latitude":44.78532,
     "geom:longitude":-68.753527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"366 Wilson St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403944953,
-    "wof:lastmodified":1449055307,
+    "wof:lastmodified":1466587071,
     "wof:name":"Merrill Merchants Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.753527,44.78532,-68.753527,44.78532],
-  "geometry": {"coordinates":[-68.753527,44.78532],"type":"Point"}
+  "bbox": [
+    -68.753527,
+    44.78532,
+    -68.753527,
+    44.78532
+],
+  "geometry": {"coordinates":[-68.75352700000001,44.78532],"type":"Point"}
 }

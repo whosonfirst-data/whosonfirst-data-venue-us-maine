@@ -2,13 +2,14 @@
   "id": 387729483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.292148,45.16898,-67.292148,45.16898",
     "geom:latitude":45.16898,
     "geom:longitude":-67.292148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 North St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387729483,
-    "wof:lastmodified":1449058024,
+    "wof:lastmodified":1466586917,
     "wof:name":"Calais City Public Works",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-67.292148,45.16898,-67.292148,45.16898],
+  "bbox": [
+    -67.292148,
+    45.16898,
+    -67.292148,
+    45.16898
+],
   "geometry": {"coordinates":[-67.292148,45.16898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404162101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.862212,43.279821,-70.862212,43.279821",
     "geom:latitude":43.279821,
     "geom:longitude":-70.862212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Bromo Rd",
     "sg:city":"Berwick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404162101,
-    "wof:lastmodified":1449040138,
+    "wof:lastmodified":1466586765,
     "wof:name":"Morrill Excavating",
     "wof:parent_id":85892311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.862212,43.279821,-70.862212,43.279821],
+  "bbox": [
+    -70.862212,
+    43.279821,
+    -70.862212,
+    43.279821
+],
   "geometry": {"coordinates":[-70.862212,43.279821],"type":"Point"}
 }

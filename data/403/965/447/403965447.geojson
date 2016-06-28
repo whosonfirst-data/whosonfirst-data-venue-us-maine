@@ -2,13 +2,14 @@
   "id": 403965447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.14266,44.353578,-70.14266,44.353578",
     "geom:latitude":44.353578,
     "geom:longitude":-70.14266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 State Rte 106",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403965447,
-    "wof:lastmodified":1449055541,
+    "wof:lastmodified":1466587036,
     "wof:name":"North Leeds Building Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.14266,44.353578,-70.14266,44.353578],
-  "geometry": {"coordinates":[-70.14266,44.353578],"type":"Point"}
+  "bbox": [
+    -70.14266,
+    44.353578,
+    -70.14266,
+    44.353578
+],
+  "geometry": {"coordinates":[-70.14266000000001,44.353578],"type":"Point"}
 }

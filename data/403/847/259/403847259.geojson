@@ -2,13 +2,14 @@
   "id": 403847259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.988474,44.951729,-68.988474,44.951729",
     "geom:latitude":44.951729,
     "geom:longitude":-68.988474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"648 Black Rd",
     "sg:city":"Beaver Cove",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403847259,
-    "wof:lastmodified":1449055113,
+    "wof:lastmodified":1466586643,
     "wof:name":"Beaver Cove Camps Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cabin"
     ]
 },
-  "bbox": [-68.988474,44.951729,-68.988474,44.951729],
+  "bbox": [
+    -68.988474,
+    44.951729,
+    -68.988474,
+    44.951729
+],
   "geometry": {"coordinates":[-68.988474,44.951729],"type":"Point"}
 }

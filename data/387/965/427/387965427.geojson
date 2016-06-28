@@ -2,13 +2,14 @@
   "id": 387965427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.330294,44.964971,-69.330294,44.964971",
     "geom:latitude":44.964971,
     "geom:longitude":-69.330294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 Dexter Rd",
     "sg:city":"Corinna",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387965427,
-    "wof:lastmodified":1449058767,
+    "wof:lastmodified":1466587347,
     "wof:name":"Gudroe's Towing",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automotive"
     ]
 },
-  "bbox": [-69.330294,44.964971,-69.330294,44.964971],
-  "geometry": {"coordinates":[-69.330294,44.964971],"type":"Point"}
+  "bbox": [
+    -69.330294,
+    44.964971,
+    -69.330294,
+    44.964971
+],
+  "geometry": {"coordinates":[-69.33029399999999,44.964971],"type":"Point"}
 }

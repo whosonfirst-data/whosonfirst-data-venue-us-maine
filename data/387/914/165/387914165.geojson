@@ -2,13 +2,14 @@
   "id": 387914165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.448687,43.8488,-70.448687,43.8488",
     "geom:latitude":43.8488,
     "geom:longitude":-70.448687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Roosevelt Trl",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387914165,
-    "wof:lastmodified":1449057561,
+    "wof:lastmodified":1466587322,
     "wof:name":"Causeway Family Fitness",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-70.448687,43.8488,-70.448687,43.8488],
-  "geometry": {"coordinates":[-70.448687,43.8488],"type":"Point"}
+  "bbox": [
+    -70.448687,
+    43.8488,
+    -70.448687,
+    43.8488
+],
+  "geometry": {"coordinates":[-70.44868700000001,43.8488],"type":"Point"}
 }

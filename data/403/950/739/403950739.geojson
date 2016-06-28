@@ -2,13 +2,14 @@
   "id": 403950739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.51827,44.185624,-70.51827,44.185624",
     "geom:latitude":44.185624,
     "geom:longitude":-70.51827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1451 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403950739,
-    "wof:lastmodified":1449055157,
+    "wof:lastmodified":1466587068,
     "wof:name":"KALL Us Antiques",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-70.51827,44.185624,-70.51827,44.185624],
+  "bbox": [
+    -70.51827,
+    44.185624,
+    -70.51827,
+    44.185624
+],
   "geometry": {"coordinates":[-70.51827,44.185624],"type":"Point"}
 }

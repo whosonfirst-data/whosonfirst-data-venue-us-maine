@@ -2,13 +2,14 @@
   "id": 403813019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.715623,44.762718,-69.715623,44.762718",
     "geom:latitude":44.762718,
     "geom:longitude":-69.715623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Waterville Rd",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403813019,
-    "wof:lastmodified":1449054986,
+    "wof:lastmodified":1466586669,
     "wof:name":"Maine On Site Drapery Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-69.715623,44.762718,-69.715623,44.762718],
-  "geometry": {"coordinates":[-69.715623,44.762718],"type":"Point"}
+  "bbox": [
+    -69.715623,
+    44.762718,
+    -69.715623,
+    44.762718
+],
+  "geometry": {"coordinates":[-69.71562299999999,44.762718],"type":"Point"}
 }

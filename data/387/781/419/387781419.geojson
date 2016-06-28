@@ -2,13 +2,14 @@
   "id": 387781419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.229161,44.094225,-70.229161,44.094225",
     "geom:latitude":44.094225,
     "geom:longitude":-70.229161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Pleasant St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387781419,
-    "wof:lastmodified":1449056817,
+    "wof:lastmodified":1466587091,
     "wof:name":"First Universalist Church",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.229161,44.094225,-70.229161,44.094225],
+  "bbox": [
+    -70.229161,
+    44.094225,
+    -70.229161,
+    44.094225
+],
   "geometry": {"coordinates":[-70.229161,44.094225],"type":"Point"}
 }

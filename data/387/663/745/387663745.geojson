@@ -2,13 +2,14 @@
   "id": 387663745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.645986,44.550104,-69.645986,44.550104",
     "geom:latitude":44.550104,
     "geom:longitude":-69.645986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Western Ave",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387663745,
-    "wof:lastmodified":1449058908,
+    "wof:lastmodified":1466586182,
     "wof:name":"Mark S Keirstead",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-69.645986,44.550104,-69.645986,44.550104],
-  "geometry": {"coordinates":[-69.645986,44.550104],"type":"Point"}
+  "bbox": [
+    -69.645986,
+    44.550104,
+    -69.645986,
+    44.550104
+],
+  "geometry": {"coordinates":[-69.64598599999999,44.550104],"type":"Point"}
 }

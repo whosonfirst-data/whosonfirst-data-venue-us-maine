@@ -2,13 +2,14 @@
   "id": 387681907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.29029,43.877691,-70.29029,43.877691",
     "geom:latitude":43.877691,
     "geom:longitude":-70.29029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"277 Yarmouth Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387681907,
-    "wof:lastmodified":1449058431,
+    "wof:lastmodified":1466586469,
     "wof:name":"Homeward Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "design"
     ]
 },
-  "bbox": [-70.29029,43.877691,-70.29029,43.877691],
+  "bbox": [
+    -70.29029,
+    43.877691,
+    -70.29029,
+    43.877691
+],
   "geometry": {"coordinates":[-70.29029,43.877691],"type":"Point"}
 }

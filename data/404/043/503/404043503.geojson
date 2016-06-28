@@ -2,13 +2,14 @@
   "id": 404043503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.774016,44.805251,-68.774016,44.805251",
     "geom:latitude":44.805251,
     "geom:longitude":-68.774016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"352 Harlow St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404043503,
-    "wof:lastmodified":1449040006,
+    "wof:lastmodified":1466586150,
     "wof:name":"Bangor Veterans Ctr",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "government"
     ]
 },
-  "bbox": [-68.774016,44.805251,-68.774016,44.805251],
+  "bbox": [
+    -68.774016,
+    44.805251,
+    -68.774016,
+    44.805251
+],
   "geometry": {"coordinates":[-68.774016,44.805251],"type":"Point"}
 }

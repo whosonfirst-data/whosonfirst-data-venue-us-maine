@@ -2,13 +2,14 @@
   "id": 387601025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.684722,44.915732,-68.684722,44.915732",
     "geom:latitude":44.915732,
     "geom:longitude":-68.684722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"627 College Ave",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387601025,
-    "wof:lastmodified":1449057807,
+    "wof:lastmodified":1466586677,
     "wof:name":"Car Wash",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-68.684722,44.915732,-68.684722,44.915732],
-  "geometry": {"coordinates":[-68.684722,44.915732],"type":"Point"}
+  "bbox": [
+    -68.684722,
+    44.915732,
+    -68.684722,
+    44.915732
+],
+  "geometry": {"coordinates":[-68.68472199999999,44.915732],"type":"Point"}
 }

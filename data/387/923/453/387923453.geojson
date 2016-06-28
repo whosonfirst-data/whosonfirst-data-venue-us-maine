@@ -2,13 +2,14 @@
   "id": 387923453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.271832,43.703028,-70.271832,43.703028",
     "geom:latitude":43.703028,
     "geom:longitude":-70.271832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Charlotte Dr",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387923453,
-    "wof:lastmodified":1449059789,
+    "wof:lastmodified":1466587329,
     "wof:name":"Maine Cedar Log Homes",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.271832,43.703028,-70.271832,43.703028],
+  "bbox": [
+    -70.271832,
+    43.703028,
+    -70.271832,
+    43.703028
+],
   "geometry": {"coordinates":[-70.271832,43.703028],"type":"Point"}
 }

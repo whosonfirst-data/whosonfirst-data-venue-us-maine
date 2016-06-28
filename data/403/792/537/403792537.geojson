@@ -2,13 +2,14 @@
   "id": 403792537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.218164,44.089587,-70.218164,44.089587",
     "geom:latitude":44.089587,
     "geom:longitude":-70.218164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Oxford St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403792537,
-    "wof:lastmodified":1449054926,
+    "wof:lastmodified":1466586640,
     "wof:name":"Kellie's Kid Care",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.218164,44.089587,-70.218164,44.089587],
+  "bbox": [
+    -70.218164,
+    44.089587,
+    -70.218164,
+    44.089587
+],
   "geometry": {"coordinates":[-70.218164,44.089587],"type":"Point"}
 }

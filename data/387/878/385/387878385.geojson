@@ -2,13 +2,14 @@
   "id": 387878385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.762861,44.326872,-69.762861,44.326872",
     "geom:latitude":44.326872,
     "geom:longitude":-69.762861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Bangor St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387878385,
-    "wof:lastmodified":1449058097,
+    "wof:lastmodified":1466587212,
     "wof:name":"WMDR",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-69.762861,44.326872,-69.762861,44.326872],
+  "bbox": [
+    -69.762861,
+    44.326872,
+    -69.762861,
+    44.326872
+],
   "geometry": {"coordinates":[-69.762861,44.326872],"type":"Point"}
 }

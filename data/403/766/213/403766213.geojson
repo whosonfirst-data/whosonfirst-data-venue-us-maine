@@ -2,13 +2,14 @@
   "id": 403766213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.013262,44.429632,-69.013262,44.429632",
     "geom:latitude":44.429632,
     "geom:longitude":-69.013262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 High St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403766213,
-    "wof:lastmodified":1449054611,
+    "wof:lastmodified":1466586476,
     "wof:name":"Belfast Cooperative",
     "wof:parent_id":85808235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-69.013262,44.429632,-69.013262,44.429632],
+  "bbox": [
+    -69.013262,
+    44.429632,
+    -69.013262,
+    44.429632
+],
   "geometry": {"coordinates":[-69.013262,44.429632],"type":"Point"}
 }

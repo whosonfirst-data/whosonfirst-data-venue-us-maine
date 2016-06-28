@@ -2,13 +2,14 @@
   "id": 404021661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.941658,44.368361,-69.941658,44.368361",
     "geom:latitude":44.368361,
     "geom:longitude":-69.941658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 South Rd",
     "sg:city":"Readfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404021661,
-    "wof:lastmodified":1449039880,
+    "wof:lastmodified":1466585906,
     "wof:name":"David H Barker Builder Inc",
     "wof:parent_id":85838159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-69.941658,44.368361,-69.941658,44.368361],
+  "bbox": [
+    -69.941658,
+    44.368361,
+    -69.941658,
+    44.368361
+],
   "geometry": {"coordinates":[-69.941658,44.368361],"type":"Point"}
 }

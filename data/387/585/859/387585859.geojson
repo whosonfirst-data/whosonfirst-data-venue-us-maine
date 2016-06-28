@@ -2,13 +2,14 @@
   "id": 387585859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.040606,46.697566,-68.040606,46.697566",
     "geom:latitude":46.697566,
     "geom:longitude":-68.040606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Cross St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387585859,
-    "wof:lastmodified":1449058642,
+    "wof:lastmodified":1466586095,
     "wof:name":"Central Aroostook Humane Scty",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelter"
     ]
 },
-  "bbox": [-68.040606,46.697566,-68.040606,46.697566],
+  "bbox": [
+    -68.040606,
+    46.697566,
+    -68.040606,
+    46.697566
+],
   "geometry": {"coordinates":[-68.040606,46.697566],"type":"Point"}
 }

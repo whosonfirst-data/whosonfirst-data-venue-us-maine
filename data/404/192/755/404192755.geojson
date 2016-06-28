@@ -2,13 +2,14 @@
   "id": 404192755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.280836,45.188877,-67.280836,45.188877",
     "geom:latitude":45.188877,
     "geom:longitude":-67.280836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Main St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404192755,
-    "wof:lastmodified":1449039978,
+    "wof:lastmodified":1466586893,
     "wof:name":"Laidlaw Transit Inc",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-67.280836,45.188877,-67.280836,45.188877],
-  "geometry": {"coordinates":[-67.280836,45.188877],"type":"Point"}
+  "bbox": [
+    -67.280836,
+    45.188877,
+    -67.280836,
+    45.188877
+],
+  "geometry": {"coordinates":[-67.28083599999999,45.188877],"type":"Point"}
 }

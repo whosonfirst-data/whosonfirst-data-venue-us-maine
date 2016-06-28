@@ -2,13 +2,14 @@
   "id": 387861911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.458652,44.380731,-69.458652,44.380731",
     "geom:latitude":44.380731,
     "geom:longitude":-69.458652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"381 Jones Rd",
     "sg:city":"Palermo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387861911,
-    "wof:lastmodified":1449059897,
+    "wof:lastmodified":1466587188,
     "wof:name":"Palermo Carbide Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.458652,44.380731,-69.458652,44.380731],
+  "bbox": [
+    -69.458652,
+    44.380731,
+    -69.458652,
+    44.380731
+],
   "geometry": {"coordinates":[-69.458652,44.380731],"type":"Point"}
 }

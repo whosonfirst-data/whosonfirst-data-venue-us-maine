@@ -2,13 +2,14 @@
   "id": 387841181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.002519,46.872138,-68.002519,46.872138",
     "geom:latitude":46.872138,
     "geom:longitude":-68.002519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Skyway Dr",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387841181,
-    "wof:lastmodified":1449056899,
+    "wof:lastmodified":1466587138,
     "wof:name":"Pierre's School Of Cosmetology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institute"
     ]
 },
-  "bbox": [-68.002519,46.872138,-68.002519,46.872138],
-  "geometry": {"coordinates":[-68.002519,46.872138],"type":"Point"}
+  "bbox": [
+    -68.002519,
+    46.872138,
+    -68.002519,
+    46.872138
+],
+  "geometry": {"coordinates":[-68.00251900000001,46.872138],"type":"Point"}
 }

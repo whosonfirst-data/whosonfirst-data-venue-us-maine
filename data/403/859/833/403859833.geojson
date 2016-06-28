@@ -2,13 +2,14 @@
   "id": 403859833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.539164,43.386548,-70.539164,43.386548",
     "geom:latitude":43.386548,
     "geom:longitude":-70.539164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Main St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403859833,
-    "wof:lastmodified":1449055559,
+    "wof:lastmodified":1466586755,
     "wof:name":"Kennebunk Savings Bank",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.539164,43.386548,-70.539164,43.386548],
+  "bbox": [
+    -70.539164,
+    43.386548,
+    -70.539164,
+    43.386548
+],
   "geometry": {"coordinates":[-70.539164,43.386548],"type":"Point"}
 }

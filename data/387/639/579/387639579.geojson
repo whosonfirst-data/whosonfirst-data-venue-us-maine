@@ -2,13 +2,14 @@
   "id": 387639579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.796033,44.767403,-68.796033,44.767403",
     "geom:latitude":44.767403,
     "geom:longitude":-68.796033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Marina Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387639579,
-    "wof:lastmodified":1449059902,
+    "wof:lastmodified":1466585867,
     "wof:name":"K & R Marine Ind Sales & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.796033,44.767403,-68.796033,44.767403],
-  "geometry": {"coordinates":[-68.796033,44.767403],"type":"Point"}
+  "bbox": [
+    -68.796033,
+    44.767403,
+    -68.796033,
+    44.767403
+],
+  "geometry": {"coordinates":[-68.79603299999999,44.767403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387654787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.201567,43.74501,-70.201567,43.74501",
     "geom:latitude":43.74501,
     "geom:longitude":-70.201567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Foreside Rd",
     "sg:city":"Cumberland Frsd",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387654787,
-    "wof:lastmodified":1449057374,
+    "wof:lastmodified":1466586041,
     "wof:name":"Realty Resources Chartered",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.201567,43.74501,-70.201567,43.74501],
+  "bbox": [
+    -70.201567,
+    43.74501,
+    -70.201567,
+    43.74501
+],
   "geometry": {"coordinates":[-70.201567,43.74501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387618351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.251406,43.656681,-70.251406,43.656681",
     "geom:latitude":43.656681,
     "geom:longitude":-70.251406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Commercial St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387618351,
-    "wof:lastmodified":1449058475,
+    "wof:lastmodified":1466586619,
     "wof:name":"Divihn NE",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "technology"
     ]
 },
-  "bbox": [-70.251406,43.656681,-70.251406,43.656681],
+  "bbox": [
+    -70.251406,
+    43.656681,
+    -70.251406,
+    43.656681
+],
   "geometry": {"coordinates":[-70.251406,43.656681],"type":"Point"}
 }

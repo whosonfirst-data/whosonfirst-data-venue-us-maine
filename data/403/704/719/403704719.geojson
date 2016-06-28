@@ -2,13 +2,14 @@
   "id": 403704719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.315665,43.673409,-70.315665,43.673409",
     "geom:latitude":43.673409,
     "geom:longitude":-70.315665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"888 Brighton Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403704719,
-    "wof:lastmodified":1449054987,
+    "wof:lastmodified":1466586300,
     "wof:name":"Susan R Russett-Collet DDS",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-70.315665,43.673409,-70.315665,43.673409],
+  "bbox": [
+    -70.315665,
+    43.673409,
+    -70.315665,
+    43.673409
+],
   "geometry": {"coordinates":[-70.315665,43.673409],"type":"Point"}
 }

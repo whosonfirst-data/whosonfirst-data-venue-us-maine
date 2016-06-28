@@ -2,13 +2,14 @@
   "id": 387916745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.728162,44.330062,-69.728162,44.330062",
     "geom:latitude":44.330062,
     "geom:longitude":-69.728162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 N Belfast Ave",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387916745,
-    "wof:lastmodified":1449058197,
+    "wof:lastmodified":1466587325,
     "wof:name":"Farrin Power Sports",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motor"
     ]
 },
-  "bbox": [-69.728162,44.330062,-69.728162,44.330062],
+  "bbox": [
+    -69.728162,
+    44.330062,
+    -69.728162,
+    44.330062
+],
   "geometry": {"coordinates":[-69.728162,44.330062],"type":"Point"}
 }

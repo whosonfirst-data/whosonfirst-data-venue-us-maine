@@ -2,13 +2,14 @@
   "id": 387799303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.280753,43.665005,-70.280753,43.665005",
     "geom:latitude":43.665005,
     "geom:longitude":-70.280753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Dartmouth St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387799303,
-    "wof:lastmodified":1449059936,
+    "wof:lastmodified":1466586940,
     "wof:name":"Steven De Bree Assoc",
     "wof:parent_id":85838871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-70.280753,43.665005,-70.280753,43.665005],
+  "bbox": [
+    -70.280753,
+    43.665005,
+    -70.280753,
+    43.665005
+],
   "geometry": {"coordinates":[-70.280753,43.665005],"type":"Point"}
 }

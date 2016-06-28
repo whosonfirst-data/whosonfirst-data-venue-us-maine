@@ -2,13 +2,14 @@
   "id": 387616055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.790298,44.718586,-69.790298,44.718586",
     "geom:latitude":44.718586,
     "geom:longitude":-69.790298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 River Rd",
     "sg:city":"Norridgewock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387616055,
-    "wof:lastmodified":1449058902,
+    "wof:lastmodified":1466585669,
     "wof:name":"Chriss Boston North",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-69.790298,44.718586,-69.790298,44.718586],
-  "geometry": {"coordinates":[-69.790298,44.718586],"type":"Point"}
+  "bbox": [
+    -69.790298,
+    44.718586,
+    -69.790298,
+    44.718586
+],
+  "geometry": {"coordinates":[-69.79029800000001,44.718586],"type":"Point"}
 }

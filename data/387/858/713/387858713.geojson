@@ -2,13 +2,14 @@
   "id": 387858713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.774647,44.313807,-69.774647,44.313807",
     "geom:latitude":44.313807,
     "geom:longitude":-69.774647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Water St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387858713,
-    "wof:lastmodified":1449056486,
+    "wof:lastmodified":1466587178,
     "wof:name":"Capital Kids/Augusta Community",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.774647,44.313807,-69.774647,44.313807],
+  "bbox": [
+    -69.774647,
+    44.313807,
+    -69.774647,
+    44.313807
+],
   "geometry": {"coordinates":[-69.774647,44.313807],"type":"Point"}
 }

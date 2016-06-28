@@ -2,13 +2,14 @@
   "id": 404126221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.262891,44.955447,-67.262891,44.955447",
     "geom:latitude":44.955447,
     "geom:longitude":-67.262891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"247 Smith Ridge Rd",
     "sg:city":"Dennysville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404126221,
-    "wof:lastmodified":1449039475,
+    "wof:lastmodified":1466586392,
     "wof:name":"A Country Rose",
     "wof:parent_id":85838129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.262891,44.955447,-67.262891,44.955447],
+  "bbox": [
+    -67.262891,
+    44.955447,
+    -67.262891,
+    44.955447
+],
   "geometry": {"coordinates":[-67.262891,44.955447],"type":"Point"}
 }

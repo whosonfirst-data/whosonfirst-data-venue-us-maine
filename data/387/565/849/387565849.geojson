@@ -2,13 +2,14 @@
   "id": 387565849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.981803,45.252103,-68.981803,45.252103",
     "geom:latitude":45.252103,
     "geom:longitude":-68.981803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 High St",
     "sg:city":"Milo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387565849,
-    "wof:lastmodified":1449059579,
+    "wof:lastmodified":1466585839,
     "wof:name":"Ellen Dewitt Real Est Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.981803,45.252103,-68.981803,45.252103],
+  "bbox": [
+    -68.981803,
+    45.252103,
+    -68.981803,
+    45.252103
+],
   "geometry": {"coordinates":[-68.981803,45.252103],"type":"Point"}
 }

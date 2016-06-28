@@ -2,13 +2,14 @@
   "id": 403754753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.783257,43.253378,-70.783257,43.253378",
     "geom:latitude":43.253378,
     "geom:longitude":-70.783257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Pond Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403754753,
-    "wof:lastmodified":1449055486,
+    "wof:lastmodified":1466586314,
     "wof:name":"Anthony Moore Painting Co",
     "wof:parent_id":85802477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.783257,43.253378,-70.783257,43.253378],
-  "geometry": {"coordinates":[-70.783257,43.253378],"type":"Point"}
+  "bbox": [
+    -70.783257,
+    43.253378,
+    -70.783257,
+    43.253378
+],
+  "geometry": {"coordinates":[-70.78325700000001,43.253378],"type":"Point"}
 }

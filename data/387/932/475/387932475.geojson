@@ -2,13 +2,14 @@
   "id": 387932475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.481357,44.020924,-70.481357,44.020924",
     "geom:latitude":44.020924,
     "geom:longitude":-70.481357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Trail Rd",
     "sg:city":"Casco",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387932475,
-    "wof:lastmodified":1449057517,
+    "wof:lastmodified":1466587332,
     "wof:name":"Hancock Lumber Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.481357,44.020924,-70.481357,44.020924],
+  "bbox": [
+    -70.481357,
+    44.020924,
+    -70.481357,
+    44.020924
+],
   "geometry": {"coordinates":[-70.481357,44.020924],"type":"Point"}
 }

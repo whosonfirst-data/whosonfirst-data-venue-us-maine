@@ -2,13 +2,14 @@
   "id": 387561711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.666295,43.13228,-70.666295,43.13228",
     "geom:latitude":43.13228,
     "geom:longitude":-70.666295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"394 Southside Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387561711,
-    "wof:lastmodified":1449058808,
+    "wof:lastmodified":1466585791,
     "wof:name":"Elizabeth Perkins House",
     "wof:parent_id":85847555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.666295,43.13228,-70.666295,43.13228],
-  "geometry": {"coordinates":[-70.666295,43.13228],"type":"Point"}
+  "bbox": [
+    -70.666295,
+    43.13228,
+    -70.666295,
+    43.13228
+],
+  "geometry": {"coordinates":[-70.66629500000001,43.13228],"type":"Point"}
 }

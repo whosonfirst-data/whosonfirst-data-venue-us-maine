@@ -2,13 +2,14 @@
   "id": 387689119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.334319,43.591092,-70.334319,43.591092",
     "geom:latitude":43.591092,
     "geom:longitude":-70.334319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Oak Hill Ter",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387689119,
-    "wof:lastmodified":1449059283,
+    "wof:lastmodified":1466586592,
     "wof:name":"Joe Nappi's Professional Floor",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-70.334319,43.591092,-70.334319,43.591092],
-  "geometry": {"coordinates":[-70.334319,43.591092],"type":"Point"}
+  "bbox": [
+    -70.334319,
+    43.591092,
+    -70.334319,
+    43.591092
+],
+  "geometry": {"coordinates":[-70.33431899999999,43.591092],"type":"Point"}
 }

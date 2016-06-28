@@ -2,13 +2,14 @@
   "id": 403862369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242092,44.100219,-70.242092,44.100219",
     "geom:latitude":44.100219,
     "geom:longitude":-70.242092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Granite St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403862369,
-    "wof:lastmodified":1449056016,
+    "wof:lastmodified":1466586754,
     "wof:name":"Lynda Goodman Laboratories",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-70.242092,44.100219,-70.242092,44.100219],
+  "bbox": [
+    -70.242092,
+    44.100219,
+    -70.242092,
+    44.100219
+],
   "geometry": {"coordinates":[-70.242092,44.100219],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403770867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.288738,43.585249,-70.288738,43.585249",
     "geom:latitude":43.585249,
     "geom:longitude":-70.288738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Williamsburg Ln",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403770867,
-    "wof:lastmodified":1449055997,
+    "wof:lastmodified":1466586545,
     "wof:name":"Journal",
     "wof:parent_id":85842219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-70.288738,43.585249,-70.288738,43.585249],
+  "bbox": [
+    -70.288738,
+    43.585249,
+    -70.288738,
+    43.585249
+],
   "geometry": {"coordinates":[-70.288738,43.585249],"type":"Point"}
 }

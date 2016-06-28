@@ -2,13 +2,14 @@
   "id": 403702289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.302267,43.667303,-70.302267,43.667303",
     "geom:latitude":43.667303,
     "geom:longitude":-70.302267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Fleetwood St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403702289,
-    "wof:lastmodified":1449055303,
+    "wof:lastmodified":1466585683,
     "wof:name":"East Coast Sign Co",
     "wof:parent_id":85846029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "banner"
     ]
 },
-  "bbox": [-70.302267,43.667303,-70.302267,43.667303],
+  "bbox": [
+    -70.302267,
+    43.667303,
+    -70.302267,
+    43.667303
+],
   "geometry": {"coordinates":[-70.302267,43.667303],"type":"Point"}
 }

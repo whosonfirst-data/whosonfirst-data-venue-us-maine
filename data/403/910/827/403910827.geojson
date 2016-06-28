@@ -2,13 +2,14 @@
   "id": 403910827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.460519,44.712954,-67.460519,44.712954",
     "geom:latitude":44.712954,
     "geom:longitude":-67.460519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Water St",
     "sg:city":"Blue Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403910827,
-    "wof:lastmodified":1449055180,
+    "wof:lastmodified":1466587047,
     "wof:name":"Blue Hill Peninsula Chamber",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commerce"
     ]
 },
-  "bbox": [-67.460519,44.712954,-67.460519,44.712954],
-  "geometry": {"coordinates":[-67.460519,44.712954],"type":"Point"}
+  "bbox": [
+    -67.460519,
+    44.712954,
+    -67.460519,
+    44.712954
+],
+  "geometry": {"coordinates":[-67.46051900000001,44.712954],"type":"Point"}
 }

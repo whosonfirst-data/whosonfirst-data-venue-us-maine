@@ -2,13 +2,14 @@
   "id": 403853581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.498226,45.087677,-67.498226,45.087677",
     "geom:latitude":45.087677,
     "geom:longitude":-67.498226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 Airline Rd",
     "sg:city":"Baileyville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403853581,
-    "wof:lastmodified":1449055167,
+    "wof:lastmodified":1466586726,
     "wof:name":"Alexander Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.498226,45.087677,-67.498226,45.087677],
+  "bbox": [
+    -67.498226,
+    45.087677,
+    -67.498226,
+    45.087677
+],
   "geometry": {"coordinates":[-67.498226,45.087677],"type":"Point"}
 }

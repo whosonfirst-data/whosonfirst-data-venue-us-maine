@@ -2,13 +2,14 @@
   "id": 387838373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.828821,44.757547,-68.828821,44.757547",
     "geom:latitude":44.757547,
     "geom:longitude":-68.828821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Daisy Ln",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387838373,
-    "wof:lastmodified":1449056571,
+    "wof:lastmodified":1466587216,
     "wof:name":"Burditt Fund Raising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-68.828821,44.757547,-68.828821,44.757547],
+  "bbox": [
+    -68.828821,
+    44.757547,
+    -68.828821,
+    44.757547
+],
   "geometry": {"coordinates":[-68.828821,44.757547],"type":"Point"}
 }

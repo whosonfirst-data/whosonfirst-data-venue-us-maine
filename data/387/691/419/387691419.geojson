@@ -2,13 +2,14 @@
   "id": 387691419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.324111,43.696235,-70.324111,43.696235",
     "geom:latitude":43.696235,
     "geom:longitude":-70.324111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"565 Riverside St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387691419,
-    "wof:lastmodified":1449056425,
+    "wof:lastmodified":1466586688,
     "wof:name":"New England Kitchens & Bath",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-70.324111,43.696235,-70.324111,43.696235],
+  "bbox": [
+    -70.324111,
+    43.696235,
+    -70.324111,
+    43.696235
+],
   "geometry": {"coordinates":[-70.324111,43.696235],"type":"Point"}
 }

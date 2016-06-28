@@ -2,13 +2,14 @@
   "id": 387629303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.692314,45.657441,-68.692314,45.657441",
     "geom:latitude":45.657441,
     "geom:longitude":-68.692314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"749 Central St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387629303,
-    "wof:lastmodified":1449059017,
+    "wof:lastmodified":1466585790,
     "wof:name":"Katahdin Gateway Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.692314,45.657441,-68.692314,45.657441],
+  "bbox": [
+    -68.692314,
+    45.657441,
+    -68.692314,
+    45.657441
+],
   "geometry": {"coordinates":[-68.692314,45.657441],"type":"Point"}
 }

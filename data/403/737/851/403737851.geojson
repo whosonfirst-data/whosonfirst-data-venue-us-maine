@@ -2,13 +2,14 @@
   "id": 403737851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.541995,44.556714,-70.541995,44.556714",
     "geom:latitude":44.556714,
     "geom:longitude":-70.541995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Main St",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":403737851,
-    "wof:lastmodified":1449054950,
+    "wof:lastmodified":1466586048,
     "wof:name":"Mexico Laundromat & Dry Clnng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.541995,44.556714,-70.541995,44.556714],
+  "bbox": [
+    -70.541995,
+    44.556714,
+    -70.541995,
+    44.556714
+],
   "geometry": {"coordinates":[-70.541995,44.556714],"type":"Point"}
 }

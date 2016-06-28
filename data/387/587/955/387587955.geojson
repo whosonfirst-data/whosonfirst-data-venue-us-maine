@@ -2,13 +2,14 @@
   "id": 387587955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.12047,44.18736,-70.12047,44.18736",
     "geom:latitude":44.18736,
     "geom:longitude":-70.12047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Sprague Mills Rd",
     "sg:city":"Greene",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387587955,
-    "wof:lastmodified":1449057401,
+    "wof:lastmodified":1466586135,
     "wof:name":"Larry Giroux Tree Expert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-70.12047,44.18736,-70.12047,44.18736],
+  "bbox": [
+    -70.12047,
+    44.18736,
+    -70.12047,
+    44.18736
+],
   "geometry": {"coordinates":[-70.12047,44.18736],"type":"Point"}
 }

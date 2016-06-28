@@ -2,13 +2,14 @@
   "id": 387652521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.241918,43.649447,-70.241918,43.649447",
     "geom:latitude":43.649447,
     "geom:longitude":-70.241918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Maine Mall Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387652521,
-    "wof:lastmodified":1449058564,
+    "wof:lastmodified":1466586008,
     "wof:name":"Dream Machine",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.241918,43.649447,-70.241918,43.649447],
+  "bbox": [
+    -70.241918,
+    43.649447,
+    -70.241918,
+    43.649447
+],
   "geometry": {"coordinates":[-70.241918,43.649447],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404170571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.828013,43.667135,-70.828013,43.667135",
     "geom:latitude":43.667135,
     "geom:longitude":-70.828013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Foss Rd",
     "sg:city":"Limerick",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404170571,
-    "wof:lastmodified":1449039131,
+    "wof:lastmodified":1466586795,
     "wof:name":"Donald E Merchant Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.828013,43.667135,-70.828013,43.667135],
+  "bbox": [
+    -70.828013,
+    43.667135,
+    -70.828013,
+    43.667135
+],
   "geometry": {"coordinates":[-70.828013,43.667135],"type":"Point"}
 }

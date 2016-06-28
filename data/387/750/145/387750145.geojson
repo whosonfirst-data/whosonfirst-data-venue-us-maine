@@ -2,13 +2,14 @@
   "id": 387750145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.618383,44.740478,-68.618383,44.740478",
     "geom:latitude":44.740478,
     "geom:longitude":-68.618383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Kidder Hill Rd",
     "sg:city":"Holden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387750145,
-    "wof:lastmodified":1449058401,
+    "wof:lastmodified":1466586901,
     "wof:name":"Holbrook School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.618383,44.740478,-68.618383,44.740478],
-  "geometry": {"coordinates":[-68.618383,44.740478],"type":"Point"}
+  "bbox": [
+    -68.618383,
+    44.740478,
+    -68.618383,
+    44.740478
+],
+  "geometry": {"coordinates":[-68.61838299999999,44.740478],"type":"Point"}
 }

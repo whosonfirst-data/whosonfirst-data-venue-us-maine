@@ -2,13 +2,14 @@
   "id": 403847873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.685003,44.865405,-68.685003,44.865405",
     "geom:latitude":44.865405,
     "geom:longitude":-68.685003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Main St",
     "sg:city":"Mattawamkeag",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403847873,
-    "wof:lastmodified":1449055114,
+    "wof:lastmodified":1466586708,
     "wof:name":"P J's General Store",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-68.685003,44.865405,-68.685003,44.865405],
-  "geometry": {"coordinates":[-68.685003,44.865405],"type":"Point"}
+  "bbox": [
+    -68.685003,
+    44.865405,
+    -68.685003,
+    44.865405
+],
+  "geometry": {"coordinates":[-68.68500299999999,44.865405],"type":"Point"}
 }

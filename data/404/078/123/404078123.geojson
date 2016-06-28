@@ -2,13 +2,14 @@
   "id": 404078123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.944958,47.167017,-67.944958,47.167017",
     "geom:latitude":47.167017,
     "geom:longitude":-67.944958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Clover Hill Dr",
     "sg:city":"Eagle Lake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404078123,
-    "wof:lastmodified":1449040131,
+    "wof:lastmodified":1466585709,
     "wof:name":"RDR Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-67.944958,47.167017,-67.944958,47.167017],
+  "bbox": [
+    -67.944958,
+    47.167017,
+    -67.944958,
+    47.167017
+],
   "geometry": {"coordinates":[-67.944958,47.167017],"type":"Point"}
 }

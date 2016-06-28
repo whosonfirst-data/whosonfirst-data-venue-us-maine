@@ -2,13 +2,14 @@
   "id": 404101753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.521298,44.214458,-70.521298,44.214458",
     "geom:latitude":44.214458,
     "geom:longitude":-70.521298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Main St",
     "sg:city":"South Paris",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404101753,
-    "wof:lastmodified":1449039751,
+    "wof:lastmodified":1466586020,
     "wof:name":"Shaner's Family Restaurant",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cream"
     ]
 },
-  "bbox": [-70.521298,44.214458,-70.521298,44.214458],
+  "bbox": [
+    -70.521298,
+    44.214458,
+    -70.521298,
+    44.214458
+],
   "geometry": {"coordinates":[-70.521298,44.214458],"type":"Point"}
 }

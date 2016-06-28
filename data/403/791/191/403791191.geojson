@@ -2,13 +2,14 @@
   "id": 403791191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.492952,44.254386,-69.492952,44.254386",
     "geom:latitude":44.254386,
     "geom:longitude":-69.492952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"591 Rockland Rd",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403791191,
-    "wof:lastmodified":1449055659,
+    "wof:lastmodified":1466585820,
     "wof:name":"R C Printers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-69.492952,44.254386,-69.492952,44.254386],
+  "bbox": [
+    -69.492952,
+    44.254386,
+    -69.492952,
+    44.254386
+],
   "geometry": {"coordinates":[-69.492952,44.254386],"type":"Point"}
 }

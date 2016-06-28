@@ -2,13 +2,14 @@
   "id": 404019217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.629947,44.555132,-69.629947,44.555132",
     "geom:latitude":44.555132,
     "geom:longitude":-69.629947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 College Ave",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404019217,
-    "wof:lastmodified":1449039819,
+    "wof:lastmodified":1466585882,
     "wof:name":"American Legion Dept Of Maine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-69.629947,44.555132,-69.629947,44.555132],
+  "bbox": [
+    -69.629947,
+    44.555132,
+    -69.629947,
+    44.555132
+],
   "geometry": {"coordinates":[-69.629947,44.555132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403710753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.378375,43.663249,-70.378375,43.663249",
     "geom:latitude":43.663249,
     "geom:longitude":-70.378375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"665 Saco St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403710753,
-    "wof:lastmodified":1449054706,
+    "wof:lastmodified":1466585722,
     "wof:name":"Hamlet Manufactured Home",
     "wof:parent_id":85838011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-70.378375,43.663249,-70.378375,43.663249],
-  "geometry": {"coordinates":[-70.378375,43.663249],"type":"Point"}
+  "bbox": [
+    -70.378375,
+    43.663249,
+    -70.378375,
+    43.663249
+],
+  "geometry": {"coordinates":[-70.37837500000001,43.663249],"type":"Point"}
 }

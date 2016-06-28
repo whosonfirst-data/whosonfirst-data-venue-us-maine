@@ -2,13 +2,14 @@
   "id": 403827703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.045207,44.507337,-70.045207,44.507337",
     "geom:latitude":44.507337,
     "geom:longitude":-70.045207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Main Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403827703,
-    "wof:lastmodified":1449055103,
+    "wof:lastmodified":1466586391,
     "wof:name":"Duncan Telephone Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-70.045207,44.507337,-70.045207,44.507337],
+  "bbox": [
+    -70.045207,
+    44.507337,
+    -70.045207,
+    44.507337
+],
   "geometry": {"coordinates":[-70.045207,44.507337],"type":"Point"}
 }

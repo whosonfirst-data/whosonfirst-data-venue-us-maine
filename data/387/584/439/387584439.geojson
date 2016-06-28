@@ -2,13 +2,14 @@
   "id": 387584439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.002455,43.907522,-70.002455,43.907522",
     "geom:latitude":43.907522,
     "geom:longitude":-70.002455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Industrial Pkwy",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387584439,
-    "wof:lastmodified":1449056524,
+    "wof:lastmodified":1466586076,
     "wof:name":"Raven Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electronic"
     ]
 },
-  "bbox": [-70.002455,43.907522,-70.002455,43.907522],
+  "bbox": [
+    -70.002455,
+    43.907522,
+    -70.002455,
+    43.907522
+],
   "geometry": {"coordinates":[-70.002455,43.907522],"type":"Point"}
 }

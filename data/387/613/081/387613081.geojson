@@ -2,13 +2,14 @@
   "id": 387613081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.579205,44.025202,-69.579205,44.025202",
     "geom:latitude":44.025202,
     "geom:longitude":-69.579205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Lewis Hill Rd",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387613081,
-    "wof:lastmodified":1449057875,
+    "wof:lastmodified":1466586546,
     "wof:name":"D D Engine Rebuilding Inc",
     "wof:parent_id":85849907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.579205,44.025202,-69.579205,44.025202],
+  "bbox": [
+    -69.579205,
+    44.025202,
+    -69.579205,
+    44.025202
+],
   "geometry": {"coordinates":[-69.579205,44.025202],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387608191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.037926,46.930519,-68.037926,46.930519",
     "geom:latitude":46.930519,
     "geom:longitude":-68.037926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Plante Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387608191,
-    "wof:lastmodified":1449057735,
+    "wof:lastmodified":1466586463,
     "wof:name":"County Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.037926,46.930519,-68.037926,46.930519],
+  "bbox": [
+    -68.037926,
+    46.930519,
+    -68.037926,
+    46.930519
+],
   "geometry": {"coordinates":[-68.037926,46.930519],"type":"Point"}
 }

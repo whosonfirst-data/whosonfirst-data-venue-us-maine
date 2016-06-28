@@ -2,13 +2,14 @@
   "id": 403981333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.260603,43.664843,-70.260603,43.664843",
     "geom:latitude":43.664843,
     "geom:longitude":-70.260603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Marginal Way",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403981333,
-    "wof:lastmodified":1449055994,
+    "wof:lastmodified":1466587065,
     "wof:name":"Marshwood Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-70.260603,43.664843,-70.260603,43.664843],
+  "bbox": [
+    -70.260603,
+    43.664843,
+    -70.260603,
+    43.664843
+],
   "geometry": {"coordinates":[-70.260603,43.664843],"type":"Point"}
 }

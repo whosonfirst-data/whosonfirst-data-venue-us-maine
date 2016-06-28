@@ -2,13 +2,14 @@
   "id": 387780083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.056386,44.002494,-70.056386,44.002494",
     "geom:latitude":44.002494,
     "geom:longitude":-70.056386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Douglas St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387780083,
-    "wof:lastmodified":1449058957,
+    "wof:lastmodified":1466586989,
     "wof:name":"Sarah Sutter Photography",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-70.056386,44.002494,-70.056386,44.002494],
+  "bbox": [
+    -70.056386,
+    44.002494,
+    -70.056386,
+    44.002494
+],
   "geometry": {"coordinates":[-70.056386,44.002494],"type":"Point"}
 }

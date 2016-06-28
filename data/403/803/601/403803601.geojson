@@ -2,13 +2,14 @@
   "id": 403803601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.850458,44.796212,-68.850458,44.796212",
     "geom:latitude":44.796212,
     "geom:longitude":-68.850458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Liberty Dr",
     "sg:city":"Hermon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403803601,
-    "wof:lastmodified":1449055980,
+    "wof:lastmodified":1466586004,
     "wof:name":"S W Cole Engineering Inc",
     "wof:parent_id":85838259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-68.850458,44.796212,-68.850458,44.796212],
+  "bbox": [
+    -68.850458,
+    44.796212,
+    -68.850458,
+    44.796212
+],
   "geometry": {"coordinates":[-68.850458,44.796212],"type":"Point"}
 }

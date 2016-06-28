@@ -2,13 +2,14 @@
   "id": 387840441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.594259,44.145298,-70.594259,44.145298",
     "geom:latitude":44.145298,
     "geom:longitude":-70.594259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Crooked River Rd",
     "sg:city":"Otisfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387840441,
-    "wof:lastmodified":1449059049,
+    "wof:lastmodified":1466587216,
     "wof:name":"Creosote Crushers Chimney Serv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.594259,44.145298,-70.594259,44.145298],
-  "geometry": {"coordinates":[-70.594259,44.145298],"type":"Point"}
+  "bbox": [
+    -70.594259,
+    44.145298,
+    -70.594259,
+    44.145298
+],
+  "geometry": {"coordinates":[-70.59425899999999,44.145298],"type":"Point"}
 }

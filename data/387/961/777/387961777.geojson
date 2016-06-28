@@ -2,13 +2,14 @@
   "id": 387961777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.598261,43.262616,-70.598261,43.262616",
     "geom:latitude":43.262616,
     "geom:longitude":-70.598261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 Main St",
     "sg:city":"Ogunquit",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":387961777,
-    "wof:lastmodified":1449059848,
+    "wof:lastmodified":1466587345,
     "wof:name":"Animal Instinct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.598261,43.262616,-70.598261,43.262616],
-  "geometry": {"coordinates":[-70.598261,43.262616],"type":"Point"}
+  "bbox": [
+    -70.598261,
+    43.262616,
+    -70.598261,
+    43.262616
+],
+  "geometry": {"coordinates":[-70.59826099999999,43.262616],"type":"Point"}
 }

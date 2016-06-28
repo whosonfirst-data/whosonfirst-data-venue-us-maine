@@ -2,13 +2,14 @@
   "id": 403796343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.642708,44.574633,-69.642708,44.574633",
     "geom:latitude":44.574633,
     "geom:longitude":-69.642708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Main St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403796343,
-    "wof:lastmodified":1449055259,
+    "wof:lastmodified":1466585892,
     "wof:name":"Brain Injury Assn Of Maine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.642708,44.574633,-69.642708,44.574633],
+  "bbox": [
+    -69.642708,
+    44.574633,
+    -69.642708,
+    44.574633
+],
   "geometry": {"coordinates":[-69.642708,44.574633],"type":"Point"}
 }

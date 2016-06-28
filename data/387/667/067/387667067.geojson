@@ -2,13 +2,14 @@
   "id": 387667067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.601365,44.594113,-69.601365,44.594113",
     "geom:latitude":44.594113,
     "geom:longitude":-69.601365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Bartlett St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387667067,
-    "wof:lastmodified":1449058596,
+    "wof:lastmodified":1466586235,
     "wof:name":"Kitty's Hair Styling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.601365,44.594113,-69.601365,44.594113],
+  "bbox": [
+    -69.601365,
+    44.594113,
+    -69.601365,
+    44.594113
+],
   "geometry": {"coordinates":[-69.601365,44.594113],"type":"Point"}
 }

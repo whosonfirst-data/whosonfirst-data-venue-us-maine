@@ -2,13 +2,14 @@
   "id": 403814747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.245356,43.728102,-70.245356,43.728102",
     "geom:latitude":43.728102,
     "geom:longitude":-70.245356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Falmouth Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403814747,
-    "wof:lastmodified":1449054874,
+    "wof:lastmodified":1466586671,
     "wof:name":"Med-Dent Svc Corp",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.245356,43.728102,-70.245356,43.728102],
+  "bbox": [
+    -70.245356,
+    43.728102,
+    -70.245356,
+    43.728102
+],
   "geometry": {"coordinates":[-70.245356,43.728102],"type":"Point"}
 }

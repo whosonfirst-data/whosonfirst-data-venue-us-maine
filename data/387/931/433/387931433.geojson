@@ -2,13 +2,14 @@
   "id": 387931433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.348764,43.649173,-70.348764,43.649173",
     "geom:latitude":43.649173,
     "geom:longitude":-70.348764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Thomas Dr",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387931433,
-    "wof:lastmodified":1449059575,
+    "wof:lastmodified":1466587272,
     "wof:name":"Benchmark",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.348764,43.649173,-70.348764,43.649173],
+  "bbox": [
+    -70.348764,
+    43.649173,
+    -70.348764,
+    43.649173
+],
   "geometry": {"coordinates":[-70.348764,43.649173],"type":"Point"}
 }

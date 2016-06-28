@@ -2,13 +2,14 @@
   "id": 403931107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.825317,43.797397,-69.825317,43.797397",
     "geom:latitude":43.797397,
     "geom:longitude":-69.825317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 Main Rd",
     "sg:city":"Phippsburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403931107,
-    "wof:lastmodified":1449055847,
+    "wof:lastmodified":1466587025,
     "wof:name":"Fire Dept",
     "wof:parent_id":85840633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-69.825317,43.797397,-69.825317,43.797397],
+  "bbox": [
+    -69.825317,
+    43.797397,
+    -69.825317,
+    43.797397
+],
   "geometry": {"coordinates":[-69.825317,43.797397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403906669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.133652,44.261573,-69.133652,44.261573",
     "geom:latitude":44.261573,
     "geom:longitude":-69.133652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Lincolnville Rd",
     "sg:city":"Lincolnville Ctr",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403906669,
-    "wof:lastmodified":1449055126,
+    "wof:lastmodified":1466586946,
     "wof:name":"Lincolnville Communications",
     "wof:parent_id":85829071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-69.133652,44.261573,-69.133652,44.261573],
+  "bbox": [
+    -69.133652,
+    44.261573,
+    -69.133652,
+    44.261573
+],
   "geometry": {"coordinates":[-69.133652,44.261573],"type":"Point"}
 }

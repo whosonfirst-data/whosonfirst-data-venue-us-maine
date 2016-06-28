@@ -2,13 +2,14 @@
   "id": 403749357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.269847,44.043392,-70.269847,44.043392",
     "geom:latitude":44.043392,
     "geom:longitude":-70.269847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Garden Cir",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403749357,
-    "wof:lastmodified":1449055025,
+    "wof:lastmodified":1466586672,
     "wof:name":"Benefit Solutions",
     "wof:parent_id":85813517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.269847,44.043392,-70.269847,44.043392],
+  "bbox": [
+    -70.269847,
+    44.043392,
+    -70.269847,
+    44.043392
+],
   "geometry": {"coordinates":[-70.269847,44.043392],"type":"Point"}
 }

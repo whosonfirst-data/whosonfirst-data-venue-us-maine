@@ -2,13 +2,14 @@
   "id": 404082659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.765667,43.426488,-70.765667,43.426488",
     "geom:latitude":43.426488,
     "geom:longitude":-70.765667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Main St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404082659,
-    "wof:lastmodified":1449039111,
+    "wof:lastmodified":1466585776,
     "wof:name":"Maine Bank & Trust Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.765667,43.426488,-70.765667,43.426488],
-  "geometry": {"coordinates":[-70.765667,43.426488],"type":"Point"}
+  "bbox": [
+    -70.765667,
+    43.426488,
+    -70.765667,
+    43.426488
+],
+  "geometry": {"coordinates":[-70.76566699999999,43.426488],"type":"Point"}
 }

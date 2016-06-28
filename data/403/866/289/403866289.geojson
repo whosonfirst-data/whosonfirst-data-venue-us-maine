@@ -2,13 +2,14 @@
   "id": 403866289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.824399,46.9111,-67.824399,46.9111",
     "geom:latitude":46.9111,
     "geom:longitude":-67.824399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Church St",
     "sg:city":"Limestone",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403866289,
-    "wof:lastmodified":1449055265,
+    "wof:lastmodified":1466586772,
     "wof:name":"Limestone Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "house"
     ]
 },
-  "bbox": [-67.824399,46.9111,-67.824399,46.9111],
+  "bbox": [
+    -67.824399,
+    46.9111,
+    -67.824399,
+    46.9111
+],
   "geometry": {"coordinates":[-67.824399,46.9111],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403856597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.313122,47.352581,-68.313122,47.352581",
     "geom:latitude":47.352581,
     "geom:longitude":-68.313122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Albert St",
     "sg:city":"Eagle Lake",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403856597,
-    "wof:lastmodified":1449055020,
+    "wof:lastmodified":1466586854,
     "wof:name":"Eagle Lake Senior Citizens Ctr",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-68.313122,47.352581,-68.313122,47.352581],
-  "geometry": {"coordinates":[-68.313122,47.352581],"type":"Point"}
+  "bbox": [
+    -68.313122,
+    47.352581,
+    -68.313122,
+    47.352581
+],
+  "geometry": {"coordinates":[-68.31312200000001,47.352581],"type":"Point"}
 }

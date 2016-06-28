@@ -2,13 +2,14 @@
   "id": 387554033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.666006,44.526956,-69.666006,44.526956",
     "geom:latitude":44.526956,
     "geom:longitude":-69.666006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Crestwood Dr",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387554033,
-    "wof:lastmodified":1449056885,
+    "wof:lastmodified":1466585821,
     "wof:name":"Oakland In-Town Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-69.666006,44.526956,-69.666006,44.526956],
+  "bbox": [
+    -69.666006,
+    44.526956,
+    -69.666006,
+    44.526956
+],
   "geometry": {"coordinates":[-69.666006,44.526956],"type":"Point"}
 }

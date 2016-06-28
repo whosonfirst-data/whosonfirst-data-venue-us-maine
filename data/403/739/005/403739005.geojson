@@ -2,13 +2,14 @@
   "id": 403739005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.336622,43.543517,-70.336622,43.543517",
     "geom:latitude":43.543517,
     "geom:longitude":-70.336622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Ave 6",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403739005,
-    "wof:lastmodified":1449055190,
+    "wof:lastmodified":1466586666,
     "wof:name":"Bayley's Lobster Pound",
     "wof:parent_id":85822441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lobster"
     ]
 },
-  "bbox": [-70.336622,43.543517,-70.336622,43.543517],
-  "geometry": {"coordinates":[-70.336622,43.543517],"type":"Point"}
+  "bbox": [
+    -70.336622,
+    43.543517,
+    -70.336622,
+    43.543517
+],
+  "geometry": {"coordinates":[-70.33662200000001,43.543517],"type":"Point"}
 }

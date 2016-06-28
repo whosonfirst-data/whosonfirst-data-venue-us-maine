@@ -2,13 +2,14 @@
   "id": 403771277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.013378,46.884713,-68.013378,46.884713",
     "geom:latitude":46.884713,
     "geom:longitude":-68.013378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Van Buren Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403771277,
-    "wof:lastmodified":1449055351,
+    "wof:lastmodified":1466586552,
     "wof:name":"Theriault Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.013378,46.884713,-68.013378,46.884713],
+  "bbox": [
+    -68.013378,
+    46.884713,
+    -68.013378,
+    46.884713
+],
   "geometry": {"coordinates":[-68.013378,46.884713],"type":"Point"}
 }

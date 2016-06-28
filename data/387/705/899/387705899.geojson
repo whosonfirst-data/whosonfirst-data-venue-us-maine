@@ -2,13 +2,14 @@
   "id": 387705899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.44062,44.052369,-70.44062,44.052369",
     "geom:latitude":44.052369,
     "geom:longitude":-70.44062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Larch Dr",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387705899,
-    "wof:lastmodified":1449059942,
+    "wof:lastmodified":1466586864,
     "wof:name":"Mac's Camping Area",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.44062,44.052369,-70.44062,44.052369],
+  "bbox": [
+    -70.44062,
+    44.052369,
+    -70.44062,
+    44.052369
+],
   "geometry": {"coordinates":[-70.44062,44.052369],"type":"Point"}
 }

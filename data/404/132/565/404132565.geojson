@@ -2,13 +2,14 @@
   "id": 404132565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.648145,43.79434,-70.648145,43.79434",
     "geom:latitude":43.79434,
     "geom:longitude":-70.648145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Mill St",
     "sg:city":"Steep Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404132565,
-    "wof:lastmodified":1449039598,
+    "wof:lastmodified":1466586486,
     "wof:name":"R W Herrick Inc",
     "wof:parent_id":85831289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-70.648145,43.79434,-70.648145,43.79434],
+  "bbox": [
+    -70.648145,
+    43.79434,
+    -70.648145,
+    43.79434
+],
   "geometry": {"coordinates":[-70.648145,43.79434],"type":"Point"}
 }

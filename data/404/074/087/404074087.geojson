@@ -2,13 +2,14 @@
   "id": 404074087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.531796,44.210842,-70.531796,44.210842",
     "geom:latitude":44.210842,
     "geom:longitude":-70.531796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Winter St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404074087,
-    "wof:lastmodified":1449039783,
+    "wof:lastmodified":1466586610,
     "wof:name":"Oxford Hills Family Practice",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.531796,44.210842,-70.531796,44.210842],
+  "bbox": [
+    -70.531796,
+    44.210842,
+    -70.531796,
+    44.210842
+],
   "geometry": {"coordinates":[-70.531796,44.210842],"type":"Point"}
 }

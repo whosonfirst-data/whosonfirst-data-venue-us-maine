@@ -2,13 +2,14 @@
   "id": 403773171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.804666,43.871843,-69.804666,43.871843",
     "geom:latitude":43.871843,
     "geom:longitude":-69.804666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Fiddlers Reach Rd",
     "sg:city":"Phippsburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403773171,
-    "wof:lastmodified":1449054787,
+    "wof:lastmodified":1466586565,
     "wof:name":"Country Barn Storage",
     "wof:parent_id":85858289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-69.804666,43.871843,-69.804666,43.871843],
+  "bbox": [
+    -69.804666,
+    43.871843,
+    -69.804666,
+    43.871843
+],
   "geometry": {"coordinates":[-69.804666,43.871843],"type":"Point"}
 }

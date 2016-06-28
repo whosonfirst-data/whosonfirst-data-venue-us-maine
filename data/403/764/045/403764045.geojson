@@ -2,13 +2,14 @@
   "id": 403764045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.601837,43.244396,-70.601837,43.244396",
     "geom:latitude":43.244396,
     "geom:longitude":-70.601837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 US Hwy 1",
     "sg:city":"Ogunquit",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403764045,
-    "wof:lastmodified":1449055887,
+    "wof:lastmodified":1466586466,
     "wof:name":"Ogunquit Chamber Of Commerce",
     "wof:parent_id":85854335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commerce"
     ]
 },
-  "bbox": [-70.601837,43.244396,-70.601837,43.244396],
+  "bbox": [
+    -70.601837,
+    43.244396,
+    -70.601837,
+    43.244396
+],
   "geometry": {"coordinates":[-70.601837,43.244396],"type":"Point"}
 }

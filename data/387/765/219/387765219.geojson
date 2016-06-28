@@ -2,13 +2,14 @@
   "id": 387765219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.322161,43.920646,-70.322161,43.920646",
     "geom:latitude":43.920646,
     "geom:longitude":-70.322161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Wood Dr",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387765219,
-    "wof:lastmodified":1449058306,
+    "wof:lastmodified":1466586951,
     "wof:name":"Wayne T Wood & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-70.322161,43.920646,-70.322161,43.920646],
-  "geometry": {"coordinates":[-70.322161,43.920646],"type":"Point"}
+  "bbox": [
+    -70.322161,
+    43.920646,
+    -70.322161,
+    43.920646
+],
+  "geometry": {"coordinates":[-70.32216099999999,43.920646],"type":"Point"}
 }

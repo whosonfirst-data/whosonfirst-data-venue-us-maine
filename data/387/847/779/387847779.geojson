@@ -2,13 +2,14 @@
   "id": 387847779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.140472,44.103826,-69.140472,44.103826",
     "geom:latitude":44.103826,
     "geom:longitude":-69.140472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Old County Rd",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387847779,
-    "wof:lastmodified":1449057478,
+    "wof:lastmodified":1466587222,
     "wof:name":"David Healey Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-69.140472,44.103826,-69.140472,44.103826],
+  "bbox": [
+    -69.140472,
+    44.103826,
+    -69.140472,
+    44.103826
+],
   "geometry": {"coordinates":[-69.140472,44.103826],"type":"Point"}
 }

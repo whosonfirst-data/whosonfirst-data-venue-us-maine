@@ -2,13 +2,14 @@
   "id": 387803971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.834173,46.124601,-67.834173,46.124601",
     "geom:latitude":46.124601,
     "geom:longitude":-67.834173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 High St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387803971,
-    "wof:lastmodified":1449059961,
+    "wof:lastmodified":1466587054,
     "wof:name":"Stepping Stones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-67.834173,46.124601,-67.834173,46.124601],
-  "geometry": {"coordinates":[-67.834173,46.124601],"type":"Point"}
+  "bbox": [
+    -67.834173,
+    46.124601,
+    -67.834173,
+    46.124601
+],
+  "geometry": {"coordinates":[-67.83417300000001,46.124601],"type":"Point"}
 }

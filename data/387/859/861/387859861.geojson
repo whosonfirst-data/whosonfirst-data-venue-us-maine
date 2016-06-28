@@ -2,13 +2,14 @@
   "id": 387859861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.453221,43.478581,-70.453221,43.478581",
     "geom:latitude":43.478581,
     "geom:longitude":-70.453221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Robin Cir",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387859861,
-    "wof:lastmodified":1449058834,
+    "wof:lastmodified":1466587184,
     "wof:name":"Millette Painting Joe",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.453221,43.478581,-70.453221,43.478581],
+  "bbox": [
+    -70.453221,
+    43.478581,
+    -70.453221,
+    43.478581
+],
   "geometry": {"coordinates":[-70.453221,43.478581],"type":"Point"}
 }

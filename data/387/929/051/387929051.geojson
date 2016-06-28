@@ -2,13 +2,14 @@
   "id": 387929051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.792718,44.406807,-70.792718,44.406807",
     "geom:latitude":44.406807,
     "geom:longitude":-70.792718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Church St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387929051,
-    "wof:lastmodified":1449057561,
+    "wof:lastmodified":1466587331,
     "wof:name":"Chapman Inn",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.792718,44.406807,-70.792718,44.406807],
-  "geometry": {"coordinates":[-70.792718,44.406807],"type":"Point"}
+  "bbox": [
+    -70.792718,
+    44.406807,
+    -70.792718,
+    44.406807
+],
+  "geometry": {"coordinates":[-70.79271799999999,44.406807],"type":"Point"}
 }

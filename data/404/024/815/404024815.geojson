@@ -2,13 +2,14 @@
   "id": 404024815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.560126,43.317646,-70.560126,43.317646",
     "geom:latitude":43.317646,
     "geom:longitude":-70.560126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"456 Atlantic Ave",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404024815,
-    "wof:lastmodified":1449039585,
+    "wof:lastmodified":1466585953,
     "wof:name":"Marlenes Typing & SEC Serv",
     "wof:parent_id":85855053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-70.560126,43.317646,-70.560126,43.317646],
+  "bbox": [
+    -70.560126,
+    43.317646,
+    -70.560126,
+    43.317646
+],
   "geometry": {"coordinates":[-70.560126,43.317646],"type":"Point"}
 }

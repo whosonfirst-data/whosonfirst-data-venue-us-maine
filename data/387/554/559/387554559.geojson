@@ -2,13 +2,14 @@
   "id": 387554559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.629326,44.224274,-70.629326,44.224274",
     "geom:latitude":44.224274,
     "geom:longitude":-70.629326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Waterford Rd",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387554559,
-    "wof:lastmodified":1449056888,
+    "wof:lastmodified":1466585864,
     "wof:name":"ABC Rubbish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "collection"
     ]
 },
-  "bbox": [-70.629326,44.224274,-70.629326,44.224274],
-  "geometry": {"coordinates":[-70.629326,44.224274],"type":"Point"}
+  "bbox": [
+    -70.629326,
+    44.224274,
+    -70.629326,
+    44.224274
+],
+  "geometry": {"coordinates":[-70.62932600000001,44.224274],"type":"Point"}
 }

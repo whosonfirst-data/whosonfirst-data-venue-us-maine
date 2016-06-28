@@ -2,13 +2,14 @@
   "id": 404216931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.644822,44.905505,-68.644822,44.905505",
     "geom:latitude":44.905505,
     "geom:longitude":-68.644822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"883 Main St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404216931,
-    "wof:lastmodified":1449040185,
+    "wof:lastmodified":1466586988,
     "wof:name":"Edith A Lombard School",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.644822,44.905505,-68.644822,44.905505],
+  "bbox": [
+    -68.644822,
+    44.905505,
+    -68.644822,
+    44.905505
+],
   "geometry": {"coordinates":[-68.644822,44.905505],"type":"Point"}
 }

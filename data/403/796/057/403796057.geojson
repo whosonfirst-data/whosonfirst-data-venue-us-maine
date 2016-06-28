@@ -2,13 +2,14 @@
   "id": 403796057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.261491,43.657929,-70.261491,43.657929",
     "geom:latitude":43.657929,
     "geom:longitude":-70.261491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"346 Cumberland Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403796057,
-    "wof:lastmodified":1449055255,
+    "wof:lastmodified":1466585889,
     "wof:name":"Monument Square Garage",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-70.261491,43.657929,-70.261491,43.657929],
-  "geometry": {"coordinates":[-70.261491,43.657929],"type":"Point"}
+  "bbox": [
+    -70.261491,
+    43.657929,
+    -70.261491,
+    43.657929
+],
+  "geometry": {"coordinates":[-70.26149100000001,43.657929],"type":"Point"}
 }

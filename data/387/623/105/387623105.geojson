@@ -2,13 +2,14 @@
   "id": 387623105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.300434,43.720487,-70.300434,43.720487",
     "geom:latitude":43.720487,
     "geom:longitude":-70.300434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Davis Farm Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387623105,
-    "wof:lastmodified":1449058778,
+    "wof:lastmodified":1466585736,
     "wof:name":"Verizon Remote Testing Pltfrm",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.300434,43.720487,-70.300434,43.720487],
+  "bbox": [
+    -70.300434,
+    43.720487,
+    -70.300434,
+    43.720487
+],
   "geometry": {"coordinates":[-70.300434,43.720487],"type":"Point"}
 }

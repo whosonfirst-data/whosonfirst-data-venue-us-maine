@@ -2,13 +2,14 @@
   "id": 387775745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.256633,44.072776,-70.256633,44.072776",
     "geom:latitude":44.072776,
     "geom:longitude":-70.256633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rock Hill Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387775745,
-    "wof:lastmodified":1449058920,
+    "wof:lastmodified":1466586981,
     "wof:name":"Nadeau Normond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-70.256633,44.072776,-70.256633,44.072776],
-  "geometry": {"coordinates":[-70.256633,44.072776],"type":"Point"}
+  "bbox": [
+    -70.256633,
+    44.072776,
+    -70.256633,
+    44.072776
+],
+  "geometry": {"coordinates":[-70.25663299999999,44.072776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387618387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.465864,44.7138,-67.465864,44.7138",
     "geom:latitude":44.7138,
     "geom:longitude":-67.465864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Court St",
     "sg:city":"Machias",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387618387,
-    "wof:lastmodified":1449058476,
+    "wof:lastmodified":1466585703,
     "wof:name":"Machias Memorial High School",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.465864,44.7138,-67.465864,44.7138],
+  "bbox": [
+    -67.465864,
+    44.7138,
+    -67.465864,
+    44.7138
+],
   "geometry": {"coordinates":[-67.465864,44.7138],"type":"Point"}
 }

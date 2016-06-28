@@ -2,13 +2,14 @@
   "id": 403707525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.338311,43.720169,-70.338311,43.720169",
     "geom:latitude":43.720169,
     "geom:longitude":-70.338311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403707525,
-    "wof:lastmodified":1449055770,
+    "wof:lastmodified":1466585691,
     "wof:name":"Bill's Auto Sales",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.338311,43.720169,-70.338311,43.720169],
+  "bbox": [
+    -70.338311,
+    43.720169,
+    -70.338311,
+    43.720169
+],
   "geometry": {"coordinates":[-70.338311,43.720169],"type":"Point"}
 }

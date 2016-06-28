@@ -2,13 +2,14 @@
   "id": 387555461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.209031,44.389216,-68.209031,44.389216",
     "geom:latitude":44.389216,
     "geom:longitude":-68.209031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Cottage St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387555461,
-    "wof:lastmodified":1449059382,
+    "wof:lastmodified":1466586613,
     "wof:name":"Chic Maine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.209031,44.389216,-68.209031,44.389216],
+  "bbox": [
+    -68.209031,
+    44.389216,
+    -68.209031,
+    44.389216
+],
   "geometry": {"coordinates":[-68.209031,44.389216],"type":"Point"}
 }

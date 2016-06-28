@@ -2,13 +2,14 @@
   "id": 403712785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.953085,43.904091,-69.953085,43.904091",
     "geom:latitude":43.904091,
     "geom:longitude":-69.953085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Davis St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403712785,
-    "wof:lastmodified":1449055206,
+    "wof:lastmodified":1466585757,
     "wof:name":"Studio 48",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.953085,43.904091,-69.953085,43.904091],
+  "bbox": [
+    -69.953085,
+    43.904091,
+    -69.953085,
+    43.904091
+],
   "geometry": {"coordinates":[-69.953085,43.904091],"type":"Point"}
 }

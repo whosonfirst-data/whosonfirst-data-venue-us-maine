@@ -2,13 +2,14 @@
   "id": 387935701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.438786,43.837994,-70.438786,43.837994",
     "geom:latitude":43.837994,
     "geom:longitude":-70.438786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Oak Ln",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387935701,
-    "wof:lastmodified":1449059244,
+    "wof:lastmodified":1466587275,
     "wof:name":"New Marblehead Manor Senior",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.438786,43.837994,-70.438786,43.837994],
-  "geometry": {"coordinates":[-70.438786,43.837994],"type":"Point"}
+  "bbox": [
+    -70.438786,
+    43.837994,
+    -70.438786,
+    43.837994
+],
+  "geometry": {"coordinates":[-70.43878599999999,43.837994],"type":"Point"}
 }

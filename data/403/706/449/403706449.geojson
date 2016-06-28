@@ -2,13 +2,14 @@
   "id": 403706449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.750721,44.989712,-68.750721,44.989712",
     "geom:latitude":44.989712,
     "geom:longitude":-68.750721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Old Stagecoach Rd",
     "sg:city":"Alton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403706449,
-    "wof:lastmodified":1449054731,
+    "wof:lastmodified":1466585677,
     "wof:name":"Outside City Limits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.750721,44.989712,-68.750721,44.989712],
+  "bbox": [
+    -68.750721,
+    44.989712,
+    -68.750721,
+    44.989712
+],
   "geometry": {"coordinates":[-68.750721,44.989712],"type":"Point"}
 }

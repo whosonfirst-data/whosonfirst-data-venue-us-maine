@@ -2,13 +2,14 @@
   "id": 387819393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.596324,44.588553,-69.596324,44.588553",
     "geom:latitude":44.588553,
     "geom:longitude":-69.596324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Newhall St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387819393,
-    "wof:lastmodified":1449057008,
+    "wof:lastmodified":1466587105,
     "wof:name":"Coopers Creative Banners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-69.596324,44.588553,-69.596324,44.588553],
+  "bbox": [
+    -69.596324,
+    44.588553,
+    -69.596324,
+    44.588553
+],
   "geometry": {"coordinates":[-69.596324,44.588553],"type":"Point"}
 }

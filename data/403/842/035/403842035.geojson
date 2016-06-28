@@ -2,13 +2,14 @@
   "id": 403842035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.549053,43.804323,-70.549053,43.804323",
     "geom:latitude":43.804323,
     "geom:longitude":-70.549053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Harmons Beach Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":403842035,
-    "wof:lastmodified":1449054736,
+    "wof:lastmodified":1466586690,
     "wof:name":"ABS Garage Doors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-70.549053,43.804323,-70.549053,43.804323],
+  "bbox": [
+    -70.549053,
+    43.804323,
+    -70.549053,
+    43.804323
+],
   "geometry": {"coordinates":[-70.549053,43.804323],"type":"Point"}
 }

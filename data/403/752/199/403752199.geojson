@@ -2,13 +2,14 @@
   "id": 403752199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.951624,44.46377,-68.951624,44.46377",
     "geom:latitude":44.46377,
     "geom:longitude":-68.951624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Back Searsport Rd",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403752199,
-    "wof:lastmodified":1449054852,
+    "wof:lastmodified":1466586242,
     "wof:name":"Kinney's Mobile Home Park",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-68.951624,44.46377,-68.951624,44.46377],
+  "bbox": [
+    -68.951624,
+    44.46377,
+    -68.951624,
+    44.46377
+],
   "geometry": {"coordinates":[-68.951624,44.46377],"type":"Point"}
 }

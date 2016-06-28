@@ -2,13 +2,14 @@
   "id": 387570585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.326995,43.874571,-70.326995,43.874571",
     "geom:latitude":43.874571,
     "geom:longitude":-70.326995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Portland Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387570585,
-    "wof:lastmodified":1449058364,
+    "wof:lastmodified":1466585894,
     "wof:name":"Memorybook Workshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.326995,43.874571,-70.326995,43.874571],
+  "bbox": [
+    -70.326995,
+    43.874571,
+    -70.326995,
+    43.874571
+],
   "geometry": {"coordinates":[-70.326995,43.874571],"type":"Point"}
 }

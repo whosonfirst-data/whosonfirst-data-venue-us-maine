@@ -2,13 +2,14 @@
   "id": 387929849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.332241,44.372194,-68.332241,44.372194",
     "geom:latitude":44.372194,
     "geom:longitude":-68.332241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Village Park Rd",
     "sg:city":"Mt Desert",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387929849,
-    "wof:lastmodified":1449057562,
+    "wof:lastmodified":1466587275,
     "wof:name":"MDI Tree Svc",
     "wof:parent_id":85849305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-68.332241,44.372194,-68.332241,44.372194],
+  "bbox": [
+    -68.332241,
+    44.372194,
+    -68.332241,
+    44.372194
+],
   "geometry": {"coordinates":[-68.332241,44.372194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387721211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.424632,43.49079,-70.424632,43.49079",
     "geom:latitude":43.49079,
     "geom:longitude":-70.424632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Thunder Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387721211,
-    "wof:lastmodified":1449059910,
+    "wof:lastmodified":1466586693,
     "wof:name":"Northeast Tech Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-70.424632,43.49079,-70.424632,43.49079],
+  "bbox": [
+    -70.424632,
+    43.49079,
+    -70.424632,
+    43.49079
+],
   "geometry": {"coordinates":[-70.424632,43.49079],"type":"Point"}
 }

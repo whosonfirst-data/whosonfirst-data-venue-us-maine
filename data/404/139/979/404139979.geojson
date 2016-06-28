@@ -2,13 +2,14 @@
   "id": 404139979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.773459,44.801364,-68.773459,44.801364",
     "geom:latitude":44.801364,
     "geom:longitude":-68.773459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404139979,
-    "wof:lastmodified":1449039133,
+    "wof:lastmodified":1466586601,
     "wof:name":"Momma B's Kitchen",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.773459,44.801364,-68.773459,44.801364],
+  "bbox": [
+    -68.773459,
+    44.801364,
+    -68.773459,
+    44.801364
+],
   "geometry": {"coordinates":[-68.773459,44.801364],"type":"Point"}
 }

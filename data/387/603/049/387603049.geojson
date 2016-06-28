@@ -2,13 +2,14 @@
   "id": 387603049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.911333,44.460114,-68.911333,44.460114",
     "geom:latitude":44.460114,
     "geom:longitude":-68.911333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 E Main St",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387603049,
-    "wof:lastmodified":1449059339,
+    "wof:lastmodified":1466586678,
     "wof:name":"Captain AV Nickels Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.911333,44.460114,-68.911333,44.460114],
+  "bbox": [
+    -68.911333,
+    44.460114,
+    -68.911333,
+    44.460114
+],
   "geometry": {"coordinates":[-68.911333,44.460114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403998617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.716209,44.779345,-69.716209,44.779345",
     "geom:latitude":44.779345,
     "geom:longitude":-69.716209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Cote St",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403998617,
-    "wof:lastmodified":1449055065,
+    "wof:lastmodified":1466587105,
     "wof:name":"Alan's Cut Above",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.716209,44.779345,-69.716209,44.779345],
-  "geometry": {"coordinates":[-69.716209,44.779345],"type":"Point"}
+  "bbox": [
+    -69.716209,
+    44.779345,
+    -69.716209,
+    44.779345
+],
+  "geometry": {"coordinates":[-69.71620900000001,44.779345],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403859499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.959442,43.912942,-69.959442,43.912942",
     "geom:latitude":43.912942,
     "geom:longitude":-69.959442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Maple St",
     "sg:city":"Cornish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403859499,
-    "wof:lastmodified":1449055558,
+    "wof:lastmodified":1466586750,
     "wof:name":"Cream Puffs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-69.959442,43.912942,-69.959442,43.912942],
+  "bbox": [
+    -69.959442,
+    43.912942,
+    -69.959442,
+    43.912942
+],
   "geometry": {"coordinates":[-69.959442,43.912942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404206969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.308428,43.71506,-70.308428,43.71506",
     "geom:latitude":43.71506,
     "geom:longitude":-70.308428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Riverside St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404206969,
-    "wof:lastmodified":1449039947,
+    "wof:lastmodified":1466586945,
     "wof:name":"Riverside Recycling Facility",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "waste"
     ]
 },
-  "bbox": [-70.308428,43.71506,-70.308428,43.71506],
-  "geometry": {"coordinates":[-70.308428,43.71506],"type":"Point"}
+  "bbox": [
+    -70.308428,
+    43.71506,
+    -70.308428,
+    43.71506
+],
+  "geometry": {"coordinates":[-70.30842800000001,43.71506],"type":"Point"}
 }

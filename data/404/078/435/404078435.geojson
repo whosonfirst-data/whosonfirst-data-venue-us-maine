@@ -2,13 +2,14 @@
   "id": 404078435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.817838,43.908179,-69.817838,43.908179",
     "geom:latitude":43.908179,
     "geom:longitude":-69.817838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Shepard St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404078435,
-    "wof:lastmodified":1449040137,
+    "wof:lastmodified":1466585713,
     "wof:name":"Discount Towing",
     "wof:parent_id":85858289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-69.817838,43.908179,-69.817838,43.908179],
-  "geometry": {"coordinates":[-69.817838,43.908179],"type":"Point"}
+  "bbox": [
+    -69.817838,
+    43.908179,
+    -69.817838,
+    43.908179
+],
+  "geometry": {"coordinates":[-69.81783799999999,43.908179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387694063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.746456,44.350738,-69.746456,44.350738",
     "geom:latitude":44.350738,
     "geom:longitude":-69.746456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"558 Riverside Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387694063,
-    "wof:lastmodified":1449057168,
+    "wof:lastmodified":1466586700,
     "wof:name":"Furniture Factory",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-69.746456,44.350738,-69.746456,44.350738],
-  "geometry": {"coordinates":[-69.746456,44.350738],"type":"Point"}
+  "bbox": [
+    -69.746456,
+    44.350738,
+    -69.746456,
+    44.350738
+],
+  "geometry": {"coordinates":[-69.74645599999999,44.350738],"type":"Point"}
 }

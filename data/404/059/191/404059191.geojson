@@ -2,13 +2,14 @@
   "id": 404059191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.200868,44.122722,-70.200868,44.122722",
     "geom:latitude":44.122722,
     "geom:longitude":-70.200868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 King Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404059191,
-    "wof:lastmodified":1449039353,
+    "wof:lastmodified":1466586437,
     "wof:name":"Gifts From Maine",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.200868,44.122722,-70.200868,44.122722],
+  "bbox": [
+    -70.200868,
+    44.122722,
+    -70.200868,
+    44.122722
+],
   "geometry": {"coordinates":[-70.200868,44.122722],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387787389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.476417,43.360289,-70.476417,43.360289",
     "geom:latitude":43.360289,
     "geom:longitude":-70.476417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Chestnut St",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387787389,
-    "wof:lastmodified":1449057821,
+    "wof:lastmodified":1466587094,
     "wof:name":"Chetwynd House Inn",
     "wof:parent_id":85812189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.476417,43.360289,-70.476417,43.360289],
+  "bbox": [
+    -70.476417,
+    43.360289,
+    -70.476417,
+    43.360289
+],
   "geometry": {"coordinates":[-70.476417,43.360289],"type":"Point"}
 }

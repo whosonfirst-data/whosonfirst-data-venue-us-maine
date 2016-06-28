@@ -2,13 +2,14 @@
   "id": 404042245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.449817,43.850166,-70.449817,43.850166",
     "geom:latitude":43.850166,
     "geom:longitude":-70.449817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"789 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404042245,
-    "wof:lastmodified":1449040011,
+    "wof:lastmodified":1466586119,
     "wof:name":"Romp'n Rest Day Care",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.449817,43.850166,-70.449817,43.850166],
+  "bbox": [
+    -70.449817,
+    43.850166,
+    -70.449817,
+    43.850166
+],
   "geometry": {"coordinates":[-70.449817,43.850166],"type":"Point"}
 }

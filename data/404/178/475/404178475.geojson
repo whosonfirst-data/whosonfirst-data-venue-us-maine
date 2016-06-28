@@ -2,13 +2,14 @@
   "id": 404178475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.389288,43.513822,-70.389288,43.513822",
     "geom:latitude":43.513822,
     "geom:longitude":-70.389288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Saco Ave",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404178475,
-    "wof:lastmodified":1449039982,
+    "wof:lastmodified":1466586908,
     "wof:name":"Old Orchard Beach Fire Dept",
     "wof:parent_id":85828495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-70.389288,43.513822,-70.389288,43.513822],
-  "geometry": {"coordinates":[-70.389288,43.513822],"type":"Point"}
+  "bbox": [
+    -70.389288,
+    43.513822,
+    -70.389288,
+    43.513822
+],
+  "geometry": {"coordinates":[-70.38928799999999,43.513822],"type":"Point"}
 }

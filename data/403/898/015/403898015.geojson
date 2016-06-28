@@ -2,13 +2,14 @@
   "id": 403898015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.838612,44.739938,-68.838612,44.739938",
     "geom:latitude":44.739938,
     "geom:longitude":-68.838612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Main Rd N",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403898015,
-    "wof:lastmodified":1449054602,
+    "wof:lastmodified":1466586840,
     "wof:name":"George B Weatherbee School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.838612,44.739938,-68.838612,44.739938],
+  "bbox": [
+    -68.838612,
+    44.739938,
+    -68.838612,
+    44.739938
+],
   "geometry": {"coordinates":[-68.838612,44.739938],"type":"Point"}
 }

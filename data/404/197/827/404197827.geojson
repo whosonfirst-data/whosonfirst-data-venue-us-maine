@@ -2,13 +2,14 @@
   "id": 404197827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.890559,43.943687,-70.890559,43.943687",
     "geom:latitude":43.943687,
     "geom:longitude":-70.890559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Main St",
     "sg:city":"Cornish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404197827,
-    "wof:lastmodified":1449040171,
+    "wof:lastmodified":1466586828,
     "wof:name":"Plain & Fancy",
     "wof:parent_id":85816061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-70.890559,43.943687,-70.890559,43.943687],
+  "bbox": [
+    -70.890559,
+    43.943687,
+    -70.890559,
+    43.943687
+],
   "geometry": {"coordinates":[-70.890559,43.943687],"type":"Point"}
 }

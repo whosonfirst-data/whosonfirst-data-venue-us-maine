@@ -2,13 +2,14 @@
   "id": 404031575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.909091,44.505182,-67.909091,44.505182",
     "geom:latitude":44.505182,
     "geom:longitude":-67.909091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Pigeon Hill Rd",
     "sg:city":"Steuben",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404031575,
-    "wof:lastmodified":1449039482,
+    "wof:lastmodified":1466585982,
     "wof:name":"West Fabrication & Welding",
     "wof:parent_id":85859219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-67.909091,44.505182,-67.909091,44.505182],
+  "bbox": [
+    -67.909091,
+    44.505182,
+    -67.909091,
+    44.505182
+],
   "geometry": {"coordinates":[-67.909091,44.505182],"type":"Point"}
 }

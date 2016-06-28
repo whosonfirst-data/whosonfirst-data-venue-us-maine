@@ -2,13 +2,14 @@
   "id": 404107057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.451808,43.577205,-70.451808,43.577205",
     "geom:latitude":43.577205,
     "geom:longitude":-70.451808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Lincoln Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404107057,
-    "wof:lastmodified":1449039092,
+    "wof:lastmodified":1466586099,
     "wof:name":"Merrill Brook Landscaping",
     "wof:parent_id":85847051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.451808,43.577205,-70.451808,43.577205],
+  "bbox": [
+    -70.451808,
+    43.577205,
+    -70.451808,
+    43.577205
+],
   "geometry": {"coordinates":[-70.451808,43.577205],"type":"Point"}
 }

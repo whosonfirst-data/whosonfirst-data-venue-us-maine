@@ -2,13 +2,14 @@
   "id": 387897825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.996743,46.870349,-67.996743,46.870349",
     "geom:latitude":46.870349,
     "geom:longitude":-67.996743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Carroll St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387897825,
-    "wof:lastmodified":1449059309,
+    "wof:lastmodified":1466587229,
     "wof:name":"Wings For Children & Families",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-67.996743,46.870349,-67.996743,46.870349],
+  "bbox": [
+    -67.996743,
+    46.870349,
+    -67.996743,
+    46.870349
+],
   "geometry": {"coordinates":[-67.996743,46.870349],"type":"Point"}
 }

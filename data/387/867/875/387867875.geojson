@@ -2,13 +2,14 @@
   "id": 387867875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.752382,44.817181,-68.752382,44.817181",
     "geom:latitude":44.817181,
     "geom:longitude":-68.752382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Mount Hope Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387867875,
-    "wof:lastmodified":1449057751,
+    "wof:lastmodified":1466587195,
     "wof:name":"Lewis E Phillips MD",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-68.752382,44.817181,-68.752382,44.817181],
+  "bbox": [
+    -68.752382,
+    44.817181,
+    -68.752382,
+    44.817181
+],
   "geometry": {"coordinates":[-68.752382,44.817181],"type":"Point"}
 }

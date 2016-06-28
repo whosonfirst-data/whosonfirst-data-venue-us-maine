@@ -2,13 +2,14 @@
   "id": 404071859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.554773,43.59654,-70.554773,43.59654",
     "geom:latitude":43.59654,
     "geom:longitude":-70.554773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Hollis Rd",
     "sg:city":"Hollis Center",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404071859,
-    "wof:lastmodified":1449039875,
+    "wof:lastmodified":1466586592,
     "wof:name":"Doggy Doo's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "washing"
     ]
 },
-  "bbox": [-70.554773,43.59654,-70.554773,43.59654],
+  "bbox": [
+    -70.554773,
+    43.59654,
+    -70.554773,
+    43.59654
+],
   "geometry": {"coordinates":[-70.554773,43.59654],"type":"Point"}
 }

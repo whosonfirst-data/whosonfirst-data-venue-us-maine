@@ -2,13 +2,14 @@
   "id": 387811463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.014153,46.681169,-68.014153,46.681169",
     "geom:latitude":46.681169,
     "geom:longitude":-68.014153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 2nd St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387811463,
-    "wof:lastmodified":1449057934,
+    "wof:lastmodified":1466587091,
     "wof:name":"County Financial Svc",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-68.014153,46.681169,-68.014153,46.681169],
-  "geometry": {"coordinates":[-68.014153,46.681169],"type":"Point"}
+  "bbox": [
+    -68.014153,
+    46.681169,
+    -68.014153,
+    46.681169
+],
+  "geometry": {"coordinates":[-68.01415299999999,46.681169],"type":"Point"}
 }

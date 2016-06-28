@@ -2,13 +2,14 @@
   "id": 387942227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.253445,43.639106,-70.253445,43.639106",
     "geom:latitude":43.639106,
     "geom:longitude":-70.253445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Ocean St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387942227,
-    "wof:lastmodified":1449057837,
+    "wof:lastmodified":1466587276,
     "wof:name":"Amy Alward Agency",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.253445,43.639106,-70.253445,43.639106],
+  "bbox": [
+    -70.253445,
+    43.639106,
+    -70.253445,
+    43.639106
+],
   "geometry": {"coordinates":[-70.253445,43.639106],"type":"Point"}
 }

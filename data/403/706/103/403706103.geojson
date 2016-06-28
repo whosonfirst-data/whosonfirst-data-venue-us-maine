@@ -2,13 +2,14 @@
   "id": 403706103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.371122,43.747738,-70.371122,43.747738",
     "geom:latitude":43.747738,
     "geom:longitude":-70.371122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Juniper Dr",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403706103,
-    "wof:lastmodified":1449054730,
+    "wof:lastmodified":1466585671,
     "wof:name":"Two Lights Entertainment",
     "wof:parent_id":85830911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-70.371122,43.747738,-70.371122,43.747738],
+  "bbox": [
+    -70.371122,
+    43.747738,
+    -70.371122,
+    43.747738
+],
   "geometry": {"coordinates":[-70.371122,43.747738],"type":"Point"}
 }

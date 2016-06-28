@@ -2,13 +2,14 @@
   "id": 387892183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.455122,44.504344,-69.455122,44.504344",
     "geom:latitude":44.504344,
     "geom:longitude":-69.455122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Bessey Ridge Rd",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387892183,
-    "wof:lastmodified":1449056666,
+    "wof:lastmodified":1466587227,
     "wof:name":"Windy Acres Stable",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-69.455122,44.504344,-69.455122,44.504344],
+  "bbox": [
+    -69.455122,
+    44.504344,
+    -69.455122,
+    44.504344
+],
   "geometry": {"coordinates":[-69.455122,44.504344],"type":"Point"}
 }

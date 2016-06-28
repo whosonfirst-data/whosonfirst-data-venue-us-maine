@@ -2,13 +2,14 @@
   "id": 403978111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.210197,43.574842,-70.210197,43.574842",
     "geom:latitude":43.574842,
     "geom:longitude":-70.210197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Roundabout Ln",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403978111,
-    "wof:lastmodified":1449055401,
+    "wof:lastmodified":1466587217,
     "wof:name":"D C Systems Inc",
     "wof:parent_id":85867971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-70.210197,43.574842,-70.210197,43.574842],
-  "geometry": {"coordinates":[-70.210197,43.574842],"type":"Point"}
+  "bbox": [
+    -70.210197,
+    43.574842,
+    -70.210197,
+    43.574842
+],
+  "geometry": {"coordinates":[-70.21019699999999,43.574842],"type":"Point"}
 }

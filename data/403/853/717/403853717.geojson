@@ -2,13 +2,14 @@
   "id": 403853717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.277304,44.046411,-70.277304,44.046411",
     "geom:latitude":44.046411,
     "geom:longitude":-70.277304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2584 Hotel Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403853717,
-    "wof:lastmodified":1449055165,
+    "wof:lastmodified":1466586729,
     "wof:name":"Brian Moreau Custom Building",
     "wof:parent_id":85813517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.277304,44.046411,-70.277304,44.046411],
+  "bbox": [
+    -70.277304,
+    44.046411,
+    -70.277304,
+    44.046411
+],
   "geometry": {"coordinates":[-70.277304,44.046411],"type":"Point"}
 }

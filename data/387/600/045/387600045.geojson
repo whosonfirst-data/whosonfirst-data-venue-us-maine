@@ -2,13 +2,14 @@
   "id": 387600045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.418038,44.543783,-68.418038,44.543783",
     "geom:latitude":44.543783,
     "geom:longitude":-68.418038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 Main St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387600045,
-    "wof:lastmodified":1449056457,
+    "wof:lastmodified":1466586677,
     "wof:name":"Thurston E Haslam",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "including"
     ]
 },
-  "bbox": [-68.418038,44.543783,-68.418038,44.543783],
+  "bbox": [
+    -68.418038,
+    44.543783,
+    -68.418038,
+    44.543783
+],
   "geometry": {"coordinates":[-68.418038,44.543783],"type":"Point"}
 }

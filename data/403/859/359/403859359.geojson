@@ -2,13 +2,14 @@
   "id": 403859359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.783017,44.782236,-68.783017,44.782236",
     "geom:latitude":44.782236,
     "geom:longitude":-68.783017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Olive St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403859359,
-    "wof:lastmodified":1449055558,
+    "wof:lastmodified":1466586748,
     "wof:name":"Gould Equipment Co",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.783017,44.782236,-68.783017,44.782236],
+  "bbox": [
+    -68.783017,
+    44.782236,
+    -68.783017,
+    44.782236
+],
   "geometry": {"coordinates":[-68.783017,44.782236],"type":"Point"}
 }

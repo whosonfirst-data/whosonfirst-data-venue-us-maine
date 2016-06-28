@@ -2,13 +2,14 @@
   "id": 404176727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.339092,44.081678,-70.339092,44.081678",
     "geom:latitude":44.081678,
     "geom:longitude":-70.339092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Hackett Mills Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404176727,
-    "wof:lastmodified":1449039920,
+    "wof:lastmodified":1466586698,
     "wof:name":"Sunset Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-70.339092,44.081678,-70.339092,44.081678],
-  "geometry": {"coordinates":[-70.339092,44.081678],"type":"Point"}
+  "bbox": [
+    -70.339092,
+    44.081678,
+    -70.339092,
+    44.081678
+],
+  "geometry": {"coordinates":[-70.33909199999999,44.081678],"type":"Point"}
 }

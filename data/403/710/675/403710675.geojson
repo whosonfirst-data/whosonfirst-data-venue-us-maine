@@ -2,13 +2,14 @@
   "id": 403710675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.771704,44.800653,-68.771704,44.800653",
     "geom:latitude":44.800653,
     "geom:longitude":-68.771704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Main St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403710675,
-    "wof:lastmodified":1449054709,
+    "wof:lastmodified":1466585720,
     "wof:name":"Treworgy & Baldacci",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-68.771704,44.800653,-68.771704,44.800653],
+  "bbox": [
+    -68.771704,
+    44.800653,
+    -68.771704,
+    44.800653
+],
   "geometry": {"coordinates":[-68.771704,44.800653],"type":"Point"}
 }

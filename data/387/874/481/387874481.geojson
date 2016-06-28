@@ -2,13 +2,14 @@
   "id": 387874481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.354363,43.584999,-70.354363,43.584999",
     "geom:latitude":43.584999,
     "geom:longitude":-70.354363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Willowdale Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387874481,
-    "wof:lastmodified":1449059676,
+    "wof:lastmodified":1466587289,
     "wof:name":"Ed OBrien",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.354363,43.584999,-70.354363,43.584999],
-  "geometry": {"coordinates":[-70.354363,43.584999],"type":"Point"}
+  "bbox": [
+    -70.354363,
+    43.584999,
+    -70.354363,
+    43.584999
+],
+  "geometry": {"coordinates":[-70.35436300000001,43.584999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403934737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.762523,43.420384,-70.762523,43.420384",
     "geom:latitude":43.420384,
     "geom:longitude":-70.762523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Deborah Ave",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403934737,
-    "wof:lastmodified":1449054694,
+    "wof:lastmodified":1466587036,
     "wof:name":"Natural Images",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mill"
     ]
 },
-  "bbox": [-70.762523,43.420384,-70.762523,43.420384],
+  "bbox": [
+    -70.762523,
+    43.420384,
+    -70.762523,
+    43.420384
+],
   "geometry": {"coordinates":[-70.762523,43.420384],"type":"Point"}
 }

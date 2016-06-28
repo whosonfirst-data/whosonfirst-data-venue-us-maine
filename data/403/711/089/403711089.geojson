@@ -2,13 +2,14 @@
   "id": 403711089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.766971,44.310883,-69.766971,44.310883",
     "geom:latitude":44.310883,
     "geom:longitude":-69.766971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Middle St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403711089,
-    "wof:lastmodified":1449055723,
+    "wof:lastmodified":1466585738,
     "wof:name":"Jutta Eichelman MD",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-69.766971,44.310883,-69.766971,44.310883],
+  "bbox": [
+    -69.766971,
+    44.310883,
+    -69.766971,
+    44.310883
+],
   "geometry": {"coordinates":[-69.766971,44.310883],"type":"Point"}
 }

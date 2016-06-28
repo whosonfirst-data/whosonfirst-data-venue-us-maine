@@ -2,13 +2,14 @@
   "id": 403732435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.290039,44.523362,-69.290039,44.523362",
     "geom:latitude":44.523362,
     "geom:longitude":-69.290039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Pleasant St",
     "sg:city":"Freedom",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403732435,
-    "wof:lastmodified":1449056018,
+    "wof:lastmodified":1466586009,
     "wof:name":"Pine Ridge Heating & Plumbing",
     "wof:parent_id":85828753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.290039,44.523362,-69.290039,44.523362],
-  "geometry": {"coordinates":[-69.290039,44.523362],"type":"Point"}
+  "bbox": [
+    -69.290039,
+    44.523362,
+    -69.290039,
+    44.523362
+],
+  "geometry": {"coordinates":[-69.29003899999999,44.523362],"type":"Point"}
 }

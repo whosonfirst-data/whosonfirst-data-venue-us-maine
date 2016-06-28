@@ -2,13 +2,14 @@
   "id": 387922951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.262291,43.654755,-70.262291,43.654755",
     "geom:latitude":43.654755,
     "geom:longitude":-70.262291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"556 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387922951,
-    "wof:lastmodified":1449056450,
+    "wof:lastmodified":1466587261,
     "wof:name":"Stones & Stuff",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-70.262291,43.654755,-70.262291,43.654755],
+  "bbox": [
+    -70.262291,
+    43.654755,
+    -70.262291,
+    43.654755
+],
   "geometry": {"coordinates":[-70.262291,43.654755],"type":"Point"}
 }

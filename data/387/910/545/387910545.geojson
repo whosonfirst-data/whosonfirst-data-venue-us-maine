@@ -2,13 +2,14 @@
   "id": 387910545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.299364,43.882153,-70.299364,43.882153",
     "geom:latitude":43.882153,
     "geom:longitude":-70.299364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Depot Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387910545,
-    "wof:lastmodified":1449057691,
+    "wof:lastmodified":1466587249,
     "wof:name":"Al Chapman's Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.299364,43.882153,-70.299364,43.882153],
+  "bbox": [
+    -70.299364,
+    43.882153,
+    -70.299364,
+    43.882153
+],
   "geometry": {"coordinates":[-70.299364,43.882153],"type":"Point"}
 }

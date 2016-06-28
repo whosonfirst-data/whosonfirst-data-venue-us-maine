@@ -2,13 +2,14 @@
   "id": 387587165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.839372,44.744912,-68.839372,44.744912",
     "geom:latitude":44.744912,
     "geom:longitude":-68.839372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Western Ave",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387587165,
-    "wof:lastmodified":1449057403,
+    "wof:lastmodified":1466586124,
     "wof:name":"Village Miniatures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [-68.839372,44.744912,-68.839372,44.744912],
+  "bbox": [
+    -68.839372,
+    44.744912,
+    -68.839372,
+    44.744912
+],
   "geometry": {"coordinates":[-68.839372,44.744912],"type":"Point"}
 }

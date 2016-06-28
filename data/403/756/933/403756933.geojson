@@ -2,13 +2,14 @@
   "id": 403756933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.248802,43.63563,-70.248802,43.63563",
     "geom:latitude":43.63563,
     "geom:longitude":-70.248802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"482 Broadway",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403756933,
-    "wof:lastmodified":1449055441,
+    "wof:lastmodified":1466586348,
     "wof:name":"South Portland Library",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.248802,43.63563,-70.248802,43.63563],
+  "bbox": [
+    -70.248802,
+    43.63563,
+    -70.248802,
+    43.63563
+],
   "geometry": {"coordinates":[-70.248802,43.63563],"type":"Point"}
 }

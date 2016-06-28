@@ -2,13 +2,14 @@
   "id": 403824947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.731207,43.114153,-70.731207,43.114153",
     "geom:latitude":43.114153,
     "geom:longitude":-70.731207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 US Hwy 1",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403824947,
-    "wof:lastmodified":1449055100,
+    "wof:lastmodified":1466586347,
     "wof:name":"Dress Barn Woman",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.731207,43.114153,-70.731207,43.114153],
+  "bbox": [
+    -70.731207,
+    43.114153,
+    -70.731207,
+    43.114153
+],
   "geometry": {"coordinates":[-70.731207,43.114153],"type":"Point"}
 }

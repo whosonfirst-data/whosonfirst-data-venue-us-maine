@@ -2,13 +2,14 @@
   "id": 404128121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.223028,44.087602,-70.223028,44.087602",
     "geom:latitude":44.087602,
     "geom:longitude":-70.223028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Mill St",
     "sg:city":"Peru",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404128121,
-    "wof:lastmodified":1449039498,
+    "wof:lastmodified":1466586421,
     "wof:name":"Timber Resource Group",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "timber"
     ]
 },
-  "bbox": [-70.223028,44.087602,-70.223028,44.087602],
+  "bbox": [
+    -70.223028,
+    44.087602,
+    -70.223028,
+    44.087602
+],
   "geometry": {"coordinates":[-70.223028,44.087602],"type":"Point"}
 }

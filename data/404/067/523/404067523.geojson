@@ -2,13 +2,14 @@
   "id": 404067523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.395609,44.06224,-70.395609,44.06224",
     "geom:latitude":44.06224,
     "geom:longitude":-70.395609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 Maine St",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404067523,
-    "wof:lastmodified":1449039123,
+    "wof:lastmodified":1466586531,
     "wof:name":"Poland School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.395609,44.06224,-70.395609,44.06224],
-  "geometry": {"coordinates":[-70.395609,44.06224],"type":"Point"}
+  "bbox": [
+    -70.395609,
+    44.06224,
+    -70.395609,
+    44.06224
+],
+  "geometry": {"coordinates":[-70.39560899999999,44.06224],"type":"Point"}
 }

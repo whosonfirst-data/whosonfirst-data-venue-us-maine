@@ -2,13 +2,14 @@
   "id": 387831593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.470236,43.898186,-70.470236,43.898186",
     "geom:latitude":43.898186,
     "geom:longitude":-70.470236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1443 Roosevelt Trl",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387831593,
-    "wof:lastmodified":1449058337,
+    "wof:lastmodified":1466587208,
     "wof:name":"Raymond Fire Dept",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-70.470236,43.898186,-70.470236,43.898186],
+  "bbox": [
+    -70.470236,
+    43.898186,
+    -70.470236,
+    43.898186
+],
   "geometry": {"coordinates":[-70.470236,43.898186],"type":"Point"}
 }

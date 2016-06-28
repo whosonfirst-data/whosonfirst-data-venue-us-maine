@@ -2,13 +2,14 @@
   "id": 387854745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.192061,43.792134,-70.192061,43.792134",
     "geom:latitude":43.792134,
     "geom:longitude":-70.192061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Woods Circle Rd",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387854745,
-    "wof:lastmodified":1449059778,
+    "wof:lastmodified":1466587170,
     "wof:name":"Winters Oil Burner Service",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.192061,43.792134,-70.192061,43.792134],
+  "bbox": [
+    -70.192061,
+    43.792134,
+    -70.192061,
+    43.792134
+],
   "geometry": {"coordinates":[-70.192061,43.792134],"type":"Point"}
 }

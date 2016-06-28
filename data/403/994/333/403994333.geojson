@@ -2,13 +2,14 @@
   "id": 403994333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.751637,43.087226,-70.751637,43.087226",
     "geom:latitude":43.087226,
     "geom:longitude":-70.751637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Government St",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403994333,
-    "wof:lastmodified":1449054690,
+    "wof:lastmodified":1466587173,
     "wof:name":"Auto Works",
     "wof:parent_id":85828587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-70.751637,43.087226,-70.751637,43.087226],
+  "bbox": [
+    -70.751637,
+    43.087226,
+    -70.751637,
+    43.087226
+],
   "geometry": {"coordinates":[-70.751637,43.087226],"type":"Point"}
 }

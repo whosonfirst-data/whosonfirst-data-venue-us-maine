@@ -2,13 +2,14 @@
   "id": 404011069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.271087,44.212245,-69.271087,44.212245",
     "geom:latitude":44.212245,
     "geom:longitude":-69.271087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Common Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404011069,
-    "wof:lastmodified":1449040078,
+    "wof:lastmodified":1466585808,
     "wof:name":"Vose Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.271087,44.212245,-69.271087,44.212245],
-  "geometry": {"coordinates":[-69.271087,44.212245],"type":"Point"}
+  "bbox": [
+    -69.271087,
+    44.212245,
+    -69.271087,
+    44.212245
+],
+  "geometry": {"coordinates":[-69.27108699999999,44.212245],"type":"Point"}
 }

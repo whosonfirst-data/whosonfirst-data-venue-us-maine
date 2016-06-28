@@ -2,13 +2,14 @@
   "id": 387600835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.218231,44.096943,-70.218231,44.096943",
     "geom:latitude":44.096943,
     "geom:longitude":-70.218231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Canal St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387600835,
-    "wof:lastmodified":1449056452,
+    "wof:lastmodified":1466586357,
     "wof:name":"Business Info Ctr",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.218231,44.096943,-70.218231,44.096943],
+  "bbox": [
+    -70.218231,
+    44.096943,
+    -70.218231,
+    44.096943
+],
   "geometry": {"coordinates":[-70.218231,44.096943],"type":"Point"}
 }

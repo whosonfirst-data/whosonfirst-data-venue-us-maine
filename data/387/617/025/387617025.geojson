@@ -2,13 +2,14 @@
   "id": 387617025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.749699,44.481277,-70.749699,44.481277",
     "geom:latitude":44.481277,
     "geom:longitude":-70.749699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1460 Intervale Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387617025,
-    "wof:lastmodified":1449056248,
+    "wof:lastmodified":1466585683,
     "wof:name":"Swallow Song Farms",
     "wof:parent_id":85831117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.749699,44.481277,-70.749699,44.481277],
-  "geometry": {"coordinates":[-70.749699,44.481277],"type":"Point"}
+  "bbox": [
+    -70.749699,
+    44.481277,
+    -70.749699,
+    44.481277
+],
+  "geometry": {"coordinates":[-70.74969900000001,44.481277],"type":"Point"}
 }

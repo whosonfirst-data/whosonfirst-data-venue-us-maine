@@ -2,13 +2,14 @@
   "id": 404021491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.183387,44.512758,-69.183387,44.512758",
     "geom:latitude":44.512758,
     "geom:longitude":-69.183387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Old County Rd",
     "sg:city":"Thorndike",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404021491,
-    "wof:lastmodified":1449039875,
+    "wof:lastmodified":1466585905,
     "wof:name":"R S D",
     "wof:parent_id":85828753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-69.183387,44.512758,-69.183387,44.512758],
+  "bbox": [
+    -69.183387,
+    44.512758,
+    -69.183387,
+    44.512758
+],
   "geometry": {"coordinates":[-69.183387,44.512758],"type":"Point"}
 }

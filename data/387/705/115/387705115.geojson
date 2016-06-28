@@ -2,13 +2,14 @@
   "id": 387705115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.288495,43.683899,-70.288495,43.683899",
     "geom:latitude":43.683899,
     "geom:longitude":-70.288495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Read St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387705115,
-    "wof:lastmodified":1449059940,
+    "wof:lastmodified":1466586756,
     "wof:name":"Binax Inc",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.288495,43.683899,-70.288495,43.683899],
+  "bbox": [
+    -70.288495,
+    43.683899,
+    -70.288495,
+    43.683899
+],
   "geometry": {"coordinates":[-70.288495,43.683899],"type":"Point"}
 }

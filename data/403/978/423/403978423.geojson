@@ -2,13 +2,14 @@
   "id": 403978423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.588908,44.372447,-69.588908,44.372447",
     "geom:latitude":44.372447,
     "geom:longitude":-69.588908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rockwood Dr",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403978423,
-    "wof:lastmodified":1449055394,
+    "wof:lastmodified":1466587144,
     "wof:name":"Spectrum Designs",
     "wof:parent_id":85850225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.588908,44.372447,-69.588908,44.372447],
+  "bbox": [
+    -69.588908,
+    44.372447,
+    -69.588908,
+    44.372447
+],
   "geometry": {"coordinates":[-69.588908,44.372447],"type":"Point"}
 }

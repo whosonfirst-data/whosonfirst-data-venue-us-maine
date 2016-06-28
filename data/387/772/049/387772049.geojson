@@ -2,13 +2,14 @@
   "id": 387772049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.186371,43.893285,-70.186371,43.893285",
     "geom:latitude":43.893285,
     "geom:longitude":-70.186371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"461 Elmwood Rd",
     "sg:city":"Pownal",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387772049,
-    "wof:lastmodified":1449057811,
+    "wof:lastmodified":1466586895,
     "wof:name":"First Parish Congregational",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.186371,43.893285,-70.186371,43.893285],
-  "geometry": {"coordinates":[-70.186371,43.893285],"type":"Point"}
+  "bbox": [
+    -70.186371,
+    43.893285,
+    -70.186371,
+    43.893285
+],
+  "geometry": {"coordinates":[-70.18637099999999,43.893285],"type":"Point"}
 }

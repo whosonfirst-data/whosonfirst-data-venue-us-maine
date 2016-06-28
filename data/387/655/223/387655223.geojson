@@ -2,13 +2,14 @@
   "id": 387655223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.536414,43.387769,-70.536414,43.387769",
     "geom:latitude":43.387769,
     "geom:longitude":-70.536414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Summer St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387655223,
-    "wof:lastmodified":1449058293,
+    "wof:lastmodified":1466586047,
     "wof:name":"Kennebunk Welfare Dept",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "human"
     ]
 },
-  "bbox": [-70.536414,43.387769,-70.536414,43.387769],
-  "geometry": {"coordinates":[-70.536414,43.387769],"type":"Point"}
+  "bbox": [
+    -70.536414,
+    43.387769,
+    -70.536414,
+    43.387769
+],
+  "geometry": {"coordinates":[-70.53641399999999,43.387769],"type":"Point"}
 }

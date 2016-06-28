@@ -2,13 +2,14 @@
   "id": 387970959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.570947,43.641485,-70.570947,43.641485",
     "geom:latitude":43.641485,
     "geom:longitude":-70.570947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Back Nippen Rd",
     "sg:city":"West Buxton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387970959,
-    "wof:lastmodified":1449059857,
+    "wof:lastmodified":1466587351,
     "wof:name":"Heavy Haulers Transport",
     "wof:parent_id":85852373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-70.570947,43.641485,-70.570947,43.641485],
+  "bbox": [
+    -70.570947,
+    43.641485,
+    -70.570947,
+    43.641485
+],
   "geometry": {"coordinates":[-70.570947,43.641485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387665069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.967476,46.878622,-67.967476,46.878622",
     "geom:latitude":46.878622,
     "geom:longitude":-67.967476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"294 Access Hwy",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387665069,
-    "wof:lastmodified":1449057264,
+    "wof:lastmodified":1466586204,
     "wof:name":"Bethel Pentecostal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.967476,46.878622,-67.967476,46.878622],
+  "bbox": [
+    -67.967476,
+    46.878622,
+    -67.967476,
+    46.878622
+],
   "geometry": {"coordinates":[-67.967476,46.878622],"type":"Point"}
 }

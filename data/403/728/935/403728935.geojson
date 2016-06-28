@@ -2,13 +2,14 @@
   "id": 403728935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.449667,43.519674,-70.449667,43.519674",
     "geom:latitude":43.519674,
     "geom:longitude":-70.449667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Industrial Park Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403728935,
-    "wof:lastmodified":1449054954,
+    "wof:lastmodified":1466585954,
     "wof:name":"American Medical Systems",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-70.449667,43.519674,-70.449667,43.519674],
-  "geometry": {"coordinates":[-70.449667,43.519674],"type":"Point"}
+  "bbox": [
+    -70.449667,
+    43.519674,
+    -70.449667,
+    43.519674
+],
+  "geometry": {"coordinates":[-70.44966700000001,43.519674],"type":"Point"}
 }

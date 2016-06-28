@@ -2,13 +2,14 @@
   "id": 403887651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.002925,44.72349,-69.002925,44.72349",
     "geom:latitude":44.72349,
     "geom:longitude":-69.002925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Lindsey Rd",
     "sg:city":"Newburgh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403887651,
-    "wof:lastmodified":1449055692,
+    "wof:lastmodified":1466586772,
     "wof:name":"A & G Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-69.002925,44.72349,-69.002925,44.72349],
+  "bbox": [
+    -69.002925,
+    44.72349,
+    -69.002925,
+    44.72349
+],
   "geometry": {"coordinates":[-69.002925,44.72349],"type":"Point"}
 }

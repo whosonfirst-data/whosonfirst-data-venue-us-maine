@@ -2,13 +2,14 @@
   "id": 387646183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.338276,43.720099,-70.338276,43.720099",
     "geom:latitude":43.720099,
     "geom:longitude":-70.338276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387646183,
-    "wof:lastmodified":1449056021,
+    "wof:lastmodified":1466585947,
     "wof:name":"Lake Region Imports Inc",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.338276,43.720099,-70.338276,43.720099],
-  "geometry": {"coordinates":[-70.338276,43.720099],"type":"Point"}
+  "bbox": [
+    -70.338276,
+    43.720099,
+    -70.338276,
+    43.720099
+],
+  "geometry": {"coordinates":[-70.33827599999999,43.720099],"type":"Point"}
 }

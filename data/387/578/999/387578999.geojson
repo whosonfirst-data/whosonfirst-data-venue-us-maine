@@ -2,13 +2,14 @@
   "id": 387578999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.374213,45.165308,-69.374213,45.165308",
     "geom:latitude":45.165308,
     "geom:longitude":-69.374213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Hudson Ave",
     "sg:city":"Guilford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387578999,
-    "wof:lastmodified":1449057063,
+    "wof:lastmodified":1466586008,
     "wof:name":"Hudson Ave Florists & Gifts",
     "wof:parent_id":85806555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.374213,45.165308,-69.374213,45.165308],
+  "bbox": [
+    -69.374213,
+    45.165308,
+    -69.374213,
+    45.165308
+],
   "geometry": {"coordinates":[-69.374213,45.165308],"type":"Point"}
 }

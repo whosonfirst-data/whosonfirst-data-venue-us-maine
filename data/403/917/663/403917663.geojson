@@ -2,13 +2,14 @@
   "id": 403917663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.31515,43.752825,-70.31515,43.752825",
     "geom:latitude":43.752825,
     "geom:longitude":-70.31515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Innkeepers Ln",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403917663,
-    "wof:lastmodified":1449055790,
+    "wof:lastmodified":1466586968,
     "wof:name":"George Photography Whitney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-70.31515,43.752825,-70.31515,43.752825],
+  "bbox": [
+    -70.31515,
+    43.752825,
+    -70.31515,
+    43.752825
+],
   "geometry": {"coordinates":[-70.31515,43.752825],"type":"Point"}
 }

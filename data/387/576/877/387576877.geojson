@@ -2,13 +2,14 @@
   "id": 387576877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.78986,44.219353,-69.78986,44.219353",
     "geom:latitude":44.219353,
     "geom:longitude":-69.78986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Central St",
     "sg:city":"Gardiner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387576877,
-    "wof:lastmodified":1449059031,
+    "wof:lastmodified":1466585999,
     "wof:name":"Crane Leasing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-69.78986,44.219353,-69.78986,44.219353],
+  "bbox": [
+    -69.78986,
+    44.219353,
+    -69.78986,
+    44.219353
+],
   "geometry": {"coordinates":[-69.78986,44.219353],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403898803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.535193,44.213583,-70.535193,44.213583",
     "geom:latitude":44.213583,
     "geom:longitude":-70.535193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Beal St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403898803,
-    "wof:lastmodified":1449054603,
+    "wof:lastmodified":1466586849,
     "wof:name":"Convenient Living Home",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "house"
     ]
 },
-  "bbox": [-70.535193,44.213583,-70.535193,44.213583],
-  "geometry": {"coordinates":[-70.535193,44.213583],"type":"Point"}
+  "bbox": [
+    -70.535193,
+    44.213583,
+    -70.535193,
+    44.213583
+],
+  "geometry": {"coordinates":[-70.53519300000001,44.213583],"type":"Point"}
 }

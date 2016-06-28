@@ -2,13 +2,14 @@
   "id": 387672673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.016821,44.420141,-69.016821,44.420141",
     "geom:latitude":44.420141,
     "geom:longitude":-69.016821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Lincolnville Ave",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387672673,
-    "wof:lastmodified":1449056357,
+    "wof:lastmodified":1466586322,
     "wof:name":"Faith Temple Church Of God",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-69.016821,44.420141,-69.016821,44.420141],
-  "geometry": {"coordinates":[-69.016821,44.420141],"type":"Point"}
+  "bbox": [
+    -69.016821,
+    44.420141,
+    -69.016821,
+    44.420141
+],
+  "geometry": {"coordinates":[-69.01682099999999,44.420141],"type":"Point"}
 }

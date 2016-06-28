@@ -2,13 +2,14 @@
   "id": 387764715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.198399,44.11221,-70.198399,44.11221",
     "geom:latitude":44.11221,
     "geom:longitude":-70.198399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Marble St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387764715,
-    "wof:lastmodified":1449059740,
+    "wof:lastmodified":1466587048,
     "wof:name":"Riverside Cemetery Association",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-70.198399,44.11221,-70.198399,44.11221],
-  "geometry": {"coordinates":[-70.198399,44.11221],"type":"Point"}
+  "bbox": [
+    -70.198399,
+    44.11221,
+    -70.198399,
+    44.11221
+],
+  "geometry": {"coordinates":[-70.19839899999999,44.11221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387623519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.42588,43.590944,-70.42588,43.590944",
     "geom:latitude":43.590944,
     "geom:longitude":-70.42588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Broadturn Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387623519,
-    "wof:lastmodified":1449058782,
+    "wof:lastmodified":1466585740,
     "wof:name":"Prime Business Svc",
     "wof:parent_id":85834397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.42588,43.590944,-70.42588,43.590944],
-  "geometry": {"coordinates":[-70.42588,43.590944],"type":"Point"}
+  "bbox": [
+    -70.42588,
+    43.590944,
+    -70.42588,
+    43.590944
+],
+  "geometry": {"coordinates":[-70.42588000000001,43.590944],"type":"Point"}
 }

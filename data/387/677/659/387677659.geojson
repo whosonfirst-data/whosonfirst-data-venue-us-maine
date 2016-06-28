@@ -2,13 +2,14 @@
   "id": 387677659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.544352,44.556685,-70.544352,44.556685",
     "geom:latitude":44.556685,
     "geom:longitude":-70.544352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Main St",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":387677659,
-    "wof:lastmodified":1449057465,
+    "wof:lastmodified":1466586403,
     "wof:name":"Labella Bellezza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.544352,44.556685,-70.544352,44.556685],
+  "bbox": [
+    -70.544352,
+    44.556685,
+    -70.544352,
+    44.556685
+],
   "geometry": {"coordinates":[-70.544352,44.556685],"type":"Point"}
 }

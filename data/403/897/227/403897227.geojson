@@ -2,13 +2,14 @@
   "id": 403897227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.536821,44.55325,-70.536821,44.55325",
     "geom:latitude":44.55325,
     "geom:longitude":-70.536821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Main St",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":403897227,
-    "wof:lastmodified":1449055757,
+    "wof:lastmodified":1466586832,
     "wof:name":"River Valley Literacy Vlntrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "agent"
     ]
 },
-  "bbox": [-70.536821,44.55325,-70.536821,44.55325],
+  "bbox": [
+    -70.536821,
+    44.55325,
+    -70.536821,
+    44.55325
+],
   "geometry": {"coordinates":[-70.536821,44.55325],"type":"Point"}
 }

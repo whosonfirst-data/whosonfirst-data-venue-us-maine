@@ -2,13 +2,14 @@
   "id": 403987643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.338868,43.720863,-70.338868,43.720863",
     "geom:latitude":43.720863,
     "geom:longitude":-70.338868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403987643,
-    "wof:lastmodified":1449055380,
+    "wof:lastmodified":1466587247,
     "wof:name":"Play Time Entertainment",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "escort"
     ]
 },
-  "bbox": [-70.338868,43.720863,-70.338868,43.720863],
-  "geometry": {"coordinates":[-70.338868,43.720863],"type":"Point"}
+  "bbox": [
+    -70.338868,
+    43.720863,
+    -70.338868,
+    43.720863
+],
+  "geometry": {"coordinates":[-70.33886800000001,43.720863],"type":"Point"}
 }

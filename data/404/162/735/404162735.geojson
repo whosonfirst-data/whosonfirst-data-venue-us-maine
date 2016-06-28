@@ -2,13 +2,14 @@
   "id": 404162735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.738161,44.815005,-68.738161,44.815005",
     "geom:latitude":44.815005,
     "geom:longitude":-68.738161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"176 Hogan Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404162735,
-    "wof:lastmodified":1449040140,
+    "wof:lastmodified":1466586774,
     "wof:name":"Advocacy Initiative Network",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.738161,44.815005,-68.738161,44.815005],
-  "geometry": {"coordinates":[-68.738161,44.815005],"type":"Point"}
+  "bbox": [
+    -68.738161,
+    44.815005,
+    -68.738161,
+    44.815005
+],
+  "geometry": {"coordinates":[-68.73816100000001,44.815005],"type":"Point"}
 }

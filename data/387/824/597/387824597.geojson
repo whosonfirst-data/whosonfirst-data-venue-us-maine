@@ -2,13 +2,14 @@
   "id": 387824597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.173498,43.805349,-70.173498,43.805349",
     "geom:latitude":43.805349,
     "geom:longitude":-70.173498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 US Hwy 1",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387824597,
-    "wof:lastmodified":1449057457,
+    "wof:lastmodified":1466587107,
     "wof:name":"Sun Tiki Tanning Salon & Juice",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-70.173498,43.805349,-70.173498,43.805349],
+  "bbox": [
+    -70.173498,
+    43.805349,
+    -70.173498,
+    43.805349
+],
   "geometry": {"coordinates":[-70.173498,43.805349],"type":"Point"}
 }

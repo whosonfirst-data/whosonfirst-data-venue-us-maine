@@ -2,13 +2,14 @@
   "id": 387863627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.821547,44.812574,-68.821547,44.812574",
     "geom:latitude":44.812574,
     "geom:longitude":-68.821547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Griffin Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387863627,
-    "wof:lastmodified":1449058742,
+    "wof:lastmodified":1466587260,
     "wof:name":"Native Energy & Technology Inc",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-68.821547,44.812574,-68.821547,44.812574],
+  "bbox": [
+    -68.821547,
+    44.812574,
+    -68.821547,
+    44.812574
+],
   "geometry": {"coordinates":[-68.821547,44.812574],"type":"Point"}
 }

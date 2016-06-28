@@ -2,13 +2,14 @@
   "id": 387715555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.770153,43.096013,-70.770153,43.096013",
     "geom:latitude":43.096013,
     "geom:longitude":-70.770153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Woodbine Ave",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387715555,
-    "wof:lastmodified":1449059150,
+    "wof:lastmodified":1466586793,
     "wof:name":"Vick P Contella",
     "wof:parent_id":85849617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-70.770153,43.096013,-70.770153,43.096013],
-  "geometry": {"coordinates":[-70.770153,43.096013],"type":"Point"}
+  "bbox": [
+    -70.770153,
+    43.096013,
+    -70.770153,
+    43.096013
+],
+  "geometry": {"coordinates":[-70.77015299999999,43.096013],"type":"Point"}
 }

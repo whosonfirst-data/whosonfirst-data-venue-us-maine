@@ -2,13 +2,14 @@
   "id": 387898823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.714641,44.786556,-68.714641,44.786556",
     "geom:latitude":44.786556,
     "geom:longitude":-68.714641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Eastern Ave",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387898823,
-    "wof:lastmodified":1449056036,
+    "wof:lastmodified":1466587242,
     "wof:name":"Thompsons Grooming",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.714641,44.786556,-68.714641,44.786556],
+  "bbox": [
+    -68.714641,
+    44.786556,
+    -68.714641,
+    44.786556
+],
   "geometry": {"coordinates":[-68.714641,44.786556],"type":"Point"}
 }

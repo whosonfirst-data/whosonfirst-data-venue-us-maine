@@ -2,13 +2,14 @@
   "id": 404162513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.814207,43.913443,-69.814207,43.913443",
     "geom:latitude":43.913443,
     "geom:longitude":-69.814207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Front St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404162513,
-    "wof:lastmodified":1449040138,
+    "wof:lastmodified":1466586769,
     "wof:name":"City Of Bath Assessors Office",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [-69.814207,43.913443,-69.814207,43.913443],
+  "bbox": [
+    -69.814207,
+    43.913443,
+    -69.814207,
+    43.913443
+],
   "geometry": {"coordinates":[-69.814207,43.913443],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387856727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.293294,43.629109,-70.293294,43.629109",
     "geom:latitude":43.629109,
     "geom:longitude":-70.293294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 Main St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387856727,
-    "wof:lastmodified":1449057175,
+    "wof:lastmodified":1466587181,
     "wof:name":"Creations Hair Studio",
     "wof:parent_id":85809743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.293294,43.629109,-70.293294,43.629109],
+  "bbox": [
+    -70.293294,
+    43.629109,
+    -70.293294,
+    43.629109
+],
   "geometry": {"coordinates":[-70.293294,43.629109],"type":"Point"}
 }

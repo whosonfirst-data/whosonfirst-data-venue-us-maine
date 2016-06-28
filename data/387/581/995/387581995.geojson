@@ -2,13 +2,14 @@
   "id": 387581995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.770826,44.244122,-69.770826,44.244122",
     "geom:latitude":44.244122,
     "geom:longitude":-69.770826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Bowman St",
     "sg:city":"Farmingdale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387581995,
-    "wof:lastmodified":1449056907,
+    "wof:lastmodified":1466586039,
     "wof:name":"Beedle's Lock & Key Shop",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-69.770826,44.244122,-69.770826,44.244122],
+  "bbox": [
+    -69.770826,
+    44.244122,
+    -69.770826,
+    44.244122
+],
   "geometry": {"coordinates":[-69.770826,44.244122],"type":"Point"}
 }

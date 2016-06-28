@@ -2,13 +2,14 @@
   "id": 387617667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.289171,45.172805,-67.289171,45.172805",
     "geom:latitude":45.172805,
     "geom:longitude":-67.289171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 US Hwy 1",
     "sg:city":"Sullivan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387617667,
-    "wof:lastmodified":1449056248,
+    "wof:lastmodified":1466585693,
     "wof:name":"Sullivan Harbor Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-67.289171,45.172805,-67.289171,45.172805],
+  "bbox": [
+    -67.289171,
+    45.172805,
+    -67.289171,
+    45.172805
+],
   "geometry": {"coordinates":[-67.289171,45.172805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387554689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.685977,44.545341,-69.685977,44.545341",
     "geom:latitude":44.545341,
     "geom:longitude":-69.685977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Forest Ave",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387554689,
-    "wof:lastmodified":1449056889,
+    "wof:lastmodified":1466585865,
     "wof:name":"Perry Fitts Boulette & Fitton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-69.685977,44.545341,-69.685977,44.545341],
-  "geometry": {"coordinates":[-69.685977,44.545341],"type":"Point"}
+  "bbox": [
+    -69.685977,
+    44.545341,
+    -69.685977,
+    44.545341
+],
+  "geometry": {"coordinates":[-69.68597699999999,44.545341],"type":"Point"}
 }

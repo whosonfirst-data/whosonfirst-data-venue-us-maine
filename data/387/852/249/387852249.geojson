@@ -2,13 +2,14 @@
   "id": 387852249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.367415,43.58109,-70.367415,43.58109",
     "geom:latitude":43.58109,
     "geom:longitude":-70.367415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 US Hwy 1",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387852249,
-    "wof:lastmodified":1449059272,
+    "wof:lastmodified":1466587158,
     "wof:name":"Just For Kids Pediatric",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-70.367415,43.58109,-70.367415,43.58109],
-  "geometry": {"coordinates":[-70.367415,43.58109],"type":"Point"}
+  "bbox": [
+    -70.367415,
+    43.58109,
+    -70.367415,
+    43.58109
+],
+  "geometry": {"coordinates":[-70.36741499999999,43.58109],"type":"Point"}
 }

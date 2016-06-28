@@ -2,13 +2,14 @@
   "id": 404089003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.346998,44.49971,-68.346998,44.49971",
     "geom:latitude":44.49971,
     "geom:longitude":-68.346998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Douglas Hwy",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404089003,
-    "wof:lastmodified":1449039303,
+    "wof:lastmodified":1466585838,
     "wof:name":"Smart Carolyn H Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-68.346998,44.49971,-68.346998,44.49971],
+  "bbox": [
+    -68.346998,
+    44.49971,
+    -68.346998,
+    44.49971
+],
   "geometry": {"coordinates":[-68.346998,44.49971],"type":"Point"}
 }

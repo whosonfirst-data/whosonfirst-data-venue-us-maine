@@ -2,13 +2,14 @@
   "id": 404203001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.276618,43.619147,-70.276618,43.619147",
     "geom:latitude":43.619147,
     "geom:longitude":-70.276618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Alfred St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404203001,
-    "wof:lastmodified":1449039547,
+    "wof:lastmodified":1466587021,
     "wof:name":"Star Metal Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-70.276618,43.619147,-70.276618,43.619147],
+  "bbox": [
+    -70.276618,
+    43.619147,
+    -70.276618,
+    43.619147
+],
   "geometry": {"coordinates":[-70.276618,43.619147],"type":"Point"}
 }

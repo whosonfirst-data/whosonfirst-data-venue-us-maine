@@ -2,13 +2,14 @@
   "id": 387655275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.500922,43.556176,-70.500922,43.556176",
     "geom:latitude":43.556176,
     "geom:longitude":-70.500922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Simpson Rd",
     "sg:city":"Buxton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387655275,
-    "wof:lastmodified":1449058294,
+    "wof:lastmodified":1466586048,
     "wof:name":"Berry's Elder Care Home",
     "wof:parent_id":85847051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adult"
     ]
 },
-  "bbox": [-70.500922,43.556176,-70.500922,43.556176],
+  "bbox": [
+    -70.500922,
+    43.556176,
+    -70.500922,
+    43.556176
+],
   "geometry": {"coordinates":[-70.500922,43.556176],"type":"Point"}
 }

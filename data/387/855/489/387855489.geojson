@@ -2,13 +2,14 @@
   "id": 387855489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.065932,44.20968,-69.065932,44.20968",
     "geom:latitude":44.20968,
     "geom:longitude":-69.065932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Washington St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387855489,
-    "wof:lastmodified":1449058910,
+    "wof:lastmodified":1466587253,
     "wof:name":"Doug Felton Web Dev & Design",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "internet"
     ]
 },
-  "bbox": [-69.065932,44.20968,-69.065932,44.20968],
+  "bbox": [
+    -69.065932,
+    44.20968,
+    -69.065932,
+    44.20968
+],
   "geometry": {"coordinates":[-69.065932,44.20968],"type":"Point"}
 }

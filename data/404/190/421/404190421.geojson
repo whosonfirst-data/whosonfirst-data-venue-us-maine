@@ -2,13 +2,14 @@
   "id": 404190421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.660847,44.542486,-69.660847,44.542486",
     "geom:latitude":44.542486,
     "geom:longitude":-69.660847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Kennedy Memorial Dr",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404190421,
-    "wof:lastmodified":1449040264,
+    "wof:lastmodified":1466586809,
     "wof:name":"Black Stove Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "burning"
     ]
 },
-  "bbox": [-69.660847,44.542486,-69.660847,44.542486],
+  "bbox": [
+    -69.660847,
+    44.542486,
+    -69.660847,
+    44.542486
+],
   "geometry": {"coordinates":[-69.660847,44.542486],"type":"Point"}
 }

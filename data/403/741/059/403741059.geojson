@@ -2,13 +2,14 @@
   "id": 403741059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.853917,44.749461,-68.853917,44.749461",
     "geom:latitude":44.749461,
     "geom:longitude":-68.853917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Surrey Ln",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403741059,
-    "wof:lastmodified":1449054696,
+    "wof:lastmodified":1466586069,
     "wof:name":"Holt Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-68.853917,44.749461,-68.853917,44.749461],
+  "bbox": [
+    -68.853917,
+    44.749461,
+    -68.853917,
+    44.749461
+],
   "geometry": {"coordinates":[-68.853917,44.749461],"type":"Point"}
 }

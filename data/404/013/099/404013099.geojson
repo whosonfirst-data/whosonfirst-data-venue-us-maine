@@ -2,13 +2,14 @@
   "id": 404013099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.767007,44.748065,-68.767007,44.748065",
     "geom:latitude":44.748065,
     "geom:longitude":-68.767007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Brewer Lake Rd",
     "sg:city":"Orrington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":404013099,
-    "wof:lastmodified":1449039943,
+    "wof:lastmodified":1466585824,
     "wof:name":"Maine Test Borings Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.767007,44.748065,-68.767007,44.748065],
-  "geometry": {"coordinates":[-68.767007,44.748065],"type":"Point"}
+  "bbox": [
+    -68.767007,
+    44.748065,
+    -68.767007,
+    44.748065
+],
+  "geometry": {"coordinates":[-68.76700700000001,44.748065],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387569519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.112032,44.116688,-69.112032,44.116688",
     "geom:latitude":44.116688,
     "geom:longitude":-69.112032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Cedar St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387569519,
-    "wof:lastmodified":1449059767,
+    "wof:lastmodified":1466585884,
     "wof:name":"B Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.112032,44.116688,-69.112032,44.116688],
+  "bbox": [
+    -69.112032,
+    44.116688,
+    -69.112032,
+    44.116688
+],
   "geometry": {"coordinates":[-69.112032,44.116688],"type":"Point"}
 }

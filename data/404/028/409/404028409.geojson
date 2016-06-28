@@ -2,13 +2,14 @@
   "id": 404028409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.790481,44.848911,-68.790481,44.848911",
     "geom:latitude":44.848911,
     "geom:longitude":-68.790481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 D St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404028409,
-    "wof:lastmodified":1449039787,
+    "wof:lastmodified":1466585963,
     "wof:name":"Thomas Di Cenzo Inc",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.790481,44.848911,-68.790481,44.848911],
+  "bbox": [
+    -68.790481,
+    44.848911,
+    -68.790481,
+    44.848911
+],
   "geometry": {"coordinates":[-68.790481,44.848911],"type":"Point"}
 }

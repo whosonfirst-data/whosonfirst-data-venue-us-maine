@@ -2,13 +2,14 @@
   "id": 403936117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.928443,43.945861,-69.928443,43.945861",
     "geom:latitude":43.945861,
     "geom:longitude":-69.928443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"267 Middlesex Rd",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403936117,
-    "wof:lastmodified":1449055078,
+    "wof:lastmodified":1466587119,
     "wof:name":"Michaels Furniture Restoration",
     "wof:parent_id":85809811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-69.928443,43.945861,-69.928443,43.945861],
+  "bbox": [
+    -69.928443,
+    43.945861,
+    -69.928443,
+    43.945861
+],
   "geometry": {"coordinates":[-69.928443,43.945861],"type":"Point"}
 }

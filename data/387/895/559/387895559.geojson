@@ -2,13 +2,14 @@
   "id": 387895559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.445435,43.490409,-70.445435,43.490409",
     "geom:latitude":43.490409,
     "geom:longitude":-70.445435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 George St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387895559,
-    "wof:lastmodified":1449057721,
+    "wof:lastmodified":1466587232,
     "wof:name":"People Movers",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-70.445435,43.490409,-70.445435,43.490409],
+  "bbox": [
+    -70.445435,
+    43.490409,
+    -70.445435,
+    43.490409
+],
   "geometry": {"coordinates":[-70.445435,43.490409],"type":"Point"}
 }

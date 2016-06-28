@@ -2,13 +2,14 @@
   "id": 404082825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.237077,44.608872,-69.237077,44.608872",
     "geom:latitude":44.608872,
     "geom:longitude":-69.237077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Palmer Rd",
     "sg:city":"Unity",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404082825,
-    "wof:lastmodified":1449039109,
+    "wof:lastmodified":1466585778,
     "wof:name":"Parsons Small Engine",
     "wof:parent_id":85828753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-69.237077,44.608872,-69.237077,44.608872],
+  "bbox": [
+    -69.237077,
+    44.608872,
+    -69.237077,
+    44.608872
+],
   "geometry": {"coordinates":[-69.237077,44.608872],"type":"Point"}
 }

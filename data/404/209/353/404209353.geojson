@@ -2,13 +2,14 @@
   "id": 404209353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.760365,43.417297,-70.760365,43.417297",
     "geom:latitude":43.417297,
     "geom:longitude":-70.760365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Plaza Dr",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404209353,
-    "wof:lastmodified":1449040196,
+    "wof:lastmodified":1466586957,
     "wof:name":"Professional Flooring Of Maine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "floor"
     ]
 },
-  "bbox": [-70.760365,43.417297,-70.760365,43.417297],
-  "geometry": {"coordinates":[-70.760365,43.417297],"type":"Point"}
+  "bbox": [
+    -70.760365,
+    43.417297,
+    -70.760365,
+    43.417297
+],
+  "geometry": {"coordinates":[-70.76036499999999,43.417297],"type":"Point"}
 }

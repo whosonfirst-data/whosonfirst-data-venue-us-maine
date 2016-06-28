@@ -2,13 +2,14 @@
   "id": 404168003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.783178,46.135332,-67.783178,46.135332",
     "geom:latitude":46.135332,
     "geom:longitude":-67.783178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Customs Loop",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404168003,
-    "wof:lastmodified":1449039751,
+    "wof:lastmodified":1466586777,
     "wof:name":"PBB USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "customs"
     ]
 },
-  "bbox": [-67.783178,46.135332,-67.783178,46.135332],
-  "geometry": {"coordinates":[-67.783178,46.135332],"type":"Point"}
+  "bbox": [
+    -67.783178,
+    46.135332,
+    -67.783178,
+    46.135332
+],
+  "geometry": {"coordinates":[-67.78317800000001,46.135332],"type":"Point"}
 }

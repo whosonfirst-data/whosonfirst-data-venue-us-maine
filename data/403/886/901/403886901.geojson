@@ -2,13 +2,14 @@
   "id": 403886901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.298131,43.599739,-70.298131,43.599739",
     "geom:latitude":43.599739,
     "geom:longitude":-70.298131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Pleasant Hill Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403886901,
-    "wof:lastmodified":1449055372,
+    "wof:lastmodified":1466586874,
     "wof:name":"Little Sprouts Inc",
     "wof:parent_id":85842219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.298131,43.599739,-70.298131,43.599739],
+  "bbox": [
+    -70.298131,
+    43.599739,
+    -70.298131,
+    43.599739
+],
   "geometry": {"coordinates":[-70.298131,43.599739],"type":"Point"}
 }

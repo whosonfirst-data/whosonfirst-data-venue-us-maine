@@ -2,13 +2,14 @@
   "id": 387895659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.191488,43.80263,-70.191488,43.80263",
     "geom:latitude":43.80263,
     "geom:longitude":-70.191488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Main St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387895659,
-    "wof:lastmodified":1449057720,
+    "wof:lastmodified":1466587235,
     "wof:name":"Peter S Lee Attorneys At Law",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-70.191488,43.80263,-70.191488,43.80263],
-  "geometry": {"coordinates":[-70.191488,43.80263],"type":"Point"}
+  "bbox": [
+    -70.191488,
+    43.80263,
+    -70.191488,
+    43.80263
+],
+  "geometry": {"coordinates":[-70.19148800000001,43.80263],"type":"Point"}
 }

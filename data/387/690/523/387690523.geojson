@@ -2,13 +2,14 @@
   "id": 387690523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.434329,43.509873,-70.434329,43.509873",
     "geom:latitude":43.509873,
     "geom:longitude":-70.434329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 Main St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387690523,
-    "wof:lastmodified":1449058122,
+    "wof:lastmodified":1466586611,
     "wof:name":"Card Smart",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.434329,43.509873,-70.434329,43.509873],
-  "geometry": {"coordinates":[-70.434329,43.509873],"type":"Point"}
+  "bbox": [
+    -70.434329,
+    43.509873,
+    -70.434329,
+    43.509873
+],
+  "geometry": {"coordinates":[-70.43432900000001,43.509873],"type":"Point"}
 }

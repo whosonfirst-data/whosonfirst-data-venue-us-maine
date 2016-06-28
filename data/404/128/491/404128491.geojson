@@ -2,13 +2,14 @@
   "id": 404128491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.805239,43.165098,-70.805239,43.165098",
     "geom:latitude":43.165098,
     "geom:longitude":-70.805239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Dow Hwy",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404128491,
-    "wof:lastmodified":1449039496,
+    "wof:lastmodified":1466586428,
     "wof:name":"Marshwood Junior High School",
     "wof:parent_id":85822373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.805239,43.165098,-70.805239,43.165098],
+  "bbox": [
+    -70.805239,
+    43.165098,
+    -70.805239,
+    43.165098
+],
   "geometry": {"coordinates":[-70.805239,43.165098],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404208731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.285934,43.636732,-70.285934,43.636732",
     "geom:latitude":43.636732,
     "geom:longitude":-70.285934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Lincoln St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404208731,
-    "wof:lastmodified":1449039161,
+    "wof:lastmodified":1466586953,
     "wof:name":"Troiano's Waste Svc",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-70.285934,43.636732,-70.285934,43.636732],
+  "bbox": [
+    -70.285934,
+    43.636732,
+    -70.285934,
+    43.636732
+],
   "geometry": {"coordinates":[-70.285934,43.636732],"type":"Point"}
 }

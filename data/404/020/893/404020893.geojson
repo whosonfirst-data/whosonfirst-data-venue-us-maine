@@ -2,13 +2,14 @@
   "id": 404020893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.57718,43.478344,-70.57718,43.478344",
     "geom:latitude":43.478344,
     "geom:longitude":-70.57718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1144 Alfred St",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404020893,
-    "wof:lastmodified":1449039572,
+    "wof:lastmodified":1466585897,
     "wof:name":"Used Cars Sales",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-70.57718,43.478344,-70.57718,43.478344],
+  "bbox": [
+    -70.57718,
+    43.478344,
+    -70.57718,
+    43.478344
+],
   "geometry": {"coordinates":[-70.57718,43.478344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387942661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.839583,44.794501,-68.839583,44.794501",
     "geom:latitude":44.794501,
     "geom:longitude":-68.839583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1576 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387942661,
-    "wof:lastmodified":1449057840,
+    "wof:lastmodified":1466587284,
     "wof:name":"Bernatche Auto Body",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-68.839583,44.794501,-68.839583,44.794501],
+  "bbox": [
+    -68.839583,
+    44.794501,
+    -68.839583,
+    44.794501
+],
   "geometry": {"coordinates":[-68.839583,44.794501],"type":"Point"}
 }

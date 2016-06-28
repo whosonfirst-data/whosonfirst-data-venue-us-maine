@@ -2,13 +2,14 @@
   "id": 403933105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.010283,46.866122,-68.010283,46.866122",
     "geom:latitude":46.866122,
     "geom:longitude":-68.010283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Caroline Ave",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403933105,
-    "wof:lastmodified":1449054909,
+    "wof:lastmodified":1466587024,
     "wof:name":"Jerrys Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-68.010283,46.866122,-68.010283,46.866122],
+  "bbox": [
+    -68.010283,
+    46.866122,
+    -68.010283,
+    46.866122
+],
   "geometry": {"coordinates":[-68.010283,46.866122],"type":"Point"}
 }

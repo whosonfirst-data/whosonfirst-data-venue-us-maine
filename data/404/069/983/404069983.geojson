@@ -2,13 +2,14 @@
   "id": 404069983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.421993,44.541142,-68.421993,44.541142",
     "geom:latitude":44.541142,
     "geom:longitude":-68.421993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Hancock St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404069983,
-    "wof:lastmodified":1449039887,
+    "wof:lastmodified":1466586591,
     "wof:name":"Charlie's Pizza & Sub Shop",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-68.421993,44.541142,-68.421993,44.541142],
+  "bbox": [
+    -68.421993,
+    44.541142,
+    -68.421993,
+    44.541142
+],
   "geometry": {"coordinates":[-68.421993,44.541142],"type":"Point"}
 }

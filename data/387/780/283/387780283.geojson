@@ -2,13 +2,14 @@
   "id": 387780283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.201425,44.124556,-70.201425,44.124556",
     "geom:latitude":44.124556,
     "geom:longitude":-70.201425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387780283,
-    "wof:lastmodified":1449058956,
+    "wof:lastmodified":1466586915,
     "wof:name":"Lewiston Mobil On The Run",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-70.201425,44.124556,-70.201425,44.124556],
+  "bbox": [
+    -70.201425,
+    44.124556,
+    -70.201425,
+    44.124556
+],
   "geometry": {"coordinates":[-70.201425,44.124556],"type":"Point"}
 }

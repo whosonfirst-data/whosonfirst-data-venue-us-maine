@@ -2,13 +2,14 @@
   "id": 387920299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.986331,44.905222,-66.986331,44.905222",
     "geom:latitude":44.905222,
     "geom:longitude":-66.986331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Boynton St",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387920299,
-    "wof:lastmodified":1449059045,
+    "wof:lastmodified":1466587326,
     "wof:name":"Project Share",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "endangered"
     ]
 },
-  "bbox": [-66.986331,44.905222,-66.986331,44.905222],
-  "geometry": {"coordinates":[-66.986331,44.905222],"type":"Point"}
+  "bbox": [
+    -66.986331,
+    44.905222,
+    -66.986331,
+    44.905222
+],
+  "geometry": {"coordinates":[-66.98633100000001,44.905222],"type":"Point"}
 }

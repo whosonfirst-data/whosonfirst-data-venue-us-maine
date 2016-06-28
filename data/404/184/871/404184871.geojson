@@ -2,13 +2,14 @@
   "id": 404184871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.275041,47.348496,-68.275041,47.348496",
     "geom:latitude":47.348496,
     "geom:longitude":-68.275041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Main St",
     "sg:city":"Madawaska",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404184871,
-    "wof:lastmodified":1449039236,
+    "wof:lastmodified":1466586761,
     "wof:name":"Cyr Can-AM Travel",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-68.275041,47.348496,-68.275041,47.348496],
+  "bbox": [
+    -68.275041,
+    47.348496,
+    -68.275041,
+    47.348496
+],
   "geometry": {"coordinates":[-68.275041,47.348496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387723109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.013704,46.860338,-68.013704,46.860338",
     "geom:latitude":46.860338,
     "geom:longitude":-68.013704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Sweden St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387723109,
-    "wof:lastmodified":1449058327,
+    "wof:lastmodified":1466586810,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-68.013704,46.860338,-68.013704,46.860338],
+  "bbox": [
+    -68.013704,
+    46.860338,
+    -68.013704,
+    46.860338
+],
   "geometry": {"coordinates":[-68.013704,46.860338],"type":"Point"}
 }

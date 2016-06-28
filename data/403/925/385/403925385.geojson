@@ -2,13 +2,14 @@
   "id": 403925385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.219308,44.809802,-70.219308,44.809802",
     "geom:latitude":44.809802,
     "geom:longitude":-70.219308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Main St",
     "sg:city":"Jackman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403925385,
-    "wof:lastmodified":1449054641,
+    "wof:lastmodified":1466587014,
     "wof:name":"Four Seasons Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.219308,44.809802,-70.219308,44.809802],
+  "bbox": [
+    -70.219308,
+    44.809802,
+    -70.219308,
+    44.809802
+],
   "geometry": {"coordinates":[-70.219308,44.809802],"type":"Point"}
 }

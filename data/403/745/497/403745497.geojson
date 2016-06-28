@@ -2,13 +2,14 @@
   "id": 403745497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.213603,46.87871,-68.213603,46.87871",
     "geom:latitude":46.87871,
     "geom:longitude":-68.213603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 Woodland Center Rd",
     "sg:city":"Perham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403745497,
-    "wof:lastmodified":1449055890,
+    "wof:lastmodified":1466586137,
     "wof:name":"Ouellette Detlef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.213603,46.87871,-68.213603,46.87871],
-  "geometry": {"coordinates":[-68.213603,46.87871],"type":"Point"}
+  "bbox": [
+    -68.213603,
+    46.87871,
+    -68.213603,
+    46.87871
+],
+  "geometry": {"coordinates":[-68.21360300000001,46.87871],"type":"Point"}
 }

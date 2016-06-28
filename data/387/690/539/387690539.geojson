@@ -2,13 +2,14 @@
   "id": 387690539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.263581,43.649767,-70.263581,43.649767",
     "geom:latitude":43.649767,
     "geom:longitude":-70.263581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Gray St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387690539,
-    "wof:lastmodified":1449058124,
+    "wof:lastmodified":1466586612,
     "wof:name":"Furber Winslow",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.263581,43.649767,-70.263581,43.649767],
+  "bbox": [
+    -70.263581,
+    43.649767,
+    -70.263581,
+    43.649767
+],
   "geometry": {"coordinates":[-70.263581,43.649767],"type":"Point"}
 }

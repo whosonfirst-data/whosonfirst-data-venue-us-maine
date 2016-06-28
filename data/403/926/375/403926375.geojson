@@ -2,13 +2,14 @@
   "id": 403926375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.853694,43.6491,-70.853694,43.6491",
     "geom:latitude":43.6491,
     "geom:longitude":-70.853694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"637 Water St",
     "sg:city":"Newfield",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403926375,
-    "wof:lastmodified":1449055088,
+    "wof:lastmodified":1466587015,
     "wof:name":"Newfield Municipal Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-70.853694,43.6491,-70.853694,43.6491],
+  "bbox": [
+    -70.853694,
+    43.6491,
+    -70.853694,
+    43.6491
+],
   "geometry": {"coordinates":[-70.853694,43.6491],"type":"Point"}
 }

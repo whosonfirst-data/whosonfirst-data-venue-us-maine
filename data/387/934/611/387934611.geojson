@@ -2,13 +2,14 @@
   "id": 387934611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.989312,46.701535,-67.989312,46.701535",
     "geom:latitude":46.701535,
     "geom:longitude":-67.989312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Higgins Rd",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387934611,
-    "wof:lastmodified":1449056303,
+    "wof:lastmodified":1466587273,
     "wof:name":"Leaders Encouraging Aroos",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.989312,46.701535,-67.989312,46.701535],
+  "bbox": [
+    -67.989312,
+    46.701535,
+    -67.989312,
+    46.701535
+],
   "geometry": {"coordinates":[-67.989312,46.701535],"type":"Point"}
 }

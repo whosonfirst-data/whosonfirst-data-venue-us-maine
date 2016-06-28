@@ -2,13 +2,14 @@
   "id": 387784427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.964842,43.932228,-69.964842,43.932228",
     "geom:latitude":43.932228,
     "geom:longitude":-69.964842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Main St",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387784427,
-    "wof:lastmodified":1449058648,
+    "wof:lastmodified":1466587092,
     "wof:name":"Frederick Findlen Pa",
     "wof:parent_id":85809811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-69.964842,43.932228,-69.964842,43.932228],
+  "bbox": [
+    -69.964842,
+    43.932228,
+    -69.964842,
+    43.932228
+],
   "geometry": {"coordinates":[-69.964842,43.932228],"type":"Point"}
 }

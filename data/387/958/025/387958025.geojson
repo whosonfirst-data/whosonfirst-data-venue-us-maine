@@ -2,13 +2,14 @@
   "id": 387958025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.703421,44.80432,-68.703421,44.80432",
     "geom:latitude":44.80432,
     "geom:longitude":-68.703421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 Day Rd",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387958025,
-    "wof:lastmodified":1449059073,
+    "wof:lastmodified":1466587341,
     "wof:name":"Gardner Stone & Gravel",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gravel"
     ]
 },
-  "bbox": [-68.703421,44.80432,-68.703421,44.80432],
-  "geometry": {"coordinates":[-68.703421,44.80432],"type":"Point"}
+  "bbox": [
+    -68.703421,
+    44.80432,
+    -68.703421,
+    44.80432
+],
+  "geometry": {"coordinates":[-68.70342100000001,44.80432],"type":"Point"}
 }

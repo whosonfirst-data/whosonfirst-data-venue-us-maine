@@ -2,13 +2,14 @@
   "id": 403872997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.231877,43.598616,-70.231877,43.598616",
     "geom:latitude":43.598616,
     "geom:longitude":-70.231877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"259 Ocean House Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403872997,
-    "wof:lastmodified":1449054756,
+    "wof:lastmodified":1466586800,
     "wof:name":"Lantern Marsh Graphics & World",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "related"
     ]
 },
-  "bbox": [-70.231877,43.598616,-70.231877,43.598616],
+  "bbox": [
+    -70.231877,
+    43.598616,
+    -70.231877,
+    43.598616
+],
   "geometry": {"coordinates":[-70.231877,43.598616],"type":"Point"}
 }

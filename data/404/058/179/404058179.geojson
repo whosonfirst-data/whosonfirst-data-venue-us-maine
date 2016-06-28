@@ -2,13 +2,14 @@
   "id": 404058179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.302232,43.622818,-70.302232,43.622818",
     "geom:latitude":43.622818,
     "geom:longitude":-70.302232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Keswick Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404058179,
-    "wof:lastmodified":1449039195,
+    "wof:lastmodified":1466586409,
     "wof:name":"Keystrokes",
     "wof:parent_id":85852203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.302232,43.622818,-70.302232,43.622818],
+  "bbox": [
+    -70.302232,
+    43.622818,
+    -70.302232,
+    43.622818
+],
   "geometry": {"coordinates":[-70.302232,43.622818],"type":"Point"}
 }

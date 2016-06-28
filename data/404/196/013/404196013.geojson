@@ -2,13 +2,14 @@
   "id": 404196013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.366871,43.662961,-70.366871,43.662961",
     "geom:latitude":43.662961,
     "geom:longitude":-70.366871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Bradley Dr",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404196013,
-    "wof:lastmodified":1449039327,
+    "wof:lastmodified":1466586819,
     "wof:name":"Fleet Interpay",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "payroll"
     ]
 },
-  "bbox": [-70.366871,43.662961,-70.366871,43.662961],
+  "bbox": [
+    -70.366871,
+    43.662961,
+    -70.366871,
+    43.662961
+],
   "geometry": {"coordinates":[-70.366871,43.662961],"type":"Point"}
 }

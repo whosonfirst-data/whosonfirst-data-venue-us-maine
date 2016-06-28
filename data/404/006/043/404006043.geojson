@@ -2,13 +2,14 @@
   "id": 404006043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.328516,43.766342,-70.328516,43.766342",
     "geom:latitude":43.766342,
     "geom:longitude":-70.328516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"356 Blackstrap Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404006043,
-    "wof:lastmodified":1449040050,
+    "wof:lastmodified":1466586630,
     "wof:name":"Springdale Farms Tack Shop",
     "wof:parent_id":85825127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-70.328516,43.766342,-70.328516,43.766342],
-  "geometry": {"coordinates":[-70.328516,43.766342],"type":"Point"}
+  "bbox": [
+    -70.328516,
+    43.766342,
+    -70.328516,
+    43.766342
+],
+  "geometry": {"coordinates":[-70.32851599999999,43.766342],"type":"Point"}
 }

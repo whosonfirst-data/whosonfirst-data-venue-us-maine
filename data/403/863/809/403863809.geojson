@@ -2,13 +2,14 @@
   "id": 403863809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.608623,44.583385,-69.608623,44.583385",
     "geom:latitude":44.583385,
     "geom:longitude":-69.608623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Robinson St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403863809,
-    "wof:lastmodified":1449055529,
+    "wof:lastmodified":1466586757,
     "wof:name":"Northern Stars Planetarium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "planetarium"
     ]
 },
-  "bbox": [-69.608623,44.583385,-69.608623,44.583385],
-  "geometry": {"coordinates":[-69.608623,44.583385],"type":"Point"}
+  "bbox": [
+    -69.608623,
+    44.583385,
+    -69.608623,
+    44.583385
+],
+  "geometry": {"coordinates":[-69.60862299999999,44.583385],"type":"Point"}
 }

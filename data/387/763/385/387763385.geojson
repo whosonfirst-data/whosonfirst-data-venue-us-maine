@@ -2,13 +2,14 @@
   "id": 387763385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.400855,45.149064,-67.400855,45.149064",
     "geom:latitude":45.149064,
     "geom:longitude":-67.400855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"589 US Hwy 1",
     "sg:city":"Hancock",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387763385,
-    "wof:lastmodified":1449059906,
+    "wof:lastmodified":1466586951,
     "wof:name":"Red Line Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-67.400855,45.149064,-67.400855,45.149064],
-  "geometry": {"coordinates":[-67.400855,45.149064],"type":"Point"}
+  "bbox": [
+    -67.400855,
+    45.149064,
+    -67.400855,
+    45.149064
+],
+  "geometry": {"coordinates":[-67.40085500000001,45.149064],"type":"Point"}
 }

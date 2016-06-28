@@ -2,13 +2,14 @@
   "id": 387606125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.109814,44.099513,-69.109814,44.099513",
     "geom:latitude":44.099513,
     "geom:longitude":-69.109814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 S Main St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387606125,
-    "wof:lastmodified":1449056692,
+    "wof:lastmodified":1466586426,
     "wof:name":"Mid-Coast Regional Planning",
     "wof:parent_id":85803709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "land"
     ]
 },
-  "bbox": [-69.109814,44.099513,-69.109814,44.099513],
+  "bbox": [
+    -69.109814,
+    44.099513,
+    -69.109814,
+    44.099513
+],
   "geometry": {"coordinates":[-69.109814,44.099513],"type":"Point"}
 }

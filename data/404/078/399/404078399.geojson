@@ -2,13 +2,14 @@
   "id": 404078399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.353721,43.44524,-70.353721,43.44524",
     "geom:latitude":43.44524,
     "geom:longitude":-70.353721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Yates St",
     "sg:city":"Biddeford Pool",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404078399,
-    "wof:lastmodified":1449040128,
+    "wof:lastmodified":1466585713,
     "wof:name":"Mainely Lobster Co",
     "wof:parent_id":85820287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lobster"
     ]
 },
-  "bbox": [-70.353721,43.44524,-70.353721,43.44524],
-  "geometry": {"coordinates":[-70.353721,43.44524],"type":"Point"}
+  "bbox": [
+    -70.353721,
+    43.44524,
+    -70.353721,
+    43.44524
+],
+  "geometry": {"coordinates":[-70.35372099999999,43.44524],"type":"Point"}
 }

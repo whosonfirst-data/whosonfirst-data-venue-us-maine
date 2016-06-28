@@ -2,13 +2,14 @@
   "id": 387626105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.359994,43.751578,-70.359994,43.751578",
     "geom:latitude":43.751578,
     "geom:longitude":-70.359994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1557 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387626105,
-    "wof:lastmodified":1449059922,
+    "wof:lastmodified":1466586625,
     "wof:name":"Wake-N-Bakery & Glass Emporium",
     "wof:parent_id":85825127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.359994,43.751578,-70.359994,43.751578],
+  "bbox": [
+    -70.359994,
+    43.751578,
+    -70.359994,
+    43.751578
+],
   "geometry": {"coordinates":[-70.359994,43.751578],"type":"Point"}
 }

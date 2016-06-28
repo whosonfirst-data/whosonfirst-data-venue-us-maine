@@ -2,13 +2,14 @@
   "id": 403839259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.07973,43.901291,-70.07973,43.901291",
     "geom:latitude":43.901291,
     "geom:longitude":-70.07973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Baker Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403839259,
-    "wof:lastmodified":1449055453,
+    "wof:lastmodified":1466586588,
     "wof:name":"Start To Finish",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.07973,43.901291,-70.07973,43.901291],
+  "bbox": [
+    -70.07973,
+    43.901291,
+    -70.07973,
+    43.901291
+],
   "geometry": {"coordinates":[-70.07973,43.901291],"type":"Point"}
 }

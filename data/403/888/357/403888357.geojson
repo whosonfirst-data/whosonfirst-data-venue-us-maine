@@ -2,13 +2,14 @@
   "id": 403888357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.923974,44.704148,-68.923974,44.704148",
     "geom:latitude":44.704148,
     "geom:longitude":-68.923974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 Kennebec Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403888357,
-    "wof:lastmodified":1449055474,
+    "wof:lastmodified":1466586782,
     "wof:name":"Dorothea Dix Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.923974,44.704148,-68.923974,44.704148],
+  "bbox": [
+    -68.923974,
+    44.704148,
+    -68.923974,
+    44.704148
+],
   "geometry": {"coordinates":[-68.923974,44.704148],"type":"Point"}
 }

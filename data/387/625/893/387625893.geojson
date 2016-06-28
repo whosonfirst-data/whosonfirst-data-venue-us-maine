@@ -2,13 +2,14 @@
   "id": 387625893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.354678,43.923912,-70.354678,43.923912",
     "geom:latitude":43.923912,
     "geom:longitude":-70.354678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"271 Shaker Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387625893,
-    "wof:lastmodified":1449059979,
+    "wof:lastmodified":1466586633,
     "wof:name":"China Village",
     "wof:parent_id":85815293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.354678,43.923912,-70.354678,43.923912],
-  "geometry": {"coordinates":[-70.354678,43.923912],"type":"Point"}
+  "bbox": [
+    -70.354678,
+    43.923912,
+    -70.354678,
+    43.923912
+],
+  "geometry": {"coordinates":[-70.35467800000001,43.923912],"type":"Point"}
 }

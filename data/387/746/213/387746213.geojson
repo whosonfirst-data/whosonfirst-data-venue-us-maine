@@ -2,13 +2,14 @@
   "id": 387746213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.831832,46.125422,-67.831832,46.125422",
     "geom:latitude":46.125422,
     "geom:longitude":-67.831832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Main St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387746213,
-    "wof:lastmodified":1449056079,
+    "wof:lastmodified":1466586884,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-67.831832,46.125422,-67.831832,46.125422],
-  "geometry": {"coordinates":[-67.831832,46.125422],"type":"Point"}
+  "bbox": [
+    -67.831832,
+    46.125422,
+    -67.831832,
+    46.125422
+],
+  "geometry": {"coordinates":[-67.83183200000001,46.125422],"type":"Point"}
 }

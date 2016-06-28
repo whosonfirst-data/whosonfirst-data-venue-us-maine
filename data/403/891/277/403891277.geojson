@@ -2,13 +2,14 @@
   "id": 403891277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.183116,44.083498,-70.183116,44.083498",
     "geom:latitude":44.083498,
     "geom:longitude":-70.183116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Ashmount St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403891277,
-    "wof:lastmodified":1449055458,
+    "wof:lastmodified":1466586888,
     "wof:name":"JM Electric Co",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.183116,44.083498,-70.183116,44.083498],
+  "bbox": [
+    -70.183116,
+    44.083498,
+    -70.183116,
+    44.083498
+],
   "geometry": {"coordinates":[-70.183116,44.083498],"type":"Point"}
 }

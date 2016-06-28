@@ -2,13 +2,14 @@
   "id": 403951621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.220657,44.08663,-70.220657,44.08663",
     "geom:latitude":44.08663,
     "geom:longitude":-70.220657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 2nd St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403951621,
-    "wof:lastmodified":1449054674,
+    "wof:lastmodified":1466587077,
     "wof:name":"Second Street Family Practice",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.220657,44.08663,-70.220657,44.08663],
+  "bbox": [
+    -70.220657,
+    44.08663,
+    -70.220657,
+    44.08663
+],
   "geometry": {"coordinates":[-70.220657,44.08663],"type":"Point"}
 }

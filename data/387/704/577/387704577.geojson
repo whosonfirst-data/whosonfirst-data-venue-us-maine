@@ -2,13 +2,14 @@
   "id": 387704577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.377752,43.518287,-70.377752,43.518287",
     "geom:latitude":43.518287,
     "geom:longitude":-70.377752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Portland Ave",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387704577,
-    "wof:lastmodified":1449057099,
+    "wof:lastmodified":1466586763,
     "wof:name":"Old Orchard Beach Inn",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.377752,43.518287,-70.377752,43.518287],
+  "bbox": [
+    -70.377752,
+    43.518287,
+    -70.377752,
+    43.518287
+],
   "geometry": {"coordinates":[-70.377752,43.518287],"type":"Point"}
 }

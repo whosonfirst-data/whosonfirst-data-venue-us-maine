@@ -2,13 +2,14 @@
   "id": 403934975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.376496,43.567115,-70.376496,43.567115",
     "geom:latitude":43.567115,
     "geom:longitude":-70.376496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Pine Point Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403934975,
-    "wof:lastmodified":1449054695,
+    "wof:lastmodified":1466586938,
     "wof:name":"Pine Point Ctr For Health Care",
     "wof:parent_id":85806509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-70.376496,43.567115,-70.376496,43.567115],
+  "bbox": [
+    -70.376496,
+    43.567115,
+    -70.376496,
+    43.567115
+],
   "geometry": {"coordinates":[-70.376496,43.567115],"type":"Point"}
 }

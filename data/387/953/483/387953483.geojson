@@ -2,13 +2,14 @@
   "id": 387953483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.769769,44.802022,-68.769769,44.802022",
     "geom:latitude":44.802022,
     "geom:longitude":-68.769769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 State St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387953483,
-    "wof:lastmodified":1449058734,
+    "wof:lastmodified":1466587295,
     "wof:name":"Janet M Yelch-Weatherb",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-68.769769,44.802022,-68.769769,44.802022],
+  "bbox": [
+    -68.769769,
+    44.802022,
+    -68.769769,
+    44.802022
+],
   "geometry": {"coordinates":[-68.769769,44.802022],"type":"Point"}
 }

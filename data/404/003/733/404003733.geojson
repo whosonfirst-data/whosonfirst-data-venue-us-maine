@@ -2,13 +2,14 @@
   "id": 404003733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.85745,44.771246,-68.85745,44.771246",
     "geom:latitude":44.771246,
     "geom:longitude":-68.85745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Coldbrook Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404003733,
-    "wof:lastmodified":1449040240,
+    "wof:lastmodified":1466585720,
     "wof:name":"Maine Sports Complex",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-68.85745,44.771246,-68.85745,44.771246],
+  "bbox": [
+    -68.85745,
+    44.771246,
+    -68.85745,
+    44.771246
+],
   "geometry": {"coordinates":[-68.85745,44.771246],"type":"Point"}
 }

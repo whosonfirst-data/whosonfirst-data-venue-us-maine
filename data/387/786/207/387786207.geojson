@@ -2,13 +2,14 @@
   "id": 387786207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.330351,43.885881,-70.330351,43.885881",
     "geom:latitude":43.885881,
     "geom:longitude":-70.330351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Shaker Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387786207,
-    "wof:lastmodified":1449056603,
+    "wof:lastmodified":1466586999,
     "wof:name":"Spirometrics Medical Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.330351,43.885881,-70.330351,43.885881],
-  "geometry": {"coordinates":[-70.330351,43.885881],"type":"Point"}
+  "bbox": [
+    -70.330351,
+    43.885881,
+    -70.330351,
+    43.885881
+],
+  "geometry": {"coordinates":[-70.33035099999999,43.885881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403708391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.339181,43.783478,-70.339181,43.783478",
     "geom:latitude":43.783478,
     "geom:longitude":-70.339181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Rockaway Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403708391,
-    "wof:lastmodified":1449054843,
+    "wof:lastmodified":1466585698,
     "wof:name":"Coyne Appraisal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.339181,43.783478,-70.339181,43.783478],
+  "bbox": [
+    -70.339181,
+    43.783478,
+    -70.339181,
+    43.783478
+],
   "geometry": {"coordinates":[-70.339181,43.783478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404146151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.135271,47.041293,-68.135271,47.041293",
     "geom:latitude":47.041293,
     "geom:longitude":-68.135271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 School St",
     "sg:city":"Stockholm",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404146151,
-    "wof:lastmodified":1449039528,
+    "wof:lastmodified":1466586702,
     "wof:name":"Eureka Hall Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.135271,47.041293,-68.135271,47.041293],
+  "bbox": [
+    -68.135271,
+    47.041293,
+    -68.135271,
+    47.041293
+],
   "geometry": {"coordinates":[-68.135271,47.041293],"type":"Point"}
 }

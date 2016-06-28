@@ -2,13 +2,14 @@
   "id": 404007275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.316681,45.004672,-69.316681,45.004672",
     "geom:latitude":45.004672,
     "geom:longitude":-69.316681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Ripley Rd",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404007275,
-    "wof:lastmodified":1449040102,
+    "wof:lastmodified":1466585787,
     "wof:name":"Stitches-X Stitching In Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-69.316681,45.004672,-69.316681,45.004672],
+  "bbox": [
+    -69.316681,
+    45.004672,
+    -69.316681,
+    45.004672
+],
   "geometry": {"coordinates":[-69.316681,45.004672],"type":"Point"}
 }

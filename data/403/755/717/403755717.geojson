@@ -2,13 +2,14 @@
   "id": 403755717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.34652,43.59815,-70.34652,43.59815",
     "geom:latitude":43.59815,
     "geom:longitude":-70.34652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Sawyer Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403755717,
-    "wof:lastmodified":1449055013,
+    "wof:lastmodified":1466586329,
     "wof:name":"B & D Cycles",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motor"
     ]
 },
-  "bbox": [-70.34652,43.59815,-70.34652,43.59815],
+  "bbox": [
+    -70.34652,
+    43.59815,
+    -70.34652,
+    43.59815
+],
   "geometry": {"coordinates":[-70.34652,43.59815],"type":"Point"}
 }

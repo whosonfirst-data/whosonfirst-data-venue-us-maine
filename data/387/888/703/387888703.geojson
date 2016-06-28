@@ -2,13 +2,14 @@
   "id": 387888703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.828248,46.125026,-67.828248,46.125026",
     "geom:latitude":46.125026,
     "geom:longitude":-67.828248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Main St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387888703,
-    "wof:lastmodified":1449058479,
+    "wof:lastmodified":1466587225,
     "wof:name":"4 Seasons Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-67.828248,46.125026,-67.828248,46.125026],
+  "bbox": [
+    -67.828248,
+    46.125026,
+    -67.828248,
+    46.125026
+],
   "geometry": {"coordinates":[-67.828248,46.125026],"type":"Point"}
 }

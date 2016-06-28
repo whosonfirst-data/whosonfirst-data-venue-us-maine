@@ -2,13 +2,14 @@
   "id": 387706317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.24656,44.083181,-70.24656,44.083181",
     "geom:latitude":44.083181,
     "geom:longitude":-70.24656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 Minot Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387706317,
-    "wof:lastmodified":1449056381,
+    "wof:lastmodified":1466586862,
     "wof:name":"Hot Stuff Tanning Salon",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-70.24656,44.083181,-70.24656,44.083181],
+  "bbox": [
+    -70.24656,
+    44.083181,
+    -70.24656,
+    44.083181
+],
   "geometry": {"coordinates":[-70.24656,44.083181],"type":"Point"}
 }

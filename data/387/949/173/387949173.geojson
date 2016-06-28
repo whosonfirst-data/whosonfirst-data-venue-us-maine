@@ -2,13 +2,14 @@
   "id": 387949173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.836511,43.968174,-69.836511,43.968174",
     "geom:latitude":43.968174,
     "geom:longitude":-69.836511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Goose Cove Rd",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387949173,
-    "wof:lastmodified":1449058461,
+    "wof:lastmodified":1466587284,
     "wof:name":"Robohm Management Group Inc",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "executive"
     ]
 },
-  "bbox": [-69.836511,43.968174,-69.836511,43.968174],
+  "bbox": [
+    -69.836511,
+    43.968174,
+    -69.836511,
+    43.968174
+],
   "geometry": {"coordinates":[-69.836511,43.968174],"type":"Point"}
 }

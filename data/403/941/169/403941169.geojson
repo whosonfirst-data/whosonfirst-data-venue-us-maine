@@ -2,13 +2,14 @@
   "id": 403941169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.408893,43.629652,-70.408893,43.629652",
     "geom:latitude":43.629652,
     "geom:longitude":-70.408893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"266 Beech Ridge Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403941169,
-    "wof:lastmodified":1449055437,
+    "wof:lastmodified":1466587056,
     "wof:name":"General Agent Ctr Inc",
     "wof:parent_id":85838011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.408893,43.629652,-70.408893,43.629652],
-  "geometry": {"coordinates":[-70.408893,43.629652],"type":"Point"}
+  "bbox": [
+    -70.408893,
+    43.629652,
+    -70.408893,
+    43.629652
+],
+  "geometry": {"coordinates":[-70.40889300000001,43.629652],"type":"Point"}
 }

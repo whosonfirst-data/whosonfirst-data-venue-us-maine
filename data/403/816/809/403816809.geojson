@@ -2,13 +2,14 @@
   "id": 403816809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.317773,43.736108,-70.317773,43.736108",
     "geom:latitude":43.736108,
     "geom:longitude":-70.317773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Hardy Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403816809,
-    "wof:lastmodified":1449055417,
+    "wof:lastmodified":1466586211,
     "wof:name":"Wallace R Brown",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-70.317773,43.736108,-70.317773,43.736108],
+  "bbox": [
+    -70.317773,
+    43.736108,
+    -70.317773,
+    43.736108
+],
   "geometry": {"coordinates":[-70.317773,43.736108],"type":"Point"}
 }

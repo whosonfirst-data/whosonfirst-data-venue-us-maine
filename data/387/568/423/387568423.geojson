@@ -2,13 +2,14 @@
   "id": 387568423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.154384,44.268224,-69.154384,44.268224",
     "geom:latitude":44.268224,
     "geom:longitude":-69.154384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Church St",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387568423,
-    "wof:lastmodified":1449056025,
+    "wof:lastmodified":1466585874,
     "wof:name":"Hope Community Bible Church",
     "wof:parent_id":85829071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.154384,44.268224,-69.154384,44.268224],
-  "geometry": {"coordinates":[-69.154384,44.268224],"type":"Point"}
+  "bbox": [
+    -69.154384,
+    44.268224,
+    -69.154384,
+    44.268224
+],
+  "geometry": {"coordinates":[-69.15438399999999,44.268224],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403999739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.222633,44.081409,-70.222633,44.081409",
     "geom:latitude":44.081409,
     "geom:longitude":-70.222633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 10th St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403999739,
-    "wof:lastmodified":1449055808,
+    "wof:lastmodified":1466587192,
     "wof:name":"Dave's Painting Svc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-70.222633,44.081409,-70.222633,44.081409],
+  "bbox": [
+    -70.222633,
+    44.081409,
+    -70.222633,
+    44.081409
+],
   "geometry": {"coordinates":[-70.222633,44.081409],"type":"Point"}
 }

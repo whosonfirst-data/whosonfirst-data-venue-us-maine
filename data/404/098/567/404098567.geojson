@@ -2,13 +2,14 @@
   "id": 404098567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.23107,44.089514,-70.23107,44.089514",
     "geom:latitude":44.089514,
     "geom:longitude":-70.23107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Washington St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404098567,
-    "wof:lastmodified":1449040206,
+    "wof:lastmodified":1466585976,
     "wof:name":"Future Car's Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.23107,44.089514,-70.23107,44.089514],
+  "bbox": [
+    -70.23107,
+    44.089514,
+    -70.23107,
+    44.089514
+],
   "geometry": {"coordinates":[-70.23107,44.089514],"type":"Point"}
 }

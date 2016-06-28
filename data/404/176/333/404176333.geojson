@@ -2,13 +2,14 @@
   "id": 404176333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.265263,43.661627,-70.265263,43.661627",
     "geom:latitude":43.661627,
     "geom:longitude":-70.265263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Preble St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404176333,
-    "wof:lastmodified":1449039923,
+    "wof:lastmodified":1466586693,
     "wof:name":"K K Clothing & Mfg",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-70.265263,43.661627,-70.265263,43.661627],
+  "bbox": [
+    -70.265263,
+    43.661627,
+    -70.265263,
+    43.661627
+],
   "geometry": {"coordinates":[-70.265263,43.661627],"type":"Point"}
 }

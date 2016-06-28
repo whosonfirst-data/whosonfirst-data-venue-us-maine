@@ -2,13 +2,14 @@
   "id": 404026627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.763028,44.058596,-69.763028,44.058596",
     "geom:latitude":44.058596,
     "geom:longitude":-69.763028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"897 Middle Rd",
     "sg:city":"Dresden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404026627,
-    "wof:lastmodified":1449039828,
+    "wof:lastmodified":1466585964,
     "wof:name":"Madore Electric",
     "wof:parent_id":85855379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.763028,44.058596,-69.763028,44.058596],
-  "geometry": {"coordinates":[-69.763028,44.058596],"type":"Point"}
+  "bbox": [
+    -69.763028,
+    44.058596,
+    -69.763028,
+    44.058596
+],
+  "geometry": {"coordinates":[-69.76302800000001,44.058596],"type":"Point"}
 }

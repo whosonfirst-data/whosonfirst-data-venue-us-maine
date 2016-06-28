@@ -2,13 +2,14 @@
   "id": 404109017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.288122,43.656754,-70.288122,43.656754",
     "geom:latitude":43.656754,
     "geom:longitude":-70.288122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1189 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404109017,
-    "wof:lastmodified":1449039430,
+    "wof:lastmodified":1466586127,
     "wof:name":"A Special Place Inc",
     "wof:parent_id":85830407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artificial"
     ]
 },
-  "bbox": [-70.288122,43.656754,-70.288122,43.656754],
+  "bbox": [
+    -70.288122,
+    43.656754,
+    -70.288122,
+    43.656754
+],
   "geometry": {"coordinates":[-70.288122,43.656754],"type":"Point"}
 }

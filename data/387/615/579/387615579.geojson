@@ -2,13 +2,14 @@
   "id": 387615579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.267664,43.632975,-70.267664,43.632975",
     "geom:latitude":43.632975,
     "geom:longitude":-70.267664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Chapel St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387615579,
-    "wof:lastmodified":1449057300,
+    "wof:lastmodified":1466586604,
     "wof:name":"Senior Financial Advisors Inc",
     "wof:parent_id":85828657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-70.267664,43.632975,-70.267664,43.632975],
+  "bbox": [
+    -70.267664,
+    43.632975,
+    -70.267664,
+    43.632975
+],
   "geometry": {"coordinates":[-70.267664,43.632975],"type":"Point"}
 }

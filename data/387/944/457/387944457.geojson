@@ -2,13 +2,14 @@
   "id": 387944457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.016491,44.420313,-69.016491,44.420313",
     "geom:latitude":44.420313,
     "geom:longitude":-69.016491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Miller St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387944457,
-    "wof:lastmodified":1449058013,
+    "wof:lastmodified":1466587283,
     "wof:name":"Judith Mathieu",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [-69.016491,44.420313,-69.016491,44.420313],
+  "bbox": [
+    -69.016491,
+    44.420313,
+    -69.016491,
+    44.420313
+],
   "geometry": {"coordinates":[-69.016491,44.420313],"type":"Point"}
 }

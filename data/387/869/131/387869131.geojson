@@ -2,13 +2,14 @@
   "id": 387869131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.773542,44.799224,-68.773542,44.799224",
     "geom:latitude":44.799224,
     "geom:longitude":-68.773542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Columbia St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387869131,
-    "wof:lastmodified":1449059612,
+    "wof:lastmodified":1466587197,
     "wof:name":"Hall & Lunn",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-68.773542,44.799224,-68.773542,44.799224],
-  "geometry": {"coordinates":[-68.773542,44.799224],"type":"Point"}
+  "bbox": [
+    -68.773542,
+    44.799224,
+    -68.773542,
+    44.799224
+],
+  "geometry": {"coordinates":[-68.77354200000001,44.799224],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387960721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.384335,43.759764,-70.384335,43.759764",
     "geom:latitude":43.759764,
     "geom:longitude":-70.384335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Highland Cliff Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387960721,
-    "wof:lastmodified":1449058847,
+    "wof:lastmodified":1466587345,
     "wof:name":"Killington Kennel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.384335,43.759764,-70.384335,43.759764],
-  "geometry": {"coordinates":[-70.384335,43.759764],"type":"Point"}
+  "bbox": [
+    -70.384335,
+    43.759764,
+    -70.384335,
+    43.759764
+],
+  "geometry": {"coordinates":[-70.38433499999999,43.759764],"type":"Point"}
 }

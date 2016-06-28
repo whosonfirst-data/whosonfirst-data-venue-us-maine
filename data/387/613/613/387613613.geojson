@@ -2,13 +2,14 @@
   "id": 387613613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.451856,43.395781,-70.451856,43.395781",
     "geom:latitude":43.395781,
     "geom:longitude":-70.451856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Beachwood Ave",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387613613,
-    "wof:lastmodified":1449057876,
+    "wof:lastmodified":1466586555,
     "wof:name":"Massage & Energy Balancing",
     "wof:parent_id":85852443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.451856,43.395781,-70.451856,43.395781],
-  "geometry": {"coordinates":[-70.451856,43.395781],"type":"Point"}
+  "bbox": [
+    -70.451856,
+    43.395781,
+    -70.451856,
+    43.395781
+],
+  "geometry": {"coordinates":[-70.45185600000001,43.395781],"type":"Point"}
 }

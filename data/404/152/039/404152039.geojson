@@ -2,13 +2,14 @@
   "id": 404152039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.032604,46.865297,-68.032604,46.865297",
     "geom:latitude":46.865297,
     "geom:longitude":-68.032604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 Sweden St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404152039,
-    "wof:lastmodified":1449040016,
+    "wof:lastmodified":1466586727,
     "wof:name":"Cyr Driving School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "driving"
     ]
 },
-  "bbox": [-68.032604,46.865297,-68.032604,46.865297],
-  "geometry": {"coordinates":[-68.032604,46.865297],"type":"Point"}
+  "bbox": [
+    -68.032604,
+    46.865297,
+    -68.032604,
+    46.865297
+],
+  "geometry": {"coordinates":[-68.03260400000001,46.865297],"type":"Point"}
 }

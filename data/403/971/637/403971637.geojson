@@ -2,13 +2,14 @@
   "id": 403971637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.395208,43.761922,-70.395208,43.761922",
     "geom:latitude":43.761922,
     "geom:longitude":-70.395208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Chute Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403971637,
-    "wof:lastmodified":1449055317,
+    "wof:lastmodified":1466587127,
     "wof:name":"Oatley Engineering Assoc",
     "wof:parent_id":85830911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "preservation"
     ]
 },
-  "bbox": [-70.395208,43.761922,-70.395208,43.761922],
+  "bbox": [
+    -70.395208,
+    43.761922,
+    -70.395208,
+    43.761922
+],
   "geometry": {"coordinates":[-70.395208,43.761922],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403948715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.059651,44.210801,-69.059651,44.210801",
     "geom:latitude":44.210801,
     "geom:longitude":-69.059651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Cove Rd",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403948715,
-    "wof:lastmodified":1449055686,
+    "wof:lastmodified":1466587070,
     "wof:name":"Glen Cove Internal Medicine",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-69.059651,44.210801,-69.059651,44.210801],
+  "bbox": [
+    -69.059651,
+    44.210801,
+    -69.059651,
+    44.210801
+],
   "geometry": {"coordinates":[-69.059651,44.210801],"type":"Point"}
 }

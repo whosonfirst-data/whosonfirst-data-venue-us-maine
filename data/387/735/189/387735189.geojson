@@ -2,13 +2,14 @@
   "id": 387735189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.693436,45.667116,-68.693436,45.667116",
     "geom:latitude":45.667116,
     "geom:longitude":-68.693436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Sunset Dr",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387735189,
-    "wof:lastmodified":1449059834,
+    "wof:lastmodified":1466586846,
     "wof:name":"Bob Paquin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.693436,45.667116,-68.693436,45.667116],
-  "geometry": {"coordinates":[-68.693436,45.667116],"type":"Point"}
+  "bbox": [
+    -68.693436,
+    45.667116,
+    -68.693436,
+    45.667116
+],
+  "geometry": {"coordinates":[-68.69343600000001,45.667116],"type":"Point"}
 }

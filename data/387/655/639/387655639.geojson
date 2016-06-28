@@ -2,13 +2,14 @@
   "id": 387655639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.28895,44.293151,-68.28895,44.293151",
     "geom:latitude":44.293151,
     "geom:longitude":-68.28895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Main St",
     "sg:city":"Northeast Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387655639,
-    "wof:lastmodified":1449058297,
+    "wof:lastmodified":1466586053,
     "wof:name":"Pine Tree Market",
     "wof:parent_id":85803817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-68.28895,44.293151,-68.28895,44.293151],
+  "bbox": [
+    -68.28895,
+    44.293151,
+    -68.28895,
+    44.293151
+],
   "geometry": {"coordinates":[-68.28895,44.293151],"type":"Point"}
 }

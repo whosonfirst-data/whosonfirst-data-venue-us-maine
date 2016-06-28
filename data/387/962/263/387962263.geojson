@@ -2,13 +2,14 @@
   "id": 387962263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.517284,43.970672,-69.517284,43.970672",
     "geom:latitude":43.970672,
     "geom:longitude":-69.517284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"677 Bristol Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387962263,
-    "wof:lastmodified":1449058345,
+    "wof:lastmodified":1466587298,
     "wof:name":"D & M Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sales"
     ]
 },
-  "bbox": [-69.517284,43.970672,-69.517284,43.970672],
+  "bbox": [
+    -69.517284,
+    43.970672,
+    -69.517284,
+    43.970672
+],
   "geometry": {"coordinates":[-69.517284,43.970672],"type":"Point"}
 }

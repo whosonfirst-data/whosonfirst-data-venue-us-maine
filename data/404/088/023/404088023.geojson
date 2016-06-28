@@ -2,13 +2,14 @@
   "id": 404088023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.208638,43.863484,-70.208638,43.863484",
     "geom:latitude":43.863484,
     "geom:longitude":-70.208638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 Mountfort Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":404088023,
-    "wof:lastmodified":1449040023,
+    "wof:lastmodified":1466586638,
     "wof:name":"Plainview Farm Lawn & Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-70.208638,43.863484,-70.208638,43.863484],
-  "geometry": {"coordinates":[-70.208638,43.863484],"type":"Point"}
+  "bbox": [
+    -70.208638,
+    43.863484,
+    -70.208638,
+    43.863484
+],
+  "geometry": {"coordinates":[-70.20863799999999,43.863484],"type":"Point"}
 }

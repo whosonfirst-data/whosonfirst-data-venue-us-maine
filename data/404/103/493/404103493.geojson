@@ -2,13 +2,14 @@
   "id": 404103493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.09665,44.147685,-70.09665,44.147685",
     "geom:latitude":44.147685,
     "geom:longitude":-70.09665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Heather Ln",
     "sg:city":"Wales",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404103493,
-    "wof:lastmodified":1449039865,
+    "wof:lastmodified":1466586048,
     "wof:name":"J & N Foundations Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.09665,44.147685,-70.09665,44.147685],
+  "bbox": [
+    -70.09665,
+    44.147685,
+    -70.09665,
+    44.147685
+],
   "geometry": {"coordinates":[-70.09665,44.147685],"type":"Point"}
 }

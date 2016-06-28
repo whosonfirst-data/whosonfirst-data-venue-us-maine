@@ -2,13 +2,14 @@
   "id": 404047009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.655559,43.130018,-70.655559,43.130018",
     "geom:latitude":43.130018,
     "geom:longitude":-70.655559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Seabury Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404047009,
-    "wof:lastmodified":1449039909,
+    "wof:lastmodified":1466586674,
     "wof:name":"Joseph Canino",
     "wof:parent_id":85847555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.655559,43.130018,-70.655559,43.130018],
+  "bbox": [
+    -70.655559,
+    43.130018,
+    -70.655559,
+    43.130018
+],
   "geometry": {"coordinates":[-70.655559,43.130018],"type":"Point"}
 }

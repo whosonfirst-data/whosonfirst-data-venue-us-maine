@@ -2,13 +2,14 @@
   "id": 404095435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.29784,43.603608,-70.29784,43.603608",
     "geom:latitude":43.603608,
     "geom:longitude":-70.29784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Commercial Dr",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404095435,
-    "wof:lastmodified":1449039700,
+    "wof:lastmodified":1466585927,
     "wof:name":"Party Plus Taylor Rental",
     "wof:parent_id":85842219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yard"
     ]
 },
-  "bbox": [-70.29784,43.603608,-70.29784,43.603608],
-  "geometry": {"coordinates":[-70.29784,43.603608],"type":"Point"}
+  "bbox": [
+    -70.29784,
+    43.603608,
+    -70.29784,
+    43.603608
+],
+  "geometry": {"coordinates":[-70.29783999999999,43.603608],"type":"Point"}
 }

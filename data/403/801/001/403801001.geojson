@@ -2,13 +2,14 @@
   "id": 403801001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.097712,43.99893,-70.097712,43.99893",
     "geom:latitude":43.99893,
     "geom:longitude":-70.097712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Country Ln",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403801001,
-    "wof:lastmodified":1449055739,
+    "wof:lastmodified":1466585962,
     "wof:name":"Garneau's Plumbing",
     "wof:parent_id":85806367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.097712,43.99893,-70.097712,43.99893],
+  "bbox": [
+    -70.097712,
+    43.99893,
+    -70.097712,
+    43.99893
+],
   "geometry": {"coordinates":[-70.097712,43.99893],"type":"Point"}
 }

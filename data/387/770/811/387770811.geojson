@@ -2,13 +2,14 @@
   "id": 387770811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.984448,46.646723,-67.984448,46.646723",
     "geom:latitude":46.646723,
     "geom:longitude":-67.984448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Center Line Rd",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387770811,
-    "wof:lastmodified":1449059992,
+    "wof:lastmodified":1466586966,
     "wof:name":"Abnaki Girl Scout Council",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-67.984448,46.646723,-67.984448,46.646723],
+  "bbox": [
+    -67.984448,
+    46.646723,
+    -67.984448,
+    46.646723
+],
   "geometry": {"coordinates":[-67.984448,46.646723],"type":"Point"}
 }

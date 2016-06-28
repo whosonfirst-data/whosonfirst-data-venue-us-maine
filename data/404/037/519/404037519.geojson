@@ -2,13 +2,14 @@
   "id": 404037519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.628522,44.351528,-69.628522,44.351528",
     "geom:latitude":44.351528,
     "geom:longitude":-69.628522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1087 Lamson Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404037519,
-    "wof:lastmodified":1449040343,
+    "wof:lastmodified":1466586053,
     "wof:name":"Hopkins Painting Service",
     "wof:parent_id":85850225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.628522,44.351528,-69.628522,44.351528],
+  "bbox": [
+    -69.628522,
+    44.351528,
+    -69.628522,
+    44.351528
+],
   "geometry": {"coordinates":[-69.628522,44.351528],"type":"Point"}
 }

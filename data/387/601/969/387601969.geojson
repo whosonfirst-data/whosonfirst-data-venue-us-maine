@@ -2,13 +2,14 @@
   "id": 387601969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.757548,44.307594,-69.757548,44.307594",
     "geom:latitude":44.307594,
     "geom:longitude":-69.757548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Mayflower Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387601969,
-    "wof:lastmodified":1449057805,
+    "wof:lastmodified":1466586365,
     "wof:name":"General Properties LLC",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-69.757548,44.307594,-69.757548,44.307594],
+  "bbox": [
+    -69.757548,
+    44.307594,
+    -69.757548,
+    44.307594
+],
   "geometry": {"coordinates":[-69.757548,44.307594],"type":"Point"}
 }

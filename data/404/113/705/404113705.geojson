@@ -2,13 +2,14 @@
   "id": 404113705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.064616,44.209705,-69.064616,44.209705",
     "geom:latitude":44.209705,
     "geom:longitude":-69.064616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Bay View St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404113705,
-    "wof:lastmodified":1449040229,
+    "wof:lastmodified":1466586199,
     "wof:name":"Circle Round The Moon",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.064616,44.209705,-69.064616,44.209705],
+  "bbox": [
+    -69.064616,
+    44.209705,
+    -69.064616,
+    44.209705
+],
   "geometry": {"coordinates":[-69.064616,44.209705],"type":"Point"}
 }

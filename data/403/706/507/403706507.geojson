@@ -2,13 +2,14 @@
   "id": 403706507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.418733,44.541824,-68.418733,44.541824",
     "geom:latitude":44.541824,
     "geom:longitude":-68.418733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 High St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403706507,
-    "wof:lastmodified":1449054729,
+    "wof:lastmodified":1466585678,
     "wof:name":"Acadia Hearing Center",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "hearing"
     ]
 },
-  "bbox": [-68.418733,44.541824,-68.418733,44.541824],
+  "bbox": [
+    -68.418733,
+    44.541824,
+    -68.418733,
+    44.541824
+],
   "geometry": {"coordinates":[-68.418733,44.541824],"type":"Point"}
 }

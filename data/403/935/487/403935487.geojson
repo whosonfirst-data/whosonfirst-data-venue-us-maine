@@ -2,13 +2,14 @@
   "id": 403935487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.470226,43.514315,-70.470226,43.514315",
     "geom:latitude":43.514315,
     "geom:longitude":-70.470226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Bradley St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403935487,
-    "wof:lastmodified":1449055732,
+    "wof:lastmodified":1466587041,
     "wof:name":"C R Douville Inc",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gravel"
     ]
 },
-  "bbox": [-70.470226,43.514315,-70.470226,43.514315],
+  "bbox": [
+    -70.470226,
+    43.514315,
+    -70.470226,
+    43.514315
+],
   "geometry": {"coordinates":[-70.470226,43.514315],"type":"Point"}
 }

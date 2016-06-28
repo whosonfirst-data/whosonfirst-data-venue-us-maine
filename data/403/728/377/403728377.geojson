@@ -2,13 +2,14 @@
   "id": 403728377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.926246,43.927419,-69.926246,43.927419",
     "geom:latitude":43.927419,
     "geom:longitude":-69.926246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Hunter Ln",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403728377,
-    "wof:lastmodified":1449054952,
+    "wof:lastmodified":1466585948,
     "wof:name":"Spurwink School",
     "wof:parent_id":85809811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.926246,43.927419,-69.926246,43.927419],
-  "geometry": {"coordinates":[-69.926246,43.927419],"type":"Point"}
+  "bbox": [
+    -69.926246,
+    43.927419,
+    -69.926246,
+    43.927419
+],
+  "geometry": {"coordinates":[-69.92624600000001,43.927419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404034533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.376072,44.095255,-69.376072,44.095255",
     "geom:latitude":44.095255,
     "geom:longitude":-69.376072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"878 Main St",
     "sg:city":"Waldoboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404034533,
-    "wof:lastmodified":1449039151,
+    "wof:lastmodified":1466586014,
     "wof:name":"Denis E Beaudoin DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-69.376072,44.095255,-69.376072,44.095255],
-  "geometry": {"coordinates":[-69.376072,44.095255],"type":"Point"}
+  "bbox": [
+    -69.376072,
+    44.095255,
+    -69.376072,
+    44.095255
+],
+  "geometry": {"coordinates":[-69.37607199999999,44.095255],"type":"Point"}
 }

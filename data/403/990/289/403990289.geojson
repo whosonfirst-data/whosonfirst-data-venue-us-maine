@@ -2,13 +2,14 @@
   "id": 403990289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.188258,44.466064,-70.188258,44.466064",
     "geom:latitude":44.466064,
     "geom:longitude":-70.188258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Coolidge St",
     "sg:city":"Livermore",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403990289,
-    "wof:lastmodified":1449055508,
+    "wof:lastmodified":1466587249,
     "wof:name":"Don's Chimney Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "chimney"
     ]
 },
-  "bbox": [-70.188258,44.466064,-70.188258,44.466064],
+  "bbox": [
+    -70.188258,
+    44.466064,
+    -70.188258,
+    44.466064
+],
   "geometry": {"coordinates":[-70.188258,44.466064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404028683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.550902,44.553745,-70.550902,44.553745",
     "geom:latitude":44.553745,
     "geom:longitude":-70.550902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 Hancock St",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":404028683,
-    "wof:lastmodified":1449039787,
+    "wof:lastmodified":1466586658,
     "wof:name":"Child & Sons Auto Sales & Repr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.550902,44.553745,-70.550902,44.553745],
-  "geometry": {"coordinates":[-70.550902,44.553745],"type":"Point"}
+  "bbox": [
+    -70.550902,
+    44.553745,
+    -70.550902,
+    44.553745
+],
+  "geometry": {"coordinates":[-70.55090199999999,44.553745],"type":"Point"}
 }

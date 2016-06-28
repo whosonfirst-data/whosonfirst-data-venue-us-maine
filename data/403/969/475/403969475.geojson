@@ -2,13 +2,14 @@
   "id": 403969475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.500077,45.378982,-68.500077,45.378982",
     "geom:latitude":45.378982,
     "geom:longitude":-68.500077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Military Rd",
     "sg:city":"Olamon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403969475,
-    "wof:lastmodified":1449054966,
+    "wof:lastmodified":1466587129,
     "wof:name":"US Post Office",
     "wof:parent_id":85849837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.500077,45.378982,-68.500077,45.378982],
+  "bbox": [
+    -68.500077,
+    45.378982,
+    -68.500077,
+    45.378982
+],
   "geometry": {"coordinates":[-68.500077,45.378982],"type":"Point"}
 }

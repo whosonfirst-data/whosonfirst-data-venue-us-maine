@@ -2,13 +2,14 @@
   "id": 387711885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.86999,46.512307,-67.86999,46.512307",
     "geom:latitude":46.512307,
     "geom:longitude":-67.86999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Aci St",
     "sg:city":"Mars Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387711885,
-    "wof:lastmodified":1449059224,
+    "wof:lastmodified":1466586777,
     "wof:name":"Harbor Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-67.86999,46.512307,-67.86999,46.512307],
+  "bbox": [
+    -67.86999,
+    46.512307,
+    -67.86999,
+    46.512307
+],
   "geometry": {"coordinates":[-67.86999,46.512307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403895251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.990307,46.759622,-67.990307,46.759622",
     "geom:latitude":46.759622,
     "geom:longitude":-67.990307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 US Hwy 1",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403895251,
-    "wof:lastmodified":1449055197,
+    "wof:lastmodified":1466586910,
     "wof:name":"Corey Farms Market",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.990307,46.759622,-67.990307,46.759622],
+  "bbox": [
+    -67.990307,
+    46.759622,
+    -67.990307,
+    46.759622
+],
   "geometry": {"coordinates":[-67.990307,46.759622],"type":"Point"}
 }

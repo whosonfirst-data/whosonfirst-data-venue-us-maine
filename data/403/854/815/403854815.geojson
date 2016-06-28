@@ -2,13 +2,14 @@
   "id": 403854815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.178538,43.811573,-70.178538,43.811573",
     "geom:latitude":43.811573,
     "geom:longitude":-70.178538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 North Rd",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403854815,
-    "wof:lastmodified":1449055899,
+    "wof:lastmodified":1466586728,
     "wof:name":"AMVETS Robt W Boyd",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rooms"
     ]
 },
-  "bbox": [-70.178538,43.811573,-70.178538,43.811573],
+  "bbox": [
+    -70.178538,
+    43.811573,
+    -70.178538,
+    43.811573
+],
   "geometry": {"coordinates":[-70.178538,43.811573],"type":"Point"}
 }

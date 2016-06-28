@@ -2,13 +2,14 @@
   "id": 387669209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.219389,43.570815,-70.219389,43.570815",
     "geom:latitude":43.570815,
     "geom:longitude":-70.219389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Two Lights Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387669209,
-    "wof:lastmodified":1449056546,
+    "wof:lastmodified":1466586267,
     "wof:name":"Pillsbury Appraisal Svc",
     "wof:parent_id":85867971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-70.219389,43.570815,-70.219389,43.570815],
-  "geometry": {"coordinates":[-70.219389,43.570815],"type":"Point"}
+  "bbox": [
+    -70.219389,
+    43.570815,
+    -70.219389,
+    43.570815
+],
+  "geometry": {"coordinates":[-70.21938900000001,43.570815],"type":"Point"}
 }

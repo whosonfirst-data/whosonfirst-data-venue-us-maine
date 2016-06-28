@@ -2,13 +2,14 @@
   "id": 387562871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.606616,44.566845,-69.606616,44.566845",
     "geom:latitude":44.566845,
     "geom:longitude":-69.606616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"548 Benton Ave",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387562871,
-    "wof:lastmodified":1449058124,
+    "wof:lastmodified":1466585811,
     "wof:name":"Carroll's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-69.606616,44.566845,-69.606616,44.566845],
+  "bbox": [
+    -69.606616,
+    44.566845,
+    -69.606616,
+    44.566845
+],
   "geometry": {"coordinates":[-69.606616,44.566845],"type":"Point"}
 }

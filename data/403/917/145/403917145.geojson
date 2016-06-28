@@ -2,13 +2,14 @@
   "id": 403917145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.779894,44.824014,-68.779894,44.824014",
     "geom:latitude":44.824014,
     "geom:longitude":-68.779894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"599 Broadway",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403917145,
-    "wof:lastmodified":1449055789,
+    "wof:lastmodified":1466586883,
     "wof:name":"Broadway Exxon",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-68.779894,44.824014,-68.779894,44.824014],
+  "bbox": [
+    -68.779894,
+    44.824014,
+    -68.779894,
+    44.824014
+],
   "geometry": {"coordinates":[-68.779894,44.824014],"type":"Point"}
 }

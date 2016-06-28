@@ -2,13 +2,14 @@
   "id": 387636121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.330111,43.630256,-70.330111,43.630256",
     "geom:latitude":43.630256,
     "geom:longitude":-70.330111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 John Roberts Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387636121,
-    "wof:lastmodified":1449057619,
+    "wof:lastmodified":1466585857,
     "wof:name":"Greater Portland Pediatric",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.330111,43.630256,-70.330111,43.630256],
+  "bbox": [
+    -70.330111,
+    43.630256,
+    -70.330111,
+    43.630256
+],
   "geometry": {"coordinates":[-70.330111,43.630256],"type":"Point"}
 }

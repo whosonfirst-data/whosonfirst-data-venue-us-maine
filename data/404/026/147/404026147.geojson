@@ -2,13 +2,14 @@
   "id": 404026147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.671326,44.890852,-68.671326,44.890852",
     "geom:latitude":44.890852,
     "geom:longitude":-68.671326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 College Ave",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404026147,
-    "wof:lastmodified":1449039828,
+    "wof:lastmodified":1466585956,
     "wof:name":"PHI Eta Kappa Fraternity",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lodging"
     ]
 },
-  "bbox": [-68.671326,44.890852,-68.671326,44.890852],
-  "geometry": {"coordinates":[-68.671326,44.890852],"type":"Point"}
+  "bbox": [
+    -68.671326,
+    44.890852,
+    -68.671326,
+    44.890852
+],
+  "geometry": {"coordinates":[-68.67132599999999,44.890852],"type":"Point"}
 }

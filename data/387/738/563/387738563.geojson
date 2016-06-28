@@ -2,13 +2,14 @@
   "id": 387738563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.741489,43.404967,-70.741489,43.404967",
     "geom:latitude":43.404967,
     "geom:longitude":-70.741489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Country Club Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387738563,
-    "wof:lastmodified":1449058896,
+    "wof:lastmodified":1466586922,
     "wof:name":"Alan J Brown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.741489,43.404967,-70.741489,43.404967],
+  "bbox": [
+    -70.741489,
+    43.404967,
+    -70.741489,
+    43.404967
+],
   "geometry": {"coordinates":[-70.741489,43.404967],"type":"Point"}
 }

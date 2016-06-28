@@ -2,13 +2,14 @@
   "id": 403901639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.981946,45.250285,-68.981946,45.250285",
     "geom:latitude":45.250285,
     "geom:longitude":-68.981946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Elm St",
     "sg:city":"Milo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403901639,
-    "wof:lastmodified":1449055188,
+    "wof:lastmodified":1466586925,
     "wof:name":"Joyful Photos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photography"
     ]
 },
-  "bbox": [-68.981946,45.250285,-68.981946,45.250285],
-  "geometry": {"coordinates":[-68.981946,45.250285],"type":"Point"}
+  "bbox": [
+    -68.981946,
+    45.250285,
+    -68.981946,
+    45.250285
+],
+  "geometry": {"coordinates":[-68.98194599999999,45.250285],"type":"Point"}
 }

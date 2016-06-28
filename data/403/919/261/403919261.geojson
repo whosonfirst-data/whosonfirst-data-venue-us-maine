@@ -2,13 +2,14 @@
   "id": 403919261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.192753,44.099281,-70.192753,44.099281",
     "geom:latitude":44.099281,
     "geom:longitude":-70.192753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Charles St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403919261,
-    "wof:lastmodified":1449055638,
+    "wof:lastmodified":1466586903,
     "wof:name":"Gerry's Tree Svc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-70.192753,44.099281,-70.192753,44.099281],
+  "bbox": [
+    -70.192753,
+    44.099281,
+    -70.192753,
+    44.099281
+],
   "geometry": {"coordinates":[-70.192753,44.099281],"type":"Point"}
 }

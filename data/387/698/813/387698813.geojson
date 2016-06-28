@@ -2,13 +2,14 @@
   "id": 387698813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.934937,46.71768,-67.934937,46.71768",
     "geom:latitude":46.71768,
     "geom:longitude":-67.934937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Fort Fairfield Rd",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387698813,
-    "wof:lastmodified":1449059684,
+    "wof:lastmodified":1466586728,
     "wof:name":"Mountain Ash Farms",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.934937,46.71768,-67.934937,46.71768],
-  "geometry": {"coordinates":[-67.934937,46.71768],"type":"Point"}
+  "bbox": [
+    -67.934937,
+    46.71768,
+    -67.934937,
+    46.71768
+],
+  "geometry": {"coordinates":[-67.93493700000001,46.71768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387717365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.089445,44.258668,-70.089445,44.258668",
     "geom:latitude":44.258668,
     "geom:longitude":-70.089445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 State Rte 106",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387717365,
-    "wof:lastmodified":1449056219,
+    "wof:lastmodified":1466586807,
     "wof:name":"Kevin T Murphy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.089445,44.258668,-70.089445,44.258668],
+  "bbox": [
+    -70.089445,
+    44.258668,
+    -70.089445,
+    44.258668
+],
   "geometry": {"coordinates":[-70.089445,44.258668],"type":"Point"}
 }

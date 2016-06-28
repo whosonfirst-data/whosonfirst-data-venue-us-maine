@@ -2,13 +2,14 @@
   "id": 404161433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.762164,44.810243,-68.762164,44.810243",
     "geom:latitude":44.810243,
     "geom:longitude":-68.762164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"187 Parkview Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404161433,
-    "wof:lastmodified":1449039508,
+    "wof:lastmodified":1466586770,
     "wof:name":"Dennis Robertson",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.762164,44.810243,-68.762164,44.810243],
+  "bbox": [
+    -68.762164,
+    44.810243,
+    -68.762164,
+    44.810243
+],
   "geometry": {"coordinates":[-68.762164,44.810243],"type":"Point"}
 }

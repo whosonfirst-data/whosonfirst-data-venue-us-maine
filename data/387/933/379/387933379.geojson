@@ -2,13 +2,14 @@
   "id": 387933379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.316122,43.673471,-70.316122,43.673471",
     "geom:latitude":43.673471,
     "geom:longitude":-70.316122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 Brighton Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387933379,
-    "wof:lastmodified":1449056883,
+    "wof:lastmodified":1466587271,
     "wof:name":"Great American Design",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-70.316122,43.673471,-70.316122,43.673471],
-  "geometry": {"coordinates":[-70.316122,43.673471],"type":"Point"}
+  "bbox": [
+    -70.316122,
+    43.673471,
+    -70.316122,
+    43.673471
+],
+  "geometry": {"coordinates":[-70.31612199999999,43.673471],"type":"Point"}
 }

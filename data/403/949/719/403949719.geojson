@@ -2,13 +2,14 @@
   "id": 403949719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252794,43.653682,-70.252794,43.653682",
     "geom:latitude":43.653682,
     "geom:longitude":-70.252794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Union Wharf",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403949719,
-    "wof:lastmodified":1449055467,
+    "wof:lastmodified":1466587156,
     "wof:name":"Portland Trap",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.252794,43.653682,-70.252794,43.653682],
-  "geometry": {"coordinates":[-70.252794,43.653682],"type":"Point"}
+  "bbox": [
+    -70.252794,
+    43.653682,
+    -70.252794,
+    43.653682
+],
+  "geometry": {"coordinates":[-70.25279399999999,43.653682],"type":"Point"}
 }

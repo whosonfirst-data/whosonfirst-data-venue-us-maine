@@ -2,13 +2,14 @@
   "id": 387917183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.220004,44.110215,-70.220004,44.110215",
     "geom:latitude":44.110215,
     "geom:longitude":-70.220004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N River Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387917183,
-    "wof:lastmodified":1449059421,
+    "wof:lastmodified":1466587251,
     "wof:name":"Crusader Tomato Co",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tomato"
     ]
 },
-  "bbox": [-70.220004,44.110215,-70.220004,44.110215],
+  "bbox": [
+    -70.220004,
+    44.110215,
+    -70.220004,
+    44.110215
+],
   "geometry": {"coordinates":[-70.220004,44.110215],"type":"Point"}
 }

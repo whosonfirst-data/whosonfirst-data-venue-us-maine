@@ -2,13 +2,14 @@
   "id": 387820933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.753278,44.808512,-68.753278,44.808512",
     "geom:latitude":44.808512,
     "geom:longitude":-68.753278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 State St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387820933,
-    "wof:lastmodified":1449058071,
+    "wof:lastmodified":1466587190,
     "wof:name":"Hearing Center At EMMC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hearing"
     ]
 },
-  "bbox": [-68.753278,44.808512,-68.753278,44.808512],
-  "geometry": {"coordinates":[-68.753278,44.808512],"type":"Point"}
+  "bbox": [
+    -68.753278,
+    44.808512,
+    -68.753278,
+    44.808512
+],
+  "geometry": {"coordinates":[-68.75327799999999,44.808512],"type":"Point"}
 }

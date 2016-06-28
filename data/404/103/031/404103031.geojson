@@ -2,13 +2,14 @@
   "id": 404103031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.001554,46.867651,-68.001554,46.867651",
     "geom:latitude":46.867651,
     "geom:longitude":-68.001554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Laurette St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404103031,
-    "wof:lastmodified":1449039865,
+    "wof:lastmodified":1466586040,
     "wof:name":"Plourde & Plourde Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "terrain"
     ]
 },
-  "bbox": [-68.001554,46.867651,-68.001554,46.867651],
+  "bbox": [
+    -68.001554,
+    46.867651,
+    -68.001554,
+    46.867651
+],
   "geometry": {"coordinates":[-68.001554,46.867651],"type":"Point"}
 }

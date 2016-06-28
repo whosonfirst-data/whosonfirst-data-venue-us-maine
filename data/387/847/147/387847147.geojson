@@ -2,13 +2,14 @@
   "id": 387847147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.261543,43.655131,-70.261543,43.655131",
     "geom:latitude":43.655131,
     "geom:longitude":-70.261543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Oak St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387847147,
-    "wof:lastmodified":1449057483,
+    "wof:lastmodified":1466587149,
     "wof:name":"Herbs Gully",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "herb"
     ]
 },
-  "bbox": [-70.261543,43.655131,-70.261543,43.655131],
+  "bbox": [
+    -70.261543,
+    43.655131,
+    -70.261543,
+    43.655131
+],
   "geometry": {"coordinates":[-70.261543,43.655131],"type":"Point"}
 }

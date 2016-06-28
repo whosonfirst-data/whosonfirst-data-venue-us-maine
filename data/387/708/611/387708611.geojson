@@ -2,13 +2,14 @@
   "id": 387708611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.453456,43.492608,-70.453456,43.492608",
     "geom:latitude":43.492608,
     "geom:longitude":-70.453456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Main St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387708611,
-    "wof:lastmodified":1449056700,
+    "wof:lastmodified":1466586870,
     "wof:name":"Cool Coffee",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-70.453456,43.492608,-70.453456,43.492608],
+  "bbox": [
+    -70.453456,
+    43.492608,
+    -70.453456,
+    43.492608
+],
   "geometry": {"coordinates":[-70.453456,43.492608],"type":"Point"}
 }

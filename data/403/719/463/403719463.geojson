@@ -2,13 +2,14 @@
   "id": 403719463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.046281,43.842805,-70.046281,43.842805",
     "geom:latitude":43.842805,
     "geom:longitude":-70.046281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Flying Point Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403719463,
-    "wof:lastmodified":1449054794,
+    "wof:lastmodified":1466585848,
     "wof:name":"Leeman LLC",
     "wof:parent_id":85813291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-70.046281,43.842805,-70.046281,43.842805],
-  "geometry": {"coordinates":[-70.046281,43.842805],"type":"Point"}
+  "bbox": [
+    -70.046281,
+    43.842805,
+    -70.046281,
+    43.842805
+],
+  "geometry": {"coordinates":[-70.04628099999999,43.842805],"type":"Point"}
 }

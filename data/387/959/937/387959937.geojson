@@ -2,13 +2,14 @@
   "id": 387959937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.390276,44.110485,-70.390276,44.110485",
     "geom:latitude":44.110485,
     "geom:longitude":-70.390276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Elm St",
     "sg:city":"Mechanic Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387959937,
-    "wof:lastmodified":1449059533,
+    "wof:lastmodified":1466587343,
     "wof:name":"Falls Country Gift Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.390276,44.110485,-70.390276,44.110485],
+  "bbox": [
+    -70.390276,
+    44.110485,
+    -70.390276,
+    44.110485
+],
   "geometry": {"coordinates":[-70.390276,44.110485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387965955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.063067,44.013631,-70.063067,44.013631",
     "geom:latitude":44.013631,
     "geom:longitude":-70.063067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Spear St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387965955,
-    "wof:lastmodified":1449058769,
+    "wof:lastmodified":1466587306,
     "wof:name":"Quality Flooring Co",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.063067,44.013631,-70.063067,44.013631],
+  "bbox": [
+    -70.063067,
+    44.013631,
+    -70.063067,
+    44.013631
+],
   "geometry": {"coordinates":[-70.063067,44.013631],"type":"Point"}
 }

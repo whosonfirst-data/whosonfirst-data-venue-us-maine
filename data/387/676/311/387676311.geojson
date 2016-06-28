@@ -2,13 +2,14 @@
   "id": 387676311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.508175,43.5399,-70.508175,43.5399",
     "geom:latitude":43.5399,
     "geom:longitude":-70.508175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Louden Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387676311,
-    "wof:lastmodified":1449058548,
+    "wof:lastmodified":1466586384,
     "wof:name":"Duranceau & Sons Plumbing",
     "wof:parent_id":85847051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.508175,43.5399,-70.508175,43.5399],
-  "geometry": {"coordinates":[-70.508175,43.5399],"type":"Point"}
+  "bbox": [
+    -70.508175,
+    43.5399,
+    -70.508175,
+    43.5399
+],
+  "geometry": {"coordinates":[-70.50817499999999,43.5399],"type":"Point"}
 }

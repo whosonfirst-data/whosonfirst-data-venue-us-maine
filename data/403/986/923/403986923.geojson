@@ -2,13 +2,14 @@
   "id": 403986923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.482971,43.483518,-70.482971,43.483518",
     "geom:latitude":43.483518,
     "geom:longitude":-70.482971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Pomerleau St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403986923,
-    "wof:lastmodified":1449055703,
+    "wof:lastmodified":1466587167,
     "wof:name":"Dudziak's School Of Gymnastics",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gymnastic"
     ]
 },
-  "bbox": [-70.482971,43.483518,-70.482971,43.483518],
-  "geometry": {"coordinates":[-70.482971,43.483518],"type":"Point"}
+  "bbox": [
+    -70.482971,
+    43.483518,
+    -70.482971,
+    43.483518
+],
+  "geometry": {"coordinates":[-70.48297100000001,43.483518],"type":"Point"}
 }

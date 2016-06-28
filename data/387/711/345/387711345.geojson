@@ -2,13 +2,14 @@
   "id": 387711345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.779328,44.844355,-68.779328,44.844355",
     "geom:latitude":44.844355,
     "geom:longitude":-68.779328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Bomarc Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387711345,
-    "wof:lastmodified":1449059225,
+    "wof:lastmodified":1466586770,
     "wof:name":"Exhibit Systems Of Maine",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scanning"
     ]
 },
-  "bbox": [-68.779328,44.844355,-68.779328,44.844355],
-  "geometry": {"coordinates":[-68.779328,44.844355],"type":"Point"}
+  "bbox": [
+    -68.779328,
+    44.844355,
+    -68.779328,
+    44.844355
+],
+  "geometry": {"coordinates":[-68.77932800000001,44.844355],"type":"Point"}
 }

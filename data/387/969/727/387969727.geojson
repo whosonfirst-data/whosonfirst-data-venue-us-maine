@@ -2,13 +2,14 @@
   "id": 387969727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.545578,44.544509,-70.545578,44.544509",
     "geom:latitude":44.544509,
     "geom:longitude":-70.545578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Congress St",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387969727,
-    "wof:lastmodified":1449057014,
+    "wof:lastmodified":1466587308,
     "wof:name":"Stanford Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-70.545578,44.544509,-70.545578,44.544509],
-  "geometry": {"coordinates":[-70.545578,44.544509],"type":"Point"}
+  "bbox": [
+    -70.545578,
+    44.544509,
+    -70.545578,
+    44.544509
+],
+  "geometry": {"coordinates":[-70.54557800000001,44.544509],"type":"Point"}
 }

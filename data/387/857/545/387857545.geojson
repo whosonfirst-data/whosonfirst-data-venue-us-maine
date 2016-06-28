@@ -2,13 +2,14 @@
   "id": 387857545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.171846,44.071104,-70.171846,44.071104",
     "geom:latitude":44.071104,
     "geom:longitude":-70.171846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1522 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387857545,
-    "wof:lastmodified":1449058577,
+    "wof:lastmodified":1466587255,
     "wof:name":"Lincoln Street Radiator Shop",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radiator"
     ]
 },
-  "bbox": [-70.171846,44.071104,-70.171846,44.071104],
+  "bbox": [
+    -70.171846,
+    44.071104,
+    -70.171846,
+    44.071104
+],
   "geometry": {"coordinates":[-70.171846,44.071104],"type":"Point"}
 }

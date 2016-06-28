@@ -2,13 +2,14 @@
   "id": 387768085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.509199,43.957539,-69.509199,43.957539",
     "geom:latitude":43.957539,
     "geom:longitude":-69.509199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1268 Bristol Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387768085,
-    "wof:lastmodified":1449057568,
+    "wof:lastmodified":1466587051,
     "wof:name":"Bristol Town Treasurer",
     "wof:parent_id":85831495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-69.509199,43.957539,-69.509199,43.957539],
+  "bbox": [
+    -69.509199,
+    43.957539,
+    -69.509199,
+    43.957539
+],
   "geometry": {"coordinates":[-69.509199,43.957539],"type":"Point"}
 }

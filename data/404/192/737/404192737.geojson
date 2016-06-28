@@ -2,13 +2,14 @@
   "id": 404192737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.384012,44.039366,-70.384012,44.039366",
     "geom:latitude":44.039366,
     "geom:longitude":-70.384012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"194 Jackson Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404192737,
-    "wof:lastmodified":1449039977,
+    "wof:lastmodified":1466586893,
     "wof:name":"Spillers Cheryl A Day Care",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-70.384012,44.039366,-70.384012,44.039366],
+  "bbox": [
+    -70.384012,
+    44.039366,
+    -70.384012,
+    44.039366
+],
   "geometry": {"coordinates":[-70.384012,44.039366],"type":"Point"}
 }

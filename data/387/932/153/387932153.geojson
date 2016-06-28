@@ -2,13 +2,14 @@
   "id": 387932153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.292677,43.686546,-70.292677,43.686546",
     "geom:latitude":43.686546,
     "geom:longitude":-70.292677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1170 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387932153,
-    "wof:lastmodified":1449057520,
+    "wof:lastmodified":1466587267,
     "wof:name":"Dixon Associates",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.292677,43.686546,-70.292677,43.686546],
+  "bbox": [
+    -70.292677,
+    43.686546,
+    -70.292677,
+    43.686546
+],
   "geometry": {"coordinates":[-70.292677,43.686546],"type":"Point"}
 }

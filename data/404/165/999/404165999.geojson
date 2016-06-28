@@ -2,13 +2,14 @@
   "id": 404165999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.463786,44.886225,-69.463786,44.886225",
     "geom:latitude":44.886225,
     "geom:longitude":-69.463786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Martin St",
     "sg:city":"Hartland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404165999,
-    "wof:lastmodified":1449040331,
+    "wof:lastmodified":1466586788,
     "wof:name":"Adams Amber Day Care",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-69.463786,44.886225,-69.463786,44.886225],
+  "bbox": [
+    -69.463786,
+    44.886225,
+    -69.463786,
+    44.886225
+],
   "geometry": {"coordinates":[-69.463786,44.886225],"type":"Point"}
 }

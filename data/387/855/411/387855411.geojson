@@ -2,13 +2,14 @@
   "id": 387855411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.637732,43.177953,-70.637732,43.177953",
     "geom:latitude":43.177953,
     "geom:longitude":-70.637732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Chickadee Dr",
     "sg:city":"York",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387855411,
-    "wof:lastmodified":1449058909,
+    "wof:lastmodified":1466587253,
     "wof:name":"B Train Creative Services",
     "wof:parent_id":85810513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.637732,43.177953,-70.637732,43.177953],
+  "bbox": [
+    -70.637732,
+    43.177953,
+    -70.637732,
+    43.177953
+],
   "geometry": {"coordinates":[-70.637732,43.177953],"type":"Point"}
 }

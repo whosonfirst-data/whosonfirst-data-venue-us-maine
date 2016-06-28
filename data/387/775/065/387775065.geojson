@@ -2,13 +2,14 @@
   "id": 387775065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.069065,44.191378,-69.069065,44.191378",
     "geom:latitude":44.191378,
     "geom:longitude":-69.069065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Limerock St",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387775065,
-    "wof:lastmodified":1449058920,
+    "wof:lastmodified":1466586978,
     "wof:name":"Rockport Public Library",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.069065,44.191378,-69.069065,44.191378],
-  "geometry": {"coordinates":[-69.069065,44.191378],"type":"Point"}
+  "bbox": [
+    -69.069065,
+    44.191378,
+    -69.069065,
+    44.191378
+],
+  "geometry": {"coordinates":[-69.06906499999999,44.191378],"type":"Point"}
 }

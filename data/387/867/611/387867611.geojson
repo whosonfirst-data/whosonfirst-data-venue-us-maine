@@ -2,13 +2,14 @@
   "id": 387867611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.021225,46.687635,-68.021225,46.687635",
     "geom:latitude":46.687635,
     "geom:longitude":-68.021225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Turner St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387867611,
-    "wof:lastmodified":1449057751,
+    "wof:lastmodified":1466587195,
     "wof:name":"Handyman",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-68.021225,46.687635,-68.021225,46.687635],
+  "bbox": [
+    -68.021225,
+    46.687635,
+    -68.021225,
+    46.687635
+],
   "geometry": {"coordinates":[-68.021225,46.687635],"type":"Point"}
 }

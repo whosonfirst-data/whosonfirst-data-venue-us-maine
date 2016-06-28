@@ -2,13 +2,14 @@
   "id": 403758317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.120244,44.285261,-70.120244,44.285261",
     "geom:latitude":44.285261,
     "geom:longitude":-70.120244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1026 State Rte 106",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403758317,
-    "wof:lastmodified":1449055042,
+    "wof:lastmodified":1466586367,
     "wof:name":"R L Builders",
     "wof:parent_id":85849829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.120244,44.285261,-70.120244,44.285261],
+  "bbox": [
+    -70.120244,
+    44.285261,
+    -70.120244,
+    44.285261
+],
   "geometry": {"coordinates":[-70.120244,44.285261],"type":"Point"}
 }

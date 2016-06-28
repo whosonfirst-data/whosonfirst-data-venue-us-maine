@@ -2,13 +2,14 @@
   "id": 387740337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.149994,43.861753,-70.149994,43.861753",
     "geom:latitude":43.861753,
     "geom:longitude":-70.149994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Hemlock Creek",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387740337,
-    "wof:lastmodified":1449057823,
+    "wof:lastmodified":1466586755,
     "wof:name":"Excel Builders",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-70.149994,43.861753,-70.149994,43.861753],
-  "geometry": {"coordinates":[-70.149994,43.861753],"type":"Point"}
+  "bbox": [
+    -70.149994,
+    43.861753,
+    -70.149994,
+    43.861753
+],
+  "geometry": {"coordinates":[-70.14999400000001,43.861753],"type":"Point"}
 }

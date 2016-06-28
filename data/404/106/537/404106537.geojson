@@ -2,13 +2,14 @@
   "id": 404106537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.65434,44.555308,-69.65434,44.555308",
     "geom:latitude":44.555308,
     "geom:longitude":-69.65434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Averill Ter",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404106537,
-    "wof:lastmodified":1449039073,
+    "wof:lastmodified":1466586091,
     "wof:name":"J R Paperchemicals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-69.65434,44.555308,-69.65434,44.555308],
+  "bbox": [
+    -69.65434,
+    44.555308,
+    -69.65434,
+    44.555308
+],
   "geometry": {"coordinates":[-69.65434,44.555308],"type":"Point"}
 }

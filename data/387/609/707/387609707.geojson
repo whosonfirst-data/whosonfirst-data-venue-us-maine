@@ -2,13 +2,14 @@
   "id": 387609707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.817589,44.845579,-68.817589,44.845579",
     "geom:latitude":44.845579,
     "geom:longitude":-68.817589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Bald Mountain Dr",
     "sg:city":"Dedham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387609707,
-    "wof:lastmodified":1449057523,
+    "wof:lastmodified":1466586494,
     "wof:name":"Dedham Fire Dept",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-68.817589,44.845579,-68.817589,44.845579],
+  "bbox": [
+    -68.817589,
+    44.845579,
+    -68.817589,
+    44.845579
+],
   "geometry": {"coordinates":[-68.817589,44.845579],"type":"Point"}
 }

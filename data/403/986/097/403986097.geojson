@@ -2,13 +2,14 @@
   "id": 403986097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225802,44.269462,-70.225802,44.269462",
     "geom:latitude":44.269462,
     "geom:longitude":-70.225802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Matthews Way",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403986097,
-    "wof:lastmodified":1449055703,
+    "wof:lastmodified":1466587243,
     "wof:name":"Turner Elementary School",
     "wof:parent_id":85852835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.225802,44.269462,-70.225802,44.269462],
+  "bbox": [
+    -70.225802,
+    44.269462,
+    -70.225802,
+    44.269462
+],
   "geometry": {"coordinates":[-70.225802,44.269462],"type":"Point"}
 }

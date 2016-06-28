@@ -2,13 +2,14 @@
   "id": 404067469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.895524,43.642157,-70.895524,43.642157",
     "geom:latitude":43.642157,
     "geom:longitude":-70.895524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Word Ln",
     "sg:city":"Newfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":404067469,
-    "wof:lastmodified":1449039123,
+    "wof:lastmodified":1466586529,
     "wof:name":"Commercial Pool & Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-70.895524,43.642157,-70.895524,43.642157],
-  "geometry": {"coordinates":[-70.895524,43.642157],"type":"Point"}
+  "bbox": [
+    -70.895524,
+    43.642157,
+    -70.895524,
+    43.642157
+],
+  "geometry": {"coordinates":[-70.89552399999999,43.642157],"type":"Point"}
 }

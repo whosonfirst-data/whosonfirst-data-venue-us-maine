@@ -2,13 +2,14 @@
   "id": 403960053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.858195,43.263622,-70.858195,43.263622",
     "geom:latitude":43.263622,
     "geom:longitude":-70.858195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 2nd St",
     "sg:city":"Berwick",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403960053,
-    "wof:lastmodified":1449055565,
+    "wof:lastmodified":1466586991,
     "wof:name":"Rays Diversified Machine Svcs",
     "wof:parent_id":85892311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.858195,43.263622,-70.858195,43.263622],
-  "geometry": {"coordinates":[-70.858195,43.263622],"type":"Point"}
+  "bbox": [
+    -70.858195,
+    43.263622,
+    -70.858195,
+    43.263622
+],
+  "geometry": {"coordinates":[-70.85819499999999,43.263622],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403784531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.837505,46.124455,-67.837505,46.124455",
     "geom:latitude":46.124455,
     "geom:longitude":-67.837505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Military St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403784531,
-    "wof:lastmodified":1449055502,
+    "wof:lastmodified":1466585744,
     "wof:name":"Unitarian Society Of Houlton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-67.837505,46.124455,-67.837505,46.124455],
-  "geometry": {"coordinates":[-67.837505,46.124455],"type":"Point"}
+  "bbox": [
+    -67.837505,
+    46.124455,
+    -67.837505,
+    46.124455
+],
+  "geometry": {"coordinates":[-67.83750499999999,46.124455],"type":"Point"}
 }

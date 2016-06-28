@@ -2,13 +2,14 @@
   "id": 387822071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.683174,44.899764,-68.683174,44.899764",
     "geom:latitude":44.899764,
     "geom:longitude":-68.683174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Godfrey Dr",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387822071,
-    "wof:lastmodified":1449059803,
+    "wof:lastmodified":1466587101,
     "wof:name":"W E King Surveyor LLC",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "land"
     ]
 },
-  "bbox": [-68.683174,44.899764,-68.683174,44.899764],
-  "geometry": {"coordinates":[-68.683174,44.899764],"type":"Point"}
+  "bbox": [
+    -68.683174,
+    44.899764,
+    -68.683174,
+    44.899764
+],
+  "geometry": {"coordinates":[-68.68317399999999,44.899764],"type":"Point"}
 }

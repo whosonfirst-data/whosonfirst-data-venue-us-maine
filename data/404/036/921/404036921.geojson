@@ -2,13 +2,14 @@
   "id": 404036921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.743592,43.085678,-70.743592,43.085678",
     "geom:latitude":43.085678,
     "geom:longitude":-70.743592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Wallingford Sq",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404036921,
-    "wof:lastmodified":1449039312,
+    "wof:lastmodified":1466586040,
     "wof:name":"Crooked Lane Cafe",
     "wof:parent_id":85828587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cafe"
     ]
 },
-  "bbox": [-70.743592,43.085678,-70.743592,43.085678],
-  "geometry": {"coordinates":[-70.743592,43.085678],"type":"Point"}
+  "bbox": [
+    -70.743592,
+    43.085678,
+    -70.743592,
+    43.085678
+],
+  "geometry": {"coordinates":[-70.74359200000001,43.085678],"type":"Point"}
 }

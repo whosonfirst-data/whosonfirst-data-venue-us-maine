@@ -2,13 +2,14 @@
   "id": 403937391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.631182,44.549717,-69.631182,44.549717",
     "geom:latitude":44.549717,
     "geom:longitude":-69.631182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Concourse E",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403937391,
-    "wof:lastmodified":1449054895,
+    "wof:lastmodified":1466587045,
     "wof:name":"Mad Captains' House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-69.631182,44.549717,-69.631182,44.549717],
+  "bbox": [
+    -69.631182,
+    44.549717,
+    -69.631182,
+    44.549717
+],
   "geometry": {"coordinates":[-69.631182,44.549717],"type":"Point"}
 }

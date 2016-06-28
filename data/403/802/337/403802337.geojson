@@ -2,13 +2,14 @@
   "id": 403802337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.733922,43.150743,-70.733922,43.150743",
     "geom:latitude":43.150743,
     "geom:longitude":-70.733922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 Beech Ridge Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403802337,
-    "wof:lastmodified":1449055717,
+    "wof:lastmodified":1466585984,
     "wof:name":"Agamenticus Lawn Care",
     "wof:parent_id":85816255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.733922,43.150743,-70.733922,43.150743],
-  "geometry": {"coordinates":[-70.733922,43.150743],"type":"Point"}
+  "bbox": [
+    -70.733922,
+    43.150743,
+    -70.733922,
+    43.150743
+],
+  "geometry": {"coordinates":[-70.73392200000001,43.150743],"type":"Point"}
 }

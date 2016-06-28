@@ -2,13 +2,14 @@
   "id": 387740641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.207894,44.095445,-70.207894,44.095445",
     "geom:latitude":44.095445,
     "geom:longitude":-70.207894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Howe St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387740641,
-    "wof:lastmodified":1449057823,
+    "wof:lastmodified":1466586758,
     "wof:name":"Perfect Basket",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parcel"
     ]
 },
-  "bbox": [-70.207894,44.095445,-70.207894,44.095445],
+  "bbox": [
+    -70.207894,
+    44.095445,
+    -70.207894,
+    44.095445
+],
   "geometry": {"coordinates":[-70.207894,44.095445],"type":"Point"}
 }

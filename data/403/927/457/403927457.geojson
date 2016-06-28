@@ -2,13 +2,14 @@
   "id": 403927457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.213675,44.782791,-70.213675,44.782791",
     "geom:latitude":44.782791,
     "geom:longitude":-70.213675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Pillsbury Rd",
     "sg:city":"Strong",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403927457,
-    "wof:lastmodified":1449055830,
+    "wof:lastmodified":1466587104,
     "wof:name":"Ray Jacksons Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-70.213675,44.782791,-70.213675,44.782791],
-  "geometry": {"coordinates":[-70.213675,44.782791],"type":"Point"}
+  "bbox": [
+    -70.213675,
+    44.782791,
+    -70.213675,
+    44.782791
+],
+  "geometry": {"coordinates":[-70.21367499999999,44.782791],"type":"Point"}
 }

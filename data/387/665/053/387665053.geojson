@@ -2,13 +2,14 @@
   "id": 387665053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.305098,43.606379,-70.305098,43.606379",
     "geom:latitude":43.606379,
     "geom:longitude":-70.305098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Gibson Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387665053,
-    "wof:lastmodified":1449057263,
+    "wof:lastmodified":1466586203,
     "wof:name":"Commercial Paving Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-70.305098,43.606379,-70.305098,43.606379],
+  "bbox": [
+    -70.305098,
+    43.606379,
+    -70.305098,
+    43.606379
+],
   "geometry": {"coordinates":[-70.305098,43.606379],"type":"Point"}
 }

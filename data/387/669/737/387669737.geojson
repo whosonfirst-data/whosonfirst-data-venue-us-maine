@@ -2,13 +2,14 @@
   "id": 387669737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.472634,43.482776,-70.472634,43.482776",
     "geom:latitude":43.482776,
     "geom:longitude":-70.472634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"367 Alfred St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387669737,
-    "wof:lastmodified":1449056545,
+    "wof:lastmodified":1466586276,
     "wof:name":"Life Is A Party Catering",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-70.472634,43.482776,-70.472634,43.482776],
+  "bbox": [
+    -70.472634,
+    43.482776,
+    -70.472634,
+    43.482776
+],
   "geometry": {"coordinates":[-70.472634,43.482776],"type":"Point"}
 }

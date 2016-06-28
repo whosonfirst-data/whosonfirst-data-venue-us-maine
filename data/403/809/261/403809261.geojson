@@ -2,13 +2,14 @@
   "id": 403809261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.345825,43.786372,-70.345825,43.786372",
     "geom:latitude":43.786372,
     "geom:longitude":-70.345825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Babbidge Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403809261,
-    "wof:lastmodified":1449055724,
+    "wof:lastmodified":1466586092,
     "wof:name":"Kathleen T McLean Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.345825,43.786372,-70.345825,43.786372],
+  "bbox": [
+    -70.345825,
+    43.786372,
+    -70.345825,
+    43.786372
+],
   "geometry": {"coordinates":[-70.345825,43.786372],"type":"Point"}
 }

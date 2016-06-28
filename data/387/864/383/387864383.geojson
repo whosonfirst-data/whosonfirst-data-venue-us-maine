@@ -2,13 +2,14 @@
   "id": 387864383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.192334,44.079115,-70.192334,44.079115",
     "geom:latitude":44.079115,
     "geom:longitude":-70.192334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387864383,
-    "wof:lastmodified":1449059965,
+    "wof:lastmodified":1466587184,
     "wof:name":"OUELLETTE LA Bonte Roberge",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-70.192334,44.079115,-70.192334,44.079115],
+  "bbox": [
+    -70.192334,
+    44.079115,
+    -70.192334,
+    44.079115
+],
   "geometry": {"coordinates":[-70.192334,44.079115],"type":"Point"}
 }

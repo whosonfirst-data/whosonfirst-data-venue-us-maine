@@ -2,13 +2,14 @@
   "id": 387692607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.005033,46.695896,-68.005033,46.695896",
     "geom:latitude":46.695896,
     "geom:longitude":-68.005033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Carmichael St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387692607,
-    "wof:lastmodified":1449057108,
+    "wof:lastmodified":1466586697,
     "wof:name":"Maine Public Svc Co",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-68.005033,46.695896,-68.005033,46.695896],
+  "bbox": [
+    -68.005033,
+    46.695896,
+    -68.005033,
+    46.695896
+],
   "geometry": {"coordinates":[-68.005033,46.695896],"type":"Point"}
 }

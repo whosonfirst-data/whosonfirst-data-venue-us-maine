@@ -2,13 +2,14 @@
   "id": 403978279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.159239,44.100069,-70.159239,44.100069",
     "geom:latitude":44.100069,
     "geom:longitude":-70.159239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Grove St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403978279,
-    "wof:lastmodified":1449055396,
+    "wof:lastmodified":1466587142,
     "wof:name":"All Outdoor Services",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.159239,44.100069,-70.159239,44.100069],
+  "bbox": [
+    -70.159239,
+    44.100069,
+    -70.159239,
+    44.100069
+],
   "geometry": {"coordinates":[-70.159239,44.100069],"type":"Point"}
 }

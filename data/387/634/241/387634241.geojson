@@ -2,13 +2,14 @@
   "id": 387634241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.709576,43.096239,-70.709576,43.096239",
     "geom:latitude":43.096239,
     "geom:longitude":-70.709576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Haley Rd",
     "sg:city":"Kittery Point",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387634241,
-    "wof:lastmodified":1449057920,
+    "wof:lastmodified":1466586642,
     "wof:name":"Segal Construction",
     "wof:parent_id":85807497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.709576,43.096239,-70.709576,43.096239],
+  "bbox": [
+    -70.709576,
+    43.096239,
+    -70.709576,
+    43.096239
+],
   "geometry": {"coordinates":[-70.709576,43.096239],"type":"Point"}
 }

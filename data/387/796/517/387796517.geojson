@@ -2,13 +2,14 @@
   "id": 387796517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.786167,44.36401,-70.786167,44.36401",
     "geom:latitude":44.36401,
     "geom:longitude":-70.786167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Baker Rd",
     "sg:city":"Albany Twp",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387796517,
-    "wof:lastmodified":1449057899,
+    "wof:lastmodified":1466587024,
     "wof:name":"Mainely Docks",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dock"
     ]
 },
-  "bbox": [-70.786167,44.36401,-70.786167,44.36401],
-  "geometry": {"coordinates":[-70.786167,44.36401],"type":"Point"}
+  "bbox": [
+    -70.786167,
+    44.36401,
+    -70.786167,
+    44.36401
+],
+  "geometry": {"coordinates":[-70.78616700000001,44.36401],"type":"Point"}
 }

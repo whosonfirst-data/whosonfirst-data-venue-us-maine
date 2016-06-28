@@ -2,13 +2,14 @@
   "id": 387947549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.48328,43.544862,-70.48328,43.544862",
     "geom:latitude":43.544862,
     "geom:longitude":-70.48328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Tall Pines Dr",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387947549,
-    "wof:lastmodified":1449058865,
+    "wof:lastmodified":1466587334,
     "wof:name":"Corey Michael Mem Scholarship",
     "wof:parent_id":85847051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "management"
     ]
 },
-  "bbox": [-70.48328,43.544862,-70.48328,43.544862],
-  "geometry": {"coordinates":[-70.48328,43.544862],"type":"Point"}
+  "bbox": [
+    -70.48328,
+    43.544862,
+    -70.48328,
+    43.544862
+],
+  "geometry": {"coordinates":[-70.48327999999999,43.544862],"type":"Point"}
 }

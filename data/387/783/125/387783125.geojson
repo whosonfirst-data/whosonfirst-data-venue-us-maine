@@ -2,13 +2,14 @@
   "id": 387783125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.226991,44.102637,-70.226991,44.102637",
     "geom:latitude":44.102637,
     "geom:longitude":-70.226991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Turner St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387783125,
-    "wof:lastmodified":1449056243,
+    "wof:lastmodified":1466587000,
     "wof:name":"Teague Funeral Home",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-70.226991,44.102637,-70.226991,44.102637],
+  "bbox": [
+    -70.226991,
+    44.102637,
+    -70.226991,
+    44.102637
+],
   "geometry": {"coordinates":[-70.226991,44.102637],"type":"Point"}
 }

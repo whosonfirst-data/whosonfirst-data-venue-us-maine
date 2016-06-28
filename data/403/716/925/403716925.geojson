@@ -2,13 +2,14 @@
   "id": 403716925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.584699,43.309346,-70.584699,43.309346",
     "geom:latitude":43.309346,
     "geom:longitude":-70.584699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1064 Post Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403716925,
-    "wof:lastmodified":1449054812,
+    "wof:lastmodified":1466585827,
     "wof:name":"Eleanor Leech Mary Kay Co",
     "wof:parent_id":85810445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-70.584699,43.309346,-70.584699,43.309346],
+  "bbox": [
+    -70.584699,
+    43.309346,
+    -70.584699,
+    43.309346
+],
   "geometry": {"coordinates":[-70.584699,43.309346],"type":"Point"}
 }

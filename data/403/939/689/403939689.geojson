@@ -2,13 +2,14 @@
   "id": 403939689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.06875,44.238999,-70.06875,44.238999",
     "geom:latitude":44.238999,
     "geom:longitude":-70.06875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"392 US Hwy 202",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403939689,
-    "wof:lastmodified":1449055038,
+    "wof:lastmodified":1466586951,
     "wof:name":"Core Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "physical"
     ]
 },
-  "bbox": [-70.06875,44.238999,-70.06875,44.238999],
-  "geometry": {"coordinates":[-70.06875,44.238999],"type":"Point"}
+  "bbox": [
+    -70.06875,
+    44.238999,
+    -70.06875,
+    44.238999
+],
+  "geometry": {"coordinates":[-70.06874999999999,44.238999],"type":"Point"}
 }

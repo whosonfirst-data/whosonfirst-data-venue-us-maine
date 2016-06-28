@@ -2,13 +2,14 @@
   "id": 403813727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.659565,44.941567,-68.659565,44.941567",
     "geom:latitude":44.941567,
     "geom:longitude":-68.659565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Sargent Dr",
     "sg:city":"Milo",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403813727,
-    "wof:lastmodified":1449054986,
+    "wof:lastmodified":1466586164,
     "wof:name":"Meals For Me",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.659565,44.941567,-68.659565,44.941567],
+  "bbox": [
+    -68.659565,
+    44.941567,
+    -68.659565,
+    44.941567
+],
   "geometry": {"coordinates":[-68.659565,44.941567],"type":"Point"}
 }

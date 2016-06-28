@@ -2,13 +2,14 @@
   "id": 403703431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.579746,44.78561,-68.579746,44.78561",
     "geom:latitude":44.78561,
     "geom:longitude":-68.579746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Jarvis Gore Dr",
     "sg:city":"Eddington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403703431,
-    "wof:lastmodified":1449055048,
+    "wof:lastmodified":1466585771,
     "wof:name":"P A Lyford Inc",
     "wof:parent_id":85804681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.579746,44.78561,-68.579746,44.78561],
+  "bbox": [
+    -68.579746,
+    44.78561,
+    -68.579746,
+    44.78561
+],
   "geometry": {"coordinates":[-68.579746,44.78561],"type":"Point"}
 }

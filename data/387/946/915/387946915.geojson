@@ -2,13 +2,14 @@
   "id": 387946915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.771628,44.796069,-68.771628,44.796069",
     "geom:latitude":44.796069,
     "geom:longitude":-68.771628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Pleasant St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387946915,
-    "wof:lastmodified":1449059464,
+    "wof:lastmodified":1466587335,
     "wof:name":"Berry Dunn Mc Neil & Parker",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-68.771628,44.796069,-68.771628,44.796069],
-  "geometry": {"coordinates":[-68.771628,44.796069],"type":"Point"}
+  "bbox": [
+    -68.771628,
+    44.796069,
+    -68.771628,
+    44.796069
+],
+  "geometry": {"coordinates":[-68.77162800000001,44.796069],"type":"Point"}
 }

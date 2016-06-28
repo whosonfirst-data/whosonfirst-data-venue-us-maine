@@ -2,13 +2,14 @@
   "id": 404078069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.109199,44.104814,-69.109199,44.104814",
     "geom:latitude":44.104814,
     "geom:longitude":-69.109199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Main St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404078069,
-    "wof:lastmodified":1449040131,
+    "wof:lastmodified":1466585709,
     "wof:name":"Brass Compass Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-69.109199,44.104814,-69.109199,44.104814],
+  "bbox": [
+    -69.109199,
+    44.104814,
+    -69.109199,
+    44.104814
+],
   "geometry": {"coordinates":[-69.109199,44.104814],"type":"Point"}
 }

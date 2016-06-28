@@ -2,13 +2,14 @@
   "id": 387713929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.284751,43.671711,-70.284751,43.671711",
     "geom:latitude":43.671711,
     "geom:longitude":-70.284751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387713929,
-    "wof:lastmodified":1449059559,
+    "wof:lastmodified":1466586792,
     "wof:name":"Merrimack Mortgage Co",
     "wof:parent_id":85858627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-70.284751,43.671711,-70.284751,43.671711],
+  "bbox": [
+    -70.284751,
+    43.671711,
+    -70.284751,
+    43.671711
+],
   "geometry": {"coordinates":[-70.284751,43.671711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387970559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.012382,46.625229,-68.012382,46.625229",
     "geom:latitude":46.625229,
     "geom:longitude":-68.012382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 State Park Rd",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387970559,
-    "wof:lastmodified":1449059858,
+    "wof:lastmodified":1466587308,
     "wof:name":"Aroostook Land Surveying & Map",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-68.012382,46.625229,-68.012382,46.625229],
+  "bbox": [
+    -68.012382,
+    46.625229,
+    -68.012382,
+    46.625229
+],
   "geometry": {"coordinates":[-68.012382,46.625229],"type":"Point"}
 }

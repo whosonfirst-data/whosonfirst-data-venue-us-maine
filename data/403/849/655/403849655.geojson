@@ -2,13 +2,14 @@
   "id": 403849655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.80316,44.726901,-68.80316,44.726901",
     "geom:latitude":44.726901,
     "geom:longitude":-68.80316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Center Dr",
     "sg:city":"Orrington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403849655,
-    "wof:lastmodified":1449054879,
+    "wof:lastmodified":1466586826,
     "wof:name":"Orrington Volunteer Ambulance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-68.80316,44.726901,-68.80316,44.726901],
-  "geometry": {"coordinates":[-68.80316,44.726901],"type":"Point"}
+  "bbox": [
+    -68.80316,
+    44.726901,
+    -68.80316,
+    44.726901
+],
+  "geometry": {"coordinates":[-68.80316000000001,44.726901],"type":"Point"}
 }

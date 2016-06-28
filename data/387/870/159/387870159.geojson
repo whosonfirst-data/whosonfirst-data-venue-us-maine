@@ -2,13 +2,14 @@
   "id": 387870159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.41851,44.541603,-68.41851,44.541603",
     "geom:latitude":44.541603,
     "geom:longitude":-68.41851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Pine St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387870159,
-    "wof:lastmodified":1449057103,
+    "wof:lastmodified":1466587289,
     "wof:name":"Michael E Salisbury",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-68.41851,44.541603,-68.41851,44.541603],
+  "bbox": [
+    -68.41851,
+    44.541603,
+    -68.41851,
+    44.541603
+],
   "geometry": {"coordinates":[-68.41851,44.541603],"type":"Point"}
 }

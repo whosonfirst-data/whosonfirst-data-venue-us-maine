@@ -2,13 +2,14 @@
   "id": 387857263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.008195,46.860675,-68.008195,46.860675",
     "geom:latitude":46.860675,
     "geom:longitude":-68.008195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 High St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387857263,
-    "wof:lastmodified":1449058579,
+    "wof:lastmodified":1466587253,
     "wof:name":"Aroostook County Federal S & L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "association"
     ]
 },
-  "bbox": [-68.008195,46.860675,-68.008195,46.860675],
+  "bbox": [
+    -68.008195,
+    46.860675,
+    -68.008195,
+    46.860675
+],
   "geometry": {"coordinates":[-68.008195,46.860675],"type":"Point"}
 }

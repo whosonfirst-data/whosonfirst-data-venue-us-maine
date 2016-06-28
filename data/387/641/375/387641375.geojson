@@ -2,13 +2,14 @@
   "id": 387641375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.354759,43.679163,-70.354759,43.679163",
     "geom:latitude":43.679163,
     "geom:longitude":-70.354759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"596 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387641375,
-    "wof:lastmodified":1449058995,
+    "wof:lastmodified":1466585892,
     "wof:name":"A Joyful Noise Christian Dycre",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.354759,43.679163,-70.354759,43.679163],
+  "bbox": [
+    -70.354759,
+    43.679163,
+    -70.354759,
+    43.679163
+],
   "geometry": {"coordinates":[-70.354759,43.679163],"type":"Point"}
 }

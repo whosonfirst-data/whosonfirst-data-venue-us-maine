@@ -2,13 +2,14 @@
   "id": 404191019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252648,43.636705,-70.252648,43.636705",
     "geom:latitude":43.636705,
     "geom:longitude":-70.252648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Thomas St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404191019,
-    "wof:lastmodified":1449039838,
+    "wof:lastmodified":1466586891,
     "wof:name":"South Portland Code Enfrcmnt",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-70.252648,43.636705,-70.252648,43.636705],
-  "geometry": {"coordinates":[-70.252648,43.636705],"type":"Point"}
+  "bbox": [
+    -70.252648,
+    43.636705,
+    -70.252648,
+    43.636705
+],
+  "geometry": {"coordinates":[-70.25264799999999,43.636705],"type":"Point"}
 }

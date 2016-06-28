@@ -2,13 +2,14 @@
   "id": 387595265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.310594,43.80195,-70.310594,43.80195",
     "geom:latitude":43.80195,
     "geom:longitude":-70.310594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Old Farm Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387595265,
-    "wof:lastmodified":1449059548,
+    "wof:lastmodified":1466586276,
     "wof:name":"Atlantic Adjusters",
     "wof:parent_id":85855337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-70.310594,43.80195,-70.310594,43.80195],
-  "geometry": {"coordinates":[-70.310594,43.80195],"type":"Point"}
+  "bbox": [
+    -70.310594,
+    43.80195,
+    -70.310594,
+    43.80195
+],
+  "geometry": {"coordinates":[-70.31059399999999,43.80195],"type":"Point"}
 }

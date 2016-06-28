@@ -2,13 +2,14 @@
   "id": 403769249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.029175,43.748158,-70.029175,43.748158",
     "geom:latitude":43.748158,
     "geom:longitude":-70.029175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Ash Point Rd",
     "sg:city":"Harpswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403769249,
-    "wof:lastmodified":1449055067,
+    "wof:lastmodified":1466586519,
     "wof:name":"Girl Friday",
     "wof:parent_id":85855607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-70.029175,43.748158,-70.029175,43.748158],
+  "bbox": [
+    -70.029175,
+    43.748158,
+    -70.029175,
+    43.748158
+],
   "geometry": {"coordinates":[-70.029175,43.748158],"type":"Point"}
 }

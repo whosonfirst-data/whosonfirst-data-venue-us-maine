@@ -2,13 +2,14 @@
   "id": 387581891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.855949,44.639314,-68.855949,44.639314",
     "geom:latitude":44.639314,
     "geom:longitude":-68.855949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Rob Clark St",
     "sg:city":"Winterport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387581891,
-    "wof:lastmodified":1449056904,
+    "wof:lastmodified":1466586037,
     "wof:name":"ABACUS The Learning Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-68.855949,44.639314,-68.855949,44.639314],
+  "bbox": [
+    -68.855949,
+    44.639314,
+    -68.855949,
+    44.639314
+],
   "geometry": {"coordinates":[-68.855949,44.639314],"type":"Point"}
 }

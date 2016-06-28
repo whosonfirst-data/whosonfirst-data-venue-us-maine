@@ -2,13 +2,14 @@
   "id": 387568913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.206779,44.381848,-68.206779,44.381848",
     "geom:latitude":44.381848,
     "geom:longitude":-68.206779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Ledgelawn Ave",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387568913,
-    "wof:lastmodified":1449056025,
+    "wof:lastmodified":1466585882,
     "wof:name":"Acadia Weddings",
     "wof:parent_id":85803817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.206779,44.381848,-68.206779,44.381848],
+  "bbox": [
+    -68.206779,
+    44.381848,
+    -68.206779,
+    44.381848
+],
   "geometry": {"coordinates":[-68.206779,44.381848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403945941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.264285,44.073725,-70.264285,44.073725",
     "geom:latitude":44.073725,
     "geom:longitude":-70.264285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1769 Hotel Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403945941,
-    "wof:lastmodified":1449054748,
+    "wof:lastmodified":1466587070,
     "wof:name":"Service Unlimited",
     "wof:parent_id":85831033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-70.264285,44.073725,-70.264285,44.073725],
+  "bbox": [
+    -70.264285,
+    44.073725,
+    -70.264285,
+    44.073725
+],
   "geometry": {"coordinates":[-70.264285,44.073725],"type":"Point"}
 }

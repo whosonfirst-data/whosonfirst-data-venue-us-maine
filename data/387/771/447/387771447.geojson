@@ -2,13 +2,14 @@
   "id": 387771447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.574382,44.264948,-70.574382,44.264948",
     "geom:latitude":44.264948,
     "geom:longitude":-70.574382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"994 Crockett Ridge Rd",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387771447,
-    "wof:lastmodified":1449058179,
+    "wof:lastmodified":1466586890,
     "wof:name":"Dan Noble Contracting Inc",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.574382,44.264948,-70.574382,44.264948],
+  "bbox": [
+    -70.574382,
+    44.264948,
+    -70.574382,
+    44.264948
+],
   "geometry": {"coordinates":[-70.574382,44.264948],"type":"Point"}
 }

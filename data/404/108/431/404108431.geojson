@@ -2,13 +2,14 @@
   "id": 404108431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.641291,44.921863,-68.641291,44.921863",
     "geom:latitude":44.921863,
     "geom:longitude":-68.641291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"461 Main St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404108431,
-    "wof:lastmodified":1449039105,
+    "wof:lastmodified":1466586119,
     "wof:name":"Main Street Garage",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-68.641291,44.921863,-68.641291,44.921863],
+  "bbox": [
+    -68.641291,
+    44.921863,
+    -68.641291,
+    44.921863
+],
   "geometry": {"coordinates":[-68.641291,44.921863],"type":"Point"}
 }

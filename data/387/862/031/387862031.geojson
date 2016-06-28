@@ -2,13 +2,14 @@
   "id": 387862031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.776356,43.107014,-70.776356,43.107014",
     "geom:latitude":43.107014,
     "geom:longitude":-70.776356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Ponderosa Dr",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387862031,
-    "wof:lastmodified":1449060009,
+    "wof:lastmodified":1466587179,
     "wof:name":"Borden's Towing Svc",
     "wof:parent_id":85849617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-70.776356,43.107014,-70.776356,43.107014],
-  "geometry": {"coordinates":[-70.776356,43.107014],"type":"Point"}
+  "bbox": [
+    -70.776356,
+    43.107014,
+    -70.776356,
+    43.107014
+],
+  "geometry": {"coordinates":[-70.77635600000001,43.107014],"type":"Point"}
 }

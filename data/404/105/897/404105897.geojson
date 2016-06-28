@@ -2,13 +2,14 @@
   "id": 404105897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.244256,43.72474,-70.244256,43.72474",
     "geom:latitude":43.72474,
     "geom:longitude":-70.244256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Middle Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404105897,
-    "wof:lastmodified":1449039486,
+    "wof:lastmodified":1466586082,
     "wof:name":"L Di Millo Inc",
     "wof:parent_id":85816239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-70.244256,43.72474,-70.244256,43.72474],
-  "geometry": {"coordinates":[-70.244256,43.72474],"type":"Point"}
+  "bbox": [
+    -70.244256,
+    43.72474,
+    -70.244256,
+    43.72474
+],
+  "geometry": {"coordinates":[-70.24425599999999,43.72474],"type":"Point"}
 }

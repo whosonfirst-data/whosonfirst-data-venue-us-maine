@@ -2,13 +2,14 @@
   "id": 403983803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.216922,44.105097,-70.216922,44.105097",
     "geom:latitude":44.105097,
     "geom:longitude":-70.216922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Spring St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403983803,
-    "wof:lastmodified":1449055854,
+    "wof:lastmodified":1466587161,
     "wof:name":"Asengraved",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-70.216922,44.105097,-70.216922,44.105097],
+  "bbox": [
+    -70.216922,
+    44.105097,
+    -70.216922,
+    44.105097
+],
   "geometry": {"coordinates":[-70.216922,44.105097],"type":"Point"}
 }

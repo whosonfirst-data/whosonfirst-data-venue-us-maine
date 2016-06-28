@@ -2,13 +2,14 @@
   "id": 387697333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.658375,44.895269,-68.658375,44.895269",
     "geom:latitude":44.895269,
     "geom:longitude":-68.658375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Park St",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387697333,
-    "wof:lastmodified":1449058510,
+    "wof:lastmodified":1466586718,
     "wof:name":"Orono Thriftway Food Ctr",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-68.658375,44.895269,-68.658375,44.895269],
-  "geometry": {"coordinates":[-68.658375,44.895269],"type":"Point"}
+  "bbox": [
+    -68.658375,
+    44.895269,
+    -68.658375,
+    44.895269
+],
+  "geometry": {"coordinates":[-68.65837500000001,44.895269],"type":"Point"}
 }

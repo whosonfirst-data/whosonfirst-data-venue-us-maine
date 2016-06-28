@@ -2,13 +2,14 @@
   "id": 387583997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.366834,43.677092,-70.366834,43.677092",
     "geom:latitude":43.677092,
     "geom:longitude":-70.366834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Bridge St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387583997,
-    "wof:lastmodified":1449059112,
+    "wof:lastmodified":1466586071,
     "wof:name":"Chicky's Fine Diner Inc",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.366834,43.677092,-70.366834,43.677092],
+  "bbox": [
+    -70.366834,
+    43.677092,
+    -70.366834,
+    43.677092
+],
   "geometry": {"coordinates":[-70.366834,43.677092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404062845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.683673,45.657145,-68.683673,45.657145",
     "geom:latitude":45.657145,
     "geom:longitude":-68.683673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"936 Central St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404062845,
-    "wof:lastmodified":1449040255,
+    "wof:lastmodified":1466586491,
     "wof:name":"Emery Lee & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.683673,45.657145,-68.683673,45.657145],
+  "bbox": [
+    -68.683673,
+    45.657145,
+    -68.683673,
+    45.657145
+],
   "geometry": {"coordinates":[-68.683673,45.657145],"type":"Point"}
 }

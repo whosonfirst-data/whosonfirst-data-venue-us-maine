@@ -2,13 +2,14 @@
   "id": 403809995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.555838,44.545584,-70.555838,44.545584",
     "geom:latitude":44.545584,
     "geom:longitude":-70.555838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 Spruce St",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":403809995,
-    "wof:lastmodified":1449055728,
+    "wof:lastmodified":1466586105,
     "wof:name":"Community Energy Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "burner"
     ]
 },
-  "bbox": [-70.555838,44.545584,-70.555838,44.545584],
-  "geometry": {"coordinates":[-70.555838,44.545584],"type":"Point"}
+  "bbox": [
+    -70.555838,
+    44.545584,
+    -70.555838,
+    44.545584
+],
+  "geometry": {"coordinates":[-70.55583799999999,44.545584],"type":"Point"}
 }

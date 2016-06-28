@@ -2,13 +2,14 @@
   "id": 403917959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.54593,44.592999,-69.54593,44.592999",
     "geom:latitude":44.592999,
     "geom:longitude":-69.54593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Bangor Rd",
     "sg:city":"Unity",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403917959,
-    "wof:lastmodified":1449055789,
+    "wof:lastmodified":1466586970,
     "wof:name":"Church Of The Apostolic Way",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-69.54593,44.592999,-69.54593,44.592999],
+  "bbox": [
+    -69.54593,
+    44.592999,
+    -69.54593,
+    44.592999
+],
   "geometry": {"coordinates":[-69.54593,44.592999],"type":"Point"}
 }

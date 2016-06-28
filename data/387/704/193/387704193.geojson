@@ -2,13 +2,14 @@
   "id": 387704193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.643858,43.147355,-70.643858,43.147355",
     "geom:latitude":43.147355,
     "geom:longitude":-70.643858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Long Sands Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387704193,
-    "wof:lastmodified":1449057094,
+    "wof:lastmodified":1466586756,
     "wof:name":"American Legion",
     "wof:parent_id":85859383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-70.643858,43.147355,-70.643858,43.147355],
-  "geometry": {"coordinates":[-70.643858,43.147355],"type":"Point"}
+  "bbox": [
+    -70.643858,
+    43.147355,
+    -70.643858,
+    43.147355
+],
+  "geometry": {"coordinates":[-70.64385799999999,43.147355],"type":"Point"}
 }

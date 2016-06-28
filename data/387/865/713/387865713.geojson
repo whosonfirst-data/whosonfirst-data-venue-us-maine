@@ -2,13 +2,14 @@
   "id": 387865713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.71946,44.765253,-69.71946,44.765253",
     "geom:latitude":44.765253,
     "geom:longitude":-69.71946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Madison Ave",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387865713,
-    "wof:lastmodified":1449058981,
+    "wof:lastmodified":1466587105,
     "wof:name":"Miles F Carpenter Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.71946,44.765253,-69.71946,44.765253],
+  "bbox": [
+    -69.71946,
+    44.765253,
+    -69.71946,
+    44.765253
+],
   "geometry": {"coordinates":[-69.71946,44.765253],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387567267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.68615,44.544461,-69.68615,44.544461",
     "geom:latitude":44.544461,
     "geom:longitude":-69.68615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Forest Ave",
     "sg:city":"Norridgewock",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387567267,
-    "wof:lastmodified":1449059949,
+    "wof:lastmodified":1466585848,
     "wof:name":"K P Structures Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.68615,44.544461,-69.68615,44.544461],
+  "bbox": [
+    -69.68615,
+    44.544461,
+    -69.68615,
+    44.544461
+],
   "geometry": {"coordinates":[-69.68615,44.544461],"type":"Point"}
 }

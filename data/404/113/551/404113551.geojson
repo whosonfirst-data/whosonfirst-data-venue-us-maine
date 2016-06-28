@@ -2,13 +2,14 @@
   "id": 404113551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.594557,44.588059,-69.594557,44.588059",
     "geom:latitude":44.588059,
     "geom:longitude":-69.594557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Main St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404113551,
-    "wof:lastmodified":1449040227,
+    "wof:lastmodified":1466586196,
     "wof:name":"Curves For Women",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-69.594557,44.588059,-69.594557,44.588059],
-  "geometry": {"coordinates":[-69.594557,44.588059],"type":"Point"}
+  "bbox": [
+    -69.594557,
+    44.588059,
+    -69.594557,
+    44.588059
+],
+  "geometry": {"coordinates":[-69.59455699999999,44.588059],"type":"Point"}
 }

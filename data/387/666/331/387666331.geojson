@@ -2,13 +2,14 @@
   "id": 387666331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.067236,43.870139,-70.067236,43.870139",
     "geom:latitude":43.870139,
     "geom:longitude":-70.067236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Pleasant Hill Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387666331,
-    "wof:lastmodified":1449057493,
+    "wof:lastmodified":1466586226,
     "wof:name":"Pleasant Hill Kennels",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sitting"
     ]
 },
-  "bbox": [-70.067236,43.870139,-70.067236,43.870139],
-  "geometry": {"coordinates":[-70.067236,43.870139],"type":"Point"}
+  "bbox": [
+    -70.067236,
+    43.870139,
+    -70.067236,
+    43.870139
+],
+  "geometry": {"coordinates":[-70.06723599999999,43.870139],"type":"Point"}
 }

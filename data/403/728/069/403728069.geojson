@@ -2,13 +2,14 @@
   "id": 403728069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.232297,44.187863,-70.232297,44.187863",
     "geom:latitude":44.187863,
     "geom:longitude":-70.232297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Conant Rd",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403728069,
-    "wof:lastmodified":1449054954,
+    "wof:lastmodified":1466585941,
     "wof:name":"Flow Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.232297,44.187863,-70.232297,44.187863],
+  "bbox": [
+    -70.232297,
+    44.187863,
+    -70.232297,
+    44.187863
+],
   "geometry": {"coordinates":[-70.232297,44.187863],"type":"Point"}
 }

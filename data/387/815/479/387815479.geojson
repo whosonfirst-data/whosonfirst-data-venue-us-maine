@@ -2,13 +2,14 @@
   "id": 387815479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.772751,44.229554,-69.772751,44.229554",
     "geom:latitude":44.229554,
     "geom:longitude":-69.772751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"293 Water St",
     "sg:city":"Gardiner",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387815479,
-    "wof:lastmodified":1449057946,
+    "wof:lastmodified":1466587007,
     "wof:name":"Linda Stevenson Photography",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-69.772751,44.229554,-69.772751,44.229554],
+  "bbox": [
+    -69.772751,
+    44.229554,
+    -69.772751,
+    44.229554
+],
   "geometry": {"coordinates":[-69.772751,44.229554],"type":"Point"}
 }

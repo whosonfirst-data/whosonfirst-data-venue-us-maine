@@ -2,13 +2,14 @@
   "id": 403799419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.305814,43.710742,-70.305814,43.710742",
     "geom:latitude":43.710742,
     "geom:longitude":-70.305814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Riverside Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403799419,
-    "wof:lastmodified":1449055971,
+    "wof:lastmodified":1466585940,
     "wof:name":"Maine Cottage Furniture Inc",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.305814,43.710742,-70.305814,43.710742],
+  "bbox": [
+    -70.305814,
+    43.710742,
+    -70.305814,
+    43.710742
+],
   "geometry": {"coordinates":[-70.305814,43.710742],"type":"Point"}
 }

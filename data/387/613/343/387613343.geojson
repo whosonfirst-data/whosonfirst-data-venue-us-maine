@@ -2,13 +2,14 @@
   "id": 387613343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.323101,44.043148,-70.323101,44.043148",
     "geom:latitude":44.043148,
     "geom:longitude":-70.323101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Lewiston Junction Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387613343,
-    "wof:lastmodified":1449057877,
+    "wof:lastmodified":1466586551,
     "wof:name":"Twin City Tile & Remodeling Co",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.323101,44.043148,-70.323101,44.043148],
-  "geometry": {"coordinates":[-70.323101,44.043148],"type":"Point"}
+  "bbox": [
+    -70.323101,
+    44.043148,
+    -70.323101,
+    44.043148
+],
+  "geometry": {"coordinates":[-70.32310099999999,44.043148],"type":"Point"}
 }

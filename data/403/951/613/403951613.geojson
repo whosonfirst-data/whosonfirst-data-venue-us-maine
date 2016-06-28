@@ -2,13 +2,14 @@
   "id": 403951613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242118,43.649523,-70.242118,43.649523",
     "geom:latitude":43.649523,
     "geom:longitude":-70.242118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403951613,
-    "wof:lastmodified":1449054673,
+    "wof:lastmodified":1466587076,
     "wof:name":"Hammonds Kerry Day Care",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-70.242118,43.649523,-70.242118,43.649523],
+  "bbox": [
+    -70.242118,
+    43.649523,
+    -70.242118,
+    43.649523
+],
   "geometry": {"coordinates":[-70.242118,43.649523],"type":"Point"}
 }

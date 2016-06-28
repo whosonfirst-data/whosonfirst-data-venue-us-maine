@@ -2,13 +2,14 @@
   "id": 387702377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.73381,43.853318,-69.73381,43.853318",
     "geom:latitude":43.853318,
     "geom:longitude":-69.73381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 Robinhood Rd",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387702377,
-    "wof:lastmodified":1449058008,
+    "wof:lastmodified":1466586743,
     "wof:name":"Osprey Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.73381,43.853318,-69.73381,43.853318],
-  "geometry": {"coordinates":[-69.73381,43.853318],"type":"Point"}
+  "bbox": [
+    -69.73381,
+    43.853318,
+    -69.73381,
+    43.853318
+],
+  "geometry": {"coordinates":[-69.73381000000001,43.853318],"type":"Point"}
 }

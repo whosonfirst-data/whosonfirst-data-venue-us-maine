@@ -2,13 +2,14 @@
   "id": 403980757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.418193,44.539354,-68.418193,44.539354",
     "geom:latitude":44.539354,
     "geom:longitude":-68.418193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Deane St",
     "sg:city":"Blue Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403980757,
-    "wof:lastmodified":1449054726,
+    "wof:lastmodified":1466587058,
     "wof:name":"Avalon Day Spa",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-68.418193,44.539354,-68.418193,44.539354],
+  "bbox": [
+    -68.418193,
+    44.539354,
+    -68.418193,
+    44.539354
+],
   "geometry": {"coordinates":[-68.418193,44.539354],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387720741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.211254,44.089598,-70.211254,44.089598",
     "geom:latitude":44.089598,
     "geom:longitude":-70.211254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Adams Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387720741,
-    "wof:lastmodified":1449057010,
+    "wof:lastmodified":1466586888,
     "wof:name":"Homeschool Associates",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "schooling"
     ]
 },
-  "bbox": [-70.211254,44.089598,-70.211254,44.089598],
+  "bbox": [
+    -70.211254,
+    44.089598,
+    -70.211254,
+    44.089598
+],
   "geometry": {"coordinates":[-70.211254,44.089598],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404075107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.334373,43.685926,-70.334373,43.685926",
     "geom:latitude":43.685926,
     "geom:longitude":-70.334373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Warren Ave",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404075107,
-    "wof:lastmodified":1449039789,
+    "wof:lastmodified":1466586614,
     "wof:name":"Carter Chemicals Svc Inc",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "additive"
     ]
 },
-  "bbox": [-70.334373,43.685926,-70.334373,43.685926],
+  "bbox": [
+    -70.334373,
+    43.685926,
+    -70.334373,
+    43.685926
+],
   "geometry": {"coordinates":[-70.334373,43.685926],"type":"Point"}
 }

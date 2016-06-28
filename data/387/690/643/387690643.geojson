@@ -2,13 +2,14 @@
   "id": 387690643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.310837,43.712842,-70.310837,43.712842",
     "geom:latitude":43.712842,
     "geom:longitude":-70.310837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Riverside St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387690643,
-    "wof:lastmodified":1449058122,
+    "wof:lastmodified":1466586613,
     "wof:name":"Myat Inc",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-70.310837,43.712842,-70.310837,43.712842],
-  "geometry": {"coordinates":[-70.310837,43.712842],"type":"Point"}
+  "bbox": [
+    -70.310837,
+    43.712842,
+    -70.310837,
+    43.712842
+],
+  "geometry": {"coordinates":[-70.31083700000001,43.712842],"type":"Point"}
 }

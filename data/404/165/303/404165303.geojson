@@ -2,13 +2,14 @@
   "id": 404165303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.289606,43.698021,-70.289606,43.698021",
     "geom:latitude":43.698021,
     "geom:longitude":-70.289606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Allen Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404165303,
-    "wof:lastmodified":1449040326,
+    "wof:lastmodified":1466586781,
     "wof:name":"Rick's Towing",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-70.289606,43.698021,-70.289606,43.698021],
-  "geometry": {"coordinates":[-70.289606,43.698021],"type":"Point"}
+  "bbox": [
+    -70.289606,
+    43.698021,
+    -70.289606,
+    43.698021
+],
+  "geometry": {"coordinates":[-70.28960600000001,43.698021],"type":"Point"}
 }

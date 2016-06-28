@@ -2,13 +2,14 @@
   "id": 387896929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.932913,44.288816,-68.932913,44.288816",
     "geom:latitude":44.288816,
     "geom:longitude":-68.932913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"466 Ferry Rd",
     "sg:city":"Islesboro",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":387896929,
-    "wof:lastmodified":1449057485,
+    "wof:lastmodified":1466587238,
     "wof:name":"Brook Farm Labs Inc",
     "wof:parent_id":85813559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-68.932913,44.288816,-68.932913,44.288816],
+  "bbox": [
+    -68.932913,
+    44.288816,
+    -68.932913,
+    44.288816
+],
   "geometry": {"coordinates":[-68.932913,44.288816],"type":"Point"}
 }

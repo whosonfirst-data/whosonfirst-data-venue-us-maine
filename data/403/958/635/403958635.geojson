@@ -2,13 +2,14 @@
   "id": 403958635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.763441,44.316256,-69.763441,44.316256",
     "geom:latitude":44.316256,
     "geom:longitude":-69.763441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Viles St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403958635,
-    "wof:lastmodified":1449055678,
+    "wof:lastmodified":1466587077,
     "wof:name":"Janice Mason",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-69.763441,44.316256,-69.763441,44.316256],
+  "bbox": [
+    -69.763441,
+    44.316256,
+    -69.763441,
+    44.316256
+],
   "geometry": {"coordinates":[-69.763441,44.316256],"type":"Point"}
 }

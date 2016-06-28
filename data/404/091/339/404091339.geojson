@@ -2,13 +2,14 @@
   "id": 404091339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.329565,43.67714,-70.329565,43.67714",
     "geom:latitude":43.67714,
     "geom:longitude":-70.329565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404091339,
-    "wof:lastmodified":1449039139,
+    "wof:lastmodified":1466585872,
     "wof:name":"Rowe Hyundai Westbrook",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.329565,43.67714,-70.329565,43.67714],
+  "bbox": [
+    -70.329565,
+    43.67714,
+    -70.329565,
+    43.67714
+],
   "geometry": {"coordinates":[-70.329565,43.67714],"type":"Point"}
 }

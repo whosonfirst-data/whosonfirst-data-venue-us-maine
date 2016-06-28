@@ -2,13 +2,14 @@
   "id": 404183363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.306121,43.734545,-70.306121,43.734545",
     "geom:latitude":43.734545,
     "geom:longitude":-70.306121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Brook Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404183363,
-    "wof:lastmodified":1449039781,
+    "wof:lastmodified":1466586930,
     "wof:name":"Fairbanks Morse Engine",
     "wof:parent_id":85855475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-70.306121,43.734545,-70.306121,43.734545],
+  "bbox": [
+    -70.306121,
+    43.734545,
+    -70.306121,
+    43.734545
+],
   "geometry": {"coordinates":[-70.306121,43.734545],"type":"Point"}
 }

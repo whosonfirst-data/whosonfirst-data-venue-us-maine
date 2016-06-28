@@ -2,13 +2,14 @@
   "id": 387969277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.010644,46.665812,-68.010644,46.665812",
     "geom:latitude":46.665812,
     "geom:longitude":-68.010644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Main St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387969277,
-    "wof:lastmodified":1449057014,
+    "wof:lastmodified":1466587304,
     "wof:name":"Presque Isle Inn & Convention",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rooms"
     ]
 },
-  "bbox": [-68.010644,46.665812,-68.010644,46.665812],
+  "bbox": [
+    -68.010644,
+    46.665812,
+    -68.010644,
+    46.665812
+],
   "geometry": {"coordinates":[-68.010644,46.665812],"type":"Point"}
 }

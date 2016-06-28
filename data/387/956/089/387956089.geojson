@@ -2,13 +2,14 @@
   "id": 387956089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.377599,43.517497,-70.377599,43.517497",
     "geom:latitude":43.517497,
     "geom:longitude":-70.377599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Old Orchard St",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387956089,
-    "wof:lastmodified":1449056747,
+    "wof:lastmodified":1466587338,
     "wof:name":"Palace Playland",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.377599,43.517497,-70.377599,43.517497],
+  "bbox": [
+    -70.377599,
+    43.517497,
+    -70.377599,
+    43.517497
+],
   "geometry": {"coordinates":[-70.377599,43.517497],"type":"Point"}
 }

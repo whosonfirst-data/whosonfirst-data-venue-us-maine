@@ -2,13 +2,14 @@
   "id": 387646745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.954004,44.335646,-68.954004,44.335646",
     "geom:latitude":44.335646,
     "geom:longitude":-68.954004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Cliff Rd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387646745,
-    "wof:lastmodified":1449056023,
+    "wof:lastmodified":1466586657,
     "wof:name":"Imperial Bear Factory",
     "wof:parent_id":85804909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fur"
     ]
 },
-  "bbox": [-68.954004,44.335646,-68.954004,44.335646],
+  "bbox": [
+    -68.954004,
+    44.335646,
+    -68.954004,
+    44.335646
+],
   "geometry": {"coordinates":[-68.954004,44.335646],"type":"Point"}
 }

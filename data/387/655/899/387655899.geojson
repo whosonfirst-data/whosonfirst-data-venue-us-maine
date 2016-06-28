@@ -2,13 +2,14 @@
   "id": 387655899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.488066,43.909129,-70.488066,43.909129",
     "geom:latitude":43.909129,
     "geom:longitude":-70.488066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Stoney Brook Rd",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387655899,
-    "wof:lastmodified":1449058297,
+    "wof:lastmodified":1466586058,
     "wof:name":"Catterson & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-70.488066,43.909129,-70.488066,43.909129],
+  "bbox": [
+    -70.488066,
+    43.909129,
+    -70.488066,
+    43.909129
+],
   "geometry": {"coordinates":[-70.488066,43.909129],"type":"Point"}
 }

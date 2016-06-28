@@ -2,13 +2,14 @@
   "id": 403724541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.783176,43.974185,-69.783176,43.974185",
     "geom:latitude":43.974185,
     "geom:longitude":-69.783176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"889 Middle Rd",
     "sg:city":"Woolwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403724541,
-    "wof:lastmodified":1449055919,
+    "wof:lastmodified":1466585899,
     "wof:name":"Seacoast Shuttle Svc",
     "wof:parent_id":85836497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-69.783176,43.974185,-69.783176,43.974185],
+  "bbox": [
+    -69.783176,
+    43.974185,
+    -69.783176,
+    43.974185
+],
   "geometry": {"coordinates":[-69.783176,43.974185],"type":"Point"}
 }

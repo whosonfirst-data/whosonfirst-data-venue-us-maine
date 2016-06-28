@@ -2,13 +2,14 @@
   "id": 403948275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.965323,44.359937,-68.965323,44.359937",
     "geom:latitude":44.359937,
     "geom:longitude":-68.965323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Bayridge Rd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403948275,
-    "wof:lastmodified":1449055684,
+    "wof:lastmodified":1466587062,
     "wof:name":"Belfast Roofing & Siding Co",
     "wof:parent_id":85804909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-68.965323,44.359937,-68.965323,44.359937],
+  "bbox": [
+    -68.965323,
+    44.359937,
+    -68.965323,
+    44.359937
+],
   "geometry": {"coordinates":[-68.965323,44.359937],"type":"Point"}
 }

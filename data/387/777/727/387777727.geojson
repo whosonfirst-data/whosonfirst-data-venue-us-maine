@@ -2,13 +2,14 @@
   "id": 387777727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.057665,44.000978,-70.057665,44.000978",
     "geom:latitude":44.000978,
     "geom:longitude":-70.057665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Main St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387777727,
-    "wof:lastmodified":1449058115,
+    "wof:lastmodified":1466586997,
     "wof:name":"Paul Griesbach Home Inspection",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-70.057665,44.000978,-70.057665,44.000978],
+  "bbox": [
+    -70.057665,
+    44.000978,
+    -70.057665,
+    44.000978
+],
   "geometry": {"coordinates":[-70.057665,44.000978],"type":"Point"}
 }

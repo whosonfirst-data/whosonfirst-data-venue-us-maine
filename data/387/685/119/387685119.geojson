@@ -2,13 +2,14 @@
   "id": 387685119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.278645,44.492925,-68.278645,44.492925",
     "geom:latitude":44.492925,
     "geom:longitude":-68.278645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"373 Seal Point Rd",
     "sg:city":"Lamoine",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387685119,
-    "wof:lastmodified":1449059827,
+    "wof:lastmodified":1466586523,
     "wof:name":"CRI Building Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-68.278645,44.492925,-68.278645,44.492925],
+  "bbox": [
+    -68.278645,
+    44.492925,
+    -68.278645,
+    44.492925
+],
   "geometry": {"coordinates":[-68.278645,44.492925],"type":"Point"}
 }

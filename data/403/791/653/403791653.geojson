@@ -2,13 +2,14 @@
   "id": 403791653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.51963,43.365473,-70.51963,43.365473",
     "geom:latitude":43.365473,
     "geom:longitude":-70.51963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Sea Rd",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403791653,
-    "wof:lastmodified":1449055658,
+    "wof:lastmodified":1466585829,
     "wof:name":"Promise Land Preschool",
     "wof:parent_id":85820357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-70.51963,43.365473,-70.51963,43.365473],
-  "geometry": {"coordinates":[-70.51963,43.365473],"type":"Point"}
+  "bbox": [
+    -70.51963,
+    43.365473,
+    -70.51963,
+    43.365473
+],
+  "geometry": {"coordinates":[-70.51963000000001,43.365473],"type":"Point"}
 }

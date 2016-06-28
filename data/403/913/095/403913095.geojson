@@ -2,13 +2,14 @@
   "id": 403913095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.418965,43.5395,-70.418965,43.5395",
     "geom:latitude":43.5395,
     "geom:longitude":-70.418965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 Portland Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403913095,
-    "wof:lastmodified":1449055148,
+    "wof:lastmodified":1466586947,
     "wof:name":"Botiglio's Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-70.418965,43.5395,-70.418965,43.5395],
+  "bbox": [
+    -70.418965,
+    43.5395,
+    -70.418965,
+    43.5395
+],
   "geometry": {"coordinates":[-70.418965,43.5395],"type":"Point"}
 }

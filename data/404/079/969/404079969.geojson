@@ -2,13 +2,14 @@
   "id": 404079969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.243125,43.822284,-70.243125,43.822284",
     "geom:latitude":43.822284,
     "geom:longitude":-70.243125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Country Ln",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404079969,
-    "wof:lastmodified":1449040113,
+    "wof:lastmodified":1466585735,
     "wof:name":"B & M Construction Co Inc",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.243125,43.822284,-70.243125,43.822284],
-  "geometry": {"coordinates":[-70.243125,43.822284],"type":"Point"}
+  "bbox": [
+    -70.243125,
+    43.822284,
+    -70.243125,
+    43.822284
+],
+  "geometry": {"coordinates":[-70.24312500000001,43.822284],"type":"Point"}
 }

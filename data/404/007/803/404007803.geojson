@@ -2,13 +2,14 @@
   "id": 404007803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.012073,46.861081,-68.012073,46.861081",
     "geom:latitude":46.861081,
     "geom:longitude":-68.012073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Herschel St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":404007803,
-    "wof:lastmodified":1449040105,
+    "wof:lastmodified":1466585797,
     "wof:name":"Nelson Piano Education Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-68.012073,46.861081,-68.012073,46.861081],
+  "bbox": [
+    -68.012073,
+    46.861081,
+    -68.012073,
+    46.861081
+],
   "geometry": {"coordinates":[-68.012073,46.861081],"type":"Point"}
 }

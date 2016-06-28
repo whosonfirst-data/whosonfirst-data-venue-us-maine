@@ -2,13 +2,14 @@
   "id": 404014413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.779613,44.844406,-68.779613,44.844406",
     "geom:latitude":44.844406,
     "geom:longitude":-68.779613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Bomarc Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404014413,
-    "wof:lastmodified":1449039625,
+    "wof:lastmodified":1466585836,
     "wof:name":"Brink's Inc",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "armored"
     ]
 },
-  "bbox": [-68.779613,44.844406,-68.779613,44.844406],
+  "bbox": [
+    -68.779613,
+    44.844406,
+    -68.779613,
+    44.844406
+],
   "geometry": {"coordinates":[-68.779613,44.844406],"type":"Point"}
 }

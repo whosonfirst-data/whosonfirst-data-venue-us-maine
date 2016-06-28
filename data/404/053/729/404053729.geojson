@@ -2,13 +2,14 @@
   "id": 404053729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.007527,46.853662,-68.007527,46.853662",
     "geom:latitude":46.853662,
     "geom:longitude":-68.007527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Fort St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404053729,
-    "wof:lastmodified":1449039267,
+    "wof:lastmodified":1466586341,
     "wof:name":"Consumer Discount & Best Buy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-68.007527,46.853662,-68.007527,46.853662],
+  "bbox": [
+    -68.007527,
+    46.853662,
+    -68.007527,
+    46.853662
+],
   "geometry": {"coordinates":[-68.007527,46.853662],"type":"Point"}
 }

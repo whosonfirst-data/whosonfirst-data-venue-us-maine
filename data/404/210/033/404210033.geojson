@@ -2,13 +2,14 @@
   "id": 404210033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.215249,44.102857,-70.215249,44.102857",
     "geom:latitude":44.102857,
     "geom:longitude":-70.215249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 High St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404210033,
-    "wof:lastmodified":1449039417,
+    "wof:lastmodified":1466587048,
     "wof:name":"Advanced Collection Svc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-70.215249,44.102857,-70.215249,44.102857],
+  "bbox": [
+    -70.215249,
+    44.102857,
+    -70.215249,
+    44.102857
+],
   "geometry": {"coordinates":[-70.215249,44.102857],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387749067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.001194,46.677092,-68.001194,46.677092",
     "geom:latitude":46.677092,
     "geom:longitude":-68.001194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Academy St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387749067,
-    "wof:lastmodified":1449057178,
+    "wof:lastmodified":1466586816,
     "wof:name":"Academy Optical",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "optical"
     ]
 },
-  "bbox": [-68.001194,46.677092,-68.001194,46.677092],
+  "bbox": [
+    -68.001194,
+    46.677092,
+    -68.001194,
+    46.677092
+],
   "geometry": {"coordinates":[-68.001194,46.677092],"type":"Point"}
 }

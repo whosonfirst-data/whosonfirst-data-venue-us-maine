@@ -2,13 +2,14 @@
   "id": 387963013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.83518,44.747745,-68.83518,44.747745",
     "geom:latitude":44.747745,
     "geom:longitude":-68.83518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Main Rd N",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387963013,
-    "wof:lastmodified":1449056472,
+    "wof:lastmodified":1466587345,
     "wof:name":"Garrity Andrews LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-68.83518,44.747745,-68.83518,44.747745],
-  "geometry": {"coordinates":[-68.83518,44.747745],"type":"Point"}
+  "bbox": [
+    -68.83518,
+    44.747745,
+    -68.83518,
+    44.747745
+],
+  "geometry": {"coordinates":[-68.83517999999999,44.747745],"type":"Point"}
 }

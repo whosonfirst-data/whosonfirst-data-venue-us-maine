@@ -2,13 +2,14 @@
   "id": 404007637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.24957,43.656032,-70.24957,43.656032",
     "geom:latitude":43.656032,
     "geom:longitude":-70.24957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Custom House Wharf",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404007637,
-    "wof:lastmodified":1449040100,
+    "wof:lastmodified":1466585794,
     "wof:name":"Sea Bags",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "canvas"
     ]
 },
-  "bbox": [-70.24957,43.656032,-70.24957,43.656032],
-  "geometry": {"coordinates":[-70.24957,43.656032],"type":"Point"}
+  "bbox": [
+    -70.24957,
+    43.656032,
+    -70.24957,
+    43.656032
+],
+  "geometry": {"coordinates":[-70.24957000000001,43.656032],"type":"Point"}
 }

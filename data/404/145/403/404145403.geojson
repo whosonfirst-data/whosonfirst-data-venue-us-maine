@@ -2,13 +2,14 @@
   "id": 404145403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.462322,44.714767,-67.462322,44.714767",
     "geom:latitude":44.714767,
     "geom:longitude":-67.462322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Court St",
     "sg:city":"Machias",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404145403,
-    "wof:lastmodified":1449039390,
+    "wof:lastmodified":1466586633,
     "wof:name":"Downeast Health Svc",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.462322,44.714767,-67.462322,44.714767],
+  "bbox": [
+    -67.462322,
+    44.714767,
+    -67.462322,
+    44.714767
+],
   "geometry": {"coordinates":[-67.462322,44.714767],"type":"Point"}
 }

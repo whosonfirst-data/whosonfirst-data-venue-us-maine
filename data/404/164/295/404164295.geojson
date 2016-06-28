@@ -2,13 +2,14 @@
   "id": 404164295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.448293,43.520748,-70.448293,43.520748",
     "geom:latitude":43.520748,
     "geom:longitude":-70.448293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Industrial Park Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404164295,
-    "wof:lastmodified":1449039161,
+    "wof:lastmodified":1466586779,
     "wof:name":"Prime Care Family Practice",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.448293,43.520748,-70.448293,43.520748],
-  "geometry": {"coordinates":[-70.448293,43.520748],"type":"Point"}
+  "bbox": [
+    -70.448293,
+    43.520748,
+    -70.448293,
+    43.520748
+],
+  "geometry": {"coordinates":[-70.44829300000001,43.520748],"type":"Point"}
 }

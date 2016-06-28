@@ -2,13 +2,14 @@
   "id": 387744157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.199072,44.129037,-70.199072,44.129037",
     "geom:latitude":44.129037,
     "geom:longitude":-70.199072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"799 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387744157,
-    "wof:lastmodified":1449057471,
+    "wof:lastmodified":1466586875,
     "wof:name":"Galaxy Glass",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-70.199072,44.129037,-70.199072,44.129037],
+  "bbox": [
+    -70.199072,
+    44.129037,
+    -70.199072,
+    44.129037
+],
   "geometry": {"coordinates":[-70.199072,44.129037],"type":"Point"}
 }

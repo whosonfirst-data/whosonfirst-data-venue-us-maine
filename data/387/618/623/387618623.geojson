@@ -2,13 +2,14 @@
   "id": 387618623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.356159,43.675005,-70.356159,43.675005",
     "geom:latitude":43.675005,
     "geom:longitude":-70.356159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Stroudwater St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387618623,
-    "wof:lastmodified":1449058474,
+    "wof:lastmodified":1466586620,
     "wof:name":"US Army National Guard Recruit",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-70.356159,43.675005,-70.356159,43.675005],
-  "geometry": {"coordinates":[-70.356159,43.675005],"type":"Point"}
+  "bbox": [
+    -70.356159,
+    43.675005,
+    -70.356159,
+    43.675005
+],
+  "geometry": {"coordinates":[-70.35615900000001,43.675005],"type":"Point"}
 }

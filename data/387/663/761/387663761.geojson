@@ -2,13 +2,14 @@
   "id": 387663761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.357998,43.74861,-70.357998,43.74861",
     "geom:latitude":43.74861,
     "geom:longitude":-70.357998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1399 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387663761,
-    "wof:lastmodified":1449058904,
+    "wof:lastmodified":1466586182,
     "wof:name":"Tel Lan Network Technology",
     "wof:parent_id":85825127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.357998,43.74861,-70.357998,43.74861],
-  "geometry": {"coordinates":[-70.357998,43.74861],"type":"Point"}
+  "bbox": [
+    -70.357998,
+    43.74861,
+    -70.357998,
+    43.74861
+],
+  "geometry": {"coordinates":[-70.35799799999999,43.74861],"type":"Point"}
 }

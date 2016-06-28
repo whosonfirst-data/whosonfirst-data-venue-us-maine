@@ -2,13 +2,14 @@
   "id": 387868259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.213674,44.389024,-68.213674,44.389024",
     "geom:latitude":44.389024,
     "geom:longitude":-68.213674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Cadillac Ave",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387868259,
-    "wof:lastmodified":1449056290,
+    "wof:lastmodified":1466587289,
     "wof:name":"Bagel Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bagel"
     ]
 },
-  "bbox": [-68.213674,44.389024,-68.213674,44.389024],
+  "bbox": [
+    -68.213674,
+    44.389024,
+    -68.213674,
+    44.389024
+],
   "geometry": {"coordinates":[-68.213674,44.389024],"type":"Point"}
 }

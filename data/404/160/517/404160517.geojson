@@ -2,13 +2,14 @@
   "id": 404160517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.670825,44.883423,-68.670825,44.883423",
     "geom:latitude":44.883423,
     "geom:longitude":-68.670825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Mill St",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404160517,
-    "wof:lastmodified":1449040123,
+    "wof:lastmodified":1466586675,
     "wof:name":"University Barber Shop",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.670825,44.883423,-68.670825,44.883423],
-  "geometry": {"coordinates":[-68.670825,44.883423],"type":"Point"}
+  "bbox": [
+    -68.670825,
+    44.883423,
+    -68.670825,
+    44.883423
+],
+  "geometry": {"coordinates":[-68.67082499999999,44.883423],"type":"Point"}
 }

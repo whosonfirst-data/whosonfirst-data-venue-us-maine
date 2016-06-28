@@ -2,13 +2,14 @@
   "id": 404040183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.773544,44.319506,-69.773544,44.319506",
     "geom:latitude":44.319506,
     "geom:longitude":-69.773544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Water St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404040183,
-    "wof:lastmodified":1449040297,
+    "wof:lastmodified":1466586085,
     "wof:name":"River City Realty",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-69.773544,44.319506,-69.773544,44.319506],
+  "bbox": [
+    -69.773544,
+    44.319506,
+    -69.773544,
+    44.319506
+],
   "geometry": {"coordinates":[-69.773544,44.319506],"type":"Point"}
 }

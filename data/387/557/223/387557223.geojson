@@ -2,13 +2,14 @@
   "id": 387557223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.181817,43.806025,-70.181817,43.806025",
     "geom:latitude":43.806025,
     "geom:longitude":-70.181817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Rebecca Ln",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387557223,
-    "wof:lastmodified":1449058820,
+    "wof:lastmodified":1466585708,
     "wof:name":"Maine Seaways Inc",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transport"
     ]
 },
-  "bbox": [-70.181817,43.806025,-70.181817,43.806025],
+  "bbox": [
+    -70.181817,
+    43.806025,
+    -70.181817,
+    43.806025
+],
   "geometry": {"coordinates":[-70.181817,43.806025],"type":"Point"}
 }

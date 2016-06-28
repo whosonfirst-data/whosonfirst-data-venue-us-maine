@@ -2,13 +2,14 @@
   "id": 387618117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.808433,43.318364,-70.808433,43.318364",
     "geom:latitude":43.318364,
     "geom:longitude":-70.808433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Hall Rd",
     "sg:city":"Berwick",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387618117,
-    "wof:lastmodified":1449058473,
+    "wof:lastmodified":1466585699,
     "wof:name":"Berwick Full Gospel Church",
     "wof:parent_id":85892311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.808433,43.318364,-70.808433,43.318364],
-  "geometry": {"coordinates":[-70.808433,43.318364],"type":"Point"}
+  "bbox": [
+    -70.808433,
+    43.318364,
+    -70.808433,
+    43.318364
+],
+  "geometry": {"coordinates":[-70.80843299999999,43.318364],"type":"Point"}
 }

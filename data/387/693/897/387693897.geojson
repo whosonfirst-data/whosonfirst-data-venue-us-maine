@@ -2,13 +2,14 @@
   "id": 387693897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.916694,44.260757,-68.916694,44.260757",
     "geom:latitude":44.260757,
     "geom:longitude":-68.916694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Derby Rd",
     "sg:city":"Islesboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387693897,
-    "wof:lastmodified":1449056333,
+    "wof:lastmodified":1466586822,
     "wof:name":"Dark Harbor Bed & Breakfast",
     "wof:parent_id":85813559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-68.916694,44.260757,-68.916694,44.260757],
-  "geometry": {"coordinates":[-68.916694,44.260757],"type":"Point"}
+  "bbox": [
+    -68.916694,
+    44.260757,
+    -68.916694,
+    44.260757
+],
+  "geometry": {"coordinates":[-68.91669400000001,44.260757],"type":"Point"}
 }

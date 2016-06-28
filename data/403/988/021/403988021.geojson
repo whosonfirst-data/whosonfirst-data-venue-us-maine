@@ -2,13 +2,14 @@
   "id": 403988021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.213559,44.09741,-70.213559,44.09741",
     "geom:latitude":44.09741,
     "geom:longitude":-70.213559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Ash St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403988021,
-    "wof:lastmodified":1449055088,
+    "wof:lastmodified":1466587085,
     "wof:name":"Cage",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.213559,44.09741,-70.213559,44.09741],
+  "bbox": [
+    -70.213559,
+    44.09741,
+    -70.213559,
+    44.09741
+],
   "geometry": {"coordinates":[-70.213559,44.09741],"type":"Point"}
 }

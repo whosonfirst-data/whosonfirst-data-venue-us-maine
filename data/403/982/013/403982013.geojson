@@ -2,13 +2,14 @@
   "id": 403982013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.261372,43.664119,-70.261372,43.664119",
     "geom:latitude":43.664119,
     "geom:longitude":-70.261372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Marginal Way",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403982013,
-    "wof:lastmodified":1449054861,
+    "wof:lastmodified":1466587074,
     "wof:name":"R S Jenks Inc",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.261372,43.664119,-70.261372,43.664119],
-  "geometry": {"coordinates":[-70.261372,43.664119],"type":"Point"}
+  "bbox": [
+    -70.261372,
+    43.664119,
+    -70.261372,
+    43.664119
+],
+  "geometry": {"coordinates":[-70.26137199999999,43.664119],"type":"Point"}
 }

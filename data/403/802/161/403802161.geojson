@@ -2,13 +2,14 @@
   "id": 403802161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.527569,45.08322,-70.527569,45.08322",
     "geom:latitude":45.08322,
     "geom:longitude":-70.527569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1132 Rangeley Rd",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403802161,
-    "wof:lastmodified":1449055716,
+    "wof:lastmodified":1466585981,
     "wof:name":"Raymond's Airport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.527569,45.08322,-70.527569,45.08322],
+  "bbox": [
+    -70.527569,
+    45.08322,
+    -70.527569,
+    45.08322
+],
   "geometry": {"coordinates":[-70.527569,45.08322],"type":"Point"}
 }

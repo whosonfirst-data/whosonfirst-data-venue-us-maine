@@ -2,13 +2,14 @@
   "id": 404015539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.229588,44.589711,-70.229588,44.589711",
     "geom:latitude":44.589711,
     "geom:longitude":-70.229588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Main St",
     "sg:city":"Wilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404015539,
-    "wof:lastmodified":1449039338,
+    "wof:lastmodified":1466586638,
     "wof:name":"Shirt Tales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "t"
     ]
 },
-  "bbox": [-70.229588,44.589711,-70.229588,44.589711],
-  "geometry": {"coordinates":[-70.229588,44.589711],"type":"Point"}
+  "bbox": [
+    -70.229588,
+    44.589711,
+    -70.229588,
+    44.589711
+],
+  "geometry": {"coordinates":[-70.22958800000001,44.589711],"type":"Point"}
 }

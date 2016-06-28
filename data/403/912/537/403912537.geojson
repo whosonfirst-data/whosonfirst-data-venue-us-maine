@@ -2,13 +2,14 @@
   "id": 403912537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.264987,43.656456,-70.264987,43.656456",
     "geom:latitude":43.656456,
     "geom:longitude":-70.264987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403912537,
-    "wof:lastmodified":1449055294,
+    "wof:lastmodified":1466587046,
     "wof:name":"American Ballroom Dance Acadmy",
     "wof:parent_id":85880027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-70.264987,43.656456,-70.264987,43.656456],
+  "bbox": [
+    -70.264987,
+    43.656456,
+    -70.264987,
+    43.656456
+],
   "geometry": {"coordinates":[-70.264987,43.656456],"type":"Point"}
 }

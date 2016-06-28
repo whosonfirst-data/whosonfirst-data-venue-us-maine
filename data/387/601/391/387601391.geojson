@@ -2,13 +2,14 @@
   "id": 387601391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.334924,43.677976,-70.334924,43.677976",
     "geom:latitude":43.677976,
     "geom:longitude":-70.334924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387601391,
-    "wof:lastmodified":1449057807,
+    "wof:lastmodified":1466586355,
     "wof:name":"Richard A Steinmetz DPM",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.334924,43.677976,-70.334924,43.677976],
+  "bbox": [
+    -70.334924,
+    43.677976,
+    -70.334924,
+    43.677976
+],
   "geometry": {"coordinates":[-70.334924,43.677976],"type":"Point"}
 }

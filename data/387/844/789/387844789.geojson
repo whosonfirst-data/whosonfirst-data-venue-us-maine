@@ -2,13 +2,14 @@
   "id": 387844789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.28757,43.669282,-70.28757,43.669282",
     "geom:latitude":43.669282,
     "geom:longitude":-70.28757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Beacon St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387844789,
-    "wof:lastmodified":1449057728,
+    "wof:lastmodified":1466587153,
     "wof:name":"Monroe Saltworks",
     "wof:parent_id":85858627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.28757,43.669282,-70.28757,43.669282],
+  "bbox": [
+    -70.28757,
+    43.669282,
+    -70.28757,
+    43.669282
+],
   "geometry": {"coordinates":[-70.28757,43.669282],"type":"Point"}
 }

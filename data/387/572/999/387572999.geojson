@@ -2,13 +2,14 @@
   "id": 387572999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242307,43.65012,-70.242307,43.65012",
     "geom:latitude":43.65012,
     "geom:longitude":-70.242307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387572999,
-    "wof:lastmodified":1449058434,
+    "wof:lastmodified":1466585921,
     "wof:name":"Nail Time",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.242307,43.65012,-70.242307,43.65012],
+  "bbox": [
+    -70.242307,
+    43.65012,
+    -70.242307,
+    43.65012
+],
   "geometry": {"coordinates":[-70.242307,43.65012],"type":"Point"}
 }

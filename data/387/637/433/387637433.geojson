@@ -2,13 +2,14 @@
   "id": 387637433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.844843,43.956693,-69.844843,43.956693",
     "geom:latitude":43.956693,
     "geom:longitude":-69.844843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Bath Rd",
     "sg:city":"West Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387637433,
-    "wof:lastmodified":1449056111,
+    "wof:lastmodified":1466586712,
     "wof:name":"Johnny's Towing",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-69.844843,43.956693,-69.844843,43.956693],
+  "bbox": [
+    -69.844843,
+    43.956693,
+    -69.844843,
+    43.956693
+],
   "geometry": {"coordinates":[-69.844843,43.956693],"type":"Point"}
 }

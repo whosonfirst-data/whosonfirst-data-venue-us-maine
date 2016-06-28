@@ -2,13 +2,14 @@
   "id": 403748909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.359169,43.68998,-70.359169,43.68998",
     "geom:latitude":43.68998,
     "geom:longitude":-70.359169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"426 Bridge St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403748909,
-    "wof:lastmodified":1449055622,
+    "wof:lastmodified":1466586199,
     "wof:name":"Fred C Wescott Junior High",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.359169,43.68998,-70.359169,43.68998],
-  "geometry": {"coordinates":[-70.359169,43.68998],"type":"Point"}
+  "bbox": [
+    -70.359169,
+    43.68998,
+    -70.359169,
+    43.68998
+],
+  "geometry": {"coordinates":[-70.35916899999999,43.68998],"type":"Point"}
 }

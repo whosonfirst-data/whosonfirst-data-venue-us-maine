@@ -2,13 +2,14 @@
   "id": 403923623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.012069,46.667823,-68.012069,46.667823",
     "geom:latitude":46.667823,
     "geom:longitude":-68.012069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Main St",
     "sg:city":"Mars Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403923623,
-    "wof:lastmodified":1449055906,
+    "wof:lastmodified":1466586998,
     "wof:name":"Al's Diner",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.012069,46.667823,-68.012069,46.667823],
+  "bbox": [
+    -68.012069,
+    46.667823,
+    -68.012069,
+    46.667823
+],
   "geometry": {"coordinates":[-68.012069,46.667823],"type":"Point"}
 }

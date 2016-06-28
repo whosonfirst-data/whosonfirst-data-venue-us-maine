@@ -2,13 +2,14 @@
   "id": 404053513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.384202,44.102637,-70.384202,44.102637",
     "geom:latitude":44.102637,
     "geom:longitude":-70.384202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 True St",
     "sg:city":"Mechanic Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404053513,
-    "wof:lastmodified":1449039281,
+    "wof:lastmodified":1466586338,
     "wof:name":"Jacks Snacks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-70.384202,44.102637,-70.384202,44.102637],
+  "bbox": [
+    -70.384202,
+    44.102637,
+    -70.384202,
+    44.102637
+],
   "geometry": {"coordinates":[-70.384202,44.102637],"type":"Point"}
 }

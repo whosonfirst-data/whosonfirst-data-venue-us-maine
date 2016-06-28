@@ -2,13 +2,14 @@
   "id": 403988205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.821271,44.967858,-68.821271,44.967858",
     "geom:latitude":44.967858,
     "geom:longitude":-68.821271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"454 Beechwood Ave",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403988205,
-    "wof:lastmodified":1449055087,
+    "wof:lastmodified":1466587163,
     "wof:name":"Poulin Quality Builders",
     "wof:parent_id":85855557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-68.821271,44.967858,-68.821271,44.967858],
+  "bbox": [
+    -68.821271,
+    44.967858,
+    -68.821271,
+    44.967858
+],
   "geometry": {"coordinates":[-68.821271,44.967858],"type":"Point"}
 }

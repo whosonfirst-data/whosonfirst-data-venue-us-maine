@@ -2,13 +2,14 @@
   "id": 387890047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.081671,44.186361,-69.081671,44.186361",
     "geom:latitude":44.186361,
     "geom:longitude":-69.081671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Commercial St",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387890047,
-    "wof:lastmodified":1449056938,
+    "wof:lastmodified":1466587312,
     "wof:name":"Rauchon Development",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-69.081671,44.186361,-69.081671,44.186361],
+  "bbox": [
+    -69.081671,
+    44.186361,
+    -69.081671,
+    44.186361
+],
   "geometry": {"coordinates":[-69.081671,44.186361],"type":"Point"}
 }

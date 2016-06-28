@@ -2,13 +2,14 @@
   "id": 404118499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.382728,43.465707,-70.382728,43.465707",
     "geom:latitude":43.465707,
     "geom:longitude":-70.382728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Main Ave",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404118499,
-    "wof:lastmodified":1449040062,
+    "wof:lastmodified":1466586271,
     "wof:name":"Christina's Bed & Breakfast",
     "wof:parent_id":85819227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.382728,43.465707,-70.382728,43.465707],
+  "bbox": [
+    -70.382728,
+    43.465707,
+    -70.382728,
+    43.465707
+],
   "geometry": {"coordinates":[-70.382728,43.465707],"type":"Point"}
 }

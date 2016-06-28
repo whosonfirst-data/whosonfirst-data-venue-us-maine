@@ -2,13 +2,14 @@
   "id": 387677537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.790748,44.81146,-68.790748,44.81146",
     "geom:latitude":44.81146,
     "geom:longitude":-68.790748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"449 Ohio St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387677537,
-    "wof:lastmodified":1449057464,
+    "wof:lastmodified":1466586402,
     "wof:name":"Mt Pleasant Cemetery",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-68.790748,44.81146,-68.790748,44.81146],
-  "geometry": {"coordinates":[-68.790748,44.81146],"type":"Point"}
+  "bbox": [
+    -68.790748,
+    44.81146,
+    -68.790748,
+    44.81146
+],
+  "geometry": {"coordinates":[-68.79074799999999,44.81146],"type":"Point"}
 }

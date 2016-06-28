@@ -2,13 +2,14 @@
   "id": 404060653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.385078,44.104841,-70.385078,44.104841",
     "geom:latitude":44.104841,
     "geom:longitude":-70.385078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Elm St",
     "sg:city":"Mechanic Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404060653,
-    "wof:lastmodified":1449040217,
+    "wof:lastmodified":1466586450,
     "wof:name":"Marquis Electric",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.385078,44.104841,-70.385078,44.104841],
-  "geometry": {"coordinates":[-70.385078,44.104841],"type":"Point"}
+  "bbox": [
+    -70.385078,
+    44.104841,
+    -70.385078,
+    44.104841
+],
+  "geometry": {"coordinates":[-70.38507799999999,44.104841],"type":"Point"}
 }

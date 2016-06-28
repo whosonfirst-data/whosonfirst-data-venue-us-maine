@@ -2,13 +2,14 @@
   "id": 403893725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.509527,43.877475,-69.509527,43.877475",
     "geom:latitude":43.877475,
     "geom:longitude":-69.509527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Huddle Rd",
     "sg:city":"New Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403893725,
-    "wof:lastmodified":1449055711,
+    "wof:lastmodified":1466586903,
     "wof:name":"Santa Fe",
     "wof:parent_id":85841123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.509527,43.877475,-69.509527,43.877475],
-  "geometry": {"coordinates":[-69.509527,43.877475],"type":"Point"}
+  "bbox": [
+    -69.509527,
+    43.877475,
+    -69.509527,
+    43.877475
+],
+  "geometry": {"coordinates":[-69.50952700000001,43.877475],"type":"Point"}
 }

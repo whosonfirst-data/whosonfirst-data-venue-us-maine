@@ -2,13 +2,14 @@
   "id": 387837343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.06735,43.948835,-70.06735,43.948835",
     "geom:latitude":43.948835,
     "geom:longitude":-70.06735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 Pinkham Brook Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387837343,
-    "wof:lastmodified":1449056697,
+    "wof:lastmodified":1466587138,
     "wof:name":"Robert Small Agency Inc",
     "wof:parent_id":85849607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.06735,43.948835,-70.06735,43.948835],
+  "bbox": [
+    -70.06735,
+    43.948835,
+    -70.06735,
+    43.948835
+],
   "geometry": {"coordinates":[-70.06735,43.948835],"type":"Point"}
 }

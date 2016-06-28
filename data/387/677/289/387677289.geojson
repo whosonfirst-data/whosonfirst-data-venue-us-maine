@@ -2,13 +2,14 @@
   "id": 387677289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.987059,44.858506,-66.987059,44.858506",
     "geom:latitude":44.858506,
     "geom:longitude":-66.987059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Church St",
     "sg:city":"Deer Isle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387677289,
-    "wof:lastmodified":1449057467,
+    "wof:lastmodified":1466586398,
     "wof:name":"Bar Harbor Banking & Trust Co",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-66.987059,44.858506,-66.987059,44.858506],
+  "bbox": [
+    -66.987059,
+    44.858506,
+    -66.987059,
+    44.858506
+],
   "geometry": {"coordinates":[-66.987059,44.858506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387945181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.506243,44.984193,-69.506243,44.984193",
     "geom:latitude":44.984193,
     "geom:longitude":-69.506243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Brown Rd",
     "sg:city":"Harmony",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387945181,
-    "wof:lastmodified":1449056431,
+    "wof:lastmodified":1466587277,
     "wof:name":"Fritz BUSCHMANN/Dgn Site",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "septic"
     ]
 },
-  "bbox": [-69.506243,44.984193,-69.506243,44.984193],
+  "bbox": [
+    -69.506243,
+    44.984193,
+    -69.506243,
+    44.984193
+],
   "geometry": {"coordinates":[-69.506243,44.984193],"type":"Point"}
 }

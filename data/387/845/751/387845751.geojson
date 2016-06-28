@@ -2,13 +2,14 @@
   "id": 387845751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.189452,44.080418,-69.189452,44.080418",
     "geom:latitude":44.080418,
     "geom:longitude":-69.189452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Booker St",
     "sg:city":"Thomaston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387845751,
-    "wof:lastmodified":1449056724,
+    "wof:lastmodified":1466587222,
     "wof:name":"Town Treatment Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-69.189452,44.080418,-69.189452,44.080418],
+  "bbox": [
+    -69.189452,
+    44.080418,
+    -69.189452,
+    44.080418
+],
   "geometry": {"coordinates":[-69.189452,44.080418],"type":"Point"}
 }

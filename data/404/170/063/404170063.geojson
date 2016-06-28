@@ -2,13 +2,14 @@
   "id": 404170063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.789515,43.888965,-69.789515,43.888965",
     "geom:latitude":43.888965,
     "geom:longitude":-69.789515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Whitmore's Landing Rd",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404170063,
-    "wof:lastmodified":1449039129,
+    "wof:lastmodified":1466586789,
     "wof:name":"Elwell Construction",
     "wof:parent_id":85858289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-69.789515,43.888965,-69.789515,43.888965],
-  "geometry": {"coordinates":[-69.789515,43.888965],"type":"Point"}
+  "bbox": [
+    -69.789515,
+    43.888965,
+    -69.789515,
+    43.888965
+],
+  "geometry": {"coordinates":[-69.78951499999999,43.888965],"type":"Point"}
 }

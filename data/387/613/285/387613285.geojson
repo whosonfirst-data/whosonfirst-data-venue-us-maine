@@ -2,13 +2,14 @@
   "id": 387613285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.211258,44.386185,-68.211258,44.386185",
     "geom:latitude":44.386185,
     "geom:longitude":-68.211258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Mount Desert St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387613285,
-    "wof:lastmodified":1449057875,
+    "wof:lastmodified":1466586549,
     "wof:name":"Sturgis Turnbull",
     "wof:parent_id":85803817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.211258,44.386185,-68.211258,44.386185],
+  "bbox": [
+    -68.211258,
+    44.386185,
+    -68.211258,
+    44.386185
+],
   "geometry": {"coordinates":[-68.211258,44.386185],"type":"Point"}
 }

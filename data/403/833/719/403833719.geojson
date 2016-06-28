@@ -2,13 +2,14 @@
   "id": 403833719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.795765,43.883113,-70.795765,43.883113",
     "geom:latitude":43.883113,
     "geom:longitude":-70.795765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Sebago Rd",
     "sg:city":"Hiram",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403833719,
-    "wof:lastmodified":1449054791,
+    "wof:lastmodified":1466586493,
     "wof:name":"Four Corners Store",
     "wof:parent_id":85856327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-70.795765,43.883113,-70.795765,43.883113],
+  "bbox": [
+    -70.795765,
+    43.883113,
+    -70.795765,
+    43.883113
+],
   "geometry": {"coordinates":[-70.795765,43.883113],"type":"Point"}
 }

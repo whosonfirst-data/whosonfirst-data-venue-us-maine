@@ -2,13 +2,14 @@
   "id": 404012035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.331737,44.372622,-68.331737,44.372622",
     "geom:latitude":44.372622,
     "geom:longitude":-68.331737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1057 Main St",
     "sg:city":"Mt Desert",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404012035,
-    "wof:lastmodified":1449040213,
+    "wof:lastmodified":1466585815,
     "wof:name":"US Post Office",
     "wof:parent_id":85849305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.331737,44.372622,-68.331737,44.372622],
+  "bbox": [
+    -68.331737,
+    44.372622,
+    -68.331737,
+    44.372622
+],
   "geometry": {"coordinates":[-68.331737,44.372622],"type":"Point"}
 }

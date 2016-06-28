@@ -2,13 +2,14 @@
   "id": 387771817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.324049,43.66143,-70.324049,43.66143",
     "geom:latitude":43.66143,
     "geom:longitude":-70.324049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Swan St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387771817,
-    "wof:lastmodified":1449058180,
+    "wof:lastmodified":1466586973,
     "wof:name":"Deep Clean",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-70.324049,43.66143,-70.324049,43.66143],
+  "bbox": [
+    -70.324049,
+    43.66143,
+    -70.324049,
+    43.66143
+],
   "geometry": {"coordinates":[-70.324049,43.66143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387833207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.629717,43.735169,-70.629717,43.735169",
     "geom:latitude":43.735169,
     "geom:longitude":-70.629717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Saco Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387833207,
-    "wof:lastmodified":1449056596,
+    "wof:lastmodified":1466587126,
     "wof:name":"Michael Goan Electrical Contr",
     "wof:parent_id":85816541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.629717,43.735169,-70.629717,43.735169],
+  "bbox": [
+    -70.629717,
+    43.735169,
+    -70.629717,
+    43.735169
+],
   "geometry": {"coordinates":[-70.629717,43.735169],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387866299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.402446,43.798854,-70.402446,43.798854",
     "geom:latitude":43.798854,
     "geom:longitude":-70.402446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387866299,
-    "wof:lastmodified":1449057911,
+    "wof:lastmodified":1466587191,
     "wof:name":"Advanced Towing & Transport",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-70.402446,43.798854,-70.402446,43.798854],
+  "bbox": [
+    -70.402446,
+    43.798854,
+    -70.402446,
+    43.798854
+],
   "geometry": {"coordinates":[-70.402446,43.798854],"type":"Point"}
 }

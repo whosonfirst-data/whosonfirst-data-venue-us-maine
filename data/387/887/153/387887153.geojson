@@ -2,13 +2,14 @@
   "id": 387887153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.068429,45.034669,-69.068429,45.034669",
     "geom:latitude":45.034669,
     "geom:longitude":-69.068429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"282 Bacon Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387887153,
-    "wof:lastmodified":1449059165,
+    "wof:lastmodified":1466587308,
     "wof:name":"Todd Valley Golf Club & Drvng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-69.068429,45.034669,-69.068429,45.034669],
-  "geometry": {"coordinates":[-69.068429,45.034669],"type":"Point"}
+  "bbox": [
+    -69.068429,
+    45.034669,
+    -69.068429,
+    45.034669
+],
+  "geometry": {"coordinates":[-69.06842899999999,45.034669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404100219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.445752,43.53058,-70.445752,43.53058",
     "geom:latitude":43.53058,
     "geom:longitude":-70.445752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Spring Hill Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404100219,
-    "wof:lastmodified":1449040004,
+    "wof:lastmodified":1466585998,
     "wof:name":"Coastal Construction & Lndscpg",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.445752,43.53058,-70.445752,43.53058],
+  "bbox": [
+    -70.445752,
+    43.53058,
+    -70.445752,
+    43.53058
+],
   "geometry": {"coordinates":[-70.445752,43.53058],"type":"Point"}
 }

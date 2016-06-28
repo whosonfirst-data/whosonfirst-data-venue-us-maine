@@ -2,13 +2,14 @@
   "id": 387852385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.41294,44.550626,-68.41294,44.550626",
     "geom:latitude":44.550626,
     "geom:longitude":-68.41294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Maddocks Ave",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387852385,
-    "wof:lastmodified":1449059274,
+    "wof:lastmodified":1466587158,
     "wof:name":"Crystal Limousine Svc",
     "wof:parent_id":85820603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-68.41294,44.550626,-68.41294,44.550626],
-  "geometry": {"coordinates":[-68.41294,44.550626],"type":"Point"}
+  "bbox": [
+    -68.41294,
+    44.550626,
+    -68.41294,
+    44.550626
+],
+  "geometry": {"coordinates":[-68.41294000000001,44.550626],"type":"Point"}
 }

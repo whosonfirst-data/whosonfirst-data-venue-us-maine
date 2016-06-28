@@ -2,13 +2,14 @@
   "id": 387656783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.292538,43.627125,-70.292538,43.627125",
     "geom:latitude":43.627125,
     "geom:longitude":-70.292538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Katana Dr",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387656783,
-    "wof:lastmodified":1449058589,
+    "wof:lastmodified":1466586070,
     "wof:name":"Allstate Power Vac Inc",
     "wof:parent_id":85809743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-70.292538,43.627125,-70.292538,43.627125],
-  "geometry": {"coordinates":[-70.292538,43.627125],"type":"Point"}
+  "bbox": [
+    -70.292538,
+    43.627125,
+    -70.292538,
+    43.627125
+],
+  "geometry": {"coordinates":[-70.29253799999999,43.627125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403845969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.665832,43.150666,-70.665832,43.150666",
     "geom:latitude":43.150666,
     "geom:longitude":-70.665832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 York St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403845969,
-    "wof:lastmodified":1449054846,
+    "wof:lastmodified":1466586640,
     "wof:name":"Foster's Daily Democrat",
     "wof:parent_id":85859383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-70.665832,43.150666,-70.665832,43.150666],
-  "geometry": {"coordinates":[-70.665832,43.150666],"type":"Point"}
+  "bbox": [
+    -70.665832,
+    43.150666,
+    -70.665832,
+    43.150666
+],
+  "geometry": {"coordinates":[-70.66583199999999,43.150666],"type":"Point"}
 }

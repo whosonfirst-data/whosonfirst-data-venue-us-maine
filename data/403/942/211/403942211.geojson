@@ -2,13 +2,14 @@
   "id": 403942211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.618949,44.057026,-69.618949,44.057026",
     "geom:latitude":44.057026,
     "geom:longitude":-69.618949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Cross Rd",
     "sg:city":"Winthrop",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403942211,
-    "wof:lastmodified":1449055249,
+    "wof:lastmodified":1466587154,
     "wof:name":"Winthrop Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.618949,44.057026,-69.618949,44.057026],
+  "bbox": [
+    -69.618949,
+    44.057026,
+    -69.618949,
+    44.057026
+],
   "geometry": {"coordinates":[-69.618949,44.057026],"type":"Point"}
 }

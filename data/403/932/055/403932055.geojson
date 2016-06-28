@@ -2,13 +2,14 @@
   "id": 403932055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.704144,44.89211,-68.704144,44.89211",
     "geom:latitude":44.89211,
     "geom:longitude":-68.704144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Forest Ave",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403932055,
-    "wof:lastmodified":1449055121,
+    "wof:lastmodified":1466587025,
     "wof:name":"D W Cross Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "police"
     ]
 },
-  "bbox": [-68.704144,44.89211,-68.704144,44.89211],
+  "bbox": [
+    -68.704144,
+    44.89211,
+    -68.704144,
+    44.89211
+],
   "geometry": {"coordinates":[-68.704144,44.89211],"type":"Point"}
 }

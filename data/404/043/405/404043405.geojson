@@ -2,13 +2,14 @@
   "id": 404043405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.067838,43.999117,-70.067838,43.999117",
     "geom:latitude":43.999117,
     "geom:longitude":-70.067838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Blethen St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404043405,
-    "wof:lastmodified":1449040007,
+    "wof:lastmodified":1466586150,
     "wof:name":"R & M Enterprises",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.067838,43.999117,-70.067838,43.999117],
-  "geometry": {"coordinates":[-70.067838,43.999117],"type":"Point"}
+  "bbox": [
+    -70.067838,
+    43.999117,
+    -70.067838,
+    43.999117
+],
+  "geometry": {"coordinates":[-70.06783799999999,43.999117],"type":"Point"}
 }

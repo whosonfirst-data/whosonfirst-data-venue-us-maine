@@ -2,13 +2,14 @@
   "id": 403741877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.379872,44.783844,-69.379872,44.783844",
     "geom:latitude":44.783844,
     "geom:longitude":-69.379872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Easy St",
     "sg:city":"Pittsfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403741877,
-    "wof:lastmodified":1449054697,
+    "wof:lastmodified":1466586081,
     "wof:name":"Universalist Church",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-69.379872,44.783844,-69.379872,44.783844],
-  "geometry": {"coordinates":[-69.379872,44.783844],"type":"Point"}
+  "bbox": [
+    -69.379872,
+    44.783844,
+    -69.379872,
+    44.783844
+],
+  "geometry": {"coordinates":[-69.37987200000001,44.783844],"type":"Point"}
 }

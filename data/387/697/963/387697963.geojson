@@ -2,13 +2,14 @@
   "id": 387697963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.568719,43.555162,-70.568719,43.555162",
     "geom:latitude":43.555162,
     "geom:longitude":-70.568719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Bickeford Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387697963,
-    "wof:lastmodified":1449058507,
+    "wof:lastmodified":1466586833,
     "wof:name":"Alfa Computer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-70.568719,43.555162,-70.568719,43.555162],
+  "bbox": [
+    -70.568719,
+    43.555162,
+    -70.568719,
+    43.555162
+],
   "geometry": {"coordinates":[-70.568719,43.555162],"type":"Point"}
 }

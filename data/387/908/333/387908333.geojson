@@ -2,13 +2,14 @@
   "id": 387908333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.241919,44.12246,-70.241919,44.12246",
     "geom:latitude":44.12246,
     "geom:longitude":-70.241919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Mount Auburn Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387908333,
-    "wof:lastmodified":1449058263,
+    "wof:lastmodified":1466587165,
     "wof:name":"Bj's Wholesale Club",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wholesale"
     ]
 },
-  "bbox": [-70.241919,44.12246,-70.241919,44.12246],
+  "bbox": [
+    -70.241919,
+    44.12246,
+    -70.241919,
+    44.12246
+],
   "geometry": {"coordinates":[-70.241919,44.12246],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404181653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.710018,44.834587,-68.710018,44.834587",
     "geom:latitude":44.834587,
     "geom:longitude":-68.710018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1386 State St",
     "sg:city":"Veazie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404181653,
-    "wof:lastmodified":1449039840,
+    "wof:lastmodified":1466586739,
     "wof:name":"J & M Chase Electric Inc",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.710018,44.834587,-68.710018,44.834587],
-  "geometry": {"coordinates":[-68.710018,44.834587],"type":"Point"}
+  "bbox": [
+    -68.710018,
+    44.834587,
+    -68.710018,
+    44.834587
+],
+  "geometry": {"coordinates":[-68.71001800000001,44.834587],"type":"Point"}
 }

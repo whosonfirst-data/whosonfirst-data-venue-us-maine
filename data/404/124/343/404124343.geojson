@@ -2,13 +2,14 @@
   "id": 404124343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.756486,44.552098,-69.756486,44.552098",
     "geom:latitude":44.552098,
     "geom:longitude":-69.756486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Town Farm Rd",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404124343,
-    "wof:lastmodified":1449040247,
+    "wof:lastmodified":1466586360,
     "wof:name":"McIver Investigative Services",
     "wof:parent_id":85837327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigation"
     ]
 },
-  "bbox": [-69.756486,44.552098,-69.756486,44.552098],
+  "bbox": [
+    -69.756486,
+    44.552098,
+    -69.756486,
+    44.552098
+],
   "geometry": {"coordinates":[-69.756486,44.552098],"type":"Point"}
 }

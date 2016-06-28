@@ -2,13 +2,14 @@
   "id": 387810095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.313434,47.246006,-68.313434,47.246006",
     "geom:latitude":47.246006,
     "geom:longitude":-68.313434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Brook Rd",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387810095,
-    "wof:lastmodified":1449057205,
+    "wof:lastmodified":1466587084,
     "wof:name":"Beaver Brook Mill Inc",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sawmill"
     ]
 },
-  "bbox": [-68.313434,47.246006,-68.313434,47.246006],
+  "bbox": [
+    -68.313434,
+    47.246006,
+    -68.313434,
+    47.246006
+],
   "geometry": {"coordinates":[-68.313434,47.246006],"type":"Point"}
 }

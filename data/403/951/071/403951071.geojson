@@ -2,13 +2,14 @@
   "id": 403951071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.844566,44.638272,-68.844566,44.638272",
     "geom:latitude":44.638272,
     "geom:longitude":-68.844566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Commercial St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403951071,
-    "wof:lastmodified":1449054674,
+    "wof:lastmodified":1466587069,
     "wof:name":"Timberland Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-68.844566,44.638272,-68.844566,44.638272],
+  "bbox": [
+    -68.844566,
+    44.638272,
+    -68.844566,
+    44.638272
+],
   "geometry": {"coordinates":[-68.844566,44.638272],"type":"Point"}
 }

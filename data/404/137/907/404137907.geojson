@@ -2,13 +2,14 @@
   "id": 404137907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.689042,43.994578,-69.689042,43.994578",
     "geom:latitude":43.994578,
     "geom:longitude":-69.689042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Page Ave",
     "sg:city":"Wiscasset",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404137907,
-    "wof:lastmodified":1449040159,
+    "wof:lastmodified":1466586572,
     "wof:name":"Coastal CAD Svc",
     "wof:parent_id":85820077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [-69.689042,43.994578,-69.689042,43.994578],
+  "bbox": [
+    -69.689042,
+    43.994578,
+    -69.689042,
+    43.994578
+],
   "geometry": {"coordinates":[-69.689042,43.994578],"type":"Point"}
 }

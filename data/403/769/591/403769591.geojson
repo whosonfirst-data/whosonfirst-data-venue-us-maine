@@ -2,13 +2,14 @@
   "id": 403769591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.942726,46.864434,-67.942726,46.864434",
     "geom:latitude":46.864434,
     "geom:longitude":-67.942726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"287 Grimes Mill Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403769591,
-    "wof:lastmodified":1449055072,
+    "wof:lastmodified":1466586526,
     "wof:name":"Freeman Cote",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-67.942726,46.864434,-67.942726,46.864434],
-  "geometry": {"coordinates":[-67.942726,46.864434],"type":"Point"}
+  "bbox": [
+    -67.942726,
+    46.864434,
+    -67.942726,
+    46.864434
+],
+  "geometry": {"coordinates":[-67.94272599999999,46.864434],"type":"Point"}
 }

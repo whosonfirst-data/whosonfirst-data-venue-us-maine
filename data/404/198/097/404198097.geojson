@@ -2,13 +2,14 @@
   "id": 404198097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.226544,44.140588,-70.226544,44.140588",
     "geom:latitude":44.140588,
     "geom:longitude":-70.226544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404198097,
-    "wof:lastmodified":1449039458,
+    "wof:lastmodified":1466586830,
     "wof:name":"Center Street Auto Svc",
     "wof:parent_id":85815921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.226544,44.140588,-70.226544,44.140588],
+  "bbox": [
+    -70.226544,
+    44.140588,
+    -70.226544,
+    44.140588
+],
   "geometry": {"coordinates":[-70.226544,44.140588],"type":"Point"}
 }

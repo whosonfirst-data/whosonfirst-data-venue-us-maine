@@ -2,13 +2,14 @@
   "id": 387688677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.840542,46.142862,-67.840542,46.142862",
     "geom:latitude":46.142862,
     "geom:longitude":-67.840542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"282 North St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387688677,
-    "wof:lastmodified":1449057525,
+    "wof:lastmodified":1466586583,
     "wof:name":"Shiretown Motor Inn & Atrium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "rooms"
     ]
 },
-  "bbox": [-67.840542,46.142862,-67.840542,46.142862],
+  "bbox": [
+    -67.840542,
+    46.142862,
+    -67.840542,
+    46.142862
+],
   "geometry": {"coordinates":[-67.840542,46.142862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404164631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.097353,46.905605,-68.097353,46.905605",
     "geom:latitude":46.905605,
     "geom:longitude":-68.097353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 New Sweden Rd",
     "sg:city":"Woodland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404164631,
-    "wof:lastmodified":1449039159,
+    "wof:lastmodified":1466586784,
     "wof:name":"Lu's Sunrise Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "center"
     ]
 },
-  "bbox": [-68.097353,46.905605,-68.097353,46.905605],
+  "bbox": [
+    -68.097353,
+    46.905605,
+    -68.097353,
+    46.905605
+],
   "geometry": {"coordinates":[-68.097353,46.905605],"type":"Point"}
 }

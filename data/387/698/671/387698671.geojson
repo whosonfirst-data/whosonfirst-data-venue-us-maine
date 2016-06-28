@@ -2,13 +2,14 @@
   "id": 387698671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.994837,44.579265,-67.994837,44.579265",
     "geom:latitude":44.579265,
     "geom:longitude":-67.994837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Tunk Rd",
     "sg:city":"Steuben",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387698671,
-    "wof:lastmodified":1449059684,
+    "wof:lastmodified":1466586728,
     "wof:name":"Atwater Concrete Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-67.994837,44.579265,-67.994837,44.579265],
+  "bbox": [
+    -67.994837,
+    44.579265,
+    -67.994837,
+    44.579265
+],
   "geometry": {"coordinates":[-67.994837,44.579265],"type":"Point"}
 }

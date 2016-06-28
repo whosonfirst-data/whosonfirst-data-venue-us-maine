@@ -2,13 +2,14 @@
   "id": 403904163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.263902,43.653655,-70.263902,43.653655",
     "geom:latitude":43.653655,
     "geom:longitude":-70.263902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403904163,
-    "wof:lastmodified":1449056006,
+    "wof:lastmodified":1466586936,
     "wof:name":"Sun Oriental Market",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-70.263902,43.653655,-70.263902,43.653655],
+  "bbox": [
+    -70.263902,
+    43.653655,
+    -70.263902,
+    43.653655
+],
   "geometry": {"coordinates":[-70.263902,43.653655],"type":"Point"}
 }

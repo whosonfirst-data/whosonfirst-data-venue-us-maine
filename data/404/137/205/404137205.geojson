@@ -2,13 +2,14 @@
   "id": 404137205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.905877,44.86974,-68.905877,44.86974",
     "geom:latitude":44.86974,
     "geom:longitude":-68.905877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Merryman Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404137205,
-    "wof:lastmodified":1449040157,
+    "wof:lastmodified":1466586560,
     "wof:name":"Jason Duran Transportation",
     "wof:parent_id":85855557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-68.905877,44.86974,-68.905877,44.86974],
+  "bbox": [
+    -68.905877,
+    44.86974,
+    -68.905877,
+    44.86974
+],
   "geometry": {"coordinates":[-68.905877,44.86974],"type":"Point"}
 }

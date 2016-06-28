@@ -2,13 +2,14 @@
   "id": 387835763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.098933,44.124106,-69.098933,44.124106",
     "geom:latitude":44.124106,
     "geom:longitude":-69.098933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Camden St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387835763,
-    "wof:lastmodified":1449056647,
+    "wof:lastmodified":1466587050,
     "wof:name":"3-Dimensions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stereophonic"
     ]
 },
-  "bbox": [-69.098933,44.124106,-69.098933,44.124106],
+  "bbox": [
+    -69.098933,
+    44.124106,
+    -69.098933,
+    44.124106
+],
   "geometry": {"coordinates":[-69.098933,44.124106],"type":"Point"}
 }

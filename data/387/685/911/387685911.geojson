@@ -2,13 +2,14 @@
   "id": 387685911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.512588,43.362325,-70.512588,43.362325",
     "geom:latitude":43.362325,
     "geom:longitude":-70.512588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Caly Hollow Rd",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387685911,
-    "wof:lastmodified":1449059831,
+    "wof:lastmodified":1466586535,
     "wof:name":"Mountain Sunshine",
     "wof:parent_id":85820357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "costume"
     ]
 },
-  "bbox": [-70.512588,43.362325,-70.512588,43.362325],
-  "geometry": {"coordinates":[-70.512588,43.362325],"type":"Point"}
+  "bbox": [
+    -70.512588,
+    43.362325,
+    -70.512588,
+    43.362325
+],
+  "geometry": {"coordinates":[-70.51258799999999,43.362325],"type":"Point"}
 }

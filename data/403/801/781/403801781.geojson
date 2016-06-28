@@ -2,13 +2,14 @@
   "id": 403801781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.332128,43.887369,-70.332128,43.887369",
     "geom:latitude":43.887369,
     "geom:longitude":-70.332128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Shaker Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403801781,
-    "wof:lastmodified":1449055739,
+    "wof:lastmodified":1466585974,
     "wof:name":"Shaker Road Daycare Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.332128,43.887369,-70.332128,43.887369],
+  "bbox": [
+    -70.332128,
+    43.887369,
+    -70.332128,
+    43.887369
+],
   "geometry": {"coordinates":[-70.332128,43.887369],"type":"Point"}
 }

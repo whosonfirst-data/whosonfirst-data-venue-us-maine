@@ -2,13 +2,14 @@
   "id": 403895107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.051262,43.875817,-70.051262,43.875817",
     "geom:latitude":43.875817,
     "geom:longitude":-70.051262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Ringrose Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403895107,
-    "wof:lastmodified":1449055196,
+    "wof:lastmodified":1466586908,
     "wof:name":"Pleasant Hill Products",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cat"
     ]
 },
-  "bbox": [-70.051262,43.875817,-70.051262,43.875817],
-  "geometry": {"coordinates":[-70.051262,43.875817],"type":"Point"}
+  "bbox": [
+    -70.051262,
+    43.875817,
+    -70.051262,
+    43.875817
+],
+  "geometry": {"coordinates":[-70.05126199999999,43.875817],"type":"Point"}
 }

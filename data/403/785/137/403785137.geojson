@@ -2,13 +2,14 @@
   "id": 403785137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.244595,44.070474,-70.244595,44.070474",
     "geom:latitude":44.070474,
     "geom:longitude":-70.244595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 Washington St N",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403785137,
-    "wof:lastmodified":1449055747,
+    "wof:lastmodified":1466585752,
     "wof:name":"Kris-Way Truck Leasing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-70.244595,44.070474,-70.244595,44.070474],
+  "bbox": [
+    -70.244595,
+    44.070474,
+    -70.244595,
+    44.070474
+],
   "geometry": {"coordinates":[-70.244595,44.070474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404208273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.206051,44.085714,-70.206051,44.085714",
     "geom:latitude":44.085714,
     "geom:longitude":-70.206051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404208273,
-    "wof:lastmodified":1449039156,
+    "wof:lastmodified":1466586946,
     "wof:name":"Marcel R Morin Realty",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.206051,44.085714,-70.206051,44.085714],
+  "bbox": [
+    -70.206051,
+    44.085714,
+    -70.206051,
+    44.085714
+],
   "geometry": {"coordinates":[-70.206051,44.085714],"type":"Point"}
 }

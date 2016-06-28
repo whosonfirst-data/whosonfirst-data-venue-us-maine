@@ -2,13 +2,14 @@
   "id": 387673609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.180519,43.80393,-70.180519,43.80393",
     "geom:latitude":43.80393,
     "geom:longitude":-70.180519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 US Hwy 1",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387673609,
-    "wof:lastmodified":1449057579,
+    "wof:lastmodified":1466586338,
     "wof:name":"Endurance Group",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.180519,43.80393,-70.180519,43.80393],
+  "bbox": [
+    -70.180519,
+    43.80393,
+    -70.180519,
+    43.80393
+],
   "geometry": {"coordinates":[-70.180519,43.80393],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404213209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.091967,44.722394,-70.091967,44.722394",
     "geom:latitude":44.722394,
     "geom:longitude":-70.091967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"97 W Shore Rd",
     "sg:city":"N New Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404213209,
-    "wof:lastmodified":1449039101,
+    "wof:lastmodified":1466586969,
     "wof:name":"Alpaca Farm Tucked Away Lodge",
     "wof:parent_id":85802811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-70.091967,44.722394,-70.091967,44.722394],
+  "bbox": [
+    -70.091967,
+    44.722394,
+    -70.091967,
+    44.722394
+],
   "geometry": {"coordinates":[-70.091967,44.722394],"type":"Point"}
 }

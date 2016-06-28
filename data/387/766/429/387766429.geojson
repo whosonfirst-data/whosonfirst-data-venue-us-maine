@@ -2,13 +2,14 @@
   "id": 387766429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.428364,44.540904,-68.428364,44.540904",
     "geom:latitude":44.540904,
     "geom:longitude":-68.428364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Willow St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387766429,
-    "wof:lastmodified":1449056068,
+    "wof:lastmodified":1466586879,
     "wof:name":"Sids Barber Shop",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.428364,44.540904,-68.428364,44.540904],
+  "bbox": [
+    -68.428364,
+    44.540904,
+    -68.428364,
+    44.540904
+],
   "geometry": {"coordinates":[-68.428364,44.540904],"type":"Point"}
 }

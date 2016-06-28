@@ -2,13 +2,14 @@
   "id": 387789773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.089748,43.857956,-70.089748,43.857956",
     "geom:latitude":43.857956,
     "geom:longitude":-70.089748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Bow St",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387789773,
-    "wof:lastmodified":1449057815,
+    "wof:lastmodified":1466587013,
     "wof:name":"Poulin's Bow Street Market",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-70.089748,43.857956,-70.089748,43.857956],
+  "bbox": [
+    -70.089748,
+    43.857956,
+    -70.089748,
+    43.857956
+],
   "geometry": {"coordinates":[-70.089748,43.857956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404072733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.060286,43.997028,-70.060286,43.997028",
     "geom:latitude":43.997028,
     "geom:longitude":-70.060286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Main St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404072733,
-    "wof:lastmodified":1449039767,
+    "wof:lastmodified":1466586595,
     "wof:name":"Pearl Canton",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-70.060286,43.997028,-70.060286,43.997028],
+  "bbox": [
+    -70.060286,
+    43.997028,
+    -70.060286,
+    43.997028
+],
   "geometry": {"coordinates":[-70.060286,43.997028],"type":"Point"}
 }

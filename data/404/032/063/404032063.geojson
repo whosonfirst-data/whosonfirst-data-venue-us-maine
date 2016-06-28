@@ -2,13 +2,14 @@
   "id": 404032063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.769066,44.790538,-68.769066,44.790538",
     "geom:latitude":44.790538,
     "geom:longitude":-68.769066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 S Main St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404032063,
-    "wof:lastmodified":1449039599,
+    "wof:lastmodified":1466585991,
     "wof:name":"Cowan's Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-68.769066,44.790538,-68.769066,44.790538],
+  "bbox": [
+    -68.769066,
+    44.790538,
+    -68.769066,
+    44.790538
+],
   "geometry": {"coordinates":[-68.769066,44.790538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404163319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.213614,44.387087,-68.213614,44.387087",
     "geom:latitude":44.387087,
     "geom:longitude":-68.213614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Eden St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404163319,
-    "wof:lastmodified":1449040307,
+    "wof:lastmodified":1466586780,
     "wof:name":"Mdi Towing",
     "wof:parent_id":85803817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-68.213614,44.387087,-68.213614,44.387087],
-  "geometry": {"coordinates":[-68.213614,44.387087],"type":"Point"}
+  "bbox": [
+    -68.213614,
+    44.387087,
+    -68.213614,
+    44.387087
+],
+  "geometry": {"coordinates":[-68.21361400000001,44.387087],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404178941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242501,43.650304,-70.242501,43.650304",
     "geom:latitude":43.650304,
     "geom:longitude":-70.242501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404178941,
-    "wof:lastmodified":1449039988,
+    "wof:lastmodified":1466586831,
     "wof:name":"Usana Health Sciences",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.242501,43.650304,-70.242501,43.650304],
+  "bbox": [
+    -70.242501,
+    43.650304,
+    -70.242501,
+    43.650304
+],
   "geometry": {"coordinates":[-70.242501,43.650304],"type":"Point"}
 }

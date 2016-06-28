@@ -2,13 +2,14 @@
   "id": 403921859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.329002,43.88083,-70.329002,43.88083",
     "geom:latitude":43.88083,
     "geom:longitude":-70.329002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Portland Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403921859,
-    "wof:lastmodified":1449055479,
+    "wof:lastmodified":1466587086,
     "wof:name":"Air Quality Management Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "industrial"
     ]
 },
-  "bbox": [-70.329002,43.88083,-70.329002,43.88083],
+  "bbox": [
+    -70.329002,
+    43.88083,
+    -70.329002,
+    43.88083
+],
   "geometry": {"coordinates":[-70.329002,43.88083],"type":"Point"}
 }

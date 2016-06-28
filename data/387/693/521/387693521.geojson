@@ -2,13 +2,14 @@
   "id": 387693521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.272895,44.080821,-70.272895,44.080821",
     "geom:latitude":44.080821,
     "geom:longitude":-70.272895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"982 Minot Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387693521,
-    "wof:lastmodified":1449056333,
+    "wof:lastmodified":1466586702,
     "wof:name":"Job Site Superior Concrete",
     "wof:parent_id":85831033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.272895,44.080821,-70.272895,44.080821],
-  "geometry": {"coordinates":[-70.272895,44.080821],"type":"Point"}
+  "bbox": [
+    -70.272895,
+    44.080821,
+    -70.272895,
+    44.080821
+],
+  "geometry": {"coordinates":[-70.27289500000001,44.080821],"type":"Point"}
 }

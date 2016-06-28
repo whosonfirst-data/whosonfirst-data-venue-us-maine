@@ -2,13 +2,14 @@
   "id": 403898925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.05482,44.220037,-69.05482,44.220037",
     "geom:latitude":44.220037,
     "geom:longitude":-69.05482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 High St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403898925,
-    "wof:lastmodified":1449054600,
+    "wof:lastmodified":1466586851,
     "wof:name":"Castleview By The Sea",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accommodation"
     ]
 },
-  "bbox": [-69.05482,44.220037,-69.05482,44.220037],
-  "geometry": {"coordinates":[-69.05482,44.220037],"type":"Point"}
+  "bbox": [
+    -69.05482,
+    44.220037,
+    -69.05482,
+    44.220037
+],
+  "geometry": {"coordinates":[-69.05482000000001,44.220037],"type":"Point"}
 }

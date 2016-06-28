@@ -2,13 +2,14 @@
   "id": 387733919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.196245,44.100421,-70.196245,44.100421",
     "geom:latitude":44.100421,
     "geom:longitude":-70.196245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Campus Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387733919,
-    "wof:lastmodified":1449056635,
+    "wof:lastmodified":1466586850,
     "wof:name":"Dairy Joy",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cream"
     ]
 },
-  "bbox": [-70.196245,44.100421,-70.196245,44.100421],
+  "bbox": [
+    -70.196245,
+    44.100421,
+    -70.196245,
+    44.100421
+],
   "geometry": {"coordinates":[-70.196245,44.100421],"type":"Point"}
 }

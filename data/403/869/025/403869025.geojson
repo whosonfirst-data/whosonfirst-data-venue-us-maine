@@ -2,13 +2,14 @@
   "id": 403869025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.422326,44.541585,-68.422326,44.541585",
     "geom:latitude":44.541585,
     "geom:longitude":-68.422326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Hancock St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403869025,
-    "wof:lastmodified":1449055858,
+    "wof:lastmodified":1466586684,
     "wof:name":"Down East Cmnty Mental Health",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-68.422326,44.541585,-68.422326,44.541585],
+  "bbox": [
+    -68.422326,
+    44.541585,
+    -68.422326,
+    44.541585
+],
   "geometry": {"coordinates":[-68.422326,44.541585],"type":"Point"}
 }

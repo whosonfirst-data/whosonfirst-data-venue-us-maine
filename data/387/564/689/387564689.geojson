@@ -2,13 +2,14 @@
   "id": 387564689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.148022,44.091074,-70.148022,44.091074",
     "geom:latitude":44.091074,
     "geom:longitude":-70.148022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Grove St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387564689,
-    "wof:lastmodified":1449059695,
+    "wof:lastmodified":1466585833,
     "wof:name":"Dictation Unlimited",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "disc"
     ]
 },
-  "bbox": [-70.148022,44.091074,-70.148022,44.091074],
+  "bbox": [
+    -70.148022,
+    44.091074,
+    -70.148022,
+    44.091074
+],
   "geometry": {"coordinates":[-70.148022,44.091074],"type":"Point"}
 }

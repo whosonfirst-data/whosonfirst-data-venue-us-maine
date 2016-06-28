@@ -2,13 +2,14 @@
   "id": 387610835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.665594,44.298247,-68.665594,44.298247",
     "geom:latitude":44.298247,
     "geom:longitude":-68.665594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 Reach Rd",
     "sg:city":"Deer Isle",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387610835,
-    "wof:lastmodified":1449059859,
+    "wof:lastmodified":1466586510,
     "wof:name":"William Mor Stoneware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.665594,44.298247,-68.665594,44.298247],
+  "bbox": [
+    -68.665594,
+    44.298247,
+    -68.665594,
+    44.298247
+],
   "geometry": {"coordinates":[-68.665594,44.298247],"type":"Point"}
 }

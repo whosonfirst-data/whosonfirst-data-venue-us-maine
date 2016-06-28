@@ -2,13 +2,14 @@
   "id": 387807185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.083643,46.750811,-68.083643,46.750811",
     "geom:latitude":46.750811,
     "geom:longitude":-68.083643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1636 Parsons Rd",
     "sg:city":"Mapleton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387807185,
-    "wof:lastmodified":1449057078,
+    "wof:lastmodified":1466586980,
     "wof:name":"R W Bugbee Trucking",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-68.083643,46.750811,-68.083643,46.750811],
+  "bbox": [
+    -68.083643,
+    46.750811,
+    -68.083643,
+    46.750811
+],
   "geometry": {"coordinates":[-68.083643,46.750811],"type":"Point"}
 }

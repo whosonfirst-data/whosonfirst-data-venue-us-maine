@@ -2,13 +2,14 @@
   "id": 404109043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.716628,44.547736,-69.716628,44.547736",
     "geom:latitude":44.547736,
     "geom:longitude":-69.716628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Main St",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404109043,
-    "wof:lastmodified":1449039431,
+    "wof:lastmodified":1466586128,
     "wof:name":"Early Bird Restaurant",
     "wof:parent_id":85837327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-69.716628,44.547736,-69.716628,44.547736],
+  "bbox": [
+    -69.716628,
+    44.547736,
+    -69.716628,
+    44.547736
+],
   "geometry": {"coordinates":[-69.716628,44.547736],"type":"Point"}
 }

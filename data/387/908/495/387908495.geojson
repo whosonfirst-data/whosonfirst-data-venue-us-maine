@@ -2,13 +2,14 @@
   "id": 387908495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.200614,44.126357,-70.200614,44.126357",
     "geom:latitude":44.126357,
     "geom:longitude":-70.200614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"757 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387908495,
-    "wof:lastmodified":1449058262,
+    "wof:lastmodified":1466587247,
     "wof:name":"Fat City Grill",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.200614,44.126357,-70.200614,44.126357],
+  "bbox": [
+    -70.200614,
+    44.126357,
+    -70.200614,
+    44.126357
+],
   "geometry": {"coordinates":[-70.200614,44.126357],"type":"Point"}
 }

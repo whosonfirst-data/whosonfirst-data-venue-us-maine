@@ -2,13 +2,14 @@
   "id": 403835727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.200109,43.780818,-70.200109,43.780818",
     "geom:latitude":43.780818,
     "geom:longitude":-70.200109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 Middle Rd",
     "sg:city":"Cumberland Ctr",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403835727,
-    "wof:lastmodified":1449054817,
+    "wof:lastmodified":1466586525,
     "wof:name":"Graphx Signs Inc",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "boat"
     ]
 },
-  "bbox": [-70.200109,43.780818,-70.200109,43.780818],
+  "bbox": [
+    -70.200109,
+    43.780818,
+    -70.200109,
+    43.780818
+],
   "geometry": {"coordinates":[-70.200109,43.780818],"type":"Point"}
 }

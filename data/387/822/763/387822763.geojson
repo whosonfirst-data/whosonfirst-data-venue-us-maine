@@ -2,13 +2,14 @@
   "id": 387822763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.362547,44.955552,-69.362547,44.955552",
     "geom:latitude":44.955552,
     "geom:longitude":-69.362547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Papoose Ln",
     "sg:city":"Saint Albans",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387822763,
-    "wof:lastmodified":1449059805,
+    "wof:lastmodified":1466587189,
     "wof:name":"First Light Photo Research",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-69.362547,44.955552,-69.362547,44.955552],
-  "geometry": {"coordinates":[-69.362547,44.955552],"type":"Point"}
+  "bbox": [
+    -69.362547,
+    44.955552,
+    -69.362547,
+    44.955552
+],
+  "geometry": {"coordinates":[-69.36254700000001,44.955552],"type":"Point"}
 }

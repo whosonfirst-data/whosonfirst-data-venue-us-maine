@@ -2,13 +2,14 @@
   "id": 403781271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.299711,43.629217,-70.299711,43.629217",
     "geom:latitude":43.629217,
     "geom:longitude":-70.299711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1597 Broadway",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403781271,
-    "wof:lastmodified":1449054888,
+    "wof:lastmodified":1466585696,
     "wof:name":"D'Andrea Pizza & Sandwiches",
     "wof:parent_id":85809743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-70.299711,43.629217,-70.299711,43.629217],
+  "bbox": [
+    -70.299711,
+    43.629217,
+    -70.299711,
+    43.629217
+],
   "geometry": {"coordinates":[-70.299711,43.629217],"type":"Point"}
 }

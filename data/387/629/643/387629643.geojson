@@ -2,13 +2,14 @@
   "id": 387629643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.310194,43.927523,-70.310194,43.927523",
     "geom:latitude":43.927523,
     "geom:longitude":-70.310194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Lewiston Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387629643,
-    "wof:lastmodified":1449059020,
+    "wof:lastmodified":1466585797,
     "wof:name":"Daryl D Gushee Inc",
     "wof:parent_id":85857545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-70.310194,43.927523,-70.310194,43.927523],
+  "bbox": [
+    -70.310194,
+    43.927523,
+    -70.310194,
+    43.927523
+],
   "geometry": {"coordinates":[-70.310194,43.927523],"type":"Point"}
 }

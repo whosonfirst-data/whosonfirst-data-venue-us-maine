@@ -2,13 +2,14 @@
   "id": 387765111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.819339,44.821481,-68.819339,44.821481",
     "geom:latitude":44.821481,
     "geom:longitude":-68.819339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1453 Union St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387765111,
-    "wof:lastmodified":1449058307,
+    "wof:lastmodified":1466586949,
     "wof:name":"A & L Express",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-68.819339,44.821481,-68.819339,44.821481],
+  "bbox": [
+    -68.819339,
+    44.821481,
+    -68.819339,
+    44.821481
+],
   "geometry": {"coordinates":[-68.819339,44.821481],"type":"Point"}
 }

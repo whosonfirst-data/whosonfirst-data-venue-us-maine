@@ -2,13 +2,14 @@
   "id": 403934219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.363903,43.760411,-70.363903,43.760411",
     "geom:latitude":43.760411,
     "geom:longitude":-70.363903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Percy Hawkes Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403934219,
-    "wof:lastmodified":1449054695,
+    "wof:lastmodified":1466586934,
     "wof:name":"Chase Customer Homes & Finance",
     "wof:parent_id":85825127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.363903,43.760411,-70.363903,43.760411],
-  "geometry": {"coordinates":[-70.363903,43.760411],"type":"Point"}
+  "bbox": [
+    -70.363903,
+    43.760411,
+    -70.363903,
+    43.760411
+],
+  "geometry": {"coordinates":[-70.36390299999999,43.760411],"type":"Point"}
 }

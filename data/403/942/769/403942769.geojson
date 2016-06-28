@@ -2,13 +2,14 @@
   "id": 403942769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.198618,44.095583,-70.198618,44.095583",
     "geom:latitude":44.095583,
     "geom:longitude":-70.198618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 East Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403942769,
-    "wof:lastmodified":1449055249,
+    "wof:lastmodified":1466587068,
     "wof:name":"B Brooks",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "football"
     ]
 },
-  "bbox": [-70.198618,44.095583,-70.198618,44.095583],
+  "bbox": [
+    -70.198618,
+    44.095583,
+    -70.198618,
+    44.095583
+],
   "geometry": {"coordinates":[-70.198618,44.095583],"type":"Point"}
 }

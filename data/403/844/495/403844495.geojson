@@ -2,13 +2,14 @@
   "id": 403844495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.019632,44.99549,-69.019632,44.99549",
     "geom:latitude":44.99549,
     "geom:longitude":-69.019632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 Main St",
     "sg:city":"Corinth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403844495,
-    "wof:lastmodified":1449055200,
+    "wof:lastmodified":1466586700,
     "wof:name":"Corinth True Value Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.019632,44.99549,-69.019632,44.99549],
+  "bbox": [
+    -69.019632,
+    44.99549,
+    -69.019632,
+    44.99549
+],
   "geometry": {"coordinates":[-69.019632,44.99549],"type":"Point"}
 }

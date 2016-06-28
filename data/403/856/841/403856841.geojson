@@ -2,13 +2,14 @@
   "id": 403856841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.022835,44.927063,-70.022835,44.927063",
     "geom:latitude":44.927063,
     "geom:longitude":-70.022835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Church St",
     "sg:city":"New Vineyard",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403856841,
-    "wof:lastmodified":1449055019,
+    "wof:lastmodified":1466586855,
     "wof:name":"Bea Balm Herb Patch Of Maine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.022835,44.927063,-70.022835,44.927063],
+  "bbox": [
+    -70.022835,
+    44.927063,
+    -70.022835,
+    44.927063
+],
   "geometry": {"coordinates":[-70.022835,44.927063],"type":"Point"}
 }

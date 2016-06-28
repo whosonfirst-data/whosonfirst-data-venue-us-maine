@@ -2,13 +2,14 @@
   "id": 387596081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.216659,44.390083,-68.216659,44.390083",
     "geom:latitude":44.390083,
     "geom:longitude":-68.216659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Harbor Ln",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387596081,
-    "wof:lastmodified":1449058057,
+    "wof:lastmodified":1466586288,
     "wof:name":"Acadia & Island Tours-Oli's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "promoter"
     ]
 },
-  "bbox": [-68.216659,44.390083,-68.216659,44.390083],
-  "geometry": {"coordinates":[-68.216659,44.390083],"type":"Point"}
+  "bbox": [
+    -68.216659,
+    44.390083,
+    -68.216659,
+    44.390083
+],
+  "geometry": {"coordinates":[-68.21665900000001,44.390083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404119841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.519079,43.405115,-70.519079,43.405115",
     "geom:latitude":43.405115,
     "geom:longitude":-70.519079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Old Post Rd",
     "sg:city":"Arundel",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404119841,
-    "wof:lastmodified":1449039980,
+    "wof:lastmodified":1466586293,
     "wof:name":"Majestic Regency Motel",
     "wof:parent_id":85828039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.519079,43.405115,-70.519079,43.405115],
+  "bbox": [
+    -70.519079,
+    43.405115,
+    -70.519079,
+    43.405115
+],
   "geometry": {"coordinates":[-70.519079,43.405115],"type":"Point"}
 }

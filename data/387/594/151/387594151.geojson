@@ -2,13 +2,14 @@
   "id": 387594151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.186836,43.800658,-70.186836,43.800658",
     "geom:latitude":43.800658,
     "geom:longitude":-70.186836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 US Hwy 1",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387594151,
-    "wof:lastmodified":1449056648,
+    "wof:lastmodified":1466586239,
     "wof:name":"Coastal Conservation Assn",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "org"
     ]
 },
-  "bbox": [-70.186836,43.800658,-70.186836,43.800658],
+  "bbox": [
+    -70.186836,
+    43.800658,
+    -70.186836,
+    43.800658
+],
   "geometry": {"coordinates":[-70.186836,43.800658],"type":"Point"}
 }

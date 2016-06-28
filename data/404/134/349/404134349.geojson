@@ -2,13 +2,14 @@
   "id": 404134349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.940128,47.161151,-67.940128,47.161151",
     "geom:latitude":47.161151,
     "geom:longitude":-67.940128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Main St",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404134349,
-    "wof:lastmodified":1449040273,
+    "wof:lastmodified":1466586512,
     "wof:name":"Morrows Radio & TV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.940128,47.161151,-67.940128,47.161151],
+  "bbox": [
+    -67.940128,
+    47.161151,
+    -67.940128,
+    47.161151
+],
   "geometry": {"coordinates":[-67.940128,47.161151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403750929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.738064,43.095936,-70.738064,43.095936",
     "geom:latitude":43.095936,
     "geom:longitude":-70.738064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Rogers Rd",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403750929,
-    "wof:lastmodified":1449055465,
+    "wof:lastmodified":1466586227,
     "wof:name":"Timothy Kingsbury DO",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.738064,43.095936,-70.738064,43.095936],
-  "geometry": {"coordinates":[-70.738064,43.095936],"type":"Point"}
+  "bbox": [
+    -70.738064,
+    43.095936,
+    -70.738064,
+    43.095936
+],
+  "geometry": {"coordinates":[-70.73806399999999,43.095936],"type":"Point"}
 }

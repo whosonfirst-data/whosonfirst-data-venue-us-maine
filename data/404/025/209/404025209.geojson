@@ -2,13 +2,14 @@
   "id": 404025209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.788429,44.409231,-70.788429,44.409231",
     "geom:latitude":44.409231,
     "geom:longitude":-70.788429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Main St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404025209,
-    "wof:lastmodified":1449040117,
+    "wof:lastmodified":1466585955,
     "wof:name":"Vine & Cupboard Antiques",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "housewares"
     ]
 },
-  "bbox": [-70.788429,44.409231,-70.788429,44.409231],
-  "geometry": {"coordinates":[-70.788429,44.409231],"type":"Point"}
+  "bbox": [
+    -70.788429,
+    44.409231,
+    -70.788429,
+    44.409231
+],
+  "geometry": {"coordinates":[-70.78842899999999,44.409231],"type":"Point"}
 }

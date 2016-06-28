@@ -2,13 +2,14 @@
   "id": 404111469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.413219,43.807408,-70.413219,43.807408",
     "geom:latitude":43.807408,
     "geom:longitude":-70.413219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"264 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404111469,
-    "wof:lastmodified":1449040353,
+    "wof:lastmodified":1466586165,
     "wof:name":"Job Site RJ Grondin & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.413219,43.807408,-70.413219,43.807408],
+  "bbox": [
+    -70.413219,
+    43.807408,
+    -70.413219,
+    43.807408
+],
   "geometry": {"coordinates":[-70.413219,43.807408],"type":"Point"}
 }

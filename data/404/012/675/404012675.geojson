@@ -2,13 +2,14 @@
   "id": 404012675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.276047,43.650916,-70.276047,43.650916",
     "geom:latitude":43.650916,
     "geom:longitude":-70.276047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 West St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404012675,
-    "wof:lastmodified":1449040210,
+    "wof:lastmodified":1466585823,
     "wof:name":"Komondorok LLC",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-70.276047,43.650916,-70.276047,43.650916],
-  "geometry": {"coordinates":[-70.276047,43.650916],"type":"Point"}
+  "bbox": [
+    -70.276047,
+    43.650916,
+    -70.276047,
+    43.650916
+],
+  "geometry": {"coordinates":[-70.27604700000001,43.650916],"type":"Point"}
 }

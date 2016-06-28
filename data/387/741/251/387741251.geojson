@@ -2,13 +2,14 @@
   "id": 387741251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.456852,43.490189,-70.456852,43.490189",
     "geom:latitude":43.490189,
     "geom:longitude":-70.456852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Alfred St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387741251,
-    "wof:lastmodified":1449056319,
+    "wof:lastmodified":1466586866,
     "wof:name":"Biddeford Arena",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rink"
     ]
 },
-  "bbox": [-70.456852,43.490189,-70.456852,43.490189],
+  "bbox": [
+    -70.456852,
+    43.490189,
+    -70.456852,
+    43.490189
+],
   "geometry": {"coordinates":[-70.456852,43.490189],"type":"Point"}
 }

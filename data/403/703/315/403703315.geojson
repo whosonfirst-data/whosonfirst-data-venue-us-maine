@@ -2,13 +2,14 @@
   "id": 403703315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.196003,43.772658,-70.196003,43.772658",
     "geom:latitude":43.772658,
     "geom:longitude":-70.196003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Schooner Ridge Rd",
     "sg:city":"Cumberland Frsd",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403703315,
-    "wof:lastmodified":1449055050,
+    "wof:lastmodified":1466585769,
     "wof:name":"John A Perry Electric",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.196003,43.772658,-70.196003,43.772658],
+  "bbox": [
+    -70.196003,
+    43.772658,
+    -70.196003,
+    43.772658
+],
   "geometry": {"coordinates":[-70.196003,43.772658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387713535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.290326,43.998309,-70.290326,43.998309",
     "geom:latitude":43.998309,
     "geom:longitude":-70.290326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Lewiston Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387713535,
-    "wof:lastmodified":1449059558,
+    "wof:lastmodified":1466586787,
     "wof:name":"Dupont Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.290326,43.998309,-70.290326,43.998309],
-  "geometry": {"coordinates":[-70.290326,43.998309],"type":"Point"}
+  "bbox": [
+    -70.290326,
+    43.998309,
+    -70.290326,
+    43.998309
+],
+  "geometry": {"coordinates":[-70.29032599999999,43.998309],"type":"Point"}
 }

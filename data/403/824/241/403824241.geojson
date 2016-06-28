@@ -2,13 +2,14 @@
   "id": 403824241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.147121,44.113911,-70.147121,44.113911",
     "geom:latitude":44.113911,
     "geom:longitude":-70.147121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"454 Pond Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403824241,
-    "wof:lastmodified":1449055103,
+    "wof:lastmodified":1466586335,
     "wof:name":"A & B Lawn Care",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.147121,44.113911,-70.147121,44.113911],
+  "bbox": [
+    -70.147121,
+    44.113911,
+    -70.147121,
+    44.113911
+],
   "geometry": {"coordinates":[-70.147121,44.113911],"type":"Point"}
 }

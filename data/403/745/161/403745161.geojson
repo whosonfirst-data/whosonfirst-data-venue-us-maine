@@ -2,13 +2,14 @@
   "id": 403745161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.020707,45.053327,-69.020707,45.053327",
     "geom:latitude":45.053327,
     "geom:longitude":-69.020707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Bradford Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403745161,
-    "wof:lastmodified":1449055889,
+    "wof:lastmodified":1466586130,
     "wof:name":"Day Richard & Sons MBL HM Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-69.020707,45.053327,-69.020707,45.053327],
+  "bbox": [
+    -69.020707,
+    45.053327,
+    -69.020707,
+    45.053327
+],
   "geometry": {"coordinates":[-69.020707,45.053327],"type":"Point"}
 }

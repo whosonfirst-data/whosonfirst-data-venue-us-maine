@@ -2,13 +2,14 @@
   "id": 404053153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.655776,44.897068,-68.655776,44.897068",
     "geom:latitude":44.897068,
     "geom:longitude":-68.655776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Park St",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404053153,
-    "wof:lastmodified":1449039280,
+    "wof:lastmodified":1466586334,
     "wof:name":"Richard S Mc Guckin DDS",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-68.655776,44.897068,-68.655776,44.897068],
+  "bbox": [
+    -68.655776,
+    44.897068,
+    -68.655776,
+    44.897068
+],
   "geometry": {"coordinates":[-68.655776,44.897068],"type":"Point"}
 }

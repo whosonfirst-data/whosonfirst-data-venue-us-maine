@@ -2,13 +2,14 @@
   "id": 387655975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.21066,44.097836,-70.21066,44.097836",
     "geom:latitude":44.097836,
     "geom:longitude":-70.21066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Horton St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387655975,
-    "wof:lastmodified":1449058298,
+    "wof:lastmodified":1466586059,
     "wof:name":"Norwich House",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-70.21066,44.097836,-70.21066,44.097836],
+  "bbox": [
+    -70.21066,
+    44.097836,
+    -70.21066,
+    44.097836
+],
   "geometry": {"coordinates":[-70.21066,44.097836],"type":"Point"}
 }

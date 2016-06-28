@@ -2,13 +2,14 @@
   "id": 403902247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.822049,43.883048,-69.822049,43.883048",
     "geom:latitude":43.883048,
     "geom:longitude":-69.822049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 High St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403902247,
-    "wof:lastmodified":1449055602,
+    "wof:lastmodified":1466586928,
     "wof:name":"Frank J Podziak Inc",
     "wof:parent_id":85858289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-69.822049,43.883048,-69.822049,43.883048],
-  "geometry": {"coordinates":[-69.822049,43.883048],"type":"Point"}
+  "bbox": [
+    -69.822049,
+    43.883048,
+    -69.822049,
+    43.883048
+],
+  "geometry": {"coordinates":[-69.82204900000001,43.883048],"type":"Point"}
 }

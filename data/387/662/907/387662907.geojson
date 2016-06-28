@@ -2,13 +2,14 @@
   "id": 387662907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.285772,44.031551,-70.285772,44.031551",
     "geom:latitude":44.031551,
     "geom:longitude":-70.285772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3162 Hotel Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387662907,
-    "wof:lastmodified":1449058681,
+    "wof:lastmodified":1466586168,
     "wof:name":"Elmer's Pipe Inc",
     "wof:parent_id":85830379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "chimney"
     ]
 },
-  "bbox": [-70.285772,44.031551,-70.285772,44.031551],
-  "geometry": {"coordinates":[-70.285772,44.031551],"type":"Point"}
+  "bbox": [
+    -70.285772,
+    44.031551,
+    -70.285772,
+    44.031551
+],
+  "geometry": {"coordinates":[-70.28577199999999,44.031551],"type":"Point"}
 }

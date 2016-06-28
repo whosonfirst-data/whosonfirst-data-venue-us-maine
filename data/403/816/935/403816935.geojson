@@ -2,13 +2,14 @@
   "id": 403816935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.422877,44.543096,-68.422877,44.543096",
     "geom:latitude":44.543096,
     "geom:longitude":-68.422877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 School St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403816935,
-    "wof:lastmodified":1449055417,
+    "wof:lastmodified":1466586213,
     "wof:name":"Morton's Gourmet Ice Cream",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cream"
     ]
 },
-  "bbox": [-68.422877,44.543096,-68.422877,44.543096],
+  "bbox": [
+    -68.422877,
+    44.543096,
+    -68.422877,
+    44.543096
+],
   "geometry": {"coordinates":[-68.422877,44.543096],"type":"Point"}
 }

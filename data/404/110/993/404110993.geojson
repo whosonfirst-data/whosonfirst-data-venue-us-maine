@@ -2,13 +2,14 @@
   "id": 404110993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.624604,44.547331,-69.624604,44.547331",
     "geom:latitude":44.547331,
     "geom:longitude":-69.624604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Clinton Ave",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":404110993,
-    "wof:lastmodified":1449039408,
+    "wof:lastmodified":1466586157,
     "wof:name":"Soft Stitch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "clothes"
     ]
 },
-  "bbox": [-69.624604,44.547331,-69.624604,44.547331],
-  "geometry": {"coordinates":[-69.624604,44.547331],"type":"Point"}
+  "bbox": [
+    -69.624604,
+    44.547331,
+    -69.624604,
+    44.547331
+],
+  "geometry": {"coordinates":[-69.62460400000001,44.547331],"type":"Point"}
 }

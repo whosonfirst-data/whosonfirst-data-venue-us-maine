@@ -2,13 +2,14 @@
   "id": 387866121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.011954,46.686957,-68.011954,46.686957",
     "geom:latitude":46.686957,
     "geom:longitude":-68.011954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Summer St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387866121,
-    "wof:lastmodified":1449057912,
+    "wof:lastmodified":1466587111,
     "wof:name":"Bowden Advertising & Design",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-68.011954,46.686957,-68.011954,46.686957],
+  "bbox": [
+    -68.011954,
+    46.686957,
+    -68.011954,
+    46.686957
+],
   "geometry": {"coordinates":[-68.011954,46.686957],"type":"Point"}
 }

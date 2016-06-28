@@ -2,13 +2,14 @@
   "id": 403760555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.766666,44.698009,-68.766666,44.698009",
     "geom:latitude":44.698009,
     "geom:longitude":-68.766666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Swetts Pond Rd",
     "sg:city":"Orrington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403760555,
-    "wof:lastmodified":1449055897,
+    "wof:lastmodified":1466586412,
     "wof:name":"Commercial Snack Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.766666,44.698009,-68.766666,44.698009],
+  "bbox": [
+    -68.766666,
+    44.698009,
+    -68.766666,
+    44.698009
+],
   "geometry": {"coordinates":[-68.766666,44.698009],"type":"Point"}
 }

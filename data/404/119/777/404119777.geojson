@@ -2,13 +2,14 @@
   "id": 404119777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.747891,44.348691,-69.747891,44.348691",
     "geom:latitude":44.348691,
     "geom:longitude":-69.747891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"499 Riverside Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404119777,
-    "wof:lastmodified":1449039982,
+    "wof:lastmodified":1466586293,
     "wof:name":"Woodmaster Of Maine Inc",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-69.747891,44.348691,-69.747891,44.348691],
+  "bbox": [
+    -69.747891,
+    44.348691,
+    -69.747891,
+    44.348691
+],
   "geometry": {"coordinates":[-69.747891,44.348691],"type":"Point"}
 }

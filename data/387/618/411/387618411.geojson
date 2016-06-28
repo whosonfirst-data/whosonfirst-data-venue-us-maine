@@ -2,13 +2,14 @@
   "id": 387618411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.776412,44.307465,-69.776412,44.307465",
     "geom:latitude":44.307465,
     "geom:longitude":-69.776412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Child St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387618411,
-    "wof:lastmodified":1449058471,
+    "wof:lastmodified":1466585703,
     "wof:name":"Transportation-Environmental",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.776412,44.307465,-69.776412,44.307465],
-  "geometry": {"coordinates":[-69.776412,44.307465],"type":"Point"}
+  "bbox": [
+    -69.776412,
+    44.307465,
+    -69.776412,
+    44.307465
+],
+  "geometry": {"coordinates":[-69.77641199999999,44.307465],"type":"Point"}
 }

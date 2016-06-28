@@ -2,13 +2,14 @@
   "id": 387605829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.366642,43.69157,-70.366642,43.69157",
     "geom:latitude":43.69157,
     "geom:longitude":-70.366642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Cumberland St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387605829,
-    "wof:lastmodified":1449057955,
+    "wof:lastmodified":1466586423,
     "wof:name":"B & B Gas Svc",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "appliance"
     ]
 },
-  "bbox": [-70.366642,43.69157,-70.366642,43.69157],
+  "bbox": [
+    -70.366642,
+    43.69157,
+    -70.366642,
+    43.69157
+],
   "geometry": {"coordinates":[-70.366642,43.69157],"type":"Point"}
 }

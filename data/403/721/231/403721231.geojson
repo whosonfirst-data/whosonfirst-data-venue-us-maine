@@ -2,13 +2,14 @@
   "id": 403721231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.181162,44.496466,-70.181162,44.496466",
     "geom:latitude":44.496466,
     "geom:longitude":-70.181162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Franklin Rd",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403721231,
-    "wof:lastmodified":1449055959,
+    "wof:lastmodified":1466585869,
     "wof:name":"Wiles Funeral Homes & Memorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-70.181162,44.496466,-70.181162,44.496466],
+  "bbox": [
+    -70.181162,
+    44.496466,
+    -70.181162,
+    44.496466
+],
   "geometry": {"coordinates":[-70.181162,44.496466],"type":"Point"}
 }

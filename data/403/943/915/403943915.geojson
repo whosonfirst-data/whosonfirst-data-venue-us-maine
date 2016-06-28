@@ -2,13 +2,14 @@
   "id": 403943915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.005703,44.424337,-69.005703,44.424337",
     "geom:latitude":44.424337,
     "geom:longitude":-69.005703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Church St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403943915,
-    "wof:lastmodified":1449055001,
+    "wof:lastmodified":1466587070,
     "wof:name":"Corner Country Crafts",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-69.005703,44.424337,-69.005703,44.424337],
+  "bbox": [
+    -69.005703,
+    44.424337,
+    -69.005703,
+    44.424337
+],
   "geometry": {"coordinates":[-69.005703,44.424337],"type":"Point"}
 }

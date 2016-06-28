@@ -2,13 +2,14 @@
   "id": 387942881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.398022,43.682917,-70.398022,43.682917",
     "geom:latitude":43.682917,
     "geom:longitude":-70.398022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Hutcherson Dr",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387942881,
-    "wof:lastmodified":1449057839,
+    "wof:lastmodified":1466587288,
     "wof:name":"Southern Maine Industries Corp",
     "wof:parent_id":85835377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plating"
     ]
 },
-  "bbox": [-70.398022,43.682917,-70.398022,43.682917],
+  "bbox": [
+    -70.398022,
+    43.682917,
+    -70.398022,
+    43.682917
+],
   "geometry": {"coordinates":[-70.398022,43.682917],"type":"Point"}
 }

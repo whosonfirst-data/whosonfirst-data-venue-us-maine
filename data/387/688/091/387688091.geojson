@@ -2,13 +2,14 @@
   "id": 387688091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.717574,44.771001,-69.717574,44.771001",
     "geom:latitude":44.771001,
     "geom:longitude":-69.717574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 North Ave",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387688091,
-    "wof:lastmodified":1449057524,
+    "wof:lastmodified":1466586574,
     "wof:name":"Bradley's School Of Dance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-69.717574,44.771001,-69.717574,44.771001],
+  "bbox": [
+    -69.717574,
+    44.771001,
+    -69.717574,
+    44.771001
+],
   "geometry": {"coordinates":[-69.717574,44.771001],"type":"Point"}
 }

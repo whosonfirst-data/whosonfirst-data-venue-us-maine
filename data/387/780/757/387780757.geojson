@@ -2,13 +2,14 @@
   "id": 387780757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.223626,43.807047,-70.223626,43.807047",
     "geom:latitude":43.807047,
     "geom:longitude":-70.223626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Walnut Hill Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387780757,
-    "wof:lastmodified":1449058956,
+    "wof:lastmodified":1466586998,
     "wof:name":"Fieldstone Welding & Fab",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-70.223626,43.807047,-70.223626,43.807047],
+  "bbox": [
+    -70.223626,
+    43.807047,
+    -70.223626,
+    43.807047
+],
   "geometry": {"coordinates":[-70.223626,43.807047],"type":"Point"}
 }

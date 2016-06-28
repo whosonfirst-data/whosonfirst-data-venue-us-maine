@@ -2,13 +2,14 @@
   "id": 404197661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.506184,43.466824,-70.506184,43.466824",
     "geom:latitude":43.466824,
     "geom:longitude":-70.506184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Mountain Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404197661,
-    "wof:lastmodified":1449040171,
+    "wof:lastmodified":1466586826,
     "wof:name":"First Apostolic Church",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.506184,43.466824,-70.506184,43.466824],
+  "bbox": [
+    -70.506184,
+    43.466824,
+    -70.506184,
+    43.466824
+],
   "geometry": {"coordinates":[-70.506184,43.466824],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387934149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.790145,44.270496,-69.790145,44.270496",
     "geom:latitude":44.270496,
     "geom:longitude":-69.790145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 Water St",
     "sg:city":"Hallowell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387934149,
-    "wof:lastmodified":1449056300,
+    "wof:lastmodified":1466587265,
     "wof:name":"Butler & Mac Master Automotive",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-69.790145,44.270496,-69.790145,44.270496],
+  "bbox": [
+    -69.790145,
+    44.270496,
+    -69.790145,
+    44.270496
+],
   "geometry": {"coordinates":[-69.790145,44.270496],"type":"Point"}
 }

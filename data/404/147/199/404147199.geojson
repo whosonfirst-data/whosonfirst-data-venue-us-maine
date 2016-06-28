@@ -2,13 +2,14 @@
   "id": 404147199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.237839,44.303768,-68.237839,44.303768",
     "geom:latitude":44.303768,
     "geom:longitude":-68.237839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Day St",
     "sg:city":"Jonesport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404147199,
-    "wof:lastmodified":1449040191,
+    "wof:lastmodified":1466586710,
     "wof:name":"US Coast Guard Cutter",
     "wof:parent_id":85803817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-68.237839,44.303768,-68.237839,44.303768],
-  "geometry": {"coordinates":[-68.237839,44.303768],"type":"Point"}
+  "bbox": [
+    -68.237839,
+    44.303768,
+    -68.237839,
+    44.303768
+],
+  "geometry": {"coordinates":[-68.23783899999999,44.303768],"type":"Point"}
 }

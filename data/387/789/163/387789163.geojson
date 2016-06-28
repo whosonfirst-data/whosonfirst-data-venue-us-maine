@@ -2,13 +2,14 @@
   "id": 387789163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.803667,44.796757,-68.803667,44.796757",
     "geom:latitude":44.796757,
     "geom:longitude":-68.803667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Nason Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387789163,
-    "wof:lastmodified":1449057818,
+    "wof:lastmodified":1466587007,
     "wof:name":"American Travellers",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.803667,44.796757,-68.803667,44.796757],
+  "bbox": [
+    -68.803667,
+    44.796757,
+    -68.803667,
+    44.796757
+],
   "geometry": {"coordinates":[-68.803667,44.796757],"type":"Point"}
 }

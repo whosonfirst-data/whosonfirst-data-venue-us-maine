@@ -2,13 +2,14 @@
   "id": 387877119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.668828,44.543848,-69.668828,44.543848",
     "geom:latitude":44.543848,
     "geom:longitude":-69.668828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Kennedy Memorial Dr",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387877119,
-    "wof:lastmodified":1449058788,
+    "wof:lastmodified":1466587197,
     "wof:name":"Peoples Heritage Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.668828,44.543848,-69.668828,44.543848],
+  "bbox": [
+    -69.668828,
+    44.543848,
+    -69.668828,
+    44.543848
+],
   "geometry": {"coordinates":[-69.668828,44.543848],"type":"Point"}
 }

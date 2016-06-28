@@ -2,13 +2,14 @@
   "id": 387600089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.303773,43.70005,-70.303773,43.70005",
     "geom:latitude":43.70005,
     "geom:longitude":-70.303773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Newton St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387600089,
-    "wof:lastmodified":1449056454,
+    "wof:lastmodified":1466586347,
     "wof:name":"Good Times DJ Svc",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-70.303773,43.70005,-70.303773,43.70005],
-  "geometry": {"coordinates":[-70.303773,43.70005],"type":"Point"}
+  "bbox": [
+    -70.303773,
+    43.70005,
+    -70.303773,
+    43.70005
+],
+  "geometry": {"coordinates":[-70.30377300000001,43.70005],"type":"Point"}
 }

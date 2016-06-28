@@ -2,13 +2,14 @@
   "id": 387714179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.450618,45.996742,-68.450618,45.996742",
     "geom:latitude":45.996742,
     "geom:longitude":-68.450618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Katahdin St",
     "sg:city":"Patten",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387714179,
-    "wof:lastmodified":1449057980,
+    "wof:lastmodified":1466586784,
     "wof:name":"Codgie's Hairport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.450618,45.996742,-68.450618,45.996742],
-  "geometry": {"coordinates":[-68.450618,45.996742],"type":"Point"}
+  "bbox": [
+    -68.450618,
+    45.996742,
+    -68.450618,
+    45.996742
+],
+  "geometry": {"coordinates":[-68.45061800000001,45.996742],"type":"Point"}
 }

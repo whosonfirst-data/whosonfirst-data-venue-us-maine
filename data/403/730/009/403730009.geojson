@@ -2,13 +2,14 @@
   "id": 403730009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.463933,44.716114,-67.463933,44.716114",
     "geom:latitude":44.716114,
     "geom:longitude":-67.463933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Gardner Ave",
     "sg:city":"Machias",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403730009,
-    "wof:lastmodified":1449055766,
+    "wof:lastmodified":1466586656,
     "wof:name":"Heald Hair Design",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.463933,44.716114,-67.463933,44.716114],
+  "bbox": [
+    -67.463933,
+    44.716114,
+    -67.463933,
+    44.716114
+],
   "geometry": {"coordinates":[-67.463933,44.716114],"type":"Point"}
 }

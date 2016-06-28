@@ -2,13 +2,14 @@
   "id": 403717965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.453946,43.492833,-70.453946,43.492833",
     "geom:latitude":43.492833,
     "geom:longitude":-70.453946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Main St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403717965,
-    "wof:lastmodified":1449054656,
+    "wof:lastmodified":1466585836,
     "wof:name":"Eastland Construction & Mgmt",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.453946,43.492833,-70.453946,43.492833],
+  "bbox": [
+    -70.453946,
+    43.492833,
+    -70.453946,
+    43.492833
+],
   "geometry": {"coordinates":[-70.453946,43.492833],"type":"Point"}
 }

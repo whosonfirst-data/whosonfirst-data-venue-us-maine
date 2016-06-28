@@ -2,13 +2,14 @@
   "id": 403964421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.525182,43.403707,-70.525182,43.403707",
     "geom:latitude":43.403707,
     "geom:longitude":-70.525182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1144 Portland Rd",
     "sg:city":"Arundel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403964421,
-    "wof:lastmodified":1449055630,
+    "wof:lastmodified":1466587195,
     "wof:name":"Arundel Market",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-70.525182,43.403707,-70.525182,43.403707],
+  "bbox": [
+    -70.525182,
+    43.403707,
+    -70.525182,
+    43.403707
+],
   "geometry": {"coordinates":[-70.525182,43.403707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387963309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.540512,44.215267,-70.540512,44.215267",
     "geom:latitude":44.215267,
     "geom:longitude":-70.540512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Cottage St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387963309,
-    "wof:lastmodified":1449056469,
+    "wof:lastmodified":1466587346,
     "wof:name":"Progress Center Inc",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.540512,44.215267,-70.540512,44.215267],
-  "geometry": {"coordinates":[-70.540512,44.215267],"type":"Point"}
+  "bbox": [
+    -70.540512,
+    44.215267,
+    -70.540512,
+    44.215267
+],
+  "geometry": {"coordinates":[-70.54051200000001,44.215267],"type":"Point"}
 }

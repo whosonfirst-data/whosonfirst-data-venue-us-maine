@@ -2,13 +2,14 @@
   "id": 404205235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.733943,43.413632,-70.733943,43.413632",
     "geom:latitude":43.413632,
     "geom:longitude":-70.733943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Jagger Mill Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404205235,
-    "wof:lastmodified":1449039828,
+    "wof:lastmodified":1466586932,
     "wof:name":"Montrose/Sanford Hydraulics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "coupling"
     ]
 },
-  "bbox": [-70.733943,43.413632,-70.733943,43.413632],
+  "bbox": [
+    -70.733943,
+    43.413632,
+    -70.733943,
+    43.413632
+],
   "geometry": {"coordinates":[-70.733943,43.413632],"type":"Point"}
 }

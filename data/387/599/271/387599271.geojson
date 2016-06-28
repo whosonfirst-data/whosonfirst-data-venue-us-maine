@@ -2,13 +2,14 @@
   "id": 387599271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.215051,44.099746,-70.215051,44.099746",
     "geom:latitude":44.099746,
     "geom:longitude":-70.215051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Blake St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387599271,
-    "wof:lastmodified":1449057870,
+    "wof:lastmodified":1466586336,
     "wof:name":"Lewiston Transmission",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automotive"
     ]
 },
-  "bbox": [-70.215051,44.099746,-70.215051,44.099746],
+  "bbox": [
+    -70.215051,
+    44.099746,
+    -70.215051,
+    44.099746
+],
   "geometry": {"coordinates":[-70.215051,44.099746],"type":"Point"}
 }

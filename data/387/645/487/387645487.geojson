@@ -2,13 +2,14 @@
   "id": 387645487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.552306,43.373341,-70.552306,43.373341",
     "geom:latitude":43.373341,
     "geom:longitude":-70.552306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 York St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387645487,
-    "wof:lastmodified":1449056489,
+    "wof:lastmodified":1466585934,
     "wof:name":"Budget Box St David's",
     "wof:parent_id":85812677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-70.552306,43.373341,-70.552306,43.373341],
+  "bbox": [
+    -70.552306,
+    43.373341,
+    -70.552306,
+    43.373341
+],
   "geometry": {"coordinates":[-70.552306,43.373341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403827747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.971687,46.701999,-67.971687,46.701999",
     "geom:latitude":46.701999,
     "geom:longitude":-67.971687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Reach Rd",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403827747,
-    "wof:lastmodified":1449055104,
+    "wof:lastmodified":1466586392,
     "wof:name":"Northeast Taxidermy & Trophy",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-67.971687,46.701999,-67.971687,46.701999],
+  "bbox": [
+    -67.971687,
+    46.701999,
+    -67.971687,
+    46.701999
+],
   "geometry": {"coordinates":[-67.971687,46.701999],"type":"Point"}
 }

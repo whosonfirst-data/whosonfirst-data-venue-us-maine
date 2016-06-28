@@ -2,13 +2,14 @@
   "id": 387712135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.292375,43.686282,-70.292375,43.686282",
     "geom:latitude":43.686282,
     "geom:longitude":-70.292375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387712135,
-    "wof:lastmodified":1449057737,
+    "wof:lastmodified":1466586767,
     "wof:name":"Depeters Auto Body",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-70.292375,43.686282,-70.292375,43.686282],
-  "geometry": {"coordinates":[-70.292375,43.686282],"type":"Point"}
+  "bbox": [
+    -70.292375,
+    43.686282,
+    -70.292375,
+    43.686282
+],
+  "geometry": {"coordinates":[-70.29237500000001,43.686282],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404117197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.327778,43.68286,-70.327778,43.68286",
     "geom:latitude":43.68286,
     "geom:longitude":-70.327778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Riverside St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404117197,
-    "wof:lastmodified":1449039947,
+    "wof:lastmodified":1466586250,
     "wof:name":"Dirigo Drywall Assoc",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.327778,43.68286,-70.327778,43.68286],
+  "bbox": [
+    -70.327778,
+    43.68286,
+    -70.327778,
+    43.68286
+],
   "geometry": {"coordinates":[-70.327778,43.68286],"type":"Point"}
 }

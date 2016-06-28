@@ -2,13 +2,14 @@
   "id": 403947043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.749644,44.834575,-68.749644,44.834575",
     "geom:latitude":44.834575,
     "geom:longitude":-68.749644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"753 Stillwater Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403947043,
-    "wof:lastmodified":1449055573,
+    "wof:lastmodified":1466587153,
     "wof:name":"Front Row Video",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "video"
     ]
 },
-  "bbox": [-68.749644,44.834575,-68.749644,44.834575],
+  "bbox": [
+    -68.749644,
+    44.834575,
+    -68.749644,
+    44.834575
+],
   "geometry": {"coordinates":[-68.749644,44.834575],"type":"Point"}
 }

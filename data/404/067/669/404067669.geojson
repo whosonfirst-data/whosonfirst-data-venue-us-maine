@@ -2,13 +2,14 @@
   "id": 404067669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.489709,43.61918,-70.489709,43.61918",
     "geom:latitude":43.61918,
     "geom:longitude":-70.489709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Portland Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404067669,
-    "wof:lastmodified":1449039121,
+    "wof:lastmodified":1466586533,
     "wof:name":"Casey's Quality Cars Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.489709,43.61918,-70.489709,43.61918],
+  "bbox": [
+    -70.489709,
+    43.61918,
+    -70.489709,
+    43.61918
+],
   "geometry": {"coordinates":[-70.489709,43.61918],"type":"Point"}
 }

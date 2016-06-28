@@ -2,13 +2,14 @@
   "id": 387962521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.319688,43.686789,-70.319688,43.686789",
     "geom:latitude":43.686789,
     "geom:longitude":-70.319688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Warren Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387962521,
-    "wof:lastmodified":1449058344,
+    "wof:lastmodified":1466587298,
     "wof:name":"Atlantic Standard Molding",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.319688,43.686789,-70.319688,43.686789],
+  "bbox": [
+    -70.319688,
+    43.686789,
+    -70.319688,
+    43.686789
+],
   "geometry": {"coordinates":[-70.319688,43.686789],"type":"Point"}
 }

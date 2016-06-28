@@ -2,13 +2,14 @@
   "id": 387564583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.790104,44.285762,-69.790104,44.285762",
     "geom:latitude":44.285762,
     "geom:longitude":-69.790104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Water St",
     "sg:city":"Hallowell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387564583,
-    "wof:lastmodified":1449059694,
+    "wof:lastmodified":1466585831,
     "wof:name":"Paper Kicks Inc",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-69.790104,44.285762,-69.790104,44.285762],
+  "bbox": [
+    -69.790104,
+    44.285762,
+    -69.790104,
+    44.285762
+],
   "geometry": {"coordinates":[-69.790104,44.285762],"type":"Point"}
 }

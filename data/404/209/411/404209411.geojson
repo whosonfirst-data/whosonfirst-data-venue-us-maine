@@ -2,13 +2,14 @@
   "id": 404209411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.845347,46.130327,-67.845347,46.130327",
     "geom:latitude":46.130327,
     "geom:longitude":-67.845347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 West St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404209411,
-    "wof:lastmodified":1449040195,
+    "wof:lastmodified":1466587049,
     "wof:name":"Designers Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-67.845347,46.130327,-67.845347,46.130327],
+  "bbox": [
+    -67.845347,
+    46.130327,
+    -67.845347,
+    46.130327
+],
   "geometry": {"coordinates":[-67.845347,46.130327],"type":"Point"}
 }

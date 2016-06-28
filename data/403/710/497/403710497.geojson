@@ -2,13 +2,14 @@
   "id": 403710497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.939516,47.159777,-67.939516,47.159777",
     "geom:latitude":47.159777,
     "geom:longitude":-67.939516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 Main St",
     "sg:city":"St Francis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403710497,
-    "wof:lastmodified":1449054715,
+    "wof:lastmodified":1466585716,
     "wof:name":"Frederick Hafford Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-67.939516,47.159777,-67.939516,47.159777],
+  "bbox": [
+    -67.939516,
+    47.159777,
+    -67.939516,
+    47.159777
+],
   "geometry": {"coordinates":[-67.939516,47.159777],"type":"Point"}
 }

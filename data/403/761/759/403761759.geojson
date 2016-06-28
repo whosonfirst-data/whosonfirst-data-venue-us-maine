@@ -2,13 +2,14 @@
   "id": 403761759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.607081,43.693198,-70.607081,43.693198",
     "geom:latitude":43.693198,
     "geom:longitude":-70.607081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"634 Cape Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403761759,
-    "wof:lastmodified":1449055647,
+    "wof:lastmodified":1466586431,
     "wof:name":"Indian II Fishing Parties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fishing"
     ]
 },
-  "bbox": [-70.607081,43.693198,-70.607081,43.693198],
-  "geometry": {"coordinates":[-70.607081,43.693198],"type":"Point"}
+  "bbox": [
+    -70.607081,
+    43.693198,
+    -70.607081,
+    43.693198
+],
+  "geometry": {"coordinates":[-70.60708099999999,43.693198],"type":"Point"}
 }

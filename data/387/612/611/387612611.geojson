@@ -2,13 +2,14 @@
   "id": 387612611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.283956,43.667189,-70.283956,43.667189",
     "geom:latitude":43.667189,
     "geom:longitude":-70.283956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Deering Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387612611,
-    "wof:lastmodified":1449057789,
+    "wof:lastmodified":1466586536,
     "wof:name":"Carol Lohman",
     "wof:parent_id":85858627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-70.283956,43.667189,-70.283956,43.667189],
+  "bbox": [
+    -70.283956,
+    43.667189,
+    -70.283956,
+    43.667189
+],
   "geometry": {"coordinates":[-70.283956,43.667189],"type":"Point"}
 }

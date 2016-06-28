@@ -2,13 +2,14 @@
   "id": 387658123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.999832,44.420417,-68.999832,44.420417",
     "geom:latitude":44.420417,
     "geom:longitude":-68.999832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Church St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387658123,
-    "wof:lastmodified":1449056032,
+    "wof:lastmodified":1466586091,
     "wof:name":"Pierce Elementary School",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.999832,44.420417,-68.999832,44.420417],
+  "bbox": [
+    -68.999832,
+    44.420417,
+    -68.999832,
+    44.420417
+],
   "geometry": {"coordinates":[-68.999832,44.420417],"type":"Point"}
 }

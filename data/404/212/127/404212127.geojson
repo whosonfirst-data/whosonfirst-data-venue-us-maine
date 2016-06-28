@@ -2,13 +2,14 @@
   "id": 404212127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.217492,44.099096,-70.217492,44.099096",
     "geom:latitude":44.099096,
     "geom:longitude":-70.217492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"183 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404212127,
-    "wof:lastmodified":1449039913,
+    "wof:lastmodified":1466587054,
     "wof:name":"Goulet & Associates Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-70.217492,44.099096,-70.217492,44.099096],
-  "geometry": {"coordinates":[-70.217492,44.099096],"type":"Point"}
+  "bbox": [
+    -70.217492,
+    44.099096,
+    -70.217492,
+    44.099096
+],
+  "geometry": {"coordinates":[-70.21749199999999,44.099096],"type":"Point"}
 }

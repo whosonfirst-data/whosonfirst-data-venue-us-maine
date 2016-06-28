@@ -2,13 +2,14 @@
   "id": 403845727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.661943,44.886906,-68.661943,44.886906",
     "geom:latitude":44.886906,
     "geom:longitude":-68.661943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Pond St",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403845727,
-    "wof:lastmodified":1449054847,
+    "wof:lastmodified":1466586702,
     "wof:name":"Orono Action Association Inc",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "body"
     ]
 },
-  "bbox": [-68.661943,44.886906,-68.661943,44.886906],
-  "geometry": {"coordinates":[-68.661943,44.886906],"type":"Point"}
+  "bbox": [
+    -68.661943,
+    44.886906,
+    -68.661943,
+    44.886906
+],
+  "geometry": {"coordinates":[-68.66194299999999,44.886906],"type":"Point"}
 }

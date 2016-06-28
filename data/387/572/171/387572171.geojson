@@ -2,13 +2,14 @@
   "id": 387572171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.288604,43.8901,-70.288604,43.8901",
     "geom:latitude":43.8901,
     "geom:longitude":-70.288604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Humphrey Heights Ln",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387572171,
-    "wof:lastmodified":1449058434,
+    "wof:lastmodified":1466585911,
     "wof:name":"F Pat Maristany",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.288604,43.8901,-70.288604,43.8901],
-  "geometry": {"coordinates":[-70.288604,43.8901],"type":"Point"}
+  "bbox": [
+    -70.288604,
+    43.8901,
+    -70.288604,
+    43.8901
+],
+  "geometry": {"coordinates":[-70.28860400000001,43.8901],"type":"Point"}
 }

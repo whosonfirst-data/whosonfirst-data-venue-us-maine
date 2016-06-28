@@ -2,13 +2,14 @@
   "id": 387637217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.696803,44.752472,-68.696803,44.752472",
     "geom:latitude":44.752472,
     "geom:longitude":-68.696803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Copeland Hill Rd",
     "sg:city":"Holden",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387637217,
-    "wof:lastmodified":1449056114,
+    "wof:lastmodified":1466586648,
     "wof:name":"Center For Growth & Change",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "family"
     ]
 },
-  "bbox": [-68.696803,44.752472,-68.696803,44.752472],
+  "bbox": [
+    -68.696803,
+    44.752472,
+    -68.696803,
+    44.752472
+],
   "geometry": {"coordinates":[-68.696803,44.752472],"type":"Point"}
 }

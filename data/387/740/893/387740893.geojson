@@ -2,13 +2,14 @@
   "id": 387740893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.583933,44.770925,-68.583933,44.770925",
     "geom:latitude":44.770925,
     "geom:longitude":-68.583933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Hatcase Pond Rd",
     "sg:city":"Eddington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387740893,
-    "wof:lastmodified":1449057824,
+    "wof:lastmodified":1466586863,
     "wof:name":"David R Merritt AIA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-68.583933,44.770925,-68.583933,44.770925],
+  "bbox": [
+    -68.583933,
+    44.770925,
+    -68.583933,
+    44.770925
+],
   "geometry": {"coordinates":[-68.583933,44.770925],"type":"Point"}
 }

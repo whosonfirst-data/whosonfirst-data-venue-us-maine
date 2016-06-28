@@ -2,13 +2,14 @@
   "id": 387601395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.166165,44.177946,-70.166165,44.177946",
     "geom:latitude":44.177946,
     "geom:longitude":-70.166165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Sullivan Rd",
     "sg:city":"Greene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387601395,
-    "wof:lastmodified":1449057807,
+    "wof:lastmodified":1466586355,
     "wof:name":"Lindy's Auto Repair & Sales",
     "wof:parent_id":85819719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.166165,44.177946,-70.166165,44.177946],
-  "geometry": {"coordinates":[-70.166165,44.177946],"type":"Point"}
+  "bbox": [
+    -70.166165,
+    44.177946,
+    -70.166165,
+    44.177946
+],
+  "geometry": {"coordinates":[-70.16616500000001,44.177946],"type":"Point"}
 }

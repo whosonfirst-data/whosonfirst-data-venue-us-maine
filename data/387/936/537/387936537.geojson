@@ -2,13 +2,14 @@
   "id": 387936537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.103472,43.832611,-70.103472,43.832611",
     "geom:latitude":43.832611,
     "geom:longitude":-70.103472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 S Freeport Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387936537,
-    "wof:lastmodified":1449057367,
+    "wof:lastmodified":1466587269,
     "wof:name":"Brann Building & Remodeling",
     "wof:parent_id":85813291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.103472,43.832611,-70.103472,43.832611],
+  "bbox": [
+    -70.103472,
+    43.832611,
+    -70.103472,
+    43.832611
+],
   "geometry": {"coordinates":[-70.103472,43.832611],"type":"Point"}
 }

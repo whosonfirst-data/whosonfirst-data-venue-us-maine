@@ -2,13 +2,14 @@
   "id": 387763463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.376524,43.444846,-70.376524,43.444846",
     "geom:latitude":43.444846,
     "geom:longitude":-70.376524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Oceanview Dr",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387763463,
-    "wof:lastmodified":1449059907,
+    "wof:lastmodified":1466587046,
     "wof:name":"Pine Tree Educational Svc",
     "wof:parent_id":85825543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "educational"
     ]
 },
-  "bbox": [-70.376524,43.444846,-70.376524,43.444846],
+  "bbox": [
+    -70.376524,
+    43.444846,
+    -70.376524,
+    43.444846
+],
   "geometry": {"coordinates":[-70.376524,43.444846],"type":"Point"}
 }

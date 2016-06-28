@@ -2,13 +2,14 @@
   "id": 404119345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.991694,44.911431,-66.991694,44.911431",
     "geom:latitude":44.911431,
     "geom:longitude":-66.991694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 High St",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404119345,
-    "wof:lastmodified":1449039982,
+    "wof:lastmodified":1466586287,
     "wof:name":"Eastport Supt Of Schools",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-66.991694,44.911431,-66.991694,44.911431],
+  "bbox": [
+    -66.991694,
+    44.911431,
+    -66.991694,
+    44.911431
+],
   "geometry": {"coordinates":[-66.991694,44.911431],"type":"Point"}
 }

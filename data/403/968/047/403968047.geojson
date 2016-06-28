@@ -2,13 +2,14 @@
   "id": 403968047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.291333,43.984606,-70.291333,43.984606",
     "geom:latitude":43.984606,
     "geom:longitude":-70.291333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Intervale Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403968047,
-    "wof:lastmodified":1449054718,
+    "wof:lastmodified":1466587122,
     "wof:name":"Learning Tree Child Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.291333,43.984606,-70.291333,43.984606],
-  "geometry": {"coordinates":[-70.291333,43.984606],"type":"Point"}
+  "bbox": [
+    -70.291333,
+    43.984606,
+    -70.291333,
+    43.984606
+],
+  "geometry": {"coordinates":[-70.29133299999999,43.984606],"type":"Point"}
 }

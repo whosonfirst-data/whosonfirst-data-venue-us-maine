@@ -2,13 +2,14 @@
   "id": 403770121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.579102,45.626617,-68.579102,45.626617",
     "geom:latitude":45.626617,
     "geom:longitude":-68.579102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Main St",
     "sg:city":"East Millinocket",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403770121,
-    "wof:lastmodified":1449056002,
+    "wof:lastmodified":1466586533,
     "wof:name":"Rick's Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.579102,45.626617,-68.579102,45.626617],
-  "geometry": {"coordinates":[-68.579102,45.626617],"type":"Point"}
+  "bbox": [
+    -68.579102,
+    45.626617,
+    -68.579102,
+    45.626617
+],
+  "geometry": {"coordinates":[-68.57910200000001,45.626617],"type":"Point"}
 }

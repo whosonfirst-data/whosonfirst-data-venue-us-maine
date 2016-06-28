@@ -2,13 +2,14 @@
   "id": 403914835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.261822,43.655239,-70.261822,43.655239",
     "geom:latitude":43.655239,
     "geom:longitude":-70.261822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"574 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403914835,
-    "wof:lastmodified":1449055133,
+    "wof:lastmodified":1466586963,
     "wof:name":"4 Real Magazine",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-70.261822,43.655239,-70.261822,43.655239],
+  "bbox": [
+    -70.261822,
+    43.655239,
+    -70.261822,
+    43.655239
+],
   "geometry": {"coordinates":[-70.261822,43.655239],"type":"Point"}
 }

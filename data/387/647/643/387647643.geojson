@@ -2,13 +2,14 @@
   "id": 387647643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.226613,43.589575,-70.226613,43.589575",
     "geom:latitude":43.589575,
     "geom:longitude":-70.226613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Fowler Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387647643,
-    "wof:lastmodified":1449057904,
+    "wof:lastmodified":1466585966,
     "wof:name":"Shady Oak Farm",
     "wof:parent_id":85824889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.226613,43.589575,-70.226613,43.589575],
+  "bbox": [
+    -70.226613,
+    43.589575,
+    -70.226613,
+    43.589575
+],
   "geometry": {"coordinates":[-70.226613,43.589575],"type":"Point"}
 }

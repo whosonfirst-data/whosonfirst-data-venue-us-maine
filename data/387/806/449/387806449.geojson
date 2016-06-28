@@ -2,13 +2,14 @@
   "id": 387806449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.287821,43.699503,-70.287821,43.699503",
     "geom:latitude":43.699503,
     "geom:longitude":-70.287821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Washington Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387806449,
-    "wof:lastmodified":1449056102,
+    "wof:lastmodified":1466587075,
     "wof:name":"Heritage Of Maine",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-70.287821,43.699503,-70.287821,43.699503],
-  "geometry": {"coordinates":[-70.287821,43.699503],"type":"Point"}
+  "bbox": [
+    -70.287821,
+    43.699503,
+    -70.287821,
+    43.699503
+],
+  "geometry": {"coordinates":[-70.28782099999999,43.699503],"type":"Point"}
 }

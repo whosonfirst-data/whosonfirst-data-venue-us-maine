@@ -2,13 +2,14 @@
   "id": 403810873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.226491,44.097445,-70.226491,44.097445",
     "geom:latitude":44.097445,
     "geom:longitude":-70.226491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Court St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403810873,
-    "wof:lastmodified":1449055033,
+    "wof:lastmodified":1466586119,
     "wof:name":"Reid's Gun Shop",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-70.226491,44.097445,-70.226491,44.097445],
+  "bbox": [
+    -70.226491,
+    44.097445,
+    -70.226491,
+    44.097445
+],
   "geometry": {"coordinates":[-70.226491,44.097445],"type":"Point"}
 }

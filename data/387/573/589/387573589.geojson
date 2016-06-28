@@ -2,13 +2,14 @@
   "id": 387573589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.473912,43.366805,-70.473912,43.366805",
     "geom:latitude":43.366805,
     "geom:longitude":-70.473912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Meserve Ln",
     "sg:city":"Limington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387573589,
-    "wof:lastmodified":1449058913,
+    "wof:lastmodified":1466585938,
     "wof:name":"National Center-The Study Hsty",
     "wof:parent_id":85812189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.473912,43.366805,-70.473912,43.366805],
+  "bbox": [
+    -70.473912,
+    43.366805,
+    -70.473912,
+    43.366805
+],
   "geometry": {"coordinates":[-70.473912,43.366805],"type":"Point"}
 }

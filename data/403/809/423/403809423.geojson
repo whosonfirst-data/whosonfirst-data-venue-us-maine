@@ -2,13 +2,14 @@
   "id": 403809423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.462156,43.802618,-70.462156,43.802618",
     "geom:latitude":43.802618,
     "geom:longitude":-70.462156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Standish Neck Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403809423,
-    "wof:lastmodified":1449055725,
+    "wof:lastmodified":1466586095,
     "wof:name":"United Church Of Christ",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.462156,43.802618,-70.462156,43.802618],
-  "geometry": {"coordinates":[-70.462156,43.802618],"type":"Point"}
+  "bbox": [
+    -70.462156,
+    43.802618,
+    -70.462156,
+    43.802618
+],
+  "geometry": {"coordinates":[-70.46215599999999,43.802618],"type":"Point"}
 }

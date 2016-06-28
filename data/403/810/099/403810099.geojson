@@ -2,13 +2,14 @@
   "id": 403810099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.211542,43.576221,-70.211542,43.576221",
     "geom:latitude":43.576221,
     "geom:longitude":-70.211542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Ledgewood Ln",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403810099,
-    "wof:lastmodified":1449055033,
+    "wof:lastmodified":1466586106,
     "wof:name":"Llad Consulting Inc",
     "wof:parent_id":85867971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.211542,43.576221,-70.211542,43.576221],
-  "geometry": {"coordinates":[-70.211542,43.576221],"type":"Point"}
+  "bbox": [
+    -70.211542,
+    43.576221,
+    -70.211542,
+    43.576221
+],
+  "geometry": {"coordinates":[-70.21154199999999,43.576221],"type":"Point"}
 }

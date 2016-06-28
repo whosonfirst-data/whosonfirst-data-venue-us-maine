@@ -2,13 +2,14 @@
   "id": 387773357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.840809,46.112106,-67.840809,46.112106",
     "geom:latitude":46.112106,
     "geom:longitude":-67.840809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Old Calais Rd",
     "sg:city":"Hodgdon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387773357,
-    "wof:lastmodified":1449056591,
+    "wof:lastmodified":1466586981,
     "wof:name":"Benn Auto Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-67.840809,46.112106,-67.840809,46.112106],
-  "geometry": {"coordinates":[-67.840809,46.112106],"type":"Point"}
+  "bbox": [
+    -67.840809,
+    46.112106,
+    -67.840809,
+    46.112106
+],
+  "geometry": {"coordinates":[-67.84080899999999,46.112106],"type":"Point"}
 }

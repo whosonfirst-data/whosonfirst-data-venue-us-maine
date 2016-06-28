@@ -2,13 +2,14 @@
   "id": 404019507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.367041,44.170937,-70.367041,44.170937",
     "geom:latitude":44.170937,
     "geom:longitude":-70.367041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"758 W Minot Rd",
     "sg:city":"West Minot",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404019507,
-    "wof:lastmodified":1449039820,
+    "wof:lastmodified":1466585888,
     "wof:name":"Slattery's Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-70.367041,44.170937,-70.367041,44.170937],
+  "bbox": [
+    -70.367041,
+    44.170937,
+    -70.367041,
+    44.170937
+],
   "geometry": {"coordinates":[-70.367041,44.170937],"type":"Point"}
 }

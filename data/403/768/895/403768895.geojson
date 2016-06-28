@@ -2,13 +2,14 @@
   "id": 403768895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.385251,43.525048,-70.385251,43.525048",
     "geom:latitude":43.525048,
     "geom:longitude":-70.385251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Hilltop Dr",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403768895,
-    "wof:lastmodified":1449055143,
+    "wof:lastmodified":1466586515,
     "wof:name":"Loading Dock Equipment-Maine",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "handling"
     ]
 },
-  "bbox": [-70.385251,43.525048,-70.385251,43.525048],
+  "bbox": [
+    -70.385251,
+    43.525048,
+    -70.385251,
+    43.525048
+],
   "geometry": {"coordinates":[-70.385251,43.525048],"type":"Point"}
 }

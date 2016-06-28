@@ -2,13 +2,14 @@
   "id": 387611257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.594485,43.479529,-70.594485,43.479529",
     "geom:latitude":43.479529,
     "geom:longitude":-70.594485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Alfred St",
     "sg:city":"Lyman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387611257,
-    "wof:lastmodified":1449059107,
+    "wof:lastmodified":1466586519,
     "wof:name":"Concord Homes",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.594485,43.479529,-70.594485,43.479529],
-  "geometry": {"coordinates":[-70.594485,43.479529],"type":"Point"}
+  "bbox": [
+    -70.594485,
+    43.479529,
+    -70.594485,
+    43.479529
+],
+  "geometry": {"coordinates":[-70.59448500000001,43.479529],"type":"Point"}
 }

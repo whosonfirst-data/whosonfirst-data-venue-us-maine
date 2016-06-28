@@ -2,13 +2,14 @@
   "id": 404045211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.893079,44.009523,-69.893079,44.009523",
     "geom:latitude":44.009523,
     "geom:longitude":-69.893079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 River Rd",
     "sg:city":"Bowdoinham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404045211,
-    "wof:lastmodified":1449040179,
+    "wof:lastmodified":1466586187,
     "wof:name":"Bowdoinham Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-69.893079,44.009523,-69.893079,44.009523],
+  "bbox": [
+    -69.893079,
+    44.009523,
+    -69.893079,
+    44.009523
+],
   "geometry": {"coordinates":[-69.893079,44.009523],"type":"Point"}
 }

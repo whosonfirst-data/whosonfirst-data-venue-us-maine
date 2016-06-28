@@ -2,13 +2,14 @@
   "id": 403711447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.379434,43.510579,-70.379434,43.510579",
     "geom:latitude":43.510579,
     "geom:longitude":-70.379434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"84 1st St",
     "sg:city":"Old Orchard Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403711447,
-    "wof:lastmodified":1449055725,
+    "wof:lastmodified":1466585743,
     "wof:name":"Sands Motel-Townhouses",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-70.379434,43.510579,-70.379434,43.510579],
+  "bbox": [
+    -70.379434,
+    43.510579,
+    -70.379434,
+    43.510579
+],
   "geometry": {"coordinates":[-70.379434,43.510579],"type":"Point"}
 }

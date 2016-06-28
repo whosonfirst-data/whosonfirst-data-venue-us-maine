@@ -2,13 +2,14 @@
   "id": 387968077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.471871,43.487509,-70.471871,43.487509",
     "geom:latitude":43.487509,
     "geom:longitude":-70.471871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 May St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387968077,
-    "wof:lastmodified":1449056351,
+    "wof:lastmodified":1466587303,
     "wof:name":"Gagnon Assoc",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.471871,43.487509,-70.471871,43.487509],
-  "geometry": {"coordinates":[-70.471871,43.487509],"type":"Point"}
+  "bbox": [
+    -70.471871,
+    43.487509,
+    -70.471871,
+    43.487509
+],
+  "geometry": {"coordinates":[-70.47187099999999,43.487509],"type":"Point"}
 }

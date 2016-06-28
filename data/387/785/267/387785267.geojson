@@ -2,13 +2,14 @@
   "id": 387785267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.265483,43.656861,-70.265483,43.656861",
     "geom:latitude":43.656861,
     "geom:longitude":-70.265483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387785267,
-    "wof:lastmodified":1449059273,
+    "wof:lastmodified":1466587000,
     "wof:name":"Del Mar Management Inc",
     "wof:parent_id":85880027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-70.265483,43.656861,-70.265483,43.656861],
+  "bbox": [
+    -70.265483,
+    43.656861,
+    -70.265483,
+    43.656861
+],
   "geometry": {"coordinates":[-70.265483,43.656861],"type":"Point"}
 }

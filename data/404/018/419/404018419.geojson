@@ -2,13 +2,14 @@
   "id": 404018419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.420143,43.517369,-70.420143,43.517369",
     "geom:latitude":43.517369,
     "geom:longitude":-70.420143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Ross Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404018419,
-    "wof:lastmodified":1449039696,
+    "wof:lastmodified":1466585874,
     "wof:name":"Nasco Automotive Machine Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shop"
     ]
 },
-  "bbox": [-70.420143,43.517369,-70.420143,43.517369],
+  "bbox": [
+    -70.420143,
+    43.517369,
+    -70.420143,
+    43.517369
+],
   "geometry": {"coordinates":[-70.420143,43.517369],"type":"Point"}
 }

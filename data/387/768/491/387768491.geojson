@@ -2,13 +2,14 @@
   "id": 387768491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.815516,44.783593,-68.815516,44.783593",
     "geom:latitude":44.783593,
     "geom:longitude":-68.815516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Odlin Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387768491,
-    "wof:lastmodified":1449057569,
+    "wof:lastmodified":1466586963,
     "wof:name":"Edward Parker Homes",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "modular"
     ]
 },
-  "bbox": [-68.815516,44.783593,-68.815516,44.783593],
+  "bbox": [
+    -68.815516,
+    44.783593,
+    -68.815516,
+    44.783593
+],
   "geometry": {"coordinates":[-68.815516,44.783593],"type":"Point"}
 }

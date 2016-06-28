@@ -2,13 +2,14 @@
   "id": 387807899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.24821,43.670324,-70.24821,43.670324",
     "geom:latitude":43.670324,
     "geom:longitude":-70.24821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"288 Eastern Promenade",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387807899,
-    "wof:lastmodified":1449057079,
+    "wof:lastmodified":1466587083,
     "wof:name":"Youth Alternatives Of S Maine",
     "wof:parent_id":85816267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "group"
     ]
 },
-  "bbox": [-70.24821,43.670324,-70.24821,43.670324],
+  "bbox": [
+    -70.24821,
+    43.670324,
+    -70.24821,
+    43.670324
+],
   "geometry": {"coordinates":[-70.24821,43.670324],"type":"Point"}
 }

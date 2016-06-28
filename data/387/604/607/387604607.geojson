@@ -2,13 +2,14 @@
   "id": 387604607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.169205,43.83866,-70.169205,43.83866",
     "geom:latitude":43.83866,
     "geom:longitude":-70.169205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"787 Granite St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387604607,
-    "wof:lastmodified":1449059475,
+    "wof:lastmodified":1466586401,
     "wof:name":"Sawyer Builders",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.169205,43.83866,-70.169205,43.83866],
-  "geometry": {"coordinates":[-70.169205,43.83866],"type":"Point"}
+  "bbox": [
+    -70.169205,
+    43.83866,
+    -70.169205,
+    43.83866
+],
+  "geometry": {"coordinates":[-70.16920500000001,43.83866],"type":"Point"}
 }

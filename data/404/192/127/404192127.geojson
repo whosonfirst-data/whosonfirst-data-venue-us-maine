@@ -2,13 +2,14 @@
   "id": 404192127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.813383,43.787674,-69.813383,43.787674",
     "geom:latitude":43.787674,
     "geom:longitude":-69.813383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Redford Kelley Ln",
     "sg:city":"Phippsburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404192127,
-    "wof:lastmodified":1449039979,
+    "wof:lastmodified":1466586891,
     "wof:name":"Hi-Tech Communications",
     "wof:parent_id":85847641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-69.813383,43.787674,-69.813383,43.787674],
+  "bbox": [
+    -69.813383,
+    43.787674,
+    -69.813383,
+    43.787674
+],
   "geometry": {"coordinates":[-69.813383,43.787674],"type":"Point"}
 }

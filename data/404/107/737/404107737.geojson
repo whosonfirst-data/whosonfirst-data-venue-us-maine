@@ -2,13 +2,14 @@
   "id": 404107737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.841644,46.128974,-67.841644,46.128974",
     "geom:latitude":46.128974,
     "geom:longitude":-67.841644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 North St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404107737,
-    "wof:lastmodified":1449039091,
+    "wof:lastmodified":1466586109,
     "wof:name":"Portland Glass Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-67.841644,46.128974,-67.841644,46.128974],
+  "bbox": [
+    -67.841644,
+    46.128974,
+    -67.841644,
+    46.128974
+],
   "geometry": {"coordinates":[-67.841644,46.128974],"type":"Point"}
 }

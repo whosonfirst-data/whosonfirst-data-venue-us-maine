@@ -2,13 +2,14 @@
   "id": 387601411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.878347,43.27587,-70.878347,43.27587",
     "geom:latitude":43.27587,
     "geom:longitude":-70.878347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Rochester St",
     "sg:city":"Berwick",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387601411,
-    "wof:lastmodified":1449057805,
+    "wof:lastmodified":1466586356,
     "wof:name":"Berwick Public Works Garage",
     "wof:parent_id":85892311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-70.878347,43.27587,-70.878347,43.27587],
-  "geometry": {"coordinates":[-70.878347,43.27587],"type":"Point"}
+  "bbox": [
+    -70.878347,
+    43.27587,
+    -70.878347,
+    43.27587
+],
+  "geometry": {"coordinates":[-70.87834700000001,43.27587],"type":"Point"}
 }

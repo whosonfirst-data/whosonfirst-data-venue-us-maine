@@ -2,13 +2,14 @@
   "id": 387622991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.299605,43.705,-70.299605,43.705",
     "geom:latitude":43.705,
     "geom:longitude":-70.299605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Northwood Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387622991,
-    "wof:lastmodified":1449059235,
+    "wof:lastmodified":1466585733,
     "wof:name":"Marchands Design",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-70.299605,43.705,-70.299605,43.705],
+  "bbox": [
+    -70.299605,
+    43.705,
+    -70.299605,
+    43.705
+],
   "geometry": {"coordinates":[-70.299605,43.705],"type":"Point"}
 }

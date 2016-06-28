@@ -2,13 +2,14 @@
   "id": 387963599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.596209,43.395283,-70.596209,43.395283",
     "geom:latitude":43.395283,
     "geom:longitude":-70.596209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Amanda Dr",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387963599,
-    "wof:lastmodified":1449056471,
+    "wof:lastmodified":1466587347,
     "wof:name":"Housecall Hairstyling",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.596209,43.395283,-70.596209,43.395283],
+  "bbox": [
+    -70.596209,
+    43.395283,
+    -70.596209,
+    43.395283
+],
   "geometry": {"coordinates":[-70.596209,43.395283],"type":"Point"}
 }

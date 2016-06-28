@@ -2,13 +2,14 @@
   "id": 387814465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.508655,43.895609,-70.508655,43.895609",
     "geom:latitude":43.895609,
     "geom:longitude":-70.508655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Jewett Rd",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387814465,
-    "wof:lastmodified":1449056797,
+    "wof:lastmodified":1466587172,
     "wof:name":"Quality Billing Management",
     "wof:parent_id":85841571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-70.508655,43.895609,-70.508655,43.895609],
+  "bbox": [
+    -70.508655,
+    43.895609,
+    -70.508655,
+    43.895609
+],
   "geometry": {"coordinates":[-70.508655,43.895609],"type":"Point"}
 }

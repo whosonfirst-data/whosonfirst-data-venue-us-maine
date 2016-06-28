@@ -2,13 +2,14 @@
   "id": 403931217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.227807,43.605726,-70.227807,43.605726",
     "geom:latitude":43.605726,
     "geom:longitude":-70.227807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Cranbrook Dr",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403931217,
-    "wof:lastmodified":1449055848,
+    "wof:lastmodified":1466587027,
     "wof:name":"Writing Graphic Design",
     "wof:parent_id":85867971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-70.227807,43.605726,-70.227807,43.605726],
+  "bbox": [
+    -70.227807,
+    43.605726,
+    -70.227807,
+    43.605726
+],
   "geometry": {"coordinates":[-70.227807,43.605726],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387782895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.521282,44.220821,-70.521282,44.220821",
     "geom:latitude":44.220821,
     "geom:longitude":-70.521282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Western Promenade St",
     "sg:city":"South Paris",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387782895,
-    "wof:lastmodified":1449056098,
+    "wof:lastmodified":1466587010,
     "wof:name":"Cullinan Realty Management Co",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.521282,44.220821,-70.521282,44.220821],
+  "bbox": [
+    -70.521282,
+    44.220821,
+    -70.521282,
+    44.220821
+],
   "geometry": {"coordinates":[-70.521282,44.220821],"type":"Point"}
 }

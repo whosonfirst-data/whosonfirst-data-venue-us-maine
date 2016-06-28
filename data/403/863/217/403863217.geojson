@@ -2,13 +2,14 @@
   "id": 403863217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.299978,43.964174,-70.299978,43.964174",
     "geom:latitude":43.964174,
     "geom:longitude":-70.299978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Birchwood Acres",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403863217,
-    "wof:lastmodified":1449055529,
+    "wof:lastmodified":1466586751,
     "wof:name":"Precision Data Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-70.299978,43.964174,-70.299978,43.964174],
+  "bbox": [
+    -70.299978,
+    43.964174,
+    -70.299978,
+    43.964174
+],
   "geometry": {"coordinates":[-70.299978,43.964174],"type":"Point"}
 }

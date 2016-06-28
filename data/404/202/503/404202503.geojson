@@ -2,13 +2,14 @@
   "id": 404202503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.713453,44.054221,-70.713453,44.054221",
     "geom:latitude":44.054221,
     "geom:longitude":-70.713453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Main St",
     "sg:city":"Bridgton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404202503,
-    "wof:lastmodified":1449040169,
+    "wof:lastmodified":1466586928,
     "wof:name":"Vance's Driving School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "driving"
     ]
 },
-  "bbox": [-70.713453,44.054221,-70.713453,44.054221],
+  "bbox": [
+    -70.713453,
+    44.054221,
+    -70.713453,
+    44.054221
+],
   "geometry": {"coordinates":[-70.713453,44.054221],"type":"Point"}
 }

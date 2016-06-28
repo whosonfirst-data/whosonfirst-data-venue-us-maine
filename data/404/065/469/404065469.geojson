@@ -2,13 +2,14 @@
   "id": 404065469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.060794,46.680779,-68.060794,46.680779",
     "geom:latitude":46.680779,
     "geom:longitude":-68.060794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 Mapleton Rd",
     "sg:city":"Mapleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404065469,
-    "wof:lastmodified":1449040321,
+    "wof:lastmodified":1466586508,
     "wof:name":"Guerin Associates LLC",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "remediation"
     ]
 },
-  "bbox": [-68.060794,46.680779,-68.060794,46.680779],
+  "bbox": [
+    -68.060794,
+    46.680779,
+    -68.060794,
+    46.680779
+],
   "geometry": {"coordinates":[-68.060794,46.680779],"type":"Point"}
 }

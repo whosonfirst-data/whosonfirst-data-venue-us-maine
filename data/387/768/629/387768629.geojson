@@ -2,13 +2,14 @@
   "id": 387768629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.731647,43.637624,-70.731647,43.637624",
     "geom:latitude":43.637624,
     "geom:longitude":-70.731647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 Ridgeway Cir",
     "sg:city":"Waterboro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387768629,
-    "wof:lastmodified":1449057570,
+    "wof:lastmodified":1466586965,
     "wof:name":"Maine State Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-70.731647,43.637624,-70.731647,43.637624],
+  "bbox": [
+    -70.731647,
+    43.637624,
+    -70.731647,
+    43.637624
+],
   "geometry": {"coordinates":[-70.731647,43.637624],"type":"Point"}
 }

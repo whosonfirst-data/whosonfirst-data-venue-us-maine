@@ -2,13 +2,14 @@
   "id": 387950449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.227201,44.269005,-70.227201,44.269005",
     "geom:latitude":44.269005,
     "geom:longitude":-70.227201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Matthews Way",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387950449,
-    "wof:lastmodified":1449057589,
+    "wof:lastmodified":1466587200,
     "wof:name":"Leavitt Area High School",
     "wof:parent_id":85852835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.227201,44.269005,-70.227201,44.269005],
-  "geometry": {"coordinates":[-70.227201,44.269005],"type":"Point"}
+  "bbox": [
+    -70.227201,
+    44.269005,
+    -70.227201,
+    44.269005
+],
+  "geometry": {"coordinates":[-70.22720099999999,44.269005],"type":"Point"}
 }

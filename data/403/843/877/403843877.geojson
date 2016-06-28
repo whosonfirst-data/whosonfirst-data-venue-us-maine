@@ -2,13 +2,14 @@
   "id": 403843877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.006732,44.428294,-69.006732,44.428294",
     "geom:latitude":44.428294,
     "geom:longitude":-69.006732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Front St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403843877,
-    "wof:lastmodified":1449054752,
+    "wof:lastmodified":1466586817,
     "wof:name":"McDonald Restoration",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.006732,44.428294,-69.006732,44.428294],
+  "bbox": [
+    -69.006732,
+    44.428294,
+    -69.006732,
+    44.428294
+],
   "geometry": {"coordinates":[-69.006732,44.428294],"type":"Point"}
 }

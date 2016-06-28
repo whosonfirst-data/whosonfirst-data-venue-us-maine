@@ -2,13 +2,14 @@
   "id": 404101631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.803857,46.711035,-67.803857,46.711035",
     "geom:latitude":46.711035,
     "geom:longitude":-67.803857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Dorsey Rd",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404101631,
-    "wof:lastmodified":1449039753,
+    "wof:lastmodified":1466586019,
     "wof:name":"Triple T Tree Farms",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "christmas"
     ]
 },
-  "bbox": [-67.803857,46.711035,-67.803857,46.711035],
-  "geometry": {"coordinates":[-67.803857,46.711035],"type":"Point"}
+  "bbox": [
+    -67.803857,
+    46.711035,
+    -67.803857,
+    46.711035
+],
+  "geometry": {"coordinates":[-67.80385699999999,46.711035],"type":"Point"}
 }

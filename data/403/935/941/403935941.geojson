@@ -2,13 +2,14 @@
   "id": 403935941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.753842,43.114942,-70.753842,43.114942",
     "geom:latitude":43.114942,
     "geom:longitude":-70.753842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Fernald Rd",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403935941,
-    "wof:lastmodified":1449055732,
+    "wof:lastmodified":1466587126,
     "wof:name":"A Dog's Tale",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-70.753842,43.114942,-70.753842,43.114942],
-  "geometry": {"coordinates":[-70.753842,43.114942],"type":"Point"}
+  "bbox": [
+    -70.753842,
+    43.114942,
+    -70.753842,
+    43.114942
+],
+  "geometry": {"coordinates":[-70.75384200000001,43.114942],"type":"Point"}
 }

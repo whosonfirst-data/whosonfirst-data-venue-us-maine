@@ -2,13 +2,14 @@
   "id": 403710743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.793596,44.313155,-69.793596,44.313155",
     "geom:latitude":44.313155,
     "geom:longitude":-69.793596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Mulliken Ct",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403710743,
-    "wof:lastmodified":1449054715,
+    "wof:lastmodified":1466585721,
     "wof:name":"Maine Associate Of Substance",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.793596,44.313155,-69.793596,44.313155],
-  "geometry": {"coordinates":[-69.793596,44.313155],"type":"Point"}
+  "bbox": [
+    -69.793596,
+    44.313155,
+    -69.793596,
+    44.313155
+],
+  "geometry": {"coordinates":[-69.79359599999999,44.313155],"type":"Point"}
 }

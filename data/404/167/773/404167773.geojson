@@ -2,13 +2,14 @@
   "id": 404167773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.344075,44.033334,-69.344075,44.033334",
     "geom:latitude":44.033334,
     "geom:longitude":-69.344075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"452 Back Cove Rd",
     "sg:city":"Waldoboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404167773,
-    "wof:lastmodified":1449039725,
+    "wof:lastmodified":1466586785,
     "wof:name":"Powell's Marine Transport",
     "wof:parent_id":85850173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "boat"
     ]
 },
-  "bbox": [-69.344075,44.033334,-69.344075,44.033334],
+  "bbox": [
+    -69.344075,
+    44.033334,
+    -69.344075,
+    44.033334
+],
   "geometry": {"coordinates":[-69.344075,44.033334],"type":"Point"}
 }

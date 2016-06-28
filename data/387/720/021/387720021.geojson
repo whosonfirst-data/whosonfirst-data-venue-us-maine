@@ -2,13 +2,14 @@
   "id": 387720021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.280085,43.705365,-70.280085,43.705365",
     "geom:latitude":43.705365,
     "geom:longitude":-70.280085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Virginia St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387720021,
-    "wof:lastmodified":1449057013,
+    "wof:lastmodified":1466586883,
     "wof:name":"David Di Pietro",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-70.280085,43.705365,-70.280085,43.705365],
+  "bbox": [
+    -70.280085,
+    43.705365,
+    -70.280085,
+    43.705365
+],
   "geometry": {"coordinates":[-70.280085,43.705365],"type":"Point"}
 }

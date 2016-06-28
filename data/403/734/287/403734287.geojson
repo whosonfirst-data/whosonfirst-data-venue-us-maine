@@ -2,13 +2,14 @@
   "id": 403734287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.489285,43.61935,-70.489285,43.61935",
     "geom:latitude":43.61935,
     "geom:longitude":-70.489285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 Portland Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403734287,
-    "wof:lastmodified":1449055802,
+    "wof:lastmodified":1466586023,
     "wof:name":"Eva's Getty Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-70.489285,43.61935,-70.489285,43.61935],
+  "bbox": [
+    -70.489285,
+    43.61935,
+    -70.489285,
+    43.61935
+],
   "geometry": {"coordinates":[-70.489285,43.61935],"type":"Point"}
 }

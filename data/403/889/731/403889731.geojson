@@ -2,13 +2,14 @@
   "id": 403889731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.204134,44.111399,-70.204134,44.111399",
     "geom:latitude":44.111399,
     "geom:longitude":-70.204134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Pettingill St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403889731,
-    "wof:lastmodified":1449054609,
+    "wof:lastmodified":1466586797,
     "wof:name":"B & B Concessions",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.204134,44.111399,-70.204134,44.111399],
+  "bbox": [
+    -70.204134,
+    44.111399,
+    -70.204134,
+    44.111399
+],
   "geometry": {"coordinates":[-70.204134,44.111399],"type":"Point"}
 }

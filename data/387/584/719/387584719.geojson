@@ -2,13 +2,14 @@
   "id": 387584719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.181628,43.798539,-70.181628,43.798539",
     "geom:latitude":43.798539,
     "geom:longitude":-70.181628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Main St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387584719,
-    "wof:lastmodified":1449056524,
+    "wof:lastmodified":1466586080,
     "wof:name":"Svetlana Tailoring & Design",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tailor"
     ]
 },
-  "bbox": [-70.181628,43.798539,-70.181628,43.798539],
+  "bbox": [
+    -70.181628,
+    43.798539,
+    -70.181628,
+    43.798539
+],
   "geometry": {"coordinates":[-70.181628,43.798539],"type":"Point"}
 }

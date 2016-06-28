@@ -2,13 +2,14 @@
   "id": 403935835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.337299,44.292025,-68.337299,44.292025",
     "geom:latitude":44.292025,
     "geom:longitude":-68.337299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Spring Brook Ln",
     "sg:city":"Surry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403935835,
-    "wof:lastmodified":1449055727,
+    "wof:lastmodified":1466587044,
     "wof:name":"Dave Warren Consulting",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forester"
     ]
 },
-  "bbox": [-68.337299,44.292025,-68.337299,44.292025],
+  "bbox": [
+    -68.337299,
+    44.292025,
+    -68.337299,
+    44.292025
+],
   "geometry": {"coordinates":[-68.337299,44.292025],"type":"Point"}
 }

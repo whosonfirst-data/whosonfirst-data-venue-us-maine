@@ -2,13 +2,14 @@
   "id": 387909437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.228387,45.181914,-69.228387,45.181914",
     "geom:latitude":45.181914,
     "geom:longitude":-69.228387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 High St",
     "sg:city":"Dover Foxcroft",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387909437,
-    "wof:lastmodified":1449058970,
+    "wof:lastmodified":1466587319,
     "wof:name":"Wildflowers Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-69.228387,45.181914,-69.228387,45.181914],
+  "bbox": [
+    -69.228387,
+    45.181914,
+    -69.228387,
+    45.181914
+],
   "geometry": {"coordinates":[-69.228387,45.181914],"type":"Point"}
 }

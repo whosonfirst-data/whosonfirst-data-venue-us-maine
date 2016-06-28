@@ -2,13 +2,14 @@
   "id": 404209135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.780241,44.805609,-68.780241,44.805609",
     "geom:latitude":44.805609,
     "geom:longitude":-68.780241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Ohio St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404209135,
-    "wof:lastmodified":1449040197,
+    "wof:lastmodified":1466586955,
     "wof:name":"Young's Market",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-68.780241,44.805609,-68.780241,44.805609],
+  "bbox": [
+    -68.780241,
+    44.805609,
+    -68.780241,
+    44.805609
+],
   "geometry": {"coordinates":[-68.780241,44.805609],"type":"Point"}
 }

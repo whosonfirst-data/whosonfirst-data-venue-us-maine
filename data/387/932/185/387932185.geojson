@@ -2,13 +2,14 @@
   "id": 387932185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.916305,44.260756,-68.916305,44.260756",
     "geom:latitude":44.260756,
     "geom:longitude":-68.916305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Derby Rd",
     "sg:city":"Islesboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387932185,
-    "wof:lastmodified":1449057516,
+    "wof:lastmodified":1466587332,
     "wof:name":"Island Property",
     "wof:parent_id":85813559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.916305,44.260756,-68.916305,44.260756],
-  "geometry": {"coordinates":[-68.916305,44.260756],"type":"Point"}
+  "bbox": [
+    -68.916305,
+    44.260756,
+    -68.916305,
+    44.260756
+],
+  "geometry": {"coordinates":[-68.91630499999999,44.260756],"type":"Point"}
 }

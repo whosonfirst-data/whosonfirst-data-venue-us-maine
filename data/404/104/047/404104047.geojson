@@ -2,13 +2,14 @@
   "id": 404104047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.116189,44.156051,-69.116189,44.156051",
     "geom:latitude":44.156051,
     "geom:longitude":-69.116189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 Rockville St",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404104047,
-    "wof:lastmodified":1449039531,
+    "wof:lastmodified":1466586056,
     "wof:name":"Coastal Pet Sitting Svc",
     "wof:parent_id":85845529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sitting"
     ]
 },
-  "bbox": [-69.116189,44.156051,-69.116189,44.156051],
-  "geometry": {"coordinates":[-69.116189,44.156051],"type":"Point"}
+  "bbox": [
+    -69.116189,
+    44.156051,
+    -69.116189,
+    44.156051
+],
+  "geometry": {"coordinates":[-69.11618900000001,44.156051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403792373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.074944,44.214591,-69.074944,44.214591",
     "geom:latitude":44.214591,
     "geom:longitude":-69.074944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Washington St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403792373,
-    "wof:lastmodified":1449054929,
+    "wof:lastmodified":1466586639,
     "wof:name":"Mid-Coast Limousine",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-69.074944,44.214591,-69.074944,44.214591],
+  "bbox": [
+    -69.074944,
+    44.214591,
+    -69.074944,
+    44.214591
+],
   "geometry": {"coordinates":[-69.074944,44.214591],"type":"Point"}
 }

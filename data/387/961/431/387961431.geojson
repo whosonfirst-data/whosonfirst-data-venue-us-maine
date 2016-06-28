@@ -2,13 +2,14 @@
   "id": 387961431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.337619,43.719235,-70.337619,43.719235",
     "geom:latitude":43.719235,
     "geom:longitude":-70.337619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"576 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387961431,
-    "wof:lastmodified":1449059844,
+    "wof:lastmodified":1466587345,
     "wof:name":"Uncle Bob's Storage",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-70.337619,43.719235,-70.337619,43.719235],
+  "bbox": [
+    -70.337619,
+    43.719235,
+    -70.337619,
+    43.719235
+],
   "geometry": {"coordinates":[-70.337619,43.719235],"type":"Point"}
 }

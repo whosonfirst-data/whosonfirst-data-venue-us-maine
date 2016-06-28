@@ -2,13 +2,14 @@
   "id": 387833929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.833224,44.472132,-70.833224,44.472132",
     "geom:latitude":44.472132,
     "geom:longitude":-70.833224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Skiway Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387833929,
-    "wof:lastmodified":1449056596,
+    "wof:lastmodified":1466587212,
     "wof:name":"Sunday River Real Estate",
     "wof:parent_id":85828247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.833224,44.472132,-70.833224,44.472132],
+  "bbox": [
+    -70.833224,
+    44.472132,
+    -70.833224,
+    44.472132
+],
   "geometry": {"coordinates":[-70.833224,44.472132],"type":"Point"}
 }

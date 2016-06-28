@@ -2,13 +2,14 @@
   "id": 387771689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.991483,44.412344,-68.991483,44.412344",
     "geom:latitude":44.412344,
     "geom:longitude":-68.991483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Fahey St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387771689,
-    "wof:lastmodified":1449058180,
+    "wof:lastmodified":1466586973,
     "wof:name":"Jason F Campbell MD",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-68.991483,44.412344,-68.991483,44.412344],
+  "bbox": [
+    -68.991483,
+    44.412344,
+    -68.991483,
+    44.412344
+],
   "geometry": {"coordinates":[-68.991483,44.412344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403934623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.170486,44.175946,-70.170486,44.175946",
     "geom:latitude":44.175946,
     "geom:longitude":-70.170486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"267 US Hwy 202",
     "sg:city":"Greene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403934623,
-    "wof:lastmodified":1449054694,
+    "wof:lastmodified":1466587035,
     "wof:name":"Donovan's Used Cars",
     "wof:parent_id":85819719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.170486,44.175946,-70.170486,44.175946],
+  "bbox": [
+    -70.170486,
+    44.175946,
+    -70.170486,
+    44.175946
+],
   "geometry": {"coordinates":[-70.170486,44.175946],"type":"Point"}
 }

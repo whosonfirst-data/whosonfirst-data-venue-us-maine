@@ -2,13 +2,14 @@
   "id": 387748685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.989221,44.402757,-68.989221,44.402757",
     "geom:latitude":44.402757,
     "geom:longitude":-68.989221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Northport Ave",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387748685,
-    "wof:lastmodified":1449058962,
+    "wof:lastmodified":1466586812,
     "wof:name":"Belfast Bay Meadows Inn",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-68.989221,44.402757,-68.989221,44.402757],
+  "bbox": [
+    -68.989221,
+    44.402757,
+    -68.989221,
+    44.402757
+],
   "geometry": {"coordinates":[-68.989221,44.402757],"type":"Point"}
 }

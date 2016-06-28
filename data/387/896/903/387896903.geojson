@@ -2,13 +2,14 @@
   "id": 387896903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.405814,43.690531,-70.405814,43.690531",
     "geom:latitude":43.690531,
     "geom:longitude":-70.405814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Main St",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387896903,
-    "wof:lastmodified":1449057484,
+    "wof:lastmodified":1466587237,
     "wof:name":"Decottis Ellen H Speech Pathol",
     "wof:parent_id":85835377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.405814,43.690531,-70.405814,43.690531],
-  "geometry": {"coordinates":[-70.405814,43.690531],"type":"Point"}
+  "bbox": [
+    -70.405814,
+    43.690531,
+    -70.405814,
+    43.690531
+],
+  "geometry": {"coordinates":[-70.40581400000001,43.690531],"type":"Point"}
 }

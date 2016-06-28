@@ -2,13 +2,14 @@
   "id": 387754927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.77274,44.806053,-68.77274,44.806053",
     "geom:latitude":44.806053,
     "geom:longitude":-68.77274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Cumberland St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387754927,
-    "wof:lastmodified":1449058606,
+    "wof:lastmodified":1466586832,
     "wof:name":"Marits",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.77274,44.806053,-68.77274,44.806053],
+  "bbox": [
+    -68.77274,
+    44.806053,
+    -68.77274,
+    44.806053
+],
   "geometry": {"coordinates":[-68.77274,44.806053],"type":"Point"}
 }

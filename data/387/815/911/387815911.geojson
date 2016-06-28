@@ -2,13 +2,14 @@
   "id": 387815911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242369,43.649935,-70.242369,43.649935",
     "geom:latitude":43.649935,
     "geom:longitude":-70.242369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387815911,
-    "wof:lastmodified":1449057947,
+    "wof:lastmodified":1466587011,
     "wof:name":"Saint Andrews Society of",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.242369,43.649935,-70.242369,43.649935],
+  "bbox": [
+    -70.242369,
+    43.649935,
+    -70.242369,
+    43.649935
+],
   "geometry": {"coordinates":[-70.242369,43.649935],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403934873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.669921,44.150726,-70.669921,44.150726",
     "geom:latitude":44.150726,
     "geom:longitude":-70.669921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Deer Hill Rd",
     "sg:city":"Waterford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403934873,
-    "wof:lastmodified":1449054693,
+    "wof:lastmodified":1466586937,
     "wof:name":"Rolfe Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gravel"
     ]
 },
-  "bbox": [-70.669921,44.150726,-70.669921,44.150726],
+  "bbox": [
+    -70.669921,
+    44.150726,
+    -70.669921,
+    44.150726
+],
   "geometry": {"coordinates":[-70.669921,44.150726],"type":"Point"}
 }

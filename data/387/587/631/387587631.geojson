@@ -2,13 +2,14 @@
   "id": 387587631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.341151,43.571964,-70.341151,43.571964",
     "geom:latitude":43.571964,
     "geom:longitude":-70.341151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Hemlock Cir",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387587631,
-    "wof:lastmodified":1449057401,
+    "wof:lastmodified":1466586129,
     "wof:name":"Brownstone Home Improvement",
     "wof:parent_id":85806509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.341151,43.571964,-70.341151,43.571964],
+  "bbox": [
+    -70.341151,
+    43.571964,
+    -70.341151,
+    43.571964
+],
   "geometry": {"coordinates":[-70.341151,43.571964],"type":"Point"}
 }

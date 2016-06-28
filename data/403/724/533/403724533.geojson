@@ -2,13 +2,14 @@
   "id": 403724533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.980404,45.251366,-68.980404,45.251366",
     "geom:latitude":45.251366,
     "geom:longitude":-68.980404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Belmont St",
     "sg:city":"Milo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403724533,
-    "wof:lastmodified":1449055918,
+    "wof:lastmodified":1466585898,
     "wof:name":"Milo Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.980404,45.251366,-68.980404,45.251366],
-  "geometry": {"coordinates":[-68.980404,45.251366],"type":"Point"}
+  "bbox": [
+    -68.980404,
+    45.251366,
+    -68.980404,
+    45.251366
+],
+  "geometry": {"coordinates":[-68.98040399999999,45.251366],"type":"Point"}
 }

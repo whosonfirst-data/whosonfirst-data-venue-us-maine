@@ -2,13 +2,14 @@
   "id": 404151209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.305841,43.69859,-70.305841,43.69859",
     "geom:latitude":43.69859,
     "geom:longitude":-70.305841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Newton St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404151209,
-    "wof:lastmodified":1449039097,
+    "wof:lastmodified":1466586720,
     "wof:name":"Delano Associates",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.305841,43.69859,-70.305841,43.69859],
+  "bbox": [
+    -70.305841,
+    43.69859,
+    -70.305841,
+    43.69859
+],
   "geometry": {"coordinates":[-70.305841,43.69859],"type":"Point"}
 }

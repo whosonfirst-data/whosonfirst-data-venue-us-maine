@@ -2,13 +2,14 @@
   "id": 403933979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.762398,44.804954,-68.762398,44.804954",
     "geom:latitude":44.804954,
     "geom:longitude":-68.762398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 State St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403933979,
-    "wof:lastmodified":1449054909,
+    "wof:lastmodified":1466587117,
     "wof:name":"State Street Wine Cellar",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wine"
     ]
 },
-  "bbox": [-68.762398,44.804954,-68.762398,44.804954],
+  "bbox": [
+    -68.762398,
+    44.804954,
+    -68.762398,
+    44.804954
+],
   "geometry": {"coordinates":[-68.762398,44.804954],"type":"Point"}
 }

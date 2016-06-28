@@ -2,13 +2,14 @@
   "id": 387855395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.463858,43.496812,-70.463858,43.496812",
     "geom:latitude":43.496812,
     "geom:longitude":-70.463858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Main St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387855395,
-    "wof:lastmodified":1449058910,
+    "wof:lastmodified":1466587253,
     "wof:name":"Paquet Yvoen Drywall",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.463858,43.496812,-70.463858,43.496812],
+  "bbox": [
+    -70.463858,
+    43.496812,
+    -70.463858,
+    43.496812
+],
   "geometry": {"coordinates":[-70.463858,43.496812],"type":"Point"}
 }

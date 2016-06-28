@@ -2,13 +2,14 @@
   "id": 403793681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.111715,43.849389,-70.111715,43.849389",
     "geom:latitude":43.849389,
     "geom:longitude":-70.111715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Independence Dr",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403793681,
-    "wof:lastmodified":1449055370,
+    "wof:lastmodified":1466585859,
     "wof:name":"Med-Employ",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-70.111715,43.849389,-70.111715,43.849389],
+  "bbox": [
+    -70.111715,
+    43.849389,
+    -70.111715,
+    43.849389
+],
   "geometry": {"coordinates":[-70.111715,43.849389],"type":"Point"}
 }

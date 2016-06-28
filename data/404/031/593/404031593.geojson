@@ -2,13 +2,14 @@
   "id": 404031593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.169171,44.079621,-70.169171,44.079621",
     "geom:latitude":44.079621,
     "geom:longitude":-70.169171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Forrestal St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404031593,
-    "wof:lastmodified":1449039480,
+    "wof:lastmodified":1466585983,
     "wof:name":"Frank Webb's Bath Ctr",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.169171,44.079621,-70.169171,44.079621],
-  "geometry": {"coordinates":[-70.169171,44.079621],"type":"Point"}
+  "bbox": [
+    -70.169171,
+    44.079621,
+    -70.169171,
+    44.079621
+],
+  "geometry": {"coordinates":[-70.16917100000001,44.079621],"type":"Point"}
 }

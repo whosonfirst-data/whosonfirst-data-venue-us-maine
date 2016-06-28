@@ -2,13 +2,14 @@
   "id": 403763239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.803722,44.348316,-69.803722,44.348316",
     "geom:latitude":44.348316,
     "geom:longitude":-69.803722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Anthony Ave",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403763239,
-    "wof:lastmodified":1449055953,
+    "wof:lastmodified":1466586456,
     "wof:name":"Pepsi Cola Bottling Co",
     "wof:parent_id":85841121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beverage"
     ]
 },
-  "bbox": [-69.803722,44.348316,-69.803722,44.348316],
-  "geometry": {"coordinates":[-69.803722,44.348316],"type":"Point"}
+  "bbox": [
+    -69.803722,
+    44.348316,
+    -69.803722,
+    44.348316
+],
+  "geometry": {"coordinates":[-69.80372199999999,44.348316],"type":"Point"}
 }

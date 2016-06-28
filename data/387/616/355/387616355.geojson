@@ -2,13 +2,14 @@
   "id": 387616355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.355914,43.545595,-70.355914,43.545595",
     "geom:latitude":43.545595,
     "geom:longitude":-70.355914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Snow Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387616355,
-    "wof:lastmodified":1449058900,
+    "wof:lastmodified":1466585673,
     "wof:name":"Cummings TV Service",
     "wof:parent_id":85822441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.355914,43.545595,-70.355914,43.545595],
+  "bbox": [
+    -70.355914,
+    43.545595,
+    -70.355914,
+    43.545595
+],
   "geometry": {"coordinates":[-70.355914,43.545595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403873111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.316146,43.539094,-70.316146,43.539094",
     "geom:latitude":43.539094,
     "geom:longitude":-70.316146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"499 Black Point Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403873111,
-    "wof:lastmodified":1449054917,
+    "wof:lastmodified":1466586803,
     "wof:name":"Prouts Neck Country Club",
     "wof:parent_id":85843227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-70.316146,43.539094,-70.316146,43.539094],
+  "bbox": [
+    -70.316146,
+    43.539094,
+    -70.316146,
+    43.539094
+],
   "geometry": {"coordinates":[-70.316146,43.539094],"type":"Point"}
 }

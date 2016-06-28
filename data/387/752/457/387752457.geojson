@@ -2,13 +2,14 @@
   "id": 387752457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.350753,43.538359,-70.350753,43.538359",
     "geom:latitude":43.538359,
     "geom:longitude":-70.350753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 E Grand Ave",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387752457,
-    "wof:lastmodified":1449056741,
+    "wof:lastmodified":1466586905,
     "wof:name":"Sandra Wyman Associates",
     "wof:parent_id":85822441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.350753,43.538359,-70.350753,43.538359],
+  "bbox": [
+    -70.350753,
+    43.538359,
+    -70.350753,
+    43.538359
+],
   "geometry": {"coordinates":[-70.350753,43.538359],"type":"Point"}
 }

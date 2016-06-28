@@ -2,13 +2,14 @@
   "id": 387571651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.01059,46.845231,-68.01059,46.845231",
     "geom:latitude":46.845231,
     "geom:longitude":-68.01059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 Main St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387571651,
-    "wof:lastmodified":1449058706,
+    "wof:lastmodified":1466585905,
     "wof:name":"Fire Protection Svc",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-68.01059,46.845231,-68.01059,46.845231],
-  "geometry": {"coordinates":[-68.01059,46.845231],"type":"Point"}
+  "bbox": [
+    -68.01059,
+    46.845231,
+    -68.01059,
+    46.845231
+],
+  "geometry": {"coordinates":[-68.01058999999999,46.845231],"type":"Point"}
 }

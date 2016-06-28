@@ -2,13 +2,14 @@
   "id": 387658289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.440668,43.380879,-70.440668,43.380879",
     "geom:latitude":43.380879,
     "geom:longitude":-70.440668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Mills Rd",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387658289,
-    "wof:lastmodified":1449056033,
+    "wof:lastmodified":1466586094,
     "wof:name":"Annabelle Lee Inc",
     "wof:parent_id":85857739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-70.440668,43.380879,-70.440668,43.380879],
+  "bbox": [
+    -70.440668,
+    43.380879,
+    -70.440668,
+    43.380879
+],
   "geometry": {"coordinates":[-70.440668,43.380879],"type":"Point"}
 }

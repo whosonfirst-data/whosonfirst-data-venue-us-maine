@@ -2,13 +2,14 @@
   "id": 387597273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.287772,43.700233,-70.287772,43.700233",
     "geom:latitude":43.700233,
     "geom:longitude":-70.287772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Allen Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387597273,
-    "wof:lastmodified":1449059871,
+    "wof:lastmodified":1466586306,
     "wof:name":"Greater Portland Realty",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.287772,43.700233,-70.287772,43.700233],
+  "bbox": [
+    -70.287772,
+    43.700233,
+    -70.287772,
+    43.700233
+],
   "geometry": {"coordinates":[-70.287772,43.700233],"type":"Point"}
 }

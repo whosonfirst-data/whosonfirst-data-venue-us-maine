@@ -2,13 +2,14 @@
   "id": 387735631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.200724,43.802282,-70.200724,43.802282",
     "geom:latitude":43.802282,
     "geom:longitude":-70.200724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Bowdoin St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387735631,
-    "wof:lastmodified":1449059831,
+    "wof:lastmodified":1466586851,
     "wof:name":"Community Development Svc",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-70.200724,43.802282,-70.200724,43.802282],
-  "geometry": {"coordinates":[-70.200724,43.802282],"type":"Point"}
+  "bbox": [
+    -70.200724,
+    43.802282,
+    -70.200724,
+    43.802282
+],
+  "geometry": {"coordinates":[-70.20072399999999,43.802282],"type":"Point"}
 }

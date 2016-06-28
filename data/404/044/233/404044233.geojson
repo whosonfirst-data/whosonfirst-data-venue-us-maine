@@ -2,13 +2,14 @@
   "id": 404044233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.20431,44.388179,-68.20431,44.388179",
     "geom:latitude":44.388179,
     "geom:longitude":-68.20431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Main St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404044233,
-    "wof:lastmodified":1449039746,
+    "wof:lastmodified":1466586168,
     "wof:name":"Bar Harbor Gift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.20431,44.388179,-68.20431,44.388179],
-  "geometry": {"coordinates":[-68.20431,44.388179],"type":"Point"}
+  "bbox": [
+    -68.20431,
+    44.388179,
+    -68.20431,
+    44.388179
+],
+  "geometry": {"coordinates":[-68.20431000000001,44.388179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403929943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.4606,44.713081,-67.4606,44.713081",
     "geom:latitude":44.713081,
     "geom:longitude":-67.4606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Water St",
     "sg:city":"Machias",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403929943,
-    "wof:lastmodified":1449055138,
+    "wof:lastmodified":1466587033,
     "wof:name":"Machias Medical Assoc",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-67.4606,44.713081,-67.4606,44.713081],
+  "bbox": [
+    -67.4606,
+    44.713081,
+    -67.4606,
+    44.713081
+],
   "geometry": {"coordinates":[-67.4606,44.713081],"type":"Point"}
 }

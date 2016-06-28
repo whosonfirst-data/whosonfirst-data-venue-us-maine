@@ -2,13 +2,14 @@
   "id": 404078055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.936159,44.865877,-68.936159,44.865877",
     "geom:latitude":44.865877,
     "geom:longitude":-68.936159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Lake Rd",
     "sg:city":"Levant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404078055,
-    "wof:lastmodified":1449040131,
+    "wof:lastmodified":1466585707,
     "wof:name":"Auto Recovery & Towing",
     "wof:parent_id":85838259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-68.936159,44.865877,-68.936159,44.865877],
+  "bbox": [
+    -68.936159,
+    44.865877,
+    -68.936159,
+    44.865877
+],
   "geometry": {"coordinates":[-68.936159,44.865877],"type":"Point"}
 }

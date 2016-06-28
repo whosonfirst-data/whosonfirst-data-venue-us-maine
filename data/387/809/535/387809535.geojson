@@ -2,13 +2,14 @@
   "id": 387809535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.827889,46.770626,-67.827889,46.770626",
     "geom:latitude":46.770626,
     "geom:longitude":-67.827889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Main St",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387809535,
-    "wof:lastmodified":1449059239,
+    "wof:lastmodified":1466587164,
     "wof:name":"Fort Fairfield Housing Auth",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-67.827889,46.770626,-67.827889,46.770626],
+  "bbox": [
+    -67.827889,
+    46.770626,
+    -67.827889,
+    46.770626
+],
   "geometry": {"coordinates":[-67.827889,46.770626],"type":"Point"}
 }

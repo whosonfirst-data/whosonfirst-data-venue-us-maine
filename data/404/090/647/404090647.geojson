@@ -2,13 +2,14 @@
   "id": 404090647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.711524,45.656051,-68.711524,45.656051",
     "geom:latitude":45.656051,
     "geom:longitude":-68.711524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Hill St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404090647,
-    "wof:lastmodified":1449040039,
+    "wof:lastmodified":1466585859,
     "wof:name":"Dean Beaupain Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-68.711524,45.656051,-68.711524,45.656051],
+  "bbox": [
+    -68.711524,
+    45.656051,
+    -68.711524,
+    45.656051
+],
   "geometry": {"coordinates":[-68.711524,45.656051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387700549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.709162,45.656425,-68.709162,45.656425",
     "geom:latitude":45.656425,
     "geom:longitude":-68.709162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Penobscot Ave",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387700549,
-    "wof:lastmodified":1449059583,
+    "wof:lastmodified":1466586735,
     "wof:name":"Miller's Department Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [-68.709162,45.656425,-68.709162,45.656425],
-  "geometry": {"coordinates":[-68.709162,45.656425],"type":"Point"}
+  "bbox": [
+    -68.709162,
+    45.656425,
+    -68.709162,
+    45.656425
+],
+  "geometry": {"coordinates":[-68.70916200000001,45.656425],"type":"Point"}
 }

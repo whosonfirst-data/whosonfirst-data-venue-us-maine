@@ -2,13 +2,14 @@
   "id": 387862881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.878803,44.319754,-69.878803,44.319754",
     "geom:latitude":44.319754,
     "geom:longitude":-69.878803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Hammonds Grove",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387862881,
-    "wof:lastmodified":1449060009,
+    "wof:lastmodified":1466587261,
     "wof:name":"Maine Tank Co Inc",
     "wof:parent_id":85841121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tank"
     ]
 },
-  "bbox": [-69.878803,44.319754,-69.878803,44.319754],
+  "bbox": [
+    -69.878803,
+    44.319754,
+    -69.878803,
+    44.319754
+],
   "geometry": {"coordinates":[-69.878803,44.319754],"type":"Point"}
 }

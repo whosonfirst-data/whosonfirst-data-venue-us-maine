@@ -2,13 +2,14 @@
   "id": 387725581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.11497,44.108189,-69.11497,44.108189",
     "geom:latitude":44.108189,
     "geom:longitude":-69.11497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Talbot Ave",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387725581,
-    "wof:lastmodified":1449057028,
+    "wof:lastmodified":1466586706,
     "wof:name":"Lawrence Frier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.11497,44.108189,-69.11497,44.108189],
+  "bbox": [
+    -69.11497,
+    44.108189,
+    -69.11497,
+    44.108189
+],
   "geometry": {"coordinates":[-69.11497,44.108189],"type":"Point"}
 }

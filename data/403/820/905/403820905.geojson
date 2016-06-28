@@ -2,13 +2,14 @@
   "id": 403820905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.170733,43.682205,-70.170733,43.682205",
     "geom:latitude":43.682205,
     "geom:longitude":-70.170733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Thistle Ln",
     "sg:city":"Harpswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403820905,
-    "wof:lastmodified":1449055336,
+    "wof:lastmodified":1466586279,
     "wof:name":"Heather Cahill",
     "wof:parent_id":85852579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-70.170733,43.682205,-70.170733,43.682205],
+  "bbox": [
+    -70.170733,
+    43.682205,
+    -70.170733,
+    43.682205
+],
   "geometry": {"coordinates":[-70.170733,43.682205],"type":"Point"}
 }

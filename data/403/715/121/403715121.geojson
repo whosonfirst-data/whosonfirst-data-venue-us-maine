@@ -2,13 +2,14 @@
   "id": 403715121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.563029,47.206619,-68.563029,47.206619",
     "geom:latitude":47.206619,
     "geom:longitude":-68.563029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Strip Rd",
     "sg:city":"Fort Kent",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403715121,
-    "wof:lastmodified":1449055690,
+    "wof:lastmodified":1466585799,
     "wof:name":"Bouchard Family Farm",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.563029,47.206619,-68.563029,47.206619],
+  "bbox": [
+    -68.563029,
+    47.206619,
+    -68.563029,
+    47.206619
+],
   "geometry": {"coordinates":[-68.563029,47.206619],"type":"Point"}
 }

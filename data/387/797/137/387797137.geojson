@@ -2,13 +2,14 @@
   "id": 387797137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.353012,43.780194,-70.353012,43.780194",
     "geom:latitude":43.780194,
     "geom:longitude":-70.353012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Cottage Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387797137,
-    "wof:lastmodified":1449059541,
+    "wof:lastmodified":1466587021,
     "wof:name":"Sappier's Roofing & Siding",
     "wof:parent_id":85847399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.353012,43.780194,-70.353012,43.780194],
-  "geometry": {"coordinates":[-70.353012,43.780194],"type":"Point"}
+  "bbox": [
+    -70.353012,
+    43.780194,
+    -70.353012,
+    43.780194
+],
+  "geometry": {"coordinates":[-70.35301200000001,43.780194],"type":"Point"}
 }

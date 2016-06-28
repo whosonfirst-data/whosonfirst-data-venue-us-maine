@@ -2,13 +2,14 @@
   "id": 403965807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.506587,43.356308,-70.506587,43.356308",
     "geom:latitude":43.356308,
     "geom:longitude":-70.506587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Sea Rd",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403965807,
-    "wof:lastmodified":1449055539,
+    "wof:lastmodified":1466587118,
     "wof:name":"McAll Masonry",
     "wof:parent_id":85820357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.506587,43.356308,-70.506587,43.356308],
+  "bbox": [
+    -70.506587,
+    43.356308,
+    -70.506587,
+    43.356308
+],
   "geometry": {"coordinates":[-70.506587,43.356308],"type":"Point"}
 }

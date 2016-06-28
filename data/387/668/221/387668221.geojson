@@ -2,13 +2,14 @@
   "id": 387668221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.372248,43.518251,-70.372248,43.518251",
     "geom:latitude":43.518251,
     "geom:longitude":-70.372248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 E Grand Ave",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387668221,
-    "wof:lastmodified":1449058762,
+    "wof:lastmodified":1466586253,
     "wof:name":"Linwood Arms Condo Association",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-70.372248,43.518251,-70.372248,43.518251],
+  "bbox": [
+    -70.372248,
+    43.518251,
+    -70.372248,
+    43.518251
+],
   "geometry": {"coordinates":[-70.372248,43.518251],"type":"Point"}
 }

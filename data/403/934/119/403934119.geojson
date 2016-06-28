@@ -2,13 +2,14 @@
   "id": 403934119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.823726,43.164085,-70.823726,43.164085",
     "geom:latitude":43.164085,
     "geom:longitude":-70.823726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Stacy Ln",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403934119,
-    "wof:lastmodified":1449054693,
+    "wof:lastmodified":1466587033,
     "wof:name":"Shaklee Products Distributor",
     "wof:parent_id":85822373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.823726,43.164085,-70.823726,43.164085],
-  "geometry": {"coordinates":[-70.823726,43.164085],"type":"Point"}
+  "bbox": [
+    -70.823726,
+    43.164085,
+    -70.823726,
+    43.164085
+],
+  "geometry": {"coordinates":[-70.82372599999999,43.164085],"type":"Point"}
 }

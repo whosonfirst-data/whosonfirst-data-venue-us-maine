@@ -2,13 +2,14 @@
   "id": 387631973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.60696,44.085334,-70.60696,44.085334",
     "geom:latitude":44.085334,
     "geom:longitude":-70.60696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 Scribners Mills Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387631973,
-    "wof:lastmodified":1449057276,
+    "wof:lastmodified":1466585829,
     "wof:name":"Barn Wright",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leveling"
     ]
 },
-  "bbox": [-70.60696,44.085334,-70.60696,44.085334],
+  "bbox": [
+    -70.60696,
+    44.085334,
+    -70.60696,
+    44.085334
+],
   "geometry": {"coordinates":[-70.60696,44.085334],"type":"Point"}
 }

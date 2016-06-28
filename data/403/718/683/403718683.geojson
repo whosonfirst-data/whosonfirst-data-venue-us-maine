@@ -2,13 +2,14 @@
   "id": 403718683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.345155,43.985663,-70.345155,43.985663",
     "geom:latitude":43.985663,
     "geom:longitude":-70.345155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Lakeview Dr",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":403718683,
-    "wof:lastmodified":1449054931,
+    "wof:lastmodified":1466585840,
     "wof:name":"KERN Media Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-70.345155,43.985663,-70.345155,43.985663],
-  "geometry": {"coordinates":[-70.345155,43.985663],"type":"Point"}
+  "bbox": [
+    -70.345155,
+    43.985663,
+    -70.345155,
+    43.985663
+],
+  "geometry": {"coordinates":[-70.34515500000001,43.985663],"type":"Point"}
 }

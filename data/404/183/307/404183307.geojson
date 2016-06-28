@@ -2,13 +2,14 @@
   "id": 404183307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.181535,43.798384,-70.181535,43.798384",
     "geom:latitude":43.798384,
     "geom:longitude":-70.181535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Main St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404183307,
-    "wof:lastmodified":1449039780,
+    "wof:lastmodified":1466586930,
     "wof:name":"MBIA",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.181535,43.798384,-70.181535,43.798384],
+  "bbox": [
+    -70.181535,
+    43.798384,
+    -70.181535,
+    43.798384
+],
   "geometry": {"coordinates":[-70.181535,43.798384],"type":"Point"}
 }

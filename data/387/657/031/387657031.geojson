@@ -2,13 +2,14 @@
   "id": 387657031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.379618,43.509572,-70.379618,43.509572",
     "geom:latitude":43.509572,
     "geom:longitude":-70.379618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 W Grand Ave",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387657031,
-    "wof:lastmodified":1449056538,
+    "wof:lastmodified":1466586073,
     "wof:name":"Appraisals Plus",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-70.379618,43.509572,-70.379618,43.509572],
-  "geometry": {"coordinates":[-70.379618,43.509572],"type":"Point"}
+  "bbox": [
+    -70.379618,
+    43.509572,
+    -70.379618,
+    43.509572
+],
+  "geometry": {"coordinates":[-70.37961799999999,43.509572],"type":"Point"}
 }

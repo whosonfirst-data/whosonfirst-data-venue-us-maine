@@ -2,13 +2,14 @@
   "id": 387878745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.202536,44.384425,-68.202536,44.384425",
     "geom:latitude":44.384425,
     "geom:longitude":-68.202536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Wayman Ln",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387878745,
-    "wof:lastmodified":1449058098,
+    "wof:lastmodified":1466587213,
     "wof:name":"Mount Desert Island Hospital",
     "wof:parent_id":85803817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.202536,44.384425,-68.202536,44.384425],
-  "geometry": {"coordinates":[-68.202536,44.384425],"type":"Point"}
+  "bbox": [
+    -68.202536,
+    44.384425,
+    -68.202536,
+    44.384425
+],
+  "geometry": {"coordinates":[-68.20253599999999,44.384425],"type":"Point"}
 }

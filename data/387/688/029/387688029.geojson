@@ -2,13 +2,14 @@
   "id": 387688029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.45202,43.742959,-70.45202,43.742959",
     "geom:latitude":43.742959,
     "geom:longitude":-70.45202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Sebago Lake Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387688029,
-    "wof:lastmodified":1449057524,
+    "wof:lastmodified":1466586573,
     "wof:name":"Silly Goose Day Care",
     "wof:parent_id":85820911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-70.45202,43.742959,-70.45202,43.742959],
+  "bbox": [
+    -70.45202,
+    43.742959,
+    -70.45202,
+    43.742959
+],
   "geometry": {"coordinates":[-70.45202,43.742959],"type":"Point"}
 }

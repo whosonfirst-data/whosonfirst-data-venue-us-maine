@@ -2,13 +2,14 @@
   "id": 403924627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.422316,43.463628,-70.422316,43.463628",
     "geom:latitude":43.463628,
     "geom:longitude":-70.422316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Guinea Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403924627,
-    "wof:lastmodified":1449055014,
+    "wof:lastmodified":1466587007,
     "wof:name":"Js Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.422316,43.463628,-70.422316,43.463628],
+  "bbox": [
+    -70.422316,
+    43.463628,
+    -70.422316,
+    43.463628
+],
   "geometry": {"coordinates":[-70.422316,43.463628],"type":"Point"}
 }

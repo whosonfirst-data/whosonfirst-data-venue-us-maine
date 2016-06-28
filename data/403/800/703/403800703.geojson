@@ -2,13 +2,14 @@
   "id": 403800703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.180035,43.803994,-70.180035,43.803994",
     "geom:latitude":43.803994,
     "geom:longitude":-70.180035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 US Hwy 1",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403800703,
-    "wof:lastmodified":1449054737,
+    "wof:lastmodified":1466585958,
     "wof:name":"Banknorth",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.180035,43.803994,-70.180035,43.803994],
+  "bbox": [
+    -70.180035,
+    43.803994,
+    -70.180035,
+    43.803994
+],
   "geometry": {"coordinates":[-70.180035,43.803994],"type":"Point"}
 }

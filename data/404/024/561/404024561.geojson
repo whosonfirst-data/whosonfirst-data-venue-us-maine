@@ -2,13 +2,14 @@
   "id": 404024561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225784,44.073313,-70.225784,44.073313",
     "geom:latitude":44.073313,
     "geom:longitude":-70.225784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Dee St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404024561,
-    "wof:lastmodified":1449039586,
+    "wof:lastmodified":1466585950,
     "wof:name":"China Ethnic Crafts Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-70.225784,44.073313,-70.225784,44.073313],
+  "bbox": [
+    -70.225784,
+    44.073313,
+    -70.225784,
+    44.073313
+],
   "geometry": {"coordinates":[-70.225784,44.073313],"type":"Point"}
 }

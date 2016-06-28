@@ -2,13 +2,14 @@
   "id": 404013611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.643523,44.542136,-69.643523,44.542136",
     "geom:latitude":44.542136,
     "geom:longitude":-69.643523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Silver St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404013611,
-    "wof:lastmodified":1449039941,
+    "wof:lastmodified":1466585832,
     "wof:name":"Palmer Foods Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.643523,44.542136,-69.643523,44.542136],
+  "bbox": [
+    -69.643523,
+    44.542136,
+    -69.643523,
+    44.542136
+],
   "geometry": {"coordinates":[-69.643523,44.542136],"type":"Point"}
 }

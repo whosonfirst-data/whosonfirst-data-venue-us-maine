@@ -2,13 +2,14 @@
   "id": 387757913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.657781,44.938782,-68.657781,44.938782",
     "geom:latitude":44.938782,
     "geom:longitude":-68.657781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Sunset Dr",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387757913,
-    "wof:lastmodified":1449058252,
+    "wof:lastmodified":1466586840,
     "wof:name":"Levitsky Design",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.657781,44.938782,-68.657781,44.938782],
+  "bbox": [
+    -68.657781,
+    44.938782,
+    -68.657781,
+    44.938782
+],
   "geometry": {"coordinates":[-68.657781,44.938782],"type":"Point"}
 }

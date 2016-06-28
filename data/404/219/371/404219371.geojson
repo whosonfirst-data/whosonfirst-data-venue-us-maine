@@ -2,13 +2,14 @@
   "id": 404219371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.975605,44.016046,-70.975605,44.016046",
     "geom:latitude":44.016046,
     "geom:longitude":-70.975605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Stuart St",
     "sg:city":"Fryeburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404219371,
-    "wof:lastmodified":1449040277,
+    "wof:lastmodified":1466586994,
     "wof:name":"Dunham Building & Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.975605,44.016046,-70.975605,44.016046],
+  "bbox": [
+    -70.975605,
+    44.016046,
+    -70.975605,
+    44.016046
+],
   "geometry": {"coordinates":[-70.975605,44.016046],"type":"Point"}
 }

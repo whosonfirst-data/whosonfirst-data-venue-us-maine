@@ -2,13 +2,14 @@
   "id": 404140145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.533432,43.392735,-70.533432,43.392735",
     "geom:latitude":43.392735,
     "geom:longitude":-70.533432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Portland Rd",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404140145,
-    "wof:lastmodified":1449039185,
+    "wof:lastmodified":1466586602,
     "wof:name":"Dick Mariano Chrysler",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.533432,43.392735,-70.533432,43.392735],
+  "bbox": [
+    -70.533432,
+    43.392735,
+    -70.533432,
+    43.392735
+],
   "geometry": {"coordinates":[-70.533432,43.392735],"type":"Point"}
 }

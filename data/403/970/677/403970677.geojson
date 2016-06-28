@@ -2,13 +2,14 @@
   "id": 403970677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.784258,44.849724,-68.784258,44.849724",
     "geom:latitude":44.849724,
     "geom:longitude":-68.784258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Bomarc Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403970677,
-    "wof:lastmodified":1449055928,
+    "wof:lastmodified":1466587128,
     "wof:name":"Hartt Transportation Systems",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-68.784258,44.849724,-68.784258,44.849724],
-  "geometry": {"coordinates":[-68.784258,44.849724],"type":"Point"}
+  "bbox": [
+    -68.784258,
+    44.849724,
+    -68.784258,
+    44.849724
+],
+  "geometry": {"coordinates":[-68.78425799999999,44.849724],"type":"Point"}
 }

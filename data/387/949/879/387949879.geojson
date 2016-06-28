@@ -2,13 +2,14 @@
   "id": 387949879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.799288,43.999565,-69.799288,43.999565",
     "geom:latitude":43.999565,
     "geom:longitude":-69.799288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Chopps Cross Rd",
     "sg:city":"Woolwich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387949879,
-    "wof:lastmodified":1449058461,
+    "wof:lastmodified":1466587196,
     "wof:name":"North Wlwich Untd Mthdst Chrch",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.799288,43.999565,-69.799288,43.999565],
+  "bbox": [
+    -69.799288,
+    43.999565,
+    -69.799288,
+    43.999565
+],
   "geometry": {"coordinates":[-69.799288,43.999565],"type":"Point"}
 }

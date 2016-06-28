@@ -2,13 +2,14 @@
   "id": 387774401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.65646,43.338476,-70.65646,43.338476",
     "geom:latitude":43.338476,
     "geom:longitude":-70.65646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Bald Hill Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387774401,
-    "wof:lastmodified":1449057587,
+    "wof:lastmodified":1466586981,
     "wof:name":"Coastal Contractors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.65646,43.338476,-70.65646,43.338476],
+  "bbox": [
+    -70.65646,
+    43.338476,
+    -70.65646,
+    43.338476
+],
   "geometry": {"coordinates":[-70.65646,43.338476],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387880239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.509314,44.171013,-70.509314,44.171013",
     "geom:latitude":44.171013,
     "geom:longitude":-70.509314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1188 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387880239,
-    "wof:lastmodified":1449059952,
+    "wof:lastmodified":1466587210,
     "wof:name":"Route 26 Antqs & Collectables",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-70.509314,44.171013,-70.509314,44.171013],
+  "bbox": [
+    -70.509314,
+    44.171013,
+    -70.509314,
+    44.171013
+],
   "geometry": {"coordinates":[-70.509314,44.171013],"type":"Point"}
 }

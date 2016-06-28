@@ -2,13 +2,14 @@
   "id": 403995659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.751173,44.765656,-68.751173,44.765656",
     "geom:latitude":44.765656,
     "geom:longitude":-68.751173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Elm St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403995659,
-    "wof:lastmodified":1449055823,
+    "wof:lastmodified":1466587096,
     "wof:name":"Lee's Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.751173,44.765656,-68.751173,44.765656],
-  "geometry": {"coordinates":[-68.751173,44.765656],"type":"Point"}
+  "bbox": [
+    -68.751173,
+    44.765656,
+    -68.751173,
+    44.765656
+],
+  "geometry": {"coordinates":[-68.75117299999999,44.765656],"type":"Point"}
 }

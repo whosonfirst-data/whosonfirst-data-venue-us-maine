@@ -2,13 +2,14 @@
   "id": 387824581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.441313,43.837902,-70.441313,43.837902",
     "geom:latitude":43.837902,
     "geom:longitude":-70.441313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387824581,
-    "wof:lastmodified":1449057452,
+    "wof:lastmodified":1466587107,
     "wof:name":"Getty Auto Wash",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-70.441313,43.837902,-70.441313,43.837902],
-  "geometry": {"coordinates":[-70.441313,43.837902],"type":"Point"}
+  "bbox": [
+    -70.441313,
+    43.837902,
+    -70.441313,
+    43.837902
+],
+  "geometry": {"coordinates":[-70.44131299999999,43.837902],"type":"Point"}
 }

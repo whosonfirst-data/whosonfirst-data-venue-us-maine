@@ -2,13 +2,14 @@
   "id": 404172967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.769179,44.802369,-68.769179,44.802369",
     "geom:latitude":44.802369,
     "geom:longitude":-68.769179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 State St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404172967,
-    "wof:lastmodified":1449039521,
+    "wof:lastmodified":1466586795,
     "wof:name":"Diva's Gentlemans Club",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "night"
     ]
 },
-  "bbox": [-68.769179,44.802369,-68.769179,44.802369],
-  "geometry": {"coordinates":[-68.769179,44.802369],"type":"Point"}
+  "bbox": [
+    -68.769179,
+    44.802369,
+    -68.769179,
+    44.802369
+],
+  "geometry": {"coordinates":[-68.76917899999999,44.802369],"type":"Point"}
 }

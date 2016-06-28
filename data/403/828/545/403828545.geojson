@@ -2,13 +2,14 @@
   "id": 403828545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.545626,44.545625,-70.545626,44.545625",
     "geom:latitude":44.545625,
     "geom:longitude":-70.545626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Congress St",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":403828545,
-    "wof:lastmodified":1449055325,
+    "wof:lastmodified":1466586405,
     "wof:name":"Pennacook Art Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.545626,44.545625,-70.545626,44.545625],
+  "bbox": [
+    -70.545626,
+    44.545625,
+    -70.545626,
+    44.545625
+],
   "geometry": {"coordinates":[-70.545626,44.545625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403729217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.522948,43.407678,-70.522948,43.407678",
     "geom:latitude":43.407678,
     "geom:longitude":-70.522948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1364 Portland Rd",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403729217,
-    "wof:lastmodified":1449055319,
+    "wof:lastmodified":1466585945,
     "wof:name":"SL Tech",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-70.522948,43.407678,-70.522948,43.407678],
+  "bbox": [
+    -70.522948,
+    43.407678,
+    -70.522948,
+    43.407678
+],
   "geometry": {"coordinates":[-70.522948,43.407678],"type":"Point"}
 }

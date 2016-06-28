@@ -2,13 +2,14 @@
   "id": 404191349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.750032,44.361486,-68.750032,44.361486",
     "geom:latitude":44.361486,
     "geom:longitude":-68.750032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"757 Coastal Rd",
     "sg:city":"Brooksville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404191349,
-    "wof:lastmodified":1449039838,
+    "wof:lastmodified":1466586972,
     "wof:name":"Bucks Harbor Realty",
     "wof:parent_id":85838497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.750032,44.361486,-68.750032,44.361486],
+  "bbox": [
+    -68.750032,
+    44.361486,
+    -68.750032,
+    44.361486
+],
   "geometry": {"coordinates":[-68.750032,44.361486],"type":"Point"}
 }

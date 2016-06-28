@@ -2,13 +2,14 @@
   "id": 403839791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.360867,43.531014,-70.360867,43.531014",
     "geom:latitude":43.531014,
     "geom:longitude":-70.360867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 E Grand Ave",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403839791,
-    "wof:lastmodified":1449055457,
+    "wof:lastmodified":1466586596,
     "wof:name":"Ocean Walk Hotel",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.360867,43.531014,-70.360867,43.531014],
+  "bbox": [
+    -70.360867,
+    43.531014,
+    -70.360867,
+    43.531014
+],
   "geometry": {"coordinates":[-70.360867,43.531014],"type":"Point"}
 }

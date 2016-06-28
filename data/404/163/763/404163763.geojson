@@ -2,13 +2,14 @@
   "id": 404163763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.004183,46.687146,-68.004183,46.687146",
     "geom:latitude":46.687146,
     "geom:longitude":-68.004183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Fort St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404163763,
-    "wof:lastmodified":1449040308,
+    "wof:lastmodified":1466586876,
     "wof:name":"Griffin Co-Contractors",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.004183,46.687146,-68.004183,46.687146],
+  "bbox": [
+    -68.004183,
+    46.687146,
+    -68.004183,
+    46.687146
+],
   "geometry": {"coordinates":[-68.004183,46.687146],"type":"Point"}
 }

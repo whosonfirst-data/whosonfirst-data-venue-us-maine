@@ -2,13 +2,14 @@
   "id": 387873071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.581958,43.40112,-70.581958,43.40112",
     "geom:latitude":43.40112,
     "geom:longitude":-70.581958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Cat Mousam Rd",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387873071,
-    "wof:lastmodified":1449056897,
+    "wof:lastmodified":1466587197,
     "wof:name":"Marlowe J Le Barge & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.581958,43.40112,-70.581958,43.40112],
+  "bbox": [
+    -70.581958,
+    43.40112,
+    -70.581958,
+    43.40112
+],
   "geometry": {"coordinates":[-70.581958,43.40112],"type":"Point"}
 }

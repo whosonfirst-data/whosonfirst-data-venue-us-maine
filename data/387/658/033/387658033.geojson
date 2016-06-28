@@ -2,13 +2,14 @@
   "id": 387658033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.51668,44.219174,-70.51668,44.219174",
     "geom:latitude":44.219174,
     "geom:longitude":-70.51668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Main St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387658033,
-    "wof:lastmodified":1449056027,
+    "wof:lastmodified":1466586088,
     "wof:name":"Power Rain Car Wash",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-70.51668,44.219174,-70.51668,44.219174],
-  "geometry": {"coordinates":[-70.51668,44.219174],"type":"Point"}
+  "bbox": [
+    -70.51668,
+    44.219174,
+    -70.51668,
+    44.219174
+],
+  "geometry": {"coordinates":[-70.51667999999999,44.219174],"type":"Point"}
 }

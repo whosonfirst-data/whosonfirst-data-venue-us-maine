@@ -2,13 +2,14 @@
   "id": 387855573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.178502,44.084644,-69.178502,44.084644",
     "geom:latitude":44.084644,
     "geom:longitude":-69.178502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Erin St",
     "sg:city":"Thomaston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387855573,
-    "wof:lastmodified":1449058912,
+    "wof:lastmodified":1466587173,
     "wof:name":"William E Dornan & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-69.178502,44.084644,-69.178502,44.084644],
-  "geometry": {"coordinates":[-69.178502,44.084644],"type":"Point"}
+  "bbox": [
+    -69.178502,
+    44.084644,
+    -69.178502,
+    44.084644
+],
+  "geometry": {"coordinates":[-69.17850199999999,44.084644],"type":"Point"}
 }

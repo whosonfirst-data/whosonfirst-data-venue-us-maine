@@ -2,13 +2,14 @@
   "id": 403768285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.71776,43.457122,-70.71776,43.457122",
     "geom:latitude":43.457122,
     "geom:longitude":-70.71776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Swetts Bridge Rd",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403768285,
-    "wof:lastmodified":1449055143,
+    "wof:lastmodified":1466586505,
     "wof:name":"Daney's Auto Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-70.71776,43.457122,-70.71776,43.457122],
+  "bbox": [
+    -70.71776,
+    43.457122,
+    -70.71776,
+    43.457122
+],
   "geometry": {"coordinates":[-70.71776,43.457122],"type":"Point"}
 }

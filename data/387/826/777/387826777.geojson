@@ -2,13 +2,14 @@
   "id": 387826777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.297314,43.687442,-70.297314,43.687442",
     "geom:latitude":43.687442,
     "geom:longitude":-70.297314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Bishop St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387826777,
-    "wof:lastmodified":1449058874,
+    "wof:lastmodified":1466587193,
     "wof:name":"N E P W Logistics Inc",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-70.297314,43.687442,-70.297314,43.687442],
+  "bbox": [
+    -70.297314,
+    43.687442,
+    -70.297314,
+    43.687442
+],
   "geometry": {"coordinates":[-70.297314,43.687442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404138117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.561567,43.463721,-70.561567,43.463721",
     "geom:latitude":43.463721,
     "geom:longitude":-70.561567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Irving Rd",
     "sg:city":"Arundel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404138117,
-    "wof:lastmodified":1449039365,
+    "wof:lastmodified":1466586576,
     "wof:name":"Dubois Livestock",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "topsoil"
     ]
 },
-  "bbox": [-70.561567,43.463721,-70.561567,43.463721],
+  "bbox": [
+    -70.561567,
+    43.463721,
+    -70.561567,
+    43.463721
+],
   "geometry": {"coordinates":[-70.561567,43.463721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403886809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.114635,44.109903,-70.114635,44.109903",
     "geom:latitude":44.109903,
     "geom:longitude":-70.114635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Sabattus Rd",
     "sg:city":"Sabattus",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403886809,
-    "wof:lastmodified":1449055374,
+    "wof:lastmodified":1466586873,
     "wof:name":"Sabattus House Of Pizza",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.114635,44.109903,-70.114635,44.109903],
-  "geometry": {"coordinates":[-70.114635,44.109903],"type":"Point"}
+  "bbox": [
+    -70.114635,
+    44.109903,
+    -70.114635,
+    44.109903
+],
+  "geometry": {"coordinates":[-70.11463500000001,44.109903],"type":"Point"}
 }

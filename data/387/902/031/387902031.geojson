@@ -2,13 +2,14 @@
   "id": 387902031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.457377,44.537321,-70.457377,44.537321",
     "geom:latitude":44.537321,
     "geom:longitude":-70.457377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 North St",
     "sg:city":"Dixfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387902031,
-    "wof:lastmodified":1449058923,
+    "wof:lastmodified":1466587315,
     "wof:name":"Sara Pepper Place 5",
     "wof:parent_id":85814509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.457377,44.537321,-70.457377,44.537321],
-  "geometry": {"coordinates":[-70.457377,44.537321],"type":"Point"}
+  "bbox": [
+    -70.457377,
+    44.537321,
+    -70.457377,
+    44.537321
+],
+  "geometry": {"coordinates":[-70.45737699999999,44.537321],"type":"Point"}
 }

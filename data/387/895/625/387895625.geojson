@@ -2,13 +2,14 @@
   "id": 387895625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.384249,43.709974,-70.384249,43.709974",
     "geom:latitude":43.709974,
     "geom:longitude":-70.384249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 River Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387895625,
-    "wof:lastmodified":1449057722,
+    "wof:lastmodified":1466587233,
     "wof:name":"Unity Of Greater Portland Chr",
     "wof:parent_id":85835377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.384249,43.709974,-70.384249,43.709974],
+  "bbox": [
+    -70.384249,
+    43.709974,
+    -70.384249,
+    43.709974
+],
   "geometry": {"coordinates":[-70.384249,43.709974],"type":"Point"}
 }

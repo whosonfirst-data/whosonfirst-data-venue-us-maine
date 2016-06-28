@@ -2,13 +2,14 @@
   "id": 387839753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.756683,44.790684,-68.756683,44.790684",
     "geom:latitude":44.790684,
     "geom:longitude":-68.756683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 State St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387839753,
-    "wof:lastmodified":1449058390,
+    "wof:lastmodified":1466587144,
     "wof:name":"Novus Windsheild Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-68.756683,44.790684,-68.756683,44.790684],
+  "bbox": [
+    -68.756683,
+    44.790684,
+    -68.756683,
+    44.790684
+],
   "geometry": {"coordinates":[-68.756683,44.790684],"type":"Point"}
 }

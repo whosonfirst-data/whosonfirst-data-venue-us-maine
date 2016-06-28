@@ -2,13 +2,14 @@
   "id": 403868955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.288314,43.671002,-70.288314,43.671002",
     "geom:latitude":43.671002,
     "geom:longitude":-70.288314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Norwood St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403868955,
-    "wof:lastmodified":1449054678,
+    "wof:lastmodified":1466586781,
     "wof:name":"Calligraphics",
     "wof:parent_id":85858627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.288314,43.671002,-70.288314,43.671002],
+  "bbox": [
+    -70.288314,
+    43.671002,
+    -70.288314,
+    43.671002
+],
   "geometry": {"coordinates":[-70.288314,43.671002],"type":"Point"}
 }

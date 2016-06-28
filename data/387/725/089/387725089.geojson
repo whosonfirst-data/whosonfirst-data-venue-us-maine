@@ -2,13 +2,14 @@
   "id": 387725089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.800124,44.844821,-68.800124,44.844821",
     "geom:latitude":44.844821,
     "geom:longitude":-68.800124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1476 Broadway",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387725089,
-    "wof:lastmodified":1449057027,
+    "wof:lastmodified":1466586819,
     "wof:name":"Grace Evangelical Cllg/Smnry",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.800124,44.844821,-68.800124,44.844821],
+  "bbox": [
+    -68.800124,
+    44.844821,
+    -68.800124,
+    44.844821
+],
   "geometry": {"coordinates":[-68.800124,44.844821],"type":"Point"}
 }

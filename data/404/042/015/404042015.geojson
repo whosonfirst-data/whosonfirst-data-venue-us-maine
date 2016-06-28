@@ -2,13 +2,14 @@
   "id": 404042015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.279529,43.700897,-70.279529,43.700897",
     "geom:latitude":43.700897,
     "geom:longitude":-70.279529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Ray St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404042015,
-    "wof:lastmodified":1449040010,
+    "wof:lastmodified":1466586117,
     "wof:name":"Tiny Treasure's Preschool",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-70.279529,43.700897,-70.279529,43.700897],
+  "bbox": [
+    -70.279529,
+    43.700897,
+    -70.279529,
+    43.700897
+],
   "geometry": {"coordinates":[-70.279529,43.700897],"type":"Point"}
 }

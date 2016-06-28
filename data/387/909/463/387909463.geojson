@@ -2,13 +2,14 @@
   "id": 387909463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.290468,43.707568,-70.290468,43.707568",
     "geom:latitude":43.707568,
     "geom:longitude":-70.290468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Auburn St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387909463,
-    "wof:lastmodified":1449058970,
+    "wof:lastmodified":1466587319,
     "wof:name":"Michele Keef",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-70.290468,43.707568,-70.290468,43.707568],
+  "bbox": [
+    -70.290468,
+    43.707568,
+    -70.290468,
+    43.707568
+],
   "geometry": {"coordinates":[-70.290468,43.707568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387688243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.334392,43.590101,-70.334392,43.590101",
     "geom:latitude":43.590101,
     "geom:longitude":-70.334392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 US Hwy 1",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387688243,
-    "wof:lastmodified":1449057525,
+    "wof:lastmodified":1466586576,
     "wof:name":"Hannaford Supermarkets",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-70.334392,43.590101,-70.334392,43.590101],
-  "geometry": {"coordinates":[-70.334392,43.590101],"type":"Point"}
+  "bbox": [
+    -70.334392,
+    43.590101,
+    -70.334392,
+    43.590101
+],
+  "geometry": {"coordinates":[-70.33439199999999,43.590101],"type":"Point"}
 }

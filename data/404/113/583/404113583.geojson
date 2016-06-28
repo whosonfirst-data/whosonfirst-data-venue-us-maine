@@ -2,13 +2,14 @@
   "id": 404113583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.553246,43.59645,-70.553246,43.59645",
     "geom:latitude":43.59645,
     "geom:longitude":-70.553246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Narragansett Trl",
     "sg:city":"Buxton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404113583,
-    "wof:lastmodified":1449040228,
+    "wof:lastmodified":1466586197,
     "wof:name":"Mattor Co",
     "wof:parent_id":85852373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-70.553246,43.59645,-70.553246,43.59645],
+  "bbox": [
+    -70.553246,
+    43.59645,
+    -70.553246,
+    43.59645
+],
   "geometry": {"coordinates":[-70.553246,43.59645],"type":"Point"}
 }

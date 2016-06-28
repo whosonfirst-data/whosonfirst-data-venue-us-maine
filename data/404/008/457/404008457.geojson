@@ -2,13 +2,14 @@
   "id": 404008457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.487924,43.718317,-70.487924,43.718317",
     "geom:latitude":43.718317,
     "geom:longitude":-70.487924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Quail Ridge Dr",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404008457,
-    "wof:lastmodified":1449039397,
+    "wof:lastmodified":1466585798,
     "wof:name":"Indoor Environment Control Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gas"
     ]
 },
-  "bbox": [-70.487924,43.718317,-70.487924,43.718317],
-  "geometry": {"coordinates":[-70.487924,43.718317],"type":"Point"}
+  "bbox": [
+    -70.487924,
+    43.718317,
+    -70.487924,
+    43.718317
+],
+  "geometry": {"coordinates":[-70.48792400000001,43.718317],"type":"Point"}
 }

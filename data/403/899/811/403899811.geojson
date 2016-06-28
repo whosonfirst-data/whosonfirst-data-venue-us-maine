@@ -2,13 +2,14 @@
   "id": 403899811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.289342,43.715612,-70.289342,43.715612",
     "geom:latitude":43.715612,
     "geom:longitude":-70.289342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Clayton St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403899811,
-    "wof:lastmodified":1449055879,
+    "wof:lastmodified":1466587013,
     "wof:name":"Skyline Music",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-70.289342,43.715612,-70.289342,43.715612],
+  "bbox": [
+    -70.289342,
+    43.715612,
+    -70.289342,
+    43.715612
+],
   "geometry": {"coordinates":[-70.289342,43.715612],"type":"Point"}
 }

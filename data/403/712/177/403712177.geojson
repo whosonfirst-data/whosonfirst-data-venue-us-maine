@@ -2,13 +2,14 @@
   "id": 403712177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.309594,43.652199,-70.309594,43.652199",
     "geom:latitude":43.652199,
     "geom:longitude":-70.309594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"987 Westbrook St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403712177,
-    "wof:lastmodified":1449055208,
+    "wof:lastmodified":1466585748,
     "wof:name":"Northeast Air Motive",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-70.309594,43.652199,-70.309594,43.652199],
+  "bbox": [
+    -70.309594,
+    43.652199,
+    -70.309594,
+    43.652199
+],
   "geometry": {"coordinates":[-70.309594,43.652199],"type":"Point"}
 }

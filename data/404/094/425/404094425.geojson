@@ -2,13 +2,14 @@
   "id": 404094425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.741157,44.806204,-68.741157,44.806204",
     "geom:latitude":44.806204,
     "geom:longitude":-68.741157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"559 N Main St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404094425,
-    "wof:lastmodified":1449039866,
+    "wof:lastmodified":1466585913,
     "wof:name":"Twin City Baptist Church",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.741157,44.806204,-68.741157,44.806204],
+  "bbox": [
+    -68.741157,
+    44.806204,
+    -68.741157,
+    44.806204
+],
   "geometry": {"coordinates":[-68.741157,44.806204],"type":"Point"}
 }

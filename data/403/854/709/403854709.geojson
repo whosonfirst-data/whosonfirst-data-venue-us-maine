@@ -2,13 +2,14 @@
   "id": 403854709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.435582,44.539025,-68.435582,44.539025",
     "geom:latitude":44.539025,
     "geom:longitude":-68.435582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Bucksport Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403854709,
-    "wof:lastmodified":1449055900,
+    "wof:lastmodified":1466586726,
     "wof:name":"His & Hers Antiques",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.435582,44.539025,-68.435582,44.539025],
+  "bbox": [
+    -68.435582,
+    44.539025,
+    -68.435582,
+    44.539025
+],
   "geometry": {"coordinates":[-68.435582,44.539025],"type":"Point"}
 }

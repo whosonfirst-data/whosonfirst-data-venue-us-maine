@@ -2,13 +2,14 @@
   "id": 404114363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.449362,43.490027,-70.449362,43.490027",
     "geom:latitude":43.490027,
     "geom:longitude":-70.449362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Pike St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404114363,
-    "wof:lastmodified":1449039543,
+    "wof:lastmodified":1466586209,
     "wof:name":"Camille Fabrics Co",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.449362,43.490027,-70.449362,43.490027],
-  "geometry": {"coordinates":[-70.449362,43.490027],"type":"Point"}
+  "bbox": [
+    -70.449362,
+    43.490027,
+    -70.449362,
+    43.490027
+],
+  "geometry": {"coordinates":[-70.44936199999999,43.490027],"type":"Point"}
 }

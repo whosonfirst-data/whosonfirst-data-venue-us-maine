@@ -2,13 +2,14 @@
   "id": 404212985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.765729,43.42455,-70.765729,43.42455",
     "geom:latitude":43.42455,
     "geom:longitude":-70.765729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Breary Ave",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404212985,
-    "wof:lastmodified":1449039912,
+    "wof:lastmodified":1466586973,
     "wof:name":"Breary Farms Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-70.765729,43.42455,-70.765729,43.42455],
-  "geometry": {"coordinates":[-70.765729,43.42455],"type":"Point"}
+  "bbox": [
+    -70.765729,
+    43.42455,
+    -70.765729,
+    43.42455
+],
+  "geometry": {"coordinates":[-70.76572899999999,43.42455],"type":"Point"}
 }

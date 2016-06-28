@@ -2,13 +2,14 @@
   "id": 387778573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.799486,46.127468,-67.799486,46.127468",
     "geom:latitude":46.127468,
     "geom:longitude":-67.799486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 3rd St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387778573,
-    "wof:lastmodified":1449056198,
+    "wof:lastmodified":1466586993,
     "wof:name":"High Definition",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.799486,46.127468,-67.799486,46.127468],
+  "bbox": [
+    -67.799486,
+    46.127468,
+    -67.799486,
+    46.127468
+],
   "geometry": {"coordinates":[-67.799486,46.127468],"type":"Point"}
 }

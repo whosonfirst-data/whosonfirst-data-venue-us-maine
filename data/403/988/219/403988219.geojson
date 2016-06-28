@@ -2,13 +2,14 @@
   "id": 403988219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.157683,44.691812,-70.157683,44.691812",
     "geom:latitude":44.691812,
     "geom:longitude":-70.157683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Fairbanks Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403988219,
-    "wof:lastmodified":1449055086,
+    "wof:lastmodified":1466587087,
     "wof:name":"Integrity Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.157683,44.691812,-70.157683,44.691812],
-  "geometry": {"coordinates":[-70.157683,44.691812],"type":"Point"}
+  "bbox": [
+    -70.157683,
+    44.691812,
+    -70.157683,
+    44.691812
+],
+  "geometry": {"coordinates":[-70.15768300000001,44.691812],"type":"Point"}
 }

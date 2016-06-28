@@ -2,13 +2,14 @@
   "id": 403762731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.257131,43.654815,-70.257131,43.654815",
     "geom:latitude":43.654815,
     "geom:longitude":-70.257131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Center St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403762731,
-    "wof:lastmodified":1449055556,
+    "wof:lastmodified":1466586447,
     "wof:name":"Northeast Trade Shows Inc",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "show"
     ]
 },
-  "bbox": [-70.257131,43.654815,-70.257131,43.654815],
+  "bbox": [
+    -70.257131,
+    43.654815,
+    -70.257131,
+    43.654815
+],
   "geometry": {"coordinates":[-70.257131,43.654815],"type":"Point"}
 }

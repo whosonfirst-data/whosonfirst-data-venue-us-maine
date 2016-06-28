@@ -2,13 +2,14 @@
   "id": 387858541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.533806,44.211293,-70.533806,44.211293",
     "geom:latitude":44.211293,
     "geom:longitude":-70.533806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Paris St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387858541,
-    "wof:lastmodified":1449056481,
+    "wof:lastmodified":1466587177,
     "wof:name":"Richard Pollack",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-70.533806,44.211293,-70.533806,44.211293],
+  "bbox": [
+    -70.533806,
+    44.211293,
+    -70.533806,
+    44.211293
+],
   "geometry": {"coordinates":[-70.533806,44.211293],"type":"Point"}
 }

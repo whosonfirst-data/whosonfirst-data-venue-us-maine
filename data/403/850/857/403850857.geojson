@@ -2,13 +2,14 @@
   "id": 403850857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.338041,44.256764,-68.338041,44.256764",
     "geom:latitude":44.256764,
     "geom:longitude":-68.338041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Bass Harbor Rd",
     "sg:city":"Southwest Harbor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403850857,
-    "wof:lastmodified":1449055405,
+    "wof:lastmodified":1466586650,
     "wof:name":"Bill & Skip's Automotive Svc",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-68.338041,44.256764,-68.338041,44.256764],
+  "bbox": [
+    -68.338041,
+    44.256764,
+    -68.338041,
+    44.256764
+],
   "geometry": {"coordinates":[-68.338041,44.256764],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387653027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.576474,43.496997,-70.576474,43.496997",
     "geom:latitude":43.496997,
     "geom:longitude":-70.576474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Tibbetts Ln",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387653027,
-    "wof:lastmodified":1449056386,
+    "wof:lastmodified":1466586016,
     "wof:name":"Southern New Hampshire Univ",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.576474,43.496997,-70.576474,43.496997],
+  "bbox": [
+    -70.576474,
+    43.496997,
+    -70.576474,
+    43.496997
+],
   "geometry": {"coordinates":[-70.576474,43.496997],"type":"Point"}
 }

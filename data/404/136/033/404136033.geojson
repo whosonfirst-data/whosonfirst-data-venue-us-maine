@@ -2,13 +2,14 @@
   "id": 404136033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.77479,44.314827,-69.77479,44.314827",
     "geom:latitude":44.314827,
     "geom:longitude":-69.77479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Winthrop St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404136033,
-    "wof:lastmodified":1449040313,
+    "wof:lastmodified":1466586542,
     "wof:name":"Peachey Builders",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.77479,44.314827,-69.77479,44.314827],
+  "bbox": [
+    -69.77479,
+    44.314827,
+    -69.77479,
+    44.314827
+],
   "geometry": {"coordinates":[-69.77479,44.314827],"type":"Point"}
 }

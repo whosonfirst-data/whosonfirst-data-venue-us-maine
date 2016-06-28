@@ -2,13 +2,14 @@
   "id": 387970153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.31709,43.69972,-70.31709,43.69972",
     "geom:latitude":43.69972,
     "geom:longitude":-70.31709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1844 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387970153,
-    "wof:lastmodified":1449059857,
+    "wof:lastmodified":1466587304,
     "wof:name":"Presumpscot Grange Hall",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.31709,43.69972,-70.31709,43.69972],
-  "geometry": {"coordinates":[-70.31709,43.69972],"type":"Point"}
+  "bbox": [
+    -70.31709,
+    43.69972,
+    -70.31709,
+    43.69972
+],
+  "geometry": {"coordinates":[-70.31708999999999,43.69972],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403760685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.255793,43.678681,-70.255793,43.678681",
     "geom:latitude":43.678681,
     "geom:longitude":-70.255793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Beanpot Cir",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403760685,
-    "wof:lastmodified":1449055896,
+    "wof:lastmodified":1466586415,
     "wof:name":"Burnham & Morrill Co",
     "wof:parent_id":85816239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [-70.255793,43.678681,-70.255793,43.678681],
+  "bbox": [
+    -70.255793,
+    43.678681,
+    -70.255793,
+    43.678681
+],
   "geometry": {"coordinates":[-70.255793,43.678681],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404148187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.186728,43.829541,-70.186728,43.829541",
     "geom:latitude":43.829541,
     "geom:longitude":-70.186728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Ledge Rd",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404148187,
-    "wof:lastmodified":1449040125,
+    "wof:lastmodified":1466586720,
     "wof:name":"Bob Miles & Son",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.186728,43.829541,-70.186728,43.829541],
+  "bbox": [
+    -70.186728,
+    43.829541,
+    -70.186728,
+    43.829541
+],
   "geometry": {"coordinates":[-70.186728,43.829541],"type":"Point"}
 }

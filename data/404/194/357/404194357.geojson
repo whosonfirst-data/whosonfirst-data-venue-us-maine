@@ -2,13 +2,14 @@
   "id": 404194357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.012508,44.424901,-69.012508,44.424901",
     "geom:latitude":44.424901,
     "geom:longitude":-69.012508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Main St",
     "sg:city":"Kingfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404194357,
-    "wof:lastmodified":1449040142,
+    "wof:lastmodified":1466586974,
     "wof:name":"Mountain Village Inn",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.012508,44.424901,-69.012508,44.424901],
+  "bbox": [
+    -69.012508,
+    44.424901,
+    -69.012508,
+    44.424901
+],
   "geometry": {"coordinates":[-69.012508,44.424901],"type":"Point"}
 }

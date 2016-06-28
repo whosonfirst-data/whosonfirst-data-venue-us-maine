@@ -2,13 +2,14 @@
   "id": 404194463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242054,43.649719,-70.242054,43.649719",
     "geom:latitude":43.649719,
     "geom:longitude":-70.242054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404194463,
-    "wof:lastmodified":1449040141,
+    "wof:lastmodified":1466586898,
     "wof:name":"Jimmy Express Floor Sanding",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-70.242054,43.649719,-70.242054,43.649719],
+  "bbox": [
+    -70.242054,
+    43.649719,
+    -70.242054,
+    43.649719
+],
   "geometry": {"coordinates":[-70.242054,43.649719],"type":"Point"}
 }

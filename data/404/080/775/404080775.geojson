@@ -2,13 +2,14 @@
   "id": 404080775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242545,43.65016,-70.242545,43.65016",
     "geom:latitude":43.65016,
     "geom:longitude":-70.242545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404080775,
-    "wof:lastmodified":1449040302,
+    "wof:lastmodified":1466585749,
     "wof:name":"Badger Financial Svc",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-70.242545,43.65016,-70.242545,43.65016],
-  "geometry": {"coordinates":[-70.242545,43.65016],"type":"Point"}
+  "bbox": [
+    -70.242545,
+    43.65016,
+    -70.242545,
+    43.65016
+],
+  "geometry": {"coordinates":[-70.24254500000001,43.65016],"type":"Point"}
 }

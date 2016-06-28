@@ -2,13 +2,14 @@
   "id": 404190589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.913742,43.623708,-70.913742,43.623708",
     "geom:latitude":43.623708,
     "geom:longitude":-70.913742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Mountain Rd",
     "sg:city":"West Newfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404190589,
-    "wof:lastmodified":1449040264,
+    "wof:lastmodified":1466586812,
     "wof:name":"Don Seymour Dry Wall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.913742,43.623708,-70.913742,43.623708],
+  "bbox": [
+    -70.913742,
+    43.623708,
+    -70.913742,
+    43.623708
+],
   "geometry": {"coordinates":[-70.913742,43.623708],"type":"Point"}
 }

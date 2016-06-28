@@ -2,13 +2,14 @@
   "id": 404175785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.158678,43.810689,-70.158678,43.810689",
     "geom:latitude":43.810689,
     "geom:longitude":-70.158678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1269 US Hwy 1",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404175785,
-    "wof:lastmodified":1449039959,
+    "wof:lastmodified":1466586804,
     "wof:name":"Day's Seafood Takeout Rest",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.158678,43.810689,-70.158678,43.810689],
-  "geometry": {"coordinates":[-70.158678,43.810689],"type":"Point"}
+  "bbox": [
+    -70.158678,
+    43.810689,
+    -70.158678,
+    43.810689
+],
+  "geometry": {"coordinates":[-70.15867799999999,43.810689],"type":"Point"}
 }

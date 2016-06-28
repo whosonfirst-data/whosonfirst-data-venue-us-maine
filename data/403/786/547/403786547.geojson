@@ -2,13 +2,14 @@
   "id": 403786547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.426563,44.549234,-68.426563,44.549234",
     "geom:latitude":44.549234,
     "geom:longitude":-68.426563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 State St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403786547,
-    "wof:lastmodified":1449054799,
+    "wof:lastmodified":1466585771,
     "wof:name":"April Shears",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.426563,44.549234,-68.426563,44.549234],
+  "bbox": [
+    -68.426563,
+    44.549234,
+    -68.426563,
+    44.549234
+],
   "geometry": {"coordinates":[-68.426563,44.549234],"type":"Point"}
 }

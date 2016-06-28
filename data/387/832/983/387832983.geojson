@@ -2,13 +2,14 @@
   "id": 387832983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.765113,43.454843,-70.765113,43.454843",
     "geom:latitude":43.454843,
     "geom:longitude":-70.765113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"272 Cottage St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387832983,
-    "wof:lastmodified":1449056133,
+    "wof:lastmodified":1466587125,
     "wof:name":"N E Retina Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.765113,43.454843,-70.765113,43.454843],
+  "bbox": [
+    -70.765113,
+    43.454843,
+    -70.765113,
+    43.454843
+],
   "geometry": {"coordinates":[-70.765113,43.454843],"type":"Point"}
 }

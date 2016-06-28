@@ -2,13 +2,14 @@
   "id": 404084597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.29765,43.667349,-70.29765,43.667349",
     "geom:latitude":43.667349,
     "geom:longitude":-70.29765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 Brighton Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404084597,
-    "wof:lastmodified":1449039151,
+    "wof:lastmodified":1466585803,
     "wof:name":"Nazarene First Church",
     "wof:parent_id":85846029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.29765,43.667349,-70.29765,43.667349],
+  "bbox": [
+    -70.29765,
+    43.667349,
+    -70.29765,
+    43.667349
+],
   "geometry": {"coordinates":[-70.29765,43.667349],"type":"Point"}
 }

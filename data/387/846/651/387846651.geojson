@@ -2,13 +2,14 @@
   "id": 387846651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.109208,44.103263,-69.109208,44.103263",
     "geom:latitude":44.103263,
     "geom:longitude":-69.109208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Main St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387846651,
-    "wof:lastmodified":1449059052,
+    "wof:lastmodified":1466587155,
     "wof:name":"Saltwater Trading Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-69.109208,44.103263,-69.109208,44.103263],
+  "bbox": [
+    -69.109208,
+    44.103263,
+    -69.109208,
+    44.103263
+],
   "geometry": {"coordinates":[-69.109208,44.103263],"type":"Point"}
 }

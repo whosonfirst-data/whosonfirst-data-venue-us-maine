@@ -2,13 +2,14 @@
   "id": 387965175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.286452,43.679121,-70.286452,43.679121",
     "geom:latitude":43.679121,
     "geom:longitude":-70.286452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Walton St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387965175,
-    "wof:lastmodified":1449058769,
+    "wof:lastmodified":1466587346,
     "wof:name":"Battery World",
     "wof:parent_id":85858625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "generator"
     ]
 },
-  "bbox": [-70.286452,43.679121,-70.286452,43.679121],
+  "bbox": [
+    -70.286452,
+    43.679121,
+    -70.286452,
+    43.679121
+],
   "geometry": {"coordinates":[-70.286452,43.679121],"type":"Point"}
 }

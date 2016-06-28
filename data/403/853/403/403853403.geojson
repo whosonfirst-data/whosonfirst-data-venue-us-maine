@@ -2,13 +2,14 @@
   "id": 403853403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.288554,43.633901,-70.288554,43.633901",
     "geom:latitude":43.633901,
     "geom:longitude":-70.288554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Main St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403853403,
-    "wof:lastmodified":1449055169,
+    "wof:lastmodified":1466586724,
     "wof:name":"Donalco Inc",
     "wof:parent_id":85809743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.288554,43.633901,-70.288554,43.633901],
+  "bbox": [
+    -70.288554,
+    43.633901,
+    -70.288554,
+    43.633901
+],
   "geometry": {"coordinates":[-70.288554,43.633901],"type":"Point"}
 }

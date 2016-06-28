@@ -2,13 +2,14 @@
   "id": 404136073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.648861,44.947604,-68.648861,44.947604",
     "geom:latitude":44.947604,
     "geom:longitude":-68.648861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 River Rd",
     "sg:city":"Indian Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404136073,
-    "wof:lastmodified":1449040311,
+    "wof:lastmodified":1466586543,
     "wof:name":"RCAP Solutions Inc",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-68.648861,44.947604,-68.648861,44.947604],
+  "bbox": [
+    -68.648861,
+    44.947604,
+    -68.648861,
+    44.947604
+],
   "geometry": {"coordinates":[-68.648861,44.947604],"type":"Point"}
 }

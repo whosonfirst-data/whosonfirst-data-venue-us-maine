@@ -2,13 +2,14 @@
   "id": 387769909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.229017,43.745704,-70.229017,43.745704",
     "geom:latitude":43.745704,
     "geom:longitude":-70.229017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Jackson Way",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387769909,
-    "wof:lastmodified":1449057364,
+    "wof:lastmodified":1466586968,
     "wof:name":"Magic Mike's",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-70.229017,43.745704,-70.229017,43.745704],
+  "bbox": [
+    -70.229017,
+    43.745704,
+    -70.229017,
+    43.745704
+],
   "geometry": {"coordinates":[-70.229017,43.745704],"type":"Point"}
 }

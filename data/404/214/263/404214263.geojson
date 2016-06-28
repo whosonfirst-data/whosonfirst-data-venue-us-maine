@@ -2,13 +2,14 @@
   "id": 404214263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.108101,44.741709,-70.108101,44.741709",
     "geom:latitude":44.741709,
     "geom:longitude":-70.108101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Federal Row",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404214263,
-    "wof:lastmodified":1449040295,
+    "wof:lastmodified":1466586890,
     "wof:name":"William Hyde Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "footwear"
     ]
 },
-  "bbox": [-70.108101,44.741709,-70.108101,44.741709],
+  "bbox": [
+    -70.108101,
+    44.741709,
+    -70.108101,
+    44.741709
+],
   "geometry": {"coordinates":[-70.108101,44.741709],"type":"Point"}
 }

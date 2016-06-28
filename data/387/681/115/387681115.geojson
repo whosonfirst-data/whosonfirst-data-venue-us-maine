@@ -2,13 +2,14 @@
   "id": 387681115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.23153,44.104907,-70.23153,44.104907",
     "geom:latitude":44.104907,
     "geom:longitude":-70.23153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Dennison St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387681115,
-    "wof:lastmodified":1449058428,
+    "wof:lastmodified":1466586456,
     "wof:name":"Sunlight Builders",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-70.23153,44.104907,-70.23153,44.104907],
-  "geometry": {"coordinates":[-70.23153,44.104907],"type":"Point"}
+  "bbox": [
+    -70.23153,
+    44.104907,
+    -70.23153,
+    44.104907
+],
+  "geometry": {"coordinates":[-70.23153000000001,44.104907],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387957647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.006459,44.903031,-69.006459,44.903031",
     "geom:latitude":44.903031,
     "geom:longitude":-69.006459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Stetson Rd E",
     "sg:city":"Levant",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387957647,
-    "wof:lastmodified":1449059359,
+    "wof:lastmodified":1466587340,
     "wof:name":"Jukebox Entertainment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-69.006459,44.903031,-69.006459,44.903031],
-  "geometry": {"coordinates":[-69.006459,44.903031],"type":"Point"}
+  "bbox": [
+    -69.006459,
+    44.903031,
+    -69.006459,
+    44.903031
+],
+  "geometry": {"coordinates":[-69.00645900000001,44.903031],"type":"Point"}
 }

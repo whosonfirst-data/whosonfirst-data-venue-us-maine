@@ -2,13 +2,14 @@
   "id": 404133177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.332494,43.68331,-70.332494,43.68331",
     "geom:latitude":43.68331,
     "geom:longitude":-70.332494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Chabot St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404133177,
-    "wof:lastmodified":1449040096,
+    "wof:lastmodified":1466586496,
     "wof:name":"Maine Center For Healthcare",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.332494,43.68331,-70.332494,43.68331],
+  "bbox": [
+    -70.332494,
+    43.68331,
+    -70.332494,
+    43.68331
+],
   "geometry": {"coordinates":[-70.332494,43.68331],"type":"Point"}
 }

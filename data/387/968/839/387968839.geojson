@@ -2,13 +2,14 @@
   "id": 387968839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.379259,44.935083,-69.379259,44.935083",
     "geom:latitude":44.935083,
     "geom:longitude":-69.379259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Orchard Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387968839,
-    "wof:lastmodified":1449056352,
+    "wof:lastmodified":1466587351,
     "wof:name":"North Star Orchards",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-69.379259,44.935083,-69.379259,44.935083],
+  "bbox": [
+    -69.379259,
+    44.935083,
+    -69.379259,
+    44.935083
+],
   "geometry": {"coordinates":[-69.379259,44.935083],"type":"Point"}
 }

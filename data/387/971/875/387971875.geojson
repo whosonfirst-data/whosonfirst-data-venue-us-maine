@@ -2,13 +2,14 @@
   "id": 387971875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.103262,43.866858,-70.103262,43.866858",
     "geom:latitude":43.866858,
     "geom:longitude":-70.103262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Kendall Ln",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387971875,
-    "wof:lastmodified":1449058033,
+    "wof:lastmodified":1466587350,
     "wof:name":"Skinner & Associates Inc",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "landscape"
     ]
 },
-  "bbox": [-70.103262,43.866858,-70.103262,43.866858],
+  "bbox": [
+    -70.103262,
+    43.866858,
+    -70.103262,
+    43.866858
+],
   "geometry": {"coordinates":[-70.103262,43.866858],"type":"Point"}
 }

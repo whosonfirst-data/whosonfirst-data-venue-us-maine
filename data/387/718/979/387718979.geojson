@@ -2,13 +2,14 @@
   "id": 387718979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.861944,44.228568,-69.861944,44.228568",
     "geom:latitude":44.228568,
     "geom:longitude":-69.861944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1061 High St",
     "sg:city":"Gardiner",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387718979,
-    "wof:lastmodified":1449056919,
+    "wof:lastmodified":1466586813,
     "wof:name":"Wormwoods Small Engine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.861944,44.228568,-69.861944,44.228568],
-  "geometry": {"coordinates":[-69.861944,44.228568],"type":"Point"}
+  "bbox": [
+    -69.861944,
+    44.228568,
+    -69.861944,
+    44.228568
+],
+  "geometry": {"coordinates":[-69.86194399999999,44.228568],"type":"Point"}
 }

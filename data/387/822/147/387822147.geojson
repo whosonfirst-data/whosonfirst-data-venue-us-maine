@@ -2,13 +2,14 @@
   "id": 387822147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.54496,44.54443,-70.54496,44.54443",
     "geom:latitude":44.54443,
     "geom:longitude":-70.54496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Canal St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387822147,
-    "wof:lastmodified":1449059804,
+    "wof:lastmodified":1466587103,
     "wof:name":"Worumbo Hydro Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-70.54496,44.54443,-70.54496,44.54443],
+  "bbox": [
+    -70.54496,
+    44.54443,
+    -70.54496,
+    44.54443
+],
   "geometry": {"coordinates":[-70.54496,44.54443],"type":"Point"}
 }

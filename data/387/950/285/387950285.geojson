@@ -2,13 +2,14 @@
   "id": 387950285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.840597,44.676575,-68.840597,44.676575",
     "geom:latitude":44.676575,
     "geom:longitude":-68.840597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 N Main St",
     "sg:city":"Winterport",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387950285,
-    "wof:lastmodified":1449057586,
+    "wof:lastmodified":1466587289,
     "wof:name":"Forrest Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-68.840597,44.676575,-68.840597,44.676575],
+  "bbox": [
+    -68.840597,
+    44.676575,
+    -68.840597,
+    44.676575
+],
   "geometry": {"coordinates":[-68.840597,44.676575],"type":"Point"}
 }

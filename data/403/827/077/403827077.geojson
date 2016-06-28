@@ -2,13 +2,14 @@
   "id": 403827077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.912755,44.645262,-68.912755,44.645262",
     "geom:latitude":44.645262,
     "geom:longitude":-68.912755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Boston Rd",
     "sg:city":"Winterport",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403827077,
-    "wof:lastmodified":1449055102,
+    "wof:lastmodified":1466586381,
     "wof:name":"Penobscot Valley Kennel Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.912755,44.645262,-68.912755,44.645262],
+  "bbox": [
+    -68.912755,
+    44.645262,
+    -68.912755,
+    44.645262
+],
   "geometry": {"coordinates":[-68.912755,44.645262],"type":"Point"}
 }

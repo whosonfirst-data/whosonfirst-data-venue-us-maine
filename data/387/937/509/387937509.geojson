@@ -2,13 +2,14 @@
   "id": 387937509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.170602,44.150727,-70.170602,44.150727",
     "geom:latitude":44.150727,
     "geom:longitude":-70.170602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Sleeper Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387937509,
-    "wof:lastmodified":1449056821,
+    "wof:lastmodified":1466587269,
     "wof:name":"Time For Tots",
     "wof:parent_id":85819719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-70.170602,44.150727,-70.170602,44.150727],
+  "bbox": [
+    -70.170602,
+    44.150727,
+    -70.170602,
+    44.150727
+],
   "geometry": {"coordinates":[-70.170602,44.150727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387785881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.191744,44.101375,-70.191744,44.101375",
     "geom:latitude":44.101375,
     "geom:longitude":-70.191744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 Sabattus St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387785881,
-    "wof:lastmodified":1449059272,
+    "wof:lastmodified":1466587009,
     "wof:name":"Gendron's Mobil",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-70.191744,44.101375,-70.191744,44.101375],
+  "bbox": [
+    -70.191744,
+    44.101375,
+    -70.191744,
+    44.101375
+],
   "geometry": {"coordinates":[-70.191744,44.101375],"type":"Point"}
 }

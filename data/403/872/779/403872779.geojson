@@ -2,13 +2,14 @@
   "id": 403872779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.286312,43.674601,-70.286312,43.674601",
     "geom:latitude":43.674601,
     "geom:longitude":-70.286312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"778 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403872779,
-    "wof:lastmodified":1449054750,
+    "wof:lastmodified":1466586799,
     "wof:name":"Mary Chaney Acupuncturist",
     "wof:parent_id":85858625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-70.286312,43.674601,-70.286312,43.674601],
+  "bbox": [
+    -70.286312,
+    43.674601,
+    -70.286312,
+    43.674601
+],
   "geometry": {"coordinates":[-70.286312,43.674601],"type":"Point"}
 }

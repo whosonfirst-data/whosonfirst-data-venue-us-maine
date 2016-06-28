@@ -2,13 +2,14 @@
   "id": 404138425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.216718,44.095704,-70.216718,44.095704",
     "geom:latitude":44.095704,
     "geom:longitude":-70.216718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404138425,
-    "wof:lastmodified":1449039363,
+    "wof:lastmodified":1466586579,
     "wof:name":"Studio ELL",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "art"
     ]
 },
-  "bbox": [-70.216718,44.095704,-70.216718,44.095704],
+  "bbox": [
+    -70.216718,
+    44.095704,
+    -70.216718,
+    44.095704
+],
   "geometry": {"coordinates":[-70.216718,44.095704],"type":"Point"}
 }

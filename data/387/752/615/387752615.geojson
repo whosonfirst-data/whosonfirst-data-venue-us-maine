@@ -2,13 +2,14 @@
   "id": 387752615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.400937,43.477652,-70.400937,43.477652",
     "geom:latitude":43.477652,
     "geom:longitude":-70.400937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Windy Point Ln",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387752615,
-    "wof:lastmodified":1449056741,
+    "wof:lastmodified":1466586907,
     "wof:name":"Damess Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-70.400937,43.477652,-70.400937,43.477652],
+  "bbox": [
+    -70.400937,
+    43.477652,
+    -70.400937,
+    43.477652
+],
   "geometry": {"coordinates":[-70.400937,43.477652],"type":"Point"}
 }

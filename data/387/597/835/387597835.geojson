@@ -2,13 +2,14 @@
   "id": 387597835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.647394,43.141395,-70.647394,43.141395",
     "geom:latitude":43.141395,
     "geom:longitude":-70.647394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 US Hwy 1a",
     "sg:city":"York",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387597835,
-    "wof:lastmodified":1449059871,
+    "wof:lastmodified":1466586315,
     "wof:name":"Laser Skin Solutions",
     "wof:parent_id":85859383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-70.647394,43.141395,-70.647394,43.141395],
-  "geometry": {"coordinates":[-70.647394,43.141395],"type":"Point"}
+  "bbox": [
+    -70.647394,
+    43.141395,
+    -70.647394,
+    43.141395
+],
+  "geometry": {"coordinates":[-70.64739400000001,43.141395],"type":"Point"}
 }

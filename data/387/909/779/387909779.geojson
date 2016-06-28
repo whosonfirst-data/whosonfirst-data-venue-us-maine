@@ -2,13 +2,14 @@
   "id": 387909779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.975886,43.913705,-69.975886,43.913705",
     "geom:latitude":43.913705,
     "geom:longitude":-69.975886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Mill St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387909779,
-    "wof:lastmodified":1449058969,
+    "wof:lastmodified":1466587319,
     "wof:name":"Mainco Commercial Brokers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.975886,43.913705,-69.975886,43.913705],
+  "bbox": [
+    -69.975886,
+    43.913705,
+    -69.975886,
+    43.913705
+],
   "geometry": {"coordinates":[-69.975886,43.913705],"type":"Point"}
 }

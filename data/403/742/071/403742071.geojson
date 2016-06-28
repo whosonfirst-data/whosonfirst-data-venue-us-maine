@@ -2,13 +2,14 @@
   "id": 403742071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.541005,43.385702,-70.541005,43.385702",
     "geom:latitude":43.385702,
     "geom:longitude":-70.541005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Main St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403742071,
-    "wof:lastmodified":1449054722,
+    "wof:lastmodified":1466586086,
     "wof:name":"Marier's Men's Shop",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.541005,43.385702,-70.541005,43.385702],
+  "bbox": [
+    -70.541005,
+    43.385702,
+    -70.541005,
+    43.385702
+],
   "geometry": {"coordinates":[-70.541005,43.385702],"type":"Point"}
 }

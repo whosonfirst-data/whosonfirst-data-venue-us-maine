@@ -2,13 +2,14 @@
   "id": 404037759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.632074,44.91177,-68.632074,44.91177",
     "geom:latitude":44.91177,
     "geom:longitude":-68.632074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Main Rd",
     "sg:city":"Abbot",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404037759,
-    "wof:lastmodified":1449040344,
+    "wof:lastmodified":1466586057,
     "wof:name":"Harry's Garage",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-68.632074,44.91177,-68.632074,44.91177],
+  "bbox": [
+    -68.632074,
+    44.91177,
+    -68.632074,
+    44.91177
+],
   "geometry": {"coordinates":[-68.632074,44.91177],"type":"Point"}
 }

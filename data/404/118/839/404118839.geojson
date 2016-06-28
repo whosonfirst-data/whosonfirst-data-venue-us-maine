@@ -2,13 +2,14 @@
   "id": 404118839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.985095,46.687082,-67.985095,46.687082",
     "geom:latitude":46.687082,
     "geom:longitude":-67.985095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"453 State St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404118839,
-    "wof:lastmodified":1449040067,
+    "wof:lastmodified":1466586277,
     "wof:name":"Ed Pelletier & Sons Inc",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-67.985095,46.687082,-67.985095,46.687082],
+  "bbox": [
+    -67.985095,
+    46.687082,
+    -67.985095,
+    46.687082
+],
   "geometry": {"coordinates":[-67.985095,46.687082],"type":"Point"}
 }

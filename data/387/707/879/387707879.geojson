@@ -2,13 +2,14 @@
   "id": 387707879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.015641,46.68047,-68.015641,46.68047",
     "geom:latitude":46.68047,
     "geom:longitude":-68.015641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Main St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387707879,
-    "wof:lastmodified":1449059327,
+    "wof:lastmodified":1466586678,
     "wof:name":"Gary's Furniture & Appliance",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.015641,46.68047,-68.015641,46.68047],
+  "bbox": [
+    -68.015641,
+    46.68047,
+    -68.015641,
+    46.68047
+],
   "geometry": {"coordinates":[-68.015641,46.68047],"type":"Point"}
 }

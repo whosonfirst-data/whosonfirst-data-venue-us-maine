@@ -2,13 +2,14 @@
   "id": 387880373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.731916,44.240945,-69.731916,44.240945",
     "geom:latitude":44.240945,
     "geom:longitude":-69.731916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Togus Rd",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387880373,
-    "wof:lastmodified":1449059956,
+    "wof:lastmodified":1466587130,
     "wof:name":"Wing's Garage",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-69.731916,44.240945,-69.731916,44.240945],
+  "bbox": [
+    -69.731916,
+    44.240945,
+    -69.731916,
+    44.240945
+],
   "geometry": {"coordinates":[-69.731916,44.240945],"type":"Point"}
 }

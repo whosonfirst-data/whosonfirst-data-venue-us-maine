@@ -2,13 +2,14 @@
   "id": 404199823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.220204,44.596748,-70.220204,44.596748",
     "geom:latitude":44.596748,
     "geom:longitude":-70.220204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"959 Main St",
     "sg:city":"Wilton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404199823,
-    "wof:lastmodified":1449039143,
+    "wof:lastmodified":1466587003,
     "wof:name":"Western Maine Christian Acad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.220204,44.596748,-70.220204,44.596748],
+  "bbox": [
+    -70.220204,
+    44.596748,
+    -70.220204,
+    44.596748
+],
   "geometry": {"coordinates":[-70.220204,44.596748],"type":"Point"}
 }

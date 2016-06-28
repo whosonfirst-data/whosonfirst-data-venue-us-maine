@@ -2,13 +2,14 @@
   "id": 403888573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.311811,43.564981,-70.311811,43.564981",
     "geom:latitude":43.564981,
     "geom:longitude":-70.311811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Woodrock Dr",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403888573,
-    "wof:lastmodified":1449055474,
+    "wof:lastmodified":1466586786,
     "wof:name":"George Kotros Electric Inc",
     "wof:parent_id":85842219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.311811,43.564981,-70.311811,43.564981],
-  "geometry": {"coordinates":[-70.311811,43.564981],"type":"Point"}
+  "bbox": [
+    -70.311811,
+    43.564981,
+    -70.311811,
+    43.564981
+],
+  "geometry": {"coordinates":[-70.31181100000001,43.564981],"type":"Point"}
 }

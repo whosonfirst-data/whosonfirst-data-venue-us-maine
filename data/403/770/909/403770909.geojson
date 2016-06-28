@@ -2,13 +2,14 @@
   "id": 403770909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.539825,44.032553,-69.539825,44.032553",
     "geom:latitude":44.032553,
     "geom:longitude":-69.539825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 River Rd",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403770909,
-    "wof:lastmodified":1449056003,
+    "wof:lastmodified":1466586545,
     "wof:name":"Margaret Atwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-69.539825,44.032553,-69.539825,44.032553],
-  "geometry": {"coordinates":[-69.539825,44.032553],"type":"Point"}
+  "bbox": [
+    -69.539825,
+    44.032553,
+    -69.539825,
+    44.032553
+],
+  "geometry": {"coordinates":[-69.53982499999999,44.032553],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387551069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.505014,43.910306,-70.505014,43.910306",
     "geom:latitude":43.910306,
     "geom:longitude":-70.505014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1544 Roosevelt Trl",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387551069,
-    "wof:lastmodified":1449056862,
+    "wof:lastmodified":1466585669,
     "wof:name":"Hole In The Wall",
     "wof:parent_id":85841571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.505014,43.910306,-70.505014,43.910306],
+  "bbox": [
+    -70.505014,
+    43.910306,
+    -70.505014,
+    43.910306
+],
   "geometry": {"coordinates":[-70.505014,43.910306],"type":"Point"}
 }

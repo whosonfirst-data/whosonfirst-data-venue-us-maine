@@ -2,13 +2,14 @@
   "id": 404144033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.244577,43.593923,-70.244577,43.593923",
     "geom:latitude":43.593923,
     "geom:longitude":-70.244577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Scott Dyer Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404144033,
-    "wof:lastmodified":1449039994,
+    "wof:lastmodified":1466586805,
     "wof:name":"Bridles By Design Inc Leather",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.244577,43.593923,-70.244577,43.593923],
-  "geometry": {"coordinates":[-70.244577,43.593923],"type":"Point"}
+  "bbox": [
+    -70.244577,
+    43.593923,
+    -70.244577,
+    43.593923
+],
+  "geometry": {"coordinates":[-70.24457700000001,43.593923],"type":"Point"}
 }

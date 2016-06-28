@@ -2,13 +2,14 @@
   "id": 404089455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.015938,44.988094,-69.015938,44.988094",
     "geom:latitude":44.988094,
     "geom:longitude":-69.015938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W Corinth Rd",
     "sg:city":"East Corinth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404089455,
-    "wof:lastmodified":1449039303,
+    "wof:lastmodified":1466585842,
     "wof:name":"Terry Hicks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.015938,44.988094,-69.015938,44.988094],
-  "geometry": {"coordinates":[-69.015938,44.988094],"type":"Point"}
+  "bbox": [
+    -69.015938,
+    44.988094,
+    -69.015938,
+    44.988094
+],
+  "geometry": {"coordinates":[-69.01593800000001,44.988094],"type":"Point"}
 }

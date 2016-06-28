@@ -2,13 +2,14 @@
   "id": 387737095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.633416,44.559251,-69.633416,44.559251",
     "geom:latitude":44.559251,
     "geom:longitude":-69.633416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"258 Main St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387737095,
-    "wof:lastmodified":1449056952,
+    "wof:lastmodified":1466586846,
     "wof:name":"Waterville Holistic Med",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practitioner"
     ]
 },
-  "bbox": [-69.633416,44.559251,-69.633416,44.559251],
+  "bbox": [
+    -69.633416,
+    44.559251,
+    -69.633416,
+    44.559251
+],
   "geometry": {"coordinates":[-69.633416,44.559251],"type":"Point"}
 }

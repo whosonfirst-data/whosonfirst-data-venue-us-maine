@@ -2,13 +2,14 @@
   "id": 387660851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.251872,43.657457,-70.251872,43.657457",
     "geom:latitude":43.657457,
     "geom:longitude":-70.251872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Pearl St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387660851,
-    "wof:lastmodified":1449059521,
+    "wof:lastmodified":1466586135,
     "wof:name":"Maine Capital Co",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.251872,43.657457,-70.251872,43.657457],
-  "geometry": {"coordinates":[-70.251872,43.657457],"type":"Point"}
+  "bbox": [
+    -70.251872,
+    43.657457,
+    -70.251872,
+    43.657457
+],
+  "geometry": {"coordinates":[-70.25187200000001,43.657457],"type":"Point"}
 }

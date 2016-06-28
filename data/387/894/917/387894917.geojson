@@ -2,13 +2,14 @@
   "id": 387894917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.470485,43.518178,-70.470485,43.518178",
     "geom:latitude":43.518178,
     "geom:longitude":-70.470485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Sheila Cir",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387894917,
-    "wof:lastmodified":1449057677,
+    "wof:lastmodified":1466587236,
     "wof:name":"Inntech Consulting",
     "wof:parent_id":85847051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-70.470485,43.518178,-70.470485,43.518178],
+  "bbox": [
+    -70.470485,
+    43.518178,
+    -70.470485,
+    43.518178
+],
   "geometry": {"coordinates":[-70.470485,43.518178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387568095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.993291,44.409739,-68.993291,44.409739",
     "geom:latitude":44.409739,
     "geom:longitude":-68.993291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 High St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387568095,
-    "wof:lastmodified":1449056025,
+    "wof:lastmodified":1466585870,
     "wof:name":"Gateway Title Of Maine Inc",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-68.993291,44.409739,-68.993291,44.409739],
+  "bbox": [
+    -68.993291,
+    44.409739,
+    -68.993291,
+    44.409739
+],
   "geometry": {"coordinates":[-68.993291,44.409739],"type":"Point"}
 }

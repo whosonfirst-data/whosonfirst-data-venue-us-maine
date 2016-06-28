@@ -2,13 +2,14 @@
   "id": 387951411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.442309,45.132477,-69.442309,45.132477",
     "geom:latitude":45.132477,
     "geom:longitude":-69.442309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Crow Hill Rd",
     "sg:city":"Guilford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387951411,
-    "wof:lastmodified":1449056284,
+    "wof:lastmodified":1466587293,
     "wof:name":"Teardrop Logging & Constr Inc",
     "wof:parent_id":85806555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logging"
     ]
 },
-  "bbox": [-69.442309,45.132477,-69.442309,45.132477],
-  "geometry": {"coordinates":[-69.442309,45.132477],"type":"Point"}
+  "bbox": [
+    -69.442309,
+    45.132477,
+    -69.442309,
+    45.132477
+],
+  "geometry": {"coordinates":[-69.44230899999999,45.132477],"type":"Point"}
 }

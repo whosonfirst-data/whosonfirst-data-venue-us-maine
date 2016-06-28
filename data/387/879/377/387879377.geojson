@@ -2,13 +2,14 @@
   "id": 387879377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.484894,43.588026,-70.484894,43.588026",
     "geom:latitude":43.588026,
     "geom:longitude":-70.484894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 McKenney Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387879377,
-    "wof:lastmodified":1449056147,
+    "wof:lastmodified":1466587293,
     "wof:name":"John Neault Painting",
     "wof:parent_id":85847051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hanging"
     ]
 },
-  "bbox": [-70.484894,43.588026,-70.484894,43.588026],
+  "bbox": [
+    -70.484894,
+    43.588026,
+    -70.484894,
+    43.588026
+],
   "geometry": {"coordinates":[-70.484894,43.588026],"type":"Point"}
 }

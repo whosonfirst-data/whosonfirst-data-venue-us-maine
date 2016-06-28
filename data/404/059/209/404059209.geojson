@@ -2,13 +2,14 @@
   "id": 404059209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.709542,44.76443,-68.709542,44.76443",
     "geom:latitude":44.76443,
     "geom:longitude":-68.709542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Shadow Ln",
     "sg:city":"Holden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404059209,
-    "wof:lastmodified":1449039353,
+    "wof:lastmodified":1466586437,
     "wof:name":"Avon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mail"
     ]
 },
-  "bbox": [-68.709542,44.76443,-68.709542,44.76443],
+  "bbox": [
+    -68.709542,
+    44.76443,
+    -68.709542,
+    44.76443
+],
   "geometry": {"coordinates":[-68.709542,44.76443],"type":"Point"}
 }

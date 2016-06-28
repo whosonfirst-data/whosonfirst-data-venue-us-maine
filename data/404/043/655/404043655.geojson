@@ -2,13 +2,14 @@
   "id": 404043655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225081,44.096765,-70.225081,44.096765",
     "geom:latitude":44.096765,
     "geom:longitude":-70.225081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Main St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404043655,
-    "wof:lastmodified":1449040005,
+    "wof:lastmodified":1466586153,
     "wof:name":"Maine-Ly Mobile Home Financing",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-70.225081,44.096765,-70.225081,44.096765],
+  "bbox": [
+    -70.225081,
+    44.096765,
+    -70.225081,
+    44.096765
+],
   "geometry": {"coordinates":[-70.225081,44.096765],"type":"Point"}
 }

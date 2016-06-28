@@ -2,13 +2,14 @@
   "id": 387591645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.496119,45.370518,-68.496119,45.370518",
     "geom:latitude":45.370518,
     "geom:longitude":-68.496119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Lee Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387591645,
-    "wof:lastmodified":1449058144,
+    "wof:lastmodified":1466586198,
     "wof:name":"Mc Cormick Realty",
     "wof:parent_id":85849837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.496119,45.370518,-68.496119,45.370518],
-  "geometry": {"coordinates":[-68.496119,45.370518],"type":"Point"}
+  "bbox": [
+    -68.496119,
+    45.370518,
+    -68.496119,
+    45.370518
+],
+  "geometry": {"coordinates":[-68.49611899999999,45.370518],"type":"Point"}
 }

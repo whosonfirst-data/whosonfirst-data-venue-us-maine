@@ -2,13 +2,14 @@
   "id": 403942183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.451221,44.147252,-68.451221,44.147252",
     "geom:latitude":44.147252,
     "geom:longitude":-68.451221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Harbor Rd",
     "sg:city":"Swans Island",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403942183,
-    "wof:lastmodified":1449055249,
+    "wof:lastmodified":1466587059,
     "wof:name":"Dwight V Colbeth",
     "wof:parent_id":85803863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fishing"
     ]
 },
-  "bbox": [-68.451221,44.147252,-68.451221,44.147252],
+  "bbox": [
+    -68.451221,
+    44.147252,
+    -68.451221,
+    44.147252
+],
   "geometry": {"coordinates":[-68.451221,44.147252],"type":"Point"}
 }

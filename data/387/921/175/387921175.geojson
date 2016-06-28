@@ -2,13 +2,14 @@
   "id": 387921175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.795775,44.769848,-68.795775,44.769848",
     "geom:latitude":44.769848,
     "geom:longitude":-68.795775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"646 Main Rd N",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387921175,
-    "wof:lastmodified":1449058554,
+    "wof:lastmodified":1466587326,
     "wof:name":"ABC Audio & TV Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radio"
     ]
 },
-  "bbox": [-68.795775,44.769848,-68.795775,44.769848],
-  "geometry": {"coordinates":[-68.795775,44.769848],"type":"Point"}
+  "bbox": [
+    -68.795775,
+    44.769848,
+    -68.795775,
+    44.769848
+],
+  "geometry": {"coordinates":[-68.79577500000001,44.769848],"type":"Point"}
 }

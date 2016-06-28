@@ -2,13 +2,14 @@
   "id": 387972753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.437888,43.37803,-70.437888,43.37803",
     "geom:latitude":43.37803,
     "geom:longitude":-70.437888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Mills Rd",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387972753,
-    "wof:lastmodified":1449058015,
+    "wof:lastmodified":1466587351,
     "wof:name":"Cape Frame Shop",
     "wof:parent_id":85857739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "frame"
     ]
 },
-  "bbox": [-70.437888,43.37803,-70.437888,43.37803],
+  "bbox": [
+    -70.437888,
+    43.37803,
+    -70.437888,
+    43.37803
+],
   "geometry": {"coordinates":[-70.437888,43.37803],"type":"Point"}
 }

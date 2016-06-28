@@ -2,13 +2,14 @@
   "id": 403922393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.980029,44.016405,-70.980029,44.016405",
     "geom:latitude":44.016405,
     "geom:longitude":-70.980029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Portland St",
     "sg:city":"Fryeburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403922393,
-    "wof:lastmodified":1449054759,
+    "wof:lastmodified":1466586913,
     "wof:name":"Main Gas Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.980029,44.016405,-70.980029,44.016405],
+  "bbox": [
+    -70.980029,
+    44.016405,
+    -70.980029,
+    44.016405
+],
   "geometry": {"coordinates":[-70.980029,44.016405],"type":"Point"}
 }

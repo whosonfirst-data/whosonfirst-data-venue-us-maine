@@ -2,13 +2,14 @@
   "id": 387707593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.475591,44.532528,-70.475591,44.532528",
     "geom:latitude":44.532528,
     "geom:longitude":-70.475591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"747 River Rd",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387707593,
-    "wof:lastmodified":1449059329,
+    "wof:lastmodified":1466586762,
     "wof:name":"Advanced Therapeutics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "massage"
     ]
 },
-  "bbox": [-70.475591,44.532528,-70.475591,44.532528],
-  "geometry": {"coordinates":[-70.475591,44.532528],"type":"Point"}
+  "bbox": [
+    -70.475591,
+    44.532528,
+    -70.475591,
+    44.532528
+],
+  "geometry": {"coordinates":[-70.47559099999999,44.532528],"type":"Point"}
 }

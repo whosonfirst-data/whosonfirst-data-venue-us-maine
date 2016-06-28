@@ -2,13 +2,14 @@
   "id": 403944415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.190159,43.807396,-70.190159,43.807396",
     "geom:latitude":43.807396,
     "geom:longitude":-70.190159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 E Elm St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403944415,
-    "wof:lastmodified":1449055307,
+    "wof:lastmodified":1466587065,
     "wof:name":"Yarmouth Water District",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewage"
     ]
 },
-  "bbox": [-70.190159,43.807396,-70.190159,43.807396],
-  "geometry": {"coordinates":[-70.190159,43.807396],"type":"Point"}
+  "bbox": [
+    -70.190159,
+    43.807396,
+    -70.190159,
+    43.807396
+],
+  "geometry": {"coordinates":[-70.19015899999999,43.807396],"type":"Point"}
 }

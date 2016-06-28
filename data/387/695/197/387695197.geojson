@@ -2,13 +2,14 @@
   "id": 387695197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.235015,43.635654,-70.235015,43.635654",
     "geom:latitude":43.635654,
     "geom:longitude":-70.235015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"388 Cottage Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387695197,
-    "wof:lastmodified":1449057550,
+    "wof:lastmodified":1466586645,
     "wof:name":"Barbara's Kitchen",
     "wof:parent_id":85867975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.235015,43.635654,-70.235015,43.635654],
+  "bbox": [
+    -70.235015,
+    43.635654,
+    -70.235015,
+    43.635654
+],
   "geometry": {"coordinates":[-70.235015,43.635654],"type":"Point"}
 }

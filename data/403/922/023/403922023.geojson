@@ -2,13 +2,14 @@
   "id": 403922023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.221874,44.589901,-68.221874,44.589901",
     "geom:latitude":44.589901,
     "geom:longitude":-68.221874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Blackswoods Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403922023,
-    "wof:lastmodified":1449054759,
+    "wof:lastmodified":1466586911,
     "wof:name":"US Post Office",
     "wof:parent_id":85820603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.221874,44.589901,-68.221874,44.589901],
+  "bbox": [
+    -68.221874,
+    44.589901,
+    -68.221874,
+    44.589901
+],
   "geometry": {"coordinates":[-68.221874,44.589901],"type":"Point"}
 }

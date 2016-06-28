@@ -2,13 +2,14 @@
   "id": 387870235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.268176,44.045281,-70.268176,44.045281",
     "geom:latitude":44.045281,
     "geom:longitude":-70.268176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Bellflower Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387870235,
-    "wof:lastmodified":1449057103,
+    "wof:lastmodified":1466587289,
     "wof:name":"Joseph Tanguay Painting Svc",
     "wof:parent_id":85813517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-70.268176,44.045281,-70.268176,44.045281],
+  "bbox": [
+    -70.268176,
+    44.045281,
+    -70.268176,
+    44.045281
+],
   "geometry": {"coordinates":[-70.268176,44.045281],"type":"Point"}
 }

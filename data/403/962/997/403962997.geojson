@@ -2,13 +2,14 @@
   "id": 403962997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.007018,46.865906,-68.007018,46.865906",
     "geom:latitude":46.865906,
     "geom:longitude":-68.007018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Glenn St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403962997,
-    "wof:lastmodified":1449055431,
+    "wof:lastmodified":1466587111,
     "wof:name":"Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimming"
     ]
 },
-  "bbox": [-68.007018,46.865906,-68.007018,46.865906],
+  "bbox": [
+    -68.007018,
+    46.865906,
+    -68.007018,
+    46.865906
+],
   "geometry": {"coordinates":[-68.007018,46.865906],"type":"Point"}
 }

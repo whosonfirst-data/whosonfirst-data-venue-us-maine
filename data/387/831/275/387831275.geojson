@@ -2,13 +2,14 @@
   "id": 387831275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.377414,43.719994,-70.377414,43.719994",
     "geom:latitude":43.719994,
     "geom:longitude":-70.377414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Batchelder Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387831275,
-    "wof:lastmodified":1449058336,
+    "wof:lastmodified":1466587123,
     "wof:name":"Royal Insurance",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-70.377414,43.719994,-70.377414,43.719994],
+  "bbox": [
+    -70.377414,
+    43.719994,
+    -70.377414,
+    43.719994
+],
   "geometry": {"coordinates":[-70.377414,43.719994],"type":"Point"}
 }

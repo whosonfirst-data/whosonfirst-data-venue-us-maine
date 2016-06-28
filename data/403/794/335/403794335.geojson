@@ -2,13 +2,14 @@
   "id": 403794335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.98956,45.262181,-68.98956,45.262181",
     "geom:latitude":45.262181,
     "geom:longitude":-68.98956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Park St",
     "sg:city":"Milo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403794335,
-    "wof:lastmodified":1449055267,
+    "wof:lastmodified":1466585865,
     "wof:name":"Maine Savings Federal CU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "chartered"
     ]
 },
-  "bbox": [-68.98956,45.262181,-68.98956,45.262181],
+  "bbox": [
+    -68.98956,
+    45.262181,
+    -68.98956,
+    45.262181
+],
   "geometry": {"coordinates":[-68.98956,45.262181],"type":"Point"}
 }

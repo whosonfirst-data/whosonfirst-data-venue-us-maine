@@ -2,13 +2,14 @@
   "id": 404036773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.508964,43.499579,-70.508964,43.499579",
     "geom:latitude":43.499579,
     "geom:longitude":-70.508964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Hayfield Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404036773,
-    "wof:lastmodified":1449039313,
+    "wof:lastmodified":1466586038,
     "wof:name":"Michael Gendron",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-70.508964,43.499579,-70.508964,43.499579],
-  "geometry": {"coordinates":[-70.508964,43.499579],"type":"Point"}
+  "bbox": [
+    -70.508964,
+    43.499579,
+    -70.508964,
+    43.499579
+],
+  "geometry": {"coordinates":[-70.50896400000001,43.499579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387756755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.908726,44.730151,-68.908726,44.730151",
     "geom:latitude":44.730151,
     "geom:longitude":-68.908726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Canaan Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387756755,
-    "wof:lastmodified":1449058385,
+    "wof:lastmodified":1466586836,
     "wof:name":"Hampden Public Works Director",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "parking"
     ]
 },
-  "bbox": [-68.908726,44.730151,-68.908726,44.730151],
+  "bbox": [
+    -68.908726,
+    44.730151,
+    -68.908726,
+    44.730151
+],
   "geometry": {"coordinates":[-68.908726,44.730151],"type":"Point"}
 }

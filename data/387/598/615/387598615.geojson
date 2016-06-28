@@ -2,13 +2,14 @@
   "id": 387598615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.824284,44.787599,-68.824284,44.787599",
     "geom:latitude":44.787599,
     "geom:longitude":-68.824284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Target Industrial Cir",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387598615,
-    "wof:lastmodified":1449056313,
+    "wof:lastmodified":1466586326,
     "wof:name":"F W WEBB Co",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-68.824284,44.787599,-68.824284,44.787599],
-  "geometry": {"coordinates":[-68.824284,44.787599],"type":"Point"}
+  "bbox": [
+    -68.824284,
+    44.787599,
+    -68.824284,
+    44.787599
+],
+  "geometry": {"coordinates":[-68.82428400000001,44.787599],"type":"Point"}
 }

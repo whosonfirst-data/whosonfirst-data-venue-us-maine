@@ -2,13 +2,14 @@
   "id": 387842609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.834449,44.780741,-68.834449,44.780741",
     "geom:latitude":44.780741,
     "geom:longitude":-68.834449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"689 Odlin Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387842609,
-    "wof:lastmodified":1449056389,
+    "wof:lastmodified":1466587220,
     "wof:name":"Transco Business Tech",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "copying"
     ]
 },
-  "bbox": [-68.834449,44.780741,-68.834449,44.780741],
-  "geometry": {"coordinates":[-68.834449,44.780741],"type":"Point"}
+  "bbox": [
+    -68.834449,
+    44.780741,
+    -68.834449,
+    44.780741
+],
+  "geometry": {"coordinates":[-68.83444900000001,44.780741],"type":"Point"}
 }

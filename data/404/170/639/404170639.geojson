@@ -2,13 +2,14 @@
   "id": 404170639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.42156,43.536965,-70.42156,43.536965",
     "geom:latitude":43.536965,
     "geom:longitude":-70.42156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 Portland Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404170639,
-    "wof:lastmodified":1449039130,
+    "wof:lastmodified":1466586796,
     "wof:name":"Motor City Nissan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.42156,43.536965,-70.42156,43.536965],
+  "bbox": [
+    -70.42156,
+    43.536965,
+    -70.42156,
+    43.536965
+],
   "geometry": {"coordinates":[-70.42156,43.536965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387783929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.277735,43.702549,-70.277735,43.702549",
     "geom:latitude":43.702549,
     "geom:longitude":-70.277735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Virginia St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387783929,
-    "wof:lastmodified":1449056238,
+    "wof:lastmodified":1466587095,
     "wof:name":"Bay Limousine & Livery Svc",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-70.277735,43.702549,-70.277735,43.702549],
-  "geometry": {"coordinates":[-70.277735,43.702549],"type":"Point"}
+  "bbox": [
+    -70.277735,
+    43.702549,
+    -70.277735,
+    43.702549
+],
+  "geometry": {"coordinates":[-70.27773500000001,43.702549],"type":"Point"}
 }

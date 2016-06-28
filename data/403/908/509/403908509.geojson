@@ -2,13 +2,14 @@
   "id": 403908509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.320213,43.700427,-70.320213,43.700427",
     "geom:latitude":43.700427,
     "geom:longitude":-70.320213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1871 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403908509,
-    "wof:lastmodified":1449055392,
+    "wof:lastmodified":1466587043,
     "wof:name":"Tortilla Flat",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.320213,43.700427,-70.320213,43.700427],
+  "bbox": [
+    -70.320213,
+    43.700427,
+    -70.320213,
+    43.700427
+],
   "geometry": {"coordinates":[-70.320213,43.700427],"type":"Point"}
 }

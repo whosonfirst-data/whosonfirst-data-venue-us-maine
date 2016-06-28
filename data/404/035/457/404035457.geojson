@@ -2,13 +2,14 @@
   "id": 404035457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.831866,46.768793,-67.831866,46.768793",
     "geom:latitude":46.768793,
     "geom:longitude":-67.831866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Brookview Ave",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404035457,
-    "wof:lastmodified":1449040061,
+    "wof:lastmodified":1466586017,
     "wof:name":"Maine Employers Mutl Insur Co",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-67.831866,46.768793,-67.831866,46.768793],
-  "geometry": {"coordinates":[-67.831866,46.768793],"type":"Point"}
+  "bbox": [
+    -67.831866,
+    46.768793,
+    -67.831866,
+    46.768793
+],
+  "geometry": {"coordinates":[-67.83186600000001,46.768793],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403716531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.196044,43.786614,-70.196044,43.786614",
     "geom:latitude":43.786614,
     "geom:longitude":-70.196044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Portland St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403716531,
-    "wof:lastmodified":1449054813,
+    "wof:lastmodified":1466585822,
     "wof:name":"Lindemann Law Offices",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-70.196044,43.786614,-70.196044,43.786614],
+  "bbox": [
+    -70.196044,
+    43.786614,
+    -70.196044,
+    43.786614
+],
   "geometry": {"coordinates":[-70.196044,43.786614],"type":"Point"}
 }

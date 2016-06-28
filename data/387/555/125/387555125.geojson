@@ -2,13 +2,14 @@
   "id": 387555125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.817563,44.903522,-68.817563,44.903522",
     "geom:latitude":44.903522,
     "geom:longitude":-68.817563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Pine Grove Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387555125,
-    "wof:lastmodified":1449059384,
+    "wof:lastmodified":1466585670,
     "wof:name":"Backwater Excursions",
     "wof:parent_id":85848853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-68.817563,44.903522,-68.817563,44.903522],
-  "geometry": {"coordinates":[-68.817563,44.903522],"type":"Point"}
+  "bbox": [
+    -68.817563,
+    44.903522,
+    -68.817563,
+    44.903522
+],
+  "geometry": {"coordinates":[-68.81756300000001,44.903522],"type":"Point"}
 }

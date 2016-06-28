@@ -2,13 +2,14 @@
   "id": 387943401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.006876,44.425836,-69.006876,44.425836",
     "geom:latitude":44.425836,
     "geom:longitude":-69.006876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Main St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387943401,
-    "wof:lastmodified":1449057108,
+    "wof:lastmodified":1466587282,
     "wof:name":"Art Alliance Gallery",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-69.006876,44.425836,-69.006876,44.425836],
-  "geometry": {"coordinates":[-69.006876,44.425836],"type":"Point"}
+  "bbox": [
+    -69.006876,
+    44.425836,
+    -69.006876,
+    44.425836
+],
+  "geometry": {"coordinates":[-69.00687600000001,44.425836],"type":"Point"}
 }

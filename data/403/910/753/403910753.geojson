@@ -2,13 +2,14 @@
   "id": 403910753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.19756,44.101248,-70.19756,44.101248",
     "geom:latitude":44.101248,
     "geom:longitude":-70.19756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Campus Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403910753,
-    "wof:lastmodified":1449055177,
+    "wof:lastmodified":1466586954,
     "wof:name":"D'Youville Pavilion",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-70.19756,44.101248,-70.19756,44.101248],
+  "bbox": [
+    -70.19756,
+    44.101248,
+    -70.19756,
+    44.101248
+],
   "geometry": {"coordinates":[-70.19756,44.101248],"type":"Point"}
 }

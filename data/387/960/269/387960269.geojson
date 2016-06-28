@@ -2,13 +2,14 @@
   "id": 387960269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.266569,45.179447,-67.266569,45.179447",
     "geom:latitude":45.179447,
     "geom:longitude":-67.266569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Palmer Ln",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387960269,
-    "wof:lastmodified":1449058846,
+    "wof:lastmodified":1466587344,
     "wof:name":"St Croix Medical Group",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-67.266569,45.179447,-67.266569,45.179447],
+  "bbox": [
+    -67.266569,
+    45.179447,
+    -67.266569,
+    45.179447
+],
   "geometry": {"coordinates":[-67.266569,45.179447],"type":"Point"}
 }

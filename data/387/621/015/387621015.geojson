@@ -2,13 +2,14 @@
   "id": 387621015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.441575,43.602242,-70.441575,43.602242",
     "geom:latitude":43.602242,
     "geom:longitude":-70.441575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Broadturn Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387621015,
-    "wof:lastmodified":1449059464,
+    "wof:lastmodified":1466585708,
     "wof:name":"Mackanzie Builders",
     "wof:parent_id":85834397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.441575,43.602242,-70.441575,43.602242],
+  "bbox": [
+    -70.441575,
+    43.602242,
+    -70.441575,
+    43.602242
+],
   "geometry": {"coordinates":[-70.441575,43.602242],"type":"Point"}
 }

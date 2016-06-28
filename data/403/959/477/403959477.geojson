@@ -2,13 +2,14 @@
   "id": 403959477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.470122,43.888006,-70.470122,43.888006",
     "geom:latitude":43.888006,
     "geom:longitude":-70.470122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Crockett Rd",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403959477,
-    "wof:lastmodified":1449055833,
+    "wof:lastmodified":1466587083,
     "wof:name":"Tom's Rv Svc",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-70.470122,43.888006,-70.470122,43.888006],
+  "bbox": [
+    -70.470122,
+    43.888006,
+    -70.470122,
+    43.888006
+],
   "geometry": {"coordinates":[-70.470122,43.888006],"type":"Point"}
 }

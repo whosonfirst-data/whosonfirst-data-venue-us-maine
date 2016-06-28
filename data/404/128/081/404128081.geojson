@@ -2,13 +2,14 @@
   "id": 404128081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.949363,46.887121,-67.949363,46.887121",
     "geom:latitude":46.887121,
     "geom:longitude":-67.949363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"563 Access Hwy",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404128081,
-    "wof:lastmodified":1449039497,
+    "wof:lastmodified":1466586419,
     "wof:name":"Linda's Down Home Country Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.949363,46.887121,-67.949363,46.887121],
-  "geometry": {"coordinates":[-67.949363,46.887121],"type":"Point"}
+  "bbox": [
+    -67.949363,
+    46.887121,
+    -67.949363,
+    46.887121
+],
+  "geometry": {"coordinates":[-67.94936300000001,46.887121],"type":"Point"}
 }

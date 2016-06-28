@@ -2,13 +2,14 @@
   "id": 387704123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.759263,43.417546,-70.759263,43.417546",
     "geom:latitude":43.417546,
     "geom:longitude":-70.759263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Plaza Dr",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387704123,
-    "wof:lastmodified":1449057093,
+    "wof:lastmodified":1466586755,
     "wof:name":"Innova Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.759263,43.417546,-70.759263,43.417546],
+  "bbox": [
+    -70.759263,
+    43.417546,
+    -70.759263,
+    43.417546
+],
   "geometry": {"coordinates":[-70.759263,43.417546],"type":"Point"}
 }

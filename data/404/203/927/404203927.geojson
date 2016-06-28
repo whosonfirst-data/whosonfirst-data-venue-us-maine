@@ -2,13 +2,14 @@
   "id": 404203927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.067341,46.840947,-68.067341,46.840947",
     "geom:latitude":46.840947,
     "geom:longitude":-68.067341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"456 Washburn Rd",
     "sg:city":"Crouseville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404203927,
-    "wof:lastmodified":1449039550,
+    "wof:lastmodified":1466587035,
     "wof:name":"Advent Christian Church",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-68.067341,46.840947,-68.067341,46.840947],
+  "bbox": [
+    -68.067341,
+    46.840947,
+    -68.067341,
+    46.840947
+],
   "geometry": {"coordinates":[-68.067341,46.840947],"type":"Point"}
 }

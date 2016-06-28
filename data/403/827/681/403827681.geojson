@@ -2,13 +2,14 @@
   "id": 403827681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.287138,44.27513,-69.287138,44.27513",
     "geom:latitude":44.27513,
     "geom:longitude":-69.287138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Appleton Ridge Rd",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403827681,
-    "wof:lastmodified":1449055105,
+    "wof:lastmodified":1466586390,
     "wof:name":"ART Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "landscape"
     ]
 },
-  "bbox": [-69.287138,44.27513,-69.287138,44.27513],
+  "bbox": [
+    -69.287138,
+    44.27513,
+    -69.287138,
+    44.27513
+],
   "geometry": {"coordinates":[-69.287138,44.27513],"type":"Point"}
 }

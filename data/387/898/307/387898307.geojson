@@ -2,13 +2,14 @@
   "id": 387898307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.019421,43.936645,-70.019421,43.936645",
     "geom:latitude":43.936645,
     "geom:longitude":-70.019421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"582 River Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387898307,
-    "wof:lastmodified":1449056034,
+    "wof:lastmodified":1466587235,
     "wof:name":"Cabot Rental Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "apartment"
     ]
 },
-  "bbox": [-70.019421,43.936645,-70.019421,43.936645],
-  "geometry": {"coordinates":[-70.019421,43.936645],"type":"Point"}
+  "bbox": [
+    -70.019421,
+    43.936645,
+    -70.019421,
+    43.936645
+],
+  "geometry": {"coordinates":[-70.01942099999999,43.936645],"type":"Point"}
 }

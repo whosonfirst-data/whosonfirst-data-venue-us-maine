@@ -2,13 +2,14 @@
   "id": 387903287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.597893,44.574666,-69.597893,44.574666",
     "geom:latitude":44.574666,
     "geom:longitude":-69.597893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Benton Ave",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387903287,
-    "wof:lastmodified":1449056337,
+    "wof:lastmodified":1466587234,
     "wof:name":"Boucher's Meat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.597893,44.574666,-69.597893,44.574666],
+  "bbox": [
+    -69.597893,
+    44.574666,
+    -69.597893,
+    44.574666
+],
   "geometry": {"coordinates":[-69.597893,44.574666],"type":"Point"}
 }

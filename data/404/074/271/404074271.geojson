@@ -2,13 +2,14 @@
   "id": 404074271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.846344,44.853618,-68.846344,44.853618",
     "geom:latitude":44.853618,
     "geom:longitude":-68.846344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2265 Ohio St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404074271,
-    "wof:lastmodified":1449039782,
+    "wof:lastmodified":1466585671,
     "wof:name":"Cruise Planners",
     "wof:parent_id":85848853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-68.846344,44.853618,-68.846344,44.853618],
+  "bbox": [
+    -68.846344,
+    44.853618,
+    -68.846344,
+    44.853618
+],
   "geometry": {"coordinates":[-68.846344,44.853618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387784667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.098148,44.05844,-70.098148,44.05844",
     "geom:latitude":44.05844,
     "geom:longitude":-70.098148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Mockingbird Ln",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387784667,
-    "wof:lastmodified":1449058649,
+    "wof:lastmodified":1466587006,
     "wof:name":"Jerry Douglass Realty",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.098148,44.05844,-70.098148,44.05844],
-  "geometry": {"coordinates":[-70.098148,44.05844],"type":"Point"}
+  "bbox": [
+    -70.098148,
+    44.05844,
+    -70.098148,
+    44.05844
+],
+  "geometry": {"coordinates":[-70.09814799999999,44.05844],"type":"Point"}
 }

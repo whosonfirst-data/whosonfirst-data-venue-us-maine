@@ -2,13 +2,14 @@
   "id": 387872093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242359,43.650165,-70.242359,43.650165",
     "geom:latitude":43.650165,
     "geom:longitude":-70.242359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387872093,
-    "wof:lastmodified":1449056445,
+    "wof:lastmodified":1466587197,
     "wof:name":"Just In Time Technical Svcs",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.242359,43.650165,-70.242359,43.650165],
-  "geometry": {"coordinates":[-70.242359,43.650165],"type":"Point"}
+  "bbox": [
+    -70.242359,
+    43.650165,
+    -70.242359,
+    43.650165
+],
+  "geometry": {"coordinates":[-70.24235899999999,43.650165],"type":"Point"}
 }

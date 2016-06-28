@@ -2,13 +2,14 @@
   "id": 387645803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.161244,44.066071,-70.161244,44.066071",
     "geom:latitude":44.066071,
     "geom:longitude":-70.161244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 N Lisbon Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387645803,
-    "wof:lastmodified":1449056494,
+    "wof:lastmodified":1466585940,
     "wof:name":"Thompson Equipment",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.161244,44.066071,-70.161244,44.066071],
+  "bbox": [
+    -70.161244,
+    44.066071,
+    -70.161244,
+    44.066071
+],
   "geometry": {"coordinates":[-70.161244,44.066071],"type":"Point"}
 }

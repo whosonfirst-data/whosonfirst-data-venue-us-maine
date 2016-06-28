@@ -2,13 +2,14 @@
   "id": 387697021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.218838,44.408262,-70.218838,44.408262",
     "geom:latitude":44.408262,
     "geom:longitude":-70.218838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Whites Corner Rd",
     "sg:city":"Livermore",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387697021,
-    "wof:lastmodified":1449058509,
+    "wof:lastmodified":1466586829,
     "wof:name":"Bob Durrell's & Custom Floor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rug"
     ]
 },
-  "bbox": [-70.218838,44.408262,-70.218838,44.408262],
-  "geometry": {"coordinates":[-70.218838,44.408262],"type":"Point"}
+  "bbox": [
+    -70.218838,
+    44.408262,
+    -70.218838,
+    44.408262
+],
+  "geometry": {"coordinates":[-70.21883800000001,44.408262],"type":"Point"}
 }

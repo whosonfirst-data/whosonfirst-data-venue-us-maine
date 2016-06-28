@@ -2,13 +2,14 @@
   "id": 387590803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.703672,45.674686,-68.703672,45.674686",
     "geom:latitude":45.674686,
     "geom:longitude":-68.703672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Katahdin Ave Exd",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387590803,
-    "wof:lastmodified":1449058374,
+    "wof:lastmodified":1466586198,
     "wof:name":"Millinocket Growth & Investmnt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.703672,45.674686,-68.703672,45.674686],
+  "bbox": [
+    -68.703672,
+    45.674686,
+    -68.703672,
+    45.674686
+],
   "geometry": {"coordinates":[-68.703672,45.674686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387849263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.713854,45.661774,-68.713854,45.661774",
     "geom:latitude":45.661774,
     "geom:longitude":-68.713854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Bates St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387849263,
-    "wof:lastmodified":1449056800,
+    "wof:lastmodified":1466587147,
     "wof:name":"B & C Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-68.713854,45.661774,-68.713854,45.661774],
+  "bbox": [
+    -68.713854,
+    45.661774,
+    -68.713854,
+    45.661774
+],
   "geometry": {"coordinates":[-68.713854,45.661774],"type":"Point"}
 }

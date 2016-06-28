@@ -2,13 +2,14 @@
   "id": 387832571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.56641,43.302321,-70.56641,43.302321",
     "geom:latitude":43.302321,
     "geom:longitude":-70.56641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"393 Mile Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387832571,
-    "wof:lastmodified":1449056131,
+    "wof:lastmodified":1466587122,
     "wof:name":"Creative Fashions",
     "wof:parent_id":85855053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.56641,43.302321,-70.56641,43.302321],
+  "bbox": [
+    -70.56641,
+    43.302321,
+    -70.56641,
+    43.302321
+],
   "geometry": {"coordinates":[-70.56641,43.302321],"type":"Point"}
 }

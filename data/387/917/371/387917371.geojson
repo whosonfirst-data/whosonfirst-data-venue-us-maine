@@ -2,13 +2,14 @@
   "id": 387917371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.864857,44.799652,-69.864857,44.799652",
     "geom:latitude":44.799652,
     "geom:longitude":-69.864857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Main St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387917371,
-    "wof:lastmodified":1449059424,
+    "wof:lastmodified":1466587252,
     "wof:name":"Country Greenery Florist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.864857,44.799652,-69.864857,44.799652],
+  "bbox": [
+    -69.864857,
+    44.799652,
+    -69.864857,
+    44.799652
+],
   "geometry": {"coordinates":[-69.864857,44.799652],"type":"Point"}
 }

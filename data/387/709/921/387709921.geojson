@@ -2,13 +2,14 @@
   "id": 387709921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.278639,43.651264,-70.278639,43.651264",
     "geom:latitude":43.651264,
     "geom:longitude":-70.278639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 C St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387709921,
-    "wof:lastmodified":1449056860,
+    "wof:lastmodified":1466586872,
     "wof:name":"LA Plante Electronics",
     "wof:parent_id":85880029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.278639,43.651264,-70.278639,43.651264],
+  "bbox": [
+    -70.278639,
+    43.651264,
+    -70.278639,
+    43.651264
+],
   "geometry": {"coordinates":[-70.278639,43.651264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403920519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.831268,44.858406,-68.831268,44.858406",
     "geom:latitude":44.858406,
     "geom:longitude":-68.831268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Finson Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403920519,
-    "wof:lastmodified":1449055663,
+    "wof:lastmodified":1466587085,
     "wof:name":"Seven Oaks Training Ctr",
     "wof:parent_id":85848853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "training"
     ]
 },
-  "bbox": [-68.831268,44.858406,-68.831268,44.858406],
-  "geometry": {"coordinates":[-68.831268,44.858406],"type":"Point"}
+  "bbox": [
+    -68.831268,
+    44.858406,
+    -68.831268,
+    44.858406
+],
+  "geometry": {"coordinates":[-68.83126799999999,44.858406],"type":"Point"}
 }

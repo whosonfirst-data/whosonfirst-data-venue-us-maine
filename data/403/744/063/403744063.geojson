@@ -2,13 +2,14 @@
   "id": 403744063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.688369,44.681156,-69.688369,44.681156",
     "geom:latitude":44.681156,
     "geom:longitude":-69.688369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Back Rd",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403744063,
-    "wof:lastmodified":1449055109,
+    "wof:lastmodified":1466586669,
     "wof:name":"Attention To D Tails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "washing"
     ]
 },
-  "bbox": [-69.688369,44.681156,-69.688369,44.681156],
-  "geometry": {"coordinates":[-69.688369,44.681156],"type":"Point"}
+  "bbox": [
+    -69.688369,
+    44.681156,
+    -69.688369,
+    44.681156
+],
+  "geometry": {"coordinates":[-69.68836899999999,44.681156],"type":"Point"}
 }

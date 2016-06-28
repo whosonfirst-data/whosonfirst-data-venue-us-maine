@@ -2,13 +2,14 @@
   "id": 387925081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.268853,44.835847,-69.268853,44.835847",
     "geom:latitude":44.835847,
     "geom:longitude":-69.268853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Park Ave",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387925081,
-    "wof:lastmodified":1449056144,
+    "wof:lastmodified":1466587261,
     "wof:name":"Keith Shorey Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-69.268853,44.835847,-69.268853,44.835847],
-  "geometry": {"coordinates":[-69.268853,44.835847],"type":"Point"}
+  "bbox": [
+    -69.268853,
+    44.835847,
+    -69.268853,
+    44.835847
+],
+  "geometry": {"coordinates":[-69.26885299999999,44.835847],"type":"Point"}
 }

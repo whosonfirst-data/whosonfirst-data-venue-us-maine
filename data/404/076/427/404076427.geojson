@@ -2,13 +2,14 @@
   "id": 404076427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.191158,44.474887,-70.191158,44.474887",
     "geom:latitude":44.474887,
     "geom:longitude":-70.191158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Main St",
     "sg:city":"Livermore Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404076427,
-    "wof:lastmodified":1449040035,
+    "wof:lastmodified":1466586687,
     "wof:name":"Tech 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.191158,44.474887,-70.191158,44.474887],
+  "bbox": [
+    -70.191158,
+    44.474887,
+    -70.191158,
+    44.474887
+],
   "geometry": {"coordinates":[-70.191158,44.474887],"type":"Point"}
 }

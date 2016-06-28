@@ -2,13 +2,14 @@
   "id": 403825551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.552109,43.374136,-70.552109,43.374136",
     "geom:latitude":43.374136,
     "geom:longitude":-70.552109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 York St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403825551,
-    "wof:lastmodified":1449054667,
+    "wof:lastmodified":1466586357,
     "wof:name":"Northeast Coating Technologies",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coating"
     ]
 },
-  "bbox": [-70.552109,43.374136,-70.552109,43.374136],
+  "bbox": [
+    -70.552109,
+    43.374136,
+    -70.552109,
+    43.374136
+],
   "geometry": {"coordinates":[-70.552109,43.374136],"type":"Point"}
 }

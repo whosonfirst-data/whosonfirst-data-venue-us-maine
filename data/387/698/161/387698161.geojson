@@ -2,13 +2,14 @@
   "id": 387698161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.737796,43.093357,-70.737796,43.093357",
     "geom:latitude":43.093357,
     "geom:longitude":-70.737796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 State Rte 236",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387698161,
-    "wof:lastmodified":1449059685,
+    "wof:lastmodified":1466586715,
     "wof:name":"Kookmyer Inc",
     "wof:parent_id":85828587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skateboard"
     ]
 },
-  "bbox": [-70.737796,43.093357,-70.737796,43.093357],
+  "bbox": [
+    -70.737796,
+    43.093357,
+    -70.737796,
+    43.093357
+],
   "geometry": {"coordinates":[-70.737796,43.093357],"type":"Point"}
 }

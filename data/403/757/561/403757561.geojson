@@ -2,13 +2,14 @@
   "id": 403757561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.583602,43.682357,-70.583602,43.682357",
     "geom:latitude":43.682357,
     "geom:longitude":-70.583602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Limington Rd",
     "sg:city":"West Buxton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403757561,
-    "wof:lastmodified":1449055382,
+    "wof:lastmodified":1466586357,
     "wof:name":"Twin Spruce Supply",
     "wof:parent_id":85828331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bird"
     ]
 },
-  "bbox": [-70.583602,43.682357,-70.583602,43.682357],
+  "bbox": [
+    -70.583602,
+    43.682357,
+    -70.583602,
+    43.682357
+],
   "geometry": {"coordinates":[-70.583602,43.682357],"type":"Point"}
 }

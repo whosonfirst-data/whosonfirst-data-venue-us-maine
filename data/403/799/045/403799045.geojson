@@ -2,13 +2,14 @@
   "id": 403799045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.770914,44.812192,-68.770914,44.812192",
     "geom:latitude":44.812192,
     "geom:longitude":-68.770914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Stillwater Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403799045,
-    "wof:lastmodified":1449055971,
+    "wof:lastmodified":1466585932,
     "wof:name":"Alan P Hess Investments",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-68.770914,44.812192,-68.770914,44.812192],
+  "bbox": [
+    -68.770914,
+    44.812192,
+    -68.770914,
+    44.812192
+],
   "geometry": {"coordinates":[-68.770914,44.812192],"type":"Point"}
 }

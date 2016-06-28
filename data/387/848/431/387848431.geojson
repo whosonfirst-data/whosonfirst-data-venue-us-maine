@@ -2,13 +2,14 @@
   "id": 387848431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.202363,44.085315,-70.202363,44.085315",
     "geom:latitude":44.085315,
     "geom:longitude":-70.202363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 East Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387848431,
-    "wof:lastmodified":1449056636,
+    "wof:lastmodified":1466587152,
     "wof:name":"Silver Feather",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leather"
     ]
 },
-  "bbox": [-70.202363,44.085315,-70.202363,44.085315],
-  "geometry": {"coordinates":[-70.202363,44.085315],"type":"Point"}
+  "bbox": [
+    -70.202363,
+    44.085315,
+    -70.202363,
+    44.085315
+],
+  "geometry": {"coordinates":[-70.20236300000001,44.085315],"type":"Point"}
 }

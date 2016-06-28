@@ -2,13 +2,14 @@
   "id": 404126231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.031193,46.690794,-68.031193,46.690794",
     "geom:latitude":46.690794,
     "geom:longitude":-68.031193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 Central Dr",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404126231,
-    "wof:lastmodified":1449039474,
+    "wof:lastmodified":1466586392,
     "wof:name":"Homeless Services Of Aroostook",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelter"
     ]
 },
-  "bbox": [-68.031193,46.690794,-68.031193,46.690794],
+  "bbox": [
+    -68.031193,
+    46.690794,
+    -68.031193,
+    46.690794
+],
   "geometry": {"coordinates":[-68.031193,46.690794],"type":"Point"}
 }

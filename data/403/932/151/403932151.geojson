@@ -2,13 +2,14 @@
   "id": 403932151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.545613,44.545309,-70.545613,44.545309",
     "geom:latitude":44.545309,
     "geom:longitude":-70.545613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Congress St",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":403932151,
-    "wof:lastmodified":1449055121,
+    "wof:lastmodified":1466587027,
     "wof:name":"Bartash's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.545613,44.545309,-70.545613,44.545309],
+  "bbox": [
+    -70.545613,
+    44.545309,
+    -70.545613,
+    44.545309
+],
   "geometry": {"coordinates":[-70.545613,44.545309],"type":"Point"}
 }

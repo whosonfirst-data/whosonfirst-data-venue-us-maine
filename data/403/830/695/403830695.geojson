@@ -2,13 +2,14 @@
   "id": 403830695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.178553,43.782551,-70.178553,43.782551",
     "geom:latitude":43.782551,
     "geom:longitude":-70.178553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Lafayette St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403830695,
-    "wof:lastmodified":1449054922,
+    "wof:lastmodified":1466586440,
     "wof:name":"Protocol School Of Maine",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.178553,43.782551,-70.178553,43.782551],
-  "geometry": {"coordinates":[-70.178553,43.782551],"type":"Point"}
+  "bbox": [
+    -70.178553,
+    43.782551,
+    -70.178553,
+    43.782551
+],
+  "geometry": {"coordinates":[-70.17855299999999,43.782551],"type":"Point"}
 }

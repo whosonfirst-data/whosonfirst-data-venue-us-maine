@@ -2,13 +2,14 @@
   "id": 387963439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.820709,44.737079,-68.820709,44.737079",
     "geom:latitude":44.737079,
     "geom:longitude":-68.820709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 River Rd",
     "sg:city":"Orrington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387963439,
-    "wof:lastmodified":1449056470,
+    "wof:lastmodified":1466587301,
     "wof:name":"Gilman Telcom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-68.820709,44.737079,-68.820709,44.737079],
-  "geometry": {"coordinates":[-68.820709,44.737079],"type":"Point"}
+  "bbox": [
+    -68.820709,
+    44.737079,
+    -68.820709,
+    44.737079
+],
+  "geometry": {"coordinates":[-68.82070899999999,44.737079],"type":"Point"}
 }

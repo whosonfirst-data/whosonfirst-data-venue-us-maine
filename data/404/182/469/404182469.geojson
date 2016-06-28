@@ -2,13 +2,14 @@
   "id": 404182469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.839824,44.794471,-68.839824,44.794471",
     "geom:latitude":44.794471,
     "geom:longitude":-68.839824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1570 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404182469,
-    "wof:lastmodified":1449039892,
+    "wof:lastmodified":1466586856,
     "wof:name":"Phil Frost & Sons",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blade"
     ]
 },
-  "bbox": [-68.839824,44.794471,-68.839824,44.794471],
-  "geometry": {"coordinates":[-68.839824,44.794471],"type":"Point"}
+  "bbox": [
+    -68.839824,
+    44.794471,
+    -68.839824,
+    44.794471
+],
+  "geometry": {"coordinates":[-68.83982399999999,44.794471],"type":"Point"}
 }

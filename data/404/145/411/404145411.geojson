@@ -2,13 +2,14 @@
   "id": 404145411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.414453,43.831382,-70.414453,43.831382",
     "geom:latitude":43.831382,
     "geom:longitude":-70.414453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Forbes Ln",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404145411,
-    "wof:lastmodified":1449039381,
+    "wof:lastmodified":1466586634,
     "wof:name":"Roger S Carpentry",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.414453,43.831382,-70.414453,43.831382],
-  "geometry": {"coordinates":[-70.414453,43.831382],"type":"Point"}
+  "bbox": [
+    -70.414453,
+    43.831382,
+    -70.414453,
+    43.831382
+],
+  "geometry": {"coordinates":[-70.41445299999999,43.831382],"type":"Point"}
 }

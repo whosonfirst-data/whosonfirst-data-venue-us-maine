@@ -2,13 +2,14 @@
   "id": 387671561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.706853,44.05634,-70.706853,44.05634",
     "geom:latitude":44.05634,
     "geom:longitude":-70.706853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Elm St",
     "sg:city":"Bridgton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387671561,
-    "wof:lastmodified":1449056985,
+    "wof:lastmodified":1466586304,
     "wof:name":"Hubka Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.706853,44.05634,-70.706853,44.05634],
+  "bbox": [
+    -70.706853,
+    44.05634,
+    -70.706853,
+    44.05634
+],
   "geometry": {"coordinates":[-70.706853,44.05634],"type":"Point"}
 }

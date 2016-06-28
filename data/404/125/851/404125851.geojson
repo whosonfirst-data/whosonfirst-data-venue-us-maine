@@ -2,13 +2,14 @@
   "id": 404125851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252885,43.637924,-70.252885,43.637924",
     "geom:latitude":43.637924,
     "geom:longitude":-70.252885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Ocean St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404125851,
-    "wof:lastmodified":1449040285,
+    "wof:lastmodified":1466586385,
     "wof:name":"Maine Paint Svc",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-70.252885,43.637924,-70.252885,43.637924],
-  "geometry": {"coordinates":[-70.252885,43.637924],"type":"Point"}
+  "bbox": [
+    -70.252885,
+    43.637924,
+    -70.252885,
+    43.637924
+],
+  "geometry": {"coordinates":[-70.25288500000001,43.637924],"type":"Point"}
 }

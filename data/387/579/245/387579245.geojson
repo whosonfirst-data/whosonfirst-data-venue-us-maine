@@ -2,13 +2,14 @@
   "id": 387579245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.676555,44.110066,-70.676555,44.110066",
     "geom:latitude":44.110066,
     "geom:longitude":-70.676555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Main St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387579245,
-    "wof:lastmodified":1449057311,
+    "wof:lastmodified":1466586006,
     "wof:name":"Clifford Lewis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.676555,44.110066,-70.676555,44.110066],
-  "geometry": {"coordinates":[-70.676555,44.110066],"type":"Point"}
+  "bbox": [
+    -70.676555,
+    44.110066,
+    -70.676555,
+    44.110066
+],
+  "geometry": {"coordinates":[-70.67655499999999,44.110066],"type":"Point"}
 }

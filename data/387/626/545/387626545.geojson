@@ -2,13 +2,14 @@
   "id": 387626545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.033057,43.75388,-70.033057,43.75388",
     "geom:latitude":43.75388,
     "geom:longitude":-70.033057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 Basin Point Rd",
     "sg:city":"Harpswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387626545,
-    "wof:lastmodified":1449059922,
+    "wof:lastmodified":1466586631,
     "wof:name":"Harpswell Paint Co",
     "wof:parent_id":85855607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-70.033057,43.75388,-70.033057,43.75388],
+  "bbox": [
+    -70.033057,
+    43.75388,
+    -70.033057,
+    43.75388
+],
   "geometry": {"coordinates":[-70.033057,43.75388],"type":"Point"}
 }

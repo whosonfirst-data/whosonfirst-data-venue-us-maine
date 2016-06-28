@@ -2,13 +2,14 @@
   "id": 403897277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.720735,43.333738,-70.720735,43.333738",
     "geom:latitude":43.333738,
     "geom:longitude":-70.720735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Manor Dr",
     "sg:city":"Ocean Park",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403897277,
-    "wof:lastmodified":1449055757,
+    "wof:lastmodified":1466586914,
     "wof:name":"Old Orchard Bch Sewerage Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-70.720735,43.333738,-70.720735,43.333738],
+  "bbox": [
+    -70.720735,
+    43.333738,
+    -70.720735,
+    43.333738
+],
   "geometry": {"coordinates":[-70.720735,43.333738],"type":"Point"}
 }

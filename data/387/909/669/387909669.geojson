@@ -2,13 +2,14 @@
   "id": 387909669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.792153,44.405933,-70.792153,44.405933",
     "geom:latitude":44.405933,
     "geom:longitude":-70.792153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Park St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387909669,
-    "wof:lastmodified":1449058968,
+    "wof:lastmodified":1466587319,
     "wof:name":"Rivendell House",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.792153,44.405933,-70.792153,44.405933],
+  "bbox": [
+    -70.792153,
+    44.405933,
+    -70.792153,
+    44.405933
+],
   "geometry": {"coordinates":[-70.792153,44.405933],"type":"Point"}
 }

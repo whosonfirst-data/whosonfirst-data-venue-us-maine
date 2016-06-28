@@ -2,13 +2,14 @@
   "id": 404101831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.171293,44.07866,-70.171293,44.07866",
     "geom:latitude":44.07866,
     "geom:longitude":-70.171293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Westminster St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404101831,
-    "wof:lastmodified":1449039753,
+    "wof:lastmodified":1466586020,
     "wof:name":"Connectivity Point Design",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wiring"
     ]
 },
-  "bbox": [-70.171293,44.07866,-70.171293,44.07866],
-  "geometry": {"coordinates":[-70.171293,44.07866],"type":"Point"}
+  "bbox": [
+    -70.171293,
+    44.07866,
+    -70.171293,
+    44.07866
+],
+  "geometry": {"coordinates":[-70.17129300000001,44.07866],"type":"Point"}
 }

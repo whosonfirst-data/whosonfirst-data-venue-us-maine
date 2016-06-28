@@ -2,13 +2,14 @@
   "id": 404089055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.043055,44.27351,-70.043055,44.27351",
     "geom:latitude":44.27351,
     "geom:longitude":-70.043055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Wilson Pond Rd",
     "sg:city":"North Monmouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404089055,
-    "wof:lastmodified":1449039301,
+    "wof:lastmodified":1466585839,
     "wof:name":"Country Gingham Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "greeting"
     ]
 },
-  "bbox": [-70.043055,44.27351,-70.043055,44.27351],
+  "bbox": [
+    -70.043055,
+    44.27351,
+    -70.043055,
+    44.27351
+],
   "geometry": {"coordinates":[-70.043055,44.27351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403766831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.620178,43.439462,-70.620178,43.439462",
     "geom:latitude":43.439462,
     "geom:longitude":-70.620178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"354 Cole Rd",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403766831,
-    "wof:lastmodified":1449054611,
+    "wof:lastmodified":1466586486,
     "wof:name":"Soy Unique Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-70.620178,43.439462,-70.620178,43.439462],
+  "bbox": [
+    -70.620178,
+    43.439462,
+    -70.620178,
+    43.439462
+],
   "geometry": {"coordinates":[-70.620178,43.439462],"type":"Point"}
 }

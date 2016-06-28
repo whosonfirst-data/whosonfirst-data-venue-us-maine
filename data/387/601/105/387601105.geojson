@@ -2,13 +2,14 @@
   "id": 387601105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.225386,44.081276,-69.225386,44.081276",
     "geom:latitude":44.081276,
     "geom:longitude":-69.225386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Atlantic Hwy",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387601105,
-    "wof:lastmodified":1449057806,
+    "wof:lastmodified":1466586350,
     "wof:name":"Tom Fence Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.225386,44.081276,-69.225386,44.081276],
+  "bbox": [
+    -69.225386,
+    44.081276,
+    -69.225386,
+    44.081276
+],
   "geometry": {"coordinates":[-69.225386,44.081276],"type":"Point"}
 }

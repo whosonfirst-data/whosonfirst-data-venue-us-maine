@@ -2,13 +2,14 @@
   "id": 387817513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.598184,43.694595,-70.598184,43.694595",
     "geom:latitude":43.694595,
     "geom:longitude":-70.598184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Saco Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387817513,
-    "wof:lastmodified":1449059170,
+    "wof:lastmodified":1466587188,
     "wof:name":"Key Club International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "membership"
     ]
 },
-  "bbox": [-70.598184,43.694595,-70.598184,43.694595],
+  "bbox": [
+    -70.598184,
+    43.694595,
+    -70.598184,
+    43.694595
+],
   "geometry": {"coordinates":[-70.598184,43.694595],"type":"Point"}
 }

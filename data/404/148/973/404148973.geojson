@@ -2,13 +2,14 @@
   "id": 404148973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.702721,43.399571,-70.702721,43.399571",
     "geom:latitude":43.399571,
     "geom:longitude":-70.702721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1893 Main St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404148973,
-    "wof:lastmodified":1449040126,
+    "wof:lastmodified":1466586834,
     "wof:name":"New England Steel Fabricators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-70.702721,43.399571,-70.702721,43.399571],
+  "bbox": [
+    -70.702721,
+    43.399571,
+    -70.702721,
+    43.399571
+],
   "geometry": {"coordinates":[-70.702721,43.399571],"type":"Point"}
 }

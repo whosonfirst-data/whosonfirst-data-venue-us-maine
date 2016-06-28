@@ -2,13 +2,14 @@
   "id": 387865859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.267179,44.047333,-70.267179,44.047333",
     "geom:latitude":44.047333,
     "geom:longitude":-70.267179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Cherryvale Cir",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387865859,
-    "wof:lastmodified":1449058979,
+    "wof:lastmodified":1466587188,
     "wof:name":"EASYPAYNE.COM",
     "wof:parent_id":85813517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-70.267179,44.047333,-70.267179,44.047333],
+  "bbox": [
+    -70.267179,
+    44.047333,
+    -70.267179,
+    44.047333
+],
   "geometry": {"coordinates":[-70.267179,44.047333],"type":"Point"}
 }

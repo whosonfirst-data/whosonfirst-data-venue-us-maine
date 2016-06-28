@@ -2,13 +2,14 @@
   "id": 404201743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.789959,44.785064,-68.789959,44.785064",
     "geom:latitude":44.785064,
     "geom:longitude":-68.789959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Perry Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404201743,
-    "wof:lastmodified":1449040163,
+    "wof:lastmodified":1466586856,
     "wof:name":"Gilman Electrical Supply Co",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-68.789959,44.785064,-68.789959,44.785064],
+  "bbox": [
+    -68.789959,
+    44.785064,
+    -68.789959,
+    44.785064
+],
   "geometry": {"coordinates":[-68.789959,44.785064],"type":"Point"}
 }

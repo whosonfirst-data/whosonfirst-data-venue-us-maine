@@ -2,13 +2,14 @@
   "id": 404097159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.452193,43.490987,-70.452193,43.490987",
     "geom:latitude":43.490987,
     "geom:longitude":-70.452193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Bacon St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404097159,
-    "wof:lastmodified":1449039506,
+    "wof:lastmodified":1466585956,
     "wof:name":"Pro-Craft Of Southern Maine",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.452193,43.490987,-70.452193,43.490987],
-  "geometry": {"coordinates":[-70.452193,43.490987],"type":"Point"}
+  "bbox": [
+    -70.452193,
+    43.490987,
+    -70.452193,
+    43.490987
+],
+  "geometry": {"coordinates":[-70.45219299999999,43.490987],"type":"Point"}
 }

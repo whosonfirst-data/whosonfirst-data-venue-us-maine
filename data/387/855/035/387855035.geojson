@@ -2,13 +2,14 @@
   "id": 387855035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.667465,44.889997,-68.667465,44.889997",
     "geom:latitude":44.889997,
     "geom:longitude":-68.667465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Fellows Pl",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387855035,
-    "wof:lastmodified":1449058911,
+    "wof:lastmodified":1466587251,
     "wof:name":"Jessica W Henson",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tagging"
     ]
 },
-  "bbox": [-68.667465,44.889997,-68.667465,44.889997],
-  "geometry": {"coordinates":[-68.667465,44.889997],"type":"Point"}
+  "bbox": [
+    -68.667465,
+    44.889997,
+    -68.667465,
+    44.889997
+],
+  "geometry": {"coordinates":[-68.66746500000001,44.889997],"type":"Point"}
 }

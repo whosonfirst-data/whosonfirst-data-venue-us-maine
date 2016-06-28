@@ -2,13 +2,14 @@
   "id": 387960575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.414811,44.548068,-68.414811,44.548068",
     "geom:latitude":44.548068,
     "geom:longitude":-68.414811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Union St",
     "sg:city":"Blue Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387960575,
-    "wof:lastmodified":1449058844,
+    "wof:lastmodified":1466587344,
     "wof:name":"Bianco's Catering",
     "wof:parent_id":85820603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-68.414811,44.548068,-68.414811,44.548068],
+  "bbox": [
+    -68.414811,
+    44.548068,
+    -68.414811,
+    44.548068
+],
   "geometry": {"coordinates":[-68.414811,44.548068],"type":"Point"}
 }

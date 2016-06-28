@@ -2,13 +2,14 @@
   "id": 387586829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.820912,43.908486,-69.820912,43.908486",
     "geom:latitude":43.908486,
     "geom:longitude":-69.820912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Western Ave",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387586829,
-    "wof:lastmodified":1449059482,
+    "wof:lastmodified":1466586119,
     "wof:name":"Pauline J Thibodeau Antiques",
     "wof:parent_id":85858289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-69.820912,43.908486,-69.820912,43.908486],
-  "geometry": {"coordinates":[-69.820912,43.908486],"type":"Point"}
+  "bbox": [
+    -69.820912,
+    43.908486,
+    -69.820912,
+    43.908486
+],
+  "geometry": {"coordinates":[-69.82091200000001,43.908486],"type":"Point"}
 }

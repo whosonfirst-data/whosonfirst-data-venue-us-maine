@@ -2,13 +2,14 @@
   "id": 404101933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.571994,43.331907,-70.571994,43.331907",
     "geom:latitude":43.331907,
     "geom:longitude":-70.571994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 Post Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404101933,
-    "wof:lastmodified":1449039753,
+    "wof:lastmodified":1466586023,
     "wof:name":"Anderson & Kelley Antiques",
     "wof:parent_id":85817893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-70.571994,43.331907,-70.571994,43.331907],
+  "bbox": [
+    -70.571994,
+    43.331907,
+    -70.571994,
+    43.331907
+],
   "geometry": {"coordinates":[-70.571994,43.331907],"type":"Point"}
 }

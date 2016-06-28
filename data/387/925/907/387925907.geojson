@@ -2,13 +2,14 @@
   "id": 387925907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.915563,43.906237,-69.915563,43.906237",
     "geom:latitude":43.906237,
     "geom:longitude":-69.915563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Gurnet Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387925907,
-    "wof:lastmodified":1449056147,
+    "wof:lastmodified":1466587263,
     "wof:name":"J & J Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.915563,43.906237,-69.915563,43.906237],
-  "geometry": {"coordinates":[-69.915563,43.906237],"type":"Point"}
+  "bbox": [
+    -69.915563,
+    43.906237,
+    -69.915563,
+    43.906237
+],
+  "geometry": {"coordinates":[-69.91556300000001,43.906237],"type":"Point"}
 }

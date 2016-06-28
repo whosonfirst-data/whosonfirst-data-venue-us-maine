@@ -2,13 +2,14 @@
   "id": 403835267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.00474,46.862757,-68.00474,46.862757",
     "geom:latitude":46.862757,
     "geom:longitude":-68.00474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Bennett Dr",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403835267,
-    "wof:lastmodified":1449054822,
+    "wof:lastmodified":1466586517,
     "wof:name":"Connor Appliance Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.00474,46.862757,-68.00474,46.862757],
+  "bbox": [
+    -68.00474,
+    46.862757,
+    -68.00474,
+    46.862757
+],
   "geometry": {"coordinates":[-68.00474,46.862757],"type":"Point"}
 }

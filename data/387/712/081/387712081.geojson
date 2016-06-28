@@ -2,13 +2,14 @@
   "id": 387712081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.169893,43.772641,-70.169893,43.772641",
     "geom:latitude":43.772641,
     "geom:longitude":-70.169893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 Princes Point Rd",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387712081,
-    "wof:lastmodified":1449057737,
+    "wof:lastmodified":1466586766,
     "wof:name":"Naval Reserve Assoc Inc",
     "wof:parent_id":85812603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.169893,43.772641,-70.169893,43.772641],
+  "bbox": [
+    -70.169893,
+    43.772641,
+    -70.169893,
+    43.772641
+],
   "geometry": {"coordinates":[-70.169893,43.772641],"type":"Point"}
 }

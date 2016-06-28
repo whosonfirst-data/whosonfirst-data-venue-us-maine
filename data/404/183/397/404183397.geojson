@@ -2,13 +2,14 @@
   "id": 404183397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.375247,44.247904,-70.375247,44.247904",
     "geom:latitude":44.247904,
     "geom:longitude":-70.375247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Mountain Rd",
     "sg:city":"Stoneham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404183397,
-    "wof:lastmodified":1449039779,
+    "wof:lastmodified":1466586930,
     "wof:name":"Evergreen Valley Inn & Villas",
     "wof:parent_id":85816409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.375247,44.247904,-70.375247,44.247904],
+  "bbox": [
+    -70.375247,
+    44.247904,
+    -70.375247,
+    44.247904
+],
   "geometry": {"coordinates":[-70.375247,44.247904],"type":"Point"}
 }

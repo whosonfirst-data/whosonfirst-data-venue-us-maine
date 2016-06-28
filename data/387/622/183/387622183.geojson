@@ -2,13 +2,14 @@
   "id": 387622183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.839682,46.125214,-67.839682,46.125214",
     "geom:latitude":46.125214,
     "geom:longitude":-67.839682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Court St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387622183,
-    "wof:lastmodified":1449059237,
+    "wof:lastmodified":1466585723,
     "wof:name":"District Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-67.839682,46.125214,-67.839682,46.125214],
+  "bbox": [
+    -67.839682,
+    46.125214,
+    -67.839682,
+    46.125214
+],
   "geometry": {"coordinates":[-67.839682,46.125214],"type":"Point"}
 }

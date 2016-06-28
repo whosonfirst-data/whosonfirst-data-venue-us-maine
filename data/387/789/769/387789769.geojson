@@ -2,13 +2,14 @@
   "id": 387789769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.495527,44.295327,-70.495527,44.295327",
     "geom:latitude":44.295327,
     "geom:longitude":-70.495527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Moody Brook Rd",
     "sg:city":"Stoneham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387789769,
-    "wof:lastmodified":1449057815,
+    "wof:lastmodified":1466587013,
     "wof:name":"J Jones Contracting/Caretaking",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.495527,44.295327,-70.495527,44.295327],
+  "bbox": [
+    -70.495527,
+    44.295327,
+    -70.495527,
+    44.295327
+],
   "geometry": {"coordinates":[-70.495527,44.295327],"type":"Point"}
 }

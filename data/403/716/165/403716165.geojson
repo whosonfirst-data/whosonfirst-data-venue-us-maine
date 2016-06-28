@@ -2,13 +2,14 @@
   "id": 403716165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.252005,44.118876,-69.252005,44.118876",
     "geom:latitude":44.118876,
     "geom:longitude":-69.252005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Main St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403716165,
-    "wof:lastmodified":1449054816,
+    "wof:lastmodified":1466585816,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.252005,44.118876,-69.252005,44.118876],
+  "bbox": [
+    -69.252005,
+    44.118876,
+    -69.252005,
+    44.118876
+],
   "geometry": {"coordinates":[-69.252005,44.118876],"type":"Point"}
 }

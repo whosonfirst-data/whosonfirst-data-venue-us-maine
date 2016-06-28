@@ -2,13 +2,14 @@
   "id": 404036377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.980589,43.912695,-69.980589,43.912695",
     "geom:latitude":43.912695,
     "geom:longitude":-69.980589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Pleasant St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404036377,
-    "wof:lastmodified":1449039312,
+    "wof:lastmodified":1466586031,
     "wof:name":"Northern Chi Martial Arts Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instruction"
     ]
 },
-  "bbox": [-69.980589,43.912695,-69.980589,43.912695],
-  "geometry": {"coordinates":[-69.980589,43.912695],"type":"Point"}
+  "bbox": [
+    -69.980589,
+    43.912695,
+    -69.980589,
+    43.912695
+],
+  "geometry": {"coordinates":[-69.98058899999999,43.912695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404119221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.304707,43.71297,-70.304707,43.71297",
     "geom:latitude":43.71297,
     "geom:longitude":-70.304707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"373 Riverside Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404119221,
-    "wof:lastmodified":1449039982,
+    "wof:lastmodified":1466586283,
     "wof:name":"Simon's Co",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.304707,43.71297,-70.304707,43.71297],
-  "geometry": {"coordinates":[-70.304707,43.71297],"type":"Point"}
+  "bbox": [
+    -70.304707,
+    43.71297,
+    -70.304707,
+    43.71297
+],
+  "geometry": {"coordinates":[-70.30470699999999,43.71297],"type":"Point"}
 }

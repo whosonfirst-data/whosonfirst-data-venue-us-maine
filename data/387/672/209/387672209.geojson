@@ -2,13 +2,14 @@
   "id": 387672209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.447623,43.489063,-70.447623,43.489063",
     "geom:latitude":43.489063,
     "geom:longitude":-70.447623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Pinette Ave",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387672209,
-    "wof:lastmodified":1449056357,
+    "wof:lastmodified":1466586315,
     "wof:name":"Childhood Hours Children's Ctr",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.447623,43.489063,-70.447623,43.489063],
-  "geometry": {"coordinates":[-70.447623,43.489063],"type":"Point"}
+  "bbox": [
+    -70.447623,
+    43.489063,
+    -70.447623,
+    43.489063
+],
+  "geometry": {"coordinates":[-70.44762299999999,43.489063],"type":"Point"}
 }

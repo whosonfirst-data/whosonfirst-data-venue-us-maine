@@ -2,13 +2,14 @@
   "id": 403863483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.327781,43.684877,-70.327781,43.684877",
     "geom:latitude":43.684877,
     "geom:longitude":-70.327781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"357 Riverside St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403863483,
-    "wof:lastmodified":1449055529,
+    "wof:lastmodified":1466586754,
     "wof:name":"Handyman Equipment Rental Co",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.327781,43.684877,-70.327781,43.684877],
+  "bbox": [
+    -70.327781,
+    43.684877,
+    -70.327781,
+    43.684877
+],
   "geometry": {"coordinates":[-70.327781,43.684877],"type":"Point"}
 }

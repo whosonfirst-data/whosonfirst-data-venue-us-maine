@@ -2,13 +2,14 @@
   "id": 387603443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.284427,43.8114,-70.284427,43.8114",
     "geom:latitude":43.8114,
     "geom:longitude":-70.284427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Bruce Hill Rd",
     "sg:city":"Cumberland Center",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387603443,
-    "wof:lastmodified":1449059339,
+    "wof:lastmodified":1466586398,
     "wof:name":"Cape Shore Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-70.284427,43.8114,-70.284427,43.8114],
-  "geometry": {"coordinates":[-70.284427,43.8114],"type":"Point"}
+  "bbox": [
+    -70.284427,
+    43.8114,
+    -70.284427,
+    43.8114
+],
+  "geometry": {"coordinates":[-70.28442699999999,43.8114],"type":"Point"}
 }

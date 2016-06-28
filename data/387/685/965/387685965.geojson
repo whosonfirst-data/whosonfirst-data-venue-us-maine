@@ -2,13 +2,14 @@
   "id": 387685965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242348,43.650147,-70.242348,43.650147",
     "geom:latitude":43.650147,
     "geom:longitude":-70.242348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387685965,
-    "wof:lastmodified":1449059827,
+    "wof:lastmodified":1466586537,
     "wof:name":"R P M Construction",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.242348,43.650147,-70.242348,43.650147],
-  "geometry": {"coordinates":[-70.242348,43.650147],"type":"Point"}
+  "bbox": [
+    -70.242348,
+    43.650147,
+    -70.242348,
+    43.650147
+],
+  "geometry": {"coordinates":[-70.24234800000001,43.650147],"type":"Point"}
 }

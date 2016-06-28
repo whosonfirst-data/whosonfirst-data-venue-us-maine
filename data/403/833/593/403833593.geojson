@@ -2,13 +2,14 @@
   "id": 403833593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.220213,44.098186,-70.220213,44.098186",
     "geom:latitude":44.098186,
     "geom:longitude":-70.220213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Mill St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403833593,
-    "wof:lastmodified":1449054791,
+    "wof:lastmodified":1466586490,
     "wof:name":"Great Falls Redemtion Ctr",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "server"
     ]
 },
-  "bbox": [-70.220213,44.098186,-70.220213,44.098186],
+  "bbox": [
+    -70.220213,
+    44.098186,
+    -70.220213,
+    44.098186
+],
   "geometry": {"coordinates":[-70.220213,44.098186],"type":"Point"}
 }

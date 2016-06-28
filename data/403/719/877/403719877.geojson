@@ -2,13 +2,14 @@
   "id": 403719877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.382149,44.264875,-69.382149,44.264875",
     "geom:latitude":44.264875,
     "geom:longitude":-69.382149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Homestead Rd",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403719877,
-    "wof:lastmodified":1449054795,
+    "wof:lastmodified":1466585856,
     "wof:name":"Gray Homestead Oceanfront",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.382149,44.264875,-69.382149,44.264875],
+  "bbox": [
+    -69.382149,
+    44.264875,
+    -69.382149,
+    44.264875
+],
   "geometry": {"coordinates":[-69.382149,44.264875],"type":"Point"}
 }

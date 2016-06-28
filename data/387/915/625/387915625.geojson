@@ -2,13 +2,14 @@
   "id": 387915625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.204819,44.389793,-68.204819,44.389793",
     "geom:latitude":44.389793,
     "geom:longitude":-68.204819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Main St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387915625,
-    "wof:lastmodified":1449059887,
+    "wof:lastmodified":1466587254,
     "wof:name":"Acadia National Park Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "promoter"
     ]
 },
-  "bbox": [-68.204819,44.389793,-68.204819,44.389793],
+  "bbox": [
+    -68.204819,
+    44.389793,
+    -68.204819,
+    44.389793
+],
   "geometry": {"coordinates":[-68.204819,44.389793],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387719899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252951,43.656372,-70.252951,43.656372",
     "geom:latitude":43.656372,
     "geom:longitude":-70.252951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Moulton St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387719899,
-    "wof:lastmodified":1449056599,
+    "wof:lastmodified":1466586814,
     "wof:name":"Beadalicious",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beads"
     ]
 },
-  "bbox": [-70.252951,43.656372,-70.252951,43.656372],
+  "bbox": [
+    -70.252951,
+    43.656372,
+    -70.252951,
+    43.656372
+],
   "geometry": {"coordinates":[-70.252951,43.656372],"type":"Point"}
 }

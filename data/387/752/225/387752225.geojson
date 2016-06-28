@@ -2,13 +2,14 @@
   "id": 387752225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.422508,43.536006,-70.422508,43.536006",
     "geom:latitude":43.536006,
     "geom:longitude":-70.422508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"872 Portland Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387752225,
-    "wof:lastmodified":1449056740,
+    "wof:lastmodified":1466586903,
     "wof:name":"Port Harbor Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sales"
     ]
 },
-  "bbox": [-70.422508,43.536006,-70.422508,43.536006],
-  "geometry": {"coordinates":[-70.422508,43.536006],"type":"Point"}
+  "bbox": [
+    -70.422508,
+    43.536006,
+    -70.422508,
+    43.536006
+],
+  "geometry": {"coordinates":[-70.42250799999999,43.536006],"type":"Point"}
 }

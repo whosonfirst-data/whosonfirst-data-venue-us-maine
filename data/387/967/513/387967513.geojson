@@ -2,13 +2,14 @@
   "id": 387967513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.304294,44.360203,-68.304294,44.360203",
     "geom:latitude":44.360203,
     "geom:longitude":-68.304294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"373 Sound Dr",
     "sg:city":"Mt Desert",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387967513,
-    "wof:lastmodified":1449059638,
+    "wof:lastmodified":1466587301,
     "wof:name":"Mount Desert Island Historical",
     "wof:parent_id":85849305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.304294,44.360203,-68.304294,44.360203],
+  "bbox": [
+    -68.304294,
+    44.360203,
+    -68.304294,
+    44.360203
+],
   "geometry": {"coordinates":[-68.304294,44.360203],"type":"Point"}
 }

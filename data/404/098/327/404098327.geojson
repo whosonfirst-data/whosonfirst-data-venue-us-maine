@@ -2,13 +2,14 @@
   "id": 404098327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.841093,46.174013,-67.841093,46.174013",
     "geom:latitude":46.174013,
     "geom:longitude":-67.841093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 North St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404098327,
-    "wof:lastmodified":1449040198,
+    "wof:lastmodified":1466585973,
     "wof:name":"Crawford's Mobile Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.841093,46.174013,-67.841093,46.174013],
+  "bbox": [
+    -67.841093,
+    46.174013,
+    -67.841093,
+    46.174013
+],
   "geometry": {"coordinates":[-67.841093,46.174013],"type":"Point"}
 }

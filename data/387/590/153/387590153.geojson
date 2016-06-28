@@ -2,13 +2,14 @@
   "id": 387590153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.674065,44.544578,-69.674065,44.544578",
     "geom:latitude":44.544578,
     "geom:longitude":-69.674065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Kennedy Memorial Dr",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387590153,
-    "wof:lastmodified":1449058370,
+    "wof:lastmodified":1466586187,
     "wof:name":"John B Makin Jr MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-69.674065,44.544578,-69.674065,44.544578],
+  "bbox": [
+    -69.674065,
+    44.544578,
+    -69.674065,
+    44.544578
+],
   "geometry": {"coordinates":[-69.674065,44.544578],"type":"Point"}
 }

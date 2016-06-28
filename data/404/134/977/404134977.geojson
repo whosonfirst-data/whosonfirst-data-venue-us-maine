@@ -2,13 +2,14 @@
   "id": 404134977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.066756,44.208367,-69.066756,44.208367",
     "geom:latitude":44.208367,
     "geom:longitude":-69.066756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Elm St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404134977,
-    "wof:lastmodified":1449040275,
+    "wof:lastmodified":1466586524,
     "wof:name":"Ortolan",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-69.066756,44.208367,-69.066756,44.208367],
+  "bbox": [
+    -69.066756,
+    44.208367,
+    -69.066756,
+    44.208367
+],
   "geometry": {"coordinates":[-69.066756,44.208367],"type":"Point"}
 }

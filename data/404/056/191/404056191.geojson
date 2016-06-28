@@ -2,13 +2,14 @@
   "id": 404056191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.458125,44.365162,-70.458125,44.365162",
     "geom:latitude":44.365162,
     "geom:longitude":-70.458125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Main St",
     "sg:city":"Sumner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404056191,
-    "wof:lastmodified":1449039356,
+    "wof:lastmodified":1466586368,
     "wof:name":"KAL Electrical Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.458125,44.365162,-70.458125,44.365162],
+  "bbox": [
+    -70.458125,
+    44.365162,
+    -70.458125,
+    44.365162
+],
   "geometry": {"coordinates":[-70.458125,44.365162],"type":"Point"}
 }

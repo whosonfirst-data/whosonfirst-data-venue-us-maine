@@ -2,13 +2,14 @@
   "id": 404129831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.845205,46.123293,-67.845205,46.123293",
     "geom:latitude":46.123293,
     "geom:longitude":-67.845205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Military St",
     "sg:city":"Blaine",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404129831,
-    "wof:lastmodified":1449040055,
+    "wof:lastmodified":1466586448,
     "wof:name":"Sargent Flatbed Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-67.845205,46.123293,-67.845205,46.123293],
-  "geometry": {"coordinates":[-67.845205,46.123293],"type":"Point"}
+  "bbox": [
+    -67.845205,
+    46.123293,
+    -67.845205,
+    46.123293
+],
+  "geometry": {"coordinates":[-67.84520500000001,46.123293],"type":"Point"}
 }

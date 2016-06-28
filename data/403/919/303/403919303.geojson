@@ -2,13 +2,14 @@
   "id": 403919303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.70916,45.656348,-68.70916,45.656348",
     "geom:latitude":45.656348,
     "geom:longitude":-68.70916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Penobscot Ave",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403919303,
-    "wof:lastmodified":1449055637,
+    "wof:lastmodified":1466586904,
     "wof:name":"Ferland Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-68.70916,45.656348,-68.70916,45.656348],
+  "bbox": [
+    -68.70916,
+    45.656348,
+    -68.70916,
+    45.656348
+],
   "geometry": {"coordinates":[-68.70916,45.656348],"type":"Point"}
 }

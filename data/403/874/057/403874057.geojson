@@ -2,13 +2,14 @@
   "id": 403874057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.192644,43.803143,-70.192644,43.803143",
     "geom:latitude":43.803143,
     "geom:longitude":-70.192644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Main St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403874057,
-    "wof:lastmodified":1449055876,
+    "wof:lastmodified":1466586816,
     "wof:name":"Lee Nails",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-70.192644,43.803143,-70.192644,43.803143],
+  "bbox": [
+    -70.192644,
+    43.803143,
+    -70.192644,
+    43.803143
+],
   "geometry": {"coordinates":[-70.192644,43.803143],"type":"Point"}
 }

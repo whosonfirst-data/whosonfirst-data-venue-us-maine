@@ -2,13 +2,14 @@
   "id": 403938705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.876738,44.793224,-69.876738,44.793224",
     "geom:latitude":44.793224,
     "geom:longitude":-69.876738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Jones St",
     "sg:city":"Jackman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403938705,
-    "wof:lastmodified":1449055613,
+    "wof:lastmodified":1466586942,
     "wof:name":"John's Four Season",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.876738,44.793224,-69.876738,44.793224],
+  "bbox": [
+    -69.876738,
+    44.793224,
+    -69.876738,
+    44.793224
+],
   "geometry": {"coordinates":[-69.876738,44.793224],"type":"Point"}
 }

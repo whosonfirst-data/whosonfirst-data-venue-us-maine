@@ -2,13 +2,14 @@
   "id": 403995453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.782719,44.299803,-69.782719,44.299803",
     "geom:latitude":44.299803,
     "geom:longitude":-69.782719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 State St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403995453,
-    "wof:lastmodified":1449055824,
+    "wof:lastmodified":1466587095,
     "wof:name":"Ultimate Design",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-69.782719,44.299803,-69.782719,44.299803],
+  "bbox": [
+    -69.782719,
+    44.299803,
+    -69.782719,
+    44.299803
+],
   "geometry": {"coordinates":[-69.782719,44.299803],"type":"Point"}
 }

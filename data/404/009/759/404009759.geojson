@@ -2,13 +2,14 @@
   "id": 404009759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.096417,47.022767,-68.096417,47.022767",
     "geom:latitude":47.022767,
     "geom:longitude":-68.096417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 School St",
     "sg:city":"Stockholm",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404009759,
-    "wof:lastmodified":1449040312,
+    "wof:lastmodified":1466585803,
     "wof:name":"Maine Pro Audio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-68.096417,47.022767,-68.096417,47.022767],
+  "bbox": [
+    -68.096417,
+    47.022767,
+    -68.096417,
+    47.022767
+],
   "geometry": {"coordinates":[-68.096417,47.022767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403826711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.675447,44.887262,-68.675447,44.887262",
     "geom:latitude":44.887262,
     "geom:longitude":-68.675447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Bennoch Rd",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403826711,
-    "wof:lastmodified":1449055577,
+    "wof:lastmodified":1466586376,
     "wof:name":"D M Kimler DDS PA",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.675447,44.887262,-68.675447,44.887262],
-  "geometry": {"coordinates":[-68.675447,44.887262],"type":"Point"}
+  "bbox": [
+    -68.675447,
+    44.887262,
+    -68.675447,
+    44.887262
+],
+  "geometry": {"coordinates":[-68.67544700000001,44.887262],"type":"Point"}
 }

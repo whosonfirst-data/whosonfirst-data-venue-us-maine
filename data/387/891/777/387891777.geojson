@@ -2,13 +2,14 @@
   "id": 387891777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.010317,46.858368,-68.010317,46.858368",
     "geom:latitude":46.858368,
     "geom:longitude":-68.010317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Lyndon St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387891777,
-    "wof:lastmodified":1449058398,
+    "wof:lastmodified":1466587237,
     "wof:name":"P L Willey & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.010317,46.858368,-68.010317,46.858368],
+  "bbox": [
+    -68.010317,
+    46.858368,
+    -68.010317,
+    46.858368
+],
   "geometry": {"coordinates":[-68.010317,46.858368],"type":"Point"}
 }

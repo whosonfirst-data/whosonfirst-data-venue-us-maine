@@ -2,13 +2,14 @@
   "id": 404183677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.552186,43.373931,-70.552186,43.373931",
     "geom:latitude":43.373931,
     "geom:longitude":-70.552186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 York St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404183677,
-    "wof:lastmodified":1449039779,
+    "wof:lastmodified":1466586931,
     "wof:name":"Americana Sports Gallery",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "memorabilia"
     ]
 },
-  "bbox": [-70.552186,43.373931,-70.552186,43.373931],
-  "geometry": {"coordinates":[-70.552186,43.373931],"type":"Point"}
+  "bbox": [
+    -70.552186,
+    43.373931,
+    -70.552186,
+    43.373931
+],
+  "geometry": {"coordinates":[-70.55218600000001,43.373931],"type":"Point"}
 }

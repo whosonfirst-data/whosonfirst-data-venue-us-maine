@@ -2,13 +2,14 @@
   "id": 387909629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.353512,44.043171,-70.353512,44.043171",
     "geom:latitude":44.043171,
     "geom:longitude":-70.353512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Bailey Hill Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387909629,
-    "wof:lastmodified":1449058969,
+    "wof:lastmodified":1466587319,
     "wof:name":"Moose Alley Day Care Campus",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.353512,44.043171,-70.353512,44.043171],
-  "geometry": {"coordinates":[-70.353512,44.043171],"type":"Point"}
+  "bbox": [
+    -70.353512,
+    44.043171,
+    -70.353512,
+    44.043171
+],
+  "geometry": {"coordinates":[-70.35351199999999,44.043171],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404066797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.344534,43.592155,-70.344534,43.592155",
     "geom:latitude":43.592155,
     "geom:longitude":-70.344534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Herbert Ln",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404066797,
-    "wof:lastmodified":1449039369,
+    "wof:lastmodified":1466586524,
     "wof:name":"Adams & Adams",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.344534,43.592155,-70.344534,43.592155],
+  "bbox": [
+    -70.344534,
+    43.592155,
+    -70.344534,
+    43.592155
+],
   "geometry": {"coordinates":[-70.344534,43.592155],"type":"Point"}
 }

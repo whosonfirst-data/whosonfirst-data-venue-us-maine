@@ -2,13 +2,14 @@
   "id": 387742141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.754709,44.633697,-70.754709,44.633697",
     "geom:latitude":44.633697,
     "geom:longitude":-70.754709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Pine St",
     "sg:city":"Andover",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387742141,
-    "wof:lastmodified":1449056364,
+    "wof:lastmodified":1466586865,
     "wof:name":"Andover Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.754709,44.633697,-70.754709,44.633697],
-  "geometry": {"coordinates":[-70.754709,44.633697],"type":"Point"}
+  "bbox": [
+    -70.754709,
+    44.633697,
+    -70.754709,
+    44.633697
+],
+  "geometry": {"coordinates":[-70.75470900000001,44.633697],"type":"Point"}
 }

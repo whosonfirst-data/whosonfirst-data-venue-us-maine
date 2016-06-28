@@ -2,13 +2,14 @@
   "id": 387950791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.711092,44.030293,-69.711092,44.030293",
     "geom:latitude":44.030293,
     "geom:longitude":-69.711092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 Lowell Town Rd",
     "sg:city":"Wiscasset",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387950791,
-    "wof:lastmodified":1449057588,
+    "wof:lastmodified":1466587206,
     "wof:name":"Ledgewood Riding Stable",
     "wof:parent_id":85820077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.711092,44.030293,-69.711092,44.030293],
-  "geometry": {"coordinates":[-69.711092,44.030293],"type":"Point"}
+  "bbox": [
+    -69.711092,
+    44.030293,
+    -69.711092,
+    44.030293
+],
+  "geometry": {"coordinates":[-69.71109199999999,44.030293],"type":"Point"}
 }

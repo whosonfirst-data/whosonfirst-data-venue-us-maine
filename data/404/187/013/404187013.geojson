@@ -2,13 +2,14 @@
   "id": 404187013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.83985,46.1225,-67.83985,46.1225",
     "geom:latitude":46.1225,
     "geom:longitude":-67.83985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Court St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404187013,
-    "wof:lastmodified":1449039198,
+    "wof:lastmodified":1466586772,
     "wof:name":"Peter Stanley DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-67.83985,46.1225,-67.83985,46.1225],
+  "bbox": [
+    -67.83985,
+    46.1225,
+    -67.83985,
+    46.1225
+],
   "geometry": {"coordinates":[-67.83985,46.1225],"type":"Point"}
 }

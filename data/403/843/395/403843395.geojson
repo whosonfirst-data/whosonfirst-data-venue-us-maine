@@ -2,13 +2,14 @@
   "id": 403843395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.075603,44.215057,-69.075603,44.215057",
     "geom:latitude":44.215057,
     "geom:longitude":-69.075603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Washington St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403843395,
-    "wof:lastmodified":1449054750,
+    "wof:lastmodified":1466586696,
     "wof:name":"Meredith Messer",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.075603,44.215057,-69.075603,44.215057],
+  "bbox": [
+    -69.075603,
+    44.215057,
+    -69.075603,
+    44.215057
+],
   "geometry": {"coordinates":[-69.075603,44.215057],"type":"Point"}
 }

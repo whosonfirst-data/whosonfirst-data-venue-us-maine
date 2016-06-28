@@ -2,13 +2,14 @@
   "id": 387715403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.303904,43.66966,-70.303904,43.66966",
     "geom:latitude":43.66966,
     "geom:longitude":-70.303904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 Brighton Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387715403,
-    "wof:lastmodified":1449059151,
+    "wof:lastmodified":1466586790,
     "wof:name":"Inter Med",
     "wof:parent_id":85846029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.303904,43.66966,-70.303904,43.66966],
+  "bbox": [
+    -70.303904,
+    43.66966,
+    -70.303904,
+    43.66966
+],
   "geometry": {"coordinates":[-70.303904,43.66966],"type":"Point"}
 }

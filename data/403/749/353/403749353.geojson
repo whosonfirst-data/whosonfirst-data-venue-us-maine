@@ -2,13 +2,14 @@
   "id": 403749353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.326363,43.872421,-70.326363,43.872421",
     "geom:latitude":43.872421,
     "geom:longitude":-70.326363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Portland Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403749353,
-    "wof:lastmodified":1449055024,
+    "wof:lastmodified":1466586205,
     "wof:name":"Zoe's Books & Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-70.326363,43.872421,-70.326363,43.872421],
+  "bbox": [
+    -70.326363,
+    43.872421,
+    -70.326363,
+    43.872421
+],
   "geometry": {"coordinates":[-70.326363,43.872421],"type":"Point"}
 }

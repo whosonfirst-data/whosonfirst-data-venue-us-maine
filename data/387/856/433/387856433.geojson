@@ -2,13 +2,14 @@
   "id": 387856433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.190035,44.100893,-70.190035,44.100893",
     "geom:latitude":44.100893,
     "geom:longitude":-70.190035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Cloutier St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387856433,
-    "wof:lastmodified":1449057176,
+    "wof:lastmodified":1466587177,
     "wof:name":"Easy Moving & Towing",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-70.190035,44.100893,-70.190035,44.100893],
-  "geometry": {"coordinates":[-70.190035,44.100893],"type":"Point"}
+  "bbox": [
+    -70.190035,
+    44.100893,
+    -70.190035,
+    44.100893
+],
+  "geometry": {"coordinates":[-70.19003499999999,44.100893],"type":"Point"}
 }

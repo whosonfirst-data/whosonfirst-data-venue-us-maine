@@ -2,13 +2,14 @@
   "id": 387600375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.075108,43.889376,-70.075108,43.889376",
     "geom:latitude":43.889376,
     "geom:longitude":-70.075108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"574 US Hwy 1",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387600375,
-    "wof:lastmodified":1449056453,
+    "wof:lastmodified":1466586350,
     "wof:name":"Freeport General Store",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.075108,43.889376,-70.075108,43.889376],
+  "bbox": [
+    -70.075108,
+    43.889376,
+    -70.075108,
+    43.889376
+],
   "geometry": {"coordinates":[-70.075108,43.889376],"type":"Point"}
 }

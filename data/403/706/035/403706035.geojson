@@ -2,13 +2,14 @@
   "id": 403706035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.087594,44.120587,-70.087594,44.120587",
     "geom:latitude":44.120587,
     "geom:longitude":-70.087594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"576 Sabattus Rd",
     "sg:city":"Sabattus",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403706035,
-    "wof:lastmodified":1449054731,
+    "wof:lastmodified":1466586611,
     "wof:name":"Select Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.087594,44.120587,-70.087594,44.120587],
+  "bbox": [
+    -70.087594,
+    44.120587,
+    -70.087594,
+    44.120587
+],
   "geometry": {"coordinates":[-70.087594,44.120587],"type":"Point"}
 }

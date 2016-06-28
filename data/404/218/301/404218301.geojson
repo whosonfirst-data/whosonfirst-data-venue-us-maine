@@ -2,13 +2,14 @@
   "id": 404218301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.524258,44.193498,-70.524258,44.193498",
     "geom:latitude":44.193498,
     "geom:longitude":-70.524258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1606 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404218301,
-    "wof:lastmodified":1449039891,
+    "wof:lastmodified":1466586909,
     "wof:name":"Viking Motors",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.524258,44.193498,-70.524258,44.193498],
+  "bbox": [
+    -70.524258,
+    44.193498,
+    -70.524258,
+    44.193498
+],
   "geometry": {"coordinates":[-70.524258,44.193498],"type":"Point"}
 }

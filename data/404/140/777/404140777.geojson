@@ -2,13 +2,14 @@
   "id": 404140777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.799096,44.368818,-69.799096,44.368818",
     "geom:latitude":44.368818,
     "geom:longitude":-69.799096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Gabriel Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404140777,
-    "wof:lastmodified":1449039185,
+    "wof:lastmodified":1466586682,
     "wof:name":"Plumbers & Pipefitters 716",
     "wof:parent_id":85837243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.799096,44.368818,-69.799096,44.368818],
-  "geometry": {"coordinates":[-69.799096,44.368818],"type":"Point"}
+  "bbox": [
+    -69.799096,
+    44.368818,
+    -69.799096,
+    44.368818
+],
+  "geometry": {"coordinates":[-69.79909600000001,44.368818],"type":"Point"}
 }

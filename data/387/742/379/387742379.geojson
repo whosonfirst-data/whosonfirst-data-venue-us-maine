@@ -2,13 +2,14 @@
   "id": 387742379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.726222,44.773973,-69.726222,44.773973",
     "geom:latitude":44.773973,
     "geom:longitude":-69.726222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Silver St",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387742379,
-    "wof:lastmodified":1449056365,
+    "wof:lastmodified":1466586764,
     "wof:name":"Skowhegan-Madison Elks Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-69.726222,44.773973,-69.726222,44.773973],
-  "geometry": {"coordinates":[-69.726222,44.773973],"type":"Point"}
+  "bbox": [
+    -69.726222,
+    44.773973,
+    -69.726222,
+    44.773973
+],
+  "geometry": {"coordinates":[-69.72622200000001,44.773973],"type":"Point"}
 }

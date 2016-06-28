@@ -2,13 +2,14 @@
   "id": 387742145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.434631,43.371919,-70.434631,43.371919",
     "geom:latitude":43.371919,
     "geom:longitude":-70.434631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Pier Rd",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387742145,
-    "wof:lastmodified":1449056365,
+    "wof:lastmodified":1466586865,
     "wof:name":"Cape Porpoise Lobster Co",
     "wof:parent_id":85857739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lobster"
     ]
 },
-  "bbox": [-70.434631,43.371919,-70.434631,43.371919],
+  "bbox": [
+    -70.434631,
+    43.371919,
+    -70.434631,
+    43.371919
+],
   "geometry": {"coordinates":[-70.434631,43.371919],"type":"Point"}
 }

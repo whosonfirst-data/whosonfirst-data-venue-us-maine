@@ -2,13 +2,14 @@
   "id": 404127625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.64946,43.616149,-70.64946,43.616149",
     "geom:latitude":43.616149,
     "geom:longitude":-70.64946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"447 Deerwander Rd",
     "sg:city":"Hollis Center",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404127625,
-    "wof:lastmodified":1449040232,
+    "wof:lastmodified":1466586413,
     "wof:name":"Northeast Drilling & Blasting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.64946,43.616149,-70.64946,43.616149],
+  "bbox": [
+    -70.64946,
+    43.616149,
+    -70.64946,
+    43.616149
+],
   "geometry": {"coordinates":[-70.64946,43.616149],"type":"Point"}
 }

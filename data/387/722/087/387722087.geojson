@@ -2,13 +2,14 @@
   "id": 387722087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.519761,45.30347,-69.519761,45.30347",
     "geom:latitude":45.30347,
     "geom:longitude":-69.519761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Greenville Rd",
     "sg:city":"Monson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387722087,
-    "wof:lastmodified":1449057434,
+    "wof:lastmodified":1466586810,
     "wof:name":"C & G Variety",
     "wof:parent_id":85806555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.519761,45.30347,-69.519761,45.30347],
+  "bbox": [
+    -69.519761,
+    45.30347,
+    -69.519761,
+    45.30347
+],
   "geometry": {"coordinates":[-69.519761,45.30347],"type":"Point"}
 }

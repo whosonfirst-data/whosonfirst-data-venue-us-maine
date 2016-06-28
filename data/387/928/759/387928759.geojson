@@ -2,13 +2,14 @@
   "id": 387928759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.258614,43.654414,-70.258614,43.654414",
     "geom:latitude":43.654414,
     "geom:longitude":-70.258614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 South St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387928759,
-    "wof:lastmodified":1449059399,
+    "wof:lastmodified":1466587264,
     "wof:name":"Steven J Priestley",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [-70.258614,43.654414,-70.258614,43.654414],
-  "geometry": {"coordinates":[-70.258614,43.654414],"type":"Point"}
+  "bbox": [
+    -70.258614,
+    43.654414,
+    -70.258614,
+    43.654414
+],
+  "geometry": {"coordinates":[-70.25861399999999,43.654414],"type":"Point"}
 }

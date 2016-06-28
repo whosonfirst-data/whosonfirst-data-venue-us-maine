@@ -2,13 +2,14 @@
   "id": 387834251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.877335,43.601264,-70.877335,43.601264",
     "geom:latitude":43.601264,
     "geom:longitude":-70.877335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Mann Rd",
     "sg:city":"Shapleigh",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387834251,
-    "wof:lastmodified":1449056456,
+    "wof:lastmodified":1466587045,
     "wof:name":"Majestic Limousine Of Maine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-70.877335,43.601264,-70.877335,43.601264],
+  "bbox": [
+    -70.877335,
+    43.601264,
+    -70.877335,
+    43.601264
+],
   "geometry": {"coordinates":[-70.877335,43.601264],"type":"Point"}
 }

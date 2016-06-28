@@ -2,13 +2,14 @@
   "id": 404198331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.808814,44.794114,-68.808814,44.794114",
     "geom:latitude":44.794114,
     "geom:longitude":-68.808814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Odlin Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404198331,
-    "wof:lastmodified":1449039457,
+    "wof:lastmodified":1466586831,
     "wof:name":"Ammo Self Storage",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-68.808814,44.794114,-68.808814,44.794114],
+  "bbox": [
+    -68.808814,
+    44.794114,
+    -68.808814,
+    44.794114
+],
   "geometry": {"coordinates":[-68.808814,44.794114],"type":"Point"}
 }

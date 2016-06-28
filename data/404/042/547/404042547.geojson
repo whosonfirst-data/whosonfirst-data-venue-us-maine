@@ -2,13 +2,14 @@
   "id": 404042547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.195269,43.653789,-70.195269,43.653789",
     "geom:latitude":43.653789,
     "geom:longitude":-70.195269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 New Island Ave",
     "sg:city":"Peaks Island",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404042547,
-    "wof:lastmodified":1449040011,
+    "wof:lastmodified":1466586124,
     "wof:name":"Rick's Tub & Shower Repair",
     "wof:parent_id":85827601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-70.195269,43.653789,-70.195269,43.653789],
+  "bbox": [
+    -70.195269,
+    43.653789,
+    -70.195269,
+    43.653789
+],
   "geometry": {"coordinates":[-70.195269,43.653789],"type":"Point"}
 }

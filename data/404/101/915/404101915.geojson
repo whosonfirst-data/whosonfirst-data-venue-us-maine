@@ -2,13 +2,14 @@
   "id": 404101915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.424739,43.752095,-70.424739,43.752095",
     "geom:latitude":43.752095,
     "geom:longitude":-70.424739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Turtle Ridge Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404101915,
-    "wof:lastmodified":1449039767,
+    "wof:lastmodified":1466586022,
     "wof:name":"Joshua J Potvin",
     "wof:parent_id":85830911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guard"
     ]
 },
-  "bbox": [-70.424739,43.752095,-70.424739,43.752095],
+  "bbox": [
+    -70.424739,
+    43.752095,
+    -70.424739,
+    43.752095
+],
   "geometry": {"coordinates":[-70.424739,43.752095],"type":"Point"}
 }

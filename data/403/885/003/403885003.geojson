@@ -2,13 +2,14 @@
   "id": 403885003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.50288,44.187159,-70.50288,44.187159",
     "geom:latitude":44.187159,
     "geom:longitude":-70.50288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"257 Parsons Rd",
     "sg:city":"South Paris",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403885003,
-    "wof:lastmodified":1449055350,
+    "wof:lastmodified":1466586750,
     "wof:name":"Western Maine Driving Academy",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "driving"
     ]
 },
-  "bbox": [-70.50288,44.187159,-70.50288,44.187159],
+  "bbox": [
+    -70.50288,
+    44.187159,
+    -70.50288,
+    44.187159
+],
   "geometry": {"coordinates":[-70.50288,44.187159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387971653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.48913,44.154526,-70.48913,44.154526",
     "geom:latitude":44.154526,
     "geom:longitude":-70.48913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"877 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387971653,
-    "wof:lastmodified":1449058032,
+    "wof:lastmodified":1466587308,
     "wof:name":"Oxford Plains Speedway",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.48913,44.154526,-70.48913,44.154526],
+  "bbox": [
+    -70.48913,
+    44.154526,
+    -70.48913,
+    44.154526
+],
   "geometry": {"coordinates":[-70.48913,44.154526],"type":"Point"}
 }

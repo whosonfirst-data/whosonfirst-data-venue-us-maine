@@ -2,13 +2,14 @@
   "id": 387903405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.177924,44.502653,-70.177924,44.502653",
     "geom:latitude":44.502653,
     "geom:longitude":-70.177924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 E Jay Rd",
     "sg:city":"Jay",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387903405,
-    "wof:lastmodified":1449056341,
+    "wof:lastmodified":1466587237,
     "wof:name":"Wah Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.177924,44.502653,-70.177924,44.502653],
+  "bbox": [
+    -70.177924,
+    44.502653,
+    -70.177924,
+    44.502653
+],
   "geometry": {"coordinates":[-70.177924,44.502653],"type":"Point"}
 }

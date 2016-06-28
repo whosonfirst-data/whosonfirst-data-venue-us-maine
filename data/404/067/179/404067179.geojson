@@ -2,13 +2,14 @@
   "id": 404067179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.503273,45.365283,-68.503273,45.365283",
     "geom:latitude":45.365283,
     "geom:longitude":-68.503273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Main St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404067179,
-    "wof:lastmodified":1449039122,
+    "wof:lastmodified":1466586526,
     "wof:name":"Penquis Community Action Progr",
     "wof:parent_id":85849837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-68.503273,45.365283,-68.503273,45.365283],
-  "geometry": {"coordinates":[-68.503273,45.365283],"type":"Point"}
+  "bbox": [
+    -68.503273,
+    45.365283,
+    -68.503273,
+    45.365283
+],
+  "geometry": {"coordinates":[-68.50327299999999,45.365283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387616123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.736058,43.305782,-70.736058,43.305782",
     "geom:latitude":43.305782,
     "geom:longitude":-70.736058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Main St",
     "sg:city":"North Berwick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387616123,
-    "wof:lastmodified":1449058901,
+    "wof:lastmodified":1466585671,
     "wof:name":"Kennebunk Savings Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.736058,43.305782,-70.736058,43.305782],
+  "bbox": [
+    -70.736058,
+    43.305782,
+    -70.736058,
+    43.305782
+],
   "geometry": {"coordinates":[-70.736058,43.305782],"type":"Point"}
 }

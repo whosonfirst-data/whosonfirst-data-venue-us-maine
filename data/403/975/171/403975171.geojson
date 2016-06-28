@@ -2,13 +2,14 @@
   "id": 403975171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.167977,45.186772,-69.167977,45.186772",
     "geom:latitude":45.186772,
     "geom:longitude":-69.167977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 School St",
     "sg:city":"Orrington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403975171,
-    "wof:lastmodified":1449055786,
+    "wof:lastmodified":1466587129,
     "wof:name":"Orrington School Supt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.167977,45.186772,-69.167977,45.186772],
-  "geometry": {"coordinates":[-69.167977,45.186772],"type":"Point"}
+  "bbox": [
+    -69.167977,
+    45.186772,
+    -69.167977,
+    45.186772
+],
+  "geometry": {"coordinates":[-69.16797699999999,45.186772],"type":"Point"}
 }

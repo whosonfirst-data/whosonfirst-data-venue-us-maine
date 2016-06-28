@@ -2,13 +2,14 @@
   "id": 404152165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.754039,44.340745,-69.754039,44.340745",
     "geom:latitude":44.340745,
     "geom:longitude":-69.754039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Tracy St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404152165,
-    "wof:lastmodified":1449040015,
+    "wof:lastmodified":1466586655,
     "wof:name":"McLean Inc De",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.754039,44.340745,-69.754039,44.340745],
-  "geometry": {"coordinates":[-69.754039,44.340745],"type":"Point"}
+  "bbox": [
+    -69.754039,
+    44.340745,
+    -69.754039,
+    44.340745
+],
+  "geometry": {"coordinates":[-69.75403900000001,44.340745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387599719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.777523,44.314914,-69.777523,44.314914",
     "geom:latitude":44.314914,
     "geom:longitude":-69.777523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 State St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387599719,
-    "wof:lastmodified":1449057869,
+    "wof:lastmodified":1466586345,
     "wof:name":"Risk Management",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "insurance"
     ]
 },
-  "bbox": [-69.777523,44.314914,-69.777523,44.314914],
+  "bbox": [
+    -69.777523,
+    44.314914,
+    -69.777523,
+    44.314914
+],
   "geometry": {"coordinates":[-69.777523,44.314914],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387666921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.762452,44.797762,-68.762452,44.797762",
     "geom:latitude":44.797762,
     "geom:longitude":-68.762452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Penobscot St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387666921,
-    "wof:lastmodified":1449057493,
+    "wof:lastmodified":1466586233,
     "wof:name":"Mark's Music",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-68.762452,44.797762,-68.762452,44.797762],
+  "bbox": [
+    -68.762452,
+    44.797762,
+    -68.762452,
+    44.797762
+],
   "geometry": {"coordinates":[-68.762452,44.797762],"type":"Point"}
 }

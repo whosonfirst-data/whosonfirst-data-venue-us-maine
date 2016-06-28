@@ -2,13 +2,14 @@
   "id": 403841299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.284682,45.18204,-67.284682,45.18204",
     "geom:latitude":45.18204,
     "geom:longitude":-67.284682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 North St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403841299,
-    "wof:lastmodified":1449054918,
+    "wof:lastmodified":1466586686,
     "wof:name":"Morrison's Sporting Goods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.284682,45.18204,-67.284682,45.18204],
+  "bbox": [
+    -67.284682,
+    45.18204,
+    -67.284682,
+    45.18204
+],
   "geometry": {"coordinates":[-67.284682,45.18204],"type":"Point"}
 }

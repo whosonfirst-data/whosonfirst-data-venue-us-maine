@@ -2,13 +2,14 @@
   "id": 387886443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.453377,43.799956,-70.453377,43.799956",
     "geom:latitude":43.799956,
     "geom:longitude":-70.453377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 N Gorham Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387886443,
-    "wof:lastmodified":1449058218,
+    "wof:lastmodified":1466587223,
     "wof:name":"North Atlantic Studios",
     "wof:parent_id":85837655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-70.453377,43.799956,-70.453377,43.799956],
+  "bbox": [
+    -70.453377,
+    43.799956,
+    -70.453377,
+    43.799956
+],
   "geometry": {"coordinates":[-70.453377,43.799956],"type":"Point"}
 }

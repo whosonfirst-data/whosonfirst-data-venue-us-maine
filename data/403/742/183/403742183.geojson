@@ -2,13 +2,14 @@
   "id": 403742183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.809752,44.446949,-70.809752,44.446949",
     "geom:latitude":44.446949,
     "geom:longitude":-70.809752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Sunday River Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403742183,
-    "wof:lastmodified":1449054721,
+    "wof:lastmodified":1466586087,
     "wof:name":"Liams Restaurant",
     "wof:parent_id":85837355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-70.809752,44.446949,-70.809752,44.446949],
+  "bbox": [
+    -70.809752,
+    44.446949,
+    -70.809752,
+    44.446949
+],
   "geometry": {"coordinates":[-70.809752,44.446949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404076399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.724801,44.776693,-69.724801,44.776693",
     "geom:latitude":44.776693,
     "geom:longitude":-69.724801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 Madison Ave",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404076399,
-    "wof:lastmodified":1449040036,
+    "wof:lastmodified":1466586619,
     "wof:name":"Family Pet Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-69.724801,44.776693,-69.724801,44.776693],
+  "bbox": [
+    -69.724801,
+    44.776693,
+    -69.724801,
+    44.776693
+],
   "geometry": {"coordinates":[-69.724801,44.776693],"type":"Point"}
 }

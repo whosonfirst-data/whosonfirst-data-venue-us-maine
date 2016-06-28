@@ -2,13 +2,14 @@
   "id": 387579893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.790003,44.287512,-69.790003,44.287512",
     "geom:latitude":44.287512,
     "geom:longitude":-69.790003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Water St",
     "sg:city":"Hallowell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387579893,
-    "wof:lastmodified":1449057311,
+    "wof:lastmodified":1466586018,
     "wof:name":"Antics",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-69.790003,44.287512,-69.790003,44.287512],
+  "bbox": [
+    -69.790003,
+    44.287512,
+    -69.790003,
+    44.287512
+],
   "geometry": {"coordinates":[-69.790003,44.287512],"type":"Point"}
 }

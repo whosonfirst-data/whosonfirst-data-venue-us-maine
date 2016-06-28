@@ -2,13 +2,14 @@
   "id": 403991493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.375512,43.62815,-70.375512,43.62815",
     "geom:latitude":43.62815,
     "geom:longitude":-70.375512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"368 Gorham Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403991493,
-    "wof:lastmodified":1449055051,
+    "wof:lastmodified":1466587168,
     "wof:name":"South Coast Community Church",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.375512,43.62815,-70.375512,43.62815],
+  "bbox": [
+    -70.375512,
+    43.62815,
+    -70.375512,
+    43.62815
+],
   "geometry": {"coordinates":[-70.375512,43.62815],"type":"Point"}
 }

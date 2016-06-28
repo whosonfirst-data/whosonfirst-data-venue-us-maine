@@ -2,13 +2,14 @@
   "id": 387696821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.231511,44.087027,-70.231511,44.087027",
     "geom:latitude":44.087027,
     "geom:longitude":-70.231511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Washington St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387696821,
-    "wof:lastmodified":1449056394,
+    "wof:lastmodified":1466586722,
     "wof:name":"Pinetree Industries Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-70.231511,44.087027,-70.231511,44.087027],
+  "bbox": [
+    -70.231511,
+    44.087027,
+    -70.231511,
+    44.087027
+],
   "geometry": {"coordinates":[-70.231511,44.087027],"type":"Point"}
 }

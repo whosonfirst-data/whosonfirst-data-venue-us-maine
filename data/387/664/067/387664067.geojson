@@ -2,13 +2,14 @@
   "id": 387664067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.27517,45.185019,-67.27517,45.185019",
     "geom:latitude":45.185019,
     "geom:longitude":-67.27517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Washington St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387664067,
-    "wof:lastmodified":1449057505,
+    "wof:lastmodified":1466586189,
     "wof:name":"Dan Lacasse Law Office",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-67.27517,45.185019,-67.27517,45.185019],
+  "bbox": [
+    -67.27517,
+    45.185019,
+    -67.27517,
+    45.185019
+],
   "geometry": {"coordinates":[-67.27517,45.185019],"type":"Point"}
 }

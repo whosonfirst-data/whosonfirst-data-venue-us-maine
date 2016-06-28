@@ -2,13 +2,14 @@
   "id": 403995765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.644355,44.930501,-68.644355,44.930501",
     "geom:latitude":44.930501,
     "geom:longitude":-68.644355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"277 Main St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403995765,
-    "wof:lastmodified":1449055824,
+    "wof:lastmodified":1466587096,
     "wof:name":"Gallimores Ata/Karate For Kid",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.644355,44.930501,-68.644355,44.930501],
+  "bbox": [
+    -68.644355,
+    44.930501,
+    -68.644355,
+    44.930501
+],
   "geometry": {"coordinates":[-68.644355,44.930501],"type":"Point"}
 }

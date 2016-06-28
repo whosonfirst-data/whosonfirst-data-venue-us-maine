@@ -2,13 +2,14 @@
   "id": 404134037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.812977,44.313616,-69.812977,44.313616",
     "geom:latitude":44.313616,
     "geom:longitude":-69.812977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Whitten Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404134037,
-    "wof:lastmodified":1449040274,
+    "wof:lastmodified":1466586508,
     "wof:name":"Reflection",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.812977,44.313616,-69.812977,44.313616],
+  "bbox": [
+    -69.812977,
+    44.313616,
+    -69.812977,
+    44.313616
+],
   "geometry": {"coordinates":[-69.812977,44.313616],"type":"Point"}
 }

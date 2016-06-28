@@ -2,13 +2,14 @@
   "id": 403810937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.355122,43.616248,-70.355122,43.616248",
     "geom:latitude":43.616248,
     "geom:longitude":-70.355122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Payne Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403810937,
-    "wof:lastmodified":1449055029,
+    "wof:lastmodified":1466586120,
     "wof:name":"Scarborough Pines",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.355122,43.616248,-70.355122,43.616248],
-  "geometry": {"coordinates":[-70.355122,43.616248],"type":"Point"}
+  "bbox": [
+    -70.355122,
+    43.616248,
+    -70.355122,
+    43.616248
+],
+  "geometry": {"coordinates":[-70.35512199999999,43.616248],"type":"Point"}
 }

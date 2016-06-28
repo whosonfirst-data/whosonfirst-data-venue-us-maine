@@ -2,13 +2,14 @@
   "id": 387941353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.428807,43.831438,-70.428807,43.831438",
     "geom:latitude":43.831438,
     "geom:longitude":-70.428807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Emerson Dr",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387941353,
-    "wof:lastmodified":1449058377,
+    "wof:lastmodified":1466587276,
     "wof:name":"Curb Appeal Landscape Spec",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.428807,43.831438,-70.428807,43.831438],
-  "geometry": {"coordinates":[-70.428807,43.831438],"type":"Point"}
+  "bbox": [
+    -70.428807,
+    43.831438,
+    -70.428807,
+    43.831438
+],
+  "geometry": {"coordinates":[-70.42880700000001,43.831438],"type":"Point"}
 }

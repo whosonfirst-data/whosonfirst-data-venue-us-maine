@@ -2,13 +2,14 @@
   "id": 404061971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.278938,43.649971,-70.278938,43.649971",
     "geom:latitude":43.649971,
     "geom:longitude":-70.278938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Saint John St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404061971,
-    "wof:lastmodified":1449039990,
+    "wof:lastmodified":1466586467,
     "wof:name":"Stephanie Baird",
     "wof:parent_id":85880029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.278938,43.649971,-70.278938,43.649971],
+  "bbox": [
+    -70.278938,
+    43.649971,
+    -70.278938,
+    43.649971
+],
   "geometry": {"coordinates":[-70.278938,43.649971],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387609989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.24205,44.122659,-70.24205,44.122659",
     "geom:latitude":44.122659,
     "geom:longitude":-70.24205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Mount Auburn Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387609989,
-    "wof:lastmodified":1449057522,
+    "wof:lastmodified":1466586496,
     "wof:name":"US Cellular",
     "wof:parent_id":85815921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-70.24205,44.122659,-70.24205,44.122659],
-  "geometry": {"coordinates":[-70.24205,44.122659],"type":"Point"}
+  "bbox": [
+    -70.24205,
+    44.122659,
+    -70.24205,
+    44.122659
+],
+  "geometry": {"coordinates":[-70.24205000000001,44.122659],"type":"Point"}
 }

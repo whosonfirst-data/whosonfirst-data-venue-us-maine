@@ -2,13 +2,14 @@
   "id": 387780825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.214593,45.219912,-69.214593,45.219912",
     "geom:latitude":45.219912,
     "geom:longitude":-69.214593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Foxcroft Center Rd",
     "sg:city":"Dover Foxcroft",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387780825,
-    "wof:lastmodified":1449058957,
+    "wof:lastmodified":1466586998,
     "wof:name":"Foxcroft Tack & Trader",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.214593,45.219912,-69.214593,45.219912],
-  "geometry": {"coordinates":[-69.214593,45.219912],"type":"Point"}
+  "bbox": [
+    -69.214593,
+    45.219912,
+    -69.214593,
+    45.219912
+],
+  "geometry": {"coordinates":[-69.21459299999999,45.219912],"type":"Point"}
 }

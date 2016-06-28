@@ -2,13 +2,14 @@
   "id": 404003189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.844529,46.773804,-67.844529,46.773804",
     "geom:latitude":46.773804,
     "geom:longitude":-67.844529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Cheney Grove",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404003189,
-    "wof:lastmodified":1449040243,
+    "wof:lastmodified":1466585711,
     "wof:name":"Graphic Utilities Inc",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-67.844529,46.773804,-67.844529,46.773804],
-  "geometry": {"coordinates":[-67.844529,46.773804],"type":"Point"}
+  "bbox": [
+    -67.844529,
+    46.773804,
+    -67.844529,
+    46.773804
+],
+  "geometry": {"coordinates":[-67.84452899999999,46.773804],"type":"Point"}
 }

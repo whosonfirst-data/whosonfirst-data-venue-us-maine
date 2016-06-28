@@ -2,13 +2,14 @@
   "id": 387821841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.291244,43.684099,-70.291244,43.684099",
     "geom:latitude":43.684099,
     "geom:longitude":-70.291244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1065 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387821841,
-    "wof:lastmodified":1449058183,
+    "wof:lastmodified":1466587111,
     "wof:name":"Pratt-Abbott Cleaners",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-70.291244,43.684099,-70.291244,43.684099],
-  "geometry": {"coordinates":[-70.291244,43.684099],"type":"Point"}
+  "bbox": [
+    -70.291244,
+    43.684099,
+    -70.291244,
+    43.684099
+],
+  "geometry": {"coordinates":[-70.29124400000001,43.684099],"type":"Point"}
 }

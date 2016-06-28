@@ -2,13 +2,14 @@
   "id": 403976063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.643519,43.736095,-70.643519,43.736095",
     "geom:latitude":43.736095,
     "geom:longitude":-70.643519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Weeman Rd",
     "sg:city":"Steep Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403976063,
-    "wof:lastmodified":1449055175,
+    "wof:lastmodified":1466587213,
     "wof:name":"Sams Cleaning Service",
     "wof:parent_id":85816541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-70.643519,43.736095,-70.643519,43.736095],
+  "bbox": [
+    -70.643519,
+    43.736095,
+    -70.643519,
+    43.736095
+],
   "geometry": {"coordinates":[-70.643519,43.736095],"type":"Point"}
 }

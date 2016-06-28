@@ -2,13 +2,14 @@
   "id": 387671215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.312333,43.887479,-70.312333,43.887479",
     "geom:latitude":43.887479,
     "geom:longitude":-70.312333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Brandy Aly",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387671215,
-    "wof:lastmodified":1449056985,
+    "wof:lastmodified":1466586298,
     "wof:name":"Ebys Auto Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-70.312333,43.887479,-70.312333,43.887479],
+  "bbox": [
+    -70.312333,
+    43.887479,
+    -70.312333,
+    43.887479
+],
   "geometry": {"coordinates":[-70.312333,43.887479],"type":"Point"}
 }

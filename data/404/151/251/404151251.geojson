@@ -2,13 +2,14 @@
   "id": 404151251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.422313,44.547912,-68.422313,44.547912",
     "geom:latitude":44.547912,
     "geom:longitude":-68.422313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Birch Ave",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404151251,
-    "wof:lastmodified":1449039093,
+    "wof:lastmodified":1466586721,
     "wof:name":"K M W Design",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-68.422313,44.547912,-68.422313,44.547912],
+  "bbox": [
+    -68.422313,
+    44.547912,
+    -68.422313,
+    44.547912
+],
   "geometry": {"coordinates":[-68.422313,44.547912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404008049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.835971,46.77273,-67.835971,46.77273",
     "geom:latitude":46.77273,
     "geom:longitude":-67.835971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 High St",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404008049,
-    "wof:lastmodified":1449039395,
+    "wof:lastmodified":1466586632,
     "wof:name":"Tamc Physical Therapy",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-67.835971,46.77273,-67.835971,46.77273],
+  "bbox": [
+    -67.835971,
+    46.77273,
+    -67.835971,
+    46.77273
+],
   "geometry": {"coordinates":[-67.835971,46.77273],"type":"Point"}
 }

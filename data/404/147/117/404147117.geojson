@@ -2,13 +2,14 @@
   "id": 404147117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.284565,43.670959,-70.284565,43.670959",
     "geom:latitude":43.670959,
     "geom:longitude":-70.284565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"692 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404147117,
-    "wof:lastmodified":1449040194,
+    "wof:lastmodified":1466586648,
     "wof:name":"Select Hair Systems",
     "wof:parent_id":85858627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.284565,43.670959,-70.284565,43.670959],
+  "bbox": [
+    -70.284565,
+    43.670959,
+    -70.284565,
+    43.670959
+],
   "geometry": {"coordinates":[-70.284565,43.670959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387884051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.671332,44.923809,-68.671332,44.923809",
     "geom:latitude":44.923809,
     "geom:longitude":-68.671332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"687 Stillwater Ave",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387884051,
-    "wof:lastmodified":1449059176,
+    "wof:lastmodified":1466587146,
     "wof:name":"Carpenter Associates",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-68.671332,44.923809,-68.671332,44.923809],
-  "geometry": {"coordinates":[-68.671332,44.923809],"type":"Point"}
+  "bbox": [
+    -68.671332,
+    44.923809,
+    -68.671332,
+    44.923809
+],
+  "geometry": {"coordinates":[-68.67133200000001,44.923809],"type":"Point"}
 }

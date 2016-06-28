@@ -2,13 +2,14 @@
   "id": 403857257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.792129,44.283823,-69.792129,44.283823",
     "geom:latitude":44.283823,
     "geom:longitude":-69.792129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 2nd St",
     "sg:city":"Hallowell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403857257,
-    "wof:lastmodified":1449055482,
+    "wof:lastmodified":1466586741,
     "wof:name":"Old South Congregational Chr",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-69.792129,44.283823,-69.792129,44.283823],
+  "bbox": [
+    -69.792129,
+    44.283823,
+    -69.792129,
+    44.283823
+],
   "geometry": {"coordinates":[-69.792129,44.283823],"type":"Point"}
 }

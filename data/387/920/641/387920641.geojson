@@ -2,13 +2,14 @@
   "id": 387920641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.307017,43.751229,-70.307017,43.751229",
     "geom:latitude":43.751229,
     "geom:longitude":-70.307017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Hillside Ave",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387920641,
-    "wof:lastmodified":1449059048,
+    "wof:lastmodified":1466587259,
     "wof:name":"Wreath Express",
     "wof:parent_id":85855475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialty"
     ]
 },
-  "bbox": [-70.307017,43.751229,-70.307017,43.751229],
+  "bbox": [
+    -70.307017,
+    43.751229,
+    -70.307017,
+    43.751229
+],
   "geometry": {"coordinates":[-70.307017,43.751229],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403757413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.189824,44.081621,-70.189824,44.081621",
     "geom:latitude":44.081621,
     "geom:longitude":-70.189824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Scribner Blvd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403757413,
-    "wof:lastmodified":1449055380,
+    "wof:lastmodified":1466586355,
     "wof:name":"Asheville Auto Transport Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-70.189824,44.081621,-70.189824,44.081621],
+  "bbox": [
+    -70.189824,
+    44.081621,
+    -70.189824,
+    44.081621
+],
   "geometry": {"coordinates":[-70.189824,44.081621],"type":"Point"}
 }

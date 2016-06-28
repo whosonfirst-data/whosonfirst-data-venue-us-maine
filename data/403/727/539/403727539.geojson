@@ -2,13 +2,14 @@
   "id": 403727539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.180894,43.812483,-70.180894,43.812483",
     "geom:latitude":43.812483,
     "geom:longitude":-70.180894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Melissa Dr",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403727539,
-    "wof:lastmodified":1449054829,
+    "wof:lastmodified":1466585937,
     "wof:name":"Casco Systems LLC",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "programing"
     ]
 },
-  "bbox": [-70.180894,43.812483,-70.180894,43.812483],
+  "bbox": [
+    -70.180894,
+    43.812483,
+    -70.180894,
+    43.812483
+],
   "geometry": {"coordinates":[-70.180894,43.812483],"type":"Point"}
 }

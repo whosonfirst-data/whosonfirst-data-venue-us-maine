@@ -2,13 +2,14 @@
   "id": 404189735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.663473,44.100651,-70.663473,44.100651",
     "geom:latitude":44.100651,
     "geom:longitude":-70.663473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"366 Edes Falls Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":404189735,
-    "wof:lastmodified":1449039973,
+    "wof:lastmodified":1466586882,
     "wof:name":"John Seavey Cabinet Making",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-70.663473,44.100651,-70.663473,44.100651],
+  "bbox": [
+    -70.663473,
+    44.100651,
+    -70.663473,
+    44.100651
+],
   "geometry": {"coordinates":[-70.663473,44.100651],"type":"Point"}
 }

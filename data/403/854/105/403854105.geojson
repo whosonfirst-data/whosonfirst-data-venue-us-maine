@@ -2,13 +2,14 @@
   "id": 403854105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.290894,43.686752,-70.290894,43.686752",
     "geom:latitude":43.686752,
     "geom:longitude":-70.290894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Morrill St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403854105,
-    "wof:lastmodified":1449055899,
+    "wof:lastmodified":1466586719,
     "wof:name":"Clean Sweep Inc",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "marking"
     ]
 },
-  "bbox": [-70.290894,43.686752,-70.290894,43.686752],
-  "geometry": {"coordinates":[-70.290894,43.686752],"type":"Point"}
+  "bbox": [
+    -70.290894,
+    43.686752,
+    -70.290894,
+    43.686752
+],
+  "geometry": {"coordinates":[-70.29089399999999,43.686752],"type":"Point"}
 }

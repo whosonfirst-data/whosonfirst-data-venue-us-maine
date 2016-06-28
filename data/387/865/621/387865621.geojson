@@ -2,13 +2,14 @@
   "id": 387865621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.508612,43.421866,-70.508612,43.421866",
     "geom:latitude":43.421866,
     "geom:longitude":-70.508612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"334 Log Cabin Rd",
     "sg:city":"Arundel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387865621,
-    "wof:lastmodified":1449058981,
+    "wof:lastmodified":1466587104,
     "wof:name":"Charlie Horse",
     "wof:parent_id":85828039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.508612,43.421866,-70.508612,43.421866],
+  "bbox": [
+    -70.508612,
+    43.421866,
+    -70.508612,
+    43.421866
+],
   "geometry": {"coordinates":[-70.508612,43.421866],"type":"Point"}
 }

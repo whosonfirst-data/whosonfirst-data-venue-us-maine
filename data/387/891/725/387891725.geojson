@@ -2,13 +2,14 @@
   "id": 387891725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.64771,44.938279,-68.64771,44.938279",
     "geom:latitude":44.938279,
     "geom:longitude":-68.64771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Main St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387891725,
-    "wof:lastmodified":1449058397,
+    "wof:lastmodified":1466587236,
     "wof:name":"Maine River Junction-General",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.64771,44.938279,-68.64771,44.938279],
+  "bbox": [
+    -68.64771,
+    44.938279,
+    -68.64771,
+    44.938279
+],
   "geometry": {"coordinates":[-68.64771,44.938279],"type":"Point"}
 }

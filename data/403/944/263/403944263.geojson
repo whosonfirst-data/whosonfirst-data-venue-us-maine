@@ -2,13 +2,14 @@
   "id": 403944263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252637,43.656664,-70.252637,43.656664",
     "geom:latitude":43.656664,
     "geom:longitude":-70.252637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"377 Fore St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403944263,
-    "wof:lastmodified":1449055307,
+    "wof:lastmodified":1466587062,
     "wof:name":"Trust For The Public Land",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trust"
     ]
 },
-  "bbox": [-70.252637,43.656664,-70.252637,43.656664],
-  "geometry": {"coordinates":[-70.252637,43.656664],"type":"Point"}
+  "bbox": [
+    -70.252637,
+    43.656664,
+    -70.252637,
+    43.656664
+],
+  "geometry": {"coordinates":[-70.25263699999999,43.656664],"type":"Point"}
 }

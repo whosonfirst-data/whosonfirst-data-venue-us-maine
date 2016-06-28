@@ -2,13 +2,14 @@
   "id": 403730123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.369059,44.78991,-69.369059,44.78991",
     "geom:latitude":44.78991,
     "geom:longitude":-69.369059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Leighton St",
     "sg:city":"Pittsfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403730123,
-    "wof:lastmodified":1449055763,
+    "wof:lastmodified":1466585947,
     "wof:name":"SVH Step Ctr",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-69.369059,44.78991,-69.369059,44.78991],
-  "geometry": {"coordinates":[-69.369059,44.78991],"type":"Point"}
+  "bbox": [
+    -69.369059,
+    44.78991,
+    -69.369059,
+    44.78991
+],
+  "geometry": {"coordinates":[-69.36905899999999,44.78991],"type":"Point"}
 }

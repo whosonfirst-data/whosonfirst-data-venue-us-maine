@@ -2,13 +2,14 @@
   "id": 403970901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.245506,43.757408,-70.245506,43.757408",
     "geom:latitude":43.757408,
     "geom:longitude":-70.245506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Arbor Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403970901,
-    "wof:lastmodified":1449055929,
+    "wof:lastmodified":1466587211,
     "wof:name":"J M Huber Corp",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [-70.245506,43.757408,-70.245506,43.757408],
-  "geometry": {"coordinates":[-70.245506,43.757408],"type":"Point"}
+  "bbox": [
+    -70.245506,
+    43.757408,
+    -70.245506,
+    43.757408
+],
+  "geometry": {"coordinates":[-70.24550600000001,43.757408],"type":"Point"}
 }

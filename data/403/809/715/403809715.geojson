@@ -2,13 +2,14 @@
   "id": 403809715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.476339,43.477846,-70.476339,43.477846",
     "geom:latitude":43.477846,
     "geom:longitude":-70.476339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"472 Elm St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403809715,
-    "wof:lastmodified":1449055728,
+    "wof:lastmodified":1466586100,
     "wof:name":"Cloutier's Power & Sports",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-70.476339,43.477846,-70.476339,43.477846],
+  "bbox": [
+    -70.476339,
+    43.477846,
+    -70.476339,
+    43.477846
+],
   "geometry": {"coordinates":[-70.476339,43.477846],"type":"Point"}
 }

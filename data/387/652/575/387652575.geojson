@@ -2,13 +2,14 @@
   "id": 387652575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.208207,44.092089,-70.208207,44.092089",
     "geom:latitude":44.092089,
     "geom:longitude":-70.208207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Bartlett St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387652575,
-    "wof:lastmodified":1449058561,
+    "wof:lastmodified":1466586010,
     "wof:name":"S R Crowley Contractors",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-70.208207,44.092089,-70.208207,44.092089],
+  "bbox": [
+    -70.208207,
+    44.092089,
+    -70.208207,
+    44.092089
+],
   "geometry": {"coordinates":[-70.208207,44.092089],"type":"Point"}
 }

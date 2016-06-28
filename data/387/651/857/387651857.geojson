@@ -2,13 +2,14 @@
   "id": 387651857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.300469,43.720614,-70.300469,43.720614",
     "geom:latitude":43.720614,
     "geom:longitude":-70.300469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Davis Farm Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387651857,
-    "wof:lastmodified":1449056854,
+    "wof:lastmodified":1466585997,
     "wof:name":"Bruce W Larson Office",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.300469,43.720614,-70.300469,43.720614],
-  "geometry": {"coordinates":[-70.300469,43.720614],"type":"Point"}
+  "bbox": [
+    -70.300469,
+    43.720614,
+    -70.300469,
+    43.720614
+],
+  "geometry": {"coordinates":[-70.30046900000001,43.720614],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404153353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.756329,44.790095,-68.756329,44.790095",
     "geom:latitude":44.790095,
     "geom:longitude":-68.756329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 State St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404153353,
-    "wof:lastmodified":1449039955,
+    "wof:lastmodified":1466586839,
     "wof:name":"North Point Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "financial"
     ]
 },
-  "bbox": [-68.756329,44.790095,-68.756329,44.790095],
-  "geometry": {"coordinates":[-68.756329,44.790095],"type":"Point"}
+  "bbox": [
+    -68.756329,
+    44.790095,
+    -68.756329,
+    44.790095
+],
+  "geometry": {"coordinates":[-68.75632899999999,44.790095],"type":"Point"}
 }

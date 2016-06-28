@@ -2,13 +2,14 @@
   "id": 387843141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.794289,44.842204,-68.794289,44.842204",
     "geom:latitude":44.842204,
     "geom:longitude":-68.794289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Judson Blvd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387843141,
-    "wof:lastmodified":1449056444,
+    "wof:lastmodified":1466587143,
     "wof:name":"Randon Bragdon DDS",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-68.794289,44.842204,-68.794289,44.842204],
-  "geometry": {"coordinates":[-68.794289,44.842204],"type":"Point"}
+  "bbox": [
+    -68.794289,
+    44.842204,
+    -68.794289,
+    44.842204
+],
+  "geometry": {"coordinates":[-68.79428900000001,44.842204],"type":"Point"}
 }

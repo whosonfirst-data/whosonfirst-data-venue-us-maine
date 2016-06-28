@@ -2,13 +2,14 @@
   "id": 387553251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.603675,43.728457,-70.603675,43.728457",
     "geom:latitude":43.728457,
     "geom:longitude":-70.603675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Pinegrove Dr",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387553251,
-    "wof:lastmodified":1449056134,
+    "wof:lastmodified":1466585781,
     "wof:name":"Iryshe Enterprises",
     "wof:parent_id":85816541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.603675,43.728457,-70.603675,43.728457],
+  "bbox": [
+    -70.603675,
+    43.728457,
+    -70.603675,
+    43.728457
+],
   "geometry": {"coordinates":[-70.603675,43.728457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403958967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.175085,43.804776,-70.175085,43.804776",
     "geom:latitude":43.804776,
     "geom:longitude":-70.175085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"765 US Hwy 1",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403958967,
-    "wof:lastmodified":1449055680,
+    "wof:lastmodified":1466586980,
     "wof:name":"Re/Max Heritage",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.175085,43.804776,-70.175085,43.804776],
+  "bbox": [
+    -70.175085,
+    43.804776,
+    -70.175085,
+    43.804776
+],
   "geometry": {"coordinates":[-70.175085,43.804776],"type":"Point"}
 }

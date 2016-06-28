@@ -2,13 +2,14 @@
   "id": 387765053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.739606,44.8228,-68.739606,44.8228",
     "geom:latitude":44.8228,
     "geom:longitude":-68.739606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Hogan Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387765053,
-    "wof:lastmodified":1449058301,
+    "wof:lastmodified":1466586948,
     "wof:name":"Saturn",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-68.739606,44.8228,-68.739606,44.8228],
-  "geometry": {"coordinates":[-68.739606,44.8228],"type":"Point"}
+  "bbox": [
+    -68.739606,
+    44.8228,
+    -68.739606,
+    44.8228
+],
+  "geometry": {"coordinates":[-68.73960599999999,44.8228],"type":"Point"}
 }

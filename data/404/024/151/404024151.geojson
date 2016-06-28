@@ -2,13 +2,14 @@
   "id": 404024151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.78337,46.135131,-67.78337,46.135131",
     "geom:latitude":46.135131,
     "geom:longitude":-67.78337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Customs Loop",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404024151,
-    "wof:lastmodified":1449039583,
+    "wof:lastmodified":1466585943,
     "wof:name":"Deringer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "customs"
     ]
 },
-  "bbox": [-67.78337,46.135131,-67.78337,46.135131],
-  "geometry": {"coordinates":[-67.78337,46.135131],"type":"Point"}
+  "bbox": [
+    -67.78337,
+    46.135131,
+    -67.78337,
+    46.135131
+],
+  "geometry": {"coordinates":[-67.78337000000001,46.135131],"type":"Point"}
 }

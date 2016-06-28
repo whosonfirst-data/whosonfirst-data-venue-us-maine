@@ -2,13 +2,14 @@
   "id": 403734847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252857,43.656549,-70.252857,43.656549",
     "geom:latitude":43.656549,
     "geom:longitude":-70.252857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"372 Fore St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403734847,
-    "wof:lastmodified":1449055802,
+    "wof:lastmodified":1466586033,
     "wof:name":"Fore St Museum",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-70.252857,43.656549,-70.252857,43.656549],
-  "geometry": {"coordinates":[-70.252857,43.656549],"type":"Point"}
+  "bbox": [
+    -70.252857,
+    43.656549,
+    -70.252857,
+    43.656549
+],
+  "geometry": {"coordinates":[-70.25285700000001,43.656549],"type":"Point"}
 }

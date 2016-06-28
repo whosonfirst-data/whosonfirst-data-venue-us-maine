@@ -2,13 +2,14 @@
   "id": 403959189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.207562,43.574776,-70.207562,43.574776",
     "geom:latitude":43.574776,
     "geom:longitude":-70.207562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Salt Spray Ln",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403959189,
-    "wof:lastmodified":1449055834,
+    "wof:lastmodified":1466586982,
     "wof:name":"Suzan Mistler Belcher",
     "wof:parent_id":85867971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.207562,43.574776,-70.207562,43.574776],
+  "bbox": [
+    -70.207562,
+    43.574776,
+    -70.207562,
+    43.574776
+],
   "geometry": {"coordinates":[-70.207562,43.574776],"type":"Point"}
 }

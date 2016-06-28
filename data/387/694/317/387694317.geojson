@@ -2,13 +2,14 @@
   "id": 387694317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.357687,43.578638,-70.357687,43.578638",
     "geom:latitude":43.578638,
     "geom:longitude":-70.357687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Washington Ave",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387694317,
-    "wof:lastmodified":1449057169,
+    "wof:lastmodified":1466586702,
     "wof:name":"Portland Window Co Inc",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-70.357687,43.578638,-70.357687,43.578638],
+  "bbox": [
+    -70.357687,
+    43.578638,
+    -70.357687,
+    43.578638
+],
   "geometry": {"coordinates":[-70.357687,43.578638],"type":"Point"}
 }

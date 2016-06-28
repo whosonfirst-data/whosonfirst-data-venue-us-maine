@@ -2,13 +2,14 @@
   "id": 387639887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.011495,46.860637,-68.011495,46.860637",
     "geom:latitude":46.860637,
     "geom:longitude":-68.011495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 High St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387639887,
-    "wof:lastmodified":1449059903,
+    "wof:lastmodified":1466585870,
     "wof:name":"Caribou Ambulance Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-68.011495,46.860637,-68.011495,46.860637],
+  "bbox": [
+    -68.011495,
+    46.860637,
+    -68.011495,
+    46.860637
+],
   "geometry": {"coordinates":[-68.011495,46.860637],"type":"Point"}
 }

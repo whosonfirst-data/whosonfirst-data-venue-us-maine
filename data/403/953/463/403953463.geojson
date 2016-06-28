@@ -2,13 +2,14 @@
   "id": 403953463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.717796,44.164531,-70.717796,44.164531",
     "geom:latitude":44.164531,
     "geom:longitude":-70.717796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Sweden Rd",
     "sg:city":"Waterford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403953463,
-    "wof:lastmodified":1449055524,
+    "wof:lastmodified":1466587157,
     "wof:name":"R&J Housing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "apartment"
     ]
 },
-  "bbox": [-70.717796,44.164531,-70.717796,44.164531],
-  "geometry": {"coordinates":[-70.717796,44.164531],"type":"Point"}
+  "bbox": [
+    -70.717796,
+    44.164531,
+    -70.717796,
+    44.164531
+],
+  "geometry": {"coordinates":[-70.71779600000001,44.164531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403828273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.466011,43.480038,-70.466011,43.480038",
     "geom:latitude":43.480038,
     "geom:longitude":-70.466011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 West St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403828273,
-    "wof:lastmodified":1449055326,
+    "wof:lastmodified":1466586400,
     "wof:name":"Aerial Signs & Svc",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.466011,43.480038,-70.466011,43.480038],
-  "geometry": {"coordinates":[-70.466011,43.480038],"type":"Point"}
+  "bbox": [
+    -70.466011,
+    43.480038,
+    -70.466011,
+    43.480038
+],
+  "geometry": {"coordinates":[-70.46601099999999,43.480038],"type":"Point"}
 }

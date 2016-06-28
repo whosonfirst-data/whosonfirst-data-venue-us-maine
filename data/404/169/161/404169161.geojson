@@ -2,13 +2,14 @@
   "id": 404169161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.751572,44.788731,-68.751572,44.788731",
     "geom:latitude":44.788731,
     "geom:longitude":-68.751572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Colonial Cir",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404169161,
-    "wof:lastmodified":1449039846,
+    "wof:lastmodified":1466586877,
     "wof:name":"Brewer Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-68.751572,44.788731,-68.751572,44.788731],
+  "bbox": [
+    -68.751572,
+    44.788731,
+    -68.751572,
+    44.788731
+],
   "geometry": {"coordinates":[-68.751572,44.788731],"type":"Point"}
 }

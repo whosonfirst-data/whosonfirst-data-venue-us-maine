@@ -2,13 +2,14 @@
   "id": 387859485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.869415,44.772799,-68.869415,44.772799",
     "geom:latitude":44.772799,
     "geom:longitude":-68.869415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 Emerson Mill Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387859485,
-    "wof:lastmodified":1449058829,
+    "wof:lastmodified":1466587258,
     "wof:name":"Pine Tree Landfill Facility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "org"
     ]
 },
-  "bbox": [-68.869415,44.772799,-68.869415,44.772799],
+  "bbox": [
+    -68.869415,
+    44.772799,
+    -68.869415,
+    44.772799
+],
   "geometry": {"coordinates":[-68.869415,44.772799],"type":"Point"}
 }

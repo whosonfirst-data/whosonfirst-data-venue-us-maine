@@ -2,13 +2,14 @@
   "id": 403897679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.750319,44.784971,-68.750319,44.784971",
     "geom:latitude":44.784971,
     "geom:longitude":-68.750319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Chamberlain St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403897679,
-    "wof:lastmodified":1449055760,
+    "wof:lastmodified":1466586837,
     "wof:name":"Owen Gray & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.750319,44.784971,-68.750319,44.784971],
+  "bbox": [
+    -68.750319,
+    44.784971,
+    -68.750319,
+    44.784971
+],
   "geometry": {"coordinates":[-68.750319,44.784971],"type":"Point"}
 }

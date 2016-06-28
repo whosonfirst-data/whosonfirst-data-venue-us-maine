@@ -2,13 +2,14 @@
   "id": 403926857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.901428,44.332062,-68.901428,44.332062",
     "geom:latitude":44.332062,
     "geom:longitude":-68.901428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"188 Keller Pt Rd",
     "sg:city":"Islesboro",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403926857,
-    "wof:lastmodified":1449055089,
+    "wof:lastmodified":1466586928,
     "wof:name":"Sunsite Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-68.901428,44.332062,-68.901428,44.332062],
+  "bbox": [
+    -68.901428,
+    44.332062,
+    -68.901428,
+    44.332062
+],
   "geometry": {"coordinates":[-68.901428,44.332062],"type":"Point"}
 }

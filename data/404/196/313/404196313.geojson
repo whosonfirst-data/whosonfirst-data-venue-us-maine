@@ -2,13 +2,14 @@
   "id": 404196313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.194794,44.100161,-70.194794,44.100161",
     "geom:latitude":44.100161,
     "geom:longitude":-70.194794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 East Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404196313,
-    "wof:lastmodified":1449039320,
+    "wof:lastmodified":1466586896,
     "wof:name":"Ambrose Contractors",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.194794,44.100161,-70.194794,44.100161],
+  "bbox": [
+    -70.194794,
+    44.100161,
+    -70.194794,
+    44.100161
+],
   "geometry": {"coordinates":[-70.194794,44.100161],"type":"Point"}
 }

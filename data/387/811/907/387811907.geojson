@@ -2,13 +2,14 @@
   "id": 387811907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.176898,45.161021,-69.176898,45.161021",
     "geom:latitude":45.161021,
     "geom:longitude":-69.176898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Bangor Rd",
     "sg:city":"Dover Foxcroft",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387811907,
-    "wof:lastmodified":1449057938,
+    "wof:lastmodified":1466587092,
     "wof:name":"Country View Pre-School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-69.176898,45.161021,-69.176898,45.161021],
-  "geometry": {"coordinates":[-69.176898,45.161021],"type":"Point"}
+  "bbox": [
+    -69.176898,
+    45.161021,
+    -69.176898,
+    45.161021
+],
+  "geometry": {"coordinates":[-69.17689799999999,45.161021],"type":"Point"}
 }

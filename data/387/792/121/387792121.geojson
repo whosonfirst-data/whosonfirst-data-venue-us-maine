@@ -2,13 +2,14 @@
   "id": 387792121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.310528,43.95183,-70.310528,43.95183",
     "geom:latitude":43.95183,
     "geom:longitude":-70.310528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Tall Pines Dr",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387792121,
-    "wof:lastmodified":1449056917,
+    "wof:lastmodified":1466587014,
     "wof:name":"Alternative Services",
     "wof:parent_id":85857545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.310528,43.95183,-70.310528,43.95183],
-  "geometry": {"coordinates":[-70.310528,43.95183],"type":"Point"}
+  "bbox": [
+    -70.310528,
+    43.95183,
+    -70.310528,
+    43.95183
+],
+  "geometry": {"coordinates":[-70.31052800000001,43.95183],"type":"Point"}
 }

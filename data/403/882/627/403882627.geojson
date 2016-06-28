@@ -2,13 +2,14 @@
   "id": 403882627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.210053,44.100159,-70.210053,44.100159",
     "geom:latitude":44.100159,
     "geom:longitude":-70.210053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Sabattus St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403882627,
-    "wof:lastmodified":1449054867,
+    "wof:lastmodified":1466586851,
     "wof:name":"Hairem",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.210053,44.100159,-70.210053,44.100159],
+  "bbox": [
+    -70.210053,
+    44.100159,
+    -70.210053,
+    44.100159
+],
   "geometry": {"coordinates":[-70.210053,44.100159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404160929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.289687,43.681208,-70.289687,43.681208",
     "geom:latitude":43.681208,
     "geom:longitude":-70.289687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"945 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404160929,
-    "wof:lastmodified":1449040120,
+    "wof:lastmodified":1466586764,
     "wof:name":"Robert R Parker CPA",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-70.289687,43.681208,-70.289687,43.681208],
+  "bbox": [
+    -70.289687,
+    43.681208,
+    -70.289687,
+    43.681208
+],
   "geometry": {"coordinates":[-70.289687,43.681208],"type":"Point"}
 }

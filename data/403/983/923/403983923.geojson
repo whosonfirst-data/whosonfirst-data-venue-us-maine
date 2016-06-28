@@ -2,13 +2,14 @@
   "id": 403983923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.493012,43.618327,-70.493012,43.618327",
     "geom:latitude":43.618327,
     "geom:longitude":-70.493012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Portland Rd",
     "sg:city":"West Buxton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403983923,
-    "wof:lastmodified":1449055853,
+    "wof:lastmodified":1466587230,
     "wof:name":"Dave Cole Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.493012,43.618327,-70.493012,43.618327],
-  "geometry": {"coordinates":[-70.493012,43.618327],"type":"Point"}
+  "bbox": [
+    -70.493012,
+    43.618327,
+    -70.493012,
+    43.618327
+],
+  "geometry": {"coordinates":[-70.49301199999999,43.618327],"type":"Point"}
 }

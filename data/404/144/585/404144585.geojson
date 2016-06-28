@@ -2,13 +2,14 @@
   "id": 404144585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.69691,44.752216,-68.69691,44.752216",
     "geom:latitude":44.752216,
     "geom:longitude":-68.69691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Copeland Hill Rd",
     "sg:city":"Holden",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404144585,
-    "wof:lastmodified":1449039995,
+    "wof:lastmodified":1466586813,
     "wof:name":"Felt Brook Golf Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "golf"
     ]
 },
-  "bbox": [-68.69691,44.752216,-68.69691,44.752216],
+  "bbox": [
+    -68.69691,
+    44.752216,
+    -68.69691,
+    44.752216
+],
   "geometry": {"coordinates":[-68.69691,44.752216],"type":"Point"}
 }

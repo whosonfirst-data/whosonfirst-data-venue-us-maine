@@ -2,13 +2,14 @@
   "id": 403805999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.274458,43.695331,-70.274458,43.695331",
     "geom:latitude":43.695331,
     "geom:longitude":-70.274458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Huntington Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403805999,
-    "wof:lastmodified":1449055081,
+    "wof:lastmodified":1466586665,
     "wof:name":"Basement Stroutys",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.274458,43.695331,-70.274458,43.695331],
+  "bbox": [
+    -70.274458,
+    43.695331,
+    -70.274458,
+    43.695331
+],
   "geometry": {"coordinates":[-70.274458,43.695331],"type":"Point"}
 }

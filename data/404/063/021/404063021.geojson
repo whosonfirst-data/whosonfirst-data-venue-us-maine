@@ -2,13 +2,14 @@
   "id": 404063021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.482862,43.483415,-70.482862,43.483415",
     "geom:latitude":43.483415,
     "geom:longitude":-70.482862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Pomerleau St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404063021,
-    "wof:lastmodified":1449039125,
+    "wof:lastmodified":1466586679,
     "wof:name":"Absolute Window & Siding",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-70.482862,43.483415,-70.482862,43.483415],
+  "bbox": [
+    -70.482862,
+    43.483415,
+    -70.482862,
+    43.483415
+],
   "geometry": {"coordinates":[-70.482862,43.483415],"type":"Point"}
 }

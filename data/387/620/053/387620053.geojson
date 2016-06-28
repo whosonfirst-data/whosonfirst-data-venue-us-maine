@@ -2,13 +2,14 @@
   "id": 387620053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.436311,43.508992,-70.436311,43.508992",
     "geom:latitude":43.508992,
     "geom:longitude":-70.436311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Horton Ave",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387620053,
-    "wof:lastmodified":1449059588,
+    "wof:lastmodified":1466586688,
     "wof:name":"Its About You Salon",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.436311,43.508992,-70.436311,43.508992],
+  "bbox": [
+    -70.436311,
+    43.508992,
+    -70.436311,
+    43.508992
+],
   "geometry": {"coordinates":[-70.436311,43.508992],"type":"Point"}
 }

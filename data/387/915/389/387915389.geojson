@@ -2,13 +2,14 @@
   "id": 387915389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.932578,43.906715,-69.932578,43.906715",
     "geom:latitude":43.906715,
     "geom:longitude":-69.932578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Bath Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387915389,
-    "wof:lastmodified":1449059883,
+    "wof:lastmodified":1466587323,
     "wof:name":"Autometrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-69.932578,43.906715,-69.932578,43.906715],
-  "geometry": {"coordinates":[-69.932578,43.906715],"type":"Point"}
+  "bbox": [
+    -69.932578,
+    43.906715,
+    -69.932578,
+    43.906715
+],
+  "geometry": {"coordinates":[-69.93257800000001,43.906715],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404146183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.431097,43.497469,-70.431097,43.497469",
     "geom:latitude":43.497469,
     "geom:longitude":-70.431097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Beach St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404146183,
-    "wof:lastmodified":1449039532,
+    "wof:lastmodified":1466586702,
     "wof:name":"Sundancer Stained Glass",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.431097,43.497469,-70.431097,43.497469],
-  "geometry": {"coordinates":[-70.431097,43.497469],"type":"Point"}
+  "bbox": [
+    -70.431097,
+    43.497469,
+    -70.431097,
+    43.497469
+],
+  "geometry": {"coordinates":[-70.43109699999999,43.497469],"type":"Point"}
 }

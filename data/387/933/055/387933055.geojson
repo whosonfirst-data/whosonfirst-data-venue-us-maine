@@ -2,13 +2,14 @@
   "id": 387933055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.781552,44.784958,-68.781552,44.784958",
     "geom:latitude":44.784958,
     "geom:longitude":-68.781552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Farm Rd",
     "sg:city":"Bucksport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387933055,
-    "wof:lastmodified":1449056884,
+    "wof:lastmodified":1466587266,
     "wof:name":"Rock-It Construction",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-68.781552,44.784958,-68.781552,44.784958],
+  "bbox": [
+    -68.781552,
+    44.784958,
+    -68.781552,
+    44.784958
+],
   "geometry": {"coordinates":[-68.781552,44.784958],"type":"Point"}
 }

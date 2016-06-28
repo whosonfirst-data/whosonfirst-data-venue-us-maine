@@ -2,13 +2,14 @@
   "id": 387885895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.991729,46.799186,-67.991729,46.799186",
     "geom:latitude":46.799186,
     "geom:longitude":-67.991729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1078 Presque Isle Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387885895,
-    "wof:lastmodified":1449058130,
+    "wof:lastmodified":1466587308,
     "wof:name":"Finishing Touch Autobody & Sls",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-67.991729,46.799186,-67.991729,46.799186],
-  "geometry": {"coordinates":[-67.991729,46.799186],"type":"Point"}
+  "bbox": [
+    -67.991729,
+    46.799186,
+    -67.991729,
+    46.799186
+],
+  "geometry": {"coordinates":[-67.99172900000001,46.799186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403882077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.275183,43.700515,-70.275183,43.700515",
     "geom:latitude":43.700515,
     "geom:longitude":-70.275183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"284 Maine Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403882077,
-    "wof:lastmodified":1449054863,
+    "wof:lastmodified":1466586840,
     "wof:name":"Jj Express",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.275183,43.700515,-70.275183,43.700515],
+  "bbox": [
+    -70.275183,
+    43.700515,
+    -70.275183,
+    43.700515
+],
   "geometry": {"coordinates":[-70.275183,43.700515],"type":"Point"}
 }

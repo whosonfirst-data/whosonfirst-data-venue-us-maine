@@ -2,13 +2,14 @@
   "id": 403764451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.275835,43.649567,-70.275835,43.649567",
     "geom:latitude":43.649567,
     "geom:longitude":-70.275835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Pine St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403764451,
-    "wof:lastmodified":1449055886,
+    "wof:lastmodified":1466586472,
     "wof:name":"Nancy Knapp MD",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.275835,43.649567,-70.275835,43.649567],
+  "bbox": [
+    -70.275835,
+    43.649567,
+    -70.275835,
+    43.649567
+],
   "geometry": {"coordinates":[-70.275835,43.649567],"type":"Point"}
 }

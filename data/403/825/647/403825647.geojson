@@ -2,13 +2,14 @@
   "id": 403825647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.520253,43.966455,-69.520253,43.966455",
     "geom:latitude":43.966455,
     "geom:longitude":-69.520253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Christian Hill Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403825647,
-    "wof:lastmodified":1449054667,
+    "wof:lastmodified":1466586358,
     "wof:name":"Mr Cyr's Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-69.520253,43.966455,-69.520253,43.966455],
+  "bbox": [
+    -69.520253,
+    43.966455,
+    -69.520253,
+    43.966455
+],
   "geometry": {"coordinates":[-69.520253,43.966455],"type":"Point"}
 }

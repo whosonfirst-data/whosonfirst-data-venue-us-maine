@@ -2,13 +2,14 @@
   "id": 404114163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.176503,43.799534,-70.176503,43.799534",
     "geom:latitude":43.799534,
     "geom:longitude":-70.176503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 E Main St",
     "sg:city":"Denmark",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404114163,
-    "wof:lastmodified":1449039543,
+    "wof:lastmodified":1466586205,
     "wof:name":"Denmark Financial Svc",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-70.176503,43.799534,-70.176503,43.799534],
+  "bbox": [
+    -70.176503,
+    43.799534,
+    -70.176503,
+    43.799534
+],
   "geometry": {"coordinates":[-70.176503,43.799534],"type":"Point"}
 }

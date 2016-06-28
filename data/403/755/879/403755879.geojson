@@ -2,13 +2,14 @@
   "id": 403755879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.931557,44.920568,-68.931557,44.920568",
     "geom:latitude":44.920568,
     "geom:longitude":-68.931557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4079 Broadway",
     "sg:city":"Kenduskeag",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403755879,
-    "wof:lastmodified":1449055014,
+    "wof:lastmodified":1466586330,
     "wof:name":"Old Town Lumber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.931557,44.920568,-68.931557,44.920568],
+  "bbox": [
+    -68.931557,
+    44.920568,
+    -68.931557,
+    44.920568
+],
   "geometry": {"coordinates":[-68.931557,44.920568],"type":"Point"}
 }

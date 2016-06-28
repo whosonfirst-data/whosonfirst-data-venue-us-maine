@@ -2,13 +2,14 @@
   "id": 387837323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.507263,43.568195,-70.507263,43.568195",
     "geom:latitude":43.568195,
     "geom:longitude":-70.507263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Buxton Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387837323,
-    "wof:lastmodified":1449056696,
+    "wof:lastmodified":1466587137,
     "wof:name":"Capricorn Productions",
     "wof:parent_id":85847051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-70.507263,43.568195,-70.507263,43.568195],
-  "geometry": {"coordinates":[-70.507263,43.568195],"type":"Point"}
+  "bbox": [
+    -70.507263,
+    43.568195,
+    -70.507263,
+    43.568195
+],
+  "geometry": {"coordinates":[-70.50726299999999,43.568195],"type":"Point"}
 }

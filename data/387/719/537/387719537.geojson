@@ -2,13 +2,14 @@
   "id": 387719537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.280173,43.653457,-70.280173,43.653457",
     "geom:latitude":43.653457,
     "geom:longitude":-70.280173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"973 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387719537,
-    "wof:lastmodified":1449056597,
+    "wof:lastmodified":1466586808,
     "wof:name":"ICI Dulux Paint",
     "wof:parent_id":85880029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-70.280173,43.653457,-70.280173,43.653457],
+  "bbox": [
+    -70.280173,
+    43.653457,
+    -70.280173,
+    43.653457
+],
   "geometry": {"coordinates":[-70.280173,43.653457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387849891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.691088,44.202516,-70.691088,44.202516",
     "geom:latitude":44.202516,
     "geom:longitude":-70.691088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 Waterford Rd",
     "sg:city":"Waterford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387849891,
-    "wof:lastmodified":1449056801,
+    "wof:lastmodified":1466587060,
     "wof:name":"R & S Building",
     "wof:parent_id":85816905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.691088,44.202516,-70.691088,44.202516],
-  "geometry": {"coordinates":[-70.691088,44.202516],"type":"Point"}
+  "bbox": [
+    -70.691088,
+    44.202516,
+    -70.691088,
+    44.202516
+],
+  "geometry": {"coordinates":[-70.69108799999999,44.202516],"type":"Point"}
 }

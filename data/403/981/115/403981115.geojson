@@ -2,13 +2,14 @@
   "id": 403981115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.932315,46.652056,-67.932315,46.652056",
     "geom:latitude":46.652056,
     "geom:longitude":-67.932315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 White Rd",
     "sg:city":"Wade",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403981115,
-    "wof:lastmodified":1449055992,
+    "wof:lastmodified":1466587063,
     "wof:name":"Spartan Computer",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-67.932315,46.652056,-67.932315,46.652056],
+  "bbox": [
+    -67.932315,
+    46.652056,
+    -67.932315,
+    46.652056
+],
   "geometry": {"coordinates":[-67.932315,46.652056],"type":"Point"}
 }

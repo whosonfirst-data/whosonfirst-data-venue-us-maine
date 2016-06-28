@@ -2,13 +2,14 @@
   "id": 387649419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.743026,43.086147,-70.743026,43.086147",
     "geom:latitude":43.086147,
     "geom:longitude":-70.743026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Wallingford Sq",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387649419,
-    "wof:lastmodified":1449058704,
+    "wof:lastmodified":1466586662,
     "wof:name":"Affordable Rooms For Rent",
     "wof:parent_id":85828587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-70.743026,43.086147,-70.743026,43.086147],
+  "bbox": [
+    -70.743026,
+    43.086147,
+    -70.743026,
+    43.086147
+],
   "geometry": {"coordinates":[-70.743026,43.086147],"type":"Point"}
 }

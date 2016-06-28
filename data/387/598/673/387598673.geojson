@@ -2,13 +2,14 @@
   "id": 387598673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.257244,43.653927,-70.257244,43.653927",
     "geom:latitude":43.653927,
     "geom:longitude":-70.257244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 York St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387598673,
-    "wof:lastmodified":1449056314,
+    "wof:lastmodified":1466586327,
     "wof:name":"Management Research Group",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-70.257244,43.653927,-70.257244,43.653927],
+  "bbox": [
+    -70.257244,
+    43.653927,
+    -70.257244,
+    43.653927
+],
   "geometry": {"coordinates":[-70.257244,43.653927],"type":"Point"}
 }

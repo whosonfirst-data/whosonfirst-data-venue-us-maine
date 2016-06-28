@@ -2,13 +2,14 @@
   "id": 404119545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.690009,44.904425,-68.690009,44.904425",
     "geom:latitude":44.904425,
     "geom:longitude":-68.690009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Stillwater Ave",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404119545,
-    "wof:lastmodified":1449039980,
+    "wof:lastmodified":1466586289,
     "wof:name":"Wild Treasures",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-68.690009,44.904425,-68.690009,44.904425],
+  "bbox": [
+    -68.690009,
+    44.904425,
+    -68.690009,
+    44.904425
+],
   "geometry": {"coordinates":[-68.690009,44.904425],"type":"Point"}
 }

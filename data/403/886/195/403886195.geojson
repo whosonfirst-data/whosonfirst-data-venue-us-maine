@@ -2,13 +2,14 @@
   "id": 403886195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.208845,44.085713,-70.208845,44.085713",
     "geom:latitude":44.085713,
     "geom:longitude":-70.208845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Sand Hill Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403886195,
-    "wof:lastmodified":1449055372,
+    "wof:lastmodified":1466586935,
     "wof:name":"Jsass",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-70.208845,44.085713,-70.208845,44.085713],
+  "bbox": [
+    -70.208845,
+    44.085713,
+    -70.208845,
+    44.085713
+],
   "geometry": {"coordinates":[-70.208845,44.085713],"type":"Point"}
 }

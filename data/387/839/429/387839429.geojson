@@ -2,13 +2,14 @@
   "id": 387839429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.683357,45.657142,-68.683357,45.657142",
     "geom:latitude":45.657142,
     "geom:longitude":-68.683357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"944 Central St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387839429,
-    "wof:lastmodified":1449058391,
+    "wof:lastmodified":1466587140,
     "wof:name":"Dead River Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "burner"
     ]
 },
-  "bbox": [-68.683357,45.657142,-68.683357,45.657142],
+  "bbox": [
+    -68.683357,
+    45.657142,
+    -68.683357,
+    45.657142
+],
   "geometry": {"coordinates":[-68.683357,45.657142],"type":"Point"}
 }

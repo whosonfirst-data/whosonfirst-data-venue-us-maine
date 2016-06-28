@@ -2,13 +2,14 @@
   "id": 404163491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.408232,43.851572,-70.408232,43.851572",
     "geom:latitude":43.851572,
     "geom:longitude":-70.408232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Smith Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404163491,
-    "wof:lastmodified":1449040301,
+    "wof:lastmodified":1466586782,
     "wof:name":"Mc Gowen Plumbing Dw Inc",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.408232,43.851572,-70.408232,43.851572],
+  "bbox": [
+    -70.408232,
+    43.851572,
+    -70.408232,
+    43.851572
+],
   "geometry": {"coordinates":[-70.408232,43.851572],"type":"Point"}
 }

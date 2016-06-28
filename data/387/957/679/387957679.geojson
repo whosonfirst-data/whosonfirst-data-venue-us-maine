@@ -2,13 +2,14 @@
   "id": 387957679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.389354,44.061368,-70.389354,44.061368",
     "geom:latitude":44.061368,
     "geom:longitude":-70.389354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Poland Corner Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387957679,
-    "wof:lastmodified":1449059359,
+    "wof:lastmodified":1466587340,
     "wof:name":"Little Jewells Daycare",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.389354,44.061368,-70.389354,44.061368],
+  "bbox": [
+    -70.389354,
+    44.061368,
+    -70.389354,
+    44.061368
+],
   "geometry": {"coordinates":[-70.389354,44.061368],"type":"Point"}
 }

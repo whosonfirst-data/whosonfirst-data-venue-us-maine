@@ -2,13 +2,14 @@
   "id": 403820599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.55005,44.549123,-70.55005,44.549123",
     "geom:latitude":44.549123,
     "geom:longitude":-70.55005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 York St",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":403820599,
-    "wof:lastmodified":1449055336,
+    "wof:lastmodified":1466586273,
     "wof:name":"Community Concepts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "treatment"
     ]
 },
-  "bbox": [-70.55005,44.549123,-70.55005,44.549123],
+  "bbox": [
+    -70.55005,
+    44.549123,
+    -70.55005,
+    44.549123
+],
   "geometry": {"coordinates":[-70.55005,44.549123],"type":"Point"}
 }

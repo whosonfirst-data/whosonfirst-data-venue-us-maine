@@ -2,13 +2,14 @@
   "id": 404207993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.048893,43.978165,-70.048893,43.978165",
     "geom:latitude":43.978165,
     "geom:longitude":-70.048893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Beulah Ln",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404207993,
-    "wof:lastmodified":1449039965,
+    "wof:lastmodified":1466586874,
     "wof:name":"Shiloh Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.048893,43.978165,-70.048893,43.978165],
-  "geometry": {"coordinates":[-70.048893,43.978165],"type":"Point"}
+  "bbox": [
+    -70.048893,
+    43.978165,
+    -70.048893,
+    43.978165
+],
+  "geometry": {"coordinates":[-70.04889300000001,43.978165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404182739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.828834,44.924309,-69.828834,44.924309",
     "geom:latitude":44.924309,
     "geom:longitude":-69.828834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Lakewood Rd",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404182739,
-    "wof:lastmodified":1449039890,
+    "wof:lastmodified":1466586748,
     "wof:name":"Somerset County Chrysler Dodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dealer"
     ]
 },
-  "bbox": [-69.828834,44.924309,-69.828834,44.924309],
+  "bbox": [
+    -69.828834,
+    44.924309,
+    -69.828834,
+    44.924309
+],
   "geometry": {"coordinates":[-69.828834,44.924309],"type":"Point"}
 }

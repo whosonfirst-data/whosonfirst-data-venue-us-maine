@@ -2,13 +2,14 @@
   "id": 404023361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.18594,44.153775,-69.18594,44.153775",
     "geom:latitude":44.153775,
     "geom:longitude":-69.18594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2367 Camden Rd",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404023361,
-    "wof:lastmodified":1449040219,
+    "wof:lastmodified":1466585942,
     "wof:name":"Maine-Ly Concrete Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.18594,44.153775,-69.18594,44.153775],
+  "bbox": [
+    -69.18594,
+    44.153775,
+    -69.18594,
+    44.153775
+],
   "geometry": {"coordinates":[-69.18594,44.153775],"type":"Point"}
 }

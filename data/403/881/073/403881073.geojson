@@ -2,13 +2,14 @@
   "id": 403881073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.117409,44.123547,-69.117409,44.123547",
     "geom:latitude":44.123547,
     "geom:longitude":-69.117409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Maverick St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403881073,
-    "wof:lastmodified":1449055410,
+    "wof:lastmodified":1466586840,
     "wof:name":"Sallinen's Body & Fender Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-69.117409,44.123547,-69.117409,44.123547],
-  "geometry": {"coordinates":[-69.117409,44.123547],"type":"Point"}
+  "bbox": [
+    -69.117409,
+    44.123547,
+    -69.117409,
+    44.123547
+],
+  "geometry": {"coordinates":[-69.11740899999999,44.123547],"type":"Point"}
 }

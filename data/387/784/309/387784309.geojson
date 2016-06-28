@@ -2,13 +2,14 @@
   "id": 387784309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.005772,46.862494,-68.005772,46.862494",
     "geom:latitude":46.862494,
     "geom:longitude":-68.005772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Park St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387784309,
-    "wof:lastmodified":1449058648,
+    "wof:lastmodified":1466587001,
     "wof:name":"Teague Park Playground",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-68.005772,46.862494,-68.005772,46.862494],
-  "geometry": {"coordinates":[-68.005772,46.862494],"type":"Point"}
+  "bbox": [
+    -68.005772,
+    46.862494,
+    -68.005772,
+    46.862494
+],
+  "geometry": {"coordinates":[-68.00577199999999,46.862494],"type":"Point"}
 }

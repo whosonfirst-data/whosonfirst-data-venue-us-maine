@@ -2,13 +2,14 @@
   "id": 404131213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.419168,44.545943,-68.419168,44.545943",
     "geom:latitude":44.545943,
     "geom:longitude":-68.419168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Lincoln St",
     "sg:city":"Surry",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404131213,
-    "wof:lastmodified":1449039377,
+    "wof:lastmodified":1466586466,
     "wof:name":"Quest Telecom Intl",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-68.419168,44.545943,-68.419168,44.545943],
+  "bbox": [
+    -68.419168,
+    44.545943,
+    -68.419168,
+    44.545943
+],
   "geometry": {"coordinates":[-68.419168,44.545943],"type":"Point"}
 }

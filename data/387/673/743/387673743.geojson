@@ -2,13 +2,14 @@
   "id": 387673743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.774653,44.795079,-68.774653,44.795079",
     "geom:latitude":44.795079,
     "geom:longitude":-68.774653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Main St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387673743,
-    "wof:lastmodified":1449057581,
+    "wof:lastmodified":1466586341,
     "wof:name":"Gold Star Cleaners",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.774653,44.795079,-68.774653,44.795079],
+  "bbox": [
+    -68.774653,
+    44.795079,
+    -68.774653,
+    44.795079
+],
   "geometry": {"coordinates":[-68.774653,44.795079],"type":"Point"}
 }

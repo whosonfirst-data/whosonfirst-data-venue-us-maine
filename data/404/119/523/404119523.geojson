@@ -2,13 +2,14 @@
   "id": 404119523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.53813,44.556177,-70.53813,44.556177",
     "geom:latitude":44.556177,
     "geom:longitude":-70.53813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Spring St",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":404119523,
-    "wof:lastmodified":1449039982,
+    "wof:lastmodified":1466586288,
     "wof:name":"Bud's Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "painting"
     ]
 },
-  "bbox": [-70.53813,44.556177,-70.53813,44.556177],
+  "bbox": [
+    -70.53813,
+    44.556177,
+    -70.53813,
+    44.556177
+],
   "geometry": {"coordinates":[-70.53813,44.556177],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387834671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.218494,44.331179,-70.218494,44.331179",
     "geom:latitude":44.331179,
     "geom:longitude":-70.218494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 N Parish Rd",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387834671,
-    "wof:lastmodified":1449056459,
+    "wof:lastmodified":1466587047,
     "wof:name":"Diamond Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.218494,44.331179,-70.218494,44.331179],
-  "geometry": {"coordinates":[-70.218494,44.331179],"type":"Point"}
+  "bbox": [
+    -70.218494,
+    44.331179,
+    -70.218494,
+    44.331179
+],
+  "geometry": {"coordinates":[-70.21849400000001,44.331179],"type":"Point"}
 }

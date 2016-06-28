@@ -2,13 +2,14 @@
   "id": 403938521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.286874,43.698332,-70.286874,43.698332",
     "geom:latitude":43.698332,
     "geom:longitude":-70.286874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1334 Washington Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403938521,
-    "wof:lastmodified":1449055614,
+    "wof:lastmodified":1466587040,
     "wof:name":"Correct Billing Svc Inc",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-70.286874,43.698332,-70.286874,43.698332],
+  "bbox": [
+    -70.286874,
+    43.698332,
+    -70.286874,
+    43.698332
+],
   "geometry": {"coordinates":[-70.286874,43.698332],"type":"Point"}
 }

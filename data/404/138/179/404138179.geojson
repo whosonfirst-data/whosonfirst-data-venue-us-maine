@@ -2,13 +2,14 @@
   "id": 404138179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.782388,44.301362,-69.782388,44.301362",
     "geom:latitude":44.301362,
     "geom:longitude":-69.782388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 State St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404138179,
-    "wof:lastmodified":1449039363,
+    "wof:lastmodified":1466586577,
     "wof:name":"Border Trust Company",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-69.782388,44.301362,-69.782388,44.301362],
+  "bbox": [
+    -69.782388,
+    44.301362,
+    -69.782388,
+    44.301362
+],
   "geometry": {"coordinates":[-69.782388,44.301362],"type":"Point"}
 }

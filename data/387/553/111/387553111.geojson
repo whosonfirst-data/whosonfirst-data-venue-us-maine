@@ -2,13 +2,14 @@
   "id": 387553111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.3704,43.664679,-70.3704,43.664679",
     "geom:latitude":43.664679,
     "geom:longitude":-70.3704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Bradley Dr",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387553111,
-    "wof:lastmodified":1449056138,
+    "wof:lastmodified":1466585743,
     "wof:name":"CCB Inc",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.3704,43.664679,-70.3704,43.664679],
+  "bbox": [
+    -70.3704,
+    43.664679,
+    -70.3704,
+    43.664679
+],
   "geometry": {"coordinates":[-70.3704,43.664679],"type":"Point"}
 }

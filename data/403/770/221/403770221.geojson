@@ -2,13 +2,14 @@
   "id": 403770221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.543615,44.213886,-70.543615,44.213886",
     "geom:latitude":44.213886,
     "geom:longitude":-70.543615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Main St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403770221,
-    "wof:lastmodified":1449055998,
+    "wof:lastmodified":1466586534,
     "wof:name":"John's Redemption Ctr",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-70.543615,44.213886,-70.543615,44.213886],
+  "bbox": [
+    -70.543615,
+    44.213886,
+    -70.543615,
+    44.213886
+],
   "geometry": {"coordinates":[-70.543615,44.213886],"type":"Point"}
 }

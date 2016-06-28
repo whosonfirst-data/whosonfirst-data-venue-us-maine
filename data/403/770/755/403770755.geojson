@@ -2,13 +2,14 @@
   "id": 403770755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.22055,43.625683,-70.22055,43.625683",
     "geom:latitude":43.625683,
     "geom:longitude":-70.22055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rocky Hill Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403770755,
-    "wof:lastmodified":1449055997,
+    "wof:lastmodified":1466586543,
     "wof:name":"Jean C Hayes Consulting",
     "wof:parent_id":85867975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-70.22055,43.625683,-70.22055,43.625683],
+  "bbox": [
+    -70.22055,
+    43.625683,
+    -70.22055,
+    43.625683
+],
   "geometry": {"coordinates":[-70.22055,43.625683],"type":"Point"}
 }

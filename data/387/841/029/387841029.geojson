@@ -2,13 +2,14 @@
   "id": 387841029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.260505,43.652467,-70.260505,43.652467",
     "geom:latitude":43.652467,
     "geom:longitude":-70.260505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 High St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387841029,
-    "wof:lastmodified":1449056900,
+    "wof:lastmodified":1466587137,
     "wof:name":"High Street Apartments",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-70.260505,43.652467,-70.260505,43.652467],
-  "geometry": {"coordinates":[-70.260505,43.652467],"type":"Point"}
+  "bbox": [
+    -70.260505,
+    43.652467,
+    -70.260505,
+    43.652467
+],
+  "geometry": {"coordinates":[-70.26050499999999,43.652467],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404000313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.255736,43.640683,-70.255736,43.640683",
     "geom:latitude":43.640683,
     "geom:longitude":-70.255736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 A St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404000313,
-    "wof:lastmodified":1449039207,
+    "wof:lastmodified":1466585673,
     "wof:name":"W M Ely Assoc",
     "wof:parent_id":85828657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-70.255736,43.640683,-70.255736,43.640683],
+  "bbox": [
+    -70.255736,
+    43.640683,
+    -70.255736,
+    43.640683
+],
   "geometry": {"coordinates":[-70.255736,43.640683],"type":"Point"}
 }

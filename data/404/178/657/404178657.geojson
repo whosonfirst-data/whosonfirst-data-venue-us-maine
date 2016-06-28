@@ -2,13 +2,14 @@
   "id": 404178657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.765969,44.794716,-68.765969,44.794716",
     "geom:latitude":44.794716,
     "geom:longitude":-68.765969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 N Main St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404178657,
-    "wof:lastmodified":1449039984,
+    "wof:lastmodified":1466586828,
     "wof:name":"Exotic Touch Lingerie",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "novelty"
     ]
 },
-  "bbox": [-68.765969,44.794716,-68.765969,44.794716],
+  "bbox": [
+    -68.765969,
+    44.794716,
+    -68.765969,
+    44.794716
+],
   "geometry": {"coordinates":[-68.765969,44.794716],"type":"Point"}
 }

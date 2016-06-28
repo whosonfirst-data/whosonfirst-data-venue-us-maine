@@ -2,13 +2,14 @@
   "id": 404138995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.206899,44.389608,-68.206899,44.389608",
     "geom:latitude":44.389608,
     "geom:longitude":-68.206899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Federal St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404138995,
-    "wof:lastmodified":1449039365,
+    "wof:lastmodified":1466586586,
     "wof:name":"Rain Wise Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "weather"
     ]
 },
-  "bbox": [-68.206899,44.389608,-68.206899,44.389608],
-  "geometry": {"coordinates":[-68.206899,44.389608],"type":"Point"}
+  "bbox": [
+    -68.206899,
+    44.389608,
+    -68.206899,
+    44.389608
+],
+  "geometry": {"coordinates":[-68.20689900000001,44.389608],"type":"Point"}
 }

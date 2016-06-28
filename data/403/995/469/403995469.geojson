@@ -2,13 +2,14 @@
   "id": 403995469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.169407,44.104867,-70.169407,44.104867",
     "geom:latitude":44.104867,
     "geom:longitude":-70.169407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Garcelon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403995469,
-    "wof:lastmodified":1449055825,
+    "wof:lastmodified":1466587173,
     "wof:name":"Plumb Bobs Plmg",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-70.169407,44.104867,-70.169407,44.104867],
-  "geometry": {"coordinates":[-70.169407,44.104867],"type":"Point"}
+  "bbox": [
+    -70.169407,
+    44.104867,
+    -70.169407,
+    44.104867
+],
+  "geometry": {"coordinates":[-70.16940700000001,44.104867],"type":"Point"}
 }

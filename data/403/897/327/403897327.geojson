@@ -2,13 +2,14 @@
   "id": 403897327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.98488,44.905764,-66.98488,44.905764",
     "geom:latitude":44.905764,
     "geom:longitude":-66.98488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Washington St",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403897327,
-    "wof:lastmodified":1449055757,
+    "wof:lastmodified":1466586914,
     "wof:name":"US Coast Guard Search & Rescue",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-66.98488,44.905764,-66.98488,44.905764],
+  "bbox": [
+    -66.98488,
+    44.905764,
+    -66.98488,
+    44.905764
+],
   "geometry": {"coordinates":[-66.98488,44.905764],"type":"Point"}
 }

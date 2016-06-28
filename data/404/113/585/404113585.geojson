@@ -2,13 +2,14 @@
   "id": 404113585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.513167,43.425581,-70.513167,43.425581",
     "geom:latitude":43.425581,
     "geom:longitude":-70.513167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2218 Portland Rd",
     "sg:city":"Arundel",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404113585,
-    "wof:lastmodified":1449040227,
+    "wof:lastmodified":1466586198,
     "wof:name":"Paulin's Auto Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "diagnostic"
     ]
 },
-  "bbox": [-70.513167,43.425581,-70.513167,43.425581],
+  "bbox": [
+    -70.513167,
+    43.425581,
+    -70.513167,
+    43.425581
+],
   "geometry": {"coordinates":[-70.513167,43.425581],"type":"Point"}
 }

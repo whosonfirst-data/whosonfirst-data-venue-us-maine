@@ -2,13 +2,14 @@
   "id": 404050981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.431641,44.17666,-69.431641,44.17666",
     "geom:latitude":44.17666,
     "geom:longitude":-69.431641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 Waldoboro Rd",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404050981,
-    "wof:lastmodified":1449039802,
+    "wof:lastmodified":1466586302,
     "wof:name":"District Forest Ranger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.431641,44.17666,-69.431641,44.17666],
+  "bbox": [
+    -69.431641,
+    44.17666,
+    -69.431641,
+    44.17666
+],
   "geometry": {"coordinates":[-69.431641,44.17666],"type":"Point"}
 }

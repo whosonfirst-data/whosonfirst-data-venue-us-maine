@@ -2,13 +2,14 @@
   "id": 387789151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.765087,44.801562,-68.765087,44.801562",
     "geom:latitude":44.801562,
     "geom:longitude":-68.765087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Hancock St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387789151,
-    "wof:lastmodified":1449057815,
+    "wof:lastmodified":1466587094,
     "wof:name":"Bangor Housing Authority",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-68.765087,44.801562,-68.765087,44.801562],
-  "geometry": {"coordinates":[-68.765087,44.801562],"type":"Point"}
+  "bbox": [
+    -68.765087,
+    44.801562,
+    -68.765087,
+    44.801562
+],
+  "geometry": {"coordinates":[-68.76508699999999,44.801562],"type":"Point"}
 }

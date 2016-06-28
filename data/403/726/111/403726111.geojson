@@ -2,13 +2,14 @@
   "id": 403726111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.135678,43.850103,-70.135678,43.850103",
     "geom:latitude":43.850103,
     "geom:longitude":-70.135678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Desert Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403726111,
-    "wof:lastmodified":1449055521,
+    "wof:lastmodified":1466585916,
     "wof:name":"Mc Dermott Fine Wood Carving",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carving"
     ]
 },
-  "bbox": [-70.135678,43.850103,-70.135678,43.850103],
+  "bbox": [
+    -70.135678,
+    43.850103,
+    -70.135678,
+    43.850103
+],
   "geometry": {"coordinates":[-70.135678,43.850103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404086549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.255199,43.885089,-70.255199,43.885089",
     "geom:latitude":43.885089,
     "geom:longitude":-70.255199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Town Farm Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404086549,
-    "wof:lastmodified":1449039934,
+    "wof:lastmodified":1466586703,
     "wof:name":"Hearth Doctor Inc",
     "wof:parent_id":85855337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gas"
     ]
 },
-  "bbox": [-70.255199,43.885089,-70.255199,43.885089],
+  "bbox": [
+    -70.255199,
+    43.885089,
+    -70.255199,
+    43.885089
+],
   "geometry": {"coordinates":[-70.255199,43.885089],"type":"Point"}
 }

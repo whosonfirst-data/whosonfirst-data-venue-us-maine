@@ -2,13 +2,14 @@
   "id": 387762277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.204943,44.100089,-70.204943,44.100089",
     "geom:latitude":44.100089,
     "geom:longitude":-70.204943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Sabattus St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387762277,
-    "wof:lastmodified":1449058792,
+    "wof:lastmodified":1466586873,
     "wof:name":"Ann Marie Mullins",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-70.204943,44.100089,-70.204943,44.100089],
+  "bbox": [
+    -70.204943,
+    44.100089,
+    -70.204943,
+    44.100089
+],
   "geometry": {"coordinates":[-70.204943,44.100089],"type":"Point"}
 }

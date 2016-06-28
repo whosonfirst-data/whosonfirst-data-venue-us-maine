@@ -2,13 +2,14 @@
   "id": 387570147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.21918,44.271098,-70.21918,44.271098",
     "geom:latitude":44.271098,
     "geom:longitude":-70.21918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Center Bridge Rd",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387570147,
-    "wof:lastmodified":1449058363,
+    "wof:lastmodified":1466585887,
     "wof:name":"Kids Camp Learning Ctr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.21918,44.271098,-70.21918,44.271098],
-  "geometry": {"coordinates":[-70.21918,44.271098],"type":"Point"}
+  "bbox": [
+    -70.21918,
+    44.271098,
+    -70.21918,
+    44.271098
+],
+  "geometry": {"coordinates":[-70.21917999999999,44.271098],"type":"Point"}
 }

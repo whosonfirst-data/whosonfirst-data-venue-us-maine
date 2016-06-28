@@ -2,13 +2,14 @@
   "id": 387688685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.313296,43.537968,-70.313296,43.537968",
     "geom:latitude":43.537968,
     "geom:longitude":-70.313296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Saccarrappa Ln",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387688685,
-    "wof:lastmodified":1449057528,
+    "wof:lastmodified":1466586584,
     "wof:name":"Bartol Bungalow",
     "wof:parent_id":85843227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.313296,43.537968,-70.313296,43.537968],
-  "geometry": {"coordinates":[-70.313296,43.537968],"type":"Point"}
+  "bbox": [
+    -70.313296,
+    43.537968,
+    -70.313296,
+    43.537968
+],
+  "geometry": {"coordinates":[-70.31329599999999,43.537968],"type":"Point"}
 }

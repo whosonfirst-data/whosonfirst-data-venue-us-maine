@@ -2,13 +2,14 @@
   "id": 387598009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.064976,44.211995,-69.064976,44.211995",
     "geom:latitude":44.211995,
     "geom:longitude":-69.064976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 High St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387598009,
-    "wof:lastmodified":1449056319,
+    "wof:lastmodified":1466586317,
     "wof:name":"Hawthorn Inn",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-69.064976,44.211995,-69.064976,44.211995],
+  "bbox": [
+    -69.064976,
+    44.211995,
+    -69.064976,
+    44.211995
+],
   "geometry": {"coordinates":[-69.064976,44.211995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403928979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.823895,46.769464,-67.823895,46.769464",
     "geom:latitude":46.769464,
     "geom:longitude":-67.823895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Main St",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403928979,
-    "wof:lastmodified":1449055781,
+    "wof:lastmodified":1466587024,
     "wof:name":"Palwinder Kaur-Panefar DDS",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-67.823895,46.769464,-67.823895,46.769464],
-  "geometry": {"coordinates":[-67.823895,46.769464],"type":"Point"}
+  "bbox": [
+    -67.823895,
+    46.769464,
+    -67.823895,
+    46.769464
+],
+  "geometry": {"coordinates":[-67.82389499999999,46.769464],"type":"Point"}
 }

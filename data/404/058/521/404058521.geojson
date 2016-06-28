@@ -2,13 +2,14 @@
   "id": 404058521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.876041,43.80626,-70.876041,43.80626",
     "geom:latitude":43.80626,
     "geom:longitude":-70.876041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Federal St",
     "sg:city":"Parsonsfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404058521,
-    "wof:lastmodified":1449039196,
+    "wof:lastmodified":1466586413,
     "wof:name":"Laidlaw Transit Inc",
     "wof:parent_id":85849757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-70.876041,43.80626,-70.876041,43.80626],
+  "bbox": [
+    -70.876041,
+    43.80626,
+    -70.876041,
+    43.80626
+],
   "geometry": {"coordinates":[-70.876041,43.80626],"type":"Point"}
 }

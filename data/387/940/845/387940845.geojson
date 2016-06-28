@@ -2,13 +2,14 @@
   "id": 387940845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.635382,44.562391,-69.635382,44.562391",
     "geom:latitude":44.562391,
     "geom:longitude":-69.635382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Main St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387940845,
-    "wof:lastmodified":1449057030,
+    "wof:lastmodified":1466587284,
     "wof:name":"Fischer Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "financial"
     ]
 },
-  "bbox": [-69.635382,44.562391,-69.635382,44.562391],
-  "geometry": {"coordinates":[-69.635382,44.562391],"type":"Point"}
+  "bbox": [
+    -69.635382,
+    44.562391,
+    -69.635382,
+    44.562391
+],
+  "geometry": {"coordinates":[-69.63538200000001,44.562391],"type":"Point"}
 }

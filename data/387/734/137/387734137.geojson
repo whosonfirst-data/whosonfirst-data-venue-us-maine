@@ -2,13 +2,14 @@
   "id": 387734137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.765807,44.800004,-68.765807,44.800004",
     "geom:latitude":44.800004,
     "geom:longitude":-68.765807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Washington St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387734137,
-    "wof:lastmodified":1449059438,
+    "wof:lastmodified":1466586841,
     "wof:name":"Bangor Letter Shop & Color Cpy",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "copying"
     ]
 },
-  "bbox": [-68.765807,44.800004,-68.765807,44.800004],
+  "bbox": [
+    -68.765807,
+    44.800004,
+    -68.765807,
+    44.800004
+],
   "geometry": {"coordinates":[-68.765807,44.800004],"type":"Point"}
 }

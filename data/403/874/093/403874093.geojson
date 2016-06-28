@@ -2,13 +2,14 @@
   "id": 403874093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.660572,44.886295,-68.660572,44.886295",
     "geom:latitude":44.886295,
     "geom:longitude":-68.660572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Hillside Rd",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403874093,
-    "wof:lastmodified":1449055875,
+    "wof:lastmodified":1466586816,
     "wof:name":"Treats Falls House Inc",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.660572,44.886295,-68.660572,44.886295],
+  "bbox": [
+    -68.660572,
+    44.886295,
+    -68.660572,
+    44.886295
+],
   "geometry": {"coordinates":[-68.660572,44.886295],"type":"Point"}
 }

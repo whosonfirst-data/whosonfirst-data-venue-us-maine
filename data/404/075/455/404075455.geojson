@@ -2,13 +2,14 @@
   "id": 404075455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.172585,44.074467,-70.172585,44.074467",
     "geom:latitude":44.074467,
     "geom:longitude":-70.172585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Enterprise St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404075455,
-    "wof:lastmodified":1449039793,
+    "wof:lastmodified":1466585688,
     "wof:name":"Mathieu Unfinished Furniture",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "saw"
     ]
 },
-  "bbox": [-70.172585,44.074467,-70.172585,44.074467],
+  "bbox": [
+    -70.172585,
+    44.074467,
+    -70.172585,
+    44.074467
+],
   "geometry": {"coordinates":[-70.172585,44.074467],"type":"Point"}
 }

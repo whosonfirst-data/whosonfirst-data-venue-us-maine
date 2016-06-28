@@ -2,13 +2,14 @@
   "id": 404039101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252833,43.637533,-70.252833,43.637533",
     "geom:latitude":43.637533,
     "geom:longitude":-70.252833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Ocean St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404039101,
-    "wof:lastmodified":1449040175,
+    "wof:lastmodified":1466586070,
     "wof:name":"South Portland Taxi",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-70.252833,43.637533,-70.252833,43.637533],
+  "bbox": [
+    -70.252833,
+    43.637533,
+    -70.252833,
+    43.637533
+],
   "geometry": {"coordinates":[-70.252833,43.637533],"type":"Point"}
 }

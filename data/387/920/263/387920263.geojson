@@ -2,13 +2,14 @@
   "id": 387920263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.20546,44.389723,-68.20546,44.389723",
     "geom:latitude":44.389723,
     "geom:longitude":-68.20546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Cottage St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387920263,
-    "wof:lastmodified":1449059049,
+    "wof:lastmodified":1466587326,
     "wof:name":"Cadillac Acg Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [-68.20546,44.389723,-68.20546,44.389723],
+  "bbox": [
+    -68.20546,
+    44.389723,
+    -68.20546,
+    44.389723
+],
   "geometry": {"coordinates":[-68.20546,44.389723],"type":"Point"}
 }

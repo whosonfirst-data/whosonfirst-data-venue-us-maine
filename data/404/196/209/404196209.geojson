@@ -2,13 +2,14 @@
   "id": 404196209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.293828,43.745905,-70.293828,43.745905",
     "geom:latitude":43.745905,
     "geom:longitude":-70.293828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Falmouth Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":404196209,
-    "wof:lastmodified":1449039325,
+    "wof:lastmodified":1466586819,
     "wof:name":"Big Impressions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "design"
     ]
 },
-  "bbox": [-70.293828,43.745905,-70.293828,43.745905],
+  "bbox": [
+    -70.293828,
+    43.745905,
+    -70.293828,
+    43.745905
+],
   "geometry": {"coordinates":[-70.293828,43.745905],"type":"Point"}
 }

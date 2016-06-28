@@ -2,13 +2,14 @@
   "id": 403836421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.423974,43.534567,-70.423974,43.534567",
     "geom:latitude":43.534567,
     "geom:longitude":-70.423974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Portland Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403836421,
-    "wof:lastmodified":1449055499,
+    "wof:lastmodified":1466586539,
     "wof:name":"Spiral Pathways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-70.423974,43.534567,-70.423974,43.534567],
+  "bbox": [
+    -70.423974,
+    43.534567,
+    -70.423974,
+    43.534567
+],
   "geometry": {"coordinates":[-70.423974,43.534567],"type":"Point"}
 }

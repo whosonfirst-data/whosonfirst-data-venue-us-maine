@@ -2,13 +2,14 @@
   "id": 403976675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.936918,43.508879,-70.936918,43.508879",
     "geom:latitude":43.508879,
     "geom:longitude":-70.936918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Peck Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403976675,
-    "wof:lastmodified":1449055177,
+    "wof:lastmodified":1466587216,
     "wof:name":"Construction Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "form"
     ]
 },
-  "bbox": [-70.936918,43.508879,-70.936918,43.508879],
-  "geometry": {"coordinates":[-70.936918,43.508879],"type":"Point"}
+  "bbox": [
+    -70.936918,
+    43.508879,
+    -70.936918,
+    43.508879
+],
+  "geometry": {"coordinates":[-70.93691800000001,43.508879],"type":"Point"}
 }

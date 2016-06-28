@@ -2,13 +2,14 @@
   "id": 404124125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.258286,43.668502,-70.258286,43.668502",
     "geom:latitude":43.668502,
     "geom:longitude":-70.258286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Marginal Way",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404124125,
-    "wof:lastmodified":1449040250,
+    "wof:lastmodified":1466586357,
     "wof:name":"Massage Therapy Institute",
     "wof:parent_id":85880023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.258286,43.668502,-70.258286,43.668502],
+  "bbox": [
+    -70.258286,
+    43.668502,
+    -70.258286,
+    43.668502
+],
   "geometry": {"coordinates":[-70.258286,43.668502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387883761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.256967,44.618833,-70.256967,44.618833",
     "geom:latitude":44.618833,
     "geom:longitude":-70.256967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Fenderson Hill Rd",
     "sg:city":"Wilton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387883761,
-    "wof:lastmodified":1449059015,
+    "wof:lastmodified":1466587304,
     "wof:name":"Clear Water Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.256967,44.618833,-70.256967,44.618833],
+  "bbox": [
+    -70.256967,
+    44.618833,
+    -70.256967,
+    44.618833
+],
   "geometry": {"coordinates":[-70.256967,44.618833],"type":"Point"}
 }

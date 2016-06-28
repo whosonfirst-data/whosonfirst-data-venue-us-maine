@@ -2,13 +2,14 @@
   "id": 404102209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.66655,44.882807,-68.66655,44.882807",
     "geom:latitude":44.882807,
     "geom:longitude":-68.66655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Mill St",
     "sg:city":"Lagrange",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404102209,
-    "wof:lastmodified":1449040252,
+    "wof:lastmodified":1466586028,
     "wof:name":"Rabbits Cats & More",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.66655,44.882807,-68.66655,44.882807],
+  "bbox": [
+    -68.66655,
+    44.882807,
+    -68.66655,
+    44.882807
+],
   "geometry": {"coordinates":[-68.66655,44.882807],"type":"Point"}
 }

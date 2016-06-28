@@ -2,13 +2,14 @@
   "id": 404181097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.838512,44.799953,-68.838512,44.799953",
     "geom:latitude":44.799953,
     "geom:longitude":-68.838512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Hildreth St N",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404181097,
-    "wof:lastmodified":1449039843,
+    "wof:lastmodified":1466586836,
     "wof:name":"Industrial Services Inc",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.838512,44.799953,-68.838512,44.799953],
-  "geometry": {"coordinates":[-68.838512,44.799953],"type":"Point"}
+  "bbox": [
+    -68.838512,
+    44.799953,
+    -68.838512,
+    44.799953
+],
+  "geometry": {"coordinates":[-68.83851199999999,44.799953],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387681059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.878257,44.797157,-69.878257,44.797157",
     "geom:latitude":44.797157,
     "geom:longitude":-69.878257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Pleasant St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387681059,
-    "wof:lastmodified":1449058429,
+    "wof:lastmodified":1466586455,
     "wof:name":"Briggs & Sons Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logging"
     ]
 },
-  "bbox": [-69.878257,44.797157,-69.878257,44.797157],
+  "bbox": [
+    -69.878257,
+    44.797157,
+    -69.878257,
+    44.797157
+],
   "geometry": {"coordinates":[-69.878257,44.797157],"type":"Point"}
 }

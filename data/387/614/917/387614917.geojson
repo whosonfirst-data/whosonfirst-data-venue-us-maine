@@ -2,13 +2,14 @@
   "id": 387614917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.805317,43.164901,-70.805317,43.164901",
     "geom:latitude":43.164901,
     "geom:longitude":-70.805317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Dow Hwy",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387614917,
-    "wof:lastmodified":1449060023,
+    "wof:lastmodified":1466586584,
     "wof:name":"Charter Environmental Inc",
     "wof:parent_id":85822373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.805317,43.164901,-70.805317,43.164901],
+  "bbox": [
+    -70.805317,
+    43.164901,
+    -70.805317,
+    43.164901
+],
   "geometry": {"coordinates":[-70.805317,43.164901],"type":"Point"}
 }

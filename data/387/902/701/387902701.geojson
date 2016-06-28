@@ -2,13 +2,14 @@
   "id": 387902701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.103135,44.117529,-69.103135,44.117529",
     "geom:latitude":44.117529,
     "geom:longitude":-69.103135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Camden St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387902701,
-    "wof:lastmodified":1449058923,
+    "wof:lastmodified":1466587242,
     "wof:name":"Maine Coast Photo & Digital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "finishing"
     ]
 },
-  "bbox": [-69.103135,44.117529,-69.103135,44.117529],
-  "geometry": {"coordinates":[-69.103135,44.117529],"type":"Point"}
+  "bbox": [
+    -69.103135,
+    44.117529,
+    -69.103135,
+    44.117529
+],
+  "geometry": {"coordinates":[-69.10313499999999,44.117529],"type":"Point"}
 }

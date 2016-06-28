@@ -2,13 +2,14 @@
   "id": 404067635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.76841,43.107593,-70.76841,43.107593",
     "geom:latitude":43.107593,
     "geom:longitude":-70.76841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Dennett Rd",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404067635,
-    "wof:lastmodified":1449039123,
+    "wof:lastmodified":1466586532,
     "wof:name":"Desjardins Dental Ceramics Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-70.76841,43.107593,-70.76841,43.107593],
+  "bbox": [
+    -70.76841,
+    43.107593,
+    -70.76841,
+    43.107593
+],
   "geometry": {"coordinates":[-70.76841,43.107593],"type":"Point"}
 }

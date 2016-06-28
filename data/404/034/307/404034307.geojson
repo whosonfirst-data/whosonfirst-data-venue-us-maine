@@ -2,13 +2,14 @@
   "id": 404034307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.719186,44.547824,-69.719186,44.547824",
     "geom:latitude":44.547824,
     "geom:longitude":-69.719186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Oak St",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404034307,
-    "wof:lastmodified":1449039153,
+    "wof:lastmodified":1466586012,
     "wof:name":"K V Federal Credit Union",
     "wof:parent_id":85837327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-69.719186,44.547824,-69.719186,44.547824],
-  "geometry": {"coordinates":[-69.719186,44.547824],"type":"Point"}
+  "bbox": [
+    -69.719186,
+    44.547824,
+    -69.719186,
+    44.547824
+],
+  "geometry": {"coordinates":[-69.71918599999999,44.547824],"type":"Point"}
 }

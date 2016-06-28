@@ -2,13 +2,14 @@
   "id": 387654027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.181619,44.100462,-70.181619,44.100462",
     "geom:latitude":44.100462,
     "geom:longitude":-70.181619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Stewart St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387654027,
-    "wof:lastmodified":1449057374,
+    "wof:lastmodified":1466586030,
     "wof:name":"John R Steel IT Consultant",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-70.181619,44.100462,-70.181619,44.100462],
+  "bbox": [
+    -70.181619,
+    44.100462,
+    -70.181619,
+    44.100462
+],
   "geometry": {"coordinates":[-70.181619,44.100462],"type":"Point"}
 }

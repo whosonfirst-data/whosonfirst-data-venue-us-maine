@@ -2,13 +2,14 @@
   "id": 387682275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.435375,45.14278,-70.435375,45.14278",
     "geom:latitude":45.14278,
     "geom:longitude":-70.435375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 School St",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387682275,
-    "wof:lastmodified":1449056762,
+    "wof:lastmodified":1466586476,
     "wof:name":"Corey Iba Farm Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.435375,45.14278,-70.435375,45.14278],
-  "geometry": {"coordinates":[-70.435375,45.14278],"type":"Point"}
+  "bbox": [
+    -70.435375,
+    45.14278,
+    -70.435375,
+    45.14278
+],
+  "geometry": {"coordinates":[-70.43537499999999,45.14278],"type":"Point"}
 }

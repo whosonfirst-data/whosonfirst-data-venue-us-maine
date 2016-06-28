@@ -2,13 +2,14 @@
   "id": 387860975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.181497,43.803451,-70.181497,43.803451",
     "geom:latitude":43.803451,
     "geom:longitude":-70.181497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 US Hwy 1",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387860975,
-    "wof:lastmodified":1449057797,
+    "wof:lastmodified":1466587261,
     "wof:name":"Down-East Village Restaurant",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.181497,43.803451,-70.181497,43.803451],
-  "geometry": {"coordinates":[-70.181497,43.803451],"type":"Point"}
+  "bbox": [
+    -70.181497,
+    43.803451,
+    -70.181497,
+    43.803451
+],
+  "geometry": {"coordinates":[-70.18149699999999,43.803451],"type":"Point"}
 }

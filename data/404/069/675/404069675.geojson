@@ -2,13 +2,14 @@
   "id": 404069675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.267477,44.081058,-70.267477,44.081058",
     "geom:latitude":44.081058,
     "geom:longitude":-70.267477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"928 Minot Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404069675,
-    "wof:lastmodified":1449039885,
+    "wof:lastmodified":1466586588,
     "wof:name":"New Fab Inc",
     "wof:parent_id":85831033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "fabricated"
     ]
 },
-  "bbox": [-70.267477,44.081058,-70.267477,44.081058],
+  "bbox": [
+    -70.267477,
+    44.081058,
+    -70.267477,
+    44.081058
+],
   "geometry": {"coordinates":[-70.267477,44.081058],"type":"Point"}
 }

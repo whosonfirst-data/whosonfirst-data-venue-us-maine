@@ -2,13 +2,14 @@
   "id": 403764181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.676245,44.547822,-69.676245,44.547822",
     "geom:latitude":44.547822,
     "geom:longitude":-69.676245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Washington St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403764181,
-    "wof:lastmodified":1449055885,
+    "wof:lastmodified":1466586468,
     "wof:name":"Animal Hospital Of Waterville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "animal"
     ]
 },
-  "bbox": [-69.676245,44.547822,-69.676245,44.547822],
-  "geometry": {"coordinates":[-69.676245,44.547822],"type":"Point"}
+  "bbox": [
+    -69.676245,
+    44.547822,
+    -69.676245,
+    44.547822
+],
+  "geometry": {"coordinates":[-69.67624499999999,44.547822],"type":"Point"}
 }

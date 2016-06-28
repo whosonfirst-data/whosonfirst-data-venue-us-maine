@@ -2,13 +2,14 @@
   "id": 387934685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.638122,43.162698,-70.638122,43.162698",
     "geom:latitude":43.162698,
     "geom:longitude":-70.638122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Tenney Rose Ln",
     "sg:city":"York",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387934685,
-    "wof:lastmodified":1449056303,
+    "wof:lastmodified":1466587274,
     "wof:name":"Chris Donnell Plumbing & Htg",
     "wof:parent_id":85831291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.638122,43.162698,-70.638122,43.162698],
+  "bbox": [
+    -70.638122,
+    43.162698,
+    -70.638122,
+    43.162698
+],
   "geometry": {"coordinates":[-70.638122,43.162698],"type":"Point"}
 }

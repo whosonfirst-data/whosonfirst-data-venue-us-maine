@@ -2,13 +2,14 @@
   "id": 387661687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.87919,43.276656,-70.87919,43.276656",
     "geom:latitude":43.276656,
     "geom:longitude":-70.87919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Rochester St",
     "sg:city":"Berwick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387661687,
-    "wof:lastmodified":1449059502,
+    "wof:lastmodified":1466586147,
     "wof:name":"Berwick Town Water Dept",
     "wof:parent_id":85892311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "city"
     ]
 },
-  "bbox": [-70.87919,43.276656,-70.87919,43.276656],
-  "geometry": {"coordinates":[-70.87919,43.276656],"type":"Point"}
+  "bbox": [
+    -70.87919,
+    43.276656,
+    -70.87919,
+    43.276656
+],
+  "geometry": {"coordinates":[-70.87918999999999,43.276656],"type":"Point"}
 }

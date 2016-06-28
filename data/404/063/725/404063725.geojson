@@ -2,13 +2,14 @@
   "id": 404063725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.782787,44.711389,-69.782787,44.711389",
     "geom:latitude":44.711389,
     "geom:longitude":-69.782787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Waterville Rd",
     "sg:city":"Norridgewock",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404063725,
-    "wof:lastmodified":1449039124,
+    "wof:lastmodified":1466586496,
     "wof:name":"Road Guardian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-69.782787,44.711389,-69.782787,44.711389],
+  "bbox": [
+    -69.782787,
+    44.711389,
+    -69.782787,
+    44.711389
+],
   "geometry": {"coordinates":[-69.782787,44.711389],"type":"Point"}
 }

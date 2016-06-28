@@ -2,13 +2,14 @@
   "id": 404142067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.839154,44.744757,-68.839154,44.744757",
     "geom:latitude":44.744757,
     "geom:longitude":-68.839154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Western Ave",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404142067,
-    "wof:lastmodified":1449040044,
+    "wof:lastmodified":1466586621,
     "wof:name":"Bodyworks Hair Skin & Day Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.839154,44.744757,-68.839154,44.744757],
-  "geometry": {"coordinates":[-68.839154,44.744757],"type":"Point"}
+  "bbox": [
+    -68.839154,
+    44.744757,
+    -68.839154,
+    44.744757
+],
+  "geometry": {"coordinates":[-68.83915399999999,44.744757],"type":"Point"}
 }

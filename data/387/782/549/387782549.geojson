@@ -2,13 +2,14 @@
   "id": 387782549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.205074,43.738457,-70.205074,43.738457",
     "geom:latitude":43.738457,
     "geom:longitude":-70.205074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Underwood Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387782549,
-    "wof:lastmodified":1449056098,
+    "wof:lastmodified":1466587006,
     "wof:name":"Penpro",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "related"
     ]
 },
-  "bbox": [-70.205074,43.738457,-70.205074,43.738457],
+  "bbox": [
+    -70.205074,
+    43.738457,
+    -70.205074,
+    43.738457
+],
   "geometry": {"coordinates":[-70.205074,43.738457],"type":"Point"}
 }

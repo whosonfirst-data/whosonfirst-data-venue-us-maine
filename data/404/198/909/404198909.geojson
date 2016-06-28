@@ -2,13 +2,14 @@
   "id": 404198909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.966718,43.954318,-69.966718,43.954318",
     "geom:latitude":43.954318,
     "geom:longitude":-69.966718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Atwood Rd",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404198909,
-    "wof:lastmodified":1449039459,
+    "wof:lastmodified":1466586915,
     "wof:name":"Howard Sports Child Care",
     "wof:parent_id":85809811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.966718,43.954318,-69.966718,43.954318],
+  "bbox": [
+    -69.966718,
+    43.954318,
+    -69.966718,
+    43.954318
+],
   "geometry": {"coordinates":[-69.966718,43.954318],"type":"Point"}
 }

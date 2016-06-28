@@ -2,13 +2,14 @@
   "id": 387806089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.182723,44.163948,-70.182723,44.163948",
     "geom:latitude":44.163948,
     "geom:longitude":-70.182723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Daggett Hill Rd",
     "sg:city":"Greene",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387806089,
-    "wof:lastmodified":1449056101,
+    "wof:lastmodified":1466587058,
     "wof:name":"Town & Country Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-70.182723,44.163948,-70.182723,44.163948],
+  "bbox": [
+    -70.182723,
+    44.163948,
+    -70.182723,
+    44.163948
+],
   "geometry": {"coordinates":[-70.182723,44.163948],"type":"Point"}
 }

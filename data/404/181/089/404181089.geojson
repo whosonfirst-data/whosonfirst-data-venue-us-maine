@@ -2,13 +2,14 @@
   "id": 404181089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.009515,46.863713,-68.009515,46.863713",
     "geom:latitude":46.863713,
     "geom:longitude":-68.009515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Franklin St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404181089,
-    "wof:lastmodified":1449039841,
+    "wof:lastmodified":1466586835,
     "wof:name":"Noyes Flower & Plant Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.009515,46.863713,-68.009515,46.863713],
-  "geometry": {"coordinates":[-68.009515,46.863713],"type":"Point"}
+  "bbox": [
+    -68.009515,
+    46.863713,
+    -68.009515,
+    46.863713
+],
+  "geometry": {"coordinates":[-68.00951499999999,46.863713],"type":"Point"}
 }

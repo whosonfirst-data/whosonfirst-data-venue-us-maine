@@ -2,13 +2,14 @@
   "id": 387710045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.438916,44.067684,-70.438916,44.067684",
     "geom:latitude":44.067684,
     "geom:longitude":-70.438916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Tripp Lake Camp Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387710045,
-    "wof:lastmodified":1449056350,
+    "wof:lastmodified":1466586867,
     "wof:name":"Michael's Chimney Sweep",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "chimney"
     ]
 },
-  "bbox": [-70.438916,44.067684,-70.438916,44.067684],
-  "geometry": {"coordinates":[-70.438916,44.067684],"type":"Point"}
+  "bbox": [
+    -70.438916,
+    44.067684,
+    -70.438916,
+    44.067684
+],
+  "geometry": {"coordinates":[-70.43891600000001,44.067684],"type":"Point"}
 }

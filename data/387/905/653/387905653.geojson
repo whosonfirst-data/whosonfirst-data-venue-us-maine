@@ -2,13 +2,14 @@
   "id": 387905653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.775692,43.439419,-70.775692,43.439419",
     "geom:latitude":43.439419,
     "geom:longitude":-70.775692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Main St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387905653,
-    "wof:lastmodified":1449057591,
+    "wof:lastmodified":1466587316,
     "wof:name":"Charles L Nickerson Law Ofcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-70.775692,43.439419,-70.775692,43.439419],
-  "geometry": {"coordinates":[-70.775692,43.439419],"type":"Point"}
+  "bbox": [
+    -70.775692,
+    43.439419,
+    -70.775692,
+    43.439419
+],
+  "geometry": {"coordinates":[-70.77569200000001,43.439419],"type":"Point"}
 }

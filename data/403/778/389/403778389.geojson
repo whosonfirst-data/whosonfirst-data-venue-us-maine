@@ -2,13 +2,14 @@
   "id": 403778389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.801476,44.309121,-69.801476,44.309121",
     "geom:latitude":44.309121,
     "geom:longitude":-69.801476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Gray Birch Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403778389,
-    "wof:lastmodified":1449054650,
+    "wof:lastmodified":1466586681,
     "wof:name":"Maine General Nursing & Rehab",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-69.801476,44.309121,-69.801476,44.309121],
-  "geometry": {"coordinates":[-69.801476,44.309121],"type":"Point"}
+  "bbox": [
+    -69.801476,
+    44.309121,
+    -69.801476,
+    44.309121
+],
+  "geometry": {"coordinates":[-69.80147599999999,44.309121],"type":"Point"}
 }

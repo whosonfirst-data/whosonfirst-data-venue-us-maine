@@ -2,13 +2,14 @@
   "id": 387612123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.373494,43.55375,-70.373494,43.55375",
     "geom:latitude":43.55375,
     "geom:longitude":-70.373494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Mayflower Dr",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387612123,
-    "wof:lastmodified":1449057788,
+    "wof:lastmodified":1466586530,
     "wof:name":"Thomas Hassler Carpentry",
     "wof:parent_id":85806509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.373494,43.55375,-70.373494,43.55375],
-  "geometry": {"coordinates":[-70.373494,43.55375],"type":"Point"}
+  "bbox": [
+    -70.373494,
+    43.55375,
+    -70.373494,
+    43.55375
+],
+  "geometry": {"coordinates":[-70.37349399999999,43.55375],"type":"Point"}
 }

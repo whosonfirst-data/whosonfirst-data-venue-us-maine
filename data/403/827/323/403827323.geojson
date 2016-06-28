@@ -2,13 +2,14 @@
   "id": 403827323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.259287,43.787563,-70.259287,43.787563",
     "geom:latitude":43.787563,
     "geom:longitude":-70.259287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Main St",
     "sg:city":"Cumberland Center",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403827323,
-    "wof:lastmodified":1449055102,
+    "wof:lastmodified":1466586385,
     "wof:name":"Anne Maher",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-70.259287,43.787563,-70.259287,43.787563],
+  "bbox": [
+    -70.259287,
+    43.787563,
+    -70.259287,
+    43.787563
+],
   "geometry": {"coordinates":[-70.259287,43.787563],"type":"Point"}
 }

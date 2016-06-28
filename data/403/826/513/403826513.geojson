@@ -2,13 +2,14 @@
   "id": 403826513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.761535,44.795515,-68.761535,44.795515",
     "geom:latitude":44.795515,
     "geom:longitude":-68.761535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Center St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403826513,
-    "wof:lastmodified":1449055578,
+    "wof:lastmodified":1466586373,
     "wof:name":"Maher's Oil Burner Svc Inc",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "burner"
     ]
 },
-  "bbox": [-68.761535,44.795515,-68.761535,44.795515],
-  "geometry": {"coordinates":[-68.761535,44.795515],"type":"Point"}
+  "bbox": [
+    -68.761535,
+    44.795515,
+    -68.761535,
+    44.795515
+],
+  "geometry": {"coordinates":[-68.76153499999999,44.795515],"type":"Point"}
 }

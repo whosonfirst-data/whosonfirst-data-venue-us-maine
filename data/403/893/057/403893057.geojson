@@ -2,13 +2,14 @@
   "id": 403893057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.155952,44.0642,-70.155952,44.0642",
     "geom:latitude":44.0642,
     "geom:longitude":-70.155952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1803 N Lisbon Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403893057,
-    "wof:lastmodified":1449055715,
+    "wof:lastmodified":1466586894,
     "wof:name":"Jackie's Cleaning & Mntnc",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.155952,44.0642,-70.155952,44.0642],
+  "bbox": [
+    -70.155952,
+    44.0642,
+    -70.155952,
+    44.0642
+],
   "geometry": {"coordinates":[-70.155952,44.0642],"type":"Point"}
 }

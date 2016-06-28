@@ -2,13 +2,14 @@
   "id": 387756953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.724467,44.374792,-69.724467,44.374792",
     "geom:latitude":44.374792,
     "geom:longitude":-69.724467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Riverside Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387756953,
-    "wof:lastmodified":1449058387,
+    "wof:lastmodified":1466586917,
     "wof:name":"First Student",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.724467,44.374792,-69.724467,44.374792],
+  "bbox": [
+    -69.724467,
+    44.374792,
+    -69.724467,
+    44.374792
+],
   "geometry": {"coordinates":[-69.724467,44.374792],"type":"Point"}
 }

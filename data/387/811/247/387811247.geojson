@@ -2,13 +2,14 @@
   "id": 387811247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.837837,44.873257,-68.837837,44.873257",
     "geom:latitude":44.873257,
     "geom:longitude":-68.837837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Hudson Rd",
     "sg:city":"Glenburn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387811247,
-    "wof:lastmodified":1449057933,
+    "wof:lastmodified":1466587090,
     "wof:name":"Noyes Construction",
     "wof:parent_id":85848853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-68.837837,44.873257,-68.837837,44.873257],
-  "geometry": {"coordinates":[-68.837837,44.873257],"type":"Point"}
+  "bbox": [
+    -68.837837,
+    44.873257,
+    -68.837837,
+    44.873257
+],
+  "geometry": {"coordinates":[-68.83783699999999,44.873257],"type":"Point"}
 }

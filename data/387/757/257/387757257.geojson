@@ -2,13 +2,14 @@
   "id": 387757257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.211676,44.091024,-70.211676,44.091024",
     "geom:latitude":44.091024,
     "geom:longitude":-70.211676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Maple St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387757257,
-    "wof:lastmodified":1449058253,
+    "wof:lastmodified":1466586917,
     "wof:name":"Patty's Place",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "ceramic"
     ]
 },
-  "bbox": [-70.211676,44.091024,-70.211676,44.091024],
+  "bbox": [
+    -70.211676,
+    44.091024,
+    -70.211676,
+    44.091024
+],
   "geometry": {"coordinates":[-70.211676,44.091024],"type":"Point"}
 }

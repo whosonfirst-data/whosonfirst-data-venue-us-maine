@@ -2,13 +2,14 @@
   "id": 387722881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.839699,44.652692,-68.839699,44.652692",
     "geom:latitude":44.652692,
     "geom:longitude":-68.839699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Memorial Dr",
     "sg:city":"Winterport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387722881,
-    "wof:lastmodified":1449057433,
+    "wof:lastmodified":1466586890,
     "wof:name":"White's Heating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.839699,44.652692,-68.839699,44.652692],
+  "bbox": [
+    -68.839699,
+    44.652692,
+    -68.839699,
+    44.652692
+],
   "geometry": {"coordinates":[-68.839699,44.652692],"type":"Point"}
 }

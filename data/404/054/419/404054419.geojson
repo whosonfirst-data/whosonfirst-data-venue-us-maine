@@ -2,13 +2,14 @@
   "id": 404054419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.23345,43.717072,-70.23345,43.717072",
     "geom:latitude":43.717072,
     "geom:longitude":-70.23345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"188 US Hwy 1",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404054419,
-    "wof:lastmodified":1449039582,
+    "wof:lastmodified":1466586346,
     "wof:name":"Maine Bank & Trust Co",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commercial"
     ]
 },
-  "bbox": [-70.23345,43.717072,-70.23345,43.717072],
+  "bbox": [
+    -70.23345,
+    43.717072,
+    -70.23345,
+    43.717072
+],
   "geometry": {"coordinates":[-70.23345,43.717072],"type":"Point"}
 }

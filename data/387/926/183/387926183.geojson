@@ -2,13 +2,14 @@
   "id": 387926183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.550709,43.375733,-70.550709,43.375733",
     "geom:latitude":43.375733,
     "geom:longitude":-70.550709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 York St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387926183,
-    "wof:lastmodified":1449057427,
+    "wof:lastmodified":1466587265,
     "wof:name":"Lighthouse",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fixture"
     ]
 },
-  "bbox": [-70.550709,43.375733,-70.550709,43.375733],
+  "bbox": [
+    -70.550709,
+    43.375733,
+    -70.550709,
+    43.375733
+],
   "geometry": {"coordinates":[-70.550709,43.375733],"type":"Point"}
 }

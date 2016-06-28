@@ -2,13 +2,14 @@
   "id": 403762053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.660987,45.245778,-68.660987,45.245778",
     "geom:latitude":45.245778,
     "geom:longitude":-68.660987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Cross St",
     "sg:city":"Howland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403762053,
-    "wof:lastmodified":1449055555,
+    "wof:lastmodified":1466586678,
     "wof:name":"Mid-Maine Graphics",
     "wof:parent_id":85849837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-68.660987,45.245778,-68.660987,45.245778],
-  "geometry": {"coordinates":[-68.660987,45.245778],"type":"Point"}
+  "bbox": [
+    -68.660987,
+    45.245778,
+    -68.660987,
+    45.245778
+],
+  "geometry": {"coordinates":[-68.66098700000001,45.245778],"type":"Point"}
 }

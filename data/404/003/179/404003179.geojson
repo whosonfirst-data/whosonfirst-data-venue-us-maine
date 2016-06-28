@@ -2,13 +2,14 @@
   "id": 404003179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.253868,43.655821,-70.253868,43.655821",
     "geom:latitude":43.655821,
     "geom:longitude":-70.253868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Wharf St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404003179,
-    "wof:lastmodified":1449040243,
+    "wof:lastmodified":1466585711,
     "wof:name":"Oasis",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "night"
     ]
 },
-  "bbox": [-70.253868,43.655821,-70.253868,43.655821],
+  "bbox": [
+    -70.253868,
+    43.655821,
+    -70.253868,
+    43.655821
+],
   "geometry": {"coordinates":[-70.253868,43.655821],"type":"Point"}
 }

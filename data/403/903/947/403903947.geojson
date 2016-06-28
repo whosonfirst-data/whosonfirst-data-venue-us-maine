@@ -2,13 +2,14 @@
   "id": 403903947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.255998,43.658598,-70.255998,43.658598",
     "geom:latitude":43.658598,
     "geom:longitude":-70.255998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Exchange St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403903947,
-    "wof:lastmodified":1449054706,
+    "wof:lastmodified":1466586865,
     "wof:name":"Karen A Dostaler",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-70.255998,43.658598,-70.255998,43.658598],
-  "geometry": {"coordinates":[-70.255998,43.658598],"type":"Point"}
+  "bbox": [
+    -70.255998,
+    43.658598,
+    -70.255998,
+    43.658598
+],
+  "geometry": {"coordinates":[-70.25599800000001,43.658598],"type":"Point"}
 }

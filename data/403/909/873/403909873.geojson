@@ -2,13 +2,14 @@
   "id": 403909873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.76591,44.804516,-68.76591,44.804516",
     "geom:latitude":44.804516,
     "geom:longitude":-68.76591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Essex St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403909873,
-    "wof:lastmodified":1449055625,
+    "wof:lastmodified":1466586946,
     "wof:name":"Essex Street Baptist Church",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-68.76591,44.804516,-68.76591,44.804516],
-  "geometry": {"coordinates":[-68.76591,44.804516],"type":"Point"}
+  "bbox": [
+    -68.76591,
+    44.804516,
+    -68.76591,
+    44.804516
+],
+  "geometry": {"coordinates":[-68.76591000000001,44.804516],"type":"Point"}
 }

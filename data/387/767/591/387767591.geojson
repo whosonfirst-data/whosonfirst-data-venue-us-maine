@@ -2,13 +2,14 @@
   "id": 387767591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.740061,44.841293,-68.740061,44.841293",
     "geom:latitude":44.841293,
     "geom:longitude":-68.740061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Longview Dr",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387767591,
-    "wof:lastmodified":1449057184,
+    "wof:lastmodified":1466586958,
     "wof:name":"Gateway Title Of Maine Inc",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.740061,44.841293,-68.740061,44.841293],
+  "bbox": [
+    -68.740061,
+    44.841293,
+    -68.740061,
+    44.841293
+],
   "geometry": {"coordinates":[-68.740061,44.841293],"type":"Point"}
 }

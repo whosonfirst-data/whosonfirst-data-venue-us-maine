@@ -2,13 +2,14 @@
   "id": 387745017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.710792,44.784601,-68.710792,44.784601",
     "geom:latitude":44.784601,
     "geom:longitude":-68.710792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"644 Eastern Ave",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387745017,
-    "wof:lastmodified":1449059747,
+    "wof:lastmodified":1466586793,
     "wof:name":"Service Master Of Bangor",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-68.710792,44.784601,-68.710792,44.784601],
+  "bbox": [
+    -68.710792,
+    44.784601,
+    -68.710792,
+    44.784601
+],
   "geometry": {"coordinates":[-68.710792,44.784601],"type":"Point"}
 }

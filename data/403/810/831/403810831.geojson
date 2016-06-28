@@ -2,13 +2,14 @@
   "id": 403810831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.236319,43.710508,-70.236319,43.710508",
     "geom:latitude":43.710508,
     "geom:longitude":-70.236319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Harding Ave",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403810831,
-    "wof:lastmodified":1449055033,
+    "wof:lastmodified":1466586117,
     "wof:name":"Tri Media",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-70.236319,43.710508,-70.236319,43.710508],
-  "geometry": {"coordinates":[-70.236319,43.710508],"type":"Point"}
+  "bbox": [
+    -70.236319,
+    43.710508,
+    -70.236319,
+    43.710508
+],
+  "geometry": {"coordinates":[-70.23631899999999,43.710508],"type":"Point"}
 }

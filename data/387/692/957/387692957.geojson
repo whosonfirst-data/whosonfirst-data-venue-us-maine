@@ -2,13 +2,14 @@
   "id": 387692957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.415244,44.538639,-68.415244,44.538639",
     "geom:latitude":44.538639,
     "geom:longitude":-68.415244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 High St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387692957,
-    "wof:lastmodified":1449057112,
+    "wof:lastmodified":1466586699,
     "wof:name":"Cash X Press",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-68.415244,44.538639,-68.415244,44.538639],
+  "bbox": [
+    -68.415244,
+    44.538639,
+    -68.415244,
+    44.538639
+],
   "geometry": {"coordinates":[-68.415244,44.538639],"type":"Point"}
 }

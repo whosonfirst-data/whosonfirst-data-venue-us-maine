@@ -2,13 +2,14 @@
   "id": 403763141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.043643,46.699402,-68.043643,46.699402",
     "geom:latitude":46.699402,
     "geom:longitude":-68.043643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Skyway St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403763141,
-    "wof:lastmodified":1449055954,
+    "wof:lastmodified":1466586453,
     "wof:name":"Presque Isle Highway Dept",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-68.043643,46.699402,-68.043643,46.699402],
+  "bbox": [
+    -68.043643,
+    46.699402,
+    -68.043643,
+    46.699402
+],
   "geometry": {"coordinates":[-68.043643,46.699402],"type":"Point"}
 }

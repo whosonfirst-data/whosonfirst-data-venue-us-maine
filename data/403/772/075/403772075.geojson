@@ -2,13 +2,14 @@
   "id": 403772075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.083475,44.395039,-68.083475,44.395039",
     "geom:latitude":44.395039,
     "geom:longitude":-68.083475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Main St",
     "sg:city":"Winter Harbor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403772075,
-    "wof:lastmodified":1449055232,
+    "wof:lastmodified":1466586558,
     "wof:name":"A R Whitten & Son Inc",
     "wof:parent_id":85821423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.083475,44.395039,-68.083475,44.395039],
-  "geometry": {"coordinates":[-68.083475,44.395039],"type":"Point"}
+  "bbox": [
+    -68.083475,
+    44.395039,
+    -68.083475,
+    44.395039
+],
+  "geometry": {"coordinates":[-68.08347500000001,44.395039],"type":"Point"}
 }

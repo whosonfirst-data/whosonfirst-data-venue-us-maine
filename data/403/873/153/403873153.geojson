@@ -2,13 +2,14 @@
   "id": 403873153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.159252,44.043515,-70.159252,44.043515",
     "geom:latitude":44.043515,
     "geom:longitude":-70.159252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Dyer Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403873153,
-    "wof:lastmodified":1449054915,
+    "wof:lastmodified":1466586692,
     "wof:name":"Performance Technology Inc",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-70.159252,44.043515,-70.159252,44.043515],
+  "bbox": [
+    -70.159252,
+    44.043515,
+    -70.159252,
+    44.043515
+],
   "geometry": {"coordinates":[-70.159252,44.043515],"type":"Point"}
 }

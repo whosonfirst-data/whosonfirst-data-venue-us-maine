@@ -2,13 +2,14 @@
   "id": 387770425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.210858,44.101426,-70.210858,44.101426",
     "geom:latitude":44.101426,
     "geom:longitude":-70.210858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Union St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387770425,
-    "wof:lastmodified":1449059992,
+    "wof:lastmodified":1466586964,
     "wof:name":"Able Power Rooter",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sewer"
     ]
 },
-  "bbox": [-70.210858,44.101426,-70.210858,44.101426],
+  "bbox": [
+    -70.210858,
+    44.101426,
+    -70.210858,
+    44.101426
+],
   "geometry": {"coordinates":[-70.210858,44.101426],"type":"Point"}
 }

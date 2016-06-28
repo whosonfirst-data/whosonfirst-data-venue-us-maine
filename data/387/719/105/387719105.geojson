@@ -2,13 +2,14 @@
   "id": 387719105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.851207,46.119185,-67.851207,46.119185",
     "geom:latitude":46.119185,
     "geom:longitude":-67.851207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Bangor St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387719105,
-    "wof:lastmodified":1449056598,
+    "wof:lastmodified":1466586803,
     "wof:name":"Hogan Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-67.851207,46.119185,-67.851207,46.119185],
+  "bbox": [
+    -67.851207,
+    46.119185,
+    -67.851207,
+    46.119185
+],
   "geometry": {"coordinates":[-67.851207,46.119185],"type":"Point"}
 }

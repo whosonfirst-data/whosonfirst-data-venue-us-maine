@@ -2,13 +2,14 @@
   "id": 403819267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.648422,43.653191,-70.648422,43.653191",
     "geom:latitude":43.653191,
     "geom:longitude":-70.648422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Oakwood Dr",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403819267,
-    "wof:lastmodified":1449054958,
+    "wof:lastmodified":1466586251,
     "wof:name":"Bittersweet Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.648422,43.653191,-70.648422,43.653191],
+  "bbox": [
+    -70.648422,
+    43.653191,
+    -70.648422,
+    43.653191
+],
   "geometry": {"coordinates":[-70.648422,43.653191],"type":"Point"}
 }

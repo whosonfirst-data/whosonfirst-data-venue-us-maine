@@ -2,13 +2,14 @@
   "id": 403958329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.644489,44.930703,-68.644489,44.930703",
     "geom:latitude":44.930703,
     "geom:longitude":-68.644489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 Main St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403958329,
-    "wof:lastmodified":1449055678,
+    "wof:lastmodified":1466586976,
     "wof:name":"Legacy Insurance & Financial",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.644489,44.930703,-68.644489,44.930703],
-  "geometry": {"coordinates":[-68.644489,44.930703],"type":"Point"}
+  "bbox": [
+    -68.644489,
+    44.930703,
+    -68.644489,
+    44.930703
+],
+  "geometry": {"coordinates":[-68.64448899999999,44.930703],"type":"Point"}
 }

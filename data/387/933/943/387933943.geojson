@@ -2,13 +2,14 @@
   "id": 387933943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.002334,44.4244,-69.002334,44.4244",
     "geom:latitude":44.4244,
     "geom:longitude":-69.002334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Commercial St",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387933943,
-    "wof:lastmodified":1449056882,
+    "wof:lastmodified":1466587278,
     "wof:name":"Aubuchon Hardware",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.002334,44.4244,-69.002334,44.4244],
+  "bbox": [
+    -69.002334,
+    44.4244,
+    -69.002334,
+    44.4244
+],
   "geometry": {"coordinates":[-69.002334,44.4244],"type":"Point"}
 }

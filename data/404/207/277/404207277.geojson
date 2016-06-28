@@ -2,13 +2,14 @@
   "id": 404207277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.326538,43.705561,-70.326538,43.705561",
     "geom:latitude":43.705561,
     "geom:longitude":-70.326538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404207277,
-    "wof:lastmodified":1449039966,
+    "wof:lastmodified":1466586939,
     "wof:name":"Diabetes Endocrine & Ntrtn Ctr",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-70.326538,43.705561,-70.326538,43.705561],
+  "bbox": [
+    -70.326538,
+    43.705561,
+    -70.326538,
+    43.705561
+],
   "geometry": {"coordinates":[-70.326538,43.705561],"type":"Point"}
 }

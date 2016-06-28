@@ -2,13 +2,14 @@
   "id": 403802121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.592837,43.238013,-70.592837,43.238013",
     "geom:latitude":43.238013,
     "geom:longitude":-70.592837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Perkins Cove Rd",
     "sg:city":"Ogunquit",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403802121,
-    "wof:lastmodified":1449055719,
+    "wof:lastmodified":1466585981,
     "wof:name":"Beth Ellis Cove Gallery",
     "wof:parent_id":85854335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.592837,43.238013,-70.592837,43.238013],
+  "bbox": [
+    -70.592837,
+    43.238013,
+    -70.592837,
+    43.238013
+],
   "geometry": {"coordinates":[-70.592837,43.238013],"type":"Point"}
 }

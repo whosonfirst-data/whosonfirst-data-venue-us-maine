@@ -2,13 +2,14 @@
   "id": 403749655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.493278,43.989939,-69.493278,43.989939",
     "geom:latitude":43.989939,
     "geom:longitude":-69.493278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Benner Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403749655,
-    "wof:lastmodified":1449055024,
+    "wof:lastmodified":1466586209,
     "wof:name":"Roy Griffin Sepic Pumping",
     "wof:parent_id":85831495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-69.493278,43.989939,-69.493278,43.989939],
+  "bbox": [
+    -69.493278,
+    43.989939,
+    -69.493278,
+    43.989939
+],
   "geometry": {"coordinates":[-69.493278,43.989939],"type":"Point"}
 }

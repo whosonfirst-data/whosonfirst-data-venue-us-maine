@@ -2,13 +2,14 @@
   "id": 387557299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.465518,43.881955,-70.465518,43.881955",
     "geom:latitude":43.881955,
     "geom:longitude":-70.465518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 Roosevelt Trl",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387557299,
-    "wof:lastmodified":1449058821,
+    "wof:lastmodified":1466585709,
     "wof:name":"Affordable Wireless",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-70.465518,43.881955,-70.465518,43.881955],
+  "bbox": [
+    -70.465518,
+    43.881955,
+    -70.465518,
+    43.881955
+],
   "geometry": {"coordinates":[-70.465518,43.881955],"type":"Point"}
 }

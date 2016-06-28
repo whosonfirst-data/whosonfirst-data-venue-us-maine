@@ -2,13 +2,14 @@
   "id": 403868779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.821155,44.70225,-68.821155,44.70225",
     "geom:latitude":44.70225,
     "geom:longitude":-68.821155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Quarry Rd",
     "sg:city":"Monson",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":403868779,
-    "wof:lastmodified":1449054676,
+    "wof:lastmodified":1466586781,
     "wof:name":"Sheldon Slate Products Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "product"
     ]
 },
-  "bbox": [-68.821155,44.70225,-68.821155,44.70225],
+  "bbox": [
+    -68.821155,
+    44.70225,
+    -68.821155,
+    44.70225
+],
   "geometry": {"coordinates":[-68.821155,44.70225],"type":"Point"}
 }

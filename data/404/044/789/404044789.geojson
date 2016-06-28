@@ -2,13 +2,14 @@
   "id": 404044789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.52912,44.212673,-70.52912,44.212673",
     "geom:latitude":44.212673,
     "geom:longitude":-70.52912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Paris St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404044789,
-    "wof:lastmodified":1449039744,
+    "wof:lastmodified":1466586176,
     "wof:name":"Goodwin's Insurance",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.52912,44.212673,-70.52912,44.212673],
-  "geometry": {"coordinates":[-70.52912,44.212673],"type":"Point"}
+  "bbox": [
+    -70.52912,
+    44.212673,
+    -70.52912,
+    44.212673
+],
+  "geometry": {"coordinates":[-70.52912000000001,44.212673],"type":"Point"}
 }

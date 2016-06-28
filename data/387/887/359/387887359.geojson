@@ -2,13 +2,14 @@
   "id": 387887359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.874647,44.800546,-69.874647,44.800546",
     "geom:latitude":44.800546,
     "geom:longitude":-69.874647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Park St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387887359,
-    "wof:lastmodified":1449059160,
+    "wof:lastmodified":1466587309,
     "wof:name":"Madison Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.874647,44.800546,-69.874647,44.800546],
+  "bbox": [
+    -69.874647,
+    44.800546,
+    -69.874647,
+    44.800546
+],
   "geometry": {"coordinates":[-69.874647,44.800546],"type":"Point"}
 }

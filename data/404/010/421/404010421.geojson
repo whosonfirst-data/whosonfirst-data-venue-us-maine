@@ -2,13 +2,14 @@
   "id": 404010421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.746698,43.803177,-69.746698,43.803177",
     "geom:latitude":43.803177,
     "geom:longitude":-69.746698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Indian Point Rd",
     "sg:city":"Nobleboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404010421,
-    "wof:lastmodified":1449039857,
+    "wof:lastmodified":1466585812,
     "wof:name":"James W Bryant",
     "wof:parent_id":85855541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-69.746698,43.803177,-69.746698,43.803177],
-  "geometry": {"coordinates":[-69.746698,43.803177],"type":"Point"}
+  "bbox": [
+    -69.746698,
+    43.803177,
+    -69.746698,
+    43.803177
+],
+  "geometry": {"coordinates":[-69.74669799999999,43.803177],"type":"Point"}
 }

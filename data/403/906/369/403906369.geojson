@@ -2,13 +2,14 @@
   "id": 403906369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.364449,44.241757,-69.364449,44.241757",
     "geom:latitude":44.241757,
     "geom:longitude":-69.364449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Leigher Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403906369,
-    "wof:lastmodified":1449055133,
+    "wof:lastmodified":1466587040,
     "wof:name":"Country Curls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-69.364449,44.241757,-69.364449,44.241757],
-  "geometry": {"coordinates":[-69.364449,44.241757],"type":"Point"}
+  "bbox": [
+    -69.364449,
+    44.241757,
+    -69.364449,
+    44.241757
+],
+  "geometry": {"coordinates":[-69.36444899999999,44.241757],"type":"Point"}
 }

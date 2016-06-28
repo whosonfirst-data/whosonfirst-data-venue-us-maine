@@ -2,13 +2,14 @@
   "id": 387816249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.513295,43.425527,-70.513295,43.425527",
     "geom:latitude":43.425527,
     "geom:longitude":-70.513295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 Portland Rd",
     "sg:city":"Arundel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387816249,
-    "wof:lastmodified":1449058318,
+    "wof:lastmodified":1466587013,
     "wof:name":"Arundel Antiques",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-70.513295,43.425527,-70.513295,43.425527],
+  "bbox": [
+    -70.513295,
+    43.425527,
+    -70.513295,
+    43.425527
+],
   "geometry": {"coordinates":[-70.513295,43.425527],"type":"Point"}
 }

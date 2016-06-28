@@ -2,13 +2,14 @@
   "id": 387954519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.508622,44.590029,-68.508622,44.590029",
     "geom:latitude":44.590029,
     "geom:longitude":-68.508622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"785 Red Bridge Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387954519,
-    "wof:lastmodified":1449059431,
+    "wof:lastmodified":1466587215,
     "wof:name":"Millmark Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.508622,44.590029,-68.508622,44.590029],
+  "bbox": [
+    -68.508622,
+    44.590029,
+    -68.508622,
+    44.590029
+],
   "geometry": {"coordinates":[-68.508622,44.590029],"type":"Point"}
 }

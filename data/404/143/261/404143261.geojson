@@ -2,13 +2,14 @@
   "id": 404143261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.732025,44.782834,-68.732025,44.782834",
     "geom:latitude":44.782834,
     "geom:longitude":-68.732025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Pierce Rd",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404143261,
-    "wof:lastmodified":1449040104,
+    "wof:lastmodified":1466586694,
     "wof:name":"Brewer Veterinary Clinic",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-68.732025,44.782834,-68.732025,44.782834],
-  "geometry": {"coordinates":[-68.732025,44.782834],"type":"Point"}
+  "bbox": [
+    -68.732025,
+    44.782834,
+    -68.732025,
+    44.782834
+],
+  "geometry": {"coordinates":[-68.73202499999999,44.782834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387971513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.882325,44.79876,-69.882325,44.79876",
     "geom:latitude":44.79876,
     "geom:longitude":-69.882325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Madison Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387971513,
-    "wof:lastmodified":1449058033,
+    "wof:lastmodified":1466587308,
     "wof:name":"Town Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-69.882325,44.79876,-69.882325,44.79876],
-  "geometry": {"coordinates":[-69.882325,44.79876],"type":"Point"}
+  "bbox": [
+    -69.882325,
+    44.79876,
+    -69.882325,
+    44.79876
+],
+  "geometry": {"coordinates":[-69.88232499999999,44.79876],"type":"Point"}
 }

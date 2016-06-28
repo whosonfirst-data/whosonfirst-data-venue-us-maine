@@ -2,13 +2,14 @@
   "id": 387740289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.823906,43.912433,-69.823906,43.912433",
     "geom:latitude":43.912433,
     "geom:longitude":-69.823906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Centre St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387740289,
-    "wof:lastmodified":1449057828,
+    "wof:lastmodified":1466586861,
     "wof:name":"Galley Restaurant",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.823906,43.912433,-69.823906,43.912433],
-  "geometry": {"coordinates":[-69.823906,43.912433],"type":"Point"}
+  "bbox": [
+    -69.823906,
+    43.912433,
+    -69.823906,
+    43.912433
+],
+  "geometry": {"coordinates":[-69.82390599999999,43.912433],"type":"Point"}
 }

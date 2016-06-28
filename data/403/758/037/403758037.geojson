@@ -2,13 +2,14 @@
   "id": 403758037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.800394,44.409608,-69.800394,44.409608",
     "geom:latitude":44.409608,
     "geom:longitude":-69.800394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Pond Rd",
     "sg:city":"Swanville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403758037,
-    "wof:lastmodified":1449055045,
+    "wof:lastmodified":1466586363,
     "wof:name":"Mid Coast Drain Cleaning",
     "wof:parent_id":85856385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sewer"
     ]
 },
-  "bbox": [-69.800394,44.409608,-69.800394,44.409608],
+  "bbox": [
+    -69.800394,
+    44.409608,
+    -69.800394,
+    44.409608
+],
   "geometry": {"coordinates":[-69.800394,44.409608],"type":"Point"}
 }

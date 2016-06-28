@@ -2,13 +2,14 @@
   "id": 404085345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.712249,45.655037,-68.712249,45.655037",
     "geom:latitude":45.655037,
     "geom:longitude":-68.712249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 School St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404085345,
-    "wof:lastmodified":1449039344,
+    "wof:lastmodified":1466585813,
     "wof:name":"Computer Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-68.712249,45.655037,-68.712249,45.655037],
+  "bbox": [
+    -68.712249,
+    45.655037,
+    -68.712249,
+    45.655037
+],
   "geometry": {"coordinates":[-68.712249,45.655037],"type":"Point"}
 }

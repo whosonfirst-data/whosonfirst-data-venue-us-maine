@@ -2,13 +2,14 @@
   "id": 404109173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.813914,44.904131,-68.813914,44.904131",
     "geom:latitude":44.904131,
     "geom:longitude":-68.813914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Pine Hill Dr",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404109173,
-    "wof:lastmodified":1449039430,
+    "wof:lastmodified":1466586130,
     "wof:name":"Best Care Landscaping & Design",
     "wof:parent_id":85848853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.813914,44.904131,-68.813914,44.904131],
+  "bbox": [
+    -68.813914,
+    44.904131,
+    -68.813914,
+    44.904131
+],
   "geometry": {"coordinates":[-68.813914,44.904131],"type":"Point"}
 }

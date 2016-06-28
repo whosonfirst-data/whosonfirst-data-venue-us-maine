@@ -2,13 +2,14 @@
   "id": 387887891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.262214,43.654811,-70.262214,43.654811",
     "geom:latitude":43.654811,
     "geom:longitude":-70.262214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"558 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387887891,
-    "wof:lastmodified":1449059163,
+    "wof:lastmodified":1466587310,
     "wof:name":"Ireland's Crystal & Crafts",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.262214,43.654811,-70.262214,43.654811],
+  "bbox": [
+    -70.262214,
+    43.654811,
+    -70.262214,
+    43.654811
+],
   "geometry": {"coordinates":[-70.262214,43.654811],"type":"Point"}
 }

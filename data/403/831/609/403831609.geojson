@@ -2,13 +2,14 @@
   "id": 403831609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.442101,43.371213,-70.442101,43.371213",
     "geom:latitude":43.371213,
     "geom:longitude":-70.442101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Main St",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403831609,
-    "wof:lastmodified":1449055425,
+    "wof:lastmodified":1466586457,
     "wof:name":"Ocean View Properties",
     "wof:parent_id":85857739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.442101,43.371213,-70.442101,43.371213],
-  "geometry": {"coordinates":[-70.442101,43.371213],"type":"Point"}
+  "bbox": [
+    -70.442101,
+    43.371213,
+    -70.442101,
+    43.371213
+],
+  "geometry": {"coordinates":[-70.44210099999999,43.371213],"type":"Point"}
 }

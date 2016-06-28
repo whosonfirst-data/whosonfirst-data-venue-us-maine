@@ -2,13 +2,14 @@
   "id": 387941633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.984965,45.251878,-68.984965,45.251878",
     "geom:latitude":45.251878,
     "geom:longitude":-68.984965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Elm St",
     "sg:city":"Milo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387941633,
-    "wof:lastmodified":1449058384,
+    "wof:lastmodified":1466587281,
     "wof:name":"Milo Exxon Mini Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-68.984965,45.251878,-68.984965,45.251878],
+  "bbox": [
+    -68.984965,
+    45.251878,
+    -68.984965,
+    45.251878
+],
   "geometry": {"coordinates":[-68.984965,45.251878],"type":"Point"}
 }

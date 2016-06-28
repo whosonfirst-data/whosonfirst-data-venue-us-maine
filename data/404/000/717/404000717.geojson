@@ -2,13 +2,14 @@
   "id": 404000717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.644287,44.930021,-68.644287,44.930021",
     "geom:latitude":44.930021,
     "geom:longitude":-68.644287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"259 Main St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404000717,
-    "wof:lastmodified":1449039207,
+    "wof:lastmodified":1466585679,
     "wof:name":"Gossamer Press",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-68.644287,44.930021,-68.644287,44.930021],
-  "geometry": {"coordinates":[-68.644287,44.930021],"type":"Point"}
+  "bbox": [
+    -68.644287,
+    44.930021,
+    -68.644287,
+    44.930021
+],
+  "geometry": {"coordinates":[-68.64428700000001,44.930021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387954877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.265039,43.651972,-70.265039,43.651972",
     "geom:latitude":43.651972,
     "geom:longitude":-70.265039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 State St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387954877,
-    "wof:lastmodified":1449059430,
+    "wof:lastmodified":1466587297,
     "wof:name":"Greater Portland Landmarks Inc",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.265039,43.651972,-70.265039,43.651972],
+  "bbox": [
+    -70.265039,
+    43.651972,
+    -70.265039,
+    43.651972
+],
   "geometry": {"coordinates":[-70.265039,43.651972],"type":"Point"}
 }

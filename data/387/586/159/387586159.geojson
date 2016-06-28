@@ -2,13 +2,14 @@
   "id": 387586159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.674455,44.542818,-69.674455,44.542818",
     "geom:latitude":44.542818,
     "geom:longitude":-69.674455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Airport Rd",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387586159,
-    "wof:lastmodified":1449059477,
+    "wof:lastmodified":1466586108,
     "wof:name":"Darling's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-69.674455,44.542818,-69.674455,44.542818],
-  "geometry": {"coordinates":[-69.674455,44.542818],"type":"Point"}
+  "bbox": [
+    -69.674455,
+    44.542818,
+    -69.674455,
+    44.542818
+],
+  "geometry": {"coordinates":[-69.67445499999999,44.542818],"type":"Point"}
 }

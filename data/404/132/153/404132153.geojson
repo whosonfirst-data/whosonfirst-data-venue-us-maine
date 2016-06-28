@@ -2,13 +2,14 @@
   "id": 404132153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.961185,44.886008,-68.961185,44.886008",
     "geom:latitude":44.886008,
     "geom:longitude":-68.961185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 Townhouse Rd",
     "sg:city":"Kenduskeag",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404132153,
-    "wof:lastmodified":1449039599,
+    "wof:lastmodified":1466586481,
     "wof:name":"H B Tate Strawberry Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.961185,44.886008,-68.961185,44.886008],
+  "bbox": [
+    -68.961185,
+    44.886008,
+    -68.961185,
+    44.886008
+],
   "geometry": {"coordinates":[-68.961185,44.886008],"type":"Point"}
 }

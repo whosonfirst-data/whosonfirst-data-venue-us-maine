@@ -2,13 +2,14 @@
   "id": 387911521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.45148,43.517609,-70.45148,43.517609",
     "geom:latitude":43.517609,
     "geom:longitude":-70.45148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Industrial Park Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387911521,
-    "wof:lastmodified":1449059307,
+    "wof:lastmodified":1466587320,
     "wof:name":"Maine Games",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic"
     ]
 },
-  "bbox": [-70.45148,43.517609,-70.45148,43.517609],
+  "bbox": [
+    -70.45148,
+    43.517609,
+    -70.45148,
+    43.517609
+],
   "geometry": {"coordinates":[-70.45148,43.517609],"type":"Point"}
 }

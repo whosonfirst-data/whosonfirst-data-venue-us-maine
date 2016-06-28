@@ -2,13 +2,14 @@
   "id": 403937681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.258589,43.656329,-70.258589,43.656329",
     "geom:latitude":43.656329,
     "geom:longitude":-70.258589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Free St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403937681,
-    "wof:lastmodified":1449054895,
+    "wof:lastmodified":1466587047,
     "wof:name":"Moon Moss Mc Gill & Shapiro",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-70.258589,43.656329,-70.258589,43.656329],
+  "bbox": [
+    -70.258589,
+    43.656329,
+    -70.258589,
+    43.656329
+],
   "geometry": {"coordinates":[-70.258589,43.656329],"type":"Point"}
 }

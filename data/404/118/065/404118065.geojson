@@ -2,13 +2,14 @@
   "id": 404118065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.742744,43.371569,-70.742744,43.371569",
     "geom:latitude":43.371569,
     "geom:longitude":-70.742744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 W 5th St",
     "sg:city":"North Berwick",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404118065,
-    "wof:lastmodified":1449040070,
+    "wof:lastmodified":1466586265,
     "wof:name":"Larry Gaudreau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-70.742744,43.371569,-70.742744,43.371569],
+  "bbox": [
+    -70.742744,
+    43.371569,
+    -70.742744,
+    43.371569
+],
   "geometry": {"coordinates":[-70.742744,43.371569],"type":"Point"}
 }

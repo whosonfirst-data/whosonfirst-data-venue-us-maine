@@ -2,13 +2,14 @@
   "id": 387593285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.150759,44.256124,-70.150759,44.256124",
     "geom:latitude":44.256124,
     "geom:longitude":-70.150759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Jordan Dr",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387593285,
-    "wof:lastmodified":1449058632,
+    "wof:lastmodified":1466586217,
     "wof:name":"Jordan Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-70.150759,44.256124,-70.150759,44.256124],
-  "geometry": {"coordinates":[-70.150759,44.256124],"type":"Point"}
+  "bbox": [
+    -70.150759,
+    44.256124,
+    -70.150759,
+    44.256124
+],
+  "geometry": {"coordinates":[-70.15075899999999,44.256124],"type":"Point"}
 }

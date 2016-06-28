@@ -2,13 +2,14 @@
   "id": 404028899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.999511,46.853975,-67.999511,46.853975",
     "geom:latitude":46.853975,
     "geom:longitude":-67.999511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Fort Fairfield Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404028899,
-    "wof:lastmodified":1449039789,
+    "wof:lastmodified":1466585971,
     "wof:name":"Solid Rock",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.999511,46.853975,-67.999511,46.853975],
+  "bbox": [
+    -67.999511,
+    46.853975,
+    -67.999511,
+    46.853975
+],
   "geometry": {"coordinates":[-67.999511,46.853975],"type":"Point"}
 }

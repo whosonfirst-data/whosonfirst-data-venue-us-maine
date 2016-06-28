@@ -2,13 +2,14 @@
   "id": 387709901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.260286,44.281305,-69.260286,44.281305",
     "geom:latitude":44.281305,
     "geom:longitude":-69.260286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"360 Union Rd",
     "sg:city":"Appleton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387709901,
-    "wof:lastmodified":1449056856,
+    "wof:lastmodified":1466586872,
     "wof:name":"Briggs Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.260286,44.281305,-69.260286,44.281305],
-  "geometry": {"coordinates":[-69.260286,44.281305],"type":"Point"}
+  "bbox": [
+    -69.260286,
+    44.281305,
+    -69.260286,
+    44.281305
+],
+  "geometry": {"coordinates":[-69.26028599999999,44.281305],"type":"Point"}
 }

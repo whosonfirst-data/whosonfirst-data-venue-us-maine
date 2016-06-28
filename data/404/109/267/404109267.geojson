@@ -2,13 +2,14 @@
   "id": 404109267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.105392,44.094302,-69.105392,44.094302",
     "geom:latitude":44.094302,
     "geom:longitude":-69.105392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Mechanic St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404109267,
-    "wof:lastmodified":1449039433,
+    "wof:lastmodified":1466586131,
     "wof:name":"Hurricane Island Outward Bound",
     "wof:parent_id":85803709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.105392,44.094302,-69.105392,44.094302],
-  "geometry": {"coordinates":[-69.105392,44.094302],"type":"Point"}
+  "bbox": [
+    -69.105392,
+    44.094302,
+    -69.105392,
+    44.094302
+],
+  "geometry": {"coordinates":[-69.10539199999999,44.094302],"type":"Point"}
 }

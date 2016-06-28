@@ -2,13 +2,14 @@
   "id": 387754981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.391126,44.112552,-70.391126,44.112552",
     "geom:latitude":44.112552,
     "geom:longitude":-70.391126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Water St",
     "sg:city":"Mechanic Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387754981,
-    "wof:lastmodified":1449058606,
+    "wof:lastmodified":1466586913,
     "wof:name":"Shaw's Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-70.391126,44.112552,-70.391126,44.112552],
+  "bbox": [
+    -70.391126,
+    44.112552,
+    -70.391126,
+    44.112552
+],
   "geometry": {"coordinates":[-70.391126,44.112552],"type":"Point"}
 }

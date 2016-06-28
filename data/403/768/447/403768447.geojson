@@ -2,13 +2,14 @@
   "id": 403768447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.93374,43.967681,-69.93374,43.967681",
     "geom:latitude":43.967681,
     "geom:longitude":-69.93374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Cathance Rd",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403768447,
-    "wof:lastmodified":1449055143,
+    "wof:lastmodified":1466586506,
     "wof:name":"Superior Electric Co Inc",
     "wof:parent_id":85809811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.93374,43.967681,-69.93374,43.967681],
+  "bbox": [
+    -69.93374,
+    43.967681,
+    -69.93374,
+    43.967681
+],
   "geometry": {"coordinates":[-69.93374,43.967681],"type":"Point"}
 }

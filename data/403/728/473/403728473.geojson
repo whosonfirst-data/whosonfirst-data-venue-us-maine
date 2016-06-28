@@ -2,13 +2,14 @@
   "id": 403728473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.2909,43.683495,-70.2909,43.683495",
     "geom:latitude":43.683495,
     "geom:longitude":-70.2909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403728473,
-    "wof:lastmodified":1449054952,
+    "wof:lastmodified":1466585949,
     "wof:name":"Protea Behavioral Health Svc",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-70.2909,43.683495,-70.2909,43.683495],
-  "geometry": {"coordinates":[-70.2909,43.683495],"type":"Point"}
+  "bbox": [
+    -70.2909,
+    43.683495,
+    -70.2909,
+    43.683495
+],
+  "geometry": {"coordinates":[-70.29089999999999,43.683495],"type":"Point"}
 }

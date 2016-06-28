@@ -2,13 +2,14 @@
   "id": 403766827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.788313,44.408236,-70.788313,44.408236",
     "geom:latitude":44.408236,
     "geom:longitude":-70.788313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Vernon St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403766827,
-    "wof:lastmodified":1449054611,
+    "wof:lastmodified":1466586486,
     "wof:name":"Dale W Buck Carpentry",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-70.788313,44.408236,-70.788313,44.408236],
+  "bbox": [
+    -70.788313,
+    44.408236,
+    -70.788313,
+    44.408236
+],
   "geometry": {"coordinates":[-70.788313,44.408236],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387706991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.222315,44.082237,-70.222315,44.082237",
     "geom:latitude":44.082237,
     "geom:longitude":-70.222315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Fulton St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387706991,
-    "wof:lastmodified":1449056381,
+    "wof:lastmodified":1466586867,
     "wof:name":"A P Masonry",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.222315,44.082237,-70.222315,44.082237],
-  "geometry": {"coordinates":[-70.222315,44.082237],"type":"Point"}
+  "bbox": [
+    -70.222315,
+    44.082237,
+    -70.222315,
+    44.082237
+],
+  "geometry": {"coordinates":[-70.22231499999999,44.082237],"type":"Point"}
 }

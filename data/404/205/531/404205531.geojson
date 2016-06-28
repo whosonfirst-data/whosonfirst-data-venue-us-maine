@@ -2,13 +2,14 @@
   "id": 404205531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.783087,44.298158,-69.783087,44.298158",
     "geom:latitude":44.298158,
     "geom:longitude":-69.783087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 State St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404205531,
-    "wof:lastmodified":1449039831,
+    "wof:lastmodified":1466586865,
     "wof:name":"Maine Technical College System",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institute"
     ]
 },
-  "bbox": [-69.783087,44.298158,-69.783087,44.298158],
-  "geometry": {"coordinates":[-69.783087,44.298158],"type":"Point"}
+  "bbox": [
+    -69.783087,
+    44.298158,
+    -69.783087,
+    44.298158
+],
+  "geometry": {"coordinates":[-69.78308699999999,44.298158],"type":"Point"}
 }

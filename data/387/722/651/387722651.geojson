@@ -2,13 +2,14 @@
   "id": 387722651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.652581,44.934663,-68.652581,44.934663",
     "geom:latitude":44.934663,
     "geom:longitude":-68.652581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Middle St",
     "sg:city":"Cardville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387722651,
-    "wof:lastmodified":1449057434,
+    "wof:lastmodified":1466586889,
     "wof:name":"Ron Carpenter Lavoie",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.652581,44.934663,-68.652581,44.934663],
+  "bbox": [
+    -68.652581,
+    44.934663,
+    -68.652581,
+    44.934663
+],
   "geometry": {"coordinates":[-68.652581,44.934663],"type":"Point"}
 }

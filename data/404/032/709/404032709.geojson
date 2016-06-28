@@ -2,13 +2,14 @@
   "id": 404032709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.915647,44.458218,-68.915647,44.458218",
     "geom:latitude":44.458218,
     "geom:longitude":-68.915647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E Main St",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404032709,
-    "wof:lastmodified":1449039599,
+    "wof:lastmodified":1466585999,
     "wof:name":"Carriage House Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-68.915647,44.458218,-68.915647,44.458218],
-  "geometry": {"coordinates":[-68.915647,44.458218],"type":"Point"}
+  "bbox": [
+    -68.915647,
+    44.458218,
+    -68.915647,
+    44.458218
+],
+  "geometry": {"coordinates":[-68.91564700000001,44.458218],"type":"Point"}
 }

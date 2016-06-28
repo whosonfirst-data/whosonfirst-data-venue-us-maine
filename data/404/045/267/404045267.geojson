@@ -2,13 +2,14 @@
   "id": 404045267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.458159,44.535133,-70.458159,44.535133",
     "geom:latitude":44.535133,
     "geom:longitude":-70.458159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Pine St",
     "sg:city":"Dixfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404045267,
-    "wof:lastmodified":1449040181,
+    "wof:lastmodified":1466586188,
     "wof:name":"Richardson Hollow Assoc Inc",
     "wof:parent_id":85814509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-70.458159,44.535133,-70.458159,44.535133],
-  "geometry": {"coordinates":[-70.458159,44.535133],"type":"Point"}
+  "bbox": [
+    -70.458159,
+    44.535133,
+    -70.458159,
+    44.535133
+],
+  "geometry": {"coordinates":[-70.45815899999999,44.535133],"type":"Point"}
 }

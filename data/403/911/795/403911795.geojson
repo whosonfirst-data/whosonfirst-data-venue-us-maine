@@ -2,13 +2,14 @@
   "id": 403911795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.122683,43.838519,-70.122683,43.838519",
     "geom:latitude":43.838519,
     "geom:longitude":-70.122683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 US Hwy 1",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403911795,
-    "wof:lastmodified":1449055756,
+    "wof:lastmodified":1466586955,
     "wof:name":"Cuddledown",
     "wof:parent_id":85813291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "linen"
     ]
 },
-  "bbox": [-70.122683,43.838519,-70.122683,43.838519],
-  "geometry": {"coordinates":[-70.122683,43.838519],"type":"Point"}
+  "bbox": [
+    -70.122683,
+    43.838519,
+    -70.122683,
+    43.838519
+],
+  "geometry": {"coordinates":[-70.12268299999999,43.838519],"type":"Point"}
 }

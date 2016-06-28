@@ -2,13 +2,14 @@
   "id": 404151385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.919907,43.907097,-69.919907,43.907097",
     "geom:latitude":43.907097,
     "geom:longitude":-69.919907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"178 Bath Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404151385,
-    "wof:lastmodified":1449039095,
+    "wof:lastmodified":1466586724,
     "wof:name":"Atkinsons Embroidery Stud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.919907,43.907097,-69.919907,43.907097],
-  "geometry": {"coordinates":[-69.919907,43.907097],"type":"Point"}
+  "bbox": [
+    -69.919907,
+    43.907097,
+    -69.919907,
+    43.907097
+],
+  "geometry": {"coordinates":[-69.91990699999999,43.907097],"type":"Point"}
 }

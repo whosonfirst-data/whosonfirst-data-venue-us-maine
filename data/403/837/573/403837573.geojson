@@ -2,13 +2,14 @@
   "id": 403837573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.756558,44.790395,-68.756558,44.790395",
     "geom:latitude":44.790395,
     "geom:longitude":-68.756558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 State St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403837573,
-    "wof:lastmodified":1449054835,
+    "wof:lastmodified":1466586557,
     "wof:name":"State Street School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.756558,44.790395,-68.756558,44.790395],
+  "bbox": [
+    -68.756558,
+    44.790395,
+    -68.756558,
+    44.790395
+],
   "geometry": {"coordinates":[-68.756558,44.790395],"type":"Point"}
 }

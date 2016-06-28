@@ -2,13 +2,14 @@
   "id": 404136237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.379787,45.166661,-69.379787,45.166661",
     "geom:latitude":45.166661,
     "geom:longitude":-69.379787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Park St",
     "sg:city":"Guilford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404136237,
-    "wof:lastmodified":1449040311,
+    "wof:lastmodified":1466586547,
     "wof:name":"Guilford Clinic Northwoods",
     "wof:parent_id":85806555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-69.379787,45.166661,-69.379787,45.166661],
-  "geometry": {"coordinates":[-69.379787,45.166661],"type":"Point"}
+  "bbox": [
+    -69.379787,
+    45.166661,
+    -69.379787,
+    45.166661
+],
+  "geometry": {"coordinates":[-69.37978699999999,45.166661],"type":"Point"}
 }

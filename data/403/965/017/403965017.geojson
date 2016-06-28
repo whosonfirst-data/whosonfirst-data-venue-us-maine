@@ -2,13 +2,14 @@
   "id": 403965017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.485601,43.544399,-70.485601,43.544399",
     "geom:latitude":43.544399,
     "geom:longitude":-70.485601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Buxton Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403965017,
-    "wof:lastmodified":1449055541,
+    "wof:lastmodified":1466587116,
     "wof:name":"Breezy Meadow Horse Farm",
     "wof:parent_id":85847051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.485601,43.544399,-70.485601,43.544399],
+  "bbox": [
+    -70.485601,
+    43.544399,
+    -70.485601,
+    43.544399
+],
   "geometry": {"coordinates":[-70.485601,43.544399],"type":"Point"}
 }

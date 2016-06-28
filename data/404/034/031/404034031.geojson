@@ -2,13 +2,14 @@
   "id": 404034031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.022811,43.938529,-70.022811,43.938529",
     "geom:latitude":43.938529,
     "geom:longitude":-70.022811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 River Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404034031,
-    "wof:lastmodified":1449039152,
+    "wof:lastmodified":1466586009,
     "wof:name":"Rocky Hill Greenhouses",
     "wof:parent_id":85813909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.022811,43.938529,-70.022811,43.938529],
+  "bbox": [
+    -70.022811,
+    43.938529,
+    -70.022811,
+    43.938529
+],
   "geometry": {"coordinates":[-70.022811,43.938529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404163745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.196103,44.105591,-70.196103,44.105591",
     "geom:latitude":44.105591,
     "geom:longitude":-70.196103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Russell St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404163745,
-    "wof:lastmodified":1449040307,
+    "wof:lastmodified":1466586876,
     "wof:name":"George N Morrissette MD",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.196103,44.105591,-70.196103,44.105591],
-  "geometry": {"coordinates":[-70.196103,44.105591],"type":"Point"}
+  "bbox": [
+    -70.196103,
+    44.105591,
+    -70.196103,
+    44.105591
+],
+  "geometry": {"coordinates":[-70.19610299999999,44.105591],"type":"Point"}
 }

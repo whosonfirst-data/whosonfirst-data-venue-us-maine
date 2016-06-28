@@ -2,13 +2,14 @@
   "id": 403831205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.456192,43.494483,-70.456192,43.494483",
     "geom:latitude":43.494483,
     "geom:longitude":-70.456192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Lincoln St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403831205,
-    "wof:lastmodified":1449055426,
+    "wof:lastmodified":1466586450,
     "wof:name":"Udomsay & Ventura Woodworkers",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.456192,43.494483,-70.456192,43.494483],
+  "bbox": [
+    -70.456192,
+    43.494483,
+    -70.456192,
+    43.494483
+],
   "geometry": {"coordinates":[-70.456192,43.494483],"type":"Point"}
 }

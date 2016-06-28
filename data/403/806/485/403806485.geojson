@@ -2,13 +2,14 @@
   "id": 403806485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.998941,46.676684,-67.998941,46.676684",
     "geom:latitude":46.676684,
     "geom:longitude":-67.998941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Academy St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403806485,
-    "wof:lastmodified":1449054625,
+    "wof:lastmodified":1466586050,
     "wof:name":"Horizons Sleep Medicine",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-67.998941,46.676684,-67.998941,46.676684],
+  "bbox": [
+    -67.998941,
+    46.676684,
+    -67.998941,
+    46.676684
+],
   "geometry": {"coordinates":[-67.998941,46.676684],"type":"Point"}
 }

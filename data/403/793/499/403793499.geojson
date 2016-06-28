@@ -2,13 +2,14 @@
   "id": 403793499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.174345,43.791908,-70.174345,43.791908",
     "geom:latitude":43.791908,
     "geom:longitude":-70.174345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Lafayette St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403793499,
-    "wof:lastmodified":1449055368,
+    "wof:lastmodified":1466585856,
     "wof:name":"CMA Engineers Inc",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-70.174345,43.791908,-70.174345,43.791908],
+  "bbox": [
+    -70.174345,
+    43.791908,
+    -70.174345,
+    43.791908
+],
   "geometry": {"coordinates":[-70.174345,43.791908],"type":"Point"}
 }

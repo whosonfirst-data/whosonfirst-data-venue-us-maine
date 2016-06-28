@@ -2,13 +2,14 @@
   "id": 404111867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.849308,44.836151,-68.849308,44.836151",
     "geom:latitude":44.836151,
     "geom:longitude":-68.849308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2115 Union St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404111867,
-    "wof:lastmodified":1449040352,
+    "wof:lastmodified":1466586172,
     "wof:name":"Hendersons Redware",
     "wof:parent_id":85848853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-68.849308,44.836151,-68.849308,44.836151],
-  "geometry": {"coordinates":[-68.849308,44.836151],"type":"Point"}
+  "bbox": [
+    -68.849308,
+    44.836151,
+    -68.849308,
+    44.836151
+],
+  "geometry": {"coordinates":[-68.84930799999999,44.836151],"type":"Point"}
 }

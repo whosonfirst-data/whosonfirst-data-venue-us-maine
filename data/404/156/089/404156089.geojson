@@ -2,13 +2,14 @@
   "id": 404156089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.178365,44.102889,-70.178365,44.102889",
     "geom:latitude":44.102889,
     "geom:longitude":-70.178365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"699 Sabattus St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404156089,
-    "wof:lastmodified":1449039286,
+    "wof:lastmodified":1466586665,
     "wof:name":"Chuck's Corner",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.178365,44.102889,-70.178365,44.102889],
+  "bbox": [
+    -70.178365,
+    44.102889,
+    -70.178365,
+    44.102889
+],
   "geometry": {"coordinates":[-70.178365,44.102889],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403813267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.205008,44.611162,-70.205008,44.611162",
     "geom:latitude":44.611162,
     "geom:longitude":-70.205008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Mc Laughlin Rd",
     "sg:city":"Wilton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403813267,
-    "wof:lastmodified":1449054988,
+    "wof:lastmodified":1466586156,
     "wof:name":"Western Maine Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.205008,44.611162,-70.205008,44.611162],
-  "geometry": {"coordinates":[-70.205008,44.611162],"type":"Point"}
+  "bbox": [
+    -70.205008,
+    44.611162,
+    -70.205008,
+    44.611162
+],
+  "geometry": {"coordinates":[-70.20500800000001,44.611162],"type":"Point"}
 }

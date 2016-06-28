@@ -2,13 +2,14 @@
   "id": 404001217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.335535,44.285907,-68.335535,44.285907",
     "geom:latitude":44.285907,
     "geom:longitude":-68.335535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 E Ridge Rd",
     "sg:city":"Blue Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404001217,
-    "wof:lastmodified":1449039330,
+    "wof:lastmodified":1466585678,
     "wof:name":"Blue Hill Superintendent-Schl",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.335535,44.285907,-68.335535,44.285907],
-  "geometry": {"coordinates":[-68.335535,44.285907],"type":"Point"}
+  "bbox": [
+    -68.335535,
+    44.285907,
+    -68.335535,
+    44.285907
+],
+  "geometry": {"coordinates":[-68.33553499999999,44.285907],"type":"Point"}
 }

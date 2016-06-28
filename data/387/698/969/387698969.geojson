@@ -2,13 +2,14 @@
   "id": 387698969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.760937,44.774765,-68.760937,44.774765",
     "geom:latitude":44.774765,
     "geom:longitude":-68.760937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Birchwood Blvd",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387698969,
-    "wof:lastmodified":1449059685,
+    "wof:lastmodified":1466586730,
     "wof:name":"Farley & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "handling"
     ]
 },
-  "bbox": [-68.760937,44.774765,-68.760937,44.774765],
+  "bbox": [
+    -68.760937,
+    44.774765,
+    -68.760937,
+    44.774765
+],
   "geometry": {"coordinates":[-68.760937,44.774765],"type":"Point"}
 }

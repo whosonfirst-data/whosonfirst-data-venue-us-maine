@@ -2,13 +2,14 @@
   "id": 387936111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.452846,43.490285,-70.452846,43.490285",
     "geom:latitude":43.490285,
     "geom:longitude":-70.452846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Hill St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387936111,
-    "wof:lastmodified":1449057368,
+    "wof:lastmodified":1466587266,
     "wof:name":"Victory Chapel",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.452846,43.490285,-70.452846,43.490285],
-  "geometry": {"coordinates":[-70.452846,43.490285],"type":"Point"}
+  "bbox": [
+    -70.452846,
+    43.490285,
+    -70.452846,
+    43.490285
+],
+  "geometry": {"coordinates":[-70.45284599999999,43.490285],"type":"Point"}
 }

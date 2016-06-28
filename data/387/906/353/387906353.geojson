@@ -2,13 +2,14 @@
   "id": 387906353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.771099,44.802766,-68.771099,44.802766",
     "geom:latitude":44.802766,
     "geom:longitude":-68.771099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Central St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387906353,
-    "wof:lastmodified":1449057549,
+    "wof:lastmodified":1466587316,
     "wof:name":"House Of Brides",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bridal"
     ]
 },
-  "bbox": [-68.771099,44.802766,-68.771099,44.802766],
-  "geometry": {"coordinates":[-68.771099,44.802766],"type":"Point"}
+  "bbox": [
+    -68.771099,
+    44.802766,
+    -68.771099,
+    44.802766
+],
+  "geometry": {"coordinates":[-68.77109900000001,44.802766],"type":"Point"}
 }

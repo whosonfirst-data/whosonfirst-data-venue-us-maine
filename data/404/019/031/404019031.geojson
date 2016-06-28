@@ -2,13 +2,14 @@
   "id": 404019031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.819165,43.914493,-69.819165,43.914493",
     "geom:latitude":43.914493,
     "geom:longitude":-69.819165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 High St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404019031,
-    "wof:lastmodified":1449039816,
+    "wof:lastmodified":1466585879,
     "wof:name":"Statewide Granite",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.819165,43.914493,-69.819165,43.914493],
+  "bbox": [
+    -69.819165,
+    43.914493,
+    -69.819165,
+    43.914493
+],
   "geometry": {"coordinates":[-69.819165,43.914493],"type":"Point"}
 }

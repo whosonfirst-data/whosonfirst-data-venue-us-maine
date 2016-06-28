@@ -2,13 +2,14 @@
   "id": 387939853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.414594,44.538214,-68.414594,44.538214",
     "geom:latitude":44.538214,
     "geom:longitude":-68.414594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 High St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387939853,
-    "wof:lastmodified":1449057215,
+    "wof:lastmodified":1466587284,
     "wof:name":"Richard Parks Gallery",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.414594,44.538214,-68.414594,44.538214],
-  "geometry": {"coordinates":[-68.414594,44.538214],"type":"Point"}
+  "bbox": [
+    -68.414594,
+    44.538214,
+    -68.414594,
+    44.538214
+],
+  "geometry": {"coordinates":[-68.41459399999999,44.538214],"type":"Point"}
 }

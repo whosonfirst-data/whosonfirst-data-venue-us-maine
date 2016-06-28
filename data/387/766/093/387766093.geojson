@@ -2,13 +2,14 @@
   "id": 387766093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.768726,44.807295,-68.768726,44.807295",
     "geom:latitude":44.807295,
     "geom:longitude":-68.768726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Broadway",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387766093,
-    "wof:lastmodified":1449056063,
+    "wof:lastmodified":1466586949,
     "wof:name":"Pingree Associates Inc",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forester"
     ]
 },
-  "bbox": [-68.768726,44.807295,-68.768726,44.807295],
+  "bbox": [
+    -68.768726,
+    44.807295,
+    -68.768726,
+    44.807295
+],
   "geometry": {"coordinates":[-68.768726,44.807295],"type":"Point"}
 }

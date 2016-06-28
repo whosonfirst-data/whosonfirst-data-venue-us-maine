@@ -2,13 +2,14 @@
   "id": 403918967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.858787,44.405446,-70.858787,44.405446",
     "geom:latitude":44.405446,
     "geom:longitude":-70.858787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Ferry Rd",
     "sg:city":"Hanover",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403918967,
-    "wof:lastmodified":1449055513,
+    "wof:lastmodified":1466586975,
     "wof:name":"Hanover Town Office",
     "wof:parent_id":85833087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-70.858787,44.405446,-70.858787,44.405446],
-  "geometry": {"coordinates":[-70.858787,44.405446],"type":"Point"}
+  "bbox": [
+    -70.858787,
+    44.405446,
+    -70.858787,
+    44.405446
+],
+  "geometry": {"coordinates":[-70.85878700000001,44.405446],"type":"Point"}
 }

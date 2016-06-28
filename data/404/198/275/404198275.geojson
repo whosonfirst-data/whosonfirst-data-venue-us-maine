@@ -2,13 +2,14 @@
   "id": 404198275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.51513,43.909931,-69.51513,43.909931",
     "geom:latitude":43.909931,
     "geom:longitude":-69.51513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 Bristol Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404198275,
-    "wof:lastmodified":1449039459,
+    "wof:lastmodified":1466586912,
     "wof:name":"S F Prentice & Son Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.51513,43.909931,-69.51513,43.909931],
+  "bbox": [
+    -69.51513,
+    43.909931,
+    -69.51513,
+    43.909931
+],
   "geometry": {"coordinates":[-69.51513,43.909931],"type":"Point"}
 }

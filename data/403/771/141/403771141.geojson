@@ -2,13 +2,14 @@
   "id": 403771141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.82633,46.907832,-67.82633,46.907832",
     "geom:latitude":46.907832,
     "geom:longitude":-67.82633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Vernon St",
     "sg:city":"Limestone",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403771141,
-    "wof:lastmodified":1449055353,
+    "wof:lastmodified":1466586548,
     "wof:name":"Limestone Laundrmat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.82633,46.907832,-67.82633,46.907832],
+  "bbox": [
+    -67.82633,
+    46.907832,
+    -67.82633,
+    46.907832
+],
   "geometry": {"coordinates":[-67.82633,46.907832],"type":"Point"}
 }

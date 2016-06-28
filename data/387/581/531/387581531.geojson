@@ -2,13 +2,14 @@
   "id": 387581531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.827237,46.909915,-67.827237,46.909915",
     "geom:latitude":46.909915,
     "geom:longitude":-67.827237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Huggard Ave",
     "sg:city":"Limestone",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387581531,
-    "wof:lastmodified":1449056903,
+    "wof:lastmodified":1466586030,
     "wof:name":"Kam Katering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-67.827237,46.909915,-67.827237,46.909915],
+  "bbox": [
+    -67.827237,
+    46.909915,
+    -67.827237,
+    46.909915
+],
   "geometry": {"coordinates":[-67.827237,46.909915],"type":"Point"}
 }

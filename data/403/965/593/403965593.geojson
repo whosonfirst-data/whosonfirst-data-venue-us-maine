@@ -2,13 +2,14 @@
   "id": 403965593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.423504,44.832592,-69.423504,44.832592",
     "geom:latitude":44.832592,
     "geom:longitude":-69.423504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Shy Rd",
     "sg:city":"Palmyra",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403965593,
-    "wof:lastmodified":1449055541,
+    "wof:lastmodified":1466587118,
     "wof:name":"Boulanger Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-69.423504,44.832592,-69.423504,44.832592],
-  "geometry": {"coordinates":[-69.423504,44.832592],"type":"Point"}
+  "bbox": [
+    -69.423504,
+    44.832592,
+    -69.423504,
+    44.832592
+],
+  "geometry": {"coordinates":[-69.42350399999999,44.832592],"type":"Point"}
 }

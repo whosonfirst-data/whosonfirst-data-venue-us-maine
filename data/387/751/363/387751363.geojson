@@ -2,13 +2,14 @@
   "id": 387751363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.104039,44.030545,-70.104039,44.030545",
     "geom:latitude":44.030545,
     "geom:longitude":-70.104039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Lisbon St",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387751363,
-    "wof:lastmodified":1449056328,
+    "wof:lastmodified":1466586903,
     "wof:name":"Farwell Mill",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-70.104039,44.030545,-70.104039,44.030545],
+  "bbox": [
+    -70.104039,
+    44.030545,
+    -70.104039,
+    44.030545
+],
   "geometry": {"coordinates":[-70.104039,44.030545],"type":"Point"}
 }

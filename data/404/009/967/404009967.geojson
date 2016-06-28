@@ -2,13 +2,14 @@
   "id": 404009967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.426942,43.79317,-70.426942,43.79317",
     "geom:latitude":43.79317,
     "geom:longitude":-70.426942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Pope Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404009967,
-    "wof:lastmodified":1449040311,
+    "wof:lastmodified":1466585806,
     "wof:name":"C J Toto & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.426942,43.79317,-70.426942,43.79317],
+  "bbox": [
+    -70.426942,
+    43.79317,
+    -70.426942,
+    43.79317
+],
   "geometry": {"coordinates":[-70.426942,43.79317],"type":"Point"}
 }

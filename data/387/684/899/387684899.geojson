@@ -2,13 +2,14 @@
   "id": 387684899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.169691,43.806681,-70.169691,43.806681",
     "geom:latitude":43.806681,
     "geom:longitude":-70.169691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 US Hwy 1",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387684899,
-    "wof:lastmodified":1449057050,
+    "wof:lastmodified":1466586520,
     "wof:name":"Bill's Of Yarmouth",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.169691,43.806681,-70.169691,43.806681],
+  "bbox": [
+    -70.169691,
+    43.806681,
+    -70.169691,
+    43.806681
+],
   "geometry": {"coordinates":[-70.169691,43.806681],"type":"Point"}
 }

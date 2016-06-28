@@ -2,13 +2,14 @@
   "id": 387936539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.821303,43.156598,-70.821303,43.156598",
     "geom:latitude":43.156598,
     "geom:longitude":-70.821303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Tidy Rd",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387936539,
-    "wof:lastmodified":1449057368,
+    "wof:lastmodified":1466587332,
     "wof:name":"North Ridge Marketing Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "program"
     ]
 },
-  "bbox": [-70.821303,43.156598,-70.821303,43.156598],
+  "bbox": [
+    -70.821303,
+    43.156598,
+    -70.821303,
+    43.156598
+],
   "geometry": {"coordinates":[-70.821303,43.156598],"type":"Point"}
 }

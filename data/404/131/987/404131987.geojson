@@ -2,13 +2,14 @@
   "id": 404131987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.200722,43.804535,-70.200722,43.804535",
     "geom:latitude":43.804535,
     "geom:longitude":-70.200722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 W Main St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404131987,
-    "wof:lastmodified":1449039380,
+    "wof:lastmodified":1466586480,
     "wof:name":"Lintay Enterprises Inc",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.200722,43.804535,-70.200722,43.804535],
+  "bbox": [
+    -70.200722,
+    43.804535,
+    -70.200722,
+    43.804535
+],
   "geometry": {"coordinates":[-70.200722,43.804535],"type":"Point"}
 }

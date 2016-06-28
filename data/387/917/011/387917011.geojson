@@ -2,13 +2,14 @@
   "id": 387917011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.367436,43.758705,-70.367436,43.758705",
     "geom:latitude":43.758705,
     "geom:longitude":-70.367436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387917011,
-    "wof:lastmodified":1449059423,
+    "wof:lastmodified":1466587170,
     "wof:name":"Peasley Elec & Communications",
     "wof:parent_id":85825127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic"
     ]
 },
-  "bbox": [-70.367436,43.758705,-70.367436,43.758705],
+  "bbox": [
+    -70.367436,
+    43.758705,
+    -70.367436,
+    43.758705
+],
   "geometry": {"coordinates":[-70.367436,43.758705],"type":"Point"}
 }

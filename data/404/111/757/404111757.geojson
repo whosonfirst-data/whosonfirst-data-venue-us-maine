@@ -2,13 +2,14 @@
   "id": 404111757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.123063,44.201508,-70.123063,44.201508",
     "geom:latitude":44.201508,
     "geom:longitude":-70.123063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Grey Rd",
     "sg:city":"Greene",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404111757,
-    "wof:lastmodified":1449040353,
+    "wof:lastmodified":1466586169,
     "wof:name":"Lasting Image Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "commercial"
     ]
 },
-  "bbox": [-70.123063,44.201508,-70.123063,44.201508],
+  "bbox": [
+    -70.123063,
+    44.201508,
+    -70.123063,
+    44.201508
+],
   "geometry": {"coordinates":[-70.123063,44.201508],"type":"Point"}
 }

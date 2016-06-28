@@ -2,13 +2,14 @@
   "id": 387592069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.286456,43.670886,-70.286456,43.670886",
     "geom:latitude":43.670886,
     "geom:longitude":-70.286456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 Woodford St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387592069,
-    "wof:lastmodified":1449058292,
+    "wof:lastmodified":1466586673,
     "wof:name":"Starbird Music Academy",
     "wof:parent_id":85858627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-70.286456,43.670886,-70.286456,43.670886],
+  "bbox": [
+    -70.286456,
+    43.670886,
+    -70.286456,
+    43.670886
+],
   "geometry": {"coordinates":[-70.286456,43.670886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403720913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.776672,44.802135,-68.776672,44.802135",
     "geom:latitude":44.802135,
     "geom:longitude":-68.776672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Ohio St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403720913,
-    "wof:lastmodified":1449054961,
+    "wof:lastmodified":1466585856,
     "wof:name":"A A Tom's Appliance Svc",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.776672,44.802135,-68.776672,44.802135],
+  "bbox": [
+    -68.776672,
+    44.802135,
+    -68.776672,
+    44.802135
+],
   "geometry": {"coordinates":[-68.776672,44.802135],"type":"Point"}
 }

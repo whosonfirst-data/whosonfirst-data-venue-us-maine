@@ -2,13 +2,14 @@
   "id": 387780711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.913269,44.872774,-68.913269,44.872774",
     "geom:latitude":44.872774,
     "geom:longitude":-68.913269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Phillips Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387780711,
-    "wof:lastmodified":1449058959,
+    "wof:lastmodified":1466586998,
     "wof:name":"Kevin Bennett Photography",
     "wof:parent_id":85855557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "commercial"
     ]
 },
-  "bbox": [-68.913269,44.872774,-68.913269,44.872774],
+  "bbox": [
+    -68.913269,
+    44.872774,
+    -68.913269,
+    44.872774
+],
   "geometry": {"coordinates":[-68.913269,44.872774],"type":"Point"}
 }

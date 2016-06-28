@@ -2,13 +2,14 @@
   "id": 387847517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.288286,44.294326,-68.288286,44.294326",
     "geom:latitude":44.294326,
     "geom:longitude":-68.288286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Sea St",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387847517,
-    "wof:lastmodified":1449057482,
+    "wof:lastmodified":1466587221,
     "wof:name":"Intrntnl Aqua Foods USA Inc",
     "wof:parent_id":85803817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aquaculture"
     ]
 },
-  "bbox": [-68.288286,44.294326,-68.288286,44.294326],
+  "bbox": [
+    -68.288286,
+    44.294326,
+    -68.288286,
+    44.294326
+],
   "geometry": {"coordinates":[-68.288286,44.294326],"type":"Point"}
 }

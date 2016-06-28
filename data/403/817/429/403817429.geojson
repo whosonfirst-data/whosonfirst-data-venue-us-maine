@@ -2,13 +2,14 @@
   "id": 403817429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.59013,47.264682,-68.59013,47.264682",
     "geom:latitude":47.264682,
     "geom:longitude":-68.59013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Bolduc Ave",
     "sg:city":"Fort Kent",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403817429,
-    "wof:lastmodified":1449055700,
+    "wof:lastmodified":1466586222,
     "wof:name":"Forest Hill",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.59013,47.264682,-68.59013,47.264682],
+  "bbox": [
+    -68.59013,
+    47.264682,
+    -68.59013,
+    47.264682
+],
   "geometry": {"coordinates":[-68.59013,47.264682],"type":"Point"}
 }

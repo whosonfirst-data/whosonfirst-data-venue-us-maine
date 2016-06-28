@@ -2,13 +2,14 @@
   "id": 403872421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.240107,43.64419,-70.240107,43.64419",
     "geom:latitude":43.64419,
     "geom:longitude":-70.240107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"187 Sawyer St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403872421,
-    "wof:lastmodified":1449054754,
+    "wof:lastmodified":1466586797,
     "wof:name":"Reo Marine Svc",
     "wof:parent_id":85867975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-70.240107,43.64419,-70.240107,43.64419],
-  "geometry": {"coordinates":[-70.240107,43.64419],"type":"Point"}
+  "bbox": [
+    -70.240107,
+    43.64419,
+    -70.240107,
+    43.64419
+],
+  "geometry": {"coordinates":[-70.24010699999999,43.64419],"type":"Point"}
 }

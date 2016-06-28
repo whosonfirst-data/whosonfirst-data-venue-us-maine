@@ -2,13 +2,14 @@
   "id": 387670479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.453875,43.48587,-70.453875,43.48587",
     "geom:latitude":43.48587,
     "geom:longitude":-70.453875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Harmon St",
     "sg:city":"Cumberland Center",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387670479,
-    "wof:lastmodified":1449056676,
+    "wof:lastmodified":1466586288,
     "wof:name":"Cumberland House Antiques",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.453875,43.48587,-70.453875,43.48587],
+  "bbox": [
+    -70.453875,
+    43.48587,
+    -70.453875,
+    43.48587
+],
   "geometry": {"coordinates":[-70.453875,43.48587],"type":"Point"}
 }

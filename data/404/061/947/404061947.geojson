@@ -2,13 +2,14 @@
   "id": 404061947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.103074,44.195908,-69.103074,44.195908",
     "geom:latitude":44.195908,
     "geom:longitude":-69.103074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Park St",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404061947,
-    "wof:lastmodified":1449039992,
+    "wof:lastmodified":1466586466,
     "wof:name":"Abricom Systems Inc",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-69.103074,44.195908,-69.103074,44.195908],
-  "geometry": {"coordinates":[-69.103074,44.195908],"type":"Point"}
+  "bbox": [
+    -69.103074,
+    44.195908,
+    -69.103074,
+    44.195908
+],
+  "geometry": {"coordinates":[-69.10307400000001,44.195908],"type":"Point"}
 }

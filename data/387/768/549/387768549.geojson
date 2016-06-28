@@ -2,13 +2,14 @@
   "id": 387768549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.268388,43.650334,-70.268388,43.650334",
     "geom:latitude":43.650334,
     "geom:longitude":-70.268388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Clark St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387768549,
-    "wof:lastmodified":1449057569,
+    "wof:lastmodified":1466586964,
     "wof:name":"Designer Greens",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "interior"
     ]
 },
-  "bbox": [-70.268388,43.650334,-70.268388,43.650334],
+  "bbox": [
+    -70.268388,
+    43.650334,
+    -70.268388,
+    43.650334
+],
   "geometry": {"coordinates":[-70.268388,43.650334],"type":"Point"}
 }

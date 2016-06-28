@@ -2,13 +2,14 @@
   "id": 387855875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.134927,47.041125,-68.134927,47.041125",
     "geom:latitude":47.041125,
     "geom:longitude":-68.134927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 School St",
     "sg:city":"Stockholm",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387855875,
-    "wof:lastmodified":1449058912,
+    "wof:lastmodified":1466587176,
     "wof:name":"Stockholm Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.134927,47.041125,-68.134927,47.041125],
+  "bbox": [
+    -68.134927,
+    47.041125,
+    -68.134927,
+    47.041125
+],
   "geometry": {"coordinates":[-68.134927,47.041125],"type":"Point"}
 }

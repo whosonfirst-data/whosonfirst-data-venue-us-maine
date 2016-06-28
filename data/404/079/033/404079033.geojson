@@ -2,13 +2,14 @@
   "id": 404079033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.742601,44.836859,-68.742601,44.836859",
     "geom:latitude":44.836859,
     "geom:longitude":-68.742601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"659 Hogan Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404079033,
-    "wof:lastmodified":1449040108,
+    "wof:lastmodified":1466585723,
     "wof:name":"Malibu Tans",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-68.742601,44.836859,-68.742601,44.836859],
-  "geometry": {"coordinates":[-68.742601,44.836859],"type":"Point"}
+  "bbox": [
+    -68.742601,
+    44.836859,
+    -68.742601,
+    44.836859
+],
+  "geometry": {"coordinates":[-68.74260099999999,44.836859],"type":"Point"}
 }

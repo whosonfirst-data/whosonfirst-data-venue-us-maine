@@ -2,13 +2,14 @@
   "id": 403741303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.869049,44.999144,-68.869049,44.999144",
     "geom:latitude":44.999144,
     "geom:longitude":-68.869049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"188 Old Town Rd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403741303,
-    "wof:lastmodified":1449054696,
+    "wof:lastmodified":1466586072,
     "wof:name":"Don G Grant Building Contrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.869049,44.999144,-68.869049,44.999144],
+  "bbox": [
+    -68.869049,
+    44.999144,
+    -68.869049,
+    44.999144
+],
   "geometry": {"coordinates":[-68.869049,44.999144],"type":"Point"}
 }

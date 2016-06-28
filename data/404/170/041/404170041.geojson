@@ -2,13 +2,14 @@
   "id": 404170041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.073624,43.861075,-70.073624,43.861075",
     "geom:latitude":43.861075,
     "geom:longitude":-70.073624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Pleasant Hill Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404170041,
-    "wof:lastmodified":1449039130,
+    "wof:lastmodified":1466586789,
     "wof:name":"Jmeade Design Concrete Counter",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "counter"
     ]
 },
-  "bbox": [-70.073624,43.861075,-70.073624,43.861075],
+  "bbox": [
+    -70.073624,
+    43.861075,
+    -70.073624,
+    43.861075
+],
   "geometry": {"coordinates":[-70.073624,43.861075],"type":"Point"}
 }

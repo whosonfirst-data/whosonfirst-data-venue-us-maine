@@ -2,13 +2,14 @@
   "id": 387820007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.616294,44.383247,-70.616294,44.383247",
     "geom:latitude":44.383247,
     "geom:longitude":-70.616294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Cushman Rd",
     "sg:city":"Bryant Pond",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387820007,
-    "wof:lastmodified":1449058074,
+    "wof:lastmodified":1466587182,
     "wof:name":"Charlie Reiss - Builder",
     "wof:parent_id":85831117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.616294,44.383247,-70.616294,44.383247],
+  "bbox": [
+    -70.616294,
+    44.383247,
+    -70.616294,
+    44.383247
+],
   "geometry": {"coordinates":[-70.616294,44.383247],"type":"Point"}
 }

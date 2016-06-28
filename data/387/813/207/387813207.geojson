@@ -2,13 +2,14 @@
   "id": 387813207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.316163,44.44019,-70.316163,44.44019",
     "geom:latitude":44.44019,
     "geom:longitude":-70.316163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"191 Main St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387813207,
-    "wof:lastmodified":1449057083,
+    "wof:lastmodified":1466587094,
     "wof:name":"Mt Mica Rarities",
     "wof:parent_id":85821533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mineral"
     ]
 },
-  "bbox": [-70.316163,44.44019,-70.316163,44.44019],
+  "bbox": [
+    -70.316163,
+    44.44019,
+    -70.316163,
+    44.44019
+],
   "geometry": {"coordinates":[-70.316163,44.44019],"type":"Point"}
 }

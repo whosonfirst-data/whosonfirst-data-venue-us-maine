@@ -2,13 +2,14 @@
   "id": 403806809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.693714,44.639372,-70.693714,44.639372",
     "geom:latitude":44.639372,
     "geom:longitude":-70.693714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1132 Roxbury Notch Rd",
     "sg:city":"Roxbury",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403806809,
-    "wof:lastmodified":1449054629,
+    "wof:lastmodified":1466586056,
     "wof:name":"Gallant's Discount Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.693714,44.639372,-70.693714,44.639372],
+  "bbox": [
+    -70.693714,
+    44.639372,
+    -70.693714,
+    44.639372
+],
   "geometry": {"coordinates":[-70.693714,44.639372],"type":"Point"}
 }

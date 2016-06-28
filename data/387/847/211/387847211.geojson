@@ -2,13 +2,14 @@
   "id": 387847211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.624576,43.521422,-70.624576,43.521422",
     "geom:latitude":43.521422,
     "geom:longitude":-70.624576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Clarks Woods Rd",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387847211,
-    "wof:lastmodified":1449057480,
+    "wof:lastmodified":1466587150,
     "wof:name":"Boss Automotive Repair",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-70.624576,43.521422,-70.624576,43.521422],
+  "bbox": [
+    -70.624576,
+    43.521422,
+    -70.624576,
+    43.521422
+],
   "geometry": {"coordinates":[-70.624576,43.521422],"type":"Point"}
 }

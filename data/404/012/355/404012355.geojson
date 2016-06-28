@@ -2,13 +2,14 @@
   "id": 404012355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.008273,44.336883,-69.008273,44.336883",
     "geom:latitude":44.336883,
     "geom:longitude":-69.008273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"786 Beech Hill Rd",
     "sg:city":"Lincolnville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404012355,
-    "wof:lastmodified":1449040210,
+    "wof:lastmodified":1466585819,
     "wof:name":"Silver Oak Grove Cnsignment Sp",
     "wof:parent_id":85815339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.008273,44.336883,-69.008273,44.336883],
+  "bbox": [
+    -69.008273,
+    44.336883,
+    -69.008273,
+    44.336883
+],
   "geometry": {"coordinates":[-69.008273,44.336883],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404099207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242745,43.629316,-70.242745,43.629316",
     "geom:latitude":43.629316,
     "geom:longitude":-70.242745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Marsh Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404099207,
-    "wof:lastmodified":1449039916,
+    "wof:lastmodified":1466585986,
     "wof:name":"Grafic Artvertising",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "t"
     ]
 },
-  "bbox": [-70.242745,43.629316,-70.242745,43.629316],
+  "bbox": [
+    -70.242745,
+    43.629316,
+    -70.242745,
+    43.629316
+],
   "geometry": {"coordinates":[-70.242745,43.629316],"type":"Point"}
 }

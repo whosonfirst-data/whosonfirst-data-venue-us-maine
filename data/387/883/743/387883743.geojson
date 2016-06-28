@@ -2,13 +2,14 @@
   "id": 387883743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.777755,44.316454,-69.777755,44.316454",
     "geom:latitude":44.316454,
     "geom:longitude":-69.777755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Oak St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387883743,
-    "wof:lastmodified":1449059017,
+    "wof:lastmodified":1466587304,
     "wof:name":"Paul Mc Clay Consultants",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-69.777755,44.316454,-69.777755,44.316454],
+  "bbox": [
+    -69.777755,
+    44.316454,
+    -69.777755,
+    44.316454
+],
   "geometry": {"coordinates":[-69.777755,44.316454],"type":"Point"}
 }

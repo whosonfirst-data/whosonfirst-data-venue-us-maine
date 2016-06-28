@@ -2,13 +2,14 @@
   "id": 404108765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.676101,43.151593,-70.676101,43.151593",
     "geom:latitude":43.151593,
     "geom:longitude":-70.676101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 S Berwick Rd",
     "sg:city":"South Berwick",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404108765,
-    "wof:lastmodified":1449039110,
+    "wof:lastmodified":1466586125,
     "wof:name":"12 Portland Street Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.676101,43.151593,-70.676101,43.151593],
+  "bbox": [
+    -70.676101,
+    43.151593,
+    -70.676101,
+    43.151593
+],
   "geometry": {"coordinates":[-70.676101,43.151593],"type":"Point"}
 }

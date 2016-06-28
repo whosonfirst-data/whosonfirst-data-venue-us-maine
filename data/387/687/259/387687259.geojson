@@ -2,13 +2,14 @@
   "id": 387687259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.525145,44.19495,-70.525145,44.19495",
     "geom:latitude":44.19495,
     "geom:longitude":-70.525145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1569 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387687259,
-    "wof:lastmodified":1449057164,
+    "wof:lastmodified":1466586559,
     "wof:name":"Homeland Security & Fire",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-70.525145,44.19495,-70.525145,44.19495],
-  "geometry": {"coordinates":[-70.525145,44.19495],"type":"Point"}
+  "bbox": [
+    -70.525145,
+    44.19495,
+    -70.525145,
+    44.19495
+],
+  "geometry": {"coordinates":[-70.52514499999999,44.19495],"type":"Point"}
 }

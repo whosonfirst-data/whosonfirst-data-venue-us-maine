@@ -2,13 +2,14 @@
   "id": 403977407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.135975,46.672184,-68.135975,46.672184",
     "geom:latitude":46.672184,
     "geom:longitude":-68.135975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Wonderview Dr",
     "sg:city":"Mapleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403977407,
-    "wof:lastmodified":1449056008,
+    "wof:lastmodified":1466587136,
     "wof:name":"Estey Water Wells",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-68.135975,46.672184,-68.135975,46.672184],
+  "bbox": [
+    -68.135975,
+    46.672184,
+    -68.135975,
+    46.672184
+],
   "geometry": {"coordinates":[-68.135975,46.672184],"type":"Point"}
 }

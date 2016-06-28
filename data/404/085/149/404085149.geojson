@@ -2,13 +2,14 @@
   "id": 404085149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.984381,44.904725,-66.984381,44.904725",
     "geom:latitude":44.904725,
     "geom:longitude":-66.984381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Water St",
     "sg:city":"Blue Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404085149,
-    "wof:lastmodified":1449039344,
+    "wof:lastmodified":1466585809,
     "wof:name":"Blue Hill Memorial Hospital",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-66.984381,44.904725,-66.984381,44.904725],
+  "bbox": [
+    -66.984381,
+    44.904725,
+    -66.984381,
+    44.904725
+],
   "geometry": {"coordinates":[-66.984381,44.904725],"type":"Point"}
 }

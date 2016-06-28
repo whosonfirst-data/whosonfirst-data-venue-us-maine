@@ -2,13 +2,14 @@
   "id": 387557283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.268851,44.211318,-70.268851,44.211318",
     "geom:latitude":44.211318,
     "geom:longitude":-70.268851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 County Rd",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387557283,
-    "wof:lastmodified":1449058821,
+    "wof:lastmodified":1466585708,
     "wof:name":"Dick's Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.268851,44.211318,-70.268851,44.211318],
+  "bbox": [
+    -70.268851,
+    44.211318,
+    -70.268851,
+    44.211318
+],
   "geometry": {"coordinates":[-70.268851,44.211318],"type":"Point"}
 }

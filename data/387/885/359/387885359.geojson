@@ -2,13 +2,14 @@
   "id": 387885359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.701821,43.165863,-70.701821,43.165863",
     "geom:latitude":43.165863,
     "geom:longitude":-70.701821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Sargents Ln",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387885359,
-    "wof:lastmodified":1449058125,
+    "wof:lastmodified":1466587306,
     "wof:name":"Pen Point Graphics",
     "wof:parent_id":85820011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-70.701821,43.165863,-70.701821,43.165863],
+  "bbox": [
+    -70.701821,
+    43.165863,
+    -70.701821,
+    43.165863
+],
   "geometry": {"coordinates":[-70.701821,43.165863],"type":"Point"}
 }

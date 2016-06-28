@@ -2,13 +2,14 @@
   "id": 404041625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.869655,44.698614,-68.869655,44.698614",
     "geom:latitude":44.698614,
     "geom:longitude":-68.869655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"469 Back Winterport Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404041625,
-    "wof:lastmodified":1449039457,
+    "wof:lastmodified":1466586105,
     "wof:name":"Dawgs Day Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "kennel"
     ]
 },
-  "bbox": [-68.869655,44.698614,-68.869655,44.698614],
-  "geometry": {"coordinates":[-68.869655,44.698614],"type":"Point"}
+  "bbox": [
+    -68.869655,
+    44.698614,
+    -68.869655,
+    44.698614
+],
+  "geometry": {"coordinates":[-68.86965499999999,44.698614],"type":"Point"}
 }

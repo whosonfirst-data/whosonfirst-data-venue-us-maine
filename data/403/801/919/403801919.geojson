@@ -2,13 +2,14 @@
   "id": 403801919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.986982,44.905203,-66.986982,44.905203",
     "geom:latitude":44.905203,
     "geom:longitude":-66.986982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Boynton St",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403801919,
-    "wof:lastmodified":1449055743,
+    "wof:lastmodified":1466585977,
     "wof:name":"Weston House Bed & Breakfast",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-66.986982,44.905203,-66.986982,44.905203],
+  "bbox": [
+    -66.986982,
+    44.905203,
+    -66.986982,
+    44.905203
+],
   "geometry": {"coordinates":[-66.986982,44.905203],"type":"Point"}
 }

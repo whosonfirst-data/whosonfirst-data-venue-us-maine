@@ -2,13 +2,14 @@
   "id": 387643709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.763151,44.796579,-68.763151,44.796579",
     "geom:latitude":44.796579,
     "geom:longitude":-68.763151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Betton St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387643709,
-    "wof:lastmodified":1449059415,
+    "wof:lastmodified":1466585924,
     "wof:name":"Arcadia Health Svc",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-68.763151,44.796579,-68.763151,44.796579],
-  "geometry": {"coordinates":[-68.763151,44.796579],"type":"Point"}
+  "bbox": [
+    -68.763151,
+    44.796579,
+    -68.763151,
+    44.796579
+],
+  "geometry": {"coordinates":[-68.76315099999999,44.796579],"type":"Point"}
 }

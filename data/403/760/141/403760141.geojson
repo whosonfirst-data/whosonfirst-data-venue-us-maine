@@ -2,13 +2,14 @@
   "id": 403760141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.514396,44.532596,-70.514396,44.532596",
     "geom:latitude":44.532596,
     "geom:longitude":-70.514396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 State Rte 108",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403760141,
-    "wof:lastmodified":1449055895,
+    "wof:lastmodified":1466586407,
     "wof:name":"Puiia Automotive & Refinishing",
     "wof:parent_id":85853959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-70.514396,44.532596,-70.514396,44.532596],
+  "bbox": [
+    -70.514396,
+    44.532596,
+    -70.514396,
+    44.532596
+],
   "geometry": {"coordinates":[-70.514396,44.532596],"type":"Point"}
 }

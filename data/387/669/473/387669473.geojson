@@ -2,13 +2,14 @@
   "id": 387669473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.417689,44.544294,-68.417689,44.544294",
     "geom:latitude":44.544294,
     "geom:longitude":-68.417689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Union St",
     "sg:city":"Blue Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387669473,
-    "wof:lastmodified":1449056544,
+    "wof:lastmodified":1466586271,
     "wof:name":"Captain Merrill Inn & Rstrnt",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-68.417689,44.544294,-68.417689,44.544294],
+  "bbox": [
+    -68.417689,
+    44.544294,
+    -68.417689,
+    44.544294
+],
   "geometry": {"coordinates":[-68.417689,44.544294],"type":"Point"}
 }

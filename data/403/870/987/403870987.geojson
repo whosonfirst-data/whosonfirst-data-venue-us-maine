@@ -2,13 +2,14 @@
   "id": 403870987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.258764,45.180647,-67.258764,45.180647",
     "geom:latitude":45.180647,
     "geom:longitude":-67.258764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Main St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403870987,
-    "wof:lastmodified":1449054996,
+    "wof:lastmodified":1466586803,
     "wof:name":"Treworgy Pharmacy",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.258764,45.180647,-67.258764,45.180647],
+  "bbox": [
+    -67.258764,
+    45.180647,
+    -67.258764,
+    45.180647
+],
   "geometry": {"coordinates":[-67.258764,45.180647],"type":"Point"}
 }

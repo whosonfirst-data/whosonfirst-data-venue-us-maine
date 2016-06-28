@@ -2,13 +2,14 @@
   "id": 387678543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.414104,44.073533,-70.414104,44.073533",
     "geom:latitude":44.073533,
     "geom:longitude":-70.414104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1457 Maine St",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387678543,
-    "wof:lastmodified":1449057936,
+    "wof:lastmodified":1466586416,
     "wof:name":"Poland Regional High School",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.414104,44.073533,-70.414104,44.073533],
-  "geometry": {"coordinates":[-70.414104,44.073533],"type":"Point"}
+  "bbox": [
+    -70.414104,
+    44.073533,
+    -70.414104,
+    44.073533
+],
+  "geometry": {"coordinates":[-70.41410399999999,44.073533],"type":"Point"}
 }

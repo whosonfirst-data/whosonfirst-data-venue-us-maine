@@ -2,13 +2,14 @@
   "id": 387797605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.577581,45.630036,-68.577581,45.630036",
     "geom:latitude":45.630036,
     "geom:longitude":-68.577581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Western Ave",
     "sg:city":"East Millinocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387797605,
-    "wof:lastmodified":1449059540,
+    "wof:lastmodified":1466587025,
     "wof:name":"R L Bouchard Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-68.577581,45.630036,-68.577581,45.630036],
+  "bbox": [
+    -68.577581,
+    45.630036,
+    -68.577581,
+    45.630036
+],
   "geometry": {"coordinates":[-68.577581,45.630036],"type":"Point"}
 }

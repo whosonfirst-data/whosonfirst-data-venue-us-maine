@@ -2,13 +2,14 @@
   "id": 387618977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.722888,44.772477,-69.722888,44.772477",
     "geom:latitude":44.772477,
     "geom:longitude":-69.722888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Madison Ave",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387618977,
-    "wof:lastmodified":1449058475,
+    "wof:lastmodified":1466585707,
     "wof:name":"Patricia A Danisinka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-69.722888,44.772477,-69.722888,44.772477],
+  "bbox": [
+    -69.722888,
+    44.772477,
+    -69.722888,
+    44.772477
+],
   "geometry": {"coordinates":[-69.722888,44.772477],"type":"Point"}
 }

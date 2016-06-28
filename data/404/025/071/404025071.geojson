@@ -2,13 +2,14 @@
   "id": 404025071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.294634,43.669031,-70.294634,43.669031",
     "geom:latitude":43.669031,
     "geom:longitude":-70.294634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Rackleff St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404025071,
-    "wof:lastmodified":1449040117,
+    "wof:lastmodified":1466585953,
     "wof:name":"Marilyn Leivian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-70.294634,43.669031,-70.294634,43.669031],
+  "bbox": [
+    -70.294634,
+    43.669031,
+    -70.294634,
+    43.669031
+],
   "geometry": {"coordinates":[-70.294634,43.669031],"type":"Point"}
 }

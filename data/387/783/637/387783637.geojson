@@ -2,13 +2,14 @@
   "id": 387783637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.724117,44.860628,-68.724117,44.860628",
     "geom:latitude":44.860628,
     "geom:longitude":-68.724117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 Stillwater Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387783637,
-    "wof:lastmodified":1449056236,
+    "wof:lastmodified":1466587094,
     "wof:name":"American Concrete Industries",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "block"
     ]
 },
-  "bbox": [-68.724117,44.860628,-68.724117,44.860628],
-  "geometry": {"coordinates":[-68.724117,44.860628],"type":"Point"}
+  "bbox": [
+    -68.724117,
+    44.860628,
+    -68.724117,
+    44.860628
+],
+  "geometry": {"coordinates":[-68.72411700000001,44.860628],"type":"Point"}
 }

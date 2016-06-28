@@ -2,13 +2,14 @@
   "id": 403805635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.589462,44.22226,-69.589462,44.22226",
     "geom:latitude":44.22226,
     "geom:longitude":-69.589462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Grand Army Rd",
     "sg:city":"Whitefield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403805635,
-    "wof:lastmodified":1449055080,
+    "wof:lastmodified":1466586036,
     "wof:name":"Whitefield Country School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "school"
     ]
 },
-  "bbox": [-69.589462,44.22226,-69.589462,44.22226],
+  "bbox": [
+    -69.589462,
+    44.22226,
+    -69.589462,
+    44.22226
+],
   "geometry": {"coordinates":[-69.589462,44.22226],"type":"Point"}
 }

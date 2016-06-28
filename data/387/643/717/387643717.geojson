@@ -2,13 +2,14 @@
   "id": 387643717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.273777,44.307496,-70.273777,44.307496",
     "geom:latitude":44.307496,
     "geom:longitude":-70.273777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 Harlow Hill Rd",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387643717,
-    "wof:lastmodified":1449059414,
+    "wof:lastmodified":1466585925,
     "wof:name":"Wellmans Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-70.273777,44.307496,-70.273777,44.307496],
+  "bbox": [
+    -70.273777,
+    44.307496,
+    -70.273777,
+    44.307496
+],
   "geometry": {"coordinates":[-70.273777,44.307496],"type":"Point"}
 }

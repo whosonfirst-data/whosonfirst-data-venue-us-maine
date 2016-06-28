@@ -2,13 +2,14 @@
   "id": 404178681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.737092,43.093451,-70.737092,43.093451",
     "geom:latitude":43.093451,
     "geom:longitude":-70.737092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Shapleigh Rd",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404178681,
-    "wof:lastmodified":1449039989,
+    "wof:lastmodified":1466586828,
     "wof:name":"Family Physical Therapy",
     "wof:parent_id":85848235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-70.737092,43.093451,-70.737092,43.093451],
+  "bbox": [
+    -70.737092,
+    43.093451,
+    -70.737092,
+    43.093451
+],
   "geometry": {"coordinates":[-70.737092,43.093451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403855373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.110928,44.030261,-70.110928,44.030261",
     "geom:latitude":44.030261,
     "geom:longitude":-70.110928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Congress St",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403855373,
-    "wof:lastmodified":1449055594,
+    "wof:lastmodified":1466586657,
     "wof:name":"Smiley's Skilled Concrete",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.110928,44.030261,-70.110928,44.030261],
+  "bbox": [
+    -70.110928,
+    44.030261,
+    -70.110928,
+    44.030261
+],
   "geometry": {"coordinates":[-70.110928,44.030261],"type":"Point"}
 }

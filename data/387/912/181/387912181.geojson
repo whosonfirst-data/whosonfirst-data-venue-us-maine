@@ -2,13 +2,14 @@
   "id": 387912181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.167734,43.924766,-70.167734,43.924766",
     "geom:latitude":43.924766,
     "geom:longitude":-70.167734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"554 Poland Range Rd",
     "sg:city":"Pownal",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387912181,
-    "wof:lastmodified":1449057982,
+    "wof:lastmodified":1466587321,
     "wof:name":"Deerfield Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-70.167734,43.924766,-70.167734,43.924766],
+  "bbox": [
+    -70.167734,
+    43.924766,
+    -70.167734,
+    43.924766
+],
   "geometry": {"coordinates":[-70.167734,43.924766],"type":"Point"}
 }

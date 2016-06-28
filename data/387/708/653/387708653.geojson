@@ -2,13 +2,14 @@
   "id": 387708653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.611375,43.323857,-70.611375,43.323857",
     "geom:latitude":43.323857,
     "geom:longitude":-70.611375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"894 Sanford Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387708653,
-    "wof:lastmodified":1449056697,
+    "wof:lastmodified":1466586870,
     "wof:name":"Autoland",
     "wof:parent_id":85810445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.611375,43.323857,-70.611375,43.323857],
+  "bbox": [
+    -70.611375,
+    43.323857,
+    -70.611375,
+    43.323857
+],
   "geometry": {"coordinates":[-70.611375,43.323857],"type":"Point"}
 }

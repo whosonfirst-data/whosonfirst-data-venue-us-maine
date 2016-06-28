@@ -2,13 +2,14 @@
   "id": 403965967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.482862,43.483415,-70.482862,43.483415",
     "geom:latitude":43.483415,
     "geom:longitude":-70.482862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Pomerleau St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403965967,
-    "wof:lastmodified":1449055542,
+    "wof:lastmodified":1466587038,
     "wof:name":"Maine Ly Restoration Inc Contr",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.482862,43.483415,-70.482862,43.483415],
+  "bbox": [
+    -70.482862,
+    43.483415,
+    -70.482862,
+    43.483415
+],
   "geometry": {"coordinates":[-70.482862,43.483415],"type":"Point"}
 }

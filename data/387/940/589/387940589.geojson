@@ -2,13 +2,14 @@
   "id": 387940589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.281429,43.963176,-70.281429,43.963176",
     "geom:latitude":43.963176,
     "geom:longitude":-70.281429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Gloucester Hill Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387940589,
-    "wof:lastmodified":1449057032,
+    "wof:lastmodified":1466587281,
     "wof:name":"Rider Field",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.281429,43.963176,-70.281429,43.963176],
+  "bbox": [
+    -70.281429,
+    43.963176,
+    -70.281429,
+    43.963176
+],
   "geometry": {"coordinates":[-70.281429,43.963176],"type":"Point"}
 }

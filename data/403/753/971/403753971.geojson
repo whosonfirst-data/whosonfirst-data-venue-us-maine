@@ -2,13 +2,14 @@
   "id": 403753971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.231791,43.932437,-70.231791,43.932437",
     "geom:latitude":43.932437,
     "geom:longitude":-70.231791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 N Pownal Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403753971,
-    "wof:lastmodified":1449054779,
+    "wof:lastmodified":1466586272,
     "wof:name":"Bowie Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.231791,43.932437,-70.231791,43.932437],
+  "bbox": [
+    -70.231791,
+    43.932437,
+    -70.231791,
+    43.932437
+],
   "geometry": {"coordinates":[-70.231791,43.932437],"type":"Point"}
 }

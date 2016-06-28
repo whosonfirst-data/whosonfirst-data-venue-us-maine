@@ -2,13 +2,14 @@
   "id": 404163229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.742441,44.835744,-68.742441,44.835744",
     "geom:latitude":44.835744,
     "geom:longitude":-68.742441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bangor Mall Blvd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404163229,
-    "wof:lastmodified":1449040307,
+    "wof:lastmodified":1466586873,
     "wof:name":"Poore Simon's",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.742441,44.835744,-68.742441,44.835744],
+  "bbox": [
+    -68.742441,
+    44.835744,
+    -68.742441,
+    44.835744
+],
   "geometry": {"coordinates":[-68.742441,44.835744],"type":"Point"}
 }

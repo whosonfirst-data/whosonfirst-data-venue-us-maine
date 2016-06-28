@@ -2,13 +2,14 @@
   "id": 404131657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.591501,43.445761,-70.591501,43.445761",
     "geom:latitude":43.445761,
     "geom:longitude":-70.591501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"756 Alewive Rd",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404131657,
-    "wof:lastmodified":1449039378,
+    "wof:lastmodified":1466586474,
     "wof:name":"Alewife House B&B",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.591501,43.445761,-70.591501,43.445761],
-  "geometry": {"coordinates":[-70.591501,43.445761],"type":"Point"}
+  "bbox": [
+    -70.591501,
+    43.445761,
+    -70.591501,
+    43.445761
+],
+  "geometry": {"coordinates":[-70.59150099999999,43.445761],"type":"Point"}
 }

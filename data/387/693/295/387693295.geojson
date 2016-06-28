@@ -2,13 +2,14 @@
   "id": 387693295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.110891,44.103428,-69.110891,44.103428",
     "geom:latitude":44.103428,
     "geom:longitude":-69.110891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Union St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387693295,
-    "wof:lastmodified":1449056331,
+    "wof:lastmodified":1466586816,
     "wof:name":"KNOX County Register Of Deeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.110891,44.103428,-69.110891,44.103428],
+  "bbox": [
+    -69.110891,
+    44.103428,
+    -69.110891,
+    44.103428
+],
   "geometry": {"coordinates":[-69.110891,44.103428],"type":"Point"}
 }

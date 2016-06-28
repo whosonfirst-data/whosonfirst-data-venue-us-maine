@@ -2,13 +2,14 @@
   "id": 387606401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.139783,44.320758,-70.139783,44.320758",
     "geom:latitude":44.320758,
     "geom:longitude":-70.139783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Fortin Dr",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387606401,
-    "wof:lastmodified":1449056691,
+    "wof:lastmodified":1466586431,
     "wof:name":"Fortin & Sons Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.139783,44.320758,-70.139783,44.320758],
-  "geometry": {"coordinates":[-70.139783,44.320758],"type":"Point"}
+  "bbox": [
+    -70.139783,
+    44.320758,
+    -70.139783,
+    44.320758
+],
+  "geometry": {"coordinates":[-70.13978299999999,44.320758],"type":"Point"}
 }

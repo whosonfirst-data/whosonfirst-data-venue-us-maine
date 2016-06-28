@@ -2,13 +2,14 @@
   "id": 403937035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.329837,43.885173,-70.329837,43.885173",
     "geom:latitude":43.885173,
     "geom:longitude":-70.329837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Yarmouth Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403937035,
-    "wof:lastmodified":1449054895,
+    "wof:lastmodified":1466587037,
     "wof:name":"Doyle Marchant Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.329837,43.885173,-70.329837,43.885173],
+  "bbox": [
+    -70.329837,
+    43.885173,
+    -70.329837,
+    43.885173
+],
   "geometry": {"coordinates":[-70.329837,43.885173],"type":"Point"}
 }

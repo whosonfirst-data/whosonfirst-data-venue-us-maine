@@ -2,13 +2,14 @@
   "id": 387936833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.316758,43.752834,-70.316758,43.752834",
     "geom:latitude":43.752834,
     "geom:longitude":-70.316758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Innkeepers Ln",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387936833,
-    "wof:lastmodified":1449057364,
+    "wof:lastmodified":1466587273,
     "wof:name":"Seadrift Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.316758,43.752834,-70.316758,43.752834],
-  "geometry": {"coordinates":[-70.316758,43.752834],"type":"Point"}
+  "bbox": [
+    -70.316758,
+    43.752834,
+    -70.316758,
+    43.752834
+],
+  "geometry": {"coordinates":[-70.31675799999999,43.752834],"type":"Point"}
 }

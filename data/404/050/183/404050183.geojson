@@ -2,13 +2,14 @@
   "id": 404050183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.900101,44.017074,-69.900101,44.017074",
     "geom:latitude":44.017074,
     "geom:longitude":-69.900101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Post Rd",
     "sg:city":"Bowdoinham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404050183,
-    "wof:lastmodified":1449039800,
+    "wof:lastmodified":1466586291,
     "wof:name":"Bowdoinham Town Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-69.900101,44.017074,-69.900101,44.017074],
-  "geometry": {"coordinates":[-69.900101,44.017074],"type":"Point"}
+  "bbox": [
+    -69.900101,
+    44.017074,
+    -69.900101,
+    44.017074
+],
+  "geometry": {"coordinates":[-69.90010100000001,44.017074],"type":"Point"}
 }

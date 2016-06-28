@@ -2,13 +2,14 @@
   "id": 387884767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.597165,43.246371,-70.597165,43.246371",
     "geom:latitude":43.246371,
     "geom:longitude":-70.597165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Shore Rd",
     "sg:city":"Ogunquit",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387884767,
-    "wof:lastmodified":1449059175,
+    "wof:lastmodified":1466587221,
     "wof:name":"Lazy Daisy",
     "wof:parent_id":85854335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.597165,43.246371,-70.597165,43.246371],
+  "bbox": [
+    -70.597165,
+    43.246371,
+    -70.597165,
+    43.246371
+],
   "geometry": {"coordinates":[-70.597165,43.246371],"type":"Point"}
 }

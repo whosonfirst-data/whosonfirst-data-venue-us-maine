@@ -2,13 +2,14 @@
   "id": 403857395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.763198,43.13554,-70.763198,43.13554",
     "geom:latitude":43.13554,
     "geom:longitude":-70.763198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Fernald Ln",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403857395,
-    "wof:lastmodified":1449055486,
+    "wof:lastmodified":1466586742,
     "wof:name":"Mitchell's Electrical Svc",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.763198,43.13554,-70.763198,43.13554],
+  "bbox": [
+    -70.763198,
+    43.13554,
+    -70.763198,
+    43.13554
+],
   "geometry": {"coordinates":[-70.763198,43.13554],"type":"Point"}
 }

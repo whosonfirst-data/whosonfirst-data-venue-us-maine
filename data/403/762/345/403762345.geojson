@@ -2,13 +2,14 @@
   "id": 403762345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.76653,44.229488,-69.76653,44.229488",
     "geom:latitude":44.229488,
     "geom:longitude":-69.76653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"247 Water St",
     "sg:city":"Randolph",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403762345,
-    "wof:lastmodified":1449055556,
+    "wof:lastmodified":1466586441,
     "wof:name":"Randolph Poly Clean Ctr",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.76653,44.229488,-69.76653,44.229488],
+  "bbox": [
+    -69.76653,
+    44.229488,
+    -69.76653,
+    44.229488
+],
   "geometry": {"coordinates":[-69.76653,44.229488],"type":"Point"}
 }

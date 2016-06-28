@@ -2,13 +2,14 @@
   "id": 404040301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.743315,43.851212,-69.743315,43.851212",
     "geom:latitude":43.851212,
     "geom:longitude":-69.743315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Robinhood Rd",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":404040301,
-    "wof:lastmodified":1449040294,
+    "wof:lastmodified":1466586087,
     "wof:name":"Robinhood Free Meetinghouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.743315,43.851212,-69.743315,43.851212],
+  "bbox": [
+    -69.743315,
+    43.851212,
+    -69.743315,
+    43.851212
+],
   "geometry": {"coordinates":[-69.743315,43.851212],"type":"Point"}
 }

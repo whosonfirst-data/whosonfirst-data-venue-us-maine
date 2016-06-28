@@ -2,13 +2,14 @@
   "id": 387682445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.367828,43.663762,-70.367828,43.663762",
     "geom:latitude":43.663762,
     "geom:longitude":-70.367828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Bradley Dr",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387682445,
-    "wof:lastmodified":1449056763,
+    "wof:lastmodified":1466586480,
     "wof:name":"E S Boulos Co",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.367828,43.663762,-70.367828,43.663762],
+  "bbox": [
+    -70.367828,
+    43.663762,
+    -70.367828,
+    43.663762
+],
   "geometry": {"coordinates":[-70.367828,43.663762],"type":"Point"}
 }

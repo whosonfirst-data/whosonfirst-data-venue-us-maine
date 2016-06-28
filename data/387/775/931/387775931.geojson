@@ -2,13 +2,14 @@
   "id": 387775931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.013778,46.860177,-68.013778,46.860177",
     "geom:latitude":46.860177,
     "geom:longitude":-68.013778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Sweden St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387775931,
-    "wof:lastmodified":1449058922,
+    "wof:lastmodified":1466586984,
     "wof:name":"Jepson Financial Advisors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financial"
     ]
 },
-  "bbox": [-68.013778,46.860177,-68.013778,46.860177],
+  "bbox": [
+    -68.013778,
+    46.860177,
+    -68.013778,
+    46.860177
+],
   "geometry": {"coordinates":[-68.013778,46.860177],"type":"Point"}
 }

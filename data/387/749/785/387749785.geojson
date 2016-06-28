@@ -2,13 +2,14 @@
   "id": 387749785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.695715,44.7783,-68.695715,44.7783",
     "geom:latitude":44.7783,
     "geom:longitude":-68.695715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"872 Eastern Ave",
     "sg:city":"Holden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387749785,
-    "wof:lastmodified":1449057178,
+    "wof:lastmodified":1466586821,
     "wof:name":"Capacita Learning Ctr",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-68.695715,44.7783,-68.695715,44.7783],
-  "geometry": {"coordinates":[-68.695715,44.7783],"type":"Point"}
+  "bbox": [
+    -68.695715,
+    44.7783,
+    -68.695715,
+    44.7783
+],
+  "geometry": {"coordinates":[-68.69571500000001,44.7783],"type":"Point"}
 }

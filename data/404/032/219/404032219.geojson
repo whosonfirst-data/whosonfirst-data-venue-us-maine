@@ -2,13 +2,14 @@
   "id": 404032219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.966187,43.914248,-69.966187,43.914248",
     "geom:latitude":43.914248,
     "geom:longitude":-69.966187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Pleasant St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404032219,
-    "wof:lastmodified":1449039623,
+    "wof:lastmodified":1466585993,
     "wof:name":"New Meadows Auction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-69.966187,43.914248,-69.966187,43.914248],
-  "geometry": {"coordinates":[-69.966187,43.914248],"type":"Point"}
+  "bbox": [
+    -69.966187,
+    43.914248,
+    -69.966187,
+    43.914248
+],
+  "geometry": {"coordinates":[-69.96618700000001,43.914248],"type":"Point"}
 }

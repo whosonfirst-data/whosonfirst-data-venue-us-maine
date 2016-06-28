@@ -2,13 +2,14 @@
   "id": 403710475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.492952,44.132052,-70.492952,44.132052",
     "geom:latitude":44.132052,
     "geom:longitude":-70.492952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"281 King St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403710475,
-    "wof:lastmodified":1449054709,
+    "wof:lastmodified":1466585716,
     "wof:name":"Oxford Mill-End Store",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.492952,44.132052,-70.492952,44.132052],
+  "bbox": [
+    -70.492952,
+    44.132052,
+    -70.492952,
+    44.132052
+],
   "geometry": {"coordinates":[-70.492952,44.132052],"type":"Point"}
 }

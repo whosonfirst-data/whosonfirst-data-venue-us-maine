@@ -2,13 +2,14 @@
   "id": 387817475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.535523,44.552322,-70.535523,44.552322",
     "geom:latitude":44.552322,
     "geom:longitude":-70.535523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"287 Main St",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":387817475,
-    "wof:lastmodified":1449059170,
+    "wof:lastmodified":1466587107,
     "wof:name":"Far East Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.535523,44.552322,-70.535523,44.552322],
+  "bbox": [
+    -70.535523,
+    44.552322,
+    -70.535523,
+    44.552322
+],
   "geometry": {"coordinates":[-70.535523,44.552322],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404023939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.255037,43.68565,-70.255037,43.68565",
     "geom:latitude":43.68565,
     "geom:longitude":-70.255037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Hawthorne St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404023939,
-    "wof:lastmodified":1449040217,
+    "wof:lastmodified":1466585946,
     "wof:name":"R Russo Builders Inc",
     "wof:parent_id":85816239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.255037,43.68565,-70.255037,43.68565],
+  "bbox": [
+    -70.255037,
+    43.68565,
+    -70.255037,
+    43.68565
+],
   "geometry": {"coordinates":[-70.255037,43.68565],"type":"Point"}
 }

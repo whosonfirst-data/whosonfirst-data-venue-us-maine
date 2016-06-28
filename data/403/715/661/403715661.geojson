@@ -2,13 +2,14 @@
   "id": 403715661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.204762,44.389538,-68.204762,44.389538",
     "geom:latitude":44.389538,
     "geom:longitude":-68.204762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Main St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403715661,
-    "wof:lastmodified":1449055692,
+    "wof:lastmodified":1466585808,
     "wof:name":"Willis & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.204762,44.389538,-68.204762,44.389538],
+  "bbox": [
+    -68.204762,
+    44.389538,
+    -68.204762,
+    44.389538
+],
   "geometry": {"coordinates":[-68.204762,44.389538],"type":"Point"}
 }

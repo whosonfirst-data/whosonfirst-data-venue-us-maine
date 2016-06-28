@@ -2,13 +2,14 @@
   "id": 387875395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.15539,44.446974,-70.15539,44.446974",
     "geom:latitude":44.446974,
     "geom:longitude":-70.15539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"486 Park St",
     "sg:city":"Livermore Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387875395,
-    "wof:lastmodified":1449058938,
+    "wof:lastmodified":1466587200,
     "wof:name":"Allen's TV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-70.15539,44.446974,-70.15539,44.446974],
+  "bbox": [
+    -70.15539,
+    44.446974,
+    -70.15539,
+    44.446974
+],
   "geometry": {"coordinates":[-70.15539,44.446974],"type":"Point"}
 }

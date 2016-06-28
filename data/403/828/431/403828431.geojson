@@ -2,13 +2,14 @@
   "id": 403828431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.608223,43.18297,-70.608223,43.18297",
     "geom:latitude":43.18297,
     "geom:longitude":-70.608223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Ray Ave",
     "sg:city":"York",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403828431,
-    "wof:lastmodified":1449055325,
+    "wof:lastmodified":1466586403,
     "wof:name":"Blue Stocking Studio",
     "wof:parent_id":85859377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.608223,43.18297,-70.608223,43.18297],
+  "bbox": [
+    -70.608223,
+    43.18297,
+    -70.608223,
+    43.18297
+],
   "geometry": {"coordinates":[-70.608223,43.18297],"type":"Point"}
 }

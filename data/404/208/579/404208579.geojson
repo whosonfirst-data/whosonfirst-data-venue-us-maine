@@ -2,13 +2,14 @@
   "id": 404208579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.443157,43.679929,-70.443157,43.679929",
     "geom:latitude":43.679929,
     "geom:longitude":-70.443157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 School St",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404208579,
-    "wof:lastmodified":1449039155,
+    "wof:lastmodified":1466586951,
     "wof:name":"Jan Mee II",
     "wof:parent_id":85835377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-70.443157,43.679929,-70.443157,43.679929],
+  "bbox": [
+    -70.443157,
+    43.679929,
+    -70.443157,
+    43.679929
+],
   "geometry": {"coordinates":[-70.443157,43.679929],"type":"Point"}
 }

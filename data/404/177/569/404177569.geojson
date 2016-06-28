@@ -2,13 +2,14 @@
   "id": 404177569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.133936,44.184371,-69.133936,44.184371",
     "geom:latitude":44.184371,
     "geom:longitude":-69.133936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Park St",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404177569,
-    "wof:lastmodified":1449040326,
+    "wof:lastmodified":1466586818,
     "wof:name":"Nice Stuff Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-69.133936,44.184371,-69.133936,44.184371],
-  "geometry": {"coordinates":[-69.133936,44.184371],"type":"Point"}
+  "bbox": [
+    -69.133936,
+    44.184371,
+    -69.133936,
+    44.184371
+],
+  "geometry": {"coordinates":[-69.13393600000001,44.184371],"type":"Point"}
 }

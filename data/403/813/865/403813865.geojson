@@ -2,13 +2,14 @@
   "id": 403813865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.264423,43.653547,-70.264423,43.653547",
     "geom:latitude":43.653547,
     "geom:longitude":-70.264423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403813865,
-    "wof:lastmodified":1449054987,
+    "wof:lastmodified":1466586167,
     "wof:name":"World Arts Bodywork & Movement",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-70.264423,43.653547,-70.264423,43.653547],
-  "geometry": {"coordinates":[-70.264423,43.653547],"type":"Point"}
+  "bbox": [
+    -70.264423,
+    43.653547,
+    -70.264423,
+    43.653547
+],
+  "geometry": {"coordinates":[-70.26442299999999,43.653547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403736653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.213513,44.103272,-70.213513,44.103272",
     "geom:latitude":44.103272,
     "geom:longitude":-70.213513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 High St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403736653,
-    "wof:lastmodified":1449055931,
+    "wof:lastmodified":1466586045,
     "wof:name":"Arthritis",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.213513,44.103272,-70.213513,44.103272],
-  "geometry": {"coordinates":[-70.213513,44.103272],"type":"Point"}
+  "bbox": [
+    -70.213513,
+    44.103272,
+    -70.213513,
+    44.103272
+],
+  "geometry": {"coordinates":[-70.21351300000001,44.103272],"type":"Point"}
 }

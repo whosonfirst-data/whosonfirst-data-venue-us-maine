@@ -2,13 +2,14 @@
   "id": 404188881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.469478,43.48746,-70.469478,43.48746",
     "geom:latitude":43.48746,
     "geom:longitude":-70.469478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Beacon Ave",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404188881,
-    "wof:lastmodified":1449039667,
+    "wof:lastmodified":1466586878,
     "wof:name":"Chandler Group",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.469478,43.48746,-70.469478,43.48746],
+  "bbox": [
+    -70.469478,
+    43.48746,
+    -70.469478,
+    43.48746
+],
   "geometry": {"coordinates":[-70.469478,43.48746],"type":"Point"}
 }

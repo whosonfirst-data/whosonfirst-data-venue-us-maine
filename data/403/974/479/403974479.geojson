@@ -2,13 +2,14 @@
   "id": 403974479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.209728,44.390527,-68.209728,44.390527",
     "geom:latitude":44.390527,
     "geom:longitude":-68.209728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 West St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403974479,
-    "wof:lastmodified":1449055793,
+    "wof:lastmodified":1466587134,
     "wof:name":"Kedge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-68.209728,44.390527,-68.209728,44.390527],
+  "bbox": [
+    -68.209728,
+    44.390527,
+    -68.209728,
+    44.390527
+],
   "geometry": {"coordinates":[-68.209728,44.390527],"type":"Point"}
 }

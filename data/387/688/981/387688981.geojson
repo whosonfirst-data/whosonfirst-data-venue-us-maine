@@ -2,13 +2,14 @@
   "id": 387688981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.316085,43.919113,-70.316085,43.919113",
     "geom:latitude":43.919113,
     "geom:longitude":-70.316085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Lewiston Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387688981,
-    "wof:lastmodified":1449057530,
+    "wof:lastmodified":1466586589,
     "wof:name":"Septi Tech",
     "wof:parent_id":85857545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "septic"
     ]
 },
-  "bbox": [-70.316085,43.919113,-70.316085,43.919113],
+  "bbox": [
+    -70.316085,
+    43.919113,
+    -70.316085,
+    43.919113
+],
   "geometry": {"coordinates":[-70.316085,43.919113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387633473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.304551,43.630136,-70.304551,43.630136",
     "geom:latitude":43.630136,
     "geom:longitude":-70.304551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Broadway",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387633473,
-    "wof:lastmodified":1449059891,
+    "wof:lastmodified":1466586645,
     "wof:name":"St Cyr Alice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.304551,43.630136,-70.304551,43.630136],
+  "bbox": [
+    -70.304551,
+    43.630136,
+    -70.304551,
+    43.630136
+],
   "geometry": {"coordinates":[-70.304551,43.630136],"type":"Point"}
 }

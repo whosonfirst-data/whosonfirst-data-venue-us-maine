@@ -2,13 +2,14 @@
   "id": 404178313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.571601,44.36318,-70.571601,44.36318",
     "geom:latitude":44.36318,
     "geom:longitude":-70.571601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Less Traveled Rd",
     "sg:city":"Bryant Pond",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404178313,
-    "wof:lastmodified":1449039982,
+    "wof:lastmodified":1466586824,
     "wof:name":"Earth & Fire Pottery",
     "wof:parent_id":85831117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.571601,44.36318,-70.571601,44.36318],
+  "bbox": [
+    -70.571601,
+    44.36318,
+    -70.571601,
+    44.36318
+],
   "geometry": {"coordinates":[-70.571601,44.36318],"type":"Point"}
 }

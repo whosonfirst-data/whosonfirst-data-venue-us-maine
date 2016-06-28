@@ -2,13 +2,14 @@
   "id": 387802157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.560315,43.659882,-70.560315,43.659882",
     "geom:latitude":43.659882,
     "geom:longitude":-70.560315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Skip Rd",
     "sg:city":"Buxton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387802157,
-    "wof:lastmodified":1449059211,
+    "wof:lastmodified":1466587134,
     "wof:name":"Emery Brothers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.560315,43.659882,-70.560315,43.659882],
+  "bbox": [
+    -70.560315,
+    43.659882,
+    -70.560315,
+    43.659882
+],
   "geometry": {"coordinates":[-70.560315,43.659882],"type":"Point"}
 }

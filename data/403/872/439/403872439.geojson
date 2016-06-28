@@ -2,13 +2,14 @@
   "id": 403872439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.237513,44.619426,-70.237513,44.619426",
     "geom:latitude":44.619426,
     "geom:longitude":-70.237513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 N Pond Rd",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403872439,
-    "wof:lastmodified":1449054752,
+    "wof:lastmodified":1466586797,
     "wof:name":"74 Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.237513,44.619426,-70.237513,44.619426],
-  "geometry": {"coordinates":[-70.237513,44.619426],"type":"Point"}
+  "bbox": [
+    -70.237513,
+    44.619426,
+    -70.237513,
+    44.619426
+],
+  "geometry": {"coordinates":[-70.23751300000001,44.619426],"type":"Point"}
 }

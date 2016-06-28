@@ -2,13 +2,14 @@
   "id": 404136003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.796568,44.769341,-68.796568,44.769341",
     "geom:latitude":44.769341,
     "geom:longitude":-68.796568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 Main Rd N",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404136003,
-    "wof:lastmodified":1449040318,
+    "wof:lastmodified":1466586541,
     "wof:name":"Sargent & Sargent",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.796568,44.769341,-68.796568,44.769341],
-  "geometry": {"coordinates":[-68.796568,44.769341],"type":"Point"}
+  "bbox": [
+    -68.796568,
+    44.769341,
+    -68.796568,
+    44.769341
+],
+  "geometry": {"coordinates":[-68.79656799999999,44.769341],"type":"Point"}
 }

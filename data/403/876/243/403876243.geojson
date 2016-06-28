@@ -2,13 +2,14 @@
   "id": 403876243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.382569,43.524917,-70.382569,43.524917",
     "geom:latitude":43.524917,
     "geom:longitude":-70.382569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Oakcrest Dr",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403876243,
-    "wof:lastmodified":1449054904,
+    "wof:lastmodified":1466586822,
     "wof:name":"Kenney Fletcher CPA",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-70.382569,43.524917,-70.382569,43.524917],
+  "bbox": [
+    -70.382569,
+    43.524917,
+    -70.382569,
+    43.524917
+],
   "geometry": {"coordinates":[-70.382569,43.524917],"type":"Point"}
 }

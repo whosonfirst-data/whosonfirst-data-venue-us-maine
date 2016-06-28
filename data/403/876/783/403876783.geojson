@@ -2,13 +2,14 @@
   "id": 403876783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.27184,45.089868,-70.27184,45.089868",
     "geom:latitude":45.089868,
     "geom:longitude":-70.27184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Carrabassett Dr",
     "sg:city":"Carrabassett Vly",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403876783,
-    "wof:lastmodified":1449054901,
+    "wof:lastmodified":1466586711,
     "wof:name":"Sugarloaf Regional Airport",
     "wof:parent_id":85806089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.27184,45.089868,-70.27184,45.089868],
+  "bbox": [
+    -70.27184,
+    45.089868,
+    -70.27184,
+    45.089868
+],
   "geometry": {"coordinates":[-70.27184,45.089868],"type":"Point"}
 }

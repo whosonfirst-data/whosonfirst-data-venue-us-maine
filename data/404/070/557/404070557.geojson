@@ -2,13 +2,14 @@
   "id": 404070557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.454703,43.495618,-70.454703,43.495618",
     "geom:latitude":43.495618,
     "geom:longitude":-70.454703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Pearl St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404070557,
-    "wof:lastmodified":1449039593,
+    "wof:lastmodified":1466586590,
     "wof:name":"David Fuller Design Inc",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fixture"
     ]
 },
-  "bbox": [-70.454703,43.495618,-70.454703,43.495618],
-  "geometry": {"coordinates":[-70.454703,43.495618],"type":"Point"}
+  "bbox": [
+    -70.454703,
+    43.495618,
+    -70.454703,
+    43.495618
+],
+  "geometry": {"coordinates":[-70.45470299999999,43.495618],"type":"Point"}
 }

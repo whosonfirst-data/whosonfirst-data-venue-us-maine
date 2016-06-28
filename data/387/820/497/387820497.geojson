@@ -2,13 +2,14 @@
   "id": 387820497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.193518,44.08947,-70.193518,44.08947",
     "geom:latitude":44.08947,
     "geom:longitude":-70.193518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Pineland St",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387820497,
-    "wof:lastmodified":1449058075,
+    "wof:lastmodified":1466587108,
     "wof:name":"Community Clinical Counseling",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-70.193518,44.08947,-70.193518,44.08947],
+  "bbox": [
+    -70.193518,
+    44.08947,
+    -70.193518,
+    44.08947
+],
   "geometry": {"coordinates":[-70.193518,44.08947],"type":"Point"}
 }

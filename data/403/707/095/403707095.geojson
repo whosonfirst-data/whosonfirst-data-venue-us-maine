@@ -2,13 +2,14 @@
   "id": 403707095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.553794,44.52494,-70.553794,44.52494",
     "geom:latitude":44.52494,
     "geom:longitude":-70.553794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Sunnyside Ter Exd",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403707095,
-    "wof:lastmodified":1449055768,
+    "wof:lastmodified":1466585685,
     "wof:name":"Tours By Troy",
     "wof:parent_id":85853959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "promoter"
     ]
 },
-  "bbox": [-70.553794,44.52494,-70.553794,44.52494],
+  "bbox": [
+    -70.553794,
+    44.52494,
+    -70.553794,
+    44.52494
+],
   "geometry": {"coordinates":[-70.553794,44.52494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403857695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.895137,43.942026,-70.895137,43.942026",
     "geom:latitude":43.942026,
     "geom:longitude":-70.895137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Main St",
     "sg:city":"Brownfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403857695,
-    "wof:lastmodified":1449055482,
+    "wof:lastmodified":1466586743,
     "wof:name":"Brownfield Selectmens Office",
     "wof:parent_id":85816061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-70.895137,43.942026,-70.895137,43.942026],
-  "geometry": {"coordinates":[-70.895137,43.942026],"type":"Point"}
+  "bbox": [
+    -70.895137,
+    43.942026,
+    -70.895137,
+    43.942026
+],
+  "geometry": {"coordinates":[-70.89513700000001,43.942026],"type":"Point"}
 }

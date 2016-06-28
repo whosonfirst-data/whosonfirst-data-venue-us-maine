@@ -2,13 +2,14 @@
   "id": 387723745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.456038,43.801831,-70.456038,43.801831",
     "geom:latitude":43.801831,
     "geom:longitude":-70.456038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rainbow Ln",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387723745,
-    "wof:lastmodified":1449058328,
+    "wof:lastmodified":1466586893,
     "wof:name":"Sebago Software Inc",
     "wof:parent_id":85837655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-70.456038,43.801831,-70.456038,43.801831],
-  "geometry": {"coordinates":[-70.456038,43.801831],"type":"Point"}
+  "bbox": [
+    -70.456038,
+    43.801831,
+    -70.456038,
+    43.801831
+],
+  "geometry": {"coordinates":[-70.45603800000001,43.801831],"type":"Point"}
 }

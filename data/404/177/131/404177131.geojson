@@ -2,13 +2,14 @@
   "id": 404177131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.247068,43.577433,-70.247068,43.577433",
     "geom:latitude":43.577433,
     "geom:longitude":-70.247068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"294 Fowler Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404177131,
-    "wof:lastmodified":1449040324,
+    "wof:lastmodified":1466586816,
     "wof:name":"Cape Hardwood Flooring Co",
     "wof:parent_id":85824889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "floor"
     ]
 },
-  "bbox": [-70.247068,43.577433,-70.247068,43.577433],
+  "bbox": [
+    -70.247068,
+    43.577433,
+    -70.247068,
+    43.577433
+],
   "geometry": {"coordinates":[-70.247068,43.577433],"type":"Point"}
 }

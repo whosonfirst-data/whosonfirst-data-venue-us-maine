@@ -2,13 +2,14 @@
   "id": 387919373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.321793,43.84638,-70.321793,43.84638",
     "geom:latitude":43.84638,
     "geom:longitude":-70.321793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Portland Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387919373,
-    "wof:lastmodified":1449058982,
+    "wof:lastmodified":1466587327,
     "wof:name":"Cartco Small Trailer Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "utility"
     ]
 },
-  "bbox": [-70.321793,43.84638,-70.321793,43.84638],
+  "bbox": [
+    -70.321793,
+    43.84638,
+    -70.321793,
+    43.84638
+],
   "geometry": {"coordinates":[-70.321793,43.84638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403845079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.645076,44.933189,-68.645076,44.933189",
     "geom:latitude":44.933189,
     "geom:longitude":-68.645076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Main St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403845079,
-    "wof:lastmodified":1449054848,
+    "wof:lastmodified":1466586696,
     "wof:name":"Johnny's Pizza",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.645076,44.933189,-68.645076,44.933189],
+  "bbox": [
+    -68.645076,
+    44.933189,
+    -68.645076,
+    44.933189
+],
   "geometry": {"coordinates":[-68.645076,44.933189],"type":"Point"}
 }

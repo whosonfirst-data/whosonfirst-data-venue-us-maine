@@ -2,13 +2,14 @@
   "id": 404038237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.672872,44.037125,-69.672872,44.037125",
     "geom:latitude":44.037125,
     "geom:longitude":-69.672872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"488 Gardiner Rd",
     "sg:city":"Wiscasset",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404038237,
-    "wof:lastmodified":1449039899,
+    "wof:lastmodified":1466586055,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85820077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-69.672872,44.037125,-69.672872,44.037125],
+  "bbox": [
+    -69.672872,
+    44.037125,
+    -69.672872,
+    44.037125
+],
   "geometry": {"coordinates":[-69.672872,44.037125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387749573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.276318,44.835194,-69.276318,44.835194",
     "geom:latitude":44.835194,
     "geom:longitude":-69.276318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 High St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387749573,
-    "wof:lastmodified":1449057180,
+    "wof:lastmodified":1466586897,
     "wof:name":"Ray's Elect Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.276318,44.835194,-69.276318,44.835194],
+  "bbox": [
+    -69.276318,
+    44.835194,
+    -69.276318,
+    44.835194
+],
   "geometry": {"coordinates":[-69.276318,44.835194],"type":"Point"}
 }

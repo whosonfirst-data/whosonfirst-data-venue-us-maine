@@ -2,13 +2,14 @@
   "id": 404043707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.783915,44.450601,-70.783915,44.450601",
     "geom:latitude":44.450601,
     "geom:longitude":-70.783915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Osgood Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404043707,
-    "wof:lastmodified":1449040007,
+    "wof:lastmodified":1466586154,
     "wof:name":"Childrens Daycare",
     "wof:parent_id":85831117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.783915,44.450601,-70.783915,44.450601],
-  "geometry": {"coordinates":[-70.783915,44.450601],"type":"Point"}
+  "bbox": [
+    -70.783915,
+    44.450601,
+    -70.783915,
+    44.450601
+],
+  "geometry": {"coordinates":[-70.78391499999999,44.450601],"type":"Point"}
 }

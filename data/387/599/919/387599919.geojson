@@ -2,13 +2,14 @@
   "id": 387599919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.480328,43.360091,-70.480328,43.360091",
     "geom:latitude":43.360091,
     "geom:longitude":-70.480328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Western Ave",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387599919,
-    "wof:lastmodified":1449057872,
+    "wof:lastmodified":1466586348,
     "wof:name":"Clam Shack",
     "wof:parent_id":85812189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.480328,43.360091,-70.480328,43.360091],
+  "bbox": [
+    -70.480328,
+    43.360091,
+    -70.480328,
+    43.360091
+],
   "geometry": {"coordinates":[-70.480328,43.360091],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403852333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.317468,43.580223,-70.317468,43.580223",
     "geom:latitude":43.580223,
     "geom:longitude":-70.317468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Highland Ave",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403852333,
-    "wof:lastmodified":1449055753,
+    "wof:lastmodified":1466586714,
     "wof:name":"M & M Engineering",
     "wof:parent_id":85842219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-70.317468,43.580223,-70.317468,43.580223],
-  "geometry": {"coordinates":[-70.317468,43.580223],"type":"Point"}
+  "bbox": [
+    -70.317468,
+    43.580223,
+    -70.317468,
+    43.580223
+],
+  "geometry": {"coordinates":[-70.31746800000001,43.580223],"type":"Point"}
 }

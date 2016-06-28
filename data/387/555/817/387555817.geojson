@@ -2,13 +2,14 @@
   "id": 387555817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.274911,43.656286,-70.274911,43.656286",
     "geom:latitude":43.656286,
     "geom:longitude":-70.274911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Park Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387555817,
-    "wof:lastmodified":1449059384,
+    "wof:lastmodified":1466585679,
     "wof:name":"Hamilton's Service Station",
     "wof:parent_id":85880027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.274911,43.656286,-70.274911,43.656286],
+  "bbox": [
+    -70.274911,
+    43.656286,
+    -70.274911,
+    43.656286
+],
   "geometry": {"coordinates":[-70.274911,43.656286],"type":"Point"}
 }

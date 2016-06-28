@@ -2,13 +2,14 @@
   "id": 404160135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.399398,43.639656,-70.399398,43.639656",
     "geom:latitude":43.639656,
     "geom:longitude":-70.399398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Saco St",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404160135,
-    "wof:lastmodified":1449040120,
+    "wof:lastmodified":1466586758,
     "wof:name":"James G Merry Building Movers",
     "wof:parent_id":85838011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.399398,43.639656,-70.399398,43.639656],
-  "geometry": {"coordinates":[-70.399398,43.639656],"type":"Point"}
+  "bbox": [
+    -70.399398,
+    43.639656,
+    -70.399398,
+    43.639656
+],
+  "geometry": {"coordinates":[-70.39939800000001,43.639656],"type":"Point"}
 }

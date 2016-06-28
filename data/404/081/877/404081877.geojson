@@ -2,13 +2,14 @@
   "id": 404081877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.203379,44.384452,-68.203379,44.384452",
     "geom:latitude":44.384452,
     "geom:longitude":-68.203379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Main St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404081877,
-    "wof:lastmodified":1449039393,
+    "wof:lastmodified":1466585763,
     "wof:name":"Mount Desert Islander",
     "wof:parent_id":85803817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-68.203379,44.384452,-68.203379,44.384452],
+  "bbox": [
+    -68.203379,
+    44.384452,
+    -68.203379,
+    44.384452
+],
   "geometry": {"coordinates":[-68.203379,44.384452],"type":"Point"}
 }

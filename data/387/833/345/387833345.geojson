@@ -2,13 +2,14 @@
   "id": 387833345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.22522,44.132202,-70.22522,44.132202",
     "geom:latitude":44.132202,
     "geom:longitude":-70.22522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"867 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387833345,
-    "wof:lastmodified":1449056598,
+    "wof:lastmodified":1466587209,
     "wof:name":"Lake City Exports",
     "wof:parent_id":85815921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.22522,44.132202,-70.22522,44.132202],
-  "geometry": {"coordinates":[-70.22522,44.132202],"type":"Point"}
+  "bbox": [
+    -70.22522,
+    44.132202,
+    -70.22522,
+    44.132202
+],
+  "geometry": {"coordinates":[-70.22521999999999,44.132202],"type":"Point"}
 }

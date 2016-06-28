@@ -2,13 +2,14 @@
   "id": 387722491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.762124,44.7933,-68.762124,44.7933",
     "geom:latitude":44.7933,
     "geom:longitude":-68.762124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Union St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387722491,
-    "wof:lastmodified":1449057433,
+    "wof:lastmodified":1466586813,
     "wof:name":"Perfection Limousine Service",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "limousine"
     ]
 },
-  "bbox": [-68.762124,44.7933,-68.762124,44.7933],
+  "bbox": [
+    -68.762124,
+    44.7933,
+    -68.762124,
+    44.7933
+],
   "geometry": {"coordinates":[-68.762124,44.7933],"type":"Point"}
 }

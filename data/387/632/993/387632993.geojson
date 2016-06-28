@@ -2,13 +2,14 @@
   "id": 387632993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.709007,45.656243,-68.709007,45.656243",
     "geom:latitude":45.656243,
     "geom:longitude":-68.709007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Penobscot Ave",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387632993,
-    "wof:lastmodified":1449058535,
+    "wof:lastmodified":1466585840,
     "wof:name":"Magic City Mini Golf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "golf"
     ]
 },
-  "bbox": [-68.709007,45.656243,-68.709007,45.656243],
+  "bbox": [
+    -68.709007,
+    45.656243,
+    -68.709007,
+    45.656243
+],
   "geometry": {"coordinates":[-68.709007,45.656243],"type":"Point"}
 }

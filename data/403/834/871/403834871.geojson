@@ -2,13 +2,14 @@
   "id": 403834871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.756785,44.807202,-68.756785,44.807202",
     "geom:latitude":44.807202,
     "geom:longitude":-68.756785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 State St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403834871,
-    "wof:lastmodified":1449054761,
+    "wof:lastmodified":1466586509,
     "wof:name":"Coffee Express",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-68.756785,44.807202,-68.756785,44.807202],
-  "geometry": {"coordinates":[-68.756785,44.807202],"type":"Point"}
+  "bbox": [
+    -68.756785,
+    44.807202,
+    -68.756785,
+    44.807202
+],
+  "geometry": {"coordinates":[-68.75678499999999,44.807202],"type":"Point"}
 }

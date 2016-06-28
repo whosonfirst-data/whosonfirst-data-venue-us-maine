@@ -2,13 +2,14 @@
   "id": 403933305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.384148,43.850558,-70.384148,43.850558",
     "geom:latitude":43.850558,
     "geom:longitude":-70.384148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 Gray Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403933305,
-    "wof:lastmodified":1449054907,
+    "wof:lastmodified":1466587029,
     "wof:name":"Church of Nazarence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.384148,43.850558,-70.384148,43.850558],
+  "bbox": [
+    -70.384148,
+    43.850558,
+    -70.384148,
+    43.850558
+],
   "geometry": {"coordinates":[-70.384148,43.850558],"type":"Point"}
 }

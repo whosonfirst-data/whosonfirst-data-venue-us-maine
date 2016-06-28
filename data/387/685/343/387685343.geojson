@@ -2,13 +2,14 @@
   "id": 387685343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.244645,43.919439,-70.244645,43.919439",
     "geom:latitude":43.919439,
     "geom:longitude":-70.244645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Marshall Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387685343,
-    "wof:lastmodified":1449059826,
+    "wof:lastmodified":1466586526,
     "wof:name":"Chrislynn Thread Inserts Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "thread"
     ]
 },
-  "bbox": [-70.244645,43.919439,-70.244645,43.919439],
-  "geometry": {"coordinates":[-70.244645,43.919439],"type":"Point"}
+  "bbox": [
+    -70.244645,
+    43.919439,
+    -70.244645,
+    43.919439
+],
+  "geometry": {"coordinates":[-70.24464500000001,43.919439],"type":"Point"}
 }

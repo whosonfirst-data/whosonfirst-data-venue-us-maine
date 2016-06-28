@@ -2,13 +2,14 @@
   "id": 387911523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.022302,44.433297,-69.022302,44.433297",
     "geom:latitude":44.433297,
     "geom:longitude":-69.022302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Merriam Rd",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387911523,
-    "wof:lastmodified":1449059306,
+    "wof:lastmodified":1466587320,
     "wof:name":"Belfast Square Apartments",
     "wof:parent_id":85808235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-69.022302,44.433297,-69.022302,44.433297],
+  "bbox": [
+    -69.022302,
+    44.433297,
+    -69.022302,
+    44.433297
+],
   "geometry": {"coordinates":[-69.022302,44.433297],"type":"Point"}
 }

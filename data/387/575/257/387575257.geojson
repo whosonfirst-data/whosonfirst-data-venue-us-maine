@@ -2,13 +2,14 @@
   "id": 387575257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.581281,43.731815,-70.581281,43.731815",
     "geom:latitude":43.731815,
     "geom:longitude":-70.581281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Ossipee Trl W",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387575257,
-    "wof:lastmodified":1449057200,
+    "wof:lastmodified":1466585975,
     "wof:name":"Mc Cracken's Motorcycle Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-70.581281,43.731815,-70.581281,43.731815],
+  "bbox": [
+    -70.581281,
+    43.731815,
+    -70.581281,
+    43.731815
+],
   "geometry": {"coordinates":[-70.581281,43.731815],"type":"Point"}
 }

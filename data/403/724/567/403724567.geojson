@@ -2,13 +2,14 @@
   "id": 403724567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.244503,44.104423,-70.244503,44.104423",
     "geom:latitude":44.104423,
     "geom:longitude":-70.244503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Lake St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403724567,
-    "wof:lastmodified":1449055921,
+    "wof:lastmodified":1466585899,
     "wof:name":"Lake Street Variety",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.244503,44.104423,-70.244503,44.104423],
-  "geometry": {"coordinates":[-70.244503,44.104423],"type":"Point"}
+  "bbox": [
+    -70.244503,
+    44.104423,
+    -70.244503,
+    44.104423
+],
+  "geometry": {"coordinates":[-70.24450299999999,44.104423],"type":"Point"}
 }

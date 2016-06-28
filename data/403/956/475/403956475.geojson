@@ -2,13 +2,14 @@
   "id": 403956475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.231685,43.647085,-70.231685,43.647085",
     "geom:latitude":43.647085,
     "geom:longitude":-70.231685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Adams St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403956475,
-    "wof:lastmodified":1449054855,
+    "wof:lastmodified":1466587075,
     "wof:name":"Cape Technologies",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-70.231685,43.647085,-70.231685,43.647085],
+  "bbox": [
+    -70.231685,
+    43.647085,
+    -70.231685,
+    43.647085
+],
   "geometry": {"coordinates":[-70.231685,43.647085],"type":"Point"}
 }

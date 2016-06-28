@@ -2,13 +2,14 @@
   "id": 387784119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.786665,44.734679,-68.786665,44.734679",
     "geom:latitude":44.734679,
     "geom:longitude":-68.786665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Johnson Mill Rd",
     "sg:city":"Orrington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387784119,
-    "wof:lastmodified":1449058650,
+    "wof:lastmodified":1466586999,
     "wof:name":"Gray Woodproducts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "skid"
     ]
 },
-  "bbox": [-68.786665,44.734679,-68.786665,44.734679],
+  "bbox": [
+    -68.786665,
+    44.734679,
+    -68.786665,
+    44.734679
+],
   "geometry": {"coordinates":[-68.786665,44.734679],"type":"Point"}
 }

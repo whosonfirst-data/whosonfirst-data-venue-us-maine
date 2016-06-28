@@ -2,13 +2,14 @@
   "id": 387586333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.305377,43.711309,-70.305377,43.711309",
     "geom:latitude":43.711309,
     "geom:longitude":-70.305377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 Riverside Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387586333,
-    "wof:lastmodified":1449059485,
+    "wof:lastmodified":1466586112,
     "wof:name":"Designs By Lucinda",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mdse"
     ]
 },
-  "bbox": [-70.305377,43.711309,-70.305377,43.711309],
-  "geometry": {"coordinates":[-70.305377,43.711309],"type":"Point"}
+  "bbox": [
+    -70.305377,
+    43.711309,
+    -70.305377,
+    43.711309
+],
+  "geometry": {"coordinates":[-70.30537699999999,43.711309],"type":"Point"}
 }

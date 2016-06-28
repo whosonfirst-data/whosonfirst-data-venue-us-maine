@@ -2,13 +2,14 @@
   "id": 387673991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.007488,44.915047,-67.007488,44.915047",
     "geom:latitude":44.915047,
     "geom:longitude":-67.007488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 County Rd",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387673991,
-    "wof:lastmodified":1449057579,
+    "wof:lastmodified":1466586345,
     "wof:name":"Murphy's Electric",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-67.007488,44.915047,-67.007488,44.915047],
+  "bbox": [
+    -67.007488,
+    44.915047,
+    -67.007488,
+    44.915047
+],
   "geometry": {"coordinates":[-67.007488,44.915047],"type":"Point"}
 }

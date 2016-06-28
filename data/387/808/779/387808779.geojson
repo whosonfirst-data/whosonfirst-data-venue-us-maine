@@ -2,13 +2,14 @@
   "id": 387808779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.402987,46.630782,-68.402987,46.630782",
     "geom:latitude":46.630782,
     "geom:longitude":-68.402987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Exchange St",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387808779,
-    "wof:lastmodified":1449056295,
+    "wof:lastmodified":1466587165,
     "wof:name":"Babes Variety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.402987,46.630782,-68.402987,46.630782],
+  "bbox": [
+    -68.402987,
+    46.630782,
+    -68.402987,
+    46.630782
+],
   "geometry": {"coordinates":[-68.402987,46.630782],"type":"Point"}
 }

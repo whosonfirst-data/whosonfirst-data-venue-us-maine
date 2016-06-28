@@ -2,13 +2,14 @@
   "id": 404136475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.261155,43.633311,-70.261155,43.633311",
     "geom:latitude":43.633311,
     "geom:longitude":-70.261155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"743 Broadway",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404136475,
-    "wof:lastmodified":1449040316,
+    "wof:lastmodified":1466586550,
     "wof:name":"PLANETSAVE.COM",
     "wof:parent_id":85828657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.261155,43.633311,-70.261155,43.633311],
+  "bbox": [
+    -70.261155,
+    43.633311,
+    -70.261155,
+    43.633311
+],
   "geometry": {"coordinates":[-70.261155,43.633311],"type":"Point"}
 }

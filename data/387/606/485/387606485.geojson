@@ -2,13 +2,14 @@
   "id": 387606485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.9746,44.429425,-68.9746,44.429425",
     "geom:latitude":44.429425,
     "geom:longitude":-68.9746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Searsport Ave",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387606485,
-    "wof:lastmodified":1449056692,
+    "wof:lastmodified":1466586433,
     "wof:name":"Bay Area Fitness",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-68.9746,44.429425,-68.9746,44.429425],
+  "bbox": [
+    -68.9746,
+    44.429425,
+    -68.9746,
+    44.429425
+],
   "geometry": {"coordinates":[-68.9746,44.429425],"type":"Point"}
 }

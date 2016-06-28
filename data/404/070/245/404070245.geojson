@@ -2,13 +2,14 @@
   "id": 404070245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.664601,44.52809,-69.664601,44.52809",
     "geom:latitude":44.52809,
     "geom:longitude":-69.664601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"288 W River Rd",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404070245,
-    "wof:lastmodified":1449039596,
+    "wof:lastmodified":1466586584,
     "wof:name":"College Quik Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.664601,44.52809,-69.664601,44.52809],
+  "bbox": [
+    -69.664601,
+    44.52809,
+    -69.664601,
+    44.52809
+],
   "geometry": {"coordinates":[-69.664601,44.52809],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403852665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.850851,44.797528,-68.850851,44.797528",
     "geom:latitude":44.797528,
     "geom:longitude":-68.850851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Liberty Dr",
     "sg:city":"Hermon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403852665,
-    "wof:lastmodified":1449055749,
+    "wof:lastmodified":1466586653,
     "wof:name":"MAACO Auto Painting & Bodywork",
     "wof:parent_id":85838259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-68.850851,44.797528,-68.850851,44.797528],
-  "geometry": {"coordinates":[-68.850851,44.797528],"type":"Point"}
+  "bbox": [
+    -68.850851,
+    44.797528,
+    -68.850851,
+    44.797528
+],
+  "geometry": {"coordinates":[-68.85085100000001,44.797528],"type":"Point"}
 }

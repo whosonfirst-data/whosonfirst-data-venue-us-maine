@@ -2,13 +2,14 @@
   "id": 403732153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.299582,43.589363,-70.299582,43.589363",
     "geom:latitude":43.589363,
     "geom:longitude":-70.299582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Highland Ave",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403732153,
-    "wof:lastmodified":1449056018,
+    "wof:lastmodified":1466586003,
     "wof:name":"Pleasant Hill School",
     "wof:parent_id":85842219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.299582,43.589363,-70.299582,43.589363],
+  "bbox": [
+    -70.299582,
+    43.589363,
+    -70.299582,
+    43.589363
+],
   "geometry": {"coordinates":[-70.299582,43.589363],"type":"Point"}
 }

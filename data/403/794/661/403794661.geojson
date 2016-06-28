@@ -2,13 +2,14 @@
   "id": 403794661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.749085,44.796407,-68.749085,44.796407",
     "geom:latitude":44.796407,
     "geom:longitude":-68.749085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Parkway N",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403794661,
-    "wof:lastmodified":1449055271,
+    "wof:lastmodified":1466585867,
     "wof:name":"Trisha's Hair Salon",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.749085,44.796407,-68.749085,44.796407],
-  "geometry": {"coordinates":[-68.749085,44.796407],"type":"Point"}
+  "bbox": [
+    -68.749085,
+    44.796407,
+    -68.749085,
+    44.796407
+],
+  "geometry": {"coordinates":[-68.74908499999999,44.796407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387561457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.880793,44.754922,-68.880793,44.754922",
     "geom:latitude":44.754922,
     "geom:longitude":-68.880793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Emerson Mill Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387561457,
-    "wof:lastmodified":1449058806,
+    "wof:lastmodified":1466585786,
     "wof:name":"Eastern Star Grange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-68.880793,44.754922,-68.880793,44.754922],
+  "bbox": [
+    -68.880793,
+    44.754922,
+    -68.880793,
+    44.754922
+],
   "geometry": {"coordinates":[-68.880793,44.754922],"type":"Point"}
 }

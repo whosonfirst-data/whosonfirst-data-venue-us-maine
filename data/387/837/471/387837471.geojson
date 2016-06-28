@@ -2,13 +2,14 @@
   "id": 387837471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.260903,43.656281,-70.260903,43.656281",
     "geom:latitude":43.656281,
     "geom:longitude":-70.260903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387837471,
-    "wof:lastmodified":1449056695,
+    "wof:lastmodified":1466587216,
     "wof:name":"Hopkinson Abbondanza & Backer",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-70.260903,43.656281,-70.260903,43.656281],
+  "bbox": [
+    -70.260903,
+    43.656281,
+    -70.260903,
+    43.656281
+],
   "geometry": {"coordinates":[-70.260903,43.656281],"type":"Point"}
 }

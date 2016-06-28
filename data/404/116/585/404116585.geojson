@@ -2,13 +2,14 @@
   "id": 404116585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.058277,43.994883,-70.058277,43.994883",
     "geom:latitude":43.994883,
     "geom:longitude":-70.058277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Lisbon St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404116585,
-    "wof:lastmodified":1449039188,
+    "wof:lastmodified":1466586240,
     "wof:name":"Tip Top Tree",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.058277,43.994883,-70.058277,43.994883],
+  "bbox": [
+    -70.058277,
+    43.994883,
+    -70.058277,
+    43.994883
+],
   "geometry": {"coordinates":[-70.058277,43.994883],"type":"Point"}
 }

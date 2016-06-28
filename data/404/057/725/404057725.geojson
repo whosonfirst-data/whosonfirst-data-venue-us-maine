@@ -2,13 +2,14 @@
   "id": 404057725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.273071,43.629326,-70.273071,43.629326",
     "geom:latitude":43.629326,
     "geom:longitude":-70.273071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Broadway",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404057725,
-    "wof:lastmodified":1449039630,
+    "wof:lastmodified":1466586401,
     "wof:name":"Elder Planning Advisors-Maine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-70.273071,43.629326,-70.273071,43.629326],
+  "bbox": [
+    -70.273071,
+    43.629326,
+    -70.273071,
+    43.629326
+],
   "geometry": {"coordinates":[-70.273071,43.629326],"type":"Point"}
 }

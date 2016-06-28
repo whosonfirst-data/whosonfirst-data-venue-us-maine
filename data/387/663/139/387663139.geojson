@@ -2,13 +2,14 @@
   "id": 387663139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.159638,43.800619,-70.159638,43.800619",
     "geom:latitude":43.800619,
     "geom:longitude":-70.159638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Broad Arrow Trl",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387663139,
-    "wof:lastmodified":1449058902,
+    "wof:lastmodified":1466586172,
     "wof:name":"Wagon Masters",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-70.159638,43.800619,-70.159638,43.800619],
+  "bbox": [
+    -70.159638,
+    43.800619,
+    -70.159638,
+    43.800619
+],
   "geometry": {"coordinates":[-70.159638,43.800619],"type":"Point"}
 }

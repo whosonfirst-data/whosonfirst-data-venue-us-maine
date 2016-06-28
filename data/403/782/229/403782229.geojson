@@ -2,13 +2,14 @@
   "id": 403782229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.019269,44.062411,-70.019269,44.062411",
     "geom:latitude":44.062411,
     "geom:longitude":-70.019269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Pinewood Acres Rd",
     "sg:city":"Bowdoin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403782229,
-    "wof:lastmodified":1449054622,
+    "wof:lastmodified":1466585709,
     "wof:name":"TLP Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.019269,44.062411,-70.019269,44.062411],
-  "geometry": {"coordinates":[-70.019269,44.062411],"type":"Point"}
+  "bbox": [
+    -70.019269,
+    44.062411,
+    -70.019269,
+    44.062411
+],
+  "geometry": {"coordinates":[-70.01926899999999,44.062411],"type":"Point"}
 }

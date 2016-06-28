@@ -2,13 +2,14 @@
   "id": 387780575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.790911,43.124849,-70.790911,43.124849",
     "geom:latitude":43.124849,
     "geom:longitude":-70.790911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 State Rd",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387780575,
-    "wof:lastmodified":1449058958,
+    "wof:lastmodified":1466586997,
     "wof:name":"Eliot Congregational Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.790911,43.124849,-70.790911,43.124849],
-  "geometry": {"coordinates":[-70.790911,43.124849],"type":"Point"}
+  "bbox": [
+    -70.790911,
+    43.124849,
+    -70.790911,
+    43.124849
+],
+  "geometry": {"coordinates":[-70.79091099999999,43.124849],"type":"Point"}
 }

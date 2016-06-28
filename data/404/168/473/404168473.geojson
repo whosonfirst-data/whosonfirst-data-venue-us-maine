@@ -2,13 +2,14 @@
   "id": 404168473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.74226,44.835702,-68.74226,44.835702",
     "geom:latitude":44.835702,
     "geom:longitude":-68.74226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Springer Dr",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404168473,
-    "wof:lastmodified":1449039747,
+    "wof:lastmodified":1466586684,
     "wof:name":"Linwood L Colson III OD",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.74226,44.835702,-68.74226,44.835702],
+  "bbox": [
+    -68.74226,
+    44.835702,
+    -68.74226,
+    44.835702
+],
   "geometry": {"coordinates":[-68.74226,44.835702],"type":"Point"}
 }

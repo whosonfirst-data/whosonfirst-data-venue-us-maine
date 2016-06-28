@@ -2,13 +2,14 @@
   "id": 387942037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.041884,46.703157,-68.041884,46.703157",
     "geom:latitude":46.703157,
     "geom:longitude":-68.041884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 Missile St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387942037,
-    "wof:lastmodified":1449057839,
+    "wof:lastmodified":1466587333,
     "wof:name":"Columbia Forest Products",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "veneer"
     ]
 },
-  "bbox": [-68.041884,46.703157,-68.041884,46.703157],
+  "bbox": [
+    -68.041884,
+    46.703157,
+    -68.041884,
+    46.703157
+],
   "geometry": {"coordinates":[-68.041884,46.703157],"type":"Point"}
 }

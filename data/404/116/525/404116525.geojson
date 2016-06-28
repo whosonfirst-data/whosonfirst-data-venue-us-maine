@@ -2,13 +2,14 @@
   "id": 404116525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.328402,43.686421,-70.328402,43.686421",
     "geom:latitude":43.686421,
     "geom:longitude":-70.328402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"344 Riverside St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404116525,
-    "wof:lastmodified":1449039188,
+    "wof:lastmodified":1466586239,
     "wof:name":"Kamco Supply Corp",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "material"
     ]
 },
-  "bbox": [-70.328402,43.686421,-70.328402,43.686421],
+  "bbox": [
+    -70.328402,
+    43.686421,
+    -70.328402,
+    43.686421
+],
   "geometry": {"coordinates":[-70.328402,43.686421],"type":"Point"}
 }

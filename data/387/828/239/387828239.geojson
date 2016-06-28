@@ -2,13 +2,14 @@
   "id": 387828239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.766356,43.452901,-70.766356,43.452901",
     "geom:latitude":43.452901,
     "geom:longitude":-70.766356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Cottage St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387828239,
-    "wof:lastmodified":1449058035,
+    "wof:lastmodified":1466587026,
     "wof:name":"Mousam Valley Orthopaedics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.766356,43.452901,-70.766356,43.452901],
+  "bbox": [
+    -70.766356,
+    43.452901,
+    -70.766356,
+    43.452901
+],
   "geometry": {"coordinates":[-70.766356,43.452901],"type":"Point"}
 }

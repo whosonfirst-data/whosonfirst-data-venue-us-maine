@@ -2,13 +2,14 @@
   "id": 404063045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.840461,46.106862,-67.840461,46.106862",
     "geom:latitude":46.106862,
     "geom:longitude":-67.840461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 Court St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404063045,
-    "wof:lastmodified":1449039126,
+    "wof:lastmodified":1466586488,
     "wof:name":"Ken's Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.840461,46.106862,-67.840461,46.106862],
+  "bbox": [
+    -67.840461,
+    46.106862,
+    -67.840461,
+    46.106862
+],
   "geometry": {"coordinates":[-67.840461,46.106862],"type":"Point"}
 }

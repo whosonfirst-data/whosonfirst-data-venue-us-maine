@@ -2,13 +2,14 @@
   "id": 387912459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252862,44.082809,-70.252862,44.082809",
     "geom:latitude":44.082809,
     "geom:longitude":-70.252862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Millett Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387912459,
-    "wof:lastmodified":1449057982,
+    "wof:lastmodified":1466587321,
     "wof:name":"Taylor Brook Animal Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-70.252862,44.082809,-70.252862,44.082809],
-  "geometry": {"coordinates":[-70.252862,44.082809],"type":"Point"}
+  "bbox": [
+    -70.252862,
+    44.082809,
+    -70.252862,
+    44.082809
+],
+  "geometry": {"coordinates":[-70.25286199999999,44.082809],"type":"Point"}
 }

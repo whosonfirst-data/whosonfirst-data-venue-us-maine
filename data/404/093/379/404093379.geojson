@@ -2,13 +2,14 @@
   "id": 404093379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.007224,46.860657,-68.007224,46.860657",
     "geom:latitude":46.860657,
     "geom:longitude":-68.007224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 High St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404093379,
-    "wof:lastmodified":1449039083,
+    "wof:lastmodified":1466585899,
     "wof:name":"Bernard-Coury Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.007224,46.860657,-68.007224,46.860657],
-  "geometry": {"coordinates":[-68.007224,46.860657],"type":"Point"}
+  "bbox": [
+    -68.007224,
+    46.860657,
+    -68.007224,
+    46.860657
+],
+  "geometry": {"coordinates":[-68.00722399999999,46.860657],"type":"Point"}
 }

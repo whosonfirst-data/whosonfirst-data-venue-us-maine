@@ -2,13 +2,14 @@
   "id": 387695627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.767905,44.792152,-68.767905,44.792152",
     "geom:latitude":44.792152,
     "geom:longitude":-68.767905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Main St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387695627,
-    "wof:lastmodified":1449057550,
+    "wof:lastmodified":1466586711,
     "wof:name":"Brewer Fire Dept",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-68.767905,44.792152,-68.767905,44.792152],
+  "bbox": [
+    -68.767905,
+    44.792152,
+    -68.767905,
+    44.792152
+],
   "geometry": {"coordinates":[-68.767905,44.792152],"type":"Point"}
 }

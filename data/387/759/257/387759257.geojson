@@ -2,13 +2,14 @@
   "id": 387759257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.765193,44.31635,-69.765193,44.31635",
     "geom:latitude":44.31635,
     "geom:longitude":-69.765193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Cony St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387759257,
-    "wof:lastmodified":1449059973,
+    "wof:lastmodified":1466586925,
     "wof:name":"Disflux Internet Services",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-69.765193,44.31635,-69.765193,44.31635],
+  "bbox": [
+    -69.765193,
+    44.31635,
+    -69.765193,
+    44.31635
+],
   "geometry": {"coordinates":[-69.765193,44.31635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404116241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.720079,45.671075,-68.720079,45.671075",
     "geom:latitude":45.671075,
     "geom:longitude":-68.720079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 Bates St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404116241,
-    "wof:lastmodified":1449039188,
+    "wof:lastmodified":1466586236,
     "wof:name":"Trail Side Variety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.720079,45.671075,-68.720079,45.671075],
+  "bbox": [
+    -68.720079,
+    45.671075,
+    -68.720079,
+    45.671075
+],
   "geometry": {"coordinates":[-68.720079,45.671075],"type":"Point"}
 }

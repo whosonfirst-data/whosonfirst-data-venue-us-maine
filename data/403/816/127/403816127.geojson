@@ -2,13 +2,14 @@
   "id": 403816127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.831263,43.917259,-69.831263,43.917259",
     "geom:latitude":43.917259,
     "geom:longitude":-69.831263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Congress Ave",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403816127,
-    "wof:lastmodified":1449055418,
+    "wof:lastmodified":1466586202,
     "wof:name":"Bath United Church Of Christ",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-69.831263,43.917259,-69.831263,43.917259],
-  "geometry": {"coordinates":[-69.831263,43.917259],"type":"Point"}
+  "bbox": [
+    -69.831263,
+    43.917259,
+    -69.831263,
+    43.917259
+],
+  "geometry": {"coordinates":[-69.83126300000001,43.917259],"type":"Point"}
 }

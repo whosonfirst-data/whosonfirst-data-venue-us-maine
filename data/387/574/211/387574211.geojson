@@ -2,13 +2,14 @@
   "id": 387574211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.52451,44.19371,-70.52451,44.19371",
     "geom:latitude":44.19371,
     "geom:longitude":-70.52451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387574211,
-    "wof:lastmodified":1449056088,
+    "wof:lastmodified":1466585960,
     "wof:name":"Magic Hands Hair Salon",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.52451,44.19371,-70.52451,44.19371],
-  "geometry": {"coordinates":[-70.52451,44.19371],"type":"Point"}
+  "bbox": [
+    -70.52451,
+    44.19371,
+    -70.52451,
+    44.19371
+],
+  "geometry": {"coordinates":[-70.52451000000001,44.19371],"type":"Point"}
 }

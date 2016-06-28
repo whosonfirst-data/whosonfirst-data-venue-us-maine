@@ -2,13 +2,14 @@
   "id": 387691405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.292059,43.667453,-70.292059,43.667453",
     "geom:latitude":43.667453,
     "geom:longitude":-70.292059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Glenwood Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387691405,
-    "wof:lastmodified":1449056425,
+    "wof:lastmodified":1466586622,
     "wof:name":"Chime",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-70.292059,43.667453,-70.292059,43.667453],
-  "geometry": {"coordinates":[-70.292059,43.667453],"type":"Point"}
+  "bbox": [
+    -70.292059,
+    43.667453,
+    -70.292059,
+    43.667453
+],
+  "geometry": {"coordinates":[-70.29205899999999,43.667453],"type":"Point"}
 }

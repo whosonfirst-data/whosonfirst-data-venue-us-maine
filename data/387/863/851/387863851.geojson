@@ -2,13 +2,14 @@
   "id": 387863851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.501258,43.422357,-70.501258,43.422357",
     "geom:latitude":43.422357,
     "geom:longitude":-70.501258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"394 Old Post Rd",
     "sg:city":"Arundel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387863851,
-    "wof:lastmodified":1449058739,
+    "wof:lastmodified":1466587261,
     "wof:name":"Carl R Perkins Paving",
     "wof:parent_id":85828039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.501258,43.422357,-70.501258,43.422357],
-  "geometry": {"coordinates":[-70.501258,43.422357],"type":"Point"}
+  "bbox": [
+    -70.501258,
+    43.422357,
+    -70.501258,
+    43.422357
+],
+  "geometry": {"coordinates":[-70.50125800000001,43.422357],"type":"Point"}
 }

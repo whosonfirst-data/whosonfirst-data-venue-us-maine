@@ -2,13 +2,14 @@
   "id": 403711303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.245452,44.065581,-70.245452,44.065581",
     "geom:latitude":44.065581,
     "geom:longitude":-70.245452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Washington Park Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403711303,
-    "wof:lastmodified":1449055722,
+    "wof:lastmodified":1466585742,
     "wof:name":"Maine Seamless Gutter",
     "wof:parent_id":85831033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-70.245452,44.065581,-70.245452,44.065581],
+  "bbox": [
+    -70.245452,
+    44.065581,
+    -70.245452,
+    44.065581
+],
   "geometry": {"coordinates":[-70.245452,44.065581],"type":"Point"}
 }

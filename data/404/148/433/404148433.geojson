@@ -2,13 +2,14 @@
   "id": 404148433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.35249,43.620517,-70.35249,43.620517",
     "geom:latitude":43.620517,
     "geom:longitude":-70.35249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Roundwood Dr",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404148433,
-    "wof:lastmodified":1449040125,
+    "wof:lastmodified":1466586723,
     "wof:name":"Jewelry Judge",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "jewelry"
     ]
 },
-  "bbox": [-70.35249,43.620517,-70.35249,43.620517],
+  "bbox": [
+    -70.35249,
+    43.620517,
+    -70.35249,
+    43.620517
+],
   "geometry": {"coordinates":[-70.35249,43.620517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387841161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.378907,43.508828,-70.378907,43.508828",
     "geom:latitude":43.508828,
     "geom:longitude":-70.378907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Camp Comfort Ave",
     "sg:city":"Old Orchard Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387841161,
-    "wof:lastmodified":1449056899,
+    "wof:lastmodified":1466587138,
     "wof:name":"Point of View Inn",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-70.378907,43.508828,-70.378907,43.508828],
+  "bbox": [
+    -70.378907,
+    43.508828,
+    -70.378907,
+    43.508828
+],
   "geometry": {"coordinates":[-70.378907,43.508828],"type":"Point"}
 }

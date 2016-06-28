@@ -2,13 +2,14 @@
   "id": 403874609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.359937,44.499816,-68.359937,44.499816",
     "geom:latitude":44.499816,
     "geom:longitude":-68.359937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Jordan River Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403874609,
-    "wof:lastmodified":1449055876,
+    "wof:lastmodified":1466586819,
     "wof:name":"Blue Hill Pets",
     "wof:parent_id":85868805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-68.359937,44.499816,-68.359937,44.499816],
+  "bbox": [
+    -68.359937,
+    44.499816,
+    -68.359937,
+    44.499816
+],
   "geometry": {"coordinates":[-68.359937,44.499816],"type":"Point"}
 }

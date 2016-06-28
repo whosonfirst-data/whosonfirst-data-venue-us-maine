@@ -2,13 +2,14 @@
   "id": 387732235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.632488,44.73446,-68.632488,44.73446",
     "geom:latitude":44.73446,
     "geom:longitude":-68.632488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"393 Lower Dedham Rd",
     "sg:city":"Holden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387732235,
-    "wof:lastmodified":1449060033,
+    "wof:lastmodified":1466586920,
     "wof:name":"Mike Gramlich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "consultant"
     ]
 },
-  "bbox": [-68.632488,44.73446,-68.632488,44.73446],
+  "bbox": [
+    -68.632488,
+    44.73446,
+    -68.632488,
+    44.73446
+],
   "geometry": {"coordinates":[-68.632488,44.73446],"type":"Point"}
 }

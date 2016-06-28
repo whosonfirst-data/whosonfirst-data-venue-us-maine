@@ -2,13 +2,14 @@
   "id": 387885535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.254373,43.654794,-70.254373,43.654794",
     "geom:latitude":43.654794,
     "geom:longitude":-70.254373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"254 Commercial St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387885535,
-    "wof:lastmodified":1449058130,
+    "wof:lastmodified":1466587306,
     "wof:name":"Mark White",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-70.254373,43.654794,-70.254373,43.654794],
+  "bbox": [
+    -70.254373,
+    43.654794,
+    -70.254373,
+    43.654794
+],
   "geometry": {"coordinates":[-70.254373,43.654794],"type":"Point"}
 }

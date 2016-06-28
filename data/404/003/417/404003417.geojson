@@ -2,13 +2,14 @@
   "id": 404003417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.479596,44.142867,-70.479596,44.142867",
     "geom:latitude":44.142867,
     "geom:longitude":-70.479596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Roller Rink Rd",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404003417,
-    "wof:lastmodified":1449040242,
+    "wof:lastmodified":1466585715,
     "wof:name":"Curtis Electric Motor Svc",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [-70.479596,44.142867,-70.479596,44.142867],
+  "bbox": [
+    -70.479596,
+    44.142867,
+    -70.479596,
+    44.142867
+],
   "geometry": {"coordinates":[-70.479596,44.142867],"type":"Point"}
 }

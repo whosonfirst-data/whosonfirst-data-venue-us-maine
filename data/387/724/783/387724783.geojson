@@ -2,13 +2,14 @@
   "id": 387724783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.740336,44.826288,-68.740336,44.826288",
     "geom:latitude":44.826288,
     "geom:longitude":-68.740336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 Hogan Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387724783,
-    "wof:lastmodified":1449059838,
+    "wof:lastmodified":1466586702,
     "wof:name":"Bangor Federal Credit Union",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.740336,44.826288,-68.740336,44.826288],
+  "bbox": [
+    -68.740336,
+    44.826288,
+    -68.740336,
+    44.826288
+],
   "geometry": {"coordinates":[-68.740336,44.826288],"type":"Point"}
 }

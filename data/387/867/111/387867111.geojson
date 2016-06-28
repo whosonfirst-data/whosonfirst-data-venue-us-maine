@@ -2,13 +2,14 @@
   "id": 387867111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.782277,44.312578,-69.782277,44.312578",
     "geom:latitude":44.312578,
     "geom:longitude":-69.782277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Sewall St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387867111,
-    "wof:lastmodified":1449057756,
+    "wof:lastmodified":1466587117,
     "wof:name":"Barnes Ice Cream Mfg",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cream"
     ]
 },
-  "bbox": [-69.782277,44.312578,-69.782277,44.312578],
-  "geometry": {"coordinates":[-69.782277,44.312578],"type":"Point"}
+  "bbox": [
+    -69.782277,
+    44.312578,
+    -69.782277,
+    44.312578
+],
+  "geometry": {"coordinates":[-69.78227699999999,44.312578],"type":"Point"}
 }

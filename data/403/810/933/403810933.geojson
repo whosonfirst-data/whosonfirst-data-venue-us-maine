@@ -2,13 +2,14 @@
   "id": 403810933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.456902,43.490342,-70.456902,43.490342",
     "geom:latitude":43.490342,
     "geom:longitude":-70.456902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Alfred St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403810933,
-    "wof:lastmodified":1449055033,
+    "wof:lastmodified":1466586120,
     "wof:name":"Eastern Shore Home Improvement",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-70.456902,43.490342,-70.456902,43.490342],
+  "bbox": [
+    -70.456902,
+    43.490342,
+    -70.456902,
+    43.490342
+],
   "geometry": {"coordinates":[-70.456902,43.490342],"type":"Point"}
 }

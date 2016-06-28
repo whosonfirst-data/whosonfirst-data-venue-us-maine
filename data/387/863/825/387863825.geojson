@@ -2,13 +2,14 @@
   "id": 387863825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.098142,44.009666,-70.098142,44.009666",
     "geom:latitude":44.009666,
     "geom:longitude":-70.098142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 River Rd",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387863825,
-    "wof:lastmodified":1449058736,
+    "wof:lastmodified":1466587188,
     "wof:name":"Campbell's Used Auto Parts",
     "wof:parent_id":85806367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-70.098142,44.009666,-70.098142,44.009666],
+  "bbox": [
+    -70.098142,
+    44.009666,
+    -70.098142,
+    44.009666
+],
   "geometry": {"coordinates":[-70.098142,44.009666],"type":"Point"}
 }

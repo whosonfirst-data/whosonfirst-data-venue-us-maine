@@ -2,13 +2,14 @@
   "id": 403709681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.724393,44.843604,-68.724393,44.843604",
     "geom:latitude":44.843604,
     "geom:longitude":-68.724393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"257 Mt View Dr",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403709681,
-    "wof:lastmodified":1449054897,
+    "wof:lastmodified":1466585717,
     "wof:name":"Ehm Assoc",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-68.724393,44.843604,-68.724393,44.843604],
-  "geometry": {"coordinates":[-68.724393,44.843604],"type":"Point"}
+  "bbox": [
+    -68.724393,
+    44.843604,
+    -68.724393,
+    44.843604
+],
+  "geometry": {"coordinates":[-68.72439300000001,44.843604],"type":"Point"}
 }

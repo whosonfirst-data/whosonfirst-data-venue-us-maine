@@ -2,13 +2,14 @@
   "id": 387869615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.639263,44.568218,-69.639263,44.568218",
     "geom:latitude":44.568218,
     "geom:longitude":-69.639263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Elm Plz",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387869615,
-    "wof:lastmodified":1449059611,
+    "wof:lastmodified":1466587202,
     "wof:name":"Mr Paperback",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-69.639263,44.568218,-69.639263,44.568218],
+  "bbox": [
+    -69.639263,
+    44.568218,
+    -69.639263,
+    44.568218
+],
   "geometry": {"coordinates":[-69.639263,44.568218],"type":"Point"}
 }

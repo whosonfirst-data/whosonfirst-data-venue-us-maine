@@ -2,13 +2,14 @@
   "id": 403876443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.958469,43.888099,-69.958469,43.888099",
     "geom:latitude":43.888099,
     "geom:longitude":-69.958469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Melden Dr",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403876443,
-    "wof:lastmodified":1449054907,
+    "wof:lastmodified":1466586709,
     "wof:name":"Allen C Graffam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.958469,43.888099,-69.958469,43.888099],
-  "geometry": {"coordinates":[-69.958469,43.888099],"type":"Point"}
+  "bbox": [
+    -69.958469,
+    43.888099,
+    -69.958469,
+    43.888099
+],
+  "geometry": {"coordinates":[-69.95846899999999,43.888099],"type":"Point"}
 }

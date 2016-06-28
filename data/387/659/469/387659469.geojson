@@ -2,13 +2,14 @@
   "id": 387659469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.531294,43.728994,-70.531294,43.728994",
     "geom:latitude":43.728994,
     "geom:longitude":-70.531294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Emery Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387659469,
-    "wof:lastmodified":1449056519,
+    "wof:lastmodified":1466586115,
     "wof:name":"Theresa Levesque",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sales"
     ]
 },
-  "bbox": [-70.531294,43.728994,-70.531294,43.728994],
+  "bbox": [
+    -70.531294,
+    43.728994,
+    -70.531294,
+    43.728994
+],
   "geometry": {"coordinates":[-70.531294,43.728994],"type":"Point"}
 }

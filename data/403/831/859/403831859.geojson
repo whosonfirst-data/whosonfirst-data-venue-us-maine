@@ -2,13 +2,14 @@
   "id": 403831859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.607898,43.178825,-70.607898,43.178825",
     "geom:latitude":43.178825,
     "geom:longitude":-70.607898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Greene Ln",
     "sg:city":"York",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403831859,
-    "wof:lastmodified":1449055426,
+    "wof:lastmodified":1466586462,
     "wof:name":"Energy Impact Inc",
     "wof:parent_id":85831291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clothing"
     ]
 },
-  "bbox": [-70.607898,43.178825,-70.607898,43.178825],
-  "geometry": {"coordinates":[-70.607898,43.178825],"type":"Point"}
+  "bbox": [
+    -70.607898,
+    43.178825,
+    -70.607898,
+    43.178825
+],
+  "geometry": {"coordinates":[-70.60789800000001,43.178825],"type":"Point"}
 }

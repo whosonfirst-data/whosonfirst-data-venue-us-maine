@@ -2,13 +2,14 @@
   "id": 387578975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.449168,43.849468,-70.449168,43.849468",
     "geom:latitude":43.849468,
     "geom:longitude":-70.449168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"754 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387578975,
-    "wof:lastmodified":1449057061,
+    "wof:lastmodified":1466586008,
     "wof:name":"Charlie Beigg's Restaurant",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.449168,43.849468,-70.449168,43.849468],
+  "bbox": [
+    -70.449168,
+    43.849468,
+    -70.449168,
+    43.849468
+],
   "geometry": {"coordinates":[-70.449168,43.849468],"type":"Point"}
 }

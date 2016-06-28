@@ -2,13 +2,14 @@
   "id": 404010941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.009266,46.842088,-68.009266,46.842088",
     "geom:latitude":46.842088,
     "geom:longitude":-68.009266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Summit St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404010941,
-    "wof:lastmodified":1449039857,
+    "wof:lastmodified":1466585818,
     "wof:name":"Dow Hebert & Plourte Inc",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-68.009266,46.842088,-68.009266,46.842088],
+  "bbox": [
+    -68.009266,
+    46.842088,
+    -68.009266,
+    46.842088
+],
   "geometry": {"coordinates":[-68.009266,46.842088],"type":"Point"}
 }

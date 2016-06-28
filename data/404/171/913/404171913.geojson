@@ -2,13 +2,14 @@
   "id": 404171913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.417144,43.838879,-70.417144,43.838879",
     "geom:latitude":43.838879,
     "geom:longitude":-70.417144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 State Rte 115",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404171913,
-    "wof:lastmodified":1449040332,
+    "wof:lastmodified":1466586800,
     "wof:name":"Ledgewood Manor Inc",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-70.417144,43.838879,-70.417144,43.838879],
-  "geometry": {"coordinates":[-70.417144,43.838879],"type":"Point"}
+  "bbox": [
+    -70.417144,
+    43.838879,
+    -70.417144,
+    43.838879
+],
+  "geometry": {"coordinates":[-70.41714399999999,43.838879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404146425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.327911,43.896552,-70.327911,43.896552",
     "geom:latitude":43.896552,
     "geom:longitude":-70.327911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Lewiston Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404146425,
-    "wof:lastmodified":1449039531,
+    "wof:lastmodified":1466586641,
     "wof:name":"Spring Meadows Golf Course",
     "wof:parent_id":85815293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-70.327911,43.896552,-70.327911,43.896552],
+  "bbox": [
+    -70.327911,
+    43.896552,
+    -70.327911,
+    43.896552
+],
   "geometry": {"coordinates":[-70.327911,43.896552],"type":"Point"}
 }

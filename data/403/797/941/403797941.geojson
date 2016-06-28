@@ -2,13 +2,14 @@
   "id": 403797941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.531446,43.385387,-70.531446,43.385387",
     "geom:latitude":43.385387,
     "geom:longitude":-70.531446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Summer St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403797941,
-    "wof:lastmodified":1449055837,
+    "wof:lastmodified":1466585913,
     "wof:name":"Financial Consultant",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.531446,43.385387,-70.531446,43.385387],
+  "bbox": [
+    -70.531446,
+    43.385387,
+    -70.531446,
+    43.385387
+],
   "geometry": {"coordinates":[-70.531446,43.385387],"type":"Point"}
 }

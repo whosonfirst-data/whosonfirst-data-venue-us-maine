@@ -2,13 +2,14 @@
   "id": 387719263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.80214,44.347637,-69.80214,44.347637",
     "geom:latitude":44.347637,
     "geom:longitude":-69.80214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Anthony Ave",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387719263,
-    "wof:lastmodified":1449056600,
+    "wof:lastmodified":1466586805,
     "wof:name":"Job Corps Admissions",
     "wof:parent_id":85841121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "employment"
     ]
 },
-  "bbox": [-69.80214,44.347637,-69.80214,44.347637],
-  "geometry": {"coordinates":[-69.80214,44.347637],"type":"Point"}
+  "bbox": [
+    -69.80214,
+    44.347637,
+    -69.80214,
+    44.347637
+],
+  "geometry": {"coordinates":[-69.80213999999999,44.347637],"type":"Point"}
 }

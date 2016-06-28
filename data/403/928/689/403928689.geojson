@@ -2,13 +2,14 @@
   "id": 403928689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.320635,43.68686,-70.320635,43.68686",
     "geom:latitude":43.68686,
     "geom:longitude":-70.320635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Warren Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403928689,
-    "wof:lastmodified":1449055781,
+    "wof:lastmodified":1466587022,
     "wof:name":"Grainger Inc",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "industrial"
     ]
 },
-  "bbox": [-70.320635,43.68686,-70.320635,43.68686],
+  "bbox": [
+    -70.320635,
+    43.68686,
+    -70.320635,
+    43.68686
+],
   "geometry": {"coordinates":[-70.320635,43.68686],"type":"Point"}
 }

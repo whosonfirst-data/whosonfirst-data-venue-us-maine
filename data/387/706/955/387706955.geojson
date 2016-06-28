@@ -2,13 +2,14 @@
   "id": 387706955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.327298,43.60466,-70.327298,43.60466",
     "geom:latitude":43.60466,
     "geom:longitude":-70.327298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Sequoia Ln",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387706955,
-    "wof:lastmodified":1449056384,
+    "wof:lastmodified":1466586765,
     "wof:name":"Juliann Simonton",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.327298,43.60466,-70.327298,43.60466],
+  "bbox": [
+    -70.327298,
+    43.60466,
+    -70.327298,
+    43.60466
+],
   "geometry": {"coordinates":[-70.327298,43.60466],"type":"Point"}
 }

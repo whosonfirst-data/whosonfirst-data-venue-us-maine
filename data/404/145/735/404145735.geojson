@@ -2,13 +2,14 @@
   "id": 404145735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.634358,44.771236,-68.634358,44.771236",
     "geom:latitude":44.771236,
     "geom:longitude":-68.634358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Clark Hill Rd",
     "sg:city":"Holden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404145735,
-    "wof:lastmodified":1449039391,
+    "wof:lastmodified":1466586636,
     "wof:name":"Carter M T Notary Public Svc",
     "wof:parent_id":85804681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-68.634358,44.771236,-68.634358,44.771236],
-  "geometry": {"coordinates":[-68.634358,44.771236],"type":"Point"}
+  "bbox": [
+    -68.634358,
+    44.771236,
+    -68.634358,
+    44.771236
+],
+  "geometry": {"coordinates":[-68.63435800000001,44.771236],"type":"Point"}
 }

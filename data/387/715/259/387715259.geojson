@@ -2,13 +2,14 @@
   "id": 387715259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.988641,44.401153,-68.988641,44.401153",
     "geom:latitude":44.401153,
     "geom:longitude":-68.988641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Northport Ave",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387715259,
-    "wof:lastmodified":1449059149,
+    "wof:lastmodified":1466586685,
     "wof:name":"United Auto",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-68.988641,44.401153,-68.988641,44.401153],
+  "bbox": [
+    -68.988641,
+    44.401153,
+    -68.988641,
+    44.401153
+],
   "geometry": {"coordinates":[-68.988641,44.401153],"type":"Point"}
 }

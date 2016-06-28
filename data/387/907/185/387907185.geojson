@@ -2,13 +2,14 @@
   "id": 387907185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.314197,43.673027,-70.314197,43.673027",
     "geom:latitude":43.673027,
     "geom:longitude":-70.314197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"856 Brighton Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387907185,
-    "wof:lastmodified":1449059627,
+    "wof:lastmodified":1466587240,
     "wof:name":"Breakwater School",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "school"
     ]
 },
-  "bbox": [-70.314197,43.673027,-70.314197,43.673027],
-  "geometry": {"coordinates":[-70.314197,43.673027],"type":"Point"}
+  "bbox": [
+    -70.314197,
+    43.673027,
+    -70.314197,
+    43.673027
+],
+  "geometry": {"coordinates":[-70.31419699999999,43.673027],"type":"Point"}
 }

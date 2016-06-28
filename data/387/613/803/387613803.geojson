@@ -2,13 +2,14 @@
   "id": 387613803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.504793,45.365547,-68.504793,45.365547",
     "geom:latitude":45.365547,
     "geom:longitude":-68.504793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Fleming St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387613803,
-    "wof:lastmodified":1449057877,
+    "wof:lastmodified":1466586559,
     "wof:name":"Foresight Engineering",
     "wof:parent_id":85849837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-68.504793,45.365547,-68.504793,45.365547],
-  "geometry": {"coordinates":[-68.504793,45.365547],"type":"Point"}
+  "bbox": [
+    -68.504793,
+    45.365547,
+    -68.504793,
+    45.365547
+],
+  "geometry": {"coordinates":[-68.50479300000001,45.365547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404032803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.717855,43.47455,-70.717855,43.47455",
     "geom:latitude":43.47455,
     "geom:longitude":-70.717855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Depot St",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404032803,
-    "wof:lastmodified":1449039623,
+    "wof:lastmodified":1466586001,
     "wof:name":"Middle Branch Land Surveyors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-70.717855,43.47455,-70.717855,43.47455],
+  "bbox": [
+    -70.717855,
+    43.47455,
+    -70.717855,
+    43.47455
+],
   "geometry": {"coordinates":[-70.717855,43.47455],"type":"Point"}
 }

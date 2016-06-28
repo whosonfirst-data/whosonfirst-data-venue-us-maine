@@ -2,13 +2,14 @@
   "id": 404144557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.596266,43.295586,-70.596266,43.295586",
     "geom:latitude":43.295586,
     "geom:longitude":-70.596266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Littlefield Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404144557,
-    "wof:lastmodified":1449039995,
+    "wof:lastmodified":1466586696,
     "wof:name":"Jewelry Design",
     "wof:parent_id":85810445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.596266,43.295586,-70.596266,43.295586],
+  "bbox": [
+    -70.596266,
+    43.295586,
+    -70.596266,
+    43.295586
+],
   "geometry": {"coordinates":[-70.596266,43.295586],"type":"Point"}
 }

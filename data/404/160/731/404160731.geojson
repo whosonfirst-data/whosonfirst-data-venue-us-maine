@@ -2,13 +2,14 @@
   "id": 404160731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.360443,43.682258,-70.360443,43.682258",
     "geom:latitude":43.682258,
     "geom:longitude":-70.360443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Myrtle St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404160731,
-    "wof:lastmodified":1449040123,
+    "wof:lastmodified":1466586763,
     "wof:name":"Fine Line Striping",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.360443,43.682258,-70.360443,43.682258],
+  "bbox": [
+    -70.360443,
+    43.682258,
+    -70.360443,
+    43.682258
+],
   "geometry": {"coordinates":[-70.360443,43.682258],"type":"Point"}
 }

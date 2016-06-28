@@ -2,13 +2,14 @@
   "id": 403815767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.534871,43.5256,-70.534871,43.5256",
     "geom:latitude":43.5256,
     "geom:longitude":-70.534871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"258 River Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403815767,
-    "wof:lastmodified":1449055274,
+    "wof:lastmodified":1466586196,
     "wof:name":"Gary's Auto Salvage",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.534871,43.5256,-70.534871,43.5256],
+  "bbox": [
+    -70.534871,
+    43.5256,
+    -70.534871,
+    43.5256
+],
   "geometry": {"coordinates":[-70.534871,43.5256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403951417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.795746,44.754598,-68.795746,44.754598",
     "geom:latitude":44.754598,
     "geom:longitude":-68.795746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"466 River Rd",
     "sg:city":"Orrington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403951417,
-    "wof:lastmodified":1449054674,
+    "wof:lastmodified":1466587075,
     "wof:name":"Lots Of Love Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.795746,44.754598,-68.795746,44.754598],
-  "geometry": {"coordinates":[-68.795746,44.754598],"type":"Point"}
+  "bbox": [
+    -68.795746,
+    44.754598,
+    -68.795746,
+    44.754598
+],
+  "geometry": {"coordinates":[-68.79574599999999,44.754598],"type":"Point"}
 }

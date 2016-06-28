@@ -2,13 +2,14 @@
   "id": 403853703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.834386,44.780594,-68.834386,44.780594",
     "geom:latitude":44.780594,
     "geom:longitude":-68.834386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"690 Odlin Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403853703,
-    "wof:lastmodified":1449055165,
+    "wof:lastmodified":1466586729,
     "wof:name":"Tilton Truck & Equipment",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-68.834386,44.780594,-68.834386,44.780594],
-  "geometry": {"coordinates":[-68.834386,44.780594],"type":"Point"}
+  "bbox": [
+    -68.834386,
+    44.780594,
+    -68.834386,
+    44.780594
+],
+  "geometry": {"coordinates":[-68.83438599999999,44.780594],"type":"Point"}
 }

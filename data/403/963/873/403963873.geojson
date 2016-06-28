@@ -2,13 +2,14 @@
   "id": 403963873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.356428,43.746306,-70.356428,43.746306",
     "geom:latitude":43.746306,
     "geom:longitude":-70.356428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1274 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403963873,
-    "wof:lastmodified":1449054766,
+    "wof:lastmodified":1466587034,
     "wof:name":"Custom Country Floors",
     "wof:parent_id":85825127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-70.356428,43.746306,-70.356428,43.746306],
-  "geometry": {"coordinates":[-70.356428,43.746306],"type":"Point"}
+  "bbox": [
+    -70.356428,
+    43.746306,
+    -70.356428,
+    43.746306
+],
+  "geometry": {"coordinates":[-70.35642799999999,43.746306],"type":"Point"}
 }

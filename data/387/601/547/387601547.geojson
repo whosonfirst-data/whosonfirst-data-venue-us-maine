@@ -2,13 +2,14 @@
   "id": 387601547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.009284,44.226199,-70.009284,44.226199",
     "geom:latitude":44.226199,
     "geom:longitude":-70.009284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Prescott Hill Rd",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387601547,
-    "wof:lastmodified":1449057804,
+    "wof:lastmodified":1466586359,
     "wof:name":"Pat's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-70.009284,44.226199,-70.009284,44.226199],
-  "geometry": {"coordinates":[-70.009284,44.226199],"type":"Point"}
+  "bbox": [
+    -70.009284,
+    44.226199,
+    -70.009284,
+    44.226199
+],
+  "geometry": {"coordinates":[-70.00928399999999,44.226199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387886549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.58014,44.205173,-70.58014,44.205173",
     "geom:latitude":44.205173,
     "geom:longitude":-70.58014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Sodom Rd",
     "sg:city":"Hebron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387886549,
-    "wof:lastmodified":1449058216,
+    "wof:lastmodified":1466587223,
     "wof:name":"P S Country",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.58014,44.205173,-70.58014,44.205173],
+  "bbox": [
+    -70.58014,
+    44.205173,
+    -70.58014,
+    44.205173
+],
   "geometry": {"coordinates":[-70.58014,44.205173],"type":"Point"}
 }

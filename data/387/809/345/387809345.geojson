@@ -2,13 +2,14 @@
   "id": 387809345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.299698,43.619954,-70.299698,43.619954",
     "geom:latitude":43.619954,
     "geom:longitude":-70.299698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Sunset Ave",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387809345,
-    "wof:lastmodified":1449059242,
+    "wof:lastmodified":1466587162,
     "wof:name":"Finest Kind Builders",
     "wof:parent_id":85852203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.299698,43.619954,-70.299698,43.619954],
-  "geometry": {"coordinates":[-70.299698,43.619954],"type":"Point"}
+  "bbox": [
+    -70.299698,
+    43.619954,
+    -70.299698,
+    43.619954
+],
+  "geometry": {"coordinates":[-70.29969800000001,43.619954],"type":"Point"}
 }

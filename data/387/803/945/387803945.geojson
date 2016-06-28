@@ -2,13 +2,14 @@
   "id": 387803945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.41389,44.077788,-70.41389,44.077788",
     "geom:latitude":44.077788,
     "geom:longitude":-70.41389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 S Main St",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387803945,
-    "wof:lastmodified":1449059961,
+    "wof:lastmodified":1466586967,
     "wof:name":"Delightful Odds & Herbs",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "greenhouse"
     ]
 },
-  "bbox": [-70.41389,44.077788,-70.41389,44.077788],
-  "geometry": {"coordinates":[-70.41389,44.077788],"type":"Point"}
+  "bbox": [
+    -70.41389,
+    44.077788,
+    -70.41389,
+    44.077788
+],
+  "geometry": {"coordinates":[-70.41388999999999,44.077788],"type":"Point"}
 }

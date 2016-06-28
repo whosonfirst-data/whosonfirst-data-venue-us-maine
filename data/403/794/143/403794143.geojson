@@ -2,13 +2,14 @@
   "id": 403794143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.263471,43.648596,-70.263471,43.648596",
     "geom:latitude":43.648596,
     "geom:longitude":-70.263471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Danforth St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403794143,
-    "wof:lastmodified":1449055271,
+    "wof:lastmodified":1466585863,
     "wof:name":"Mallory James Interiors",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drapery"
     ]
 },
-  "bbox": [-70.263471,43.648596,-70.263471,43.648596],
+  "bbox": [
+    -70.263471,
+    43.648596,
+    -70.263471,
+    43.648596
+],
   "geometry": {"coordinates":[-70.263471,43.648596],"type":"Point"}
 }

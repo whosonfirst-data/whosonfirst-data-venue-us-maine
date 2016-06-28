@@ -2,13 +2,14 @@
   "id": 387616487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.64671,43.1439,-70.64671,43.1439",
     "geom:latitude":43.1439,
     "geom:longitude":-70.64671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Woodbridge Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387616487,
-    "wof:lastmodified":1449058901,
+    "wof:lastmodified":1466585676,
     "wof:name":"The Country Gourmet",
     "wof:parent_id":85859383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-70.64671,43.1439,-70.64671,43.1439],
+  "bbox": [
+    -70.64671,
+    43.1439,
+    -70.64671,
+    43.1439
+],
   "geometry": {"coordinates":[-70.64671,43.1439],"type":"Point"}
 }

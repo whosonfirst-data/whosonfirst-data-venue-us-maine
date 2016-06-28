@@ -2,13 +2,14 @@
   "id": 387971161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.430894,44.050202,-69.430894,44.050202",
     "geom:latitude":44.050202,
     "geom:longitude":-69.430894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"354 Nobleboro Rd",
     "sg:city":"Bremen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387971161,
-    "wof:lastmodified":1449058032,
+    "wof:lastmodified":1466587304,
     "wof:name":"Red Oak Landscape Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.430894,44.050202,-69.430894,44.050202],
+  "bbox": [
+    -69.430894,
+    44.050202,
+    -69.430894,
+    44.050202
+],
   "geometry": {"coordinates":[-69.430894,44.050202],"type":"Point"}
 }

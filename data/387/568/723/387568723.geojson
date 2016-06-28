@@ -2,13 +2,14 @@
   "id": 387568723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.4783,43.380808,-70.4783,43.380808",
     "geom:latitude":43.380808,
     "geom:longitude":-70.4783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Arundel Rd",
     "sg:city":"Arundel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387568723,
-    "wof:lastmodified":1449056027,
+    "wof:lastmodified":1466585878,
     "wof:name":"Children's House Child Care",
     "wof:parent_id":85852443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-70.4783,43.380808,-70.4783,43.380808],
+  "bbox": [
+    -70.4783,
+    43.380808,
+    -70.4783,
+    43.380808
+],
   "geometry": {"coordinates":[-70.4783,43.380808],"type":"Point"}
 }

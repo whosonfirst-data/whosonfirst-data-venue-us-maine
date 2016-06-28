@@ -2,13 +2,14 @@
   "id": 387694379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.258854,43.694423,-70.258854,43.694423",
     "geom:latitude":43.694423,
     "geom:longitude":-70.258854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Presumpscot St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387694379,
-    "wof:lastmodified":1449057169,
+    "wof:lastmodified":1466586641,
     "wof:name":"SPI Distribution Inc",
     "wof:parent_id":85816239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.258854,43.694423,-70.258854,43.694423],
+  "bbox": [
+    -70.258854,
+    43.694423,
+    -70.258854,
+    43.694423
+],
   "geometry": {"coordinates":[-70.258854,43.694423],"type":"Point"}
 }

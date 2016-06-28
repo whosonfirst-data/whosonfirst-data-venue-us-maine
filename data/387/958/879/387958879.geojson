@@ -2,13 +2,14 @@
   "id": 387958879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.845859,43.530867,-70.845859,43.530867",
     "geom:latitude":43.530867,
     "geom:longitude":-70.845859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Rodrigue Ln",
     "sg:city":"Shapleigh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387958879,
-    "wof:lastmodified":1449059071,
+    "wof:lastmodified":1466587342,
     "wof:name":"Phoenix Bag Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "canvas"
     ]
 },
-  "bbox": [-70.845859,43.530867,-70.845859,43.530867],
+  "bbox": [
+    -70.845859,
+    43.530867,
+    -70.845859,
+    43.530867
+],
   "geometry": {"coordinates":[-70.845859,43.530867],"type":"Point"}
 }

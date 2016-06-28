@@ -2,13 +2,14 @@
   "id": 403846547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.584763,45.628416,-68.584763,45.628416",
     "geom:latitude":45.628416,
     "geom:longitude":-68.584763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Main St",
     "sg:city":"East Millinocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403846547,
-    "wof:lastmodified":1449055671,
+    "wof:lastmodified":1466586823,
     "wof:name":"Fraser's Trading Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.584763,45.628416,-68.584763,45.628416],
+  "bbox": [
+    -68.584763,
+    45.628416,
+    -68.584763,
+    45.628416
+],
   "geometry": {"coordinates":[-68.584763,45.628416],"type":"Point"}
 }

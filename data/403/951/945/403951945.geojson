@@ -2,13 +2,14 @@
   "id": 403951945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.698252,44.251002,-69.698252,44.251002",
     "geom:latitude":44.251002,
     "geom:longitude":-69.698252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Windsor Rd",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403951945,
-    "wof:lastmodified":1449054672,
+    "wof:lastmodified":1466587159,
     "wof:name":"Lawry Brothers Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-69.698252,44.251002,-69.698252,44.251002],
+  "bbox": [
+    -69.698252,
+    44.251002,
+    -69.698252,
+    44.251002
+],
   "geometry": {"coordinates":[-69.698252,44.251002],"type":"Point"}
 }

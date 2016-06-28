@@ -2,13 +2,14 @@
   "id": 404220317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.255007,43.65451,-70.255007,43.65451",
     "geom:latitude":43.65451,
     "geom:longitude":-70.255007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Commercial St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404220317,
-    "wof:lastmodified":1449040282,
+    "wof:lastmodified":1466587087,
     "wof:name":"Dictar Associates Inc",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.255007,43.65451,-70.255007,43.65451],
-  "geometry": {"coordinates":[-70.255007,43.65451],"type":"Point"}
+  "bbox": [
+    -70.255007,
+    43.65451,
+    -70.255007,
+    43.65451
+],
+  "geometry": {"coordinates":[-70.25500700000001,43.65451],"type":"Point"}
 }

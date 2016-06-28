@@ -2,13 +2,14 @@
   "id": 387831615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.673978,44.885953,-68.673978,44.885953",
     "geom:latitude":44.885953,
     "geom:longitude":-68.673978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Bennoch Rd",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387831615,
-    "wof:lastmodified":1449058336,
+    "wof:lastmodified":1466587208,
     "wof:name":"Town Recreation",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-68.673978,44.885953,-68.673978,44.885953],
-  "geometry": {"coordinates":[-68.673978,44.885953],"type":"Point"}
+  "bbox": [
+    -68.673978,
+    44.885953,
+    -68.673978,
+    44.885953
+],
+  "geometry": {"coordinates":[-68.67397800000001,44.885953],"type":"Point"}
 }

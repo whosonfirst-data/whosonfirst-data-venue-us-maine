@@ -2,13 +2,14 @@
   "id": 403770913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.28965,45.026939,-69.28965,45.026939",
     "geom:latitude":45.026939,
     "geom:longitude":-69.28965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Grove St",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403770913,
-    "wof:lastmodified":1449055997,
+    "wof:lastmodified":1466586546,
     "wof:name":"Dexter Ambulance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-69.28965,45.026939,-69.28965,45.026939],
-  "geometry": {"coordinates":[-69.28965,45.026939],"type":"Point"}
+  "bbox": [
+    -69.28965,
+    45.026939,
+    -69.28965,
+    45.026939
+],
+  "geometry": {"coordinates":[-69.28964999999999,45.026939],"type":"Point"}
 }

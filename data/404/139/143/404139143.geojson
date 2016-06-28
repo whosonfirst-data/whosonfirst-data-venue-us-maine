@@ -2,13 +2,14 @@
   "id": 404139143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.841391,46.125517,-67.841391,46.125517",
     "geom:latitude":46.125517,
     "geom:longitude":-67.841391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Market Sq",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404139143,
-    "wof:lastmodified":1449039135,
+    "wof:lastmodified":1466586588,
     "wof:name":"Farm Family Claims",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "processing"
     ]
 },
-  "bbox": [-67.841391,46.125517,-67.841391,46.125517],
+  "bbox": [
+    -67.841391,
+    46.125517,
+    -67.841391,
+    46.125517
+],
   "geometry": {"coordinates":[-67.841391,46.125517],"type":"Point"}
 }

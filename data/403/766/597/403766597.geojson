@@ -2,13 +2,14 @@
   "id": 403766597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.206983,44.389883,-68.206983,44.389883",
     "geom:latitude":44.389883,
     "geom:longitude":-68.206983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Federal St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403766597,
-    "wof:lastmodified":1449054613,
+    "wof:lastmodified":1466586481,
     "wof:name":"Acadia Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-68.206983,44.389883,-68.206983,44.389883],
-  "geometry": {"coordinates":[-68.206983,44.389883],"type":"Point"}
+  "bbox": [
+    -68.206983,
+    44.389883,
+    -68.206983,
+    44.389883
+],
+  "geometry": {"coordinates":[-68.20698299999999,44.389883],"type":"Point"}
 }

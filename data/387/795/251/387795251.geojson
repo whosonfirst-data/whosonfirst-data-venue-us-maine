@@ -2,13 +2,14 @@
   "id": 387795251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.772256,43.131186,-70.772256,43.131186",
     "geom:latitude":43.131186,
     "geom:longitude":-70.772256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Dow Hwy",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387795251,
-    "wof:lastmodified":1449058357,
+    "wof:lastmodified":1466587023,
     "wof:name":"Cindy I Pray Lcsw",
     "wof:parent_id":85849617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "worker"
     ]
 },
-  "bbox": [-70.772256,43.131186,-70.772256,43.131186],
+  "bbox": [
+    -70.772256,
+    43.131186,
+    -70.772256,
+    43.131186
+],
   "geometry": {"coordinates":[-70.772256,43.131186],"type":"Point"}
 }

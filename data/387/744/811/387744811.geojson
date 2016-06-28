@@ -2,13 +2,14 @@
   "id": 387744811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.811879,43.547754,-70.811879,43.547754",
     "geom:latitude":43.547754,
     "geom:longitude":-70.811879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 Nason Rd",
     "sg:city":"Acton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387744811,
-    "wof:lastmodified":1449057468,
+    "wof:lastmodified":1466586878,
     "wof:name":"Snj Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.811879,43.547754,-70.811879,43.547754],
+  "bbox": [
+    -70.811879,
+    43.547754,
+    -70.811879,
+    43.547754
+],
   "geometry": {"coordinates":[-70.811879,43.547754],"type":"Point"}
 }

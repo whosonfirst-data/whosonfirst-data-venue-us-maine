@@ -2,13 +2,14 @@
   "id": 387781243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.914364,44.005372,-69.914364,44.005372",
     "geom:latitude":44.005372,
     "geom:longitude":-69.914364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Fisher Rd",
     "sg:city":"Bowdoinham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387781243,
-    "wof:lastmodified":1449056815,
+    "wof:lastmodified":1466587091,
     "wof:name":"Bowdoinham Linen Svc",
     "wof:parent_id":85809811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-69.914364,44.005372,-69.914364,44.005372],
-  "geometry": {"coordinates":[-69.914364,44.005372],"type":"Point"}
+  "bbox": [
+    -69.914364,
+    44.005372,
+    -69.914364,
+    44.005372
+],
+  "geometry": {"coordinates":[-69.91436400000001,44.005372],"type":"Point"}
 }

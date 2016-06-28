@@ -2,13 +2,14 @@
   "id": 403860275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.013954,46.682358,-68.013954,46.682358",
     "geom:latitude":46.682358,
     "geom:longitude":-68.013954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 2nd St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403860275,
-    "wof:lastmodified":1449055222,
+    "wof:lastmodified":1466586856,
     "wof:name":"Bethany Baptist Church",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-68.013954,46.682358,-68.013954,46.682358],
+  "bbox": [
+    -68.013954,
+    46.682358,
+    -68.013954,
+    46.682358
+],
   "geometry": {"coordinates":[-68.013954,46.682358],"type":"Point"}
 }

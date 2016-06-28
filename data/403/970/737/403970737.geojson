@@ -2,13 +2,14 @@
   "id": 403970737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.431646,44.531282,-68.431646,44.531282",
     "geom:latitude":44.531282,
     "geom:longitude":-68.431646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Surry Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403970737,
-    "wof:lastmodified":1449055928,
+    "wof:lastmodified":1466587128,
     "wof:name":"Downeast Hydraulics",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.431646,44.531282,-68.431646,44.531282],
+  "bbox": [
+    -68.431646,
+    44.531282,
+    -68.431646,
+    44.531282
+],
   "geometry": {"coordinates":[-68.431646,44.531282],"type":"Point"}
 }

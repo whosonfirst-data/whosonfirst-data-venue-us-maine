@@ -2,13 +2,14 @@
   "id": 404136211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.465683,43.479639,-70.465683,43.479639",
     "geom:latitude":43.479639,
     "geom:longitude":-70.465683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Bald Ave",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404136211,
-    "wof:lastmodified":1449040311,
+    "wof:lastmodified":1466586546,
     "wof:name":"Boucher's Electrical Svc",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.465683,43.479639,-70.465683,43.479639],
+  "bbox": [
+    -70.465683,
+    43.479639,
+    -70.465683,
+    43.479639
+],
   "geometry": {"coordinates":[-70.465683,43.479639],"type":"Point"}
 }

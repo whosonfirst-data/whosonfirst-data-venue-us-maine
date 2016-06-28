@@ -2,13 +2,14 @@
   "id": 387695057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.713108,44.314179,-69.713108,44.314179",
     "geom:latitude":44.314179,
     "geom:longitude":-69.713108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"544 S Belfast Ave",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387695057,
-    "wof:lastmodified":1449057549,
+    "wof:lastmodified":1466586707,
     "wof:name":"Animal Ark",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.713108,44.314179,-69.713108,44.314179],
-  "geometry": {"coordinates":[-69.713108,44.314179],"type":"Point"}
+  "bbox": [
+    -69.713108,
+    44.314179,
+    -69.713108,
+    44.314179
+],
+  "geometry": {"coordinates":[-69.71310800000001,44.314179],"type":"Point"}
 }

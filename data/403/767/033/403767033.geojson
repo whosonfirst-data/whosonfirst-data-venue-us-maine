@@ -2,13 +2,14 @@
   "id": 403767033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.969322,44.378844,-68.969322,44.378844",
     "geom:latitude":44.378844,
     "geom:longitude":-68.969322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Main St",
     "sg:city":"Lincolnville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403767033,
-    "wof:lastmodified":1449055027,
+    "wof:lastmodified":1466586679,
     "wof:name":"Janis A Kay",
     "wof:parent_id":85804909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.969322,44.378844,-68.969322,44.378844],
-  "geometry": {"coordinates":[-68.969322,44.378844],"type":"Point"}
+  "bbox": [
+    -68.969322,
+    44.378844,
+    -68.969322,
+    44.378844
+],
+  "geometry": {"coordinates":[-68.96932200000001,44.378844],"type":"Point"}
 }

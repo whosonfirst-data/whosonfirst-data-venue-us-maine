@@ -2,13 +2,14 @@
   "id": 404123665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.858048,44.745928,-68.858048,44.745928",
     "geom:latitude":44.745928,
     "geom:longitude":-68.858048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Western Ave",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404123665,
-    "wof:lastmodified":1449039372,
+    "wof:lastmodified":1466586350,
     "wof:name":"McClain Renovations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-68.858048,44.745928,-68.858048,44.745928],
+  "bbox": [
+    -68.858048,
+    44.745928,
+    -68.858048,
+    44.745928
+],
   "geometry": {"coordinates":[-68.858048,44.745928],"type":"Point"}
 }

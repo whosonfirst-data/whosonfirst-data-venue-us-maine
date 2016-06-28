@@ -2,13 +2,14 @@
   "id": 387695235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.41983,43.733702,-70.41983,43.733702",
     "geom:latitude":43.733702,
     "geom:longitude":-70.41983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 High St",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387695235,
-    "wof:lastmodified":1449057544,
+    "wof:lastmodified":1466586646,
     "wof:name":"Marvins Family Hair Care",
     "wof:parent_id":85830911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.41983,43.733702,-70.41983,43.733702],
+  "bbox": [
+    -70.41983,
+    43.733702,
+    -70.41983,
+    43.733702
+],
   "geometry": {"coordinates":[-70.41983,43.733702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387752035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.78067,43.157949,-70.78067,43.157949",
     "geom:latitude":43.157949,
     "geom:longitude":-70.78067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Goodwin Rd",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387752035,
-    "wof:lastmodified":1449056741,
+    "wof:lastmodified":1466586902,
     "wof:name":"Rollins Engineering Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.78067,43.157949,-70.78067,43.157949],
+  "bbox": [
+    -70.78067,
+    43.157949,
+    -70.78067,
+    43.157949
+],
   "geometry": {"coordinates":[-70.78067,43.157949],"type":"Point"}
 }

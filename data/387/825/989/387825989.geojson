@@ -2,13 +2,14 @@
   "id": 387825989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.453248,43.708682,-70.453248,43.708682",
     "geom:latitude":43.708682,
     "geom:longitude":-70.453248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Longview Dr",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387825989,
-    "wof:lastmodified":1449056266,
+    "wof:lastmodified":1466587023,
     "wof:name":"Crossroads Connection Courier",
     "wof:parent_id":85830911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-70.453248,43.708682,-70.453248,43.708682],
+  "bbox": [
+    -70.453248,
+    43.708682,
+    -70.453248,
+    43.708682
+],
   "geometry": {"coordinates":[-70.453248,43.708682],"type":"Point"}
 }

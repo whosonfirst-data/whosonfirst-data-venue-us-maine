@@ -2,13 +2,14 @@
   "id": 403958209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.463537,44.017694,-69.463537,44.017694",
     "geom:latitude":44.017694,
     "geom:longitude":-69.463537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"758 Biscay Rd",
     "sg:city":"Bremen",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403958209,
-    "wof:lastmodified":1449055680,
+    "wof:lastmodified":1466587074,
     "wof:name":"Echo Vision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "multimedia"
     ]
 },
-  "bbox": [-69.463537,44.017694,-69.463537,44.017694],
+  "bbox": [
+    -69.463537,
+    44.017694,
+    -69.463537,
+    44.017694
+],
   "geometry": {"coordinates":[-69.463537,44.017694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387784645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.711556,45.658596,-68.711556,45.658596",
     "geom:latitude":45.658596,
     "geom:longitude":-68.711556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Maine Ave",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387784645,
-    "wof:lastmodified":1449058647,
+    "wof:lastmodified":1466587005,
     "wof:name":"Stearns Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-68.711556,45.658596,-68.711556,45.658596],
+  "bbox": [
+    -68.711556,
+    45.658596,
+    -68.711556,
+    45.658596
+],
   "geometry": {"coordinates":[-68.711556,45.658596],"type":"Point"}
 }

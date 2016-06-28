@@ -2,13 +2,14 @@
   "id": 403824025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.824312,43.91602,-69.824312,43.91602",
     "geom:latitude":43.91602,
     "geom:longitude":-69.824312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Lincoln St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403824025,
-    "wof:lastmodified":1449055100,
+    "wof:lastmodified":1466586330,
     "wof:name":"St Mary's",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-69.824312,43.91602,-69.824312,43.91602],
-  "geometry": {"coordinates":[-69.824312,43.91602],"type":"Point"}
+  "bbox": [
+    -69.824312,
+    43.91602,
+    -69.824312,
+    43.91602
+],
+  "geometry": {"coordinates":[-69.82431200000001,43.91602],"type":"Point"}
 }

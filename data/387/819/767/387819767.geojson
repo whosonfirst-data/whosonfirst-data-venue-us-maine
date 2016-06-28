@@ -2,13 +2,14 @@
   "id": 387819767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.802437,44.387226,-69.802437,44.387226",
     "geom:latitude":44.387226,
     "geom:longitude":-69.802437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Civic Center Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387819767,
-    "wof:lastmodified":1449057008,
+    "wof:lastmodified":1466587109,
     "wof:name":"Js Resales",
     "wof:parent_id":85837243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forestry"
     ]
 },
-  "bbox": [-69.802437,44.387226,-69.802437,44.387226],
+  "bbox": [
+    -69.802437,
+    44.387226,
+    -69.802437,
+    44.387226
+],
   "geometry": {"coordinates":[-69.802437,44.387226],"type":"Point"}
 }

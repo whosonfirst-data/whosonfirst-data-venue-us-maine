@@ -2,13 +2,14 @@
   "id": 404174777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.921927,46.102799,-67.921927,46.102799",
     "geom:latitude":46.102799,
     "geom:longitude":-67.921927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Birch Ln",
     "sg:city":"Island Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404174777,
-    "wof:lastmodified":1449039169,
+    "wof:lastmodified":1466586807,
     "wof:name":"Birch Point Lodge Campgrounds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.921927,46.102799,-67.921927,46.102799],
+  "bbox": [
+    -67.921927,
+    46.102799,
+    -67.921927,
+    46.102799
+],
   "geometry": {"coordinates":[-67.921927,46.102799],"type":"Point"}
 }

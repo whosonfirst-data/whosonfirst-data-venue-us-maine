@@ -2,13 +2,14 @@
   "id": 387554349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.304589,43.663219,-70.304589,43.663219",
     "geom:latitude":43.663219,
     "geom:longitude":-70.304589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Capisic St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387554349,
-    "wof:lastmodified":1449056889,
+    "wof:lastmodified":1466585863,
     "wof:name":"Portland Boxing Club",
     "wof:parent_id":85846029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "instruction"
     ]
 },
-  "bbox": [-70.304589,43.663219,-70.304589,43.663219],
-  "geometry": {"coordinates":[-70.304589,43.663219],"type":"Point"}
+  "bbox": [
+    -70.304589,
+    43.663219,
+    -70.304589,
+    43.663219
+],
+  "geometry": {"coordinates":[-70.30458900000001,43.663219],"type":"Point"}
 }

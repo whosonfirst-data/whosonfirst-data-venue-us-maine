@@ -2,13 +2,14 @@
   "id": 403908013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.354766,43.790323,-70.354766,43.790323",
     "geom:latitude":43.790323,
     "geom:longitude":-70.354766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"199 Cottage Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403908013,
-    "wof:lastmodified":1449055393,
+    "wof:lastmodified":1466587039,
     "wof:name":"Vinyl Pros",
     "wof:parent_id":85847399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-70.354766,43.790323,-70.354766,43.790323],
+  "bbox": [
+    -70.354766,
+    43.790323,
+    -70.354766,
+    43.790323
+],
   "geometry": {"coordinates":[-70.354766,43.790323],"type":"Point"}
 }

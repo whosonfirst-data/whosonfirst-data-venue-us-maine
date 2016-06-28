@@ -2,13 +2,14 @@
   "id": 387790183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.935573,44.458344,-68.935573,44.458344",
     "geom:latitude":44.458344,
     "geom:longitude":-68.935573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Prospect St",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387790183,
-    "wof:lastmodified":1449059023,
+    "wof:lastmodified":1466587094,
     "wof:name":"Otis Enterprises Marine Corp",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boat"
     ]
 },
-  "bbox": [-68.935573,44.458344,-68.935573,44.458344],
-  "geometry": {"coordinates":[-68.935573,44.458344],"type":"Point"}
+  "bbox": [
+    -68.935573,
+    44.458344,
+    -68.935573,
+    44.458344
+],
+  "geometry": {"coordinates":[-68.93557300000001,44.458344],"type":"Point"}
 }

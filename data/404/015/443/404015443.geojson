@@ -2,13 +2,14 @@
   "id": 404015443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.637716,43.524106,-70.637716,43.524106",
     "geom:latitude":43.524106,
     "geom:longitude":-70.637716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Frost Rd",
     "sg:city":"Lyman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404015443,
-    "wof:lastmodified":1449039333,
+    "wof:lastmodified":1466585835,
     "wof:name":"D & C Rubbish Removal",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.637716,43.524106,-70.637716,43.524106],
+  "bbox": [
+    -70.637716,
+    43.524106,
+    -70.637716,
+    43.524106
+],
   "geometry": {"coordinates":[-70.637716,43.524106],"type":"Point"}
 }

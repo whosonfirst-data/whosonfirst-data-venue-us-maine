@@ -2,13 +2,14 @@
   "id": 403853825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.201281,44.334526,-70.201281,44.334526",
     "geom:latitude":44.334526,
     "geom:longitude":-70.201281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"786 Howes Corner Rd",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":403853825,
-    "wof:lastmodified":1449055166,
+    "wof:lastmodified":1466586730,
     "wof:name":"Mechanical Insulation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.201281,44.334526,-70.201281,44.334526],
-  "geometry": {"coordinates":[-70.201281,44.334526],"type":"Point"}
+  "bbox": [
+    -70.201281,
+    44.334526,
+    -70.201281,
+    44.334526
+],
+  "geometry": {"coordinates":[-70.20128099999999,44.334526],"type":"Point"}
 }

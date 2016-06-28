@@ -2,13 +2,14 @@
   "id": 387782871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.54088,44.213309,-70.54088,44.213309",
     "geom:latitude":44.213309,
     "geom:longitude":-70.54088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Main St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387782871,
-    "wof:lastmodified":1449056098,
+    "wof:lastmodified":1466587010,
     "wof:name":"Cottage Barber Shop",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.54088,44.213309,-70.54088,44.213309],
+  "bbox": [
+    -70.54088,
+    44.213309,
+    -70.54088,
+    44.213309
+],
   "geometry": {"coordinates":[-70.54088,44.213309],"type":"Point"}
 }

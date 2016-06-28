@@ -2,13 +2,14 @@
   "id": 403851167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.838779,43.760899,-69.838779,43.760899",
     "geom:latitude":43.760899,
     "geom:longitude":-69.838779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 Main Rd",
     "sg:city":"Phippsburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403851167,
-    "wof:lastmodified":1449055492,
+    "wof:lastmodified":1466586828,
     "wof:name":"Eberhart Associates Rl Est",
     "wof:parent_id":85856177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-69.838779,43.760899,-69.838779,43.760899],
+  "bbox": [
+    -69.838779,
+    43.760899,
+    -69.838779,
+    43.760899
+],
   "geometry": {"coordinates":[-69.838779,43.760899],"type":"Point"}
 }

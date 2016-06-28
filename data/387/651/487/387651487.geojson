@@ -2,13 +2,14 @@
   "id": 387651487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.797736,44.34144,-69.797736,44.34144",
     "geom:latitude":44.34144,
     "geom:longitude":-69.797736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Community Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387651487,
-    "wof:lastmodified":1449056853,
+    "wof:lastmodified":1466585989,
     "wof:name":"Maine Municipal Employees Hlth",
     "wof:parent_id":85841121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accident"
     ]
 },
-  "bbox": [-69.797736,44.34144,-69.797736,44.34144],
+  "bbox": [
+    -69.797736,
+    44.34144,
+    -69.797736,
+    44.34144
+],
   "geometry": {"coordinates":[-69.797736,44.34144],"type":"Point"}
 }

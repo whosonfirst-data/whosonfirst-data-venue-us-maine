@@ -2,13 +2,14 @@
   "id": 387779353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.057499,43.996354,-70.057499,43.996354",
     "geom:latitude":43.996354,
     "geom:longitude":-70.057499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Free St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387779353,
-    "wof:lastmodified":1449056685,
+    "wof:lastmodified":1466587086,
     "wof:name":"Whireybird Cleaning Svc",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-70.057499,43.996354,-70.057499,43.996354],
-  "geometry": {"coordinates":[-70.057499,43.996354],"type":"Point"}
+  "bbox": [
+    -70.057499,
+    43.996354,
+    -70.057499,
+    43.996354
+],
+  "geometry": {"coordinates":[-70.05749900000001,43.996354],"type":"Point"}
 }

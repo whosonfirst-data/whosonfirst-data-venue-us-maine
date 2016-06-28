@@ -2,13 +2,14 @@
   "id": 387686959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.204456,44.388563,-68.204456,44.388563",
     "geom:latitude":44.388563,
     "geom:longitude":-68.204456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Main St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387686959,
-    "wof:lastmodified":1449058987,
+    "wof:lastmodified":1466586554,
     "wof:name":"Our New England",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.204456,44.388563,-68.204456,44.388563],
-  "geometry": {"coordinates":[-68.204456,44.388563],"type":"Point"}
+  "bbox": [
+    -68.204456,
+    44.388563,
+    -68.204456,
+    44.388563
+],
+  "geometry": {"coordinates":[-68.20445599999999,44.388563],"type":"Point"}
 }

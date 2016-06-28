@@ -2,13 +2,14 @@
   "id": 387745611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.666691,44.576806,-69.666691,44.576806",
     "geom:latitude":44.576806,
     "geom:longitude":-69.666691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Marston Rd",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387745611,
-    "wof:lastmodified":1449059748,
+    "wof:lastmodified":1466586800,
     "wof:name":"Serendipitous Stables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-69.666691,44.576806,-69.666691,44.576806],
+  "bbox": [
+    -69.666691,
+    44.576806,
+    -69.666691,
+    44.576806
+],
   "geometry": {"coordinates":[-69.666691,44.576806],"type":"Point"}
 }

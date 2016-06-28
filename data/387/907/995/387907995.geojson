@@ -2,13 +2,14 @@
   "id": 387907995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.979397,44.017646,-70.979397,44.017646",
     "geom:latitude":44.017646,
     "geom:longitude":-70.979397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Main St",
     "sg:city":"Fryeburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387907995,
-    "wof:lastmodified":1449059628,
+    "wof:lastmodified":1466587318,
     "wof:name":"Elmwood Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.979397,44.017646,-70.979397,44.017646],
-  "geometry": {"coordinates":[-70.979397,44.017646],"type":"Point"}
+  "bbox": [
+    -70.979397,
+    44.017646,
+    -70.979397,
+    44.017646
+],
+  "geometry": {"coordinates":[-70.97939700000001,44.017646],"type":"Point"}
 }

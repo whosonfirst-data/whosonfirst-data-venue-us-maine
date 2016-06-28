@@ -2,13 +2,14 @@
   "id": 387610577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.326093,44.271131,-68.326093,44.271131",
     "geom:latitude":44.271131,
     "geom:longitude":-68.326093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"366 Main St",
     "sg:city":"Southwest Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387610577,
-    "wof:lastmodified":1449059861,
+    "wof:lastmodified":1466586506,
     "wof:name":"MDI Sportswear",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.326093,44.271131,-68.326093,44.271131],
+  "bbox": [
+    -68.326093,
+    44.271131,
+    -68.326093,
+    44.271131
+],
   "geometry": {"coordinates":[-68.326093,44.271131],"type":"Point"}
 }

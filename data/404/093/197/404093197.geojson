@@ -2,13 +2,14 @@
   "id": 404093197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.470432,43.976098,-70.470432,43.976098",
     "geom:latitude":43.976098,
     "geom:longitude":-70.470432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"668 Webbs Mills Rd",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404093197,
-    "wof:lastmodified":1449039083,
+    "wof:lastmodified":1466585896,
     "wof:name":"Tigress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "instruction"
     ]
 },
-  "bbox": [-70.470432,43.976098,-70.470432,43.976098],
+  "bbox": [
+    -70.470432,
+    43.976098,
+    -70.470432,
+    43.976098
+],
   "geometry": {"coordinates":[-70.470432,43.976098],"type":"Point"}
 }

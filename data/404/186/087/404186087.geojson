@@ -2,13 +2,14 @@
   "id": 404186087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.446065,43.496396,-70.446065,43.496396",
     "geom:latitude":43.496396,
     "geom:longitude":-70.446065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Common St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404186087,
-    "wof:lastmodified":1449040028,
+    "wof:lastmodified":1466586939,
     "wof:name":"Begin & Assoc",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-70.446065,43.496396,-70.446065,43.496396],
+  "bbox": [
+    -70.446065,
+    43.496396,
+    -70.446065,
+    43.496396
+],
   "geometry": {"coordinates":[-70.446065,43.496396],"type":"Point"}
 }

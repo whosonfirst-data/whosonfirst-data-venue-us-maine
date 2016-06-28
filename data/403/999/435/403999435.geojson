@@ -2,13 +2,14 @@
   "id": 403999435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.247244,44.067431,-70.247244,44.067431",
     "geom:latitude":44.067431,
     "geom:longitude":-70.247244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"661 Washington St N",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403999435,
-    "wof:lastmodified":1449055811,
+    "wof:lastmodified":1466587112,
     "wof:name":"Station Class Constructors",
     "wof:parent_id":85831033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.247244,44.067431,-70.247244,44.067431],
-  "geometry": {"coordinates":[-70.247244,44.067431],"type":"Point"}
+  "bbox": [
+    -70.247244,
+    44.067431,
+    -70.247244,
+    44.067431
+],
+  "geometry": {"coordinates":[-70.24724399999999,44.067431],"type":"Point"}
 }

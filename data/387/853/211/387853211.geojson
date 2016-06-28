@@ -2,13 +2,14 @@
   "id": 387853211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.390559,43.513242,-70.390559,43.513242",
     "geom:latitude":43.513242,
     "geom:longitude":-70.390559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Saco Ave",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387853211,
-    "wof:lastmodified":1449057643,
+    "wof:lastmodified":1466587161,
     "wof:name":"Old Orchard Beach Chiropractic",
     "wof:parent_id":85828495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.390559,43.513242,-70.390559,43.513242],
+  "bbox": [
+    -70.390559,
+    43.513242,
+    -70.390559,
+    43.513242
+],
   "geometry": {"coordinates":[-70.390559,43.513242],"type":"Point"}
 }

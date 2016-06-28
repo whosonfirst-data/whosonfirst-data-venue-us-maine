@@ -2,13 +2,14 @@
   "id": 387641063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.81907,43.918769,-69.81907,43.918769",
     "geom:latitude":43.918769,
     "geom:longitude":-69.81907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 North St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387641063,
-    "wof:lastmodified":1449058995,
+    "wof:lastmodified":1466585888,
     "wof:name":"Mainely Embroidery",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-69.81907,43.918769,-69.81907,43.918769],
+  "bbox": [
+    -69.81907,
+    43.918769,
+    -69.81907,
+    43.918769
+],
   "geometry": {"coordinates":[-69.81907,43.918769],"type":"Point"}
 }

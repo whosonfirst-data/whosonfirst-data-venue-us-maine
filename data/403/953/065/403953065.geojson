@@ -2,13 +2,14 @@
   "id": 403953065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.283786,43.680514,-70.283786,43.680514",
     "geom:latitude":43.680514,
     "geom:longitude":-70.283786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Wellington Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403953065,
-    "wof:lastmodified":1449055523,
+    "wof:lastmodified":1466587071,
     "wof:name":"EMI Office",
     "wof:parent_id":85880019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.283786,43.680514,-70.283786,43.680514],
-  "geometry": {"coordinates":[-70.283786,43.680514],"type":"Point"}
+  "bbox": [
+    -70.283786,
+    43.680514,
+    -70.283786,
+    43.680514
+],
+  "geometry": {"coordinates":[-70.28378600000001,43.680514],"type":"Point"}
 }

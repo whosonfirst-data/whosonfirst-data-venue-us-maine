@@ -2,13 +2,14 @@
   "id": 387968875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.85457,43.809051,-70.85457,43.809051",
     "geom:latitude":43.809051,
     "geom:longitude":-70.85457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"291 S Hiram Rd",
     "sg:city":"Hiram",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387968875,
-    "wof:lastmodified":1449056351,
+    "wof:lastmodified":1466587351,
     "wof:name":"Ossipee Valley Fair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fairground"
     ]
 },
-  "bbox": [-70.85457,43.809051,-70.85457,43.809051],
+  "bbox": [
+    -70.85457,
+    43.809051,
+    -70.85457,
+    43.809051
+],
   "geometry": {"coordinates":[-70.85457,43.809051],"type":"Point"}
 }

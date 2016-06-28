@@ -2,13 +2,14 @@
   "id": 403724739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.220793,43.884962,-70.220793,43.884962",
     "geom:latitude":43.884962,
     "geom:longitude":-70.220793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 W Pownal Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403724739,
-    "wof:lastmodified":1449055919,
+    "wof:lastmodified":1466585902,
     "wof:name":"McKenzie Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.220793,43.884962,-70.220793,43.884962],
+  "bbox": [
+    -70.220793,
+    43.884962,
+    -70.220793,
+    43.884962
+],
   "geometry": {"coordinates":[-70.220793,43.884962],"type":"Point"}
 }

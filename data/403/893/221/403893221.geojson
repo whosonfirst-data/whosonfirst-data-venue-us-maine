@@ -2,13 +2,14 @@
   "id": 403893221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.350194,43.537684,-70.350194,43.537684",
     "geom:latitude":43.537684,
     "geom:longitude":-70.350194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Bay St",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403893221,
-    "wof:lastmodified":1449055714,
+    "wof:lastmodified":1466586895,
     "wof:name":"Reed Surveying Inc",
     "wof:parent_id":85822441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-70.350194,43.537684,-70.350194,43.537684],
+  "bbox": [
+    -70.350194,
+    43.537684,
+    -70.350194,
+    43.537684
+],
   "geometry": {"coordinates":[-70.350194,43.537684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387684569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.287505,43.699011,-70.287505,43.699011",
     "geom:latitude":43.699011,
     "geom:longitude":-70.287505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1349 Washington Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387684569,
-    "wof:lastmodified":1449057051,
+    "wof:lastmodified":1466586514,
     "wof:name":"Parker's Restaurant",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.287505,43.699011,-70.287505,43.699011],
+  "bbox": [
+    -70.287505,
+    43.699011,
+    -70.287505,
+    43.699011
+],
   "geometry": {"coordinates":[-70.287505,43.699011],"type":"Point"}
 }

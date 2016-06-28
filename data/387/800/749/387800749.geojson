@@ -2,13 +2,14 @@
   "id": 387800749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.941263,43.374066,-70.941263,43.374066",
     "geom:latitude":43.374066,
     "geom:longitude":-70.941263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 W Lebanon Rd",
     "sg:city":"East Lebanon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387800749,
-    "wof:lastmodified":1449056411,
+    "wof:lastmodified":1466586954,
     "wof:name":"AC Downs Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "machinery"
     ]
 },
-  "bbox": [-70.941263,43.374066,-70.941263,43.374066],
-  "geometry": {"coordinates":[-70.941263,43.374066],"type":"Point"}
+  "bbox": [
+    -70.941263,
+    43.374066,
+    -70.941263,
+    43.374066
+],
+  "geometry": {"coordinates":[-70.94126300000001,43.374066],"type":"Point"}
 }

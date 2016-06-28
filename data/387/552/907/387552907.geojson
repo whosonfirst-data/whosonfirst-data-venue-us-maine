@@ -2,13 +2,14 @@
   "id": 387552907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.541154,43.934486,-70.541154,43.934486",
     "geom:latitude":43.934486,
     "geom:longitude":-70.541154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Roosevelt Trl",
     "sg:city":"Casco",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387552907,
-    "wof:lastmodified":1449057700,
+    "wof:lastmodified":1466585707,
     "wof:name":"Bob's Place",
     "wof:parent_id":85849311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.541154,43.934486,-70.541154,43.934486],
-  "geometry": {"coordinates":[-70.541154,43.934486],"type":"Point"}
+  "bbox": [
+    -70.541154,
+    43.934486,
+    -70.541154,
+    43.934486
+],
+  "geometry": {"coordinates":[-70.54115400000001,43.934486],"type":"Point"}
 }

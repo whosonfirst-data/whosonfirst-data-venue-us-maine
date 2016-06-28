@@ -2,13 +2,14 @@
   "id": 404058421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.831421,44.779888,-68.831421,44.779888",
     "geom:latitude":44.779888,
     "geom:longitude":-68.831421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"776 Odlin Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404058421,
-    "wof:lastmodified":1449039196,
+    "wof:lastmodified":1466586411,
     "wof:name":"Harvey Paving & Seal Coating",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.831421,44.779888,-68.831421,44.779888],
-  "geometry": {"coordinates":[-68.831421,44.779888],"type":"Point"}
+  "bbox": [
+    -68.831421,
+    44.779888,
+    -68.831421,
+    44.779888
+],
+  "geometry": {"coordinates":[-68.83142100000001,44.779888],"type":"Point"}
 }

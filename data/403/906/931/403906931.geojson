@@ -2,13 +2,14 @@
   "id": 403906931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.5157,44.232216,-70.5157,44.232216",
     "geom:latitude":44.232216,
     "geom:longitude":-70.5157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Paris Promenade",
     "sg:city":"South Paris",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403906931,
-    "wof:lastmodified":1449055133,
+    "wof:lastmodified":1466586949,
     "wof:name":"Mc Laughlin Signs",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-70.5157,44.232216,-70.5157,44.232216],
+  "bbox": [
+    -70.5157,
+    44.232216,
+    -70.5157,
+    44.232216
+],
   "geometry": {"coordinates":[-70.5157,44.232216],"type":"Point"}
 }

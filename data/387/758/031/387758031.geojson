@@ -2,13 +2,14 @@
   "id": 387758031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.967033,45.007953,-68.967033,45.007953",
     "geom:latitude":45.007953,
     "geom:longitude":-68.967033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Tate Rd",
     "sg:city":"East Corinth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387758031,
-    "wof:lastmodified":1449057249,
+    "wof:lastmodified":1466586841,
     "wof:name":"Blueberry Island Gift Bas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.967033,45.007953,-68.967033,45.007953],
+  "bbox": [
+    -68.967033,
+    45.007953,
+    -68.967033,
+    45.007953
+],
   "geometry": {"coordinates":[-68.967033,45.007953],"type":"Point"}
 }

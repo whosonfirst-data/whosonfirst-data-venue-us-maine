@@ -2,13 +2,14 @@
   "id": 387946461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.763562,43.941597,-69.763562,43.941597",
     "geom:latitude":43.941597,
     "geom:longitude":-69.763562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Shaw Rd",
     "sg:city":"Woolwich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387946461,
-    "wof:lastmodified":1449059460,
+    "wof:lastmodified":1466587285,
     "wof:name":"Saltbox Pottery",
     "wof:parent_id":85836497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-69.763562,43.941597,-69.763562,43.941597],
-  "geometry": {"coordinates":[-69.763562,43.941597],"type":"Point"}
+  "bbox": [
+    -69.763562,
+    43.941597,
+    -69.763562,
+    43.941597
+],
+  "geometry": {"coordinates":[-69.76356199999999,43.941597],"type":"Point"}
 }

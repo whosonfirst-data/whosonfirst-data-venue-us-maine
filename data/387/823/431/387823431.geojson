@@ -2,13 +2,14 @@
   "id": 387823431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.202784,44.121011,-70.202784,44.121011",
     "geom:latitude":44.121011,
     "geom:longitude":-70.202784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"698 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387823431,
-    "wof:lastmodified":1449059886,
+    "wof:lastmodified":1466587105,
     "wof:name":"Yvon's Quick Lube",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-70.202784,44.121011,-70.202784,44.121011],
-  "geometry": {"coordinates":[-70.202784,44.121011],"type":"Point"}
+  "bbox": [
+    -70.202784,
+    44.121011,
+    -70.202784,
+    44.121011
+],
+  "geometry": {"coordinates":[-70.20278399999999,44.121011],"type":"Point"}
 }

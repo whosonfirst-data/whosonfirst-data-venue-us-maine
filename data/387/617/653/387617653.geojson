@@ -2,13 +2,14 @@
   "id": 387617653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.27023,43.654663,-70.27023,43.654663",
     "geom:latitude":43.654663,
     "geom:longitude":-70.27023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Mellen St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387617653,
-    "wof:lastmodified":1449056248,
+    "wof:lastmodified":1466585692,
     "wof:name":"Serenity House",
     "wof:parent_id":85880027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-70.27023,43.654663,-70.27023,43.654663],
+  "bbox": [
+    -70.27023,
+    43.654663,
+    -70.27023,
+    43.654663
+],
   "geometry": {"coordinates":[-70.27023,43.654663],"type":"Point"}
 }

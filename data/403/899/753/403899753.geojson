@@ -2,13 +2,14 @@
   "id": 403899753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.547078,43.739434,-70.547078,43.739434",
     "geom:latitude":43.739434,
     "geom:longitude":-70.547078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Northeast Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403899753,
-    "wof:lastmodified":1449055878,
+    "wof:lastmodified":1466586924,
     "wof:name":"Arthur Chapman III OD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.547078,43.739434,-70.547078,43.739434],
+  "bbox": [
+    -70.547078,
+    43.739434,
+    -70.547078,
+    43.739434
+],
   "geometry": {"coordinates":[-70.547078,43.739434],"type":"Point"}
 }

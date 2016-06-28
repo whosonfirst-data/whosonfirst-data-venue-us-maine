@@ -2,13 +2,14 @@
   "id": 387933343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.81918,44.848462,-68.81918,44.848462",
     "geom:latitude":44.848462,
     "geom:longitude":-68.81918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"493 Finson Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387933343,
-    "wof:lastmodified":1449056884,
+    "wof:lastmodified":1466587332,
     "wof:name":"Scotty's Carpets",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-68.81918,44.848462,-68.81918,44.848462],
+  "bbox": [
+    -68.81918,
+    44.848462,
+    -68.81918,
+    44.848462
+],
   "geometry": {"coordinates":[-68.81918,44.848462],"type":"Point"}
 }

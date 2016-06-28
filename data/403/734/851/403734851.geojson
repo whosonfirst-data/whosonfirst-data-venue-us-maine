@@ -2,13 +2,14 @@
   "id": 403734851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.212948,44.105739,-70.212948,44.105739",
     "geom:latitude":44.105739,
     "geom:longitude":-70.212948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Whipple St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403734851,
-    "wof:lastmodified":1449055804,
+    "wof:lastmodified":1466586034,
     "wof:name":"Red's Moving Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-70.212948,44.105739,-70.212948,44.105739],
+  "bbox": [
+    -70.212948,
+    44.105739,
+    -70.212948,
+    44.105739
+],
   "geometry": {"coordinates":[-70.212948,44.105739],"type":"Point"}
 }

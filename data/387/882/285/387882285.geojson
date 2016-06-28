@@ -2,13 +2,14 @@
   "id": 387882285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.007894,46.855383,-68.007894,46.855383",
     "geom:latitude":46.855383,
     "geom:longitude":-68.007894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Vaughn St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387882285,
-    "wof:lastmodified":1449056779,
+    "wof:lastmodified":1466587136,
     "wof:name":"Aroostook Legal Reporters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-68.007894,46.855383,-68.007894,46.855383],
-  "geometry": {"coordinates":[-68.007894,46.855383],"type":"Point"}
+  "bbox": [
+    -68.007894,
+    46.855383,
+    -68.007894,
+    46.855383
+],
+  "geometry": {"coordinates":[-68.00789399999999,46.855383],"type":"Point"}
 }

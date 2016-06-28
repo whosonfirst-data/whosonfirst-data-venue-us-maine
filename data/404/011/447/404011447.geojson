@@ -2,13 +2,14 @@
   "id": 404011447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.559311,43.657551,-70.559311,43.657551",
     "geom:latitude":43.657551,
     "geom:longitude":-70.559311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"844 Long Plains Rd",
     "sg:city":"Buxton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404011447,
-    "wof:lastmodified":1449040078,
+    "wof:lastmodified":1466585814,
     "wof:name":"Buxton Log-Yard",
     "wof:parent_id":85823309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-70.559311,43.657551,-70.559311,43.657551],
-  "geometry": {"coordinates":[-70.559311,43.657551],"type":"Point"}
+  "bbox": [
+    -70.559311,
+    43.657551,
+    -70.559311,
+    43.657551
+],
+  "geometry": {"coordinates":[-70.55931099999999,43.657551],"type":"Point"}
 }

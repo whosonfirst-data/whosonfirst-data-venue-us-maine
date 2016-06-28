@@ -2,13 +2,14 @@
   "id": 387737567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.31401,43.706449,-70.31401,43.706449",
     "geom:latitude":43.706449,
     "geom:longitude":-70.31401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Industrial Way",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387737567,
-    "wof:lastmodified":1449056952,
+    "wof:lastmodified":1466586853,
     "wof:name":"Ship Shape Yacht Svc",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-70.31401,43.706449,-70.31401,43.706449],
+  "bbox": [
+    -70.31401,
+    43.706449,
+    -70.31401,
+    43.706449
+],
   "geometry": {"coordinates":[-70.31401,43.706449],"type":"Point"}
 }

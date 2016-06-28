@@ -2,13 +2,14 @@
   "id": 387739299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.453424,44.539961,-70.453424,44.539961",
     "geom:latitude":44.539961,
     "geom:longitude":-70.453424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Weld St",
     "sg:city":"Dixfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387739299,
-    "wof:lastmodified":1449057709,
+    "wof:lastmodified":1466586744,
     "wof:name":"Ellis's Variety",
     "wof:parent_id":85814509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.453424,44.539961,-70.453424,44.539961],
+  "bbox": [
+    -70.453424,
+    44.539961,
+    -70.453424,
+    44.539961
+],
   "geometry": {"coordinates":[-70.453424,44.539961],"type":"Point"}
 }

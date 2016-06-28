@@ -2,13 +2,14 @@
   "id": 387737827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.393087,43.727851,-70.393087,43.727851",
     "geom:latitude":43.727851,
     "geom:longitude":-70.393087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Highland Cliff Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387737827,
-    "wof:lastmodified":1449056950,
+    "wof:lastmodified":1466586854,
     "wof:name":"David R Weeks Construction",
     "wof:parent_id":85830911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.393087,43.727851,-70.393087,43.727851],
-  "geometry": {"coordinates":[-70.393087,43.727851],"type":"Point"}
+  "bbox": [
+    -70.393087,
+    43.727851,
+    -70.393087,
+    43.727851
+],
+  "geometry": {"coordinates":[-70.39308699999999,43.727851],"type":"Point"}
 }

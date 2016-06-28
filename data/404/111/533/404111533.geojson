@@ -2,13 +2,14 @@
   "id": 404111533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.01135,46.697772,-68.01135,46.697772",
     "geom:latitude":46.697772,
     "geom:longitude":-68.01135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Main St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404111533,
-    "wof:lastmodified":1449040350,
+    "wof:lastmodified":1466586166,
     "wof:name":"Marden's Discount Store",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.01135,46.697772,-68.01135,46.697772],
-  "geometry": {"coordinates":[-68.01135,46.697772],"type":"Point"}
+  "bbox": [
+    -68.01135,
+    46.697772,
+    -68.01135,
+    46.697772
+],
+  "geometry": {"coordinates":[-68.01134999999999,46.697772],"type":"Point"}
 }

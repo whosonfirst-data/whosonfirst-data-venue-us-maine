@@ -2,13 +2,14 @@
   "id": 387949407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.012669,46.844314,-68.012669,46.844314",
     "geom:latitude":46.844314,
     "geom:longitude":-68.012669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Vesta Dr",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387949407,
-    "wof:lastmodified":1449058464,
+    "wof:lastmodified":1466587286,
     "wof:name":"Rob Doody & Son Septic Svc",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sewer"
     ]
 },
-  "bbox": [-68.012669,46.844314,-68.012669,46.844314],
+  "bbox": [
+    -68.012669,
+    46.844314,
+    -68.012669,
+    46.844314
+],
   "geometry": {"coordinates":[-68.012669,46.844314],"type":"Point"}
 }

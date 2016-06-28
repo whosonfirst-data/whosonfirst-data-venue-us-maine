@@ -2,13 +2,14 @@
   "id": 403981211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.655485,44.540289,-69.655485,44.540289",
     "geom:latitude":44.540289,
     "geom:longitude":-69.655485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Sterling St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403981211,
-    "wof:lastmodified":1449055990,
+    "wof:lastmodified":1466587063,
     "wof:name":"Dufours Terri Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-69.655485,44.540289,-69.655485,44.540289],
+  "bbox": [
+    -69.655485,
+    44.540289,
+    -69.655485,
+    44.540289
+],
   "geometry": {"coordinates":[-69.655485,44.540289],"type":"Point"}
 }

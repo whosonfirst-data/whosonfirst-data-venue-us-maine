@@ -2,13 +2,14 @@
   "id": 387922025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.250079,43.849638,-70.250079,43.849638",
     "geom:latitude":43.849638,
     "geom:longitude":-70.250079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 New Gloucester Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387922025,
-    "wof:lastmodified":1449056452,
+    "wof:lastmodified":1466587177,
     "wof:name":"Johnston Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-70.250079,43.849638,-70.250079,43.849638],
+  "bbox": [
+    -70.250079,
+    43.849638,
+    -70.250079,
+    43.849638
+],
   "geometry": {"coordinates":[-70.250079,43.849638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403807091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.303579,43.621463,-70.303579,43.621463",
     "geom:latitude":43.621463,
     "geom:longitude":-70.303579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Main St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403807091,
-    "wof:lastmodified":1449054983,
+    "wof:lastmodified":1466586059,
     "wof:name":"JLP Svc",
     "wof:parent_id":85852203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.303579,43.621463,-70.303579,43.621463],
+  "bbox": [
+    -70.303579,
+    43.621463,
+    -70.303579,
+    43.621463
+],
   "geometry": {"coordinates":[-70.303579,43.621463],"type":"Point"}
 }

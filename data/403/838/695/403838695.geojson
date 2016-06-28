@@ -2,13 +2,14 @@
   "id": 403838695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.343909,43.685185,-70.343909,43.685185",
     "geom:latitude":43.685185,
     "geom:longitude":-70.343909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Warren Ave",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403838695,
-    "wof:lastmodified":1449054782,
+    "wof:lastmodified":1466586577,
     "wof:name":"W A Messer Co",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "truck"
     ]
 },
-  "bbox": [-70.343909,43.685185,-70.343909,43.685185],
+  "bbox": [
+    -70.343909,
+    43.685185,
+    -70.343909,
+    43.685185
+],
   "geometry": {"coordinates":[-70.343909,43.685185],"type":"Point"}
 }

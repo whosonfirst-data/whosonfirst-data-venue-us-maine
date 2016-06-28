@@ -2,13 +2,14 @@
   "id": 387592761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.205861,44.391116,-68.205861,44.391116",
     "geom:latitude":44.391116,
     "geom:longitude":-68.205861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 West St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387592761,
-    "wof:lastmodified":1449058292,
+    "wof:lastmodified":1466586219,
     "wof:name":"Song Of The Sea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.205861,44.391116,-68.205861,44.391116],
+  "bbox": [
+    -68.205861,
+    44.391116,
+    -68.205861,
+    44.391116
+],
   "geometry": {"coordinates":[-68.205861,44.391116],"type":"Point"}
 }

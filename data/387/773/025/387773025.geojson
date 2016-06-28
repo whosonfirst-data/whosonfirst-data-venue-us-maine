@@ -2,13 +2,14 @@
   "id": 387773025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.364607,43.672561,-70.364607,43.672561",
     "geom:latitude":43.672561,
     "geom:longitude":-70.364607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 E Valentine St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387773025,
-    "wof:lastmodified":1449056592,
+    "wof:lastmodified":1466587078,
     "wof:name":"Philbuilt",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-70.364607,43.672561,-70.364607,43.672561],
-  "geometry": {"coordinates":[-70.364607,43.672561],"type":"Point"}
+  "bbox": [
+    -70.364607,
+    43.672561,
+    -70.364607,
+    43.672561
+],
+  "geometry": {"coordinates":[-70.36460700000001,43.672561],"type":"Point"}
 }

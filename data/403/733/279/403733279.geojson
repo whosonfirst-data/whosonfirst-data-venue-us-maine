@@ -2,13 +2,14 @@
   "id": 403733279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.471187,44.394752,-69.471187,44.394752",
     "geom:latitude":44.394752,
     "geom:longitude":-69.471187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"296 Branch Mills Rd",
     "sg:city":"Palermo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403733279,
-    "wof:lastmodified":1449054804,
+    "wof:lastmodified":1466586015,
     "wof:name":"Childs Stephen Trucking",
     "wof:parent_id":85828753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-69.471187,44.394752,-69.471187,44.394752],
+  "bbox": [
+    -69.471187,
+    44.394752,
+    -69.471187,
+    44.394752
+],
   "geometry": {"coordinates":[-69.471187,44.394752],"type":"Point"}
 }

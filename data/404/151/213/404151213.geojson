@@ -2,13 +2,14 @@
   "id": 404151213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.51969,43.461109,-70.51969,43.461109",
     "geom:latitude":43.461109,
     "geom:longitude":-70.51969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Granite Dr",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404151213,
-    "wof:lastmodified":1449039092,
+    "wof:lastmodified":1466586721,
     "wof:name":"Susan E Mc Laughlin Inc",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-70.51969,43.461109,-70.51969,43.461109],
+  "bbox": [
+    -70.51969,
+    43.461109,
+    -70.51969,
+    43.461109
+],
   "geometry": {"coordinates":[-70.51969,43.461109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387596239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.301487,43.6283,-70.301487,43.6283",
     "geom:latitude":43.6283,
     "geom:longitude":-70.301487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Scott Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387596239,
-    "wof:lastmodified":1449058057,
+    "wof:lastmodified":1466586290,
     "wof:name":"Unitarian Univ Fellowship",
     "wof:parent_id":85809743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.301487,43.6283,-70.301487,43.6283],
-  "geometry": {"coordinates":[-70.301487,43.6283],"type":"Point"}
+  "bbox": [
+    -70.301487,
+    43.6283,
+    -70.301487,
+    43.6283
+],
+  "geometry": {"coordinates":[-70.30148699999999,43.6283],"type":"Point"}
 }

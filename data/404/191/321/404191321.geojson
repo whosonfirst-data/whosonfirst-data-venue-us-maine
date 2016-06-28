@@ -2,13 +2,14 @@
   "id": 404191321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.64283,44.929134,-68.64283,44.929134",
     "geom:latitude":44.929134,
     "geom:longitude":-68.64283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"298 Water St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404191321,
-    "wof:lastmodified":1449039833,
+    "wof:lastmodified":1466586892,
     "wof:name":"Old Town Waste Treatment Plant",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-68.64283,44.929134,-68.64283,44.929134],
+  "bbox": [
+    -68.64283,
+    44.929134,
+    -68.64283,
+    44.929134
+],
   "geometry": {"coordinates":[-68.64283,44.929134],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387637445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.311078,43.703667,-70.311078,43.703667",
     "geom:latitude":43.703667,
     "geom:longitude":-70.311078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Riverside Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387637445,
-    "wof:lastmodified":1449056112,
+    "wof:lastmodified":1466586712,
     "wof:name":"Horizon Solutions",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "electric"
     ]
 },
-  "bbox": [-70.311078,43.703667,-70.311078,43.703667],
-  "geometry": {"coordinates":[-70.311078,43.703667],"type":"Point"}
+  "bbox": [
+    -70.311078,
+    43.703667,
+    -70.311078,
+    43.703667
+],
+  "geometry": {"coordinates":[-70.31107799999999,43.703667],"type":"Point"}
 }

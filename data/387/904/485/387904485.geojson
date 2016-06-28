@@ -2,13 +2,14 @@
   "id": 387904485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.549081,44.55132,-70.549081,44.55132",
     "geom:latitude":44.55132,
     "geom:longitude":-70.549081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Oxford Ave",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387904485,
-    "wof:lastmodified":1449060005,
+    "wof:lastmodified":1466587237,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "filing"
     ]
 },
-  "bbox": [-70.549081,44.55132,-70.549081,44.55132],
+  "bbox": [
+    -70.549081,
+    44.55132,
+    -70.549081,
+    44.55132
+],
   "geometry": {"coordinates":[-70.549081,44.55132],"type":"Point"}
 }

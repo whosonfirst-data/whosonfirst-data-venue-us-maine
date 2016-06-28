@@ -2,13 +2,14 @@
   "id": 387907955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.358645,43.919916,-70.358645,43.919916",
     "geom:latitude":43.919916,
     "geom:longitude":-70.358645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 N Raymond Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387907955,
-    "wof:lastmodified":1449059630,
+    "wof:lastmodified":1466587318,
     "wof:name":"St Gregory's Campground",
     "wof:parent_id":85851311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.358645,43.919916,-70.358645,43.919916],
+  "bbox": [
+    -70.358645,
+    43.919916,
+    -70.358645,
+    43.919916
+],
   "geometry": {"coordinates":[-70.358645,43.919916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404166539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.177078,43.810461,-70.177078,43.810461",
     "geom:latitude":43.810461,
     "geom:longitude":-70.177078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 North Rd",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404166539,
-    "wof:lastmodified":1449039812,
+    "wof:lastmodified":1466586875,
     "wof:name":"Spurwink School Day Treatment",
     "wof:parent_id":85849253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.177078,43.810461,-70.177078,43.810461],
-  "geometry": {"coordinates":[-70.177078,43.810461],"type":"Point"}
+  "bbox": [
+    -70.177078,
+    43.810461,
+    -70.177078,
+    43.810461
+],
+  "geometry": {"coordinates":[-70.17707799999999,43.810461],"type":"Point"}
 }

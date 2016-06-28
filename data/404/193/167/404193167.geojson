@@ -2,13 +2,14 @@
   "id": 404193167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.071272,44.232848,-70.071272,44.232848",
     "geom:latitude":44.232848,
     "geom:longitude":-70.071272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 US Hwy 202",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404193167,
-    "wof:lastmodified":1449039210,
+    "wof:lastmodified":1466586974,
     "wof:name":"Highmoor Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "consultant"
     ]
 },
-  "bbox": [-70.071272,44.232848,-70.071272,44.232848],
-  "geometry": {"coordinates":[-70.071272,44.232848],"type":"Point"}
+  "bbox": [
+    -70.071272,
+    44.232848,
+    -70.071272,
+    44.232848
+],
+  "geometry": {"coordinates":[-70.07127199999999,44.232848],"type":"Point"}
 }

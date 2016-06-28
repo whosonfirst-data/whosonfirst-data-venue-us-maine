@@ -2,13 +2,14 @@
   "id": 403986329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.461254,43.851085,-70.461254,43.851085",
     "geom:latitude":43.851085,
     "geom:longitude":-70.461254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Freeman Ct",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403986329,
-    "wof:lastmodified":1449055702,
+    "wof:lastmodified":1466587244,
     "wof:name":"R S Dobson Prperties & Cad Con",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.461254,43.851085,-70.461254,43.851085],
+  "bbox": [
+    -70.461254,
+    43.851085,
+    -70.461254,
+    43.851085
+],
   "geometry": {"coordinates":[-70.461254,43.851085],"type":"Point"}
 }

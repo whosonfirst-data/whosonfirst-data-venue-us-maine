@@ -2,13 +2,14 @@
   "id": 387825023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.638406,44.567964,-69.638406,44.567964",
     "geom:latitude":44.567964,
     "geom:longitude":-69.638406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Main St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387825023,
-    "wof:lastmodified":1449056266,
+    "wof:lastmodified":1466587017,
     "wof:name":"Healthreach Homecare & Hospice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-69.638406,44.567964,-69.638406,44.567964],
+  "bbox": [
+    -69.638406,
+    44.567964,
+    -69.638406,
+    44.567964
+],
   "geometry": {"coordinates":[-69.638406,44.567964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403939055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.848256,44.854669,-68.848256,44.854669",
     "geom:latitude":44.854669,
     "geom:longitude":-68.848256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 Ohio St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403939055,
-    "wof:lastmodified":1449055037,
+    "wof:lastmodified":1466586945,
     "wof:name":"Mc Cabe's Nurseries",
     "wof:parent_id":85848853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-68.848256,44.854669,-68.848256,44.854669],
-  "geometry": {"coordinates":[-68.848256,44.854669],"type":"Point"}
+  "bbox": [
+    -68.848256,
+    44.854669,
+    -68.848256,
+    44.854669
+],
+  "geometry": {"coordinates":[-68.84825600000001,44.854669],"type":"Point"}
 }

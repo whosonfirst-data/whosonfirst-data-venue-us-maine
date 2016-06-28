@@ -2,13 +2,14 @@
   "id": 404021441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.324783,43.867486,-70.324783,43.867486",
     "geom:latitude":43.867486,
     "geom:longitude":-70.324783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Portland Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404021441,
-    "wof:lastmodified":1449039876,
+    "wof:lastmodified":1466585905,
     "wof:name":"Lou's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.324783,43.867486,-70.324783,43.867486],
+  "bbox": [
+    -70.324783,
+    43.867486,
+    -70.324783,
+    43.867486
+],
   "geometry": {"coordinates":[-70.324783,43.867486],"type":"Point"}
 }

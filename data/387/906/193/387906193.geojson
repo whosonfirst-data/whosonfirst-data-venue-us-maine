@@ -2,13 +2,14 @@
   "id": 387906193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.309596,43.679112,-70.309596,43.679112",
     "geom:latitude":43.679112,
     "geom:longitude":-70.309596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Four Winds Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387906193,
-    "wof:lastmodified":1449057550,
+    "wof:lastmodified":1466587242,
     "wof:name":"Property Masters",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.309596,43.679112,-70.309596,43.679112],
+  "bbox": [
+    -70.309596,
+    43.679112,
+    -70.309596,
+    43.679112
+],
   "geometry": {"coordinates":[-70.309596,43.679112],"type":"Point"}
 }

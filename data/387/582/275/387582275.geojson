@@ -2,13 +2,14 @@
   "id": 387582275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.861137,44.73177,-68.861137,44.73177",
     "geom:latitude":44.73177,
     "geom:longitude":-68.861137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Kennebec Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387582275,
-    "wof:lastmodified":1449058157,
+    "wof:lastmodified":1466586027,
     "wof:name":"Country Cuts By Donna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.861137,44.73177,-68.861137,44.73177],
+  "bbox": [
+    -68.861137,
+    44.73177,
+    -68.861137,
+    44.73177
+],
   "geometry": {"coordinates":[-68.861137,44.73177],"type":"Point"}
 }

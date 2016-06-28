@@ -2,13 +2,14 @@
   "id": 404009309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.194144,44.139621,-70.194144,44.139621",
     "geom:latitude":44.139621,
     "geom:longitude":-70.194144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Michaud Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404009309,
-    "wof:lastmodified":1449040309,
+    "wof:lastmodified":1466585797,
     "wof:name":"Healthscents",
     "wof:parent_id":85819719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-70.194144,44.139621,-70.194144,44.139621],
-  "geometry": {"coordinates":[-70.194144,44.139621],"type":"Point"}
+  "bbox": [
+    -70.194144,
+    44.139621,
+    -70.194144,
+    44.139621
+],
+  "geometry": {"coordinates":[-70.19414399999999,44.139621],"type":"Point"}
 }

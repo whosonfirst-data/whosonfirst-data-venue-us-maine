@@ -2,13 +2,14 @@
   "id": 404193169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.071282,44.210274,-69.071282,44.210274",
     "geom:latitude":44.210274,
     "geom:longitude":-69.071282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Lions Ln",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404193169,
-    "wof:lastmodified":1449039211,
+    "wof:lastmodified":1466586974,
     "wof:name":"Camden Wastewater Plant",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-69.071282,44.210274,-69.071282,44.210274],
+  "bbox": [
+    -69.071282,
+    44.210274,
+    -69.071282,
+    44.210274
+],
   "geometry": {"coordinates":[-69.071282,44.210274],"type":"Point"}
 }

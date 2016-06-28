@@ -2,13 +2,14 @@
   "id": 387972551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.211004,44.08826,-70.211004,44.08826",
     "geom:latitude":44.08826,
     "geom:longitude":-70.211004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387972551,
-    "wof:lastmodified":1449058013,
+    "wof:lastmodified":1466587350,
     "wof:name":"A & A Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sample"
     ]
 },
-  "bbox": [-70.211004,44.08826,-70.211004,44.08826],
+  "bbox": [
+    -70.211004,
+    44.08826,
+    -70.211004,
+    44.08826
+],
   "geometry": {"coordinates":[-70.211004,44.08826],"type":"Point"}
 }

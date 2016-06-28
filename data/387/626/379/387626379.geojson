@@ -2,13 +2,14 @@
   "id": 387626379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.803056,44.848175,-68.803056,44.848175",
     "geom:latitude":44.848175,
     "geom:longitude":-68.803056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1367 Broadway",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387626379,
-    "wof:lastmodified":1449059923,
+    "wof:lastmodified":1466586692,
     "wof:name":"J B Hair Fashions",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.803056,44.848175,-68.803056,44.848175],
+  "bbox": [
+    -68.803056,
+    44.848175,
+    -68.803056,
+    44.848175
+],
   "geometry": {"coordinates":[-68.803056,44.848175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387795003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.644916,44.935591,-68.644916,44.935591",
     "geom:latitude":44.935591,
     "geom:longitude":-68.644916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Center St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387795003,
-    "wof:lastmodified":1449058361,
+    "wof:lastmodified":1466587110,
     "wof:name":"Indian Island Faith Tabernacle",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-68.644916,44.935591,-68.644916,44.935591],
-  "geometry": {"coordinates":[-68.644916,44.935591],"type":"Point"}
+  "bbox": [
+    -68.644916,
+    44.935591,
+    -68.644916,
+    44.935591
+],
+  "geometry": {"coordinates":[-68.64491599999999,44.935591],"type":"Point"}
 }

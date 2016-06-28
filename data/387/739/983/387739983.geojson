@@ -2,13 +2,14 @@
   "id": 387739983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.257487,43.655808,-70.257487,43.655808",
     "geom:latitude":43.655808,
     "geom:longitude":-70.257487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Cotton St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387739983,
-    "wof:lastmodified":1449057711,
+    "wof:lastmodified":1466586859,
     "wof:name":"Fishman Realty Group",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.257487,43.655808,-70.257487,43.655808],
+  "bbox": [
+    -70.257487,
+    43.655808,
+    -70.257487,
+    43.655808
+],
   "geometry": {"coordinates":[-70.257487,43.655808],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387831891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.513054,43.425563,-70.513054,43.425563",
     "geom:latitude":43.425563,
     "geom:longitude":-70.513054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2565 Portland Rd",
     "sg:city":"Arundel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387831891,
-    "wof:lastmodified":1449058336,
+    "wof:lastmodified":1466587208,
     "wof:name":"Maine-Ley R V's Sales & Svc",
     "wof:parent_id":85828039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.513054,43.425563,-70.513054,43.425563],
+  "bbox": [
+    -70.513054,
+    43.425563,
+    -70.513054,
+    43.425563
+],
   "geometry": {"coordinates":[-70.513054,43.425563],"type":"Point"}
 }

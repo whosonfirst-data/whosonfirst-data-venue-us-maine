@@ -2,13 +2,14 @@
   "id": 387865939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.683766,45.657048,-68.683766,45.657048",
     "geom:latitude":45.657048,
     "geom:longitude":-68.683766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Balsam Dr",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387865939,
-    "wof:lastmodified":1449058979,
+    "wof:lastmodified":1466587188,
     "wof:name":"Lupines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.683766,45.657048,-68.683766,45.657048],
-  "geometry": {"coordinates":[-68.683766,45.657048],"type":"Point"}
+  "bbox": [
+    -68.683766,
+    45.657048,
+    -68.683766,
+    45.657048
+],
+  "geometry": {"coordinates":[-68.68376600000001,45.657048],"type":"Point"}
 }

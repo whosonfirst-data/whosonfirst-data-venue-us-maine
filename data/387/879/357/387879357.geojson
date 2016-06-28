@@ -2,13 +2,14 @@
   "id": 387879357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.650622,44.53045,-69.650622,44.53045",
     "geom:latitude":44.53045,
     "geom:longitude":-69.650622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Water St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387879357,
-    "wof:lastmodified":1449056148,
+    "wof:lastmodified":1466587293,
     "wof:name":"Kennebec Sanitary Treatment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-69.650622,44.53045,-69.650622,44.53045],
+  "bbox": [
+    -69.650622,
+    44.53045,
+    -69.650622,
+    44.53045
+],
   "geometry": {"coordinates":[-69.650622,44.53045],"type":"Point"}
 }

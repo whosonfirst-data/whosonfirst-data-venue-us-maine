@@ -2,13 +2,14 @@
   "id": 387824811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.476698,45.214654,-70.476698,45.214654",
     "geom:latitude":45.214654,
     "geom:longitude":-70.476698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Main St",
     "sg:city":"Eustis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387824811,
-    "wof:lastmodified":1449057454,
+    "wof:lastmodified":1466587109,
     "wof:name":"Trail's End Steakhouse & Lng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.476698,45.214654,-70.476698,45.214654],
+  "bbox": [
+    -70.476698,
+    45.214654,
+    -70.476698,
+    45.214654
+],
   "geometry": {"coordinates":[-70.476698,45.214654],"type":"Point"}
 }

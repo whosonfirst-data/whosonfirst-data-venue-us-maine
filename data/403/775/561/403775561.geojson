@@ -2,13 +2,14 @@
   "id": 403775561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.769366,44.789938,-68.769366,44.789938",
     "geom:latitude":44.789938,
     "geom:longitude":-68.769366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 S Main St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403775561,
-    "wof:lastmodified":1449055597,
+    "wof:lastmodified":1466586595,
     "wof:name":"J R Redemption Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-68.769366,44.789938,-68.769366,44.789938],
-  "geometry": {"coordinates":[-68.769366,44.789938],"type":"Point"}
+  "bbox": [
+    -68.769366,
+    44.789938,
+    -68.769366,
+    44.789938
+],
+  "geometry": {"coordinates":[-68.76936600000001,44.789938],"type":"Point"}
 }

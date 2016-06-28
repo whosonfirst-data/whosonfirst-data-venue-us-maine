@@ -2,13 +2,14 @@
   "id": 387654351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.006494,43.776767,-70.006494,43.776767",
     "geom:latitude":43.776767,
     "geom:longitude":-70.006494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 Harpswell Neck Rd",
     "sg:city":"Harpswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387654351,
-    "wof:lastmodified":1449057375,
+    "wof:lastmodified":1466586036,
     "wof:name":"Harpswell Neck Fire Dept",
     "wof:parent_id":85855607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-70.006494,43.776767,-70.006494,43.776767],
+  "bbox": [
+    -70.006494,
+    43.776767,
+    -70.006494,
+    43.776767
+],
   "geometry": {"coordinates":[-70.006494,43.776767],"type":"Point"}
 }

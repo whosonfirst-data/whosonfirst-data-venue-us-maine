@@ -2,13 +2,14 @@
   "id": 404084405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.007318,46.678094,-68.007318,46.678094",
     "geom:latitude":46.678094,
     "geom:longitude":-68.007318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Academy St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404084405,
-    "wof:lastmodified":1449039151,
+    "wof:lastmodified":1466585800,
     "wof:name":"Colonial Heights Apartments",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-68.007318,46.678094,-68.007318,46.678094],
+  "bbox": [
+    -68.007318,
+    46.678094,
+    -68.007318,
+    46.678094
+],
   "geometry": {"coordinates":[-68.007318,46.678094],"type":"Point"}
 }

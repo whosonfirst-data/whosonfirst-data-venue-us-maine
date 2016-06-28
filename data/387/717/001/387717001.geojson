@@ -2,13 +2,14 @@
   "id": 387717001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.06314,44.002226,-70.06314,44.002226",
     "geom:latitude":44.002226,
     "geom:longitude":-70.06314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Plummer St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387717001,
-    "wof:lastmodified":1449056219,
+    "wof:lastmodified":1466586883,
     "wof:name":"Alternative Services",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "group"
     ]
 },
-  "bbox": [-70.06314,44.002226,-70.06314,44.002226],
+  "bbox": [
+    -70.06314,
+    44.002226,
+    -70.06314,
+    44.002226
+],
   "geometry": {"coordinates":[-70.06314,44.002226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403809395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.38454,43.849804,-70.38454,43.849804",
     "geom:latitude":43.849804,
     "geom:longitude":-70.38454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Gray Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403809395,
-    "wof:lastmodified":1449055728,
+    "wof:lastmodified":1466586094,
     "wof:name":"Partridge Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.38454,43.849804,-70.38454,43.849804],
+  "bbox": [
+    -70.38454,
+    43.849804,
+    -70.38454,
+    43.849804
+],
   "geometry": {"coordinates":[-70.38454,43.849804],"type":"Point"}
 }

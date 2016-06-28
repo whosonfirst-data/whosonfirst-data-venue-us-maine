@@ -2,13 +2,14 @@
   "id": 403963475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.449054,43.849261,-70.449054,43.849261",
     "geom:latitude":43.849261,
     "geom:longitude":-70.449054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"744 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403963475,
-    "wof:lastmodified":1449054767,
+    "wof:lastmodified":1466587027,
     "wof:name":"Metayer Family Eye Care",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.449054,43.849261,-70.449054,43.849261],
+  "bbox": [
+    -70.449054,
+    43.849261,
+    -70.449054,
+    43.849261
+],
   "geometry": {"coordinates":[-70.449054,43.849261],"type":"Point"}
 }

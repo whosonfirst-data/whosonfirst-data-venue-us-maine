@@ -2,13 +2,14 @@
   "id": 403886315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.419846,44.542988,-68.419846,44.542988",
     "geom:latitude":44.542988,
     "geom:longitude":-68.419846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Main St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403886315,
-    "wof:lastmodified":1449055374,
+    "wof:lastmodified":1466586936,
     "wof:name":"St Joseph Catholic Church",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-68.419846,44.542988,-68.419846,44.542988],
-  "geometry": {"coordinates":[-68.419846,44.542988],"type":"Point"}
+  "bbox": [
+    -68.419846,
+    44.542988,
+    -68.419846,
+    44.542988
+],
+  "geometry": {"coordinates":[-68.41984600000001,44.542988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387715487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.005862,46.668335,-68.005862,46.668335",
     "geom:latitude":46.668335,
     "geom:longitude":-68.005862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Green Hill Rd",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387715487,
-    "wof:lastmodified":1449059150,
+    "wof:lastmodified":1466586792,
     "wof:name":"MBNA America",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.005862,46.668335,-68.005862,46.668335],
-  "geometry": {"coordinates":[-68.005862,46.668335],"type":"Point"}
+  "bbox": [
+    -68.005862,
+    46.668335,
+    -68.005862,
+    46.668335
+],
+  "geometry": {"coordinates":[-68.00586199999999,46.668335],"type":"Point"}
 }

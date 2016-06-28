@@ -2,13 +2,14 @@
   "id": 403808135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.790711,44.773573,-68.790711,44.773573",
     "geom:latitude":44.773573,
     "geom:longitude":-68.790711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 Main Rd N",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403808135,
-    "wof:lastmodified":1449054682,
+    "wof:lastmodified":1466586076,
     "wof:name":"Al Swenson Carpet & Vinyl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rug"
     ]
 },
-  "bbox": [-68.790711,44.773573,-68.790711,44.773573],
+  "bbox": [
+    -68.790711,
+    44.773573,
+    -68.790711,
+    44.773573
+],
   "geometry": {"coordinates":[-68.790711,44.773573],"type":"Point"}
 }

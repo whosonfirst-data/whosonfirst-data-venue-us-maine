@@ -2,13 +2,14 @@
   "id": 387972095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.268443,44.068683,-70.268443,44.068683",
     "geom:latitude":44.068683,
     "geom:longitude":-70.268443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 Hotel Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387972095,
-    "wof:lastmodified":1449058015,
+    "wof:lastmodified":1466587303,
     "wof:name":"Kearns Specialty Wholesale",
     "wof:parent_id":85831033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-70.268443,44.068683,-70.268443,44.068683],
+  "bbox": [
+    -70.268443,
+    44.068683,
+    -70.268443,
+    44.068683
+],
   "geometry": {"coordinates":[-70.268443,44.068683],"type":"Point"}
 }

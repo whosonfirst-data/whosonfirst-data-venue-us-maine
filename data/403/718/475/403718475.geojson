@@ -2,13 +2,14 @@
   "id": 403718475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.008225,43.749794,-70.008225,43.749794",
     "geom:latitude":43.749794,
     "geom:longitude":-70.008225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1719 Harpswell Neck Rd",
     "sg:city":"Harpswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403718475,
-    "wof:lastmodified":1449054931,
+    "wof:lastmodified":1466585837,
     "wof:name":"Common Table",
     "wof:parent_id":85855607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-70.008225,43.749794,-70.008225,43.749794],
+  "bbox": [
+    -70.008225,
+    43.749794,
+    -70.008225,
+    43.749794
+],
   "geometry": {"coordinates":[-70.008225,43.749794],"type":"Point"}
 }

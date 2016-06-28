@@ -2,13 +2,14 @@
   "id": 387615691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.660048,44.340478,-69.660048,44.340478",
     "geom:latitude":44.340478,
     "geom:longitude":-69.660048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Weeks Mills Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387615691,
-    "wof:lastmodified":1449057300,
+    "wof:lastmodified":1466586607,
     "wof:name":"White & Bradstreet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-69.660048,44.340478,-69.660048,44.340478],
+  "bbox": [
+    -69.660048,
+    44.340478,
+    -69.660048,
+    44.340478
+],
   "geometry": {"coordinates":[-69.660048,44.340478],"type":"Point"}
 }

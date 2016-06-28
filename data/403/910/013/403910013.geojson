@@ -2,13 +2,14 @@
   "id": 403910013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.552331,43.545782,-70.552331,43.545782",
     "geom:latitude":43.545782,
     "geom:longitude":-70.552331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Hollis Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403910013,
-    "wof:lastmodified":1449055179,
+    "wof:lastmodified":1466587044,
     "wof:name":"Gerard Paradis Jr",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.552331,43.545782,-70.552331,43.545782],
+  "bbox": [
+    -70.552331,
+    43.545782,
+    -70.552331,
+    43.545782
+],
   "geometry": {"coordinates":[-70.552331,43.545782],"type":"Point"}
 }

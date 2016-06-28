@@ -2,13 +2,14 @@
   "id": 404212443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.176312,44.073994,-70.176312,44.073994",
     "geom:latitude":44.073994,
     "geom:longitude":-70.176312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Westminster St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404212443,
-    "wof:lastmodified":1449039912,
+    "wof:lastmodified":1466587056,
     "wof:name":"US Veterans Ctr",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "government"
     ]
 },
-  "bbox": [-70.176312,44.073994,-70.176312,44.073994],
+  "bbox": [
+    -70.176312,
+    44.073994,
+    -70.176312,
+    44.073994
+],
   "geometry": {"coordinates":[-70.176312,44.073994],"type":"Point"}
 }

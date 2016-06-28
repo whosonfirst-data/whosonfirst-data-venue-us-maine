@@ -2,13 +2,14 @@
   "id": 403777477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.290538,43.682776,-70.290538,43.682776",
     "geom:latitude":43.682776,
     "geom:longitude":-70.290538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"991 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403777477,
-    "wof:lastmodified":1449055341,
+    "wof:lastmodified":1466586607,
     "wof:name":"Northeast Capitol Services",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-70.290538,43.682776,-70.290538,43.682776],
+  "bbox": [
+    -70.290538,
+    43.682776,
+    -70.290538,
+    43.682776
+],
   "geometry": {"coordinates":[-70.290538,43.682776],"type":"Point"}
 }

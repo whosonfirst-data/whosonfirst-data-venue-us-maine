@@ -2,13 +2,14 @@
   "id": 403743039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.219688,45.181678,-69.219688,45.181678",
     "geom:latitude":45.181678,
     "geom:longitude":-69.219688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 E Main St",
     "sg:city":"Dover Foxcroft",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403743039,
-    "wof:lastmodified":1449055952,
+    "wof:lastmodified":1466586101,
     "wof:name":"Pastry Paradise Doughnut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-69.219688,45.181678,-69.219688,45.181678],
+  "bbox": [
+    -69.219688,
+    45.181678,
+    -69.219688,
+    45.181678
+],
   "geometry": {"coordinates":[-69.219688,45.181678],"type":"Point"}
 }

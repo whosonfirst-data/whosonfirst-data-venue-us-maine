@@ -2,13 +2,14 @@
   "id": 387848381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.17267,44.077724,-70.17267,44.077724",
     "geom:latitude":44.077724,
     "geom:longitude":-70.17267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Westminster St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387848381,
-    "wof:lastmodified":1449056635,
+    "wof:lastmodified":1466587151,
     "wof:name":"Healing Touch",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioner"
     ]
 },
-  "bbox": [-70.17267,44.077724,-70.17267,44.077724],
+  "bbox": [
+    -70.17267,
+    44.077724,
+    -70.17267,
+    44.077724
+],
   "geometry": {"coordinates":[-70.17267,44.077724],"type":"Point"}
 }

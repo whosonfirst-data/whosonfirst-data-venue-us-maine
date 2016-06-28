@@ -2,13 +2,14 @@
   "id": 387821663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.737713,43.094819,-70.737713,43.094819",
     "geom:latitude":43.094819,
     "geom:longitude":-70.737713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 State Rte 236",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387821663,
-    "wof:lastmodified":1449058185,
+    "wof:lastmodified":1466587107,
     "wof:name":"Eva A Diharce",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "speech"
     ]
 },
-  "bbox": [-70.737713,43.094819,-70.737713,43.094819],
+  "bbox": [
+    -70.737713,
+    43.094819,
+    -70.737713,
+    43.094819
+],
   "geometry": {"coordinates":[-70.737713,43.094819],"type":"Point"}
 }

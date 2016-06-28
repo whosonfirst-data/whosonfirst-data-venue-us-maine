@@ -2,13 +2,14 @@
   "id": 403856245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.938561,44.439249,-68.938561,44.439249",
     "geom:latitude":44.439249,
     "geom:longitude":-68.938561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 W Main St",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403856245,
-    "wof:lastmodified":1449055020,
+    "wof:lastmodified":1466586739,
     "wof:name":"Horowitz Chiropractic",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.938561,44.439249,-68.938561,44.439249],
-  "geometry": {"coordinates":[-68.938561,44.439249],"type":"Point"}
+  "bbox": [
+    -68.938561,
+    44.439249,
+    -68.938561,
+    44.439249
+],
+  "geometry": {"coordinates":[-68.93856100000001,44.439249],"type":"Point"}
 }

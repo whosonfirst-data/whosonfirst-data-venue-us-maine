@@ -2,13 +2,14 @@
   "id": 387910767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.329195,43.987068,-70.329195,43.987068",
     "geom:latitude":43.987068,
     "geom:longitude":-70.329195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 Shaker Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387910767,
-    "wof:lastmodified":1449057692,
+    "wof:lastmodified":1466587250,
     "wof:name":"Fresh N Up Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.329195,43.987068,-70.329195,43.987068],
+  "bbox": [
+    -70.329195,
+    43.987068,
+    -70.329195,
+    43.987068
+],
   "geometry": {"coordinates":[-70.329195,43.987068],"type":"Point"}
 }

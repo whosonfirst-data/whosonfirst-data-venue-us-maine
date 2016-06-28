@@ -2,13 +2,14 @@
   "id": 403798875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.247945,43.635774,-70.247945,43.635774",
     "geom:latitude":43.635774,
     "geom:longitude":-70.247945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Cottage Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403798875,
-    "wof:lastmodified":1449054884,
+    "wof:lastmodified":1466585929,
     "wof:name":"Salah's Garage",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-70.247945,43.635774,-70.247945,43.635774],
+  "bbox": [
+    -70.247945,
+    43.635774,
+    -70.247945,
+    43.635774
+],
   "geometry": {"coordinates":[-70.247945,43.635774],"type":"Point"}
 }

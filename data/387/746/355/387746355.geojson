@@ -2,13 +2,14 @@
   "id": 387746355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.392504,43.618047,-70.392504,43.618047",
     "geom:latitude":43.618047,
     "geom:longitude":-70.392504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Barley Ln",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387746355,
-    "wof:lastmodified":1449056081,
+    "wof:lastmodified":1466586966,
     "wof:name":"Beal S Ice Cream Mfg",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-70.392504,43.618047,-70.392504,43.618047],
+  "bbox": [
+    -70.392504,
+    43.618047,
+    -70.392504,
+    43.618047
+],
   "geometry": {"coordinates":[-70.392504,43.618047],"type":"Point"}
 }

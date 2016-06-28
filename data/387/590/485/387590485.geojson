@@ -2,13 +2,14 @@
   "id": 387590485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.433597,43.990556,-70.433597,43.990556",
     "geom:latitude":43.990556,
     "geom:longitude":-70.433597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Mountain Rd",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387590485,
-    "wof:lastmodified":1449058370,
+    "wof:lastmodified":1466586192,
     "wof:name":"Sayward Tree & Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.433597,43.990556,-70.433597,43.990556],
-  "geometry": {"coordinates":[-70.433597,43.990556],"type":"Point"}
+  "bbox": [
+    -70.433597,
+    43.990556,
+    -70.433597,
+    43.990556
+],
+  "geometry": {"coordinates":[-70.43359700000001,43.990556],"type":"Point"}
 }

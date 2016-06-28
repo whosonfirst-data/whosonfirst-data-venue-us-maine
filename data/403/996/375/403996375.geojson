@@ -2,13 +2,14 @@
   "id": 403996375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.71633,44.545816,-69.71633,44.545816",
     "geom:latitude":44.545816,
     "geom:longitude":-69.71633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Water St",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403996375,
-    "wof:lastmodified":1449055003,
+    "wof:lastmodified":1466587182,
     "wof:name":"Central Maine Metal Finishing",
     "wof:parent_id":85837327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "finisher"
     ]
 },
-  "bbox": [-69.71633,44.545816,-69.71633,44.545816],
+  "bbox": [
+    -69.71633,
+    44.545816,
+    -69.71633,
+    44.545816
+],
   "geometry": {"coordinates":[-69.71633,44.545816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404178789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.785616,44.793776,-68.785616,44.793776",
     "geom:latitude":44.793776,
     "geom:longitude":-68.785616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Lincoln St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404178789,
-    "wof:lastmodified":1449039984,
+    "wof:lastmodified":1466586829,
     "wof:name":"Horace Mann",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-68.785616,44.793776,-68.785616,44.793776],
+  "bbox": [
+    -68.785616,
+    44.793776,
+    -68.785616,
+    44.793776
+],
   "geometry": {"coordinates":[-68.785616,44.793776],"type":"Point"}
 }

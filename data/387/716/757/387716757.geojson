@@ -2,13 +2,14 @@
   "id": 387716757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.87757,43.880381,-70.87757,43.880381",
     "geom:latitude":43.880381,
     "geom:longitude":-70.87757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Sun Valley Dr",
     "sg:city":"Bridgton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387716757,
-    "wof:lastmodified":1449056641,
+    "wof:lastmodified":1466586803,
     "wof:name":"Snow's Excavation & Septic Tnk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.87757,43.880381,-70.87757,43.880381],
-  "geometry": {"coordinates":[-70.87757,43.880381],"type":"Point"}
+  "bbox": [
+    -70.87757,
+    43.880381,
+    -70.87757,
+    43.880381
+],
+  "geometry": {"coordinates":[-70.87757000000001,43.880381],"type":"Point"}
 }

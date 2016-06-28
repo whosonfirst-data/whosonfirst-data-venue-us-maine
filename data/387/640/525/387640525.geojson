@@ -2,13 +2,14 @@
   "id": 387640525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.901633,44.303812,-68.901633,44.303812",
     "geom:latitude":44.303812,
     "geom:longitude":-68.901633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Main Rd",
     "sg:city":"Islesboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387640525,
-    "wof:lastmodified":1449057760,
+    "wof:lastmodified":1466585878,
     "wof:name":"Porter Landscaping & Design",
     "wof:parent_id":85813559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.901633,44.303812,-68.901633,44.303812],
+  "bbox": [
+    -68.901633,
+    44.303812,
+    -68.901633,
+    44.303812
+],
   "geometry": {"coordinates":[-68.901633,44.303812],"type":"Point"}
 }

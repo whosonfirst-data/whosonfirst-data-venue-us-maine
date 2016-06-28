@@ -2,13 +2,14 @@
   "id": 404056203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.765149,44.307438,-69.765149,44.307438",
     "geom:latitude":44.307438,
     "geom:longitude":-69.765149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Hospital St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404056203,
-    "wof:lastmodified":1449039356,
+    "wof:lastmodified":1466586369,
     "wof:name":"Palermo Fire Dept",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-69.765149,44.307438,-69.765149,44.307438],
-  "geometry": {"coordinates":[-69.765149,44.307438],"type":"Point"}
+  "bbox": [
+    -69.765149,
+    44.307438,
+    -69.765149,
+    44.307438
+],
+  "geometry": {"coordinates":[-69.76514899999999,44.307438],"type":"Point"}
 }

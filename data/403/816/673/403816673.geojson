@@ -2,13 +2,14 @@
   "id": 403816673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.845357,44.31339,-69.845357,44.31339",
     "geom:latitude":44.31339,
     "geom:longitude":-69.845357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Kerns Hill Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403816673,
-    "wof:lastmodified":1449055416,
+    "wof:lastmodified":1466586673,
     "wof:name":"Diamond Pools & Supplies",
     "wof:parent_id":85841121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "swimming"
     ]
 },
-  "bbox": [-69.845357,44.31339,-69.845357,44.31339],
-  "geometry": {"coordinates":[-69.845357,44.31339],"type":"Point"}
+  "bbox": [
+    -69.845357,
+    44.31339,
+    -69.845357,
+    44.31339
+],
+  "geometry": {"coordinates":[-69.84535700000001,44.31339],"type":"Point"}
 }

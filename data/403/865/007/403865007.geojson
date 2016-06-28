@@ -2,13 +2,14 @@
   "id": 403865007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.834134,46.122967,-67.834134,46.122967",
     "geom:latitude":46.122967,
     "geom:longitude":-67.834134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 High St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403865007,
-    "wof:lastmodified":1449055635,
+    "wof:lastmodified":1466586675,
     "wof:name":"Douglas G Henderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.834134,46.122967,-67.834134,46.122967],
-  "geometry": {"coordinates":[-67.834134,46.122967],"type":"Point"}
+  "bbox": [
+    -67.834134,
+    46.122967,
+    -67.834134,
+    46.122967
+],
+  "geometry": {"coordinates":[-67.83413400000001,46.122967],"type":"Point"}
 }

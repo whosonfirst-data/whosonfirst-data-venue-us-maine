@@ -2,13 +2,14 @@
   "id": 404021399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.803629,44.810578,-68.803629,44.810578",
     "geom:latitude":44.810578,
     "geom:longitude":-68.803629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Montana Ave",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404021399,
-    "wof:lastmodified":1449039878,
+    "wof:lastmodified":1466585903,
     "wof:name":"Hammond Lumber Co",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-68.803629,44.810578,-68.803629,44.810578],
+  "bbox": [
+    -68.803629,
+    44.810578,
+    -68.803629,
+    44.810578
+],
   "geometry": {"coordinates":[-68.803629,44.810578],"type":"Point"}
 }

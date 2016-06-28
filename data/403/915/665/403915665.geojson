@@ -2,13 +2,14 @@
   "id": 403915665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.286716,43.635922,-70.286716,43.635922",
     "geom:latitude":43.635922,
     "geom:longitude":-70.286716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Main St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403915665,
-    "wof:lastmodified":1449055939,
+    "wof:lastmodified":1466586968,
     "wof:name":"Gentiva Health Svc",
     "wof:parent_id":85809743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-70.286716,43.635922,-70.286716,43.635922],
+  "bbox": [
+    -70.286716,
+    43.635922,
+    -70.286716,
+    43.635922
+],
   "geometry": {"coordinates":[-70.286716,43.635922],"type":"Point"}
 }

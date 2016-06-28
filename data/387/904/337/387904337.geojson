@@ -2,13 +2,14 @@
   "id": 387904337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.719286,44.547234,-69.719286,44.547234",
     "geom:latitude":44.547234,
     "geom:longitude":-69.719286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Church St",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387904337,
-    "wof:lastmodified":1449060005,
+    "wof:lastmodified":1466587235,
     "wof:name":"Coughlin Agency",
     "wof:parent_id":85837327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-69.719286,44.547234,-69.719286,44.547234],
+  "bbox": [
+    -69.719286,
+    44.547234,
+    -69.719286,
+    44.547234
+],
   "geometry": {"coordinates":[-69.719286,44.547234],"type":"Point"}
 }

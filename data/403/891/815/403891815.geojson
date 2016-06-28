@@ -2,13 +2,14 @@
   "id": 403891815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.744702,43.176649,-70.744702,43.176649",
     "geom:latitude":43.176649,
     "geom:longitude":-70.744702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 White Birch Ln",
     "sg:city":"York",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403891815,
-    "wof:lastmodified":1449055458,
+    "wof:lastmodified":1466586972,
     "wof:name":"Chairman of The Board",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.744702,43.176649,-70.744702,43.176649],
+  "bbox": [
+    -70.744702,
+    43.176649,
+    -70.744702,
+    43.176649
+],
   "geometry": {"coordinates":[-70.744702,43.176649],"type":"Point"}
 }

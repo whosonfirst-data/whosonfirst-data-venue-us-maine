@@ -2,13 +2,14 @@
   "id": 387971125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.189364,44.082069,-70.189364,44.082069",
     "geom:latitude":44.082069,
     "geom:longitude":-70.189364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Scribner Blvd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387971125,
-    "wof:lastmodified":1449058033,
+    "wof:lastmodified":1466587303,
     "wof:name":"Marc's Upholstery",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-70.189364,44.082069,-70.189364,44.082069],
+  "bbox": [
+    -70.189364,
+    44.082069,
+    -70.189364,
+    44.082069
+],
   "geometry": {"coordinates":[-70.189364,44.082069],"type":"Point"}
 }

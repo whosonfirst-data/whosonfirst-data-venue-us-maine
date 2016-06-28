@@ -2,13 +2,14 @@
   "id": 387578581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.156723,43.784442,-70.156723,43.784442",
     "geom:latitude":43.784442,
     "geom:longitude":-70.156723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Vaill Point Rd",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387578581,
-    "wof:lastmodified":1449057060,
+    "wof:lastmodified":1466586002,
     "wof:name":"Blueberry Ledge Nursery School",
     "wof:parent_id":85812603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-70.156723,43.784442,-70.156723,43.784442],
+  "bbox": [
+    -70.156723,
+    43.784442,
+    -70.156723,
+    43.784442
+],
   "geometry": {"coordinates":[-70.156723,43.784442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403787239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.940888,46.889638,-67.940888,46.889638",
     "geom:latitude":46.889638,
     "geom:longitude":-67.940888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Bog Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403787239,
-    "wof:lastmodified":1449055239,
+    "wof:lastmodified":1466586632,
     "wof:name":"Dana Morrell Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.940888,46.889638,-67.940888,46.889638],
+  "bbox": [
+    -67.940888,
+    46.889638,
+    -67.940888,
+    46.889638
+],
   "geometry": {"coordinates":[-67.940888,46.889638],"type":"Point"}
 }

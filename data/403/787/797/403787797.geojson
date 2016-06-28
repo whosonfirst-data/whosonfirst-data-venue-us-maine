@@ -2,13 +2,14 @@
   "id": 403787797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.860546,44.40228,-70.860546,44.40228",
     "geom:latitude":44.40228,
     "geom:longitude":-70.860546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 W Bethel Rd",
     "sg:city":"West Bethel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403787797,
-    "wof:lastmodified":1449055241,
+    "wof:lastmodified":1466586700,
     "wof:name":"US Post Office",
     "wof:parent_id":85833087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.860546,44.40228,-70.860546,44.40228],
+  "bbox": [
+    -70.860546,
+    44.40228,
+    -70.860546,
+    44.40228
+],
   "geometry": {"coordinates":[-70.860546,44.40228],"type":"Point"}
 }

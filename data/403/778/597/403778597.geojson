@@ -2,13 +2,14 @@
   "id": 403778597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.544695,44.556563,-70.544695,44.556563",
     "geom:latitude":44.556563,
     "geom:longitude":-70.544695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Main St",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":403778597,
-    "wof:lastmodified":1449054652,
+    "wof:lastmodified":1466586682,
     "wof:name":"Mexico Congregational Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.544695,44.556563,-70.544695,44.556563],
+  "bbox": [
+    -70.544695,
+    44.556563,
+    -70.544695,
+    44.556563
+],
   "geometry": {"coordinates":[-70.544695,44.556563],"type":"Point"}
 }

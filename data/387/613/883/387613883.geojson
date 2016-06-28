@@ -2,13 +2,14 @@
   "id": 387613883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.997475,46.854006,-67.997475,46.854006",
     "geom:latitude":46.854006,
     "geom:longitude":-67.997475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Fort Fairfield Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387613883,
-    "wof:lastmodified":1449057878,
+    "wof:lastmodified":1466586560,
     "wof:name":"Burning Log Stove Shop",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "burning"
     ]
 },
-  "bbox": [-67.997475,46.854006,-67.997475,46.854006],
-  "geometry": {"coordinates":[-67.997475,46.854006],"type":"Point"}
+  "bbox": [
+    -67.997475,
+    46.854006,
+    -67.997475,
+    46.854006
+],
+  "geometry": {"coordinates":[-67.99747499999999,46.854006],"type":"Point"}
 }

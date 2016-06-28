@@ -2,13 +2,14 @@
   "id": 403846225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.83324,44.668269,-68.83324,44.668269",
     "geom:latitude":44.668269,
     "geom:longitude":-68.83324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 N Main St",
     "sg:city":"Winterport",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403846225,
-    "wof:lastmodified":1449055672,
+    "wof:lastmodified":1466586705,
     "wof:name":"Seven Oaks Training Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "drug"
     ]
 },
-  "bbox": [-68.83324,44.668269,-68.83324,44.668269],
+  "bbox": [
+    -68.83324,
+    44.668269,
+    -68.83324,
+    44.668269
+],
   "geometry": {"coordinates":[-68.83324,44.668269],"type":"Point"}
 }

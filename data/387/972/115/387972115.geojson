@@ -2,13 +2,14 @@
   "id": 387972115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.430122,44.539091,-68.430122,44.539091",
     "geom:latitude":44.539091,
     "geom:longitude":-68.430122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Bucksport Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387972115,
-    "wof:lastmodified":1449058015,
+    "wof:lastmodified":1466587303,
     "wof:name":"Seraphin Construction",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.430122,44.539091,-68.430122,44.539091],
+  "bbox": [
+    -68.430122,
+    44.539091,
+    -68.430122,
+    44.539091
+],
   "geometry": {"coordinates":[-68.430122,44.539091],"type":"Point"}
 }

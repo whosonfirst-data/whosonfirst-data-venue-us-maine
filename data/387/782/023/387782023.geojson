@@ -2,13 +2,14 @@
   "id": 387782023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.42529,44.544278,-68.42529,44.544278",
     "geom:latitude":44.544278,
     "geom:longitude":-68.42529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 State St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387782023,
-    "wof:lastmodified":1449056100,
+    "wof:lastmodified":1466587090,
     "wof:name":"Patterson Law Offices",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-68.42529,44.544278,-68.42529,44.544278],
+  "bbox": [
+    -68.42529,
+    44.544278,
+    -68.42529,
+    44.544278
+],
   "geometry": {"coordinates":[-68.42529,44.544278],"type":"Point"}
 }

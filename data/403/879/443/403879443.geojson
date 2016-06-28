@@ -2,13 +2,14 @@
   "id": 403879443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.189769,44.472717,-70.189769,44.472717",
     "geom:latitude":44.472717,
     "geom:longitude":-70.189769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Main St",
     "sg:city":"Livermore Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403879443,
-    "wof:lastmodified":1449054646,
+    "wof:lastmodified":1466586835,
     "wof:name":"Abused Women's Advocacy Prjct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.189769,44.472717,-70.189769,44.472717],
+  "bbox": [
+    -70.189769,
+    44.472717,
+    -70.189769,
+    44.472717
+],
   "geometry": {"coordinates":[-70.189769,44.472717],"type":"Point"}
 }

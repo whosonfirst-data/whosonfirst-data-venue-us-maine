@@ -2,13 +2,14 @@
   "id": 403962985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.044944,46.753714,-68.044944,46.753714",
     "geom:latitude":46.753714,
     "geom:longitude":-68.044944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Chandler Rd",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403962985,
-    "wof:lastmodified":1449055431,
+    "wof:lastmodified":1466587111,
     "wof:name":"Christian Life Assembly Chr",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-68.044944,46.753714,-68.044944,46.753714],
+  "bbox": [
+    -68.044944,
+    46.753714,
+    -68.044944,
+    46.753714
+],
   "geometry": {"coordinates":[-68.044944,46.753714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387960857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.654309,44.534351,-69.654309,44.534351",
     "geom:latitude":44.534351,
     "geom:longitude":-69.654309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Louise Ave",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387960857,
-    "wof:lastmodified":1449058845,
+    "wof:lastmodified":1466587345,
     "wof:name":"Forsythe Terrace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-69.654309,44.534351,-69.654309,44.534351],
+  "bbox": [
+    -69.654309,
+    44.534351,
+    -69.654309,
+    44.534351
+],
   "geometry": {"coordinates":[-69.654309,44.534351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404206909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.774552,44.314121,-69.774552,44.314121",
     "geom:latitude":44.314121,
     "geom:longitude":-69.774552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Water St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404206909,
-    "wof:lastmodified":1449039948,
+    "wof:lastmodified":1466587042,
     "wof:name":"Bridgecorp",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.774552,44.314121,-69.774552,44.314121],
+  "bbox": [
+    -69.774552,
+    44.314121,
+    -69.774552,
+    44.314121
+],
   "geometry": {"coordinates":[-69.774552,44.314121],"type":"Point"}
 }

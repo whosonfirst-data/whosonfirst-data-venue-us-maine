@@ -2,13 +2,14 @@
   "id": 404140209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.211465,44.386168,-68.211465,44.386168",
     "geom:latitude":44.386168,
     "geom:longitude":-68.211465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Mount Desert St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404140209,
-    "wof:lastmodified":1449039185,
+    "wof:lastmodified":1466586605,
     "wof:name":"Lowe Janice Done Counslng Svcs",
     "wof:parent_id":85803817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-68.211465,44.386168,-68.211465,44.386168],
+  "bbox": [
+    -68.211465,
+    44.386168,
+    -68.211465,
+    44.386168
+],
   "geometry": {"coordinates":[-68.211465,44.386168],"type":"Point"}
 }

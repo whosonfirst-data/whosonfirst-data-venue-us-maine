@@ -2,13 +2,14 @@
   "id": 404093677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.012274,44.428613,-69.012274,44.428613",
     "geom:latitude":44.428613,
     "geom:longitude":-69.012274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 High St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404093677,
-    "wof:lastmodified":1449039082,
+    "wof:lastmodified":1466585904,
     "wof:name":"Baseline North",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-69.012274,44.428613,-69.012274,44.428613],
-  "geometry": {"coordinates":[-69.012274,44.428613],"type":"Point"}
+  "bbox": [
+    -69.012274,
+    44.428613,
+    -69.012274,
+    44.428613
+],
+  "geometry": {"coordinates":[-69.01227400000001,44.428613],"type":"Point"}
 }

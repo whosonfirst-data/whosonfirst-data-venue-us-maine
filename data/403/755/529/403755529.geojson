@@ -2,13 +2,14 @@
   "id": 403755529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.455293,43.501738,-70.455293,43.501738",
     "geom:latitude":43.501738,
     "geom:longitude":-70.455293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Harrison Ave",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403755529,
-    "wof:lastmodified":1449055016,
+    "wof:lastmodified":1466586326,
     "wof:name":"Triple J Vending",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-70.455293,43.501738,-70.455293,43.501738],
+  "bbox": [
+    -70.455293,
+    43.501738,
+    -70.455293,
+    43.501738
+],
   "geometry": {"coordinates":[-70.455293,43.501738],"type":"Point"}
 }

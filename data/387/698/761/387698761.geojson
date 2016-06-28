@@ -2,13 +2,14 @@
   "id": 387698761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.992134,46.842739,-67.992134,46.842739",
     "geom:latitude":46.842739,
     "geom:longitude":-67.992134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E Presque Isle Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387698761,
-    "wof:lastmodified":1449059687,
+    "wof:lastmodified":1466586728,
     "wof:name":"Corriveau's Auto Repair",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-67.992134,46.842739,-67.992134,46.842739],
-  "geometry": {"coordinates":[-67.992134,46.842739],"type":"Point"}
+  "bbox": [
+    -67.992134,
+    46.842739,
+    -67.992134,
+    46.842739
+],
+  "geometry": {"coordinates":[-67.99213399999999,46.842739],"type":"Point"}
 }

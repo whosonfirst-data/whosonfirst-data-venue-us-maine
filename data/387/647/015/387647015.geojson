@@ -2,13 +2,14 @@
   "id": 387647015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225283,44.109762,-70.225283,44.109762",
     "geom:latitude":44.109762,
     "geom:longitude":-70.225283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387647015,
-    "wof:lastmodified":1449057903,
+    "wof:lastmodified":1466585957,
     "wof:name":"Vectorsonics",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-70.225283,44.109762,-70.225283,44.109762],
+  "bbox": [
+    -70.225283,
+    44.109762,
+    -70.225283,
+    44.109762
+],
   "geometry": {"coordinates":[-70.225283,44.109762],"type":"Point"}
 }

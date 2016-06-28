@@ -2,13 +2,14 @@
   "id": 404042671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.301786,43.669013,-70.301786,43.669013",
     "geom:latitude":43.669013,
     "geom:longitude":-70.301786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Woodford St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404042671,
-    "wof:lastmodified":1449040010,
+    "wof:lastmodified":1466586127,
     "wof:name":"Market Street Settlement Group",
     "wof:parent_id":85846029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-70.301786,43.669013,-70.301786,43.669013],
-  "geometry": {"coordinates":[-70.301786,43.669013],"type":"Point"}
+  "bbox": [
+    -70.301786,
+    43.669013,
+    -70.301786,
+    43.669013
+],
+  "geometry": {"coordinates":[-70.30178600000001,43.669013],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404071827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.293324,45.020968,-69.293324,45.020968",
     "geom:latitude":45.020968,
     "geom:longitude":-69.293324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Main St",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404071827,
-    "wof:lastmodified":1449039874,
+    "wof:lastmodified":1466586592,
     "wof:name":"Dexter United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-69.293324,45.020968,-69.293324,45.020968],
+  "bbox": [
+    -69.293324,
+    45.020968,
+    -69.293324,
+    45.020968
+],
   "geometry": {"coordinates":[-69.293324,45.020968],"type":"Point"}
 }

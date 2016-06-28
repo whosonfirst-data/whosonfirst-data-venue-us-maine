@@ -2,13 +2,14 @@
   "id": 403908197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.773504,44.801359,-68.773504,44.801359",
     "geom:latitude":44.801359,
     "geom:longitude":-68.773504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403908197,
-    "wof:lastmodified":1449055395,
+    "wof:lastmodified":1466587040,
     "wof:name":"Michael S Haenn",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-68.773504,44.801359,-68.773504,44.801359],
+  "bbox": [
+    -68.773504,
+    44.801359,
+    -68.773504,
+    44.801359
+],
   "geometry": {"coordinates":[-68.773504,44.801359],"type":"Point"}
 }

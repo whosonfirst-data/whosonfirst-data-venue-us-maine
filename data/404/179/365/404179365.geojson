@@ -2,13 +2,14 @@
   "id": 404179365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.111173,44.039626,-70.111173,44.039626",
     "geom:latitude":44.039626,
     "geom:longitude":-70.111173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Lisbon St",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404179365,
-    "wof:lastmodified":1449040205,
+    "wof:lastmodified":1466586708,
     "wof:name":"ASAP Svc",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.111173,44.039626,-70.111173,44.039626],
-  "geometry": {"coordinates":[-70.111173,44.039626],"type":"Point"}
+  "bbox": [
+    -70.111173,
+    44.039626,
+    -70.111173,
+    44.039626
+],
+  "geometry": {"coordinates":[-70.11117299999999,44.039626],"type":"Point"}
 }

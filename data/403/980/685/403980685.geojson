@@ -2,13 +2,14 @@
   "id": 403980685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.771494,44.80189,-68.771494,44.80189",
     "geom:latitude":44.80189,
     "geom:longitude":-68.771494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Central St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403980685,
-    "wof:lastmodified":1449054729,
+    "wof:lastmodified":1466587058,
     "wof:name":"First Suburban Title Co",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-68.771494,44.80189,-68.771494,44.80189],
+  "bbox": [
+    -68.771494,
+    44.80189,
+    -68.771494,
+    44.80189
+],
   "geometry": {"coordinates":[-68.771494,44.80189],"type":"Point"}
 }

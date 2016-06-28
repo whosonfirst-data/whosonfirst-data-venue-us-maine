@@ -2,13 +2,14 @@
   "id": 403838547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.585518,44.552264,-70.585518,44.552264",
     "geom:latitude":44.552264,
     "geom:longitude":-70.585518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Eaton Hill Rd",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403838547,
-    "wof:lastmodified":1449054780,
+    "wof:lastmodified":1466586576,
     "wof:name":"Timothy L Sicotte & Sons",
     "wof:parent_id":85853959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.585518,44.552264,-70.585518,44.552264],
-  "geometry": {"coordinates":[-70.585518,44.552264],"type":"Point"}
+  "bbox": [
+    -70.585518,
+    44.552264,
+    -70.585518,
+    44.552264
+],
+  "geometry": {"coordinates":[-70.58551799999999,44.552264],"type":"Point"}
 }

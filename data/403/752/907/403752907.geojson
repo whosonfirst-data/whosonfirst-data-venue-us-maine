@@ -2,13 +2,14 @@
   "id": 403752907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.264025,43.654466,-70.264025,43.654466",
     "geom:latitude":43.654466,
     "geom:longitude":-70.264025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 High St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403752907,
-    "wof:lastmodified":1449054855,
+    "wof:lastmodified":1466586253,
     "wof:name":"Ola",
     "wof:parent_id":85880027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.264025,43.654466,-70.264025,43.654466],
+  "bbox": [
+    -70.264025,
+    43.654466,
+    -70.264025,
+    43.654466
+],
   "geometry": {"coordinates":[-70.264025,43.654466],"type":"Point"}
 }

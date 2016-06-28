@@ -2,13 +2,14 @@
   "id": 387719997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.400333,45.148622,-67.400333,45.148622",
     "geom:latitude":45.148622,
     "geom:longitude":-67.400333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"667 Houlton Rd",
     "sg:city":"Baileyville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387719997,
-    "wof:lastmodified":1449056598,
+    "wof:lastmodified":1466586889,
     "wof:name":"Machias Savings Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.400333,45.148622,-67.400333,45.148622],
+  "bbox": [
+    -67.400333,
+    45.148622,
+    -67.400333,
+    45.148622
+],
   "geometry": {"coordinates":[-67.400333,45.148622],"type":"Point"}
 }

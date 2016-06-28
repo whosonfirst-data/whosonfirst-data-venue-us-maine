@@ -2,13 +2,14 @@
   "id": 403787895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.486308,43.346125,-70.486308,43.346125",
     "geom:latitude":43.346125,
     "geom:longitude":-70.486308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Beach Ave",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403787895,
-    "wof:lastmodified":1449055239,
+    "wof:lastmodified":1466586701,
     "wof:name":"Narragansett By The Sea Condo",
     "wof:parent_id":85828035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-70.486308,43.346125,-70.486308,43.346125],
-  "geometry": {"coordinates":[-70.486308,43.346125],"type":"Point"}
+  "bbox": [
+    -70.486308,
+    43.346125,
+    -70.486308,
+    43.346125
+],
+  "geometry": {"coordinates":[-70.48630799999999,43.346125],"type":"Point"}
 }

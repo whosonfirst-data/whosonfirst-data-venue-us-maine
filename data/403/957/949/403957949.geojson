@@ -2,13 +2,14 @@
   "id": 403957949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.95739,46.965065,-67.95739,46.965065",
     "geom:latitude":46.965065,
     "geom:longitude":-67.95739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"938 Madawaska Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403957949,
-    "wof:lastmodified":1449055778,
+    "wof:lastmodified":1466587082,
     "wof:name":"Mike and Sons Power Sweeping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "power"
     ]
 },
-  "bbox": [-67.95739,46.965065,-67.95739,46.965065],
+  "bbox": [
+    -67.95739,
+    46.965065,
+    -67.95739,
+    46.965065
+],
   "geometry": {"coordinates":[-67.95739,46.965065],"type":"Point"}
 }

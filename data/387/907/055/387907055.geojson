@@ -2,13 +2,14 @@
   "id": 387907055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.710598,43.402388,-70.710598,43.402388",
     "geom:latitude":43.402388,
     "geom:longitude":-70.710598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1796 Main St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387907055,
-    "wof:lastmodified":1449059627,
+    "wof:lastmodified":1466587240,
     "wof:name":"Cyro Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.710598,43.402388,-70.710598,43.402388],
+  "bbox": [
+    -70.710598,
+    43.402388,
+    -70.710598,
+    43.402388
+],
   "geometry": {"coordinates":[-70.710598,43.402388],"type":"Point"}
 }

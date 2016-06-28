@@ -2,13 +2,14 @@
   "id": 404105639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.725771,44.773013,-68.725771,44.773013",
     "geom:latitude":44.773013,
     "geom:longitude":-68.725771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 Wilson St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":404105639,
-    "wof:lastmodified":1449039490,
+    "wof:lastmodified":1466586079,
     "wof:name":"Maine Military Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "general"
     ]
 },
-  "bbox": [-68.725771,44.773013,-68.725771,44.773013],
-  "geometry": {"coordinates":[-68.725771,44.773013],"type":"Point"}
+  "bbox": [
+    -68.725771,
+    44.773013,
+    -68.725771,
+    44.773013
+],
+  "geometry": {"coordinates":[-68.72577099999999,44.773013],"type":"Point"}
 }

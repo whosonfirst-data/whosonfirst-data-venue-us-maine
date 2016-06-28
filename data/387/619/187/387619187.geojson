@@ -2,13 +2,14 @@
   "id": 387619187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.775483,44.312349,-69.775483,44.312349",
     "geom:latitude":44.312349,
     "geom:longitude":-69.775483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Green St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387619187,
-    "wof:lastmodified":1449056783,
+    "wof:lastmodified":1466586688,
     "wof:name":"Maine Right To Life Comm",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-69.775483,44.312349,-69.775483,44.312349],
-  "geometry": {"coordinates":[-69.775483,44.312349],"type":"Point"}
+  "bbox": [
+    -69.775483,
+    44.312349,
+    -69.775483,
+    44.312349
+],
+  "geometry": {"coordinates":[-69.77548299999999,44.312349],"type":"Point"}
 }

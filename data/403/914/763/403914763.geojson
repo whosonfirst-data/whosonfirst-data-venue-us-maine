@@ -2,13 +2,14 @@
   "id": 403914763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.464948,43.88532,-70.464948,43.88532",
     "geom:latitude":43.88532,
     "geom:longitude":-70.464948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1265 Roosevelt Trl",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403914763,
-    "wof:lastmodified":1449055135,
+    "wof:lastmodified":1466587051,
     "wof:name":"Danielle's Sebago Diner",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.464948,43.88532,-70.464948,43.88532],
-  "geometry": {"coordinates":[-70.464948,43.88532],"type":"Point"}
+  "bbox": [
+    -70.464948,
+    43.88532,
+    -70.464948,
+    43.88532
+],
+  "geometry": {"coordinates":[-70.46494800000001,43.88532],"type":"Point"}
 }

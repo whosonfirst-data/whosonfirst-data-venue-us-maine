@@ -2,13 +2,14 @@
   "id": 387796291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.254287,43.657396,-70.254287,43.657396",
     "geom:latitude":43.657396,
     "geom:longitude":-70.254287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Exchange St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387796291,
-    "wof:lastmodified":1449057899,
+    "wof:lastmodified":1466587113,
     "wof:name":"Learning Institute",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "educational"
     ]
 },
-  "bbox": [-70.254287,43.657396,-70.254287,43.657396],
-  "geometry": {"coordinates":[-70.254287,43.657396],"type":"Point"}
+  "bbox": [
+    -70.254287,
+    43.657396,
+    -70.254287,
+    43.657396
+],
+  "geometry": {"coordinates":[-70.25428700000001,43.657396],"type":"Point"}
 }

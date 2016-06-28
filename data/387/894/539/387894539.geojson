@@ -2,13 +2,14 @@
   "id": 387894539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.402966,43.799259,-70.402966,43.799259",
     "geom:latitude":43.799259,
     "geom:longitude":-70.402966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387894539,
-    "wof:lastmodified":1449057679,
+    "wof:lastmodified":1466587315,
     "wof:name":"A Child's World Preschool Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.402966,43.799259,-70.402966,43.799259],
-  "geometry": {"coordinates":[-70.402966,43.799259],"type":"Point"}
+  "bbox": [
+    -70.402966,
+    43.799259,
+    -70.402966,
+    43.799259
+],
+  "geometry": {"coordinates":[-70.40296600000001,43.799259],"type":"Point"}
 }

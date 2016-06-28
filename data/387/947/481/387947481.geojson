@@ -2,13 +2,14 @@
   "id": 387947481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.543723,43.348067,-70.543723,43.348067",
     "geom:latitude":43.348067,
     "geom:longitude":-70.543723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Little River Way",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387947481,
-    "wof:lastmodified":1449058867,
+    "wof:lastmodified":1466587286,
     "wof:name":"Compucount Corp",
     "wof:parent_id":85828035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.543723,43.348067,-70.543723,43.348067],
+  "bbox": [
+    -70.543723,
+    43.348067,
+    -70.543723,
+    43.348067
+],
   "geometry": {"coordinates":[-70.543723,43.348067],"type":"Point"}
 }

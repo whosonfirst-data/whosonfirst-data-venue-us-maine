@@ -2,13 +2,14 @@
   "id": 403771841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.391083,43.783731,-70.391083,43.783731",
     "geom:latitude":43.783731,
     "geom:longitude":-70.391083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403771841,
-    "wof:lastmodified":1449055352,
+    "wof:lastmodified":1466586561,
     "wof:name":"K & K Crafty Crafts",
     "wof:parent_id":85847399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.391083,43.783731,-70.391083,43.783731],
-  "geometry": {"coordinates":[-70.391083,43.783731],"type":"Point"}
+  "bbox": [
+    -70.391083,
+    43.783731,
+    -70.391083,
+    43.783731
+],
+  "geometry": {"coordinates":[-70.39108299999999,43.783731],"type":"Point"}
 }

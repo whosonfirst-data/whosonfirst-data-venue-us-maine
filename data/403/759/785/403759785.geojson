@@ -2,13 +2,14 @@
   "id": 403759785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.393003,44.111731,-70.393003,44.111731",
     "geom:latitude":44.111731,
     "geom:longitude":-70.393003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Pleasant St",
     "sg:city":"Mechanic Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403759785,
-    "wof:lastmodified":1449055989,
+    "wof:lastmodified":1466586388,
     "wof:name":"Northeast Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.393003,44.111731,-70.393003,44.111731],
-  "geometry": {"coordinates":[-70.393003,44.111731],"type":"Point"}
+  "bbox": [
+    -70.393003,
+    44.111731,
+    -70.393003,
+    44.111731
+],
+  "geometry": {"coordinates":[-70.39300299999999,44.111731],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403831613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.778684,44.822434,-68.778684,44.822434",
     "geom:latitude":44.822434,
     "geom:longitude":-68.778684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"652 Broadway",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403831613,
-    "wof:lastmodified":1449055426,
+    "wof:lastmodified":1466586457,
     "wof:name":"Friendly's",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.778684,44.822434,-68.778684,44.822434],
+  "bbox": [
+    -68.778684,
+    44.822434,
+    -68.778684,
+    44.822434
+],
   "geometry": {"coordinates":[-68.778684,44.822434],"type":"Point"}
 }

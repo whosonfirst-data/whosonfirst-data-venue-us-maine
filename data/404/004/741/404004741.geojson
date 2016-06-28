@@ -2,13 +2,14 @@
   "id": 404004741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.255689,43.668434,-70.255689,43.668434",
     "geom:latitude":43.668434,
     "geom:longitude":-70.255689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Anderson St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404004741,
-    "wof:lastmodified":1449039460,
+    "wof:lastmodified":1466585738,
     "wof:name":"Vintage Interiors",
     "wof:parent_id":85880023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-70.255689,43.668434,-70.255689,43.668434],
+  "bbox": [
+    -70.255689,
+    43.668434,
+    -70.255689,
+    43.668434
+],
   "geometry": {"coordinates":[-70.255689,43.668434],"type":"Point"}
 }

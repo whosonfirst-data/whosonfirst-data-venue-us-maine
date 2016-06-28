@@ -2,13 +2,14 @@
   "id": 403900673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.383018,44.140654,-70.383018,44.140654",
     "geom:latitude":44.140654,
     "geom:longitude":-70.383018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Millett Rd",
     "sg:city":"Minot",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403900673,
-    "wof:lastmodified":1449055210,
+    "wof:lastmodified":1466587016,
     "wof:name":"Rita's Pizza & Subs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.383018,44.140654,-70.383018,44.140654],
-  "geometry": {"coordinates":[-70.383018,44.140654],"type":"Point"}
+  "bbox": [
+    -70.383018,
+    44.140654,
+    -70.383018,
+    44.140654
+],
+  "geometry": {"coordinates":[-70.38301800000001,44.140654],"type":"Point"}
 }

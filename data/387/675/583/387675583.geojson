@@ -2,13 +2,14 @@
   "id": 387675583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.262045,45.000043,-69.262045,45.000043",
     "geom:latitude":45.000043,
     "geom:longitude":-69.262045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Jennings Hill Rd",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387675583,
-    "wof:lastmodified":1449058041,
+    "wof:lastmodified":1466586371,
     "wof:name":"Dexter Lumber Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-69.262045,45.000043,-69.262045,45.000043],
+  "bbox": [
+    -69.262045,
+    45.000043,
+    -69.262045,
+    45.000043
+],
   "geometry": {"coordinates":[-69.262045,45.000043],"type":"Point"}
 }

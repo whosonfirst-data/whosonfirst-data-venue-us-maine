@@ -2,13 +2,14 @@
   "id": 403883133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.222617,43.570291,-70.222617,43.570291",
     "geom:latitude":43.570291,
     "geom:longitude":-70.222617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 Ocean House Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403883133,
-    "wof:lastmodified":1449055652,
+    "wof:lastmodified":1466586924,
     "wof:name":"Jordan's Lawn & Garden Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mower"
     ]
 },
-  "bbox": [-70.222617,43.570291,-70.222617,43.570291],
+  "bbox": [
+    -70.222617,
+    43.570291,
+    -70.222617,
+    43.570291
+],
   "geometry": {"coordinates":[-70.222617,43.570291],"type":"Point"}
 }

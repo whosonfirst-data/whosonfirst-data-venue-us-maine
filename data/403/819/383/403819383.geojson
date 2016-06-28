@@ -2,13 +2,14 @@
   "id": 403819383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.032581,44.248053,-70.032581,44.248053",
     "geom:latitude":44.248053,
     "geom:longitude":-70.032581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"859 Main St",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403819383,
-    "wof:lastmodified":1449054955,
+    "wof:lastmodified":1466586253,
     "wof:name":"Monmouth Municipal Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-70.032581,44.248053,-70.032581,44.248053],
-  "geometry": {"coordinates":[-70.032581,44.248053],"type":"Point"}
+  "bbox": [
+    -70.032581,
+    44.248053,
+    -70.032581,
+    44.248053
+],
+  "geometry": {"coordinates":[-70.03258099999999,44.248053],"type":"Point"}
 }

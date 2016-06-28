@@ -2,13 +2,14 @@
   "id": 404097249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.247835,43.800639,-70.247835,43.800639",
     "geom:latitude":43.800639,
     "geom:longitude":-70.247835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Pinewood Dr",
     "sg:city":"Cumberland Center",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404097249,
-    "wof:lastmodified":1449039504,
+    "wof:lastmodified":1466585957,
     "wof:name":"Merrill Ritchie Woodworking",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-70.247835,43.800639,-70.247835,43.800639],
-  "geometry": {"coordinates":[-70.247835,43.800639],"type":"Point"}
+  "bbox": [
+    -70.247835,
+    43.800639,
+    -70.247835,
+    43.800639
+],
+  "geometry": {"coordinates":[-70.24783499999999,43.800639],"type":"Point"}
 }

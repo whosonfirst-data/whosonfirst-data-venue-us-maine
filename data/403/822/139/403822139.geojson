@@ -2,13 +2,14 @@
   "id": 403822139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242078,44.093714,-70.242078,44.093714",
     "geom:latitude":44.093714,
     "geom:longitude":-70.242078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Russell Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403822139,
-    "wof:lastmodified":1449055909,
+    "wof:lastmodified":1466586300,
     "wof:name":"Rich Lo Electric Plumbing Htg",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.242078,44.093714,-70.242078,44.093714],
-  "geometry": {"coordinates":[-70.242078,44.093714],"type":"Point"}
+  "bbox": [
+    -70.242078,
+    44.093714,
+    -70.242078,
+    44.093714
+],
+  "geometry": {"coordinates":[-70.24207800000001,44.093714],"type":"Point"}
 }

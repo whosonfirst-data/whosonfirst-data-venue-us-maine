@@ -2,13 +2,14 @@
   "id": 403785273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.391555,43.529498,-70.391555,43.529498",
     "geom:latitude":43.529498,
     "geom:longitude":-70.391555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Wild Dunes Way",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403785273,
-    "wof:lastmodified":1449055745,
+    "wof:lastmodified":1466585753,
     "wof:name":"Mainely Rain Irrigation",
     "wof:parent_id":85851625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-70.391555,43.529498,-70.391555,43.529498],
+  "bbox": [
+    -70.391555,
+    43.529498,
+    -70.391555,
+    43.529498
+],
   "geometry": {"coordinates":[-70.391555,43.529498],"type":"Point"}
 }

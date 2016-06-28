@@ -2,13 +2,14 @@
   "id": 403990379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.308463,43.937118,-70.308463,43.937118",
     "geom:latitude":43.937118,
     "geom:longitude":-70.308463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Jack Hall Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403990379,
-    "wof:lastmodified":1449055507,
+    "wof:lastmodified":1466587249,
     "wof:name":"Golden Rule Builders Inc",
     "wof:parent_id":85857545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.308463,43.937118,-70.308463,43.937118],
+  "bbox": [
+    -70.308463,
+    43.937118,
+    -70.308463,
+    43.937118
+],
   "geometry": {"coordinates":[-70.308463,43.937118],"type":"Point"}
 }

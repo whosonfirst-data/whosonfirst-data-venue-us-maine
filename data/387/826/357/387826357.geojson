@@ -2,13 +2,14 @@
   "id": 387826357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.6413,44.921542,-68.6413,44.921542",
     "geom:latitude":44.921542,
     "geom:longitude":-68.6413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 Main St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387826357,
-    "wof:lastmodified":1449058874,
+    "wof:lastmodified":1466587192,
     "wof:name":"Willette Welding Inc",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-68.6413,44.921542,-68.6413,44.921542],
+  "bbox": [
+    -68.6413,
+    44.921542,
+    -68.6413,
+    44.921542
+],
   "geometry": {"coordinates":[-68.6413,44.921542],"type":"Point"}
 }

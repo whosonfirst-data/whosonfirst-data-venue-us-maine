@@ -2,13 +2,14 @@
   "id": 403848317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.64238,44.942293,-68.64238,44.942293",
     "geom:latitude":44.942293,
     "geom:longitude":-68.64238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Main St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403848317,
-    "wof:lastmodified":1449054810,
+    "wof:lastmodified":1466586710,
     "wof:name":"Carl's Barber Shop",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.64238,44.942293,-68.64238,44.942293],
+  "bbox": [
+    -68.64238,
+    44.942293,
+    -68.64238,
+    44.942293
+],
   "geometry": {"coordinates":[-68.64238,44.942293],"type":"Point"}
 }

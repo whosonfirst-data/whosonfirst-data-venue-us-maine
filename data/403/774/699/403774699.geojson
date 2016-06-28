@@ -2,13 +2,14 @@
   "id": 403774699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.529418,44.212445,-70.529418,44.212445",
     "geom:latitude":44.212445,
     "geom:longitude":-70.529418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Paris St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403774699,
-    "wof:lastmodified":1449055150,
+    "wof:lastmodified":1466586577,
     "wof:name":"Laney J's",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dressmaker"
     ]
 },
-  "bbox": [-70.529418,44.212445,-70.529418,44.212445],
-  "geometry": {"coordinates":[-70.529418,44.212445],"type":"Point"}
+  "bbox": [
+    -70.529418,
+    44.212445,
+    -70.529418,
+    44.212445
+],
+  "geometry": {"coordinates":[-70.52941800000001,44.212445],"type":"Point"}
 }

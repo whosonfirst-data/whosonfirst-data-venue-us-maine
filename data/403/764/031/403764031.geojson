@@ -2,13 +2,14 @@
   "id": 403764031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.303413,43.661878,-70.303413,43.661878",
     "geom:latitude":43.661878,
     "geom:longitude":-70.303413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Bancroft St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403764031,
-    "wof:lastmodified":1449055886,
+    "wof:lastmodified":1466586465,
     "wof:name":"Service Master",
     "wof:parent_id":85846029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-70.303413,43.661878,-70.303413,43.661878],
-  "geometry": {"coordinates":[-70.303413,43.661878],"type":"Point"}
+  "bbox": [
+    -70.303413,
+    43.661878,
+    -70.303413,
+    43.661878
+],
+  "geometry": {"coordinates":[-70.30341300000001,43.661878],"type":"Point"}
 }

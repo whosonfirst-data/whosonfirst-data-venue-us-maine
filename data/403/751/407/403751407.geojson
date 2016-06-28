@@ -2,13 +2,14 @@
   "id": 403751407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.683554,44.536489,-70.683554,44.536489",
     "geom:latitude":44.536489,
     "geom:longitude":-70.683554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 State Rte 5",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403751407,
-    "wof:lastmodified":1449054703,
+    "wof:lastmodified":1466586232,
     "wof:name":"Dead River Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.683554,44.536489,-70.683554,44.536489],
+  "bbox": [
+    -70.683554,
+    44.536489,
+    -70.683554,
+    44.536489
+],
   "geometry": {"coordinates":[-70.683554,44.536489],"type":"Point"}
 }

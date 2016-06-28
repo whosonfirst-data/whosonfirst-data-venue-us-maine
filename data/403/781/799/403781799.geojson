@@ -2,13 +2,14 @@
   "id": 403781799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.789087,44.317122,-69.789087,44.317122",
     "geom:latitude":44.317122,
     "geom:longitude":-69.789087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Winthrop St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403781799,
-    "wof:lastmodified":1449054892,
+    "wof:lastmodified":1466586619,
     "wof:name":"E J Perry Construction",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.789087,44.317122,-69.789087,44.317122],
-  "geometry": {"coordinates":[-69.789087,44.317122],"type":"Point"}
+  "bbox": [
+    -69.789087,
+    44.317122,
+    -69.789087,
+    44.317122
+],
+  "geometry": {"coordinates":[-69.78908699999999,44.317122],"type":"Point"}
 }

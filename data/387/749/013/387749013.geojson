@@ -2,13 +2,14 @@
   "id": 387749013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.709158,45.656271,-68.709158,45.656271",
     "geom:latitude":45.656271,
     "geom:longitude":-68.709158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 Penobscot Ave",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387749013,
-    "wof:lastmodified":1449057178,
+    "wof:lastmodified":1466586815,
     "wof:name":"Gracies Aunts Closet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.709158,45.656271,-68.709158,45.656271],
+  "bbox": [
+    -68.709158,
+    45.656271,
+    -68.709158,
+    45.656271
+],
   "geometry": {"coordinates":[-68.709158,45.656271],"type":"Point"}
 }

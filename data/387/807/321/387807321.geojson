@@ -2,13 +2,14 @@
   "id": 387807321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.708988,45.655813,-68.708988,45.655813",
     "geom:latitude":45.655813,
     "geom:longitude":-68.708988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Penobscot Ave",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387807321,
-    "wof:lastmodified":1449057077,
+    "wof:lastmodified":1466587082,
     "wof:name":"Preble Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "fuel"
     ]
 },
-  "bbox": [-68.708988,45.655813,-68.708988,45.655813],
-  "geometry": {"coordinates":[-68.708988,45.655813],"type":"Point"}
+  "bbox": [
+    -68.708988,
+    45.655813,
+    -68.708988,
+    45.655813
+],
+  "geometry": {"coordinates":[-68.70898800000001,45.655813],"type":"Point"}
 }

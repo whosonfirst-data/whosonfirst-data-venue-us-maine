@@ -2,13 +2,14 @@
   "id": 404087179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.088433,43.864886,-70.088433,43.864886",
     "geom:latitude":43.864886,
     "geom:longitude":-70.088433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Upper Mast Landing Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404087179,
-    "wof:lastmodified":1449039569,
+    "wof:lastmodified":1466585826,
     "wof:name":"Infoharbor Group",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-70.088433,43.864886,-70.088433,43.864886],
-  "geometry": {"coordinates":[-70.088433,43.864886],"type":"Point"}
+  "bbox": [
+    -70.088433,
+    43.864886,
+    -70.088433,
+    43.864886
+],
+  "geometry": {"coordinates":[-70.08843299999999,43.864886],"type":"Point"}
 }

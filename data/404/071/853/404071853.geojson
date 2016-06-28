@@ -2,13 +2,14 @@
   "id": 404071853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.328684,43.668326,-70.328684,43.668326",
     "geom:latitude":43.668326,
     "geom:longitude":-70.328684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Pine Tree Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404071853,
-    "wof:lastmodified":1449039874,
+    "wof:lastmodified":1466586592,
     "wof:name":"NES Rentals",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.328684,43.668326,-70.328684,43.668326],
+  "bbox": [
+    -70.328684,
+    43.668326,
+    -70.328684,
+    43.668326
+],
   "geometry": {"coordinates":[-70.328684,43.668326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387667783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.706103,43.403425,-70.706103,43.403425",
     "geom:latitude":43.403425,
     "geom:longitude":-70.706103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Eagle Dr",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387667783,
-    "wof:lastmodified":1449058597,
+    "wof:lastmodified":1466586248,
     "wof:name":"Atlantic Pump & Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-70.706103,43.403425,-70.706103,43.403425],
+  "bbox": [
+    -70.706103,
+    43.403425,
+    -70.706103,
+    43.403425
+],
   "geometry": {"coordinates":[-70.706103,43.403425],"type":"Point"}
 }

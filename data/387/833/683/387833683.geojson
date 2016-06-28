@@ -2,13 +2,14 @@
   "id": 387833683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.34836,44.347013,-68.34836,44.347013",
     "geom:latitude":44.347013,
     "geom:longitude":-68.34836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Beech Hill Rd",
     "sg:city":"Blue Hill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387833683,
-    "wof:lastmodified":1449056595,
+    "wof:lastmodified":1466587132,
     "wof:name":"A Mom Who Knows",
     "wof:parent_id":85849305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-68.34836,44.347013,-68.34836,44.347013],
+  "bbox": [
+    -68.34836,
+    44.347013,
+    -68.34836,
+    44.347013
+],
   "geometry": {"coordinates":[-68.34836,44.347013],"type":"Point"}
 }

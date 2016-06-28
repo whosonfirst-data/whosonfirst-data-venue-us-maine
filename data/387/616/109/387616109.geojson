@@ -2,13 +2,14 @@
   "id": 387616109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.173191,44.074992,-70.173191,44.074992",
     "geom:latitude":44.074992,
     "geom:longitude":-70.173191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Enterprise St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387616109,
-    "wof:lastmodified":1449058902,
+    "wof:lastmodified":1466585670,
     "wof:name":"Webster Engineering Corp",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "industrial"
     ]
 },
-  "bbox": [-70.173191,44.074992,-70.173191,44.074992],
+  "bbox": [
+    -70.173191,
+    44.074992,
+    -70.173191,
+    44.074992
+],
   "geometry": {"coordinates":[-70.173191,44.074992],"type":"Point"}
 }

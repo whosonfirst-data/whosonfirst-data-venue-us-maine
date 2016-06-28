@@ -2,13 +2,14 @@
   "id": 404135105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.5885,44.00222,-69.5885,44.00222",
     "geom:latitude":44.00222,
     "geom:longitude":-69.5885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Lynch Rd",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404135105,
-    "wof:lastmodified":1449039493,
+    "wof:lastmodified":1466586527,
     "wof:name":"Nesbit Marva",
     "wof:parent_id":85849907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.5885,44.00222,-69.5885,44.00222],
+  "bbox": [
+    -69.5885,
+    44.00222,
+    -69.5885,
+    44.00222
+],
   "geometry": {"coordinates":[-69.5885,44.00222],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403880349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.175811,43.788895,-70.175811,43.788895",
     "geom:latitude":43.788895,
     "geom:longitude":-70.175811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Baywood Ln",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403880349,
-    "wof:lastmodified":1449055974,
+    "wof:lastmodified":1466586842,
     "wof:name":"Gallagher Assoc",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.175811,43.788895,-70.175811,43.788895],
+  "bbox": [
+    -70.175811,
+    43.788895,
+    -70.175811,
+    43.788895
+],
   "geometry": {"coordinates":[-70.175811,43.788895],"type":"Point"}
 }

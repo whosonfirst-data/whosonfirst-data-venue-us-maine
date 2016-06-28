@@ -2,13 +2,14 @@
   "id": 403976915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.40157,45.155725,-67.40157,45.155725",
     "geom:latitude":45.155725,
     "geom:longitude":-67.40157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 2nd Ave",
     "sg:city":"Baileyville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403976915,
-    "wof:lastmodified":1449055177,
+    "wof:lastmodified":1466587141,
     "wof:name":"Jason's New York Style Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.40157,45.155725,-67.40157,45.155725],
-  "geometry": {"coordinates":[-67.40157,45.155725],"type":"Point"}
+  "bbox": [
+    -67.40157,
+    45.155725,
+    -67.40157,
+    45.155725
+],
+  "geometry": {"coordinates":[-67.40157000000001,45.155725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404011191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.913412,43.862588,-69.913412,43.862588",
     "geom:latitude":43.862588,
     "geom:longitude":-69.913412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"641 Gurnet Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404011191,
-    "wof:lastmodified":1449040079,
+    "wof:lastmodified":1466585811,
     "wof:name":"Lorraine Darling CPA",
     "wof:parent_id":85841203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-69.913412,43.862588,-69.913412,43.862588],
-  "geometry": {"coordinates":[-69.913412,43.862588],"type":"Point"}
+  "bbox": [
+    -69.913412,
+    43.862588,
+    -69.913412,
+    43.862588
+],
+  "geometry": {"coordinates":[-69.91341199999999,43.862588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403726085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.965589,43.915999,-69.965589,43.915999",
     "geom:latitude":43.915999,
     "geom:longitude":-69.965589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Maine St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403726085,
-    "wof:lastmodified":1449055515,
+    "wof:lastmodified":1466585916,
     "wof:name":"Jenney Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-69.965589,43.915999,-69.965589,43.915999],
-  "geometry": {"coordinates":[-69.965589,43.915999],"type":"Point"}
+  "bbox": [
+    -69.965589,
+    43.915999,
+    -69.965589,
+    43.915999
+],
+  "geometry": {"coordinates":[-69.96558899999999,43.915999],"type":"Point"}
 }

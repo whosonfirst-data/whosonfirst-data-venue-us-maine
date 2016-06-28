@@ -2,13 +2,14 @@
   "id": 403966451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.431589,44.531805,-68.431589,44.531805",
     "geom:latitude":44.531805,
     "geom:longitude":-68.431589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Surry Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403966451,
-    "wof:lastmodified":1449054634,
+    "wof:lastmodified":1466587121,
     "wof:name":"Robert Scovin DPM",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.431589,44.531805,-68.431589,44.531805],
+  "bbox": [
+    -68.431589,
+    44.531805,
+    -68.431589,
+    44.531805
+],
   "geometry": {"coordinates":[-68.431589,44.531805],"type":"Point"}
 }

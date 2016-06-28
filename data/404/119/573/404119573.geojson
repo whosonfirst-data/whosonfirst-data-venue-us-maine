@@ -2,13 +2,14 @@
   "id": 404119573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.375188,44.09482,-69.375188,44.09482",
     "geom:latitude":44.09482,
     "geom:longitude":-69.375188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Friendship Rd",
     "sg:city":"Waldoboro",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404119573,
-    "wof:lastmodified":1449039981,
+    "wof:lastmodified":1466586290,
     "wof:name":"S Fernald's Five & Ten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-69.375188,44.09482,-69.375188,44.09482],
-  "geometry": {"coordinates":[-69.375188,44.09482],"type":"Point"}
+  "bbox": [
+    -69.375188,
+    44.09482,
+    -69.375188,
+    44.09482
+],
+  "geometry": {"coordinates":[-69.37518799999999,44.09482],"type":"Point"}
 }

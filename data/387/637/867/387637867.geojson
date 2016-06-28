@@ -2,13 +2,14 @@
   "id": 387637867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.344071,43.541193,-70.344071,43.541193",
     "geom:latitude":43.541193,
     "geom:longitude":-70.344071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"372 Pine Point Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387637867,
-    "wof:lastmodified":1449056112,
+    "wof:lastmodified":1466586717,
     "wof:name":"Sand Dollar Inn",
     "wof:parent_id":85822441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.344071,43.541193,-70.344071,43.541193],
+  "bbox": [
+    -70.344071,
+    43.541193,
+    -70.344071,
+    43.541193
+],
   "geometry": {"coordinates":[-70.344071,43.541193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387797953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.11605,43.939712,-70.11605,43.939712",
     "geom:latitude":43.939712,
     "geom:longitude":-70.11605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1290 Royalsborough Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387797953,
-    "wof:lastmodified":1449059541,
+    "wof:lastmodified":1466587030,
     "wof:name":"Bagley House Inn",
     "wof:parent_id":85849607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.11605,43.939712,-70.11605,43.939712],
+  "bbox": [
+    -70.11605,
+    43.939712,
+    -70.11605,
+    43.939712
+],
   "geometry": {"coordinates":[-70.11605,43.939712],"type":"Point"}
 }

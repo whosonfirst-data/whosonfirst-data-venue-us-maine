@@ -2,13 +2,14 @@
   "id": 403777175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.745937,44.774094,-68.745937,44.774094",
     "geom:latitude":44.774094,
     "geom:longitude":-68.745937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Green Point Rd",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403777175,
-    "wof:lastmodified":1449055344,
+    "wof:lastmodified":1466586602,
     "wof:name":"Lindsco Equipment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-68.745937,44.774094,-68.745937,44.774094],
+  "bbox": [
+    -68.745937,
+    44.774094,
+    -68.745937,
+    44.774094
+],
   "geometry": {"coordinates":[-68.745937,44.774094],"type":"Point"}
 }

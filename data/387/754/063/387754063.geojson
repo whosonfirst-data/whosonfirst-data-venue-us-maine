@@ -2,13 +2,14 @@
   "id": 387754063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.818573,46.743873,-67.818573,46.743873",
     "geom:latitude":46.743873,
     "geom:longitude":-67.818573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"196 Dorsey Rd",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387754063,
-    "wof:lastmodified":1449058599,
+    "wof:lastmodified":1466586907,
     "wof:name":"Heather Beaulieu",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.818573,46.743873,-67.818573,46.743873],
+  "bbox": [
+    -67.818573,
+    46.743873,
+    -67.818573,
+    46.743873
+],
   "geometry": {"coordinates":[-67.818573,46.743873],"type":"Point"}
 }

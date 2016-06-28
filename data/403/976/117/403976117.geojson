@@ -2,13 +2,14 @@
   "id": 403976117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.091849,43.996878,-70.091849,43.996878",
     "geom:latitude":43.996878,
     "geom:longitude":-70.091849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Cedar Pond Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403976117,
-    "wof:lastmodified":1449055177,
+    "wof:lastmodified":1466587134,
     "wof:name":"Griffin Excavation & Landscpg",
     "wof:parent_id":85806367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.091849,43.996878,-70.091849,43.996878],
+  "bbox": [
+    -70.091849,
+    43.996878,
+    -70.091849,
+    43.996878
+],
   "geometry": {"coordinates":[-70.091849,43.996878],"type":"Point"}
 }

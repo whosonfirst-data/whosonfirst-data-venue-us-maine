@@ -2,13 +2,14 @@
   "id": 403819589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.827181,44.320685,-69.827181,44.320685",
     "geom:latitude":44.320685,
     "geom:longitude":-69.827181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Western Ave",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403819589,
-    "wof:lastmodified":1449054959,
+    "wof:lastmodified":1466586256,
     "wof:name":"Wicked Good Tanning",
     "wof:parent_id":85841121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-69.827181,44.320685,-69.827181,44.320685],
+  "bbox": [
+    -69.827181,
+    44.320685,
+    -69.827181,
+    44.320685
+],
   "geometry": {"coordinates":[-69.827181,44.320685],"type":"Point"}
 }

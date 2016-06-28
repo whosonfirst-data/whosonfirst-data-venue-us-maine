@@ -2,13 +2,14 @@
   "id": 404103157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.988628,43.908129,-69.988628,43.908129",
     "geom:latitude":43.908129,
     "geom:longitude":-69.988628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Nathan Ct",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404103157,
-    "wof:lastmodified":1449039864,
+    "wof:lastmodified":1466586043,
     "wof:name":"West Wind Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-69.988628,43.908129,-69.988628,43.908129],
-  "geometry": {"coordinates":[-69.988628,43.908129],"type":"Point"}
+  "bbox": [
+    -69.988628,
+    43.908129,
+    -69.988628,
+    43.908129
+],
+  "geometry": {"coordinates":[-69.98862800000001,43.908129],"type":"Point"}
 }

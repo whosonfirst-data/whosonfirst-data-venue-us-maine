@@ -2,13 +2,14 @@
   "id": 404055455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.977263,44.015431,-70.977263,44.015431",
     "geom:latitude":44.015431,
     "geom:longitude":-70.977263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Portland St",
     "sg:city":"Fryeburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404055455,
-    "wof:lastmodified":1449039319,
+    "wof:lastmodified":1466586364,
     "wof:name":"Dearborn Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vocational"
     ]
 },
-  "bbox": [-70.977263,44.015431,-70.977263,44.015431],
-  "geometry": {"coordinates":[-70.977263,44.015431],"type":"Point"}
+  "bbox": [
+    -70.977263,
+    44.015431,
+    -70.977263,
+    44.015431
+],
+  "geometry": {"coordinates":[-70.97726299999999,44.015431],"type":"Point"}
 }

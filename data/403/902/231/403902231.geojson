@@ -2,13 +2,14 @@
   "id": 403902231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.797338,44.42272,-70.797338,44.42272",
     "geom:latitude":44.42272,
     "geom:longitude":-70.797338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Mayville Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403902231,
-    "wof:lastmodified":1449055603,
+    "wof:lastmodified":1466586928,
     "wof:name":"Norseman Inn",
     "wof:parent_id":85833087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-70.797338,44.42272,-70.797338,44.42272],
+  "bbox": [
+    -70.797338,
+    44.42272,
+    -70.797338,
+    44.42272
+],
   "geometry": {"coordinates":[-70.797338,44.42272],"type":"Point"}
 }

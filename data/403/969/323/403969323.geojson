@@ -2,13 +2,14 @@
   "id": 403969323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.847006,46.11858,-67.847006,46.11858",
     "geom:latitude":46.11858,
     "geom:longitude":-67.847006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 South St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403969323,
-    "wof:lastmodified":1449054962,
+    "wof:lastmodified":1466587127,
     "wof:name":"Louies Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.847006,46.11858,-67.847006,46.11858],
-  "geometry": {"coordinates":[-67.847006,46.11858],"type":"Point"}
+  "bbox": [
+    -67.847006,
+    46.11858,
+    -67.847006,
+    46.11858
+],
+  "geometry": {"coordinates":[-67.84700599999999,46.11858],"type":"Point"}
 }

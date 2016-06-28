@@ -2,13 +2,14 @@
   "id": 403928941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.251741,43.799125,-70.251741,43.799125",
     "geom:latitude":43.799125,
     "geom:longitude":-70.251741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Farwell Ave",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403928941,
-    "wof:lastmodified":1449055781,
+    "wof:lastmodified":1466586932,
     "wof:name":"White Homes",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.251741,43.799125,-70.251741,43.799125],
+  "bbox": [
+    -70.251741,
+    43.799125,
+    -70.251741,
+    43.799125
+],
   "geometry": {"coordinates":[-70.251741,43.799125],"type":"Point"}
 }

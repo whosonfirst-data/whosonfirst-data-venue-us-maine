@@ -2,13 +2,14 @@
   "id": 387773295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.477965,43.466975,-70.477965,43.466975",
     "geom:latitude":43.466975,
     "geom:longitude":-70.477965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Hill St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387773295,
-    "wof:lastmodified":1449056590,
+    "wof:lastmodified":1466586981,
     "wof:name":"AVX Tantalum Corp",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "capacitor"
     ]
 },
-  "bbox": [-70.477965,43.466975,-70.477965,43.466975],
+  "bbox": [
+    -70.477965,
+    43.466975,
+    -70.477965,
+    43.466975
+],
   "geometry": {"coordinates":[-70.477965,43.466975],"type":"Point"}
 }

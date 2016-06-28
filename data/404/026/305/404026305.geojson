@@ -2,13 +2,14 @@
   "id": 404026305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.306868,44.456983,-70.306868,44.456983",
     "geom:latitude":44.456983,
     "geom:longitude":-70.306868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Golden Ridge Rd",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404026305,
-    "wof:lastmodified":1449039825,
+    "wof:lastmodified":1466585960,
     "wof:name":"Moscillo & Assoc",
     "wof:parent_id":85833559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.306868,44.456983,-70.306868,44.456983],
-  "geometry": {"coordinates":[-70.306868,44.456983],"type":"Point"}
+  "bbox": [
+    -70.306868,
+    44.456983,
+    -70.306868,
+    44.456983
+],
+  "geometry": {"coordinates":[-70.30686799999999,44.456983],"type":"Point"}
 }

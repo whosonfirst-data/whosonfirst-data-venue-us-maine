@@ -2,13 +2,14 @@
   "id": 387667505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.389598,43.745694,-70.389598,43.745694",
     "geom:latitude":43.745694,
     "geom:longitude":-70.389598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Highland Cliff Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387667505,
-    "wof:lastmodified":1449058599,
+    "wof:lastmodified":1466586242,
     "wof:name":"Hamilton Plumbing & Heating",
     "wof:parent_id":85830911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.389598,43.745694,-70.389598,43.745694],
-  "geometry": {"coordinates":[-70.389598,43.745694],"type":"Point"}
+  "bbox": [
+    -70.389598,
+    43.745694,
+    -70.389598,
+    43.745694
+],
+  "geometry": {"coordinates":[-70.38959800000001,43.745694],"type":"Point"}
 }

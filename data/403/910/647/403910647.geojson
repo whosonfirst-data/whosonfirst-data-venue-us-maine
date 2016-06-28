@@ -2,13 +2,14 @@
   "id": 403910647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.040115,46.697654,-68.040115,46.697654",
     "geom:latitude":46.697654,
     "geom:longitude":-68.040115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1455 Central Dr",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403910647,
-    "wof:lastmodified":1449055180,
+    "wof:lastmodified":1466586953,
     "wof:name":"Dasco",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-68.040115,46.697654,-68.040115,46.697654],
+  "bbox": [
+    -68.040115,
+    46.697654,
+    -68.040115,
+    46.697654
+],
   "geometry": {"coordinates":[-68.040115,46.697654],"type":"Point"}
 }

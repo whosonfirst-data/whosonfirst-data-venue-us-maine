@@ -2,13 +2,14 @@
   "id": 404203673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.319384,43.674132,-70.319384,43.674132",
     "geom:latitude":43.674132,
     "geom:longitude":-70.319384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"989 Brighton Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404203673,
-    "wof:lastmodified":1449039547,
+    "wof:lastmodified":1466587034,
     "wof:name":"William M Montgomery DDS",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-70.319384,43.674132,-70.319384,43.674132],
+  "bbox": [
+    -70.319384,
+    43.674132,
+    -70.319384,
+    43.674132
+],
   "geometry": {"coordinates":[-70.319384,43.674132],"type":"Point"}
 }

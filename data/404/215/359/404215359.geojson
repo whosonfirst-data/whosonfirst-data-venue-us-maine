@@ -2,13 +2,14 @@
   "id": 404215359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.656221,44.019321,-69.656221,44.019321",
     "geom:latitude":44.019321,
     "geom:longitude":-69.656221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Federal St",
     "sg:city":"Wiscasset",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404215359,
-    "wof:lastmodified":1449040090,
+    "wof:lastmodified":1466586899,
     "wof:name":"Lawrence Gordon Jr",
     "wof:parent_id":85820077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.656221,44.019321,-69.656221,44.019321],
+  "bbox": [
+    -69.656221,
+    44.019321,
+    -69.656221,
+    44.019321
+],
   "geometry": {"coordinates":[-69.656221,44.019321],"type":"Point"}
 }

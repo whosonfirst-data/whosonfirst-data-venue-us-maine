@@ -2,13 +2,14 @@
   "id": 387957057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.644543,44.934421,-68.644543,44.934421",
     "geom:latitude":44.934421,
     "geom:longitude":-68.644543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Water St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387957057,
-    "wof:lastmodified":1449059360,
+    "wof:lastmodified":1466587339,
     "wof:name":"Old Town Redemption Ctr",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-68.644543,44.934421,-68.644543,44.934421],
+  "bbox": [
+    -68.644543,
+    44.934421,
+    -68.644543,
+    44.934421
+],
   "geometry": {"coordinates":[-68.644543,44.934421],"type":"Point"}
 }

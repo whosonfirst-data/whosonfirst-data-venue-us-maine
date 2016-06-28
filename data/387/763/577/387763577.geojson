@@ -2,13 +2,14 @@
   "id": 387763577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.770845,44.799617,-68.770845,44.799617",
     "geom:latitude":44.799617,
     "geom:longitude":-68.770845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Water St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387763577,
-    "wof:lastmodified":1449059906,
+    "wof:lastmodified":1466587046,
     "wof:name":"Norman Kominsky Law Offices",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-68.770845,44.799617,-68.770845,44.799617],
-  "geometry": {"coordinates":[-68.770845,44.799617],"type":"Point"}
+  "bbox": [
+    -68.770845,
+    44.799617,
+    -68.770845,
+    44.799617
+],
+  "geometry": {"coordinates":[-68.77084499999999,44.799617],"type":"Point"}
 }

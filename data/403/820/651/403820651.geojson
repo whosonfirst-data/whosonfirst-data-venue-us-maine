@@ -2,13 +2,14 @@
   "id": 403820651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.040839,43.879964,-70.040839,43.879964",
     "geom:latitude":43.879964,
     "geom:longitude":-70.040839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Pleasant Hill Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403820651,
-    "wof:lastmodified":1449055331,
+    "wof:lastmodified":1466586275,
     "wof:name":"David Blackwell Plumbing & Htg",
     "wof:parent_id":85808417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.040839,43.879964,-70.040839,43.879964],
-  "geometry": {"coordinates":[-70.040839,43.879964],"type":"Point"}
+  "bbox": [
+    -70.040839,
+    43.879964,
+    -70.040839,
+    43.879964
+],
+  "geometry": {"coordinates":[-70.04083900000001,43.879964],"type":"Point"}
 }

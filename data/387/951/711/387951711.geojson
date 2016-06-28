@@ -2,13 +2,14 @@
   "id": 387951711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.452177,43.503554,-70.452177,43.503554",
     "geom:latitude":43.503554,
     "geom:longitude":-70.452177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Bradley St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387951711,
-    "wof:lastmodified":1449056286,
+    "wof:lastmodified":1466587294,
     "wof:name":"Brickworks",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "concrete"
     ]
 },
-  "bbox": [-70.452177,43.503554,-70.452177,43.503554],
-  "geometry": {"coordinates":[-70.452177,43.503554],"type":"Point"}
+  "bbox": [
+    -70.452177,
+    43.503554,
+    -70.452177,
+    43.503554
+],
+  "geometry": {"coordinates":[-70.45217700000001,43.503554],"type":"Point"}
 }

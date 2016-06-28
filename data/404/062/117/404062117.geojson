@@ -2,13 +2,14 @@
   "id": 404062117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.795036,44.770542,-68.795036,44.770542",
     "geom:latitude":44.770542,
     "geom:longitude":-68.795036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"634 Main Rd N",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404062117,
-    "wof:lastmodified":1449040262,
+    "wof:lastmodified":1466586482,
     "wof:name":"Collins Car Care",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-68.795036,44.770542,-68.795036,44.770542],
+  "bbox": [
+    -68.795036,
+    44.770542,
+    -68.795036,
+    44.770542
+],
   "geometry": {"coordinates":[-68.795036,44.770542],"type":"Point"}
 }

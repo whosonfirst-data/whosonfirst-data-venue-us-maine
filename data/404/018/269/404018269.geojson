@@ -2,13 +2,14 @@
   "id": 404018269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.17663,43.990839,-70.17663,43.990839",
     "geom:latitude":43.990839,
     "geom:longitude":-70.17663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Stackpole Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404018269,
-    "wof:lastmodified":1449039696,
+    "wof:lastmodified":1466585871,
     "wof:name":"Highpoint Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.17663,43.990839,-70.17663,43.990839],
+  "bbox": [
+    -70.17663,
+    43.990839,
+    -70.17663,
+    43.990839
+],
   "geometry": {"coordinates":[-70.17663,43.990839],"type":"Point"}
 }

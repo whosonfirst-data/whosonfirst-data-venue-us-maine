@@ -2,13 +2,14 @@
   "id": 404062769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.261101,43.659399,-70.261101,43.659399",
     "geom:latitude":43.659399,
     "geom:longitude":-70.261101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Elm St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404062769,
-    "wof:lastmodified":1449040255,
+    "wof:lastmodified":1466586490,
     "wof:name":"Elm Street Dry Cleaners",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-70.261101,43.659399,-70.261101,43.659399],
+  "bbox": [
+    -70.261101,
+    43.659399,
+    -70.261101,
+    43.659399
+],
   "geometry": {"coordinates":[-70.261101,43.659399],"type":"Point"}
 }

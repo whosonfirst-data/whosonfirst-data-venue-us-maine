@@ -2,13 +2,14 @@
   "id": 387909175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.190626,44.47464,-70.190626,44.47464",
     "geom:latitude":44.47464,
     "geom:longitude":-70.190626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Main St",
     "sg:city":"Livermore Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387909175,
-    "wof:lastmodified":1449058970,
+    "wof:lastmodified":1466587318,
     "wof:name":"LEAVITT Realty Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.190626,44.47464,-70.190626,44.47464],
-  "geometry": {"coordinates":[-70.190626,44.47464],"type":"Point"}
+  "bbox": [
+    -70.190626,
+    44.47464,
+    -70.190626,
+    44.47464
+],
+  "geometry": {"coordinates":[-70.19062599999999,44.47464],"type":"Point"}
 }

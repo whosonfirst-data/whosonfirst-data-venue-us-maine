@@ -2,13 +2,14 @@
   "id": 403901233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.376946,44.846215,-69.376946,44.846215",
     "geom:latitude":44.846215,
     "geom:longitude":-69.376946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Main St",
     "sg:city":"Moose River",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403901233,
-    "wof:lastmodified":1449055188,
+    "wof:lastmodified":1466586923,
     "wof:name":"Fellowship Alliance Church",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-69.376946,44.846215,-69.376946,44.846215],
+  "bbox": [
+    -69.376946,
+    44.846215,
+    -69.376946,
+    44.846215
+],
   "geometry": {"coordinates":[-69.376946,44.846215],"type":"Point"}
 }

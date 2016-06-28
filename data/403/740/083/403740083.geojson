@@ -2,13 +2,14 @@
   "id": 403740083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.191721,43.791962,-70.191721,43.791962",
     "geom:latitude":43.791962,
     "geom:longitude":-70.191721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Woods Circle Rd",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403740083,
-    "wof:lastmodified":1449055243,
+    "wof:lastmodified":1466586055,
     "wof:name":"Ann's Beauty Shop",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.191721,43.791962,-70.191721,43.791962],
+  "bbox": [
+    -70.191721,
+    43.791962,
+    -70.191721,
+    43.791962
+],
   "geometry": {"coordinates":[-70.191721,43.791962],"type":"Point"}
 }

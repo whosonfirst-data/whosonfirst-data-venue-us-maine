@@ -2,13 +2,14 @@
   "id": 387675901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.145877,43.867304,-70.145877,43.867304",
     "geom:latitude":43.867304,
     "geom:longitude":-70.145877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Bears Run Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387675901,
-    "wof:lastmodified":1449058041,
+    "wof:lastmodified":1466586377,
     "wof:name":"Carol A Ryder-Foley",
     "wof:parent_id":85842863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "registered"
     ]
 },
-  "bbox": [-70.145877,43.867304,-70.145877,43.867304],
+  "bbox": [
+    -70.145877,
+    43.867304,
+    -70.145877,
+    43.867304
+],
   "geometry": {"coordinates":[-70.145877,43.867304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387653473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.441161,43.371871,-70.441161,43.371871",
     "geom:latitude":43.371871,
     "geom:longitude":-70.441161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Main St",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387653473,
-    "wof:lastmodified":1449056386,
+    "wof:lastmodified":1466586024,
     "wof:name":"Sanborn Lobster & Vegetables",
     "wof:parent_id":85857739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fishing"
     ]
 },
-  "bbox": [-70.441161,43.371871,-70.441161,43.371871],
-  "geometry": {"coordinates":[-70.441161,43.371871],"type":"Point"}
+  "bbox": [
+    -70.441161,
+    43.371871,
+    -70.441161,
+    43.371871
+],
+  "geometry": {"coordinates":[-70.44116099999999,43.371871],"type":"Point"}
 }

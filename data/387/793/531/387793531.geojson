@@ -2,13 +2,14 @@
   "id": 387793531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.145286,43.817542,-70.145286,43.817542",
     "geom:latitude":43.817542,
     "geom:longitude":-70.145286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 US Hwy 1",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387793531,
-    "wof:lastmodified":1449058205,
+    "wof:lastmodified":1466587024,
     "wof:name":"Buck's Naked Bbq",
     "wof:parent_id":85813291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbecue"
     ]
 },
-  "bbox": [-70.145286,43.817542,-70.145286,43.817542],
+  "bbox": [
+    -70.145286,
+    43.817542,
+    -70.145286,
+    43.817542
+],
   "geometry": {"coordinates":[-70.145286,43.817542],"type":"Point"}
 }

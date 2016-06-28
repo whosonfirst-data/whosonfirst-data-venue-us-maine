@@ -2,13 +2,14 @@
   "id": 403740283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.251802,43.63288,-70.251802,43.63288",
     "geom:latitude":43.63288,
     "geom:longitude":-70.251802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Ocean St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403740283,
-    "wof:lastmodified":1449055243,
+    "wof:lastmodified":1466586059,
     "wof:name":"Mahoney Middle School",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.251802,43.63288,-70.251802,43.63288],
+  "bbox": [
+    -70.251802,
+    43.63288,
+    -70.251802,
+    43.63288
+],
   "geometry": {"coordinates":[-70.251802,43.63288],"type":"Point"}
 }

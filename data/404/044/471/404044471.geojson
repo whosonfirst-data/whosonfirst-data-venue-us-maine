@@ -2,13 +2,14 @@
   "id": 404044471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.553349,43.32592,-70.553349,43.32592",
     "geom:latitude":43.32592,
     "geom:longitude":-70.553349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Maple St",
     "sg:city":"Cornish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404044471,
-    "wof:lastmodified":1449039728,
+    "wof:lastmodified":1466586172,
     "wof:name":"Bay Haven Lobster Two",
     "wof:parent_id":85815165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.553349,43.32592,-70.553349,43.32592],
+  "bbox": [
+    -70.553349,
+    43.32592,
+    -70.553349,
+    43.32592
+],
   "geometry": {"coordinates":[-70.553349,43.32592],"type":"Point"}
 }

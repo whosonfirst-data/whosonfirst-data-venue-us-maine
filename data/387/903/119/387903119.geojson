@@ -2,13 +2,14 @@
   "id": 387903119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252124,43.66238,-70.252124,43.66238",
     "geom:latitude":43.66238,
     "geom:longitude":-70.252124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"267 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387903119,
-    "wof:lastmodified":1449056341,
+    "wof:lastmodified":1466587232,
     "wof:name":"Etz Chaim Synagogue",
     "wof:parent_id":85835993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "synagogue"
     ]
 },
-  "bbox": [-70.252124,43.66238,-70.252124,43.66238],
-  "geometry": {"coordinates":[-70.252124,43.66238],"type":"Point"}
+  "bbox": [
+    -70.252124,
+    43.66238,
+    -70.252124,
+    43.66238
+],
+  "geometry": {"coordinates":[-70.25212399999999,43.66238],"type":"Point"}
 }

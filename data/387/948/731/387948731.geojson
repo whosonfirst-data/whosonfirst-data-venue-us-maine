@@ -2,13 +2,14 @@
   "id": 387948731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.275415,43.656003,-70.275415,43.656003",
     "geom:latitude":43.656003,
     "geom:longitude":-70.275415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Park Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387948731,
-    "wof:lastmodified":1449059126,
+    "wof:lastmodified":1466587288,
     "wof:name":"Poison Control Ctr",
     "wof:parent_id":85880027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "poison"
     ]
 },
-  "bbox": [-70.275415,43.656003,-70.275415,43.656003],
+  "bbox": [
+    -70.275415,
+    43.656003,
+    -70.275415,
+    43.656003
+],
   "geometry": {"coordinates":[-70.275415,43.656003],"type":"Point"}
 }

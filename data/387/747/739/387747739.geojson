@@ -2,13 +2,14 @@
   "id": 387747739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.791828,44.275318,-69.791828,44.275318",
     "geom:latitude":44.275318,
     "geom:longitude":-69.791828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Water St",
     "sg:city":"Hallowell",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387747739,
-    "wof:lastmodified":1449056792,
+    "wof:lastmodified":1466586891,
     "wof:name":"Curves For Women",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "fitness"
     ]
 },
-  "bbox": [-69.791828,44.275318,-69.791828,44.275318],
+  "bbox": [
+    -69.791828,
+    44.275318,
+    -69.791828,
+    44.275318
+],
   "geometry": {"coordinates":[-69.791828,44.275318],"type":"Point"}
 }

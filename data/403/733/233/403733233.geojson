@@ -2,13 +2,14 @@
   "id": 403733233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.553337,43.383368,-70.553337,43.383368",
     "geom:latitude":43.383368,
     "geom:longitude":-70.553337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 High St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403733233,
-    "wof:lastmodified":1449054810,
+    "wof:lastmodified":1466586014,
     "wof:name":"Past Designs",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-70.553337,43.383368,-70.553337,43.383368],
+  "bbox": [
+    -70.553337,
+    43.383368,
+    -70.553337,
+    43.383368
+],
   "geometry": {"coordinates":[-70.553337,43.383368],"type":"Point"}
 }

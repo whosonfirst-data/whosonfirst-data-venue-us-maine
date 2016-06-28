@@ -2,13 +2,14 @@
   "id": 387561003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.249754,44.28866,-69.249754,44.28866",
     "geom:latitude":44.28866,
     "geom:longitude":-69.249754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2957 Sennebec Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387561003,
-    "wof:lastmodified":1449058808,
+    "wof:lastmodified":1466586631,
     "wof:name":"Mildred S Williams Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.249754,44.28866,-69.249754,44.28866],
+  "bbox": [
+    -69.249754,
+    44.28866,
+    -69.249754,
+    44.28866
+],
   "geometry": {"coordinates":[-69.249754,44.28866],"type":"Point"}
 }

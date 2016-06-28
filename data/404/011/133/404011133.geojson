@@ -2,13 +2,14 @@
   "id": 404011133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.761152,43.477835,-70.761152,43.477835",
     "geom:latitude":43.477835,
     "geom:longitude":-70.761152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"399 Mountain Rd",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404011133,
-    "wof:lastmodified":1449040078,
+    "wof:lastmodified":1466585810,
     "wof:name":"Kennebunk Timber Frames",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.761152,43.477835,-70.761152,43.477835],
+  "bbox": [
+    -70.761152,
+    43.477835,
+    -70.761152,
+    43.477835
+],
   "geometry": {"coordinates":[-70.761152,43.477835],"type":"Point"}
 }

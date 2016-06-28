@@ -2,13 +2,14 @@
   "id": 387803631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.760549,44.805792,-68.760549,44.805792",
     "geom:latitude":44.805792,
     "geom:longitude":-68.760549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 State St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387803631,
-    "wof:lastmodified":1449059962,
+    "wof:lastmodified":1466587053,
     "wof:name":"Jumping Jacks Day Care",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.760549,44.805792,-68.760549,44.805792],
+  "bbox": [
+    -68.760549,
+    44.805792,
+    -68.760549,
+    44.805792
+],
   "geometry": {"coordinates":[-68.760549,44.805792],"type":"Point"}
 }

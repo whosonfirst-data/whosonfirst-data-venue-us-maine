@@ -2,13 +2,14 @@
   "id": 387643519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.674926,44.088027,-70.674926,44.088027",
     "geom:latitude":44.088027,
     "geom:longitude":-70.674926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Naples Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387643519,
-    "wof:lastmodified":1449059418,
+    "wof:lastmodified":1466585922,
     "wof:name":"M & M Boat Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "boat"
     ]
 },
-  "bbox": [-70.674926,44.088027,-70.674926,44.088027],
+  "bbox": [
+    -70.674926,
+    44.088027,
+    -70.674926,
+    44.088027
+],
   "geometry": {"coordinates":[-70.674926,44.088027],"type":"Point"}
 }

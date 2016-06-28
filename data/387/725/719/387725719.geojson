@@ -2,13 +2,14 @@
   "id": 387725719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.787154,44.837355,-68.787154,44.837355",
     "geom:latitude":44.837355,
     "geom:longitude":-68.787154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Woodland Dr",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387725719,
-    "wof:lastmodified":1449057027,
+    "wof:lastmodified":1466586707,
     "wof:name":"Classic Creations",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.787154,44.837355,-68.787154,44.837355],
+  "bbox": [
+    -68.787154,
+    44.837355,
+    -68.787154,
+    44.837355
+],
   "geometry": {"coordinates":[-68.787154,44.837355],"type":"Point"}
 }

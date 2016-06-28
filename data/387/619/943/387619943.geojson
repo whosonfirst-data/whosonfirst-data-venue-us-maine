@@ -2,13 +2,14 @@
   "id": 387619943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.365214,44.089347,-70.365214,44.089347",
     "geom:latitude":44.089347,
     "geom:longitude":-70.365214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Maple Ln",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387619943,
-    "wof:lastmodified":1449056783,
+    "wof:lastmodified":1466586692,
     "wof:name":"Vision Transport",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-70.365214,44.089347,-70.365214,44.089347],
-  "geometry": {"coordinates":[-70.365214,44.089347],"type":"Point"}
+  "bbox": [
+    -70.365214,
+    44.089347,
+    -70.365214,
+    44.089347
+],
+  "geometry": {"coordinates":[-70.36521399999999,44.089347],"type":"Point"}
 }

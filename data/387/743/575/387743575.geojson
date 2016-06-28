@@ -2,13 +2,14 @@
   "id": 387743575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.450471,44.719563,-67.450471,44.719563",
     "geom:latitude":44.719563,
     "geom:longitude":-67.450471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Main St",
     "sg:city":"Machias",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387743575,
-    "wof:lastmodified":1449059899,
+    "wof:lastmodified":1466586776,
     "wof:name":"Seagull Motel",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-67.450471,44.719563,-67.450471,44.719563],
-  "geometry": {"coordinates":[-67.450471,44.719563],"type":"Point"}
+  "bbox": [
+    -67.450471,
+    44.719563,
+    -67.450471,
+    44.719563
+],
+  "geometry": {"coordinates":[-67.45047099999999,44.719563],"type":"Point"}
 }

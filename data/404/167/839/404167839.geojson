@@ -2,13 +2,14 @@
   "id": 404167839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.00847,46.694972,-68.00847,46.694972",
     "geom:latitude":46.694972,
     "geom:longitude":-68.00847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Rice St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404167839,
-    "wof:lastmodified":1449039726,
+    "wof:lastmodified":1466586786,
     "wof:name":"Farm Credit Svc",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-68.00847,46.694972,-68.00847,46.694972],
+  "bbox": [
+    -68.00847,
+    46.694972,
+    -68.00847,
+    46.694972
+],
   "geometry": {"coordinates":[-68.00847,46.694972],"type":"Point"}
 }

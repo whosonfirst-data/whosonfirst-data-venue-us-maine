@@ -2,13 +2,14 @@
   "id": 404124537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.253152,43.638546,-70.253152,43.638546",
     "geom:latitude":43.638546,
     "geom:longitude":-70.253152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Ocean St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404124537,
-    "wof:lastmodified":1449040247,
+    "wof:lastmodified":1466586364,
     "wof:name":"Culinary Collections",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "housewares"
     ]
 },
-  "bbox": [-70.253152,43.638546,-70.253152,43.638546],
+  "bbox": [
+    -70.253152,
+    43.638546,
+    -70.253152,
+    43.638546
+],
   "geometry": {"coordinates":[-70.253152,43.638546],"type":"Point"}
 }

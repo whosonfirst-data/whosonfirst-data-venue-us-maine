@@ -2,13 +2,14 @@
   "id": 403730771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.375673,43.836149,-70.375673,43.836149",
     "geom:latitude":43.836149,
     "geom:longitude":-70.375673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Dutton Hill Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403730771,
-    "wof:lastmodified":1449055764,
+    "wof:lastmodified":1466585957,
     "wof:name":"Townsend Concrete",
     "wof:parent_id":85847399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.375673,43.836149,-70.375673,43.836149],
-  "geometry": {"coordinates":[-70.375673,43.836149],"type":"Point"}
+  "bbox": [
+    -70.375673,
+    43.836149,
+    -70.375673,
+    43.836149
+],
+  "geometry": {"coordinates":[-70.37567300000001,43.836149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387624355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.21966,44.092058,-70.21966,44.092058",
     "geom:latitude":44.092058,
     "geom:longitude":-70.21966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Oxford St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387624355,
-    "wof:lastmodified":1449058719,
+    "wof:lastmodified":1466585755,
     "wof:name":"Mary's Place St Andre's Home",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-70.21966,44.092058,-70.21966,44.092058],
+  "bbox": [
+    -70.21966,
+    44.092058,
+    -70.21966,
+    44.092058
+],
   "geometry": {"coordinates":[-70.21966,44.092058],"type":"Point"}
 }

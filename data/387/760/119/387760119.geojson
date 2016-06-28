@@ -2,13 +2,14 @@
   "id": 387760119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.792544,44.278613,-69.792544,44.278613",
     "geom:latitude":44.278613,
     "geom:longitude":-69.792544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"286 Water St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387760119,
-    "wof:lastmodified":1449059775,
+    "wof:lastmodified":1466587018,
     "wof:name":"Health and Human Svcs ME Dept",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-69.792544,44.278613,-69.792544,44.278613],
-  "geometry": {"coordinates":[-69.792544,44.278613],"type":"Point"}
+  "bbox": [
+    -69.792544,
+    44.278613,
+    -69.792544,
+    44.278613
+],
+  "geometry": {"coordinates":[-69.79254400000001,44.278613],"type":"Point"}
 }

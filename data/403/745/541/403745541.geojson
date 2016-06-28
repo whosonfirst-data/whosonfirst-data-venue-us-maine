@@ -2,13 +2,14 @@
   "id": 403745541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.254536,43.65747,-70.254536,43.65747",
     "geom:latitude":43.65747,
     "geom:longitude":-70.254536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Exchange St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403745541,
-    "wof:lastmodified":1449055888,
+    "wof:lastmodified":1466586137,
     "wof:name":"Books Etc",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.254536,43.65747,-70.254536,43.65747],
+  "bbox": [
+    -70.254536,
+    43.65747,
+    -70.254536,
+    43.65747
+],
   "geometry": {"coordinates":[-70.254536,43.65747],"type":"Point"}
 }

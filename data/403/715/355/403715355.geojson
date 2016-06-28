@@ -2,13 +2,14 @@
   "id": 403715355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.295868,43.687541,-70.295868,43.687541",
     "geom:latitude":43.687541,
     "geom:longitude":-70.295868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Bishop St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403715355,
-    "wof:lastmodified":1449055689,
+    "wof:lastmodified":1466585803,
     "wof:name":"Sullivan Tire & Auto Svc Co",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-70.295868,43.687541,-70.295868,43.687541],
+  "bbox": [
+    -70.295868,
+    43.687541,
+    -70.295868,
+    43.687541
+],
   "geometry": {"coordinates":[-70.295868,43.687541],"type":"Point"}
 }

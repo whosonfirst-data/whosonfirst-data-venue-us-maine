@@ -2,13 +2,14 @@
   "id": 403983219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.465636,43.488634,-70.465636,43.488634",
     "geom:latitude":43.488634,
     "geom:longitude":-70.465636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"292 Elm St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403983219,
-    "wof:lastmodified":1449055855,
+    "wof:lastmodified":1466587160,
     "wof:name":"Mc Arthur Home",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-70.465636,43.488634,-70.465636,43.488634],
+  "bbox": [
+    -70.465636,
+    43.488634,
+    -70.465636,
+    43.488634
+],
   "geometry": {"coordinates":[-70.465636,43.488634],"type":"Point"}
 }

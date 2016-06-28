@@ -2,13 +2,14 @@
   "id": 404192803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.996522,44.906454,-66.996522,44.906454",
     "geom:latitude":44.906454,
     "geom:longitude":-66.996522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Washington St",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404192803,
-    "wof:lastmodified":1449039979,
+    "wof:lastmodified":1466586894,
     "wof:name":"First",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-66.996522,44.906454,-66.996522,44.906454],
+  "bbox": [
+    -66.996522,
+    44.906454,
+    -66.996522,
+    44.906454
+],
   "geometry": {"coordinates":[-66.996522,44.906454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403925343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.683533,44.40245,-70.683533,44.40245",
     "geom:latitude":44.40245,
     "geom:longitude":-70.683533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"481 Gore Rd",
     "sg:city":"Bryant Pond",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403925343,
-    "wof:lastmodified":1449054641,
+    "wof:lastmodified":1466587098,
     "wof:name":"Pine-Sider Lodge",
     "wof:parent_id":85831117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-70.683533,44.40245,-70.683533,44.40245],
+  "bbox": [
+    -70.683533,
+    44.40245,
+    -70.683533,
+    44.40245
+],
   "geometry": {"coordinates":[-70.683533,44.40245],"type":"Point"}
 }

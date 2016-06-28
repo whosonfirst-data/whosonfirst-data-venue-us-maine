@@ -2,13 +2,14 @@
   "id": 404082759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.562921,44.794615,-68.562921,44.794615",
     "geom:latitude":44.794615,
     "geom:longitude":-68.562921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Airline Rd",
     "sg:city":"Clifton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404082759,
-    "wof:lastmodified":1449039114,
+    "wof:lastmodified":1466585777,
     "wof:name":"R Leon Williams Lumber Co",
     "wof:parent_id":85804681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-68.562921,44.794615,-68.562921,44.794615],
+  "bbox": [
+    -68.562921,
+    44.794615,
+    -68.562921,
+    44.794615
+],
   "geometry": {"coordinates":[-68.562921,44.794615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387812065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.857041,44.745946,-68.857041,44.745946",
     "geom:latitude":44.745946,
     "geom:longitude":-68.857041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Western Ave",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387812065,
-    "wof:lastmodified":1449056227,
+    "wof:lastmodified":1466587170,
     "wof:name":"Ben's Heating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.857041,44.745946,-68.857041,44.745946],
+  "bbox": [
+    -68.857041,
+    44.745946,
+    -68.857041,
+    44.745946
+],
   "geometry": {"coordinates":[-68.857041,44.745946],"type":"Point"}
 }

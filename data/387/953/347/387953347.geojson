@@ -2,13 +2,14 @@
   "id": 387953347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.897963,43.916543,-69.897963,43.916543",
     "geom:latitude":43.916543,
     "geom:longitude":-69.897963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Young Ave",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387953347,
-    "wof:lastmodified":1449058735,
+    "wof:lastmodified":1466587295,
     "wof:name":"Maine Funeral Directors Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.897963,43.916543,-69.897963,43.916543],
+  "bbox": [
+    -69.897963,
+    43.916543,
+    -69.897963,
+    43.916543
+],
   "geometry": {"coordinates":[-69.897963,43.916543],"type":"Point"}
 }

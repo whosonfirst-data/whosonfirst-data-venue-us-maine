@@ -2,13 +2,14 @@
   "id": 403947505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.627044,44.54066,-69.627044,44.54066",
     "geom:latitude":44.54066,
     "geom:longitude":-69.627044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Bay St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403947505,
-    "wof:lastmodified":1449055574,
+    "wof:lastmodified":1466587065,
     "wof:name":"Myron Rosalie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.627044,44.54066,-69.627044,44.54066],
+  "bbox": [
+    -69.627044,
+    44.54066,
+    -69.627044,
+    44.54066
+],
   "geometry": {"coordinates":[-69.627044,44.54066],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387722159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.224865,44.080358,-69.224865,44.080358",
     "geom:latitude":44.080358,
     "geom:longitude":-69.224865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Atlantic Hwy",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387722159,
-    "wof:lastmodified":1449057434,
+    "wof:lastmodified":1466586810,
     "wof:name":"Hartley Marine Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.224865,44.080358,-69.224865,44.080358],
-  "geometry": {"coordinates":[-69.224865,44.080358],"type":"Point"}
+  "bbox": [
+    -69.224865,
+    44.080358,
+    -69.224865,
+    44.080358
+],
+  "geometry": {"coordinates":[-69.22486499999999,44.080358],"type":"Point"}
 }

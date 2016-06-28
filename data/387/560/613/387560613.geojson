@@ -2,13 +2,14 @@
   "id": 387560613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.763747,44.795938,-68.763747,44.795938",
     "geom:latitude":44.795938,
     "geom:longitude":-68.763747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 N Main St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387560613,
-    "wof:lastmodified":1449059008,
+    "wof:lastmodified":1466585773,
     "wof:name":"Girl Scouts Headquarters",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-68.763747,44.795938,-68.763747,44.795938],
+  "bbox": [
+    -68.763747,
+    44.795938,
+    -68.763747,
+    44.795938
+],
   "geometry": {"coordinates":[-68.763747,44.795938],"type":"Point"}
 }

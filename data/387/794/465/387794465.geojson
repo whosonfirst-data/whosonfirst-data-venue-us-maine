@@ -2,13 +2,14 @@
   "id": 387794465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.788004,44.806362,-68.788004,44.806362",
     "geom:latitude":44.806362,
     "geom:longitude":-68.788004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"487 Union St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387794465,
-    "wof:lastmodified":1449057931,
+    "wof:lastmodified":1466587025,
     "wof:name":"Salon The",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.788004,44.806362,-68.788004,44.806362],
+  "bbox": [
+    -68.788004,
+    44.806362,
+    -68.788004,
+    44.806362
+],
   "geometry": {"coordinates":[-68.788004,44.806362],"type":"Point"}
 }

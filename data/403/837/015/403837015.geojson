@@ -2,13 +2,14 @@
   "id": 403837015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.243445,44.09833,-70.243445,44.09833",
     "geom:latitude":44.09833,
     "geom:longitude":-70.243445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Conant Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403837015,
-    "wof:lastmodified":1449054836,
+    "wof:lastmodified":1466586549,
     "wof:name":"P & B Paving",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.243445,44.09833,-70.243445,44.09833],
-  "geometry": {"coordinates":[-70.243445,44.09833],"type":"Point"}
+  "bbox": [
+    -70.243445,
+    44.09833,
+    -70.243445,
+    44.09833
+],
+  "geometry": {"coordinates":[-70.24344499999999,44.09833],"type":"Point"}
 }

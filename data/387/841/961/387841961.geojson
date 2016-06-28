@@ -2,13 +2,14 @@
   "id": 387841961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.670572,44.883383,-68.670572,44.883383",
     "geom:latitude":44.883383,
     "geom:longitude":-68.670572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Mill St",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387841961,
-    "wof:lastmodified":1449056902,
+    "wof:lastmodified":1466587142,
     "wof:name":"Lissus Pizza",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-68.670572,44.883383,-68.670572,44.883383],
-  "geometry": {"coordinates":[-68.670572,44.883383],"type":"Point"}
+  "bbox": [
+    -68.670572,
+    44.883383,
+    -68.670572,
+    44.883383
+],
+  "geometry": {"coordinates":[-68.67057200000001,44.883383],"type":"Point"}
 }

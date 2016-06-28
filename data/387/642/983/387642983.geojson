@@ -2,13 +2,14 @@
   "id": 387642983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.343,43.652826,-70.343,43.652826",
     "geom:latitude":43.652826,
     "geom:longitude":-70.343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Harry Harmon Dr",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387642983,
-    "wof:lastmodified":1449056337,
+    "wof:lastmodified":1466585915,
     "wof:name":"Casco Bay Surgery",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.343,43.652826,-70.343,43.652826],
+  "bbox": [
+    -70.343,
+    43.652826,
+    -70.343,
+    43.652826
+],
   "geometry": {"coordinates":[-70.343,43.652826],"type":"Point"}
 }

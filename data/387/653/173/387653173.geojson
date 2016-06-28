@@ -2,13 +2,14 @@
   "id": 387653173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.013747,43.758604,-70.013747,43.758604",
     "geom:latitude":43.758604,
     "geom:longitude":-70.013747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1588 Harpswell Neck Rd",
     "sg:city":"South Harpswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387653173,
-    "wof:lastmodified":1449056385,
+    "wof:lastmodified":1466586019,
     "wof:name":"D W Newberg Associates Inc",
     "wof:parent_id":85855607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-70.013747,43.758604,-70.013747,43.758604],
+  "bbox": [
+    -70.013747,
+    43.758604,
+    -70.013747,
+    43.758604
+],
   "geometry": {"coordinates":[-70.013747,43.758604],"type":"Point"}
 }

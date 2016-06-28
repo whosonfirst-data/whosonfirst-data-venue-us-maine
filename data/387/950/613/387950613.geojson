@@ -2,13 +2,14 @@
   "id": 387950613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.652626,43.653123,-70.652626,43.653123",
     "geom:latitude":43.653123,
     "geom:longitude":-70.652626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Oakwood Dr",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387950613,
-    "wof:lastmodified":1449057588,
+    "wof:lastmodified":1466587203,
     "wof:name":"Smith Clint B Bldr Remodeler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drywall"
     ]
 },
-  "bbox": [-70.652626,43.653123,-70.652626,43.653123],
+  "bbox": [
+    -70.652626,
+    43.653123,
+    -70.652626,
+    43.653123
+],
   "geometry": {"coordinates":[-70.652626,43.653123],"type":"Point"}
 }

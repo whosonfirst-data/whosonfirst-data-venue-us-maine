@@ -2,13 +2,14 @@
   "id": 404102525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.261823,43.655335,-70.261823,43.655335",
     "geom:latitude":43.655335,
     "geom:longitude":-70.261823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"576 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404102525,
-    "wof:lastmodified":1449040253,
+    "wof:lastmodified":1466586033,
     "wof:name":"Fast Forward Accessories",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.261823,43.655335,-70.261823,43.655335],
-  "geometry": {"coordinates":[-70.261823,43.655335],"type":"Point"}
+  "bbox": [
+    -70.261823,
+    43.655335,
+    -70.261823,
+    43.655335
+],
+  "geometry": {"coordinates":[-70.26182300000001,43.655335],"type":"Point"}
 }

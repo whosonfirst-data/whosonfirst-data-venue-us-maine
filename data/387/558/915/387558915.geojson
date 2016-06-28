@@ -2,13 +2,14 @@
   "id": 387558915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.191354,43.847498,-70.191354,43.847498",
     "geom:latitude":43.847498,
     "geom:longitude":-70.191354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Mountfort Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387558915,
-    "wof:lastmodified":1449057134,
+    "wof:lastmodified":1466585735,
     "wof:name":"Onsite Sampling Services",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "testing"
     ]
 },
-  "bbox": [-70.191354,43.847498,-70.191354,43.847498],
+  "bbox": [
+    -70.191354,
+    43.847498,
+    -70.191354,
+    43.847498
+],
   "geometry": {"coordinates":[-70.191354,43.847498],"type":"Point"}
 }

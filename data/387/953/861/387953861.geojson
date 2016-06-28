@@ -2,13 +2,14 @@
   "id": 387953861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.019475,43.876176,-70.019475,43.876176",
     "geom:latitude":43.876176,
     "geom:longitude":-70.019475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Casco Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387953861,
-    "wof:lastmodified":1449058736,
+    "wof:lastmodified":1466587296,
     "wof:name":"P & K Sand & Gravel Inc",
     "wof:parent_id":85808417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.019475,43.876176,-70.019475,43.876176],
+  "bbox": [
+    -70.019475,
+    43.876176,
+    -70.019475,
+    43.876176
+],
   "geometry": {"coordinates":[-70.019475,43.876176],"type":"Point"}
 }

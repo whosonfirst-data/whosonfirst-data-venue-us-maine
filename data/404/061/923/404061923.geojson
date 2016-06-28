@@ -2,13 +2,14 @@
   "id": 404061923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.516098,44.654706,-67.516098,44.654706",
     "geom:latitude":44.654706,
     "geom:longitude":-67.516098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"449 Great Cove Rd",
     "sg:city":"Roque Bluffs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404061923,
-    "wof:lastmodified":1449039992,
+    "wof:lastmodified":1466586465,
     "wof:name":"Great Cove Driving Range",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "golf"
     ]
 },
-  "bbox": [-67.516098,44.654706,-67.516098,44.654706],
+  "bbox": [
+    -67.516098,
+    44.654706,
+    -67.516098,
+    44.654706
+],
   "geometry": {"coordinates":[-67.516098,44.654706],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404182393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.327058,43.624764,-70.327058,43.624764",
     "geom:latitude":43.624764,
     "geom:longitude":-70.327058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2257 W Broadway",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404182393,
-    "wof:lastmodified":1449039888,
+    "wof:lastmodified":1466586856,
     "wof:name":"W J Grosvenor & Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-70.327058,43.624764,-70.327058,43.624764],
-  "geometry": {"coordinates":[-70.327058,43.624764],"type":"Point"}
+  "bbox": [
+    -70.327058,
+    43.624764,
+    -70.327058,
+    43.624764
+],
+  "geometry": {"coordinates":[-70.32705799999999,43.624764],"type":"Point"}
 }

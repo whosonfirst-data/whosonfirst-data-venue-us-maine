@@ -2,13 +2,14 @@
   "id": 387937049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.450087,43.850744,-70.450087,43.850744",
     "geom:latitude":43.850744,
     "geom:longitude":-70.450087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"885 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387937049,
-    "wof:lastmodified":1449056821,
+    "wof:lastmodified":1466587265,
     "wof:name":"Hearing Solutions",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "impaired"
     ]
 },
-  "bbox": [-70.450087,43.850744,-70.450087,43.850744],
+  "bbox": [
+    -70.450087,
+    43.850744,
+    -70.450087,
+    43.850744
+],
   "geometry": {"coordinates":[-70.450087,43.850744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404047653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.168757,43.807349,-70.168757,43.807349",
     "geom:latitude":43.807349,
     "geom:longitude":-70.168757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"936 US Hwy 1",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404047653,
-    "wof:lastmodified":1449039902,
+    "wof:lastmodified":1466586256,
     "wof:name":"Big Apple Food Store",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.168757,43.807349,-70.168757,43.807349],
+  "bbox": [
+    -70.168757,
+    43.807349,
+    -70.168757,
+    43.807349
+],
   "geometry": {"coordinates":[-70.168757,43.807349],"type":"Point"}
 }

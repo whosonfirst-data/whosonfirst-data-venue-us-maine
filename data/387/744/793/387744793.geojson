@@ -2,13 +2,14 @@
   "id": 387744793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.944483,43.779804,-69.944483,43.779804",
     "geom:latitude":43.779804,
     "geom:longitude":-69.944483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Seaspot Run",
     "sg:city":"Harpswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387744793,
-    "wof:lastmodified":1449057468,
+    "wof:lastmodified":1466586790,
     "wof:name":"Jill Victor Sculptor",
     "wof:parent_id":85815689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sculptor"
     ]
 },
-  "bbox": [-69.944483,43.779804,-69.944483,43.779804],
-  "geometry": {"coordinates":[-69.944483,43.779804],"type":"Point"}
+  "bbox": [
+    -69.944483,
+    43.779804,
+    -69.944483,
+    43.779804
+],
+  "geometry": {"coordinates":[-69.94448300000001,43.779804],"type":"Point"}
 }

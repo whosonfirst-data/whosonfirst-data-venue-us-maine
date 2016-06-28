@@ -2,13 +2,14 @@
   "id": 404004559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.364535,43.648008,-70.364535,43.648008",
     "geom:latitude":43.648008,
     "geom:longitude":-70.364535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Karen Dr",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404004559,
-    "wof:lastmodified":1449039465,
+    "wof:lastmodified":1466585734,
     "wof:name":"Sebago Energy Conservation",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "prod"
     ]
 },
-  "bbox": [-70.364535,43.648008,-70.364535,43.648008],
+  "bbox": [
+    -70.364535,
+    43.648008,
+    -70.364535,
+    43.648008
+],
   "geometry": {"coordinates":[-70.364535,43.648008],"type":"Point"}
 }

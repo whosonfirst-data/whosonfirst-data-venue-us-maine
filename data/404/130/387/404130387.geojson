@@ -2,13 +2,14 @@
   "id": 404130387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.040493,46.691328,-68.040493,46.691328",
     "geom:latitude":46.691328,
     "geom:longitude":-68.040493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Airport Dr",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404130387,
-    "wof:lastmodified":1449039427,
+    "wof:lastmodified":1466586454,
     "wof:name":"Northern Maine Regional Arprt",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-68.040493,46.691328,-68.040493,46.691328],
+  "bbox": [
+    -68.040493,
+    46.691328,
+    -68.040493,
+    46.691328
+],
   "geometry": {"coordinates":[-68.040493,46.691328],"type":"Point"}
 }

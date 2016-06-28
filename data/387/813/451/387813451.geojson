@@ -2,13 +2,14 @@
   "id": 387813451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.778091,44.802884,-68.778091,44.802884",
     "geom:latitude":44.802884,
     "geom:longitude":-68.778091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Ohio St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387813451,
-    "wof:lastmodified":1449057080,
+    "wof:lastmodified":1466587095,
     "wof:name":"JLH Boarding Home",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-68.778091,44.802884,-68.778091,44.802884],
+  "bbox": [
+    -68.778091,
+    44.802884,
+    -68.778091,
+    44.802884
+],
   "geometry": {"coordinates":[-68.778091,44.802884],"type":"Point"}
 }

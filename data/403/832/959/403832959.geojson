@@ -2,13 +2,14 @@
   "id": 403832959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.325494,44.278088,-68.325494,44.278088",
     "geom:latitude":44.278088,
     "geom:longitude":-68.325494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Main St",
     "sg:city":"Southwest Harbor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403832959,
-    "wof:lastmodified":1449054632,
+    "wof:lastmodified":1466586480,
     "wof:name":"Captain Bennett House",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-68.325494,44.278088,-68.325494,44.278088],
-  "geometry": {"coordinates":[-68.325494,44.278088],"type":"Point"}
+  "bbox": [
+    -68.325494,
+    44.278088,
+    -68.325494,
+    44.278088
+],
+  "geometry": {"coordinates":[-68.32549400000001,44.278088],"type":"Point"}
 }

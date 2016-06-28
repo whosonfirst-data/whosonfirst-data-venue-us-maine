@@ -2,13 +2,14 @@
   "id": 387659485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.196876,43.660536,-70.196876,43.660536",
     "geom:latitude":43.660536,
     "geom:longitude":-70.196876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Church Ave",
     "sg:city":"Peaks Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387659485,
-    "wof:lastmodified":1449056516,
+    "wof:lastmodified":1466586115,
     "wof:name":"Memorial United",
     "wof:parent_id":85827601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.196876,43.660536,-70.196876,43.660536],
+  "bbox": [
+    -70.196876,
+    43.660536,
+    -70.196876,
+    43.660536
+],
   "geometry": {"coordinates":[-70.196876,43.660536],"type":"Point"}
 }

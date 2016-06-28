@@ -2,13 +2,14 @@
   "id": 387731365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.527445,44.028357,-69.527445,44.028357",
     "geom:latitude":44.028357,
     "geom:longitude":-69.527445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Bristol Rd",
     "sg:city":"South Bristol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387731365,
-    "wof:lastmodified":1449059492,
+    "wof:lastmodified":1466586843,
     "wof:name":"Plummer Excavation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.527445,44.028357,-69.527445,44.028357],
+  "bbox": [
+    -69.527445,
+    44.028357,
+    -69.527445,
+    44.028357
+],
   "geometry": {"coordinates":[-69.527445,44.028357],"type":"Point"}
 }

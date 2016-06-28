@@ -2,13 +2,14 @@
   "id": 387830299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.21079,44.388977,-68.21079,44.388977",
     "geom:latitude":44.388977,
     "geom:longitude":-68.21079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Cottage St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387830299,
-    "wof:lastmodified":1449056908,
+    "wof:lastmodified":1466587121,
     "wof:name":"District Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-68.21079,44.388977,-68.21079,44.388977],
+  "bbox": [
+    -68.21079,
+    44.388977,
+    -68.21079,
+    44.388977
+],
   "geometry": {"coordinates":[-68.21079,44.388977],"type":"Point"}
 }

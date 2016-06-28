@@ -2,13 +2,14 @@
   "id": 387740921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.333992,43.591313,-70.333992,43.591313",
     "geom:latitude":43.591313,
     "geom:longitude":-70.333992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Oak Hill Ter",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387740921,
-    "wof:lastmodified":1449057823,
+    "wof:lastmodified":1466586761,
     "wof:name":"Hair Builders",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "replacement"
     ]
 },
-  "bbox": [-70.333992,43.591313,-70.333992,43.591313],
-  "geometry": {"coordinates":[-70.333992,43.591313],"type":"Point"}
+  "bbox": [
+    -70.333992,
+    43.591313,
+    -70.333992,
+    43.591313
+],
+  "geometry": {"coordinates":[-70.33399199999999,43.591313],"type":"Point"}
 }

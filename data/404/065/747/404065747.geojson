@@ -2,13 +2,14 @@
   "id": 404065747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.544973,44.544967,-70.544973,44.544967",
     "geom:latitude":44.544967,
     "geom:longitude":-70.544973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Exchange St",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":404065747,
-    "wof:lastmodified":1449040318,
+    "wof:lastmodified":1466586513,
     "wof:name":"Island Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "studio"
     ]
 },
-  "bbox": [-70.544973,44.544967,-70.544973,44.544967],
+  "bbox": [
+    -70.544973,
+    44.544967,
+    -70.544973,
+    44.544967
+],
   "geometry": {"coordinates":[-70.544973,44.544967],"type":"Point"}
 }

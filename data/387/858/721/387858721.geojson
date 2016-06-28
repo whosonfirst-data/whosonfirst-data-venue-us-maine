@@ -2,13 +2,14 @@
   "id": 387858721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.216366,44.100012,-70.216366,44.100012",
     "geom:latitude":44.100012,
     "geom:longitude":-70.216366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387858721,
-    "wof:lastmodified":1449056486,
+    "wof:lastmodified":1466587178,
     "wof:name":"Mary's Candy Shop",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "candy"
     ]
 },
-  "bbox": [-70.216366,44.100012,-70.216366,44.100012],
-  "geometry": {"coordinates":[-70.216366,44.100012],"type":"Point"}
+  "bbox": [
+    -70.216366,
+    44.100012,
+    -70.216366,
+    44.100012
+],
+  "geometry": {"coordinates":[-70.21636599999999,44.100012],"type":"Point"}
 }

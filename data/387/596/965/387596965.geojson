@@ -2,13 +2,14 @@
   "id": 387596965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.632176,44.521562,-69.632176,44.521562",
     "geom:latitude":44.521562,
     "geom:longitude":-69.632176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Timber Oaks Dr",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387596965,
-    "wof:lastmodified":1449058057,
+    "wof:lastmodified":1466586299,
     "wof:name":"Stinneford Appraisal Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraisal"
     ]
 },
-  "bbox": [-69.632176,44.521562,-69.632176,44.521562],
+  "bbox": [
+    -69.632176,
+    44.521562,
+    -69.632176,
+    44.521562
+],
   "geometry": {"coordinates":[-69.632176,44.521562],"type":"Point"}
 }

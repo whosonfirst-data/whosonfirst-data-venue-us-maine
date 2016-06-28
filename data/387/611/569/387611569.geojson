@@ -2,13 +2,14 @@
   "id": 387611569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.783151,44.310913,-69.783151,44.310913",
     "geom:latitude":44.310913,
     "geom:longitude":-69.783151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Sewall St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387611569,
-    "wof:lastmodified":1449059109,
+    "wof:lastmodified":1466586523,
     "wof:name":"US Small Business Adm",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "adm"
     ]
 },
-  "bbox": [-69.783151,44.310913,-69.783151,44.310913],
+  "bbox": [
+    -69.783151,
+    44.310913,
+    -69.783151,
+    44.310913
+],
   "geometry": {"coordinates":[-69.783151,44.310913],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404129659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.466994,43.867111,-70.466994,43.867111",
     "geom:latitude":43.867111,
     "geom:longitude":-70.466994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Crescent Ave",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404129659,
-    "wof:lastmodified":1449040055,
+    "wof:lastmodified":1466586445,
     "wof:name":"Vincent Entertainment Agency",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-70.466994,43.867111,-70.466994,43.867111],
+  "bbox": [
+    -70.466994,
+    43.867111,
+    -70.466994,
+    43.867111
+],
   "geometry": {"coordinates":[-70.466994,43.867111],"type":"Point"}
 }

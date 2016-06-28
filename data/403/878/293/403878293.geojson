@@ -2,13 +2,14 @@
   "id": 403878293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.54552,43.740975,-70.54552,43.740975",
     "geom:latitude":43.740975,
     "geom:longitude":-70.54552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Northeast Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403878293,
-    "wof:lastmodified":1449055338,
+    "wof:lastmodified":1466586831,
     "wof:name":"George E Jack School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.54552,43.740975,-70.54552,43.740975],
+  "bbox": [
+    -70.54552,
+    43.740975,
+    -70.54552,
+    43.740975
+],
   "geometry": {"coordinates":[-70.54552,43.740975],"type":"Point"}
 }

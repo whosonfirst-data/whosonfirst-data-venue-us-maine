@@ -2,13 +2,14 @@
   "id": 387846343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.204642,44.120276,-70.204642,44.120276",
     "geom:latitude":44.120276,
     "geom:longitude":-70.204642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Landry Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387846343,
-    "wof:lastmodified":1449059053,
+    "wof:lastmodified":1466587151,
     "wof:name":"George Weston Bakeries",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-70.204642,44.120276,-70.204642,44.120276],
-  "geometry": {"coordinates":[-70.204642,44.120276],"type":"Point"}
+  "bbox": [
+    -70.204642,
+    44.120276,
+    -70.204642,
+    44.120276
+],
+  "geometry": {"coordinates":[-70.20464200000001,44.120276],"type":"Point"}
 }

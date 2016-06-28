@@ -2,13 +2,14 @@
   "id": 404044467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.234179,44.088462,-70.234179,44.088462",
     "geom:latitude":44.088462,
     "geom:longitude":-70.234179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Minot Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404044467,
-    "wof:lastmodified":1449039745,
+    "wof:lastmodified":1466586171,
     "wof:name":"Aesthetic Dental Arts Of Me",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-70.234179,44.088462,-70.234179,44.088462],
+  "bbox": [
+    -70.234179,
+    44.088462,
+    -70.234179,
+    44.088462
+],
   "geometry": {"coordinates":[-70.234179,44.088462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403746377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.090167,43.95021,-70.090167,43.95021",
     "geom:latitude":43.95021,
     "geom:longitude":-70.090167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Quaker Meeting House Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403746377,
-    "wof:lastmodified":1449054615,
+    "wof:lastmodified":1466586152,
     "wof:name":"Ptp Enterprises",
     "wof:parent_id":85849607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.090167,43.95021,-70.090167,43.95021],
-  "geometry": {"coordinates":[-70.090167,43.95021],"type":"Point"}
+  "bbox": [
+    -70.090167,
+    43.95021,
+    -70.090167,
+    43.95021
+],
+  "geometry": {"coordinates":[-70.09016699999999,43.95021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403868383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.265344,43.656658,-70.265344,43.656658",
     "geom:latitude":43.656658,
     "geom:longitude":-70.265344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403868383,
-    "wof:lastmodified":1449054677,
+    "wof:lastmodified":1466586779,
     "wof:name":"Longfellow Antiques & Used",
     "wof:parent_id":85880027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-70.265344,43.656658,-70.265344,43.656658],
+  "bbox": [
+    -70.265344,
+    43.656658,
+    -70.265344,
+    43.656658
+],
   "geometry": {"coordinates":[-70.265344,43.656658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403969565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.459833,43.360445,-70.459833,43.360445",
     "geom:latitude":43.360445,
     "geom:longitude":-70.459833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Wildes District Rd",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403969565,
-    "wof:lastmodified":1449054969,
+    "wof:lastmodified":1466587130,
     "wof:name":"Mark Paquette",
     "wof:parent_id":85857739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.459833,43.360445,-70.459833,43.360445],
+  "bbox": [
+    -70.459833,
+    43.360445,
+    -70.459833,
+    43.360445
+],
   "geometry": {"coordinates":[-70.459833,43.360445],"type":"Point"}
 }

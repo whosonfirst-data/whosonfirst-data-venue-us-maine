@@ -2,13 +2,14 @@
   "id": 403773187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.30089,43.768896,-70.30089,43.768896",
     "geom:latitude":43.768896,
     "geom:longitude":-70.30089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Gray Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403773187,
-    "wof:lastmodified":1449054785,
+    "wof:lastmodified":1466586566,
     "wof:name":"Graiver Realty Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.30089,43.768896,-70.30089,43.768896],
+  "bbox": [
+    -70.30089,
+    43.768896,
+    -70.30089,
+    43.768896
+],
   "geometry": {"coordinates":[-70.30089,43.768896],"type":"Point"}
 }

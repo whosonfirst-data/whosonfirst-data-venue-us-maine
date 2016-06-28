@@ -2,13 +2,14 @@
   "id": 403711315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.104135,44.007033,-70.104135,44.007033",
     "geom:latitude":44.007033,
     "geom:longitude":-70.104135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 River Rd",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403711315,
-    "wof:lastmodified":1449055724,
+    "wof:lastmodified":1466585742,
     "wof:name":"Clinton W Fox",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.104135,44.007033,-70.104135,44.007033],
+  "bbox": [
+    -70.104135,
+    44.007033,
+    -70.104135,
+    44.007033
+],
   "geometry": {"coordinates":[-70.104135,44.007033],"type":"Point"}
 }

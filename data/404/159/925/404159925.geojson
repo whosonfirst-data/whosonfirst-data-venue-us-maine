@@ -2,13 +2,14 @@
   "id": 404159925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.59844,43.262207,-70.59844,43.262207",
     "geom:latitude":43.262207,
     "geom:longitude":-70.59844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Main St",
     "sg:city":"Ogunquit",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404159925,
-    "wof:lastmodified":1449039164,
+    "wof:lastmodified":1466586866,
     "wof:name":"Joe Allen",
     "wof:parent_id":85854335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.59844,43.262207,-70.59844,43.262207],
+  "bbox": [
+    -70.59844,
+    43.262207,
+    -70.59844,
+    43.262207
+],
   "geometry": {"coordinates":[-70.59844,43.262207],"type":"Point"}
 }

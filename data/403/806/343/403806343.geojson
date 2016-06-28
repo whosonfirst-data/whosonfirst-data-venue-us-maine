@@ -2,13 +2,14 @@
   "id": 403806343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.019778,46.692922,-68.019778,46.692922",
     "geom:latitude":46.692922,
     "geom:longitude":-68.019778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Parsons Rd",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403806343,
-    "wof:lastmodified":1449054627,
+    "wof:lastmodified":1466586048,
     "wof:name":"Parsons Street Redemption Ctr",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-68.019778,46.692922,-68.019778,46.692922],
+  "bbox": [
+    -68.019778,
+    46.692922,
+    -68.019778,
+    46.692922
+],
   "geometry": {"coordinates":[-68.019778,46.692922],"type":"Point"}
 }

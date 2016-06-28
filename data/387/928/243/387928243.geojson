@@ -2,13 +2,14 @@
   "id": 387928243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.715064,44.054202,-70.715064,44.054202",
     "geom:latitude":44.054202,
     "geom:longitude":-70.715064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 N High St",
     "sg:city":"Bridgton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387928243,
-    "wof:lastmodified":1449059393,
+    "wof:lastmodified":1466587263,
     "wof:name":"Mary Stiles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.715064,44.054202,-70.715064,44.054202],
+  "bbox": [
+    -70.715064,
+    44.054202,
+    -70.715064,
+    44.054202
+],
   "geometry": {"coordinates":[-70.715064,44.054202],"type":"Point"}
 }

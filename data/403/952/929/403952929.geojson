@@ -2,13 +2,14 @@
   "id": 403952929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.264716,43.704477,-70.264716,43.704477",
     "geom:latitude":43.704477,
     "geom:longitude":-70.264716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Slocum Dr",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403952929,
-    "wof:lastmodified":1449055568,
+    "wof:lastmodified":1466587159,
     "wof:name":"Neurological Rehab Therapy",
     "wof:parent_id":85816239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [-70.264716,43.704477,-70.264716,43.704477],
-  "geometry": {"coordinates":[-70.264716,43.704477],"type":"Point"}
+  "bbox": [
+    -70.264716,
+    43.704477,
+    -70.264716,
+    43.704477
+],
+  "geometry": {"coordinates":[-70.26471600000001,43.704477],"type":"Point"}
 }

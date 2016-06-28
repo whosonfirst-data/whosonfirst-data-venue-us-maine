@@ -2,13 +2,14 @@
   "id": 387629313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.232055,43.811698,-70.232055,43.811698",
     "geom:latitude":43.811698,
     "geom:longitude":-70.232055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Walnut Hill Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387629313,
-    "wof:lastmodified":1449059016,
+    "wof:lastmodified":1466585791,
     "wof:name":"Toots Ice Cream",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "soda"
     ]
 },
-  "bbox": [-70.232055,43.811698,-70.232055,43.811698],
+  "bbox": [
+    -70.232055,
+    43.811698,
+    -70.232055,
+    43.811698
+],
   "geometry": {"coordinates":[-70.232055,43.811698],"type":"Point"}
 }

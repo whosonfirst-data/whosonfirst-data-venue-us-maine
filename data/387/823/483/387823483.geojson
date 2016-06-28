@@ -2,13 +2,14 @@
   "id": 387823483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.267602,43.631083,-70.267602,43.631083",
     "geom:latitude":43.631083,
     "geom:longitude":-70.267602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"884 Broadway",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387823483,
-    "wof:lastmodified":1449059888,
+    "wof:lastmodified":1466587107,
     "wof:name":"Barbara Harding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-70.267602,43.631083,-70.267602,43.631083],
+  "bbox": [
+    -70.267602,
+    43.631083,
+    -70.267602,
+    43.631083
+],
   "geometry": {"coordinates":[-70.267602,43.631083],"type":"Point"}
 }

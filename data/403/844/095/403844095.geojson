@@ -2,13 +2,14 @@
   "id": 403844095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.502135,43.496609,-70.502135,43.496609",
     "geom:latitude":43.496609,
     "geom:longitude":-70.502135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Fox Hollow Dr",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403844095,
-    "wof:lastmodified":1449055201,
+    "wof:lastmodified":1466586697,
     "wof:name":"Fox Hollow Cabins Inc",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cabin"
     ]
 },
-  "bbox": [-70.502135,43.496609,-70.502135,43.496609],
+  "bbox": [
+    -70.502135,
+    43.496609,
+    -70.502135,
+    43.496609
+],
   "geometry": {"coordinates":[-70.502135,43.496609],"type":"Point"}
 }

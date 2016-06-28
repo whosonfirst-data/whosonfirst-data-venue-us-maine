@@ -2,13 +2,14 @@
   "id": 387944763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.004783,43.959798,-70.004783,43.959798",
     "geom:latitude":43.959798,
     "geom:longitude":-70.004783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"643 Lewiston Rd",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387944763,
-    "wof:lastmodified":1449058013,
+    "wof:lastmodified":1466587334,
     "wof:name":"Transcription Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "disc"
     ]
 },
-  "bbox": [-70.004783,43.959798,-70.004783,43.959798],
+  "bbox": [
+    -70.004783,
+    43.959798,
+    -70.004783,
+    43.959798
+],
   "geometry": {"coordinates":[-70.004783,43.959798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403829453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.675211,44.92151,-68.675211,44.92151",
     "geom:latitude":44.92151,
     "geom:longitude":-68.675211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Stillwater Ave",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403829453,
-    "wof:lastmodified":1449055875,
+    "wof:lastmodified":1466586421,
     "wof:name":"Global Storage",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-68.675211,44.92151,-68.675211,44.92151],
+  "bbox": [
+    -68.675211,
+    44.92151,
+    -68.675211,
+    44.92151
+],
   "geometry": {"coordinates":[-68.675211,44.92151],"type":"Point"}
 }

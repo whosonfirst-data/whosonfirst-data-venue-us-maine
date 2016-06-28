@@ -2,13 +2,14 @@
   "id": 404183325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.354028,43.445737,-70.354028,43.445737",
     "geom:latitude":43.445737,
     "geom:longitude":-70.354028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Yates St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404183325,
-    "wof:lastmodified":1449039780,
+    "wof:lastmodified":1466586930,
     "wof:name":"B P Builders Inc",
     "wof:parent_id":85820287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.354028,43.445737,-70.354028,43.445737],
+  "bbox": [
+    -70.354028,
+    43.445737,
+    -70.354028,
+    43.445737
+],
   "geometry": {"coordinates":[-70.354028,43.445737],"type":"Point"}
 }

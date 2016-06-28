@@ -2,13 +2,14 @@
   "id": 387860143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.263441,43.983297,-70.263441,43.983297",
     "geom:latitude":43.983297,
     "geom:longitude":-70.263441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 Cobbs Bridge Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387860143,
-    "wof:lastmodified":1449057797,
+    "wof:lastmodified":1466587180,
     "wof:name":"Maine Garden Arbors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "furnishing"
     ]
 },
-  "bbox": [-70.263441,43.983297,-70.263441,43.983297],
+  "bbox": [
+    -70.263441,
+    43.983297,
+    -70.263441,
+    43.983297
+],
   "geometry": {"coordinates":[-70.263441,43.983297],"type":"Point"}
 }

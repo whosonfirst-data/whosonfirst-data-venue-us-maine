@@ -2,13 +2,14 @@
   "id": 403823805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.957937,46.789773,-67.957937,46.789773",
     "geom:latitude":46.789773,
     "geom:longitude":-67.957937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 E Presque Isle Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403823805,
-    "wof:lastmodified":1449055943,
+    "wof:lastmodified":1466586326,
     "wof:name":"Crown E-Realty",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.957937,46.789773,-67.957937,46.789773],
+  "bbox": [
+    -67.957937,
+    46.789773,
+    -67.957937,
+    46.789773
+],
   "geometry": {"coordinates":[-67.957937,46.789773],"type":"Point"}
 }

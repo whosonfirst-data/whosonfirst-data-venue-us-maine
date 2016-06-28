@@ -2,13 +2,14 @@
   "id": 404166237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.585,45.628447,-68.585,45.628447",
     "geom:latitude":45.628447,
     "geom:longitude":-68.585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Main St",
     "sg:city":"East Millinocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404166237,
-    "wof:lastmodified":1449039804,
+    "wof:lastmodified":1466586873,
     "wof:name":"North Woods Animal Clinic Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-68.585,45.628447,-68.585,45.628447],
-  "geometry": {"coordinates":[-68.585,45.628447],"type":"Point"}
+  "bbox": [
+    -68.585,
+    45.628447,
+    -68.585,
+    45.628447
+],
+  "geometry": {"coordinates":[-68.58499999999999,45.628447],"type":"Point"}
 }

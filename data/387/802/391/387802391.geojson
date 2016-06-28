@@ -2,13 +2,14 @@
   "id": 387802391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.357593,43.578479,-70.357593,43.578479",
     "geom:latitude":43.578479,
     "geom:longitude":-70.357593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Washington Ave",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387802391,
-    "wof:lastmodified":1449059209,
+    "wof:lastmodified":1466587050,
     "wof:name":"Rts Packaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "partition"
     ]
 },
-  "bbox": [-70.357593,43.578479,-70.357593,43.578479],
-  "geometry": {"coordinates":[-70.357593,43.578479],"type":"Point"}
+  "bbox": [
+    -70.357593,
+    43.578479,
+    -70.357593,
+    43.578479
+],
+  "geometry": {"coordinates":[-70.35759299999999,43.578479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387568437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.797604,44.425021,-70.797604,44.425021",
     "geom:latitude":44.425021,
     "geom:longitude":-70.797604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Mayville Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387568437,
-    "wof:lastmodified":1449056026,
+    "wof:lastmodified":1466585875,
     "wof:name":"Inn At The Rostay",
     "wof:parent_id":85837355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.797604,44.425021,-70.797604,44.425021],
-  "geometry": {"coordinates":[-70.797604,44.425021],"type":"Point"}
+  "bbox": [
+    -70.797604,
+    44.425021,
+    -70.797604,
+    44.425021
+],
+  "geometry": {"coordinates":[-70.79760400000001,44.425021],"type":"Point"}
 }

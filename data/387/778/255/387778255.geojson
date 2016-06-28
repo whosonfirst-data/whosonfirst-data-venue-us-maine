@@ -2,13 +2,14 @@
   "id": 387778255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.620992,43.19414,-70.620992,43.19414",
     "geom:latitude":43.19414,
     "geom:longitude":-70.620992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1294 US Hwy 1",
     "sg:city":"Cape Neddick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387778255,
-    "wof:lastmodified":1449056194,
+    "wof:lastmodified":1466586990,
     "wof:name":"ABC Transportation",
     "wof:parent_id":85859377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.620992,43.19414,-70.620992,43.19414],
+  "bbox": [
+    -70.620992,
+    43.19414,
+    -70.620992,
+    43.19414
+],
   "geometry": {"coordinates":[-70.620992,43.19414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403822175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.274652,43.628841,-70.274652,43.628841",
     "geom:latitude":43.628841,
     "geom:longitude":-70.274652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1034 Broadway",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403822175,
-    "wof:lastmodified":1449055911,
+    "wof:lastmodified":1466586301,
     "wof:name":"Travel Planners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-70.274652,43.628841,-70.274652,43.628841],
+  "bbox": [
+    -70.274652,
+    43.628841,
+    -70.274652,
+    43.628841
+],
   "geometry": {"coordinates":[-70.274652,43.628841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403790087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.254116,43.65575,-70.254116,43.65575",
     "geom:latitude":43.65575,
     "geom:longitude":-70.254116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Wharf St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403790087,
-    "wof:lastmodified":1449055654,
+    "wof:lastmodified":1466585807,
     "wof:name":"Iguana Lounge",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.254116,43.65575,-70.254116,43.65575],
+  "bbox": [
+    -70.254116,
+    43.65575,
+    -70.254116,
+    43.65575
+],
   "geometry": {"coordinates":[-70.254116,43.65575],"type":"Point"}
 }

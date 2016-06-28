@@ -2,13 +2,14 @@
   "id": 387899071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.258372,43.653293,-70.258372,43.653293",
     "geom:latitude":43.653293,
     "geom:longitude":-70.258372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Maple St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387899071,
-    "wof:lastmodified":1449059728,
+    "wof:lastmodified":1466587230,
     "wof:name":"Anne Riesenberg",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-70.258372,43.653293,-70.258372,43.653293],
-  "geometry": {"coordinates":[-70.258372,43.653293],"type":"Point"}
+  "bbox": [
+    -70.258372,
+    43.653293,
+    -70.258372,
+    43.653293
+],
+  "geometry": {"coordinates":[-70.25837199999999,43.653293],"type":"Point"}
 }

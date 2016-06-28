@@ -2,13 +2,14 @@
   "id": 403738891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.29276,45.1689,-67.29276,45.1689",
     "geom:latitude":45.1689,
     "geom:longitude":-67.29276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"334 North St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403738891,
-    "wof:lastmodified":1449055586,
+    "wof:lastmodified":1466586048,
     "wof:name":"Calais Computer Plus Satellite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-67.29276,45.1689,-67.29276,45.1689],
+  "bbox": [
+    -67.29276,
+    45.1689,
+    -67.29276,
+    45.1689
+],
   "geometry": {"coordinates":[-67.29276,45.1689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403867993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.336239,44.28572,-68.336239,44.28572",
     "geom:latitude":44.28572,
     "geom:longitude":-68.336239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 E Ridge Rd",
     "sg:city":"Surry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403867993,
-    "wof:lastmodified":1449055212,
+    "wof:lastmodified":1466586682,
     "wof:name":"Ridge Road Farm",
     "wof:parent_id":85832161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-68.336239,44.28572,-68.336239,44.28572],
-  "geometry": {"coordinates":[-68.336239,44.28572],"type":"Point"}
+  "bbox": [
+    -68.336239,
+    44.28572,
+    -68.336239,
+    44.28572
+],
+  "geometry": {"coordinates":[-68.33623900000001,44.28572],"type":"Point"}
 }

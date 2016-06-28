@@ -2,13 +2,14 @@
   "id": 404192005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.484697,43.469229,-70.484697,43.469229",
     "geom:latitude":43.469229,
     "geom:longitude":-70.484697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"563 Elm St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404192005,
-    "wof:lastmodified":1449039979,
+    "wof:lastmodified":1466586815,
     "wof:name":"Crystal Games",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-70.484697,43.469229,-70.484697,43.469229],
+  "bbox": [
+    -70.484697,
+    43.469229,
+    -70.484697,
+    43.469229
+],
   "geometry": {"coordinates":[-70.484697,43.469229],"type":"Point"}
 }

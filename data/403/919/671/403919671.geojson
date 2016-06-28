@@ -2,13 +2,14 @@
   "id": 403919671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.205491,44.387309,-68.205491,44.387309",
     "geom:latitude":44.387309,
     "geom:longitude":-68.205491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Mount Desert St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403919671,
-    "wof:lastmodified":1449055637,
+    "wof:lastmodified":1466586980,
     "wof:name":"Acadia Motel Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.205491,44.387309,-68.205491,44.387309],
-  "geometry": {"coordinates":[-68.205491,44.387309],"type":"Point"}
+  "bbox": [
+    -68.205491,
+    44.387309,
+    -68.205491,
+    44.387309
+],
+  "geometry": {"coordinates":[-68.20549099999999,44.387309],"type":"Point"}
 }

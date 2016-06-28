@@ -2,13 +2,14 @@
   "id": 403819321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.695539,44.834789,-68.695539,44.834789",
     "geom:latitude":44.834789,
     "geom:longitude":-68.695539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Riverside Dr",
     "sg:city":"Eddington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403819321,
-    "wof:lastmodified":1449054955,
+    "wof:lastmodified":1466586252,
     "wof:name":"Mc Rae Welding Service",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-68.695539,44.834789,-68.695539,44.834789],
+  "bbox": [
+    -68.695539,
+    44.834789,
+    -68.695539,
+    44.834789
+],
   "geometry": {"coordinates":[-68.695539,44.834789],"type":"Point"}
 }

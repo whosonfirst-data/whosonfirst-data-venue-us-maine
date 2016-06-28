@@ -2,13 +2,14 @@
   "id": 403704313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.01561,46.673059,-68.01561,46.673059",
     "geom:latitude":46.673059,
     "geom:longitude":-68.01561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Main St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403704313,
-    "wof:lastmodified":1449054988,
+    "wof:lastmodified":1466586261,
     "wof:name":"University Of Maine At Presque",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.01561,46.673059,-68.01561,46.673059],
+  "bbox": [
+    -68.01561,
+    46.673059,
+    -68.01561,
+    46.673059
+],
   "geometry": {"coordinates":[-68.01561,46.673059],"type":"Point"}
 }

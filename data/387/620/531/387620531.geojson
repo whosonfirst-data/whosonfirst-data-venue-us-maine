@@ -2,13 +2,14 @@
   "id": 387620531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.217054,44.099881,-70.217054,44.099881",
     "geom:latitude":44.099881,
     "geom:longitude":-70.217054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Middle St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387620531,
-    "wof:lastmodified":1449059588,
+    "wof:lastmodified":1466586625,
     "wof:name":"Cmmc School Of Nursing",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurse"
     ]
 },
-  "bbox": [-70.217054,44.099881,-70.217054,44.099881],
+  "bbox": [
+    -70.217054,
+    44.099881,
+    -70.217054,
+    44.099881
+],
   "geometry": {"coordinates":[-70.217054,44.099881],"type":"Point"}
 }

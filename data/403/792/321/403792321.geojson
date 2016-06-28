@@ -2,13 +2,14 @@
   "id": 403792321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.19859,43.80506,-70.19859,43.80506",
     "geom:latitude":43.80506,
     "geom:longitude":-70.19859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 W Main St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403792321,
-    "wof:lastmodified":1449054925,
+    "wof:lastmodified":1466585838,
     "wof:name":"New England Planning Concepts",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-70.19859,43.80506,-70.19859,43.80506],
+  "bbox": [
+    -70.19859,
+    43.80506,
+    -70.19859,
+    43.80506
+],
   "geometry": {"coordinates":[-70.19859,43.80506],"type":"Point"}
 }

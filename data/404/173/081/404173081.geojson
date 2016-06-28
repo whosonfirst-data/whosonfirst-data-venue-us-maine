@@ -2,13 +2,14 @@
   "id": 404173081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.457483,44.531159,-70.457483,44.531159",
     "geom:latitude":44.531159,
     "geom:longitude":-70.457483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Main St",
     "sg:city":"Dixfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404173081,
-    "wof:lastmodified":1449039284,
+    "wof:lastmodified":1466586789,
     "wof:name":"Dixfield House Of Pizza",
     "wof:parent_id":85814509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.457483,44.531159,-70.457483,44.531159],
+  "bbox": [
+    -70.457483,
+    44.531159,
+    -70.457483,
+    44.531159
+],
   "geometry": {"coordinates":[-70.457483,44.531159],"type":"Point"}
 }

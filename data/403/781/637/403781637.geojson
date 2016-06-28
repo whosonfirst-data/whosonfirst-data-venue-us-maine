@@ -2,13 +2,14 @@
   "id": 403781637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.14558,46.681976,-68.14558,46.681976",
     "geom:latitude":46.681976,
     "geom:longitude":-68.14558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1518 Main St",
     "sg:city":"Mapleton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403781637,
-    "wof:lastmodified":1449054886,
+    "wof:lastmodified":1466585702,
     "wof:name":"Mapleton Hardware",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outboard"
     ]
 },
-  "bbox": [-68.14558,46.681976,-68.14558,46.681976],
+  "bbox": [
+    -68.14558,
+    46.681976,
+    -68.14558,
+    46.681976
+],
   "geometry": {"coordinates":[-68.14558,46.681976],"type":"Point"}
 }

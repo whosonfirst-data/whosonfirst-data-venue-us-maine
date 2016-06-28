@@ -2,13 +2,14 @@
   "id": 387783141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.817112,44.787862,-68.817112,44.787862",
     "geom:latitude":44.787862,
     "geom:longitude":-68.817112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387783141,
-    "wof:lastmodified":1449056238,
+    "wof:lastmodified":1466587001,
     "wof:name":"Advantage Gases & Tools",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welding"
     ]
 },
-  "bbox": [-68.817112,44.787862,-68.817112,44.787862],
-  "geometry": {"coordinates":[-68.817112,44.787862],"type":"Point"}
+  "bbox": [
+    -68.817112,
+    44.787862,
+    -68.817112,
+    44.787862
+],
+  "geometry": {"coordinates":[-68.81711199999999,44.787862],"type":"Point"}
 }

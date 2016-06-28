@@ -2,13 +2,14 @@
   "id": 387905857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.354218,43.585248,-70.354218,43.585248",
     "geom:latitude":43.585248,
     "geom:longitude":-70.354218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Willowdale Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387905857,
-    "wof:lastmodified":1449057595,
+    "wof:lastmodified":1466587318,
     "wof:name":"Top Knotch",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-70.354218,43.585248,-70.354218,43.585248],
+  "bbox": [
+    -70.354218,
+    43.585248,
+    -70.354218,
+    43.585248
+],
   "geometry": {"coordinates":[-70.354218,43.585248],"type":"Point"}
 }

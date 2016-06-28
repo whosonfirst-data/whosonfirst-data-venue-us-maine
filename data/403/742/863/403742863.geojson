@@ -2,13 +2,14 @@
   "id": 403742863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.261429,44.068723,-70.261429,44.068723",
     "geom:latitude":44.068723,
     "geom:longitude":-70.261429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Goldthwaite Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403742863,
-    "wof:lastmodified":1449054721,
+    "wof:lastmodified":1466586097,
     "wof:name":"Mid Maine Waste Action Corp",
     "wof:parent_id":85831033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "waste"
     ]
 },
-  "bbox": [-70.261429,44.068723,-70.261429,44.068723],
-  "geometry": {"coordinates":[-70.261429,44.068723],"type":"Point"}
+  "bbox": [
+    -70.261429,
+    44.068723,
+    -70.261429,
+    44.068723
+],
+  "geometry": {"coordinates":[-70.26142900000001,44.068723],"type":"Point"}
 }

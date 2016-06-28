@@ -2,13 +2,14 @@
   "id": 403948151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.171522,44.078708,-70.171522,44.078708",
     "geom:latitude":44.078708,
     "geom:longitude":-70.171522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Westminster St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403948151,
-    "wof:lastmodified":1449055680,
+    "wof:lastmodified":1466587060,
     "wof:name":"Door Systems Corp",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-70.171522,44.078708,-70.171522,44.078708],
+  "bbox": [
+    -70.171522,
+    44.078708,
+    -70.171522,
+    44.078708
+],
   "geometry": {"coordinates":[-70.171522,44.078708],"type":"Point"}
 }

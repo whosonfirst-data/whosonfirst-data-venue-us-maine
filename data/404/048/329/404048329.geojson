@@ -2,13 +2,14 @@
   "id": 404048329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.239799,44.602308,-70.239799,44.602308",
     "geom:latitude":44.602308,
     "geom:longitude":-70.239799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Weld Rd",
     "sg:city":"Wilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404048329,
-    "wof:lastmodified":1449039433,
+    "wof:lastmodified":1466586262,
     "wof:name":"Atlantic Hard Chrome",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-70.239799,44.602308,-70.239799,44.602308],
+  "bbox": [
+    -70.239799,
+    44.602308,
+    -70.239799,
+    44.602308
+],
   "geometry": {"coordinates":[-70.239799,44.602308],"type":"Point"}
 }

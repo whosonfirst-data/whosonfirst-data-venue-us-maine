@@ -2,13 +2,14 @@
   "id": 404164619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.194828,44.045857,-70.194828,44.045857",
     "geom:latitude":44.045857,
     "geom:longitude":-70.194828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1471 Riverside Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404164619,
-    "wof:lastmodified":1449039159,
+    "wof:lastmodified":1466586783,
     "wof:name":"Stonedesign",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-70.194828,44.045857,-70.194828,44.045857],
+  "bbox": [
+    -70.194828,
+    44.045857,
+    -70.194828,
+    44.045857
+],
   "geometry": {"coordinates":[-70.194828,44.045857],"type":"Point"}
 }

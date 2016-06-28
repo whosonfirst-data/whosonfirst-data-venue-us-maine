@@ -2,13 +2,14 @@
   "id": 387971191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.237979,43.643558,-70.237979,43.643558",
     "geom:latitude":43.643558,
     "geom:longitude":-70.237979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Broadway",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387971191,
-    "wof:lastmodified":1449058032,
+    "wof:lastmodified":1466587305,
     "wof:name":"South Portland Boys & Grl Club",
     "wof:parent_id":85867975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-70.237979,43.643558,-70.237979,43.643558],
+  "bbox": [
+    -70.237979,
+    43.643558,
+    -70.237979,
+    43.643558
+],
   "geometry": {"coordinates":[-70.237979,43.643558],"type":"Point"}
 }

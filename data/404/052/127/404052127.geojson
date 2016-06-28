@@ -2,13 +2,14 @@
   "id": 404052127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.379885,44.00456,-70.379885,44.00456",
     "geom:latitude":44.00456,
     "geom:longitude":-70.379885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Colbath Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404052127,
-    "wof:lastmodified":1449039558,
+    "wof:lastmodified":1466586326,
     "wof:name":"Lafrance Inc",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.379885,44.00456,-70.379885,44.00456],
+  "bbox": [
+    -70.379885,
+    44.00456,
+    -70.379885,
+    44.00456
+],
   "geometry": {"coordinates":[-70.379885,44.00456],"type":"Point"}
 }

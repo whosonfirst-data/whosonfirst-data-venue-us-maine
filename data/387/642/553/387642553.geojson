@@ -2,13 +2,14 @@
   "id": 387642553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.243101,44.094703,-70.243101,44.094703",
     "geom:latitude":44.094703,
     "geom:longitude":-70.243101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Russell Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387642553,
-    "wof:lastmodified":1449056333,
+    "wof:lastmodified":1466585909,
     "wof:name":"Ronald Nichols",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.243101,44.094703,-70.243101,44.094703],
+  "bbox": [
+    -70.243101,
+    44.094703,
+    -70.243101,
+    44.094703
+],
   "geometry": {"coordinates":[-70.243101,44.094703],"type":"Point"}
 }

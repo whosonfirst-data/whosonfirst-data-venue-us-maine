@@ -2,13 +2,14 @@
   "id": 387715675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.446584,43.93704,-70.446584,43.93704",
     "geom:latitude":43.93704,
     "geom:longitude":-70.446584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Webbs Mills Rd",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":387715675,
-    "wof:lastmodified":1449059150,
+    "wof:lastmodified":1466586794,
     "wof:name":"Jordan Small School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.446584,43.93704,-70.446584,43.93704],
+  "bbox": [
+    -70.446584,
+    43.93704,
+    -70.446584,
+    43.93704
+],
   "geometry": {"coordinates":[-70.446584,43.93704],"type":"Point"}
 }

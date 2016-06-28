@@ -2,13 +2,14 @@
   "id": 404012627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.790154,44.405546,-70.790154,44.405546",
     "geom:latitude":44.405546,
     "geom:longitude":-70.790154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Main St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404012627,
-    "wof:lastmodified":1449040213,
+    "wof:lastmodified":1466585822,
     "wof:name":"Leslie Bonney",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.790154,44.405546,-70.790154,44.405546],
+  "bbox": [
+    -70.790154,
+    44.405546,
+    -70.790154,
+    44.405546
+],
   "geometry": {"coordinates":[-70.790154,44.405546],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387972443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.064702,44.001301,-70.064702,44.001301",
     "geom:latitude":44.001301,
     "geom:longitude":-70.064702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"634 Lisbon St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387972443,
-    "wof:lastmodified":1449058016,
+    "wof:lastmodified":1466587307,
     "wof:name":"Big Apple",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.064702,44.001301,-70.064702,44.001301],
+  "bbox": [
+    -70.064702,
+    44.001301,
+    -70.064702,
+    44.001301
+],
   "geometry": {"coordinates":[-70.064702,44.001301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387697213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225105,44.121346,-70.225105,44.121346",
     "geom:latitude":44.121346,
     "geom:longitude":-70.225105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387697213,
-    "wof:lastmodified":1449058507,
+    "wof:lastmodified":1466586831,
     "wof:name":"WCNM",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-70.225105,44.121346,-70.225105,44.121346],
+  "bbox": [
+    -70.225105,
+    44.121346,
+    -70.225105,
+    44.121346
+],
   "geometry": {"coordinates":[-70.225105,44.121346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387630757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.740191,44.825609,-68.740191,44.825609",
     "geom:latitude":44.825609,
     "geom:longitude":-68.740191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"293 Hogan Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387630757,
-    "wof:lastmodified":1449057458,
+    "wof:lastmodified":1466585814,
     "wof:name":"Quirk Chevrolet Parts",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-68.740191,44.825609,-68.740191,44.825609],
+  "bbox": [
+    -68.740191,
+    44.825609,
+    -68.740191,
+    44.825609
+],
   "geometry": {"coordinates":[-68.740191,44.825609],"type":"Point"}
 }

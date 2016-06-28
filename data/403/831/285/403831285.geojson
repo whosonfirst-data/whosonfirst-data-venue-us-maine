@@ -2,13 +2,14 @@
   "id": 403831285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.993478,43.725505,-69.993478,43.725505",
     "geom:latitude":43.725505,
     "geom:longitude":-69.993478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Sandy Ln",
     "sg:city":"Bailey Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403831285,
-    "wof:lastmodified":1449055425,
+    "wof:lastmodified":1466586451,
     "wof:name":"Victoria Muller",
     "wof:parent_id":85855607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-69.993478,43.725505,-69.993478,43.725505],
+  "bbox": [
+    -69.993478,
+    43.725505,
+    -69.993478,
+    43.725505
+],
   "geometry": {"coordinates":[-69.993478,43.725505],"type":"Point"}
 }

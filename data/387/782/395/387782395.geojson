@@ -2,13 +2,14 @@
   "id": 387782395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.787453,44.313967,-69.787453,44.313967",
     "geom:latitude":44.313967,
     "geom:longitude":-69.787453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Cushman St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387782395,
-    "wof:lastmodified":1449056099,
+    "wof:lastmodified":1466587004,
     "wof:name":"Kennebec Valley Board Realtors",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.787453,44.313967,-69.787453,44.313967],
+  "bbox": [
+    -69.787453,
+    44.313967,
+    -69.787453,
+    44.313967
+],
   "geometry": {"coordinates":[-69.787453,44.313967],"type":"Point"}
 }

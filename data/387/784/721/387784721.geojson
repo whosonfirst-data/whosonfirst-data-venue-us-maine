@@ -2,13 +2,14 @@
   "id": 387784721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.474603,43.385459,-70.474603,43.385459",
     "geom:latitude":43.385459,
     "geom:longitude":-70.474603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Arundel Rd",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387784721,
-    "wof:lastmodified":1449058650,
+    "wof:lastmodified":1466587006,
     "wof:name":"Avastar Media Corp",
     "wof:parent_id":85852443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-70.474603,43.385459,-70.474603,43.385459],
+  "bbox": [
+    -70.474603,
+    43.385459,
+    -70.474603,
+    43.385459
+],
   "geometry": {"coordinates":[-70.474603,43.385459],"type":"Point"}
 }

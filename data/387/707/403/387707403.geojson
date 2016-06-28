@@ -2,13 +2,14 @@
   "id": 387707403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.018412,44.431608,-69.018412,44.431608",
     "geom:latitude":44.431608,
     "geom:longitude":-69.018412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Waldo Ave",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387707403,
-    "wof:lastmodified":1449059330,
+    "wof:lastmodified":1466586762,
     "wof:name":"Coastal Med Tech Inc Belfast",
     "wof:parent_id":85808235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [-69.018412,44.431608,-69.018412,44.431608],
+  "bbox": [
+    -69.018412,
+    44.431608,
+    -69.018412,
+    44.431608
+],
   "geometry": {"coordinates":[-69.018412,44.431608],"type":"Point"}
 }

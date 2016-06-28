@@ -2,13 +2,14 @@
   "id": 404069493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.379812,46.663538,-68.379812,46.663538",
     "geom:latitude":46.663538,
     "geom:longitude":-68.379812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"489 Sheridan Rd",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404069493,
-    "wof:lastmodified":1449039885,
+    "wof:lastmodified":1466586585,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.379812,46.663538,-68.379812,46.663538],
+  "bbox": [
+    -68.379812,
+    46.663538,
+    -68.379812,
+    46.663538
+],
   "geometry": {"coordinates":[-68.379812,46.663538],"type":"Point"}
 }

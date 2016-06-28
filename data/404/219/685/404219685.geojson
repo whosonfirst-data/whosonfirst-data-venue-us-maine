@@ -2,13 +2,14 @@
   "id": 404219685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.725129,43.647383,-70.725129,43.647383",
     "geom:latitude":43.647383,
     "geom:longitude":-70.725129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Lazy Brook Dr",
     "sg:city":"North Waterboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404219685,
-    "wof:lastmodified":1449040277,
+    "wof:lastmodified":1466587089,
     "wof:name":"Old Landmarks The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.725129,43.647383,-70.725129,43.647383],
+  "bbox": [
+    -70.725129,
+    43.647383,
+    -70.725129,
+    43.647383
+],
   "geometry": {"coordinates":[-70.725129,43.647383],"type":"Point"}
 }

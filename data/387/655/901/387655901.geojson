@@ -2,13 +2,14 @@
   "id": 387655901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.370897,43.674468,-70.370897,43.674468",
     "geom:latitude":43.674468,
     "geom:longitude":-70.370897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 W Pleasant St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387655901,
-    "wof:lastmodified":1449058294,
+    "wof:lastmodified":1466586058,
     "wof:name":"John Poitras Signs",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.370897,43.674468,-70.370897,43.674468],
+  "bbox": [
+    -70.370897,
+    43.674468,
+    -70.370897,
+    43.674468
+],
   "geometry": {"coordinates":[-70.370897,43.674468],"type":"Point"}
 }

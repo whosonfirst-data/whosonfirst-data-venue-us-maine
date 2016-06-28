@@ -2,13 +2,14 @@
   "id": 387881011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.595101,43.390284,-70.595101,43.390284",
     "geom:latitude":43.390284,
     "geom:longitude":-70.595101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Wildflower Ln",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387881011,
-    "wof:lastmodified":1449058313,
+    "wof:lastmodified":1466587295,
     "wof:name":"Southern Maine Drywall",
     "wof:parent_id":85817893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.595101,43.390284,-70.595101,43.390284],
+  "bbox": [
+    -70.595101,
+    43.390284,
+    -70.595101,
+    43.390284
+],
   "geometry": {"coordinates":[-70.595101,43.390284],"type":"Point"}
 }

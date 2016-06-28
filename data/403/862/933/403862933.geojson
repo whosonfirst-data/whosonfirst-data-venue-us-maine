@@ -2,13 +2,14 @@
   "id": 403862933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242198,43.649671,-70.242198,43.649671",
     "geom:latitude":43.649671,
     "geom:longitude":-70.242198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403862933,
-    "wof:lastmodified":1449056012,
+    "wof:lastmodified":1466586862,
     "wof:name":"Fenton Marine Svc Inc",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-70.242198,43.649671,-70.242198,43.649671],
+  "bbox": [
+    -70.242198,
+    43.649671,
+    -70.242198,
+    43.649671
+],
   "geometry": {"coordinates":[-70.242198,43.649671],"type":"Point"}
 }

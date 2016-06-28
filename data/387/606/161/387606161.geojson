@@ -2,13 +2,14 @@
   "id": 387606161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.120748,44.048212,-70.120748,44.048212",
     "geom:latitude":44.048212,
     "geom:longitude":-70.120748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Lisbon St",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387606161,
-    "wof:lastmodified":1449056690,
+    "wof:lastmodified":1466586427,
     "wof:name":"George Robitaille Excavation",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.120748,44.048212,-70.120748,44.048212],
-  "geometry": {"coordinates":[-70.120748,44.048212],"type":"Point"}
+  "bbox": [
+    -70.120748,
+    44.048212,
+    -70.120748,
+    44.048212
+],
+  "geometry": {"coordinates":[-70.12074800000001,44.048212],"type":"Point"}
 }

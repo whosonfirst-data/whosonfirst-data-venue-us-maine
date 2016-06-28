@@ -2,13 +2,14 @@
   "id": 404110009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.157474,44.691185,-70.157474,44.691185",
     "geom:latitude":44.691185,
     "geom:longitude":-70.157474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Fairbanks Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404110009,
-    "wof:lastmodified":1449039410,
+    "wof:lastmodified":1466586142,
     "wof:name":"Jehovahs Witnesses Farmington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.157474,44.691185,-70.157474,44.691185],
-  "geometry": {"coordinates":[-70.157474,44.691185],"type":"Point"}
+  "bbox": [
+    -70.157474,
+    44.691185,
+    -70.157474,
+    44.691185
+],
+  "geometry": {"coordinates":[-70.15747399999999,44.691185],"type":"Point"}
 }

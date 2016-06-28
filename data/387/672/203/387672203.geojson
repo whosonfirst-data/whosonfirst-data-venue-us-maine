@@ -2,13 +2,14 @@
   "id": 387672203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.301991,43.622441,-70.301991,43.622441",
     "geom:latitude":43.622441,
     "geom:longitude":-70.301991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"584 Main St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387672203,
-    "wof:lastmodified":1449056358,
+    "wof:lastmodified":1466586315,
     "wof:name":"Senior Financial Advisors Inc",
     "wof:parent_id":85852203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-70.301991,43.622441,-70.301991,43.622441],
+  "bbox": [
+    -70.301991,
+    43.622441,
+    -70.301991,
+    43.622441
+],
   "geometry": {"coordinates":[-70.301991,43.622441],"type":"Point"}
 }

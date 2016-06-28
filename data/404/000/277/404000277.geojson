@@ -2,13 +2,14 @@
   "id": 404000277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.235841,43.580259,-70.235841,43.580259",
     "geom:latitude":43.580259,
     "geom:longitude":-70.235841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Fowler Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404000277,
-    "wof:lastmodified":1449039207,
+    "wof:lastmodified":1466585673,
     "wof:name":"Legacy",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.235841,43.580259,-70.235841,43.580259],
-  "geometry": {"coordinates":[-70.235841,43.580259],"type":"Point"}
+  "bbox": [
+    -70.235841,
+    43.580259,
+    -70.235841,
+    43.580259
+],
+  "geometry": {"coordinates":[-70.23584099999999,43.580259],"type":"Point"}
 }

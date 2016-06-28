@@ -2,13 +2,14 @@
   "id": 404123259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.017555,44.934031,-67.017555,44.934031",
     "geom:latitude":44.934031,
     "geom:longitude":-67.017555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Kendall Head Rd",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404123259,
-    "wof:lastmodified":1449039373,
+    "wof:lastmodified":1466586345,
     "wof:name":"Charleton J Carpentry",
     "wof:parent_id":85843545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-67.017555,44.934031,-67.017555,44.934031],
+  "bbox": [
+    -67.017555,
+    44.934031,
+    -67.017555,
+    44.934031
+],
   "geometry": {"coordinates":[-67.017555,44.934031],"type":"Point"}
 }

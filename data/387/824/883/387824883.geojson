@@ -2,13 +2,14 @@
   "id": 387824883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.074986,44.054681,-70.074986,44.054681",
     "geom:latitude":44.054681,
     "geom:longitude":-70.074986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Bowdoinham Rd",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387824883,
-    "wof:lastmodified":1449057455,
+    "wof:lastmodified":1466587111,
     "wof:name":"Rons Home Improvements",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.074986,44.054681,-70.074986,44.054681],
+  "bbox": [
+    -70.074986,
+    44.054681,
+    -70.074986,
+    44.054681
+],
   "geometry": {"coordinates":[-70.074986,44.054681],"type":"Point"}
 }

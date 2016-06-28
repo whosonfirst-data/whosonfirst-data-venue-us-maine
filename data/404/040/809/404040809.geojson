@@ -2,13 +2,14 @@
   "id": 404040809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.774436,44.229957,-69.774436,44.229957",
     "geom:latitude":44.229957,
     "geom:longitude":-69.774436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Water St",
     "sg:city":"Gardiner",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404040809,
-    "wof:lastmodified":1449040297,
+    "wof:lastmodified":1466586092,
     "wof:name":"A Knack For Nails",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-69.774436,44.229957,-69.774436,44.229957],
-  "geometry": {"coordinates":[-69.774436,44.229957],"type":"Point"}
+  "bbox": [
+    -69.774436,
+    44.229957,
+    -69.774436,
+    44.229957
+],
+  "geometry": {"coordinates":[-69.77443599999999,44.229957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403710215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.70277,44.05408,-70.70277,44.05408",
     "geom:latitude":44.05408,
     "geom:longitude":-70.70277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Main St",
     "sg:city":"Bridgton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403710215,
-    "wof:lastmodified":1449054715,
+    "wof:lastmodified":1466585712,
     "wof:name":"Bridgton Foreign Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.70277,44.05408,-70.70277,44.05408],
+  "bbox": [
+    -70.70277,
+    44.05408,
+    -70.70277,
+    44.05408
+],
   "geometry": {"coordinates":[-70.70277,44.05408],"type":"Point"}
 }

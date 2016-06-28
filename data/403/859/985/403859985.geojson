@@ -2,13 +2,14 @@
   "id": 403859985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.705385,43.117919,-70.705385,43.117919",
     "geom:latitude":43.117919,
     "geom:longitude":-70.705385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Lewis Rd",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403859985,
-    "wof:lastmodified":1449055558,
+    "wof:lastmodified":1466586757,
     "wof:name":"M & M Welding",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-70.705385,43.117919,-70.705385,43.117919],
-  "geometry": {"coordinates":[-70.705385,43.117919],"type":"Point"}
+  "bbox": [
+    -70.705385,
+    43.117919,
+    -70.705385,
+    43.117919
+],
+  "geometry": {"coordinates":[-70.70538500000001,43.117919],"type":"Point"}
 }

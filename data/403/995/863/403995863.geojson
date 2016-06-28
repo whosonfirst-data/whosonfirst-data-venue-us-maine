@@ -2,13 +2,14 @@
   "id": 403995863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.906997,44.462377,-68.906997,44.462377",
     "geom:latitude":44.462377,
     "geom:longitude":-68.906997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 E Main St",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403995863,
-    "wof:lastmodified":1449055825,
+    "wof:lastmodified":1466587175,
     "wof:name":"Treasures & Trash Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.906997,44.462377,-68.906997,44.462377],
+  "bbox": [
+    -68.906997,
+    44.462377,
+    -68.906997,
+    44.462377
+],
   "geometry": {"coordinates":[-68.906997,44.462377],"type":"Point"}
 }

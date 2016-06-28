@@ -2,13 +2,14 @@
   "id": 403896835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.156506,46.787774,-68.156506,46.787774",
     "geom:latitude":46.787774,
     "geom:longitude":-68.156506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Woodman St",
     "sg:city":"Washburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403896835,
-    "wof:lastmodified":1449055116,
+    "wof:lastmodified":1466586911,
     "wof:name":"Scott Appraisal Svc",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-68.156506,46.787774,-68.156506,46.787774],
-  "geometry": {"coordinates":[-68.156506,46.787774],"type":"Point"}
+  "bbox": [
+    -68.156506,
+    46.787774,
+    -68.156506,
+    46.787774
+],
+  "geometry": {"coordinates":[-68.15650599999999,46.787774],"type":"Point"}
 }

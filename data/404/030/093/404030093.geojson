@@ -2,13 +2,14 @@
   "id": 404030093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.455244,43.488172,-70.455244,43.488172",
     "geom:latitude":43.488172,
     "geom:longitude":-70.455244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Birch St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404030093,
-    "wof:lastmodified":1449039468,
+    "wof:lastmodified":1466586659,
     "wof:name":"Dave's Variety & Sandwich Shop",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.455244,43.488172,-70.455244,43.488172],
-  "geometry": {"coordinates":[-70.455244,43.488172],"type":"Point"}
+  "bbox": [
+    -70.455244,
+    43.488172,
+    -70.455244,
+    43.488172
+],
+  "geometry": {"coordinates":[-70.45524399999999,43.488172],"type":"Point"}
 }

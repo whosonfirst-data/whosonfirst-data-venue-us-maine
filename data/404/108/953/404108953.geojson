@@ -2,13 +2,14 @@
   "id": 404108953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.438424,43.495676,-70.438424,43.495676",
     "geom:latitude":43.495676,
     "geom:longitude":-70.438424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Lewis Ave",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404108953,
-    "wof:lastmodified":1449039109,
+    "wof:lastmodified":1466586127,
     "wof:name":"Maine Home Solutions",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "modular"
     ]
 },
-  "bbox": [-70.438424,43.495676,-70.438424,43.495676],
+  "bbox": [
+    -70.438424,
+    43.495676,
+    -70.438424,
+    43.495676
+],
   "geometry": {"coordinates":[-70.438424,43.495676],"type":"Point"}
 }

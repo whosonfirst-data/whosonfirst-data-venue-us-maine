@@ -2,13 +2,14 @@
   "id": 404206005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.328184,43.894379,-70.328184,43.894379",
     "geom:latitude":43.894379,
     "geom:longitude":-70.328184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Lewiston Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404206005,
-    "wof:lastmodified":1449039953,
+    "wof:lastmodified":1466587037,
     "wof:name":"Lifetime Muffler & Brake",
     "wof:parent_id":85815293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.328184,43.894379,-70.328184,43.894379],
-  "geometry": {"coordinates":[-70.328184,43.894379],"type":"Point"}
+  "bbox": [
+    -70.328184,
+    43.894379,
+    -70.328184,
+    43.894379
+],
+  "geometry": {"coordinates":[-70.32818399999999,43.894379],"type":"Point"}
 }

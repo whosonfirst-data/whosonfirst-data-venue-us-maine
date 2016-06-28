@@ -2,13 +2,14 @@
   "id": 403794419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.598472,44.591319,-69.598472,44.591319",
     "geom:latitude":44.591319,
     "geom:longitude":-69.598472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Western Ave",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403794419,
-    "wof:lastmodified":1449055270,
+    "wof:lastmodified":1466586647,
     "wof:name":"88 Pieces of Eight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.598472,44.591319,-69.598472,44.591319],
+  "bbox": [
+    -69.598472,
+    44.591319,
+    -69.598472,
+    44.591319
+],
   "geometry": {"coordinates":[-69.598472,44.591319],"type":"Point"}
 }

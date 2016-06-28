@@ -2,13 +2,14 @@
   "id": 387672367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.305058,43.691651,-70.305058,43.691651",
     "geom:latitude":43.691651,
     "geom:longitude":-70.305058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Dibiase St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387672367,
-    "wof:lastmodified":1449056358,
+    "wof:lastmodified":1466586318,
     "wof:name":"Peter Maietta Plumbing & Htg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.305058,43.691651,-70.305058,43.691651],
+  "bbox": [
+    -70.305058,
+    43.691651,
+    -70.305058,
+    43.691651
+],
   "geometry": {"coordinates":[-70.305058,43.691651],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404118973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.958507,43.834288,-69.958507,43.834288",
     "geom:latitude":43.834288,
     "geom:longitude":-69.958507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"391 Harpswell Neck Rd",
     "sg:city":"South Harpswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404118973,
-    "wof:lastmodified":1449040067,
+    "wof:lastmodified":1466586280,
     "wof:name":"Collins Body Shop",
     "wof:parent_id":85837691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-69.958507,43.834288,-69.958507,43.834288],
+  "bbox": [
+    -69.958507,
+    43.834288,
+    -69.958507,
+    43.834288
+],
   "geometry": {"coordinates":[-69.958507,43.834288],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387867113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.427354,44.102959,-69.427354,44.102959",
     "geom:latitude":44.102959,
     "geom:longitude":-69.427354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Atlantic Hwy",
     "sg:city":"Waldoboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387867113,
-    "wof:lastmodified":1449057754,
+    "wof:lastmodified":1466587194,
     "wof:name":"Dow Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.427354,44.102959,-69.427354,44.102959],
-  "geometry": {"coordinates":[-69.427354,44.102959],"type":"Point"}
+  "bbox": [
+    -69.427354,
+    44.102959,
+    -69.427354,
+    44.102959
+],
+  "geometry": {"coordinates":[-69.42735399999999,44.102959],"type":"Point"}
 }

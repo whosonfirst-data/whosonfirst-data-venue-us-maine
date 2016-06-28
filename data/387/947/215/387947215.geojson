@@ -2,13 +2,14 @@
   "id": 387947215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.96447,43.913522,-69.96447,43.913522",
     "geom:latitude":43.913522,
     "geom:longitude":-69.96447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Maine St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387947215,
-    "wof:lastmodified":1449058868,
+    "wof:lastmodified":1466587283,
     "wof:name":"Driscoll Tree Experts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-69.96447,43.913522,-69.96447,43.913522],
-  "geometry": {"coordinates":[-69.96447,43.913522],"type":"Point"}
+  "bbox": [
+    -69.96447,
+    43.913522,
+    -69.96447,
+    43.913522
+],
+  "geometry": {"coordinates":[-69.96447000000001,43.913522],"type":"Point"}
 }

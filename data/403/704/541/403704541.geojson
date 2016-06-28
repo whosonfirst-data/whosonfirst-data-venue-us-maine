@@ -2,13 +2,14 @@
   "id": 403704541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.325504,43.598973,-70.325504,43.598973",
     "geom:latitude":43.598973,
     "geom:longitude":-70.325504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 1st St",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403704541,
-    "wof:lastmodified":1449054988,
+    "wof:lastmodified":1466586287,
     "wof:name":"Fielding's Home Inspections",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-70.325504,43.598973,-70.325504,43.598973],
+  "bbox": [
+    -70.325504,
+    43.598973,
+    -70.325504,
+    43.598973
+],
   "geometry": {"coordinates":[-70.325504,43.598973],"type":"Point"}
 }

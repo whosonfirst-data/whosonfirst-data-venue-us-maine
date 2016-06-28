@@ -2,13 +2,14 @@
   "id": 387777099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.362611,43.676529,-70.362611,43.676529",
     "geom:latitude":43.676529,
     "geom:longitude":-70.362611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"776 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387777099,
-    "wof:lastmodified":1449058117,
+    "wof:lastmodified":1466586989,
     "wof:name":"Tony Boffa Music",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "musician"
     ]
 },
-  "bbox": [-70.362611,43.676529,-70.362611,43.676529],
+  "bbox": [
+    -70.362611,
+    43.676529,
+    -70.362611,
+    43.676529
+],
   "geometry": {"coordinates":[-70.362611,43.676529],"type":"Point"}
 }

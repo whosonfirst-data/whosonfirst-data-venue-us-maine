@@ -2,13 +2,14 @@
   "id": 403886525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.52021,44.280433,-70.52021,44.280433",
     "geom:latitude":44.280433,
     "geom:longitude":-70.52021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Farm View Ln",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403886525,
-    "wof:lastmodified":1449055374,
+    "wof:lastmodified":1466586869,
     "wof:name":"Gorham Bike & Ski",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "skiing"
     ]
 },
-  "bbox": [-70.52021,44.280433,-70.52021,44.280433],
-  "geometry": {"coordinates":[-70.52021,44.280433],"type":"Point"}
+  "bbox": [
+    -70.52021,
+    44.280433,
+    -70.52021,
+    44.280433
+],
+  "geometry": {"coordinates":[-70.52021000000001,44.280433],"type":"Point"}
 }

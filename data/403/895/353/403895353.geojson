@@ -2,13 +2,14 @@
   "id": 403895353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.754373,43.089344,-70.754373,43.089344",
     "geom:latitude":43.089344,
     "geom:longitude":-70.754373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Cook St",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403895353,
-    "wof:lastmodified":1449055196,
+    "wof:lastmodified":1466586983,
     "wof:name":"Janet Howe PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.754373,43.089344,-70.754373,43.089344],
+  "bbox": [
+    -70.754373,
+    43.089344,
+    -70.754373,
+    43.089344
+],
   "geometry": {"coordinates":[-70.754373,43.089344],"type":"Point"}
 }

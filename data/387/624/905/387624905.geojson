@@ -2,13 +2,14 @@
   "id": 387624905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.148934,43.924223,-70.148934,43.924223",
     "geom:latitude":43.924223,
     "geom:longitude":-70.148934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Beechwood Ln",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387624905,
-    "wof:lastmodified":1449058721,
+    "wof:lastmodified":1466585760,
     "wof:name":"Yankee Tradesmen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "other"
     ]
 },
-  "bbox": [-70.148934,43.924223,-70.148934,43.924223],
+  "bbox": [
+    -70.148934,
+    43.924223,
+    -70.148934,
+    43.924223
+],
   "geometry": {"coordinates":[-70.148934,43.924223],"type":"Point"}
 }

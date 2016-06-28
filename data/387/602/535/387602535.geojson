@@ -2,13 +2,14 @@
   "id": 387602535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.768238,43.1568,-70.768238,43.1568",
     "geom:latitude":43.1568,
     "geom:longitude":-70.768238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Goodwin Rd",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387602535,
-    "wof:lastmodified":1449057890,
+    "wof:lastmodified":1466586385,
     "wof:name":"Preservation Timberframing",
     "wof:parent_id":85816255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.768238,43.1568,-70.768238,43.1568],
+  "bbox": [
+    -70.768238,
+    43.1568,
+    -70.768238,
+    43.1568
+],
   "geometry": {"coordinates":[-70.768238,43.1568],"type":"Point"}
 }

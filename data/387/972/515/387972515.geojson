@@ -2,13 +2,14 @@
   "id": 387972515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.747682,44.837151,-68.747682,44.837151",
     "geom:latitude":44.837151,
     "geom:longitude":-68.747682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"849 Stillwater Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387972515,
-    "wof:lastmodified":1449058015,
+    "wof:lastmodified":1466587309,
     "wof:name":"Cote Brothers Sewing Machines",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewing"
     ]
 },
-  "bbox": [-68.747682,44.837151,-68.747682,44.837151],
+  "bbox": [
+    -68.747682,
+    44.837151,
+    -68.747682,
+    44.837151
+],
   "geometry": {"coordinates":[-68.747682,44.837151],"type":"Point"}
 }

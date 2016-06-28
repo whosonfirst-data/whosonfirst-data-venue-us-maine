@@ -2,13 +2,14 @@
   "id": 403774419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.263521,43.653842,-70.263521,43.653842",
     "geom:latitude":43.653842,
     "geom:longitude":-70.263521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403774419,
-    "wof:lastmodified":1449055155,
+    "wof:lastmodified":1466586571,
     "wof:name":"C M Ideas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.263521,43.653842,-70.263521,43.653842],
+  "bbox": [
+    -70.263521,
+    43.653842,
+    -70.263521,
+    43.653842
+],
   "geometry": {"coordinates":[-70.263521,43.653842],"type":"Point"}
 }

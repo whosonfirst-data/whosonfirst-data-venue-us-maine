@@ -2,13 +2,14 @@
   "id": 404120951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.173874,43.807027,-70.173874,43.807027",
     "geom:latitude":43.807027,
     "geom:longitude":-70.173874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"272 E Main St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404120951,
-    "wof:lastmodified":1449040146,
+    "wof:lastmodified":1466586311,
     "wof:name":"Rahman Shireen",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "exercise"
     ]
 },
-  "bbox": [-70.173874,43.807027,-70.173874,43.807027],
+  "bbox": [
+    -70.173874,
+    43.807027,
+    -70.173874,
+    43.807027
+],
   "geometry": {"coordinates":[-70.173874,43.807027],"type":"Point"}
 }

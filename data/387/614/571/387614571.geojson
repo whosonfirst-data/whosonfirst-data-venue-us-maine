@@ -2,13 +2,14 @@
   "id": 387614571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.805072,44.767037,-68.805072,44.767037",
     "geom:latitude":44.767037,
     "geom:longitude":-68.805072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Z St",
     "sg:city":"Castine",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387614571,
-    "wof:lastmodified":1449060024,
+    "wof:lastmodified":1466586578,
     "wof:name":"Dennett's Wharf Restaurant",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.805072,44.767037,-68.805072,44.767037],
+  "bbox": [
+    -68.805072,
+    44.767037,
+    -68.805072,
+    44.767037
+],
   "geometry": {"coordinates":[-68.805072,44.767037],"type":"Point"}
 }

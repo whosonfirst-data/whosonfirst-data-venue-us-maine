@@ -2,13 +2,14 @@
   "id": 387778859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.999121,44.419841,-68.999121,44.419841",
     "geom:latitude":44.419841,
     "geom:longitude":-68.999121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Northport Ave",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387778859,
-    "wof:lastmodified":1449056199,
+    "wof:lastmodified":1466587088,
     "wof:name":"Frost House Bed & Breakfast",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-68.999121,44.419841,-68.999121,44.419841],
+  "bbox": [
+    -68.999121,
+    44.419841,
+    -68.999121,
+    44.419841
+],
   "geometry": {"coordinates":[-68.999121,44.419841],"type":"Point"}
 }

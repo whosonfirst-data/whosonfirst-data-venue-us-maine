@@ -2,13 +2,14 @@
   "id": 404117545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.457611,43.493912,-70.457611,43.493912",
     "geom:latitude":43.493912,
     "geom:longitude":-70.457611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Main St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404117545,
-    "wof:lastmodified":1449039944,
+    "wof:lastmodified":1466586256,
     "wof:name":"Biddeford Computer Dept",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-70.457611,43.493912,-70.457611,43.493912],
+  "bbox": [
+    -70.457611,
+    43.493912,
+    -70.457611,
+    43.493912
+],
   "geometry": {"coordinates":[-70.457611,43.493912],"type":"Point"}
 }

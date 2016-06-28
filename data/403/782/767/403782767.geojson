@@ -2,13 +2,14 @@
   "id": 403782767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.295073,43.672289,-70.295073,43.672289",
     "geom:latitude":43.672289,
     "geom:longitude":-70.295073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"383 Stevens Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403782767,
-    "wof:lastmodified":1449054619,
+    "wof:lastmodified":1466585718,
     "wof:name":"A & A Affordable Driving",
     "wof:parent_id":85880021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driving"
     ]
 },
-  "bbox": [-70.295073,43.672289,-70.295073,43.672289],
+  "bbox": [
+    -70.295073,
+    43.672289,
+    -70.295073,
+    43.672289
+],
   "geometry": {"coordinates":[-70.295073,43.672289],"type":"Point"}
 }

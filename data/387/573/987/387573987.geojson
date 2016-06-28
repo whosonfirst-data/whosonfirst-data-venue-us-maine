@@ -2,13 +2,14 @@
   "id": 387573987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.747348,43.088048,-70.747348,43.088048",
     "geom:latitude":43.088048,
     "geom:longitude":-70.747348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Love Ln",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387573987,
-    "wof:lastmodified":1449058914,
+    "wof:lastmodified":1466585945,
     "wof:name":"Marcye Philbrook Design Studio",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-70.747348,43.088048,-70.747348,43.088048],
+  "bbox": [
+    -70.747348,
+    43.088048,
+    -70.747348,
+    43.088048
+],
   "geometry": {"coordinates":[-70.747348,43.088048],"type":"Point"}
 }

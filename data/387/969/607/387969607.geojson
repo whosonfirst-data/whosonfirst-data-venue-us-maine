@@ -2,13 +2,14 @@
   "id": 387969607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.773797,44.416715,-70.773797,44.416715",
     "geom:latitude":44.416715,
     "geom:longitude":-70.773797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"291 Walkers Mill Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387969607,
-    "wof:lastmodified":1449057014,
+    "wof:lastmodified":1466587308,
     "wof:name":"Clark Jewel",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.773797,44.416715,-70.773797,44.416715],
+  "bbox": [
+    -70.773797,
+    44.416715,
+    -70.773797,
+    44.416715
+],
   "geometry": {"coordinates":[-70.773797,44.416715],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387726097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.066065,45.148613,-69.066065,45.148613",
     "geom:latitude":45.148613,
     "geom:longitude":-69.066065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S Stagecoach Rd",
     "sg:city":"Atkinson",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387726097,
-    "wof:lastmodified":1449058716,
+    "wof:lastmodified":1466586905,
     "wof:name":"Island Falls Canoe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "canoe"
     ]
 },
-  "bbox": [-69.066065,45.148613,-69.066065,45.148613],
-  "geometry": {"coordinates":[-69.066065,45.148613],"type":"Point"}
+  "bbox": [
+    -69.066065,
+    45.148613,
+    -69.066065,
+    45.148613
+],
+  "geometry": {"coordinates":[-69.06606499999999,45.148613],"type":"Point"}
 }

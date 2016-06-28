@@ -2,13 +2,14 @@
   "id": 387721675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.204915,43.860166,-70.204915,43.860166",
     "geom:latitude":43.860166,
     "geom:longitude":-70.204915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 Mountfort Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387721675,
-    "wof:lastmodified":1449059909,
+    "wof:lastmodified":1466586807,
     "wof:name":"Stump & Grind Stump Chipping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-70.204915,43.860166,-70.204915,43.860166],
+  "bbox": [
+    -70.204915,
+    43.860166,
+    -70.204915,
+    43.860166
+],
   "geometry": {"coordinates":[-70.204915,43.860166],"type":"Point"}
 }

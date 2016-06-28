@@ -2,13 +2,14 @@
   "id": 403813559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.10084,43.851997,-70.10084,43.851997",
     "geom:latitude":43.851997,
     "geom:longitude":-70.10084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 South St",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403813559,
-    "wof:lastmodified":1449054988,
+    "wof:lastmodified":1466586161,
     "wof:name":"Mid Coast Survey Co",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mapping"
     ]
 },
-  "bbox": [-70.10084,43.851997,-70.10084,43.851997],
-  "geometry": {"coordinates":[-70.10084,43.851997],"type":"Point"}
+  "bbox": [
+    -70.10084,
+    43.851997,
+    -70.10084,
+    43.851997
+],
+  "geometry": {"coordinates":[-70.10084000000001,43.851997],"type":"Point"}
 }

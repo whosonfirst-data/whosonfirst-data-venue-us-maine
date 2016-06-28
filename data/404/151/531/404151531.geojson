@@ -2,13 +2,14 @@
   "id": 404151531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.484374,47.188426,-68.484374,47.188426",
     "geom:latitude":47.188426,
     "geom:longitude":-68.484374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 Caribou Rd",
     "sg:city":"New Canada",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404151531,
-    "wof:lastmodified":1449039094,
+    "wof:lastmodified":1466586726,
     "wof:name":"Town Of New Canada Community",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-68.484374,47.188426,-68.484374,47.188426],
+  "bbox": [
+    -68.484374,
+    47.188426,
+    -68.484374,
+    47.188426
+],
   "geometry": {"coordinates":[-68.484374,47.188426],"type":"Point"}
 }

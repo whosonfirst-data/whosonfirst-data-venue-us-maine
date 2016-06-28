@@ -2,13 +2,14 @@
   "id": 403979955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.775567,44.319566,-69.775567,44.319566",
     "geom:latitude":44.319566,
     "geom:longitude":-69.775567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 State St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403979955,
-    "wof:lastmodified":1449055551,
+    "wof:lastmodified":1466587151,
     "wof:name":"Maine Revenue Services",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-69.775567,44.319566,-69.775567,44.319566],
+  "bbox": [
+    -69.775567,
+    44.319566,
+    -69.775567,
+    44.319566
+],
   "geometry": {"coordinates":[-69.775567,44.319566],"type":"Point"}
 }

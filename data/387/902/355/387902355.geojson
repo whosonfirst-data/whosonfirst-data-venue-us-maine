@@ -2,13 +2,14 @@
   "id": 387902355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.323871,43.595351,-70.323871,43.595351",
     "geom:latitude":43.595351,
     "geom:longitude":-70.323871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Professional Dr",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387902355,
-    "wof:lastmodified":1449058922,
+    "wof:lastmodified":1466587236,
     "wof:name":"Old House Parts Co",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "preservation"
     ]
 },
-  "bbox": [-70.323871,43.595351,-70.323871,43.595351],
+  "bbox": [
+    -70.323871,
+    43.595351,
+    -70.323871,
+    43.595351
+],
   "geometry": {"coordinates":[-70.323871,43.595351],"type":"Point"}
 }

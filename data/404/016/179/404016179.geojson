@@ -2,13 +2,14 @@
   "id": 404016179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.636405,44.53995,-69.636405,44.53995",
     "geom:latitude":44.53995,
     "geom:longitude":-69.636405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Water St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404016179,
-    "wof:lastmodified":1449039261,
+    "wof:lastmodified":1466585859,
     "wof:name":"Dick's Variety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.636405,44.53995,-69.636405,44.53995],
+  "bbox": [
+    -69.636405,
+    44.53995,
+    -69.636405,
+    44.53995
+],
   "geometry": {"coordinates":[-69.636405,44.53995],"type":"Point"}
 }

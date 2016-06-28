@@ -2,13 +2,14 @@
   "id": 403890827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.240361,43.696174,-70.240361,43.696174",
     "geom:latitude":43.696174,
     "geom:longitude":-70.240361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Andrews Ave",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403890827,
-    "wof:lastmodified":1449054943,
+    "wof:lastmodified":1466586807,
     "wof:name":"Taylor Publishing",
     "wof:parent_id":85816239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-70.240361,43.696174,-70.240361,43.696174],
-  "geometry": {"coordinates":[-70.240361,43.696174],"type":"Point"}
+  "bbox": [
+    -70.240361,
+    43.696174,
+    -70.240361,
+    43.696174
+],
+  "geometry": {"coordinates":[-70.24036099999999,43.696174],"type":"Point"}
 }

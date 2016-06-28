@@ -2,13 +2,14 @@
   "id": 387659663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.828711,46.121482,-67.828711,46.121482",
     "geom:latitude":46.121482,
     "geom:longitude":-67.828711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Park St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387659663,
-    "wof:lastmodified":1449056517,
+    "wof:lastmodified":1466586118,
     "wof:name":"Maine Math & Science Alliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "educational"
     ]
 },
-  "bbox": [-67.828711,46.121482,-67.828711,46.121482],
+  "bbox": [
+    -67.828711,
+    46.121482,
+    -67.828711,
+    46.121482
+],
   "geometry": {"coordinates":[-67.828711,46.121482],"type":"Point"}
 }

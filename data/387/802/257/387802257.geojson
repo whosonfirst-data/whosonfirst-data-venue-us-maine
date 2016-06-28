@@ -2,13 +2,14 @@
   "id": 387802257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.886449,44.761366,-68.886449,44.761366",
     "geom:latitude":44.761366,
     "geom:longitude":-68.886449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Manning Mill Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387802257,
-    "wof:lastmodified":1449059209,
+    "wof:lastmodified":1466587134,
     "wof:name":"Moore & More Clg Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.886449,44.761366,-68.886449,44.761366],
+  "bbox": [
+    -68.886449,
+    44.761366,
+    -68.886449,
+    44.761366
+],
   "geometry": {"coordinates":[-68.886449,44.761366],"type":"Point"}
 }

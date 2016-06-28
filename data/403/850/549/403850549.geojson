@@ -2,13 +2,14 @@
   "id": 403850549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.358278,43.579443,-70.358278,43.579443",
     "geom:latitude":43.579443,
     "geom:longitude":-70.358278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Washington Ave",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403850549,
-    "wof:lastmodified":1449055405,
+    "wof:lastmodified":1466586649,
     "wof:name":"Gelinas HVAC Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.358278,43.579443,-70.358278,43.579443],
+  "bbox": [
+    -70.358278,
+    43.579443,
+    -70.358278,
+    43.579443
+],
   "geometry": {"coordinates":[-70.358278,43.579443],"type":"Point"}
 }

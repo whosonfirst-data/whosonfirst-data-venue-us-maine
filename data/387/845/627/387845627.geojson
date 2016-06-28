@@ -2,13 +2,14 @@
   "id": 387845627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.334201,44.029631,-70.334201,44.029631",
     "geom:latitude":44.029631,
     "geom:longitude":-70.334201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"481 Spring Water Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387845627,
-    "wof:lastmodified":1449056728,
+    "wof:lastmodified":1466587221,
     "wof:name":"Jolly Gardner Products",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-70.334201,44.029631,-70.334201,44.029631],
-  "geometry": {"coordinates":[-70.334201,44.029631],"type":"Point"}
+  "bbox": [
+    -70.334201,
+    44.029631,
+    -70.334201,
+    44.029631
+],
+  "geometry": {"coordinates":[-70.33420099999999,44.029631],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404086205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.814886,44.811007,-68.814886,44.811007",
     "geom:latitude":44.811007,
     "geom:longitude":-68.814886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"277 Godfrey Blvd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404086205,
-    "wof:lastmodified":1449039935,
+    "wof:lastmodified":1466586638,
     "wof:name":"US Customs Svc",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [-68.814886,44.811007,-68.814886,44.811007],
+  "bbox": [
+    -68.814886,
+    44.811007,
+    -68.814886,
+    44.811007
+],
   "geometry": {"coordinates":[-68.814886,44.811007],"type":"Point"}
 }

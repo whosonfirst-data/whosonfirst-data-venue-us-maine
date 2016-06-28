@@ -2,13 +2,14 @@
   "id": 404119207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.135911,44.420944,-70.135911,44.420944",
     "geom:latitude":44.420944,
     "geom:longitude":-70.135911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Haines Corner Rd",
     "sg:city":"Livermore Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404119207,
-    "wof:lastmodified":1449039981,
+    "wof:lastmodified":1466586283,
     "wof:name":"George Cummings Feed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.135911,44.420944,-70.135911,44.420944],
-  "geometry": {"coordinates":[-70.135911,44.420944],"type":"Point"}
+  "bbox": [
+    -70.135911,
+    44.420944,
+    -70.135911,
+    44.420944
+],
+  "geometry": {"coordinates":[-70.13591099999999,44.420944],"type":"Point"}
 }

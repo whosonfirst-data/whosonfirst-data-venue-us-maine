@@ -2,13 +2,14 @@
   "id": 387869377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.787269,43.463617,-70.787269,43.463617",
     "geom:latitude":43.463617,
     "geom:longitude":-70.787269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Pleasant St",
     "sg:city":"Springvale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387869377,
-    "wof:lastmodified":1449059611,
+    "wof:lastmodified":1466587199,
     "wof:name":"Dance Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.787269,43.463617,-70.787269,43.463617],
-  "geometry": {"coordinates":[-70.787269,43.463617],"type":"Point"}
+  "bbox": [
+    -70.787269,
+    43.463617,
+    -70.787269,
+    43.463617
+],
+  "geometry": {"coordinates":[-70.78726899999999,43.463617],"type":"Point"}
 }

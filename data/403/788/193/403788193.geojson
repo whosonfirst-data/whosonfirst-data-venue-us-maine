@@ -2,13 +2,14 @@
   "id": 403788193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.327514,43.668466,-70.327514,43.668466",
     "geom:latitude":43.668466,
     "geom:longitude":-70.327514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Pine Tree Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403788193,
-    "wof:lastmodified":1449055330,
+    "wof:lastmodified":1466585781,
     "wof:name":"Homans Associates",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-70.327514,43.668466,-70.327514,43.668466],
-  "geometry": {"coordinates":[-70.327514,43.668466],"type":"Point"}
+  "bbox": [
+    -70.327514,
+    43.668466,
+    -70.327514,
+    43.668466
+],
+  "geometry": {"coordinates":[-70.32751399999999,43.668466],"type":"Point"}
 }

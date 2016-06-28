@@ -2,13 +2,14 @@
   "id": 403895899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.455309,44.055198,-70.455309,44.055198",
     "geom:latitude":44.055198,
     "geom:longitude":-70.455309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"386 Megquier Hill Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403895899,
-    "wof:lastmodified":1449055198,
+    "wof:lastmodified":1466586986,
     "wof:name":"Tania's Hair Boutique",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.455309,44.055198,-70.455309,44.055198],
+  "bbox": [
+    -70.455309,
+    44.055198,
+    -70.455309,
+    44.055198
+],
   "geometry": {"coordinates":[-70.455309,44.055198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404144939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.260313,43.656651,-70.260313,43.656651",
     "geom:latitude":43.656651,
     "geom:longitude":-70.260313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"481 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404144939,
-    "wof:lastmodified":1449039995,
+    "wof:lastmodified":1466586698,
     "wof:name":"Banknorth",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.260313,43.656651,-70.260313,43.656651],
+  "bbox": [
+    -70.260313,
+    43.656651,
+    -70.260313,
+    43.656651
+],
   "geometry": {"coordinates":[-70.260313,43.656651],"type":"Point"}
 }

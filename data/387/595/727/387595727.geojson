@@ -2,13 +2,14 @@
   "id": 387595727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.157791,44.691873,-70.157791,44.691873",
     "geom:latitude":44.691873,
     "geom:longitude":-70.157791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Fairbanks Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387595727,
-    "wof:lastmodified":1449059549,
+    "wof:lastmodified":1466586283,
     "wof:name":"Aardvark Outfitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fishing"
     ]
 },
-  "bbox": [-70.157791,44.691873,-70.157791,44.691873],
+  "bbox": [
+    -70.157791,
+    44.691873,
+    -70.157791,
+    44.691873
+],
   "geometry": {"coordinates":[-70.157791,44.691873],"type":"Point"}
 }

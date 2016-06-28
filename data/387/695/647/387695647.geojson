@@ -2,13 +2,14 @@
   "id": 387695647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.938325,47.158655,-67.938325,47.158655",
     "geom:latitude":47.158655,
     "geom:longitude":-67.938325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Main St",
     "sg:city":"Saint Francis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387695647,
-    "wof:lastmodified":1449057548,
+    "wof:lastmodified":1466586650,
     "wof:name":"Maries Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-67.938325,47.158655,-67.938325,47.158655],
-  "geometry": {"coordinates":[-67.938325,47.158655],"type":"Point"}
+  "bbox": [
+    -67.938325,
+    47.158655,
+    -67.938325,
+    47.158655
+],
+  "geometry": {"coordinates":[-67.93832500000001,47.158655],"type":"Point"}
 }

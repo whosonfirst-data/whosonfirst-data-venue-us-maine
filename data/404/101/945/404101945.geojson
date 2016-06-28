@@ -2,13 +2,14 @@
   "id": 404101945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.779175,44.844172,-68.779175,44.844172",
     "geom:latitude":44.844172,
     "geom:longitude":-68.779175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Bomarc Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404101945,
-    "wof:lastmodified":1449039751,
+    "wof:lastmodified":1466586023,
     "wof:name":"SMC Penobscot Inc",
     "wof:parent_id":85815935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-68.779175,44.844172,-68.779175,44.844172],
+  "bbox": [
+    -68.779175,
+    44.844172,
+    -68.779175,
+    44.844172
+],
   "geometry": {"coordinates":[-68.779175,44.844172],"type":"Point"}
 }

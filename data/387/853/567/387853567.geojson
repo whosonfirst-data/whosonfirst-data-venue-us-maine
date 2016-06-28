@@ -2,13 +2,14 @@
   "id": 387853567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.657022,44.033242,-69.657022,44.033242",
     "geom:latitude":44.033242,
     "geom:longitude":-69.657022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 W Alna Rd",
     "sg:city":"Wiscasset",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387853567,
-    "wof:lastmodified":1449057644,
+    "wof:lastmodified":1466587085,
     "wof:name":"Ray Soule Excavating",
     "wof:parent_id":85820077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.657022,44.033242,-69.657022,44.033242],
+  "bbox": [
+    -69.657022,
+    44.033242,
+    -69.657022,
+    44.033242
+],
   "geometry": {"coordinates":[-69.657022,44.033242],"type":"Point"}
 }

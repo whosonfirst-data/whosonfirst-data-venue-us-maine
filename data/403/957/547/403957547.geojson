@@ -2,13 +2,14 @@
   "id": 403957547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.604462,44.586473,-69.604462,44.586473",
     "geom:latitude":44.586473,
     "geom:longitude":-69.604462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 West St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403957547,
-    "wof:lastmodified":1449055770,
+    "wof:lastmodified":1466587079,
     "wof:name":"Maurice & Sons Auto Body Shp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-69.604462,44.586473,-69.604462,44.586473],
+  "bbox": [
+    -69.604462,
+    44.586473,
+    -69.604462,
+    44.586473
+],
   "geometry": {"coordinates":[-69.604462,44.586473],"type":"Point"}
 }

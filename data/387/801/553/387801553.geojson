@@ -2,13 +2,14 @@
   "id": 387801553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.268487,43.685925,-70.268487,43.685925",
     "geom:latitude":43.685925,
     "geom:longitude":-70.268487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 Ocean Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387801553,
-    "wof:lastmodified":1449059250,
+    "wof:lastmodified":1466587053,
     "wof:name":"Back Cove Counseling Ctr",
     "wof:parent_id":85831709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-70.268487,43.685925,-70.268487,43.685925],
-  "geometry": {"coordinates":[-70.268487,43.685925],"type":"Point"}
+  "bbox": [
+    -70.268487,
+    43.685925,
+    -70.268487,
+    43.685925
+],
+  "geometry": {"coordinates":[-70.26848699999999,43.685925],"type":"Point"}
 }

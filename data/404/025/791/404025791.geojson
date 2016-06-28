@@ -2,13 +2,14 @@
   "id": 404025791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.350439,43.850494,-70.350439,43.850494",
     "geom:latitude":43.850494,
     "geom:longitude":-70.350439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Dutton Hill",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404025791,
-    "wof:lastmodified":1449040117,
+    "wof:lastmodified":1466585962,
     "wof:name":"Bellefleur Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.350439,43.850494,-70.350439,43.850494],
-  "geometry": {"coordinates":[-70.350439,43.850494],"type":"Point"}
+  "bbox": [
+    -70.350439,
+    43.850494,
+    -70.350439,
+    43.850494
+],
+  "geometry": {"coordinates":[-70.35043899999999,43.850494],"type":"Point"}
 }

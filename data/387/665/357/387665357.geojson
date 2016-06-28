@@ -2,13 +2,14 @@
   "id": 387665357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.596522,43.250175,-70.596522,43.250175",
     "geom:latitude":43.250175,
     "geom:longitude":-70.596522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Beach St",
     "sg:city":"Ogunquit",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387665357,
-    "wof:lastmodified":1449057263,
+    "wof:lastmodified":1466586207,
     "wof:name":"Mountain Tops",
     "wof:parent_id":85835101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.596522,43.250175,-70.596522,43.250175],
-  "geometry": {"coordinates":[-70.596522,43.250175],"type":"Point"}
+  "bbox": [
+    -70.596522,
+    43.250175,
+    -70.596522,
+    43.250175
+],
+  "geometry": {"coordinates":[-70.59652199999999,43.250175],"type":"Point"}
 }

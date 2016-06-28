@@ -2,13 +2,14 @@
   "id": 404081429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.858378,43.903794,-69.858378,43.903794",
     "geom:latitude":43.903794,
     "geom:longitude":-69.858378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Industrial Way",
     "sg:city":"Boothbay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404081429,
-    "wof:lastmodified":1449039393,
+    "wof:lastmodified":1466585758,
     "wof:name":"Rynel Limited",
     "wof:parent_id":85837805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.858378,43.903794,-69.858378,43.903794],
+  "bbox": [
+    -69.858378,
+    43.903794,
+    -69.858378,
+    43.903794
+],
   "geometry": {"coordinates":[-69.858378,43.903794],"type":"Point"}
 }

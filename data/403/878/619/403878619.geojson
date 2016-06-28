@@ -2,13 +2,14 @@
   "id": 403878619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.336313,43.717072,-70.336313,43.717072",
     "geom:latitude":43.717072,
     "geom:longitude":-70.336313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"468 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403878619,
-    "wof:lastmodified":1449055337,
+    "wof:lastmodified":1466586718,
     "wof:name":"Dusk Til' Dawn",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-70.336313,43.717072,-70.336313,43.717072],
+  "bbox": [
+    -70.336313,
+    43.717072,
+    -70.336313,
+    43.717072
+],
   "geometry": {"coordinates":[-70.336313,43.717072],"type":"Point"}
 }

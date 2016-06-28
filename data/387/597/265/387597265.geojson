@@ -2,13 +2,14 @@
   "id": 387597265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.77359,44.815348,-68.77359,44.815348",
     "geom:latitude":44.815348,
     "geom:longitude":-68.77359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Center St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387597265,
-    "wof:lastmodified":1449059870,
+    "wof:lastmodified":1466586305,
     "wof:name":"Mid-Maine Entertainment",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-68.77359,44.815348,-68.77359,44.815348],
+  "bbox": [
+    -68.77359,
+    44.815348,
+    -68.77359,
+    44.815348
+],
   "geometry": {"coordinates":[-68.77359,44.815348],"type":"Point"}
 }

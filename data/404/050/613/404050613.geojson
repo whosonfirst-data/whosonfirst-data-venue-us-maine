@@ -2,13 +2,14 @@
   "id": 404050613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.882601,44.793405,-69.882601,44.793405",
     "geom:latitude":44.793405,
     "geom:longitude":-69.882601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Pine St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404050613,
-    "wof:lastmodified":1449039794,
+    "wof:lastmodified":1466586297,
     "wof:name":"Jones Brook Treatment Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-69.882601,44.793405,-69.882601,44.793405],
-  "geometry": {"coordinates":[-69.882601,44.793405],"type":"Point"}
+  "bbox": [
+    -69.882601,
+    44.793405,
+    -69.882601,
+    44.793405
+],
+  "geometry": {"coordinates":[-69.88260099999999,44.793405],"type":"Point"}
 }

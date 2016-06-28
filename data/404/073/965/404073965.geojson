@@ -2,13 +2,14 @@
   "id": 404073965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.705421,44.840731,-68.705421,44.840731",
     "geom:latitude":44.840731,
     "geom:longitude":-68.705421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 State St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":404073965,
-    "wof:lastmodified":1449039174,
+    "wof:lastmodified":1466586607,
     "wof:name":"Tranquil Moments Health Center",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.705421,44.840731,-68.705421,44.840731],
+  "bbox": [
+    -68.705421,
+    44.840731,
+    -68.705421,
+    44.840731
+],
   "geometry": {"coordinates":[-68.705421,44.840731],"type":"Point"}
 }

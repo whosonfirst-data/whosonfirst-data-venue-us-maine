@@ -2,13 +2,14 @@
   "id": 387858693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.205377,44.387336,-68.205377,44.387336",
     "geom:latitude":44.387336,
     "geom:longitude":-68.205377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Mount Desert St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387858693,
-    "wof:lastmodified":1449056481,
+    "wof:lastmodified":1466587099,
     "wof:name":"Benbows Coffee Roasters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-68.205377,44.387336,-68.205377,44.387336],
+  "bbox": [
+    -68.205377,
+    44.387336,
+    -68.205377,
+    44.387336
+],
   "geometry": {"coordinates":[-68.205377,44.387336],"type":"Point"}
 }

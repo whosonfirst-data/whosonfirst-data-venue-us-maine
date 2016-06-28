@@ -2,13 +2,14 @@
   "id": 403924385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.558094,44.556663,-70.558094,44.556663",
     "geom:latitude":44.556663,
     "geom:longitude":-70.558094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Porter Ave W",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":403924385,
-    "wof:lastmodified":1449055010,
+    "wof:lastmodified":1466586921,
     "wof:name":"Robert L Stickney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.558094,44.556663,-70.558094,44.556663],
+  "bbox": [
+    -70.558094,
+    44.556663,
+    -70.558094,
+    44.556663
+],
   "geometry": {"coordinates":[-70.558094,44.556663],"type":"Point"}
 }

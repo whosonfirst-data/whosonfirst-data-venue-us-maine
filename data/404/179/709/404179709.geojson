@@ -2,13 +2,14 @@
   "id": 404179709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.708436,43.373117,-70.708436,43.373117",
     "geom:latitude":43.373117,
     "geom:longitude":-70.708436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Sam Allen Rd",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404179709,
-    "wof:lastmodified":1449040206,
+    "wof:lastmodified":1466586827,
     "wof:name":"Woltersdorfs Acres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.708436,43.373117,-70.708436,43.373117],
-  "geometry": {"coordinates":[-70.708436,43.373117],"type":"Point"}
+  "bbox": [
+    -70.708436,
+    43.373117,
+    -70.708436,
+    43.373117
+],
+  "geometry": {"coordinates":[-70.70843600000001,43.373117],"type":"Point"}
 }

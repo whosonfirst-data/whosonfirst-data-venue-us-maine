@@ -2,13 +2,14 @@
   "id": 404212547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.863889,44.659704,-68.863889,44.659704",
     "geom:latitude":44.659704,
     "geom:longitude":-68.863889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Coles Corner Rd",
     "sg:city":"Winterport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404212547,
-    "wof:lastmodified":1449039908,
+    "wof:lastmodified":1466587057,
     "wof:name":"Far East Cuisine Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-68.863889,44.659704,-68.863889,44.659704],
+  "bbox": [
+    -68.863889,
+    44.659704,
+    -68.863889,
+    44.659704
+],
   "geometry": {"coordinates":[-68.863889,44.659704],"type":"Point"}
 }

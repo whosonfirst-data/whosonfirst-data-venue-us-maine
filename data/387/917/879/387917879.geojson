@@ -2,13 +2,14 @@
   "id": 387917879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.839627,46.126037,-67.839627,46.126037",
     "geom:latitude":46.126037,
     "geom:longitude":-67.839627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Water St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387917879,
-    "wof:lastmodified":1449059419,
+    "wof:lastmodified":1466587255,
     "wof:name":"Peter Thompson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-67.839627,46.126037,-67.839627,46.126037],
-  "geometry": {"coordinates":[-67.839627,46.126037],"type":"Point"}
+  "bbox": [
+    -67.839627,
+    46.126037,
+    -67.839627,
+    46.126037
+],
+  "geometry": {"coordinates":[-67.83962699999999,46.126037],"type":"Point"}
 }

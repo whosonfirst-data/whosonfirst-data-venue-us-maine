@@ -2,13 +2,14 @@
   "id": 387704353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.726605,44.758238,-69.726605,44.758238",
     "geom:latitude":44.758238,
     "geom:longitude":-69.726605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 W Front St",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387704353,
-    "wof:lastmodified":1449057095,
+    "wof:lastmodified":1466586863,
     "wof:name":"Snack Shack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.726605,44.758238,-69.726605,44.758238],
-  "geometry": {"coordinates":[-69.726605,44.758238],"type":"Point"}
+  "bbox": [
+    -69.726605,
+    44.758238,
+    -69.726605,
+    44.758238
+],
+  "geometry": {"coordinates":[-69.72660500000001,44.758238],"type":"Point"}
 }

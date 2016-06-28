@@ -2,13 +2,14 @@
   "id": 387718957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.459979,43.522927,-70.459979,43.522927",
     "geom:latitude":43.522927,
     "geom:longitude":-70.459979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Buxton Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387718957,
-    "wof:lastmodified":1449056921,
+    "wof:lastmodified":1466586812,
     "wof:name":"Madeline's Hair Replacement",
     "wof:parent_id":85847051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "replacement"
     ]
 },
-  "bbox": [-70.459979,43.522927,-70.459979,43.522927],
+  "bbox": [
+    -70.459979,
+    43.522927,
+    -70.459979,
+    43.522927
+],
   "geometry": {"coordinates":[-70.459979,43.522927],"type":"Point"}
 }

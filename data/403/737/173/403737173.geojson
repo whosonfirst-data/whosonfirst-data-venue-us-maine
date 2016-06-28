@@ -2,13 +2,14 @@
   "id": 403737173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.3483,44.042796,-70.3483,44.042796",
     "geom:latitude":44.042796,
     "geom:longitude":-70.3483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Plains Rd",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403737173,
-    "wof:lastmodified":1449054945,
+    "wof:lastmodified":1466586038,
     "wof:name":"K F Fortin Home Improvement Co",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-70.3483,44.042796,-70.3483,44.042796],
-  "geometry": {"coordinates":[-70.3483,44.042796],"type":"Point"}
+  "bbox": [
+    -70.3483,
+    44.042796,
+    -70.3483,
+    44.042796
+],
+  "geometry": {"coordinates":[-70.34829999999999,44.042796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403702465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.273211,44.148044,-70.273211,44.148044",
     "geom:latitude":44.148044,
     "geom:longitude":-70.273211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"271 W Auburn Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403702465,
-    "wof:lastmodified":1449055303,
+    "wof:lastmodified":1466585693,
     "wof:name":"Douglas A Pohl MD PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-70.273211,44.148044,-70.273211,44.148044],
+  "bbox": [
+    -70.273211,
+    44.148044,
+    -70.273211,
+    44.148044
+],
   "geometry": {"coordinates":[-70.273211,44.148044],"type":"Point"}
 }

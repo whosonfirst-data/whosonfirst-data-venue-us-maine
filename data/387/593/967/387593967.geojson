@@ -2,13 +2,14 @@
   "id": 387593967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.874572,43.914911,-69.874572,43.914911",
     "geom:latitude":43.914911,
     "geom:longitude":-69.874572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Harding Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387593967,
-    "wof:lastmodified":1449058636,
+    "wof:lastmodified":1466586229,
     "wof:name":"Gc & JW Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.874572,43.914911,-69.874572,43.914911],
+  "bbox": [
+    -69.874572,
+    43.914911,
+    -69.874572,
+    43.914911
+],
   "geometry": {"coordinates":[-69.874572,43.914911],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387642905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.21096,44.095606,-70.21096,44.095606",
     "geom:latitude":44.095606,
     "geom:longitude":-70.21096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Walnut St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387642905,
-    "wof:lastmodified":1449056335,
+    "wof:lastmodified":1466585914,
     "wof:name":"Del's Bar & Grille",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.21096,44.095606,-70.21096,44.095606],
+  "bbox": [
+    -70.21096,
+    44.095606,
+    -70.21096,
+    44.095606
+],
   "geometry": {"coordinates":[-70.21096,44.095606],"type":"Point"}
 }

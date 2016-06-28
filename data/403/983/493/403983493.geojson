@@ -2,13 +2,14 @@
   "id": 403983493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.838738,44.739706,-68.838738,44.739706",
     "geom:latitude":44.739706,
     "geom:longitude":-68.838738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Main Rd N",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403983493,
-    "wof:lastmodified":1449055852,
+    "wof:lastmodified":1466587228,
     "wof:name":"School Admin District 22",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.838738,44.739706,-68.838738,44.739706],
-  "geometry": {"coordinates":[-68.838738,44.739706],"type":"Point"}
+  "bbox": [
+    -68.838738,
+    44.739706,
+    -68.838738,
+    44.739706
+],
+  "geometry": {"coordinates":[-68.83873800000001,44.739706],"type":"Point"}
 }

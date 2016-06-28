@@ -2,13 +2,14 @@
   "id": 404184127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.540604,44.215139,-70.540604,44.215139",
     "geom:latitude":44.215139,
     "geom:longitude":-70.540604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Cottage St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404184127,
-    "wof:lastmodified":1449039239,
+    "wof:lastmodified":1466586860,
     "wof:name":"Donegal Town Inc",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-70.540604,44.215139,-70.540604,44.215139],
+  "bbox": [
+    -70.540604,
+    44.215139,
+    -70.540604,
+    44.215139
+],
   "geometry": {"coordinates":[-70.540604,44.215139],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387615359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.465156,44.52653,-70.465156,44.52653",
     "geom:latitude":44.52653,
     "geom:longitude":-70.465156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Paynes Rd",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387615359,
-    "wof:lastmodified":1449057300,
+    "wof:lastmodified":1466586601,
     "wof:name":"Steve's Modular Home Svc",
     "wof:parent_id":85814509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "site"
     ]
 },
-  "bbox": [-70.465156,44.52653,-70.465156,44.52653],
-  "geometry": {"coordinates":[-70.465156,44.52653],"type":"Point"}
+  "bbox": [
+    -70.465156,
+    44.52653,
+    -70.465156,
+    44.52653
+],
+  "geometry": {"coordinates":[-70.46515599999999,44.52653],"type":"Point"}
 }

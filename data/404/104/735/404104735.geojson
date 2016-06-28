@@ -2,13 +2,14 @@
   "id": 404104735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.826581,46.765636,-67.826581,46.765636",
     "geom:latitude":46.765636,
     "geom:longitude":-67.826581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Forest Ave",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404104735,
-    "wof:lastmodified":1449039529,
+    "wof:lastmodified":1466586065,
     "wof:name":"It's A Girl Thing",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consignment"
     ]
 },
-  "bbox": [-67.826581,46.765636,-67.826581,46.765636],
+  "bbox": [
+    -67.826581,
+    46.765636,
+    -67.826581,
+    46.765636
+],
   "geometry": {"coordinates":[-67.826581,46.765636],"type":"Point"}
 }

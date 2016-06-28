@@ -2,13 +2,14 @@
   "id": 403874783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.381069,43.464409,-70.381069,43.464409",
     "geom:latitude":43.464409,
     "geom:longitude":-70.381069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Fore St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403874783,
-    "wof:lastmodified":1449055875,
+    "wof:lastmodified":1466586705,
     "wof:name":"Norwoods Marina Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.381069,43.464409,-70.381069,43.464409],
+  "bbox": [
+    -70.381069,
+    43.464409,
+    -70.381069,
+    43.464409
+],
   "geometry": {"coordinates":[-70.381069,43.464409],"type":"Point"}
 }

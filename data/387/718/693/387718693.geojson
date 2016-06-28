@@ -2,13 +2,14 @@
   "id": 387718693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.826135,44.413724,-70.826135,44.413724",
     "geom:latitude":44.413724,
     "geom:longitude":-70.826135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 W Bethel Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387718693,
-    "wof:lastmodified":1449056917,
+    "wof:lastmodified":1466586808,
     "wof:name":"Bethel Auto Sales",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.826135,44.413724,-70.826135,44.413724],
-  "geometry": {"coordinates":[-70.826135,44.413724],"type":"Point"}
+  "bbox": [
+    -70.826135,
+    44.413724,
+    -70.826135,
+    44.413724
+],
+  "geometry": {"coordinates":[-70.82613499999999,44.413724],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387930315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.955852,44.510784,-68.955852,44.510784",
     "geom:latitude":44.510784,
     "geom:longitude":-68.955852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Merithew Rd",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387930315,
-    "wof:lastmodified":1449057316,
+    "wof:lastmodified":1466587332,
     "wof:name":"Sironen's Radiator Sales & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "radiator"
     ]
 },
-  "bbox": [-68.955852,44.510784,-68.955852,44.510784],
-  "geometry": {"coordinates":[-68.955852,44.510784],"type":"Point"}
+  "bbox": [
+    -68.955852,
+    44.510784,
+    -68.955852,
+    44.510784
+],
+  "geometry": {"coordinates":[-68.95585199999999,44.510784],"type":"Point"}
 }

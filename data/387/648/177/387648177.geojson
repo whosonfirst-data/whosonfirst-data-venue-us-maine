@@ -2,13 +2,14 @@
   "id": 387648177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.216696,43.624013,-70.216696,43.624013",
     "geom:latitude":43.624013,
     "geom:longitude":-70.216696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"973 Shore Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387648177,
-    "wof:lastmodified":1449057138,
+    "wof:lastmodified":1466586734,
     "wof:name":"US Post Office",
     "wof:parent_id":85867971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.216696,43.624013,-70.216696,43.624013],
+  "bbox": [
+    -70.216696,
+    43.624013,
+    -70.216696,
+    43.624013
+],
   "geometry": {"coordinates":[-70.216696,43.624013],"type":"Point"}
 }

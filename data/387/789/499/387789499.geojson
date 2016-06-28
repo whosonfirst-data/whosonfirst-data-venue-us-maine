@@ -2,13 +2,14 @@
   "id": 387789499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.243273,44.094879,-70.243273,44.094879",
     "geom:latitude":44.094879,
     "geom:longitude":-70.243273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"481 Court St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387789499,
-    "wof:lastmodified":1449057815,
+    "wof:lastmodified":1466587096,
     "wof:name":"M W Sign Works",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-70.243273,44.094879,-70.243273,44.094879],
+  "bbox": [
+    -70.243273,
+    44.094879,
+    -70.243273,
+    44.094879
+],
   "geometry": {"coordinates":[-70.243273,44.094879],"type":"Point"}
 }

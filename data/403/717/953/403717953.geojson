@@ -2,13 +2,14 @@
   "id": 403717953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.340289,43.674059,-70.340289,43.674059",
     "geom:latitude":43.674059,
     "geom:longitude":-70.340289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Saunders Way",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403717953,
-    "wof:lastmodified":1449054656,
+    "wof:lastmodified":1466585835,
     "wof:name":"Bill Dodge Auto Park",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-70.340289,43.674059,-70.340289,43.674059],
+  "bbox": [
+    -70.340289,
+    43.674059,
+    -70.340289,
+    43.674059
+],
   "geometry": {"coordinates":[-70.340289,43.674059],"type":"Point"}
 }

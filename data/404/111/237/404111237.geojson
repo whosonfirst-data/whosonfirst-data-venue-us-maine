@@ -2,13 +2,14 @@
   "id": 404111237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.75689,44.786035,-68.75689,44.786035",
     "geom:latitude":44.786035,
     "geom:longitude":-68.75689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Acme Rd",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404111237,
-    "wof:lastmodified":1449040349,
+    "wof:lastmodified":1466586161,
     "wof:name":"Governor Baxter Sch For The Df",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-68.75689,44.786035,-68.75689,44.786035],
+  "bbox": [
+    -68.75689,
+    44.786035,
+    -68.75689,
+    44.786035
+],
   "geometry": {"coordinates":[-68.75689,44.786035],"type":"Point"}
 }

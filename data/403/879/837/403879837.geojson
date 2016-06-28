@@ -2,13 +2,14 @@
   "id": 403879837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.709107,45.657961,-68.709107,45.657961",
     "geom:latitude":45.657961,
     "geom:longitude":-68.709107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"297 Penobscot Ave",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403879837,
-    "wof:lastmodified":1449054642,
+    "wof:lastmodified":1466586736,
     "wof:name":"Millinocket Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-68.709107,45.657961,-68.709107,45.657961],
+  "bbox": [
+    -68.709107,
+    45.657961,
+    -68.709107,
+    45.657961
+],
   "geometry": {"coordinates":[-68.709107,45.657961],"type":"Point"}
 }

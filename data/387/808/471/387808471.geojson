@@ -2,13 +2,14 @@
   "id": 387808471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.572778,44.325672,-70.572778,44.325672",
     "geom:latitude":44.325672,
     "geom:longitude":-70.572778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Main St",
     "sg:city":"West Paris",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387808471,
-    "wof:lastmodified":1449056299,
+    "wof:lastmodified":1466587162,
     "wof:name":"MCD Homemain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "group"
     ]
 },
-  "bbox": [-70.572778,44.325672,-70.572778,44.325672],
+  "bbox": [
+    -70.572778,
+    44.325672,
+    -70.572778,
+    44.325672
+],
   "geometry": {"coordinates":[-70.572778,44.325672],"type":"Point"}
 }

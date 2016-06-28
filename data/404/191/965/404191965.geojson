@@ -2,13 +2,14 @@
   "id": 404191965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.190062,44.473922,-70.190062,44.473922",
     "geom:latitude":44.473922,
     "geom:longitude":-70.190062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Main St",
     "sg:city":"Livermore Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404191965,
-    "wof:lastmodified":1449039838,
+    "wof:lastmodified":1466586975,
     "wof:name":"Western Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.190062,44.473922,-70.190062,44.473922],
+  "bbox": [
+    -70.190062,
+    44.473922,
+    -70.190062,
+    44.473922
+],
   "geometry": {"coordinates":[-70.190062,44.473922],"type":"Point"}
 }

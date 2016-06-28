@@ -2,13 +2,14 @@
   "id": 403768497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.782313,44.317736,-69.782313,44.317736",
     "geom:latitude":44.317736,
     "geom:longitude":-69.782313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 N Chestnut St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403768497,
-    "wof:lastmodified":1449055146,
+    "wof:lastmodified":1466586507,
     "wof:name":"Coastal Enterprises Inc",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.782313,44.317736,-69.782313,44.317736],
+  "bbox": [
+    -69.782313,
+    44.317736,
+    -69.782313,
+    44.317736
+],
   "geometry": {"coordinates":[-69.782313,44.317736],"type":"Point"}
 }

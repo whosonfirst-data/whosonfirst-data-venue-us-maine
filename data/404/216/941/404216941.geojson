@@ -2,13 +2,14 @@
   "id": 404216941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.979652,44.228005,-69.979652,44.228005",
     "geom:latitude":44.228005,
     "geom:longitude":-69.979652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 S Shore Dr",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404216941,
-    "wof:lastmodified":1449040185,
+    "wof:lastmodified":1466586989,
     "wof:name":"Kevin Wing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-69.979652,44.228005,-69.979652,44.228005],
+  "bbox": [
+    -69.979652,
+    44.228005,
+    -69.979652,
+    44.228005
+],
   "geometry": {"coordinates":[-69.979652,44.228005],"type":"Point"}
 }

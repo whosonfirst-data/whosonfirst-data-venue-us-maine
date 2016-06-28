@@ -2,13 +2,14 @@
   "id": 404071267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.26189,43.657712,-70.26189,43.657712",
     "geom:latitude":43.657712,
     "geom:longitude":-70.26189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"364 Cumberland Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404071267,
-    "wof:lastmodified":1449039876,
+    "wof:lastmodified":1466586584,
     "wof:name":"Asynchronous Engineering",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-70.26189,43.657712,-70.26189,43.657712],
-  "geometry": {"coordinates":[-70.26189,43.657712],"type":"Point"}
+  "bbox": [
+    -70.26189,
+    43.657712,
+    -70.26189,
+    43.657712
+],
+  "geometry": {"coordinates":[-70.26188999999999,43.657712],"type":"Point"}
 }

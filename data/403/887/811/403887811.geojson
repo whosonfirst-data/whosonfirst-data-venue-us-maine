@@ -2,13 +2,14 @@
   "id": 403887811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.211668,44.085263,-70.211668,44.085263",
     "geom:latitude":44.085263,
     "geom:longitude":-70.211668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Lincoln St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403887811,
-    "wof:lastmodified":1449055694,
+    "wof:lastmodified":1466586773,
     "wof:name":"Brake Service & Parts Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-70.211668,44.085263,-70.211668,44.085263],
+  "bbox": [
+    -70.211668,
+    44.085263,
+    -70.211668,
+    44.085263
+],
   "geometry": {"coordinates":[-70.211668,44.085263],"type":"Point"}
 }

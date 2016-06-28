@@ -2,13 +2,14 @@
   "id": 387968945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.927879,43.800735,-69.927879,43.800735",
     "geom:latitude":43.800735,
     "geom:longitude":-69.927879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Wilbur's Way",
     "sg:city":"Harpswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387968945,
-    "wof:lastmodified":1449056349,
+    "wof:lastmodified":1466587311,
     "wof:name":"Great Island Kennel",
     "wof:parent_id":85815689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sitting"
     ]
 },
-  "bbox": [-69.927879,43.800735,-69.927879,43.800735],
+  "bbox": [
+    -69.927879,
+    43.800735,
+    -69.927879,
+    43.800735
+],
   "geometry": {"coordinates":[-69.927879,43.800735],"type":"Point"}
 }

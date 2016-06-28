@@ -2,13 +2,14 @@
   "id": 403723183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.007763,46.688119,-68.007763,46.688119",
     "geom:latitude":46.688119,
     "geom:longitude":-68.007763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 North St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403723183,
-    "wof:lastmodified":1449055422,
+    "wof:lastmodified":1466585883,
     "wof:name":"Visiting Nurses Of Aroostook",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "registry"
     ]
 },
-  "bbox": [-68.007763,46.688119,-68.007763,46.688119],
+  "bbox": [
+    -68.007763,
+    46.688119,
+    -68.007763,
+    46.688119
+],
   "geometry": {"coordinates":[-68.007763,46.688119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403954819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242993,44.072492,-70.242993,44.072492",
     "geom:latitude":44.072492,
     "geom:longitude":-70.242993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"497 Washington St N",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403954819,
-    "wof:lastmodified":1449055797,
+    "wof:lastmodified":1466587157,
     "wof:name":"Chapman Trucking",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-70.242993,44.072492,-70.242993,44.072492],
+  "bbox": [
+    -70.242993,
+    44.072492,
+    -70.242993,
+    44.072492
+],
   "geometry": {"coordinates":[-70.242993,44.072492],"type":"Point"}
 }

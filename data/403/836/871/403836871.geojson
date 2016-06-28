@@ -2,13 +2,14 @@
   "id": 403836871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.456492,44.532368,-70.456492,44.532368",
     "geom:latitude":44.532368,
     "geom:longitude":-70.456492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Weld St",
     "sg:city":"Dixfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403836871,
-    "wof:lastmodified":1449055497,
+    "wof:lastmodified":1466586546,
     "wof:name":"Frechettes",
     "wof:parent_id":85814509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "snowmobile"
     ]
 },
-  "bbox": [-70.456492,44.532368,-70.456492,44.532368],
+  "bbox": [
+    -70.456492,
+    44.532368,
+    -70.456492,
+    44.532368
+],
   "geometry": {"coordinates":[-70.456492,44.532368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403872101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.228301,43.635347,-70.228301,43.635347",
     "geom:latitude":43.635347,
     "geom:longitude":-70.228301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Boyd Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403872101,
-    "wof:lastmodified":1449054753,
+    "wof:lastmodified":1466586795,
     "wof:name":"Michael A Butler Building",
     "wof:parent_id":85867975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.228301,43.635347,-70.228301,43.635347],
+  "bbox": [
+    -70.228301,
+    43.635347,
+    -70.228301,
+    43.635347
+],
   "geometry": {"coordinates":[-70.228301,43.635347],"type":"Point"}
 }

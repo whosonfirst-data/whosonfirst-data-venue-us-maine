@@ -2,13 +2,14 @@
   "id": 403908289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.794474,44.755199,-68.794474,44.755199",
     "geom:latitude":44.755199,
     "geom:longitude":-68.794474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"194 River Rd",
     "sg:city":"Orrington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403908289,
-    "wof:lastmodified":1449055394,
+    "wof:lastmodified":1466586943,
     "wof:name":"Smith's Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.794474,44.755199,-68.794474,44.755199],
-  "geometry": {"coordinates":[-68.794474,44.755199],"type":"Point"}
+  "bbox": [
+    -68.794474,
+    44.755199,
+    -68.794474,
+    44.755199
+],
+  "geometry": {"coordinates":[-68.79447399999999,44.755199],"type":"Point"}
 }

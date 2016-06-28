@@ -2,13 +2,14 @@
   "id": 387697159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.492224,43.478418,-70.492224,43.478418",
     "geom:latitude":43.478418,
     "geom:longitude":-70.492224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Medical Center Dr",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387697159,
-    "wof:lastmodified":1449058506,
+    "wof:lastmodified":1466586717,
     "wof:name":"Pain Clinic",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.492224,43.478418,-70.492224,43.478418],
-  "geometry": {"coordinates":[-70.492224,43.478418],"type":"Point"}
+  "bbox": [
+    -70.492224,
+    43.478418,
+    -70.492224,
+    43.478418
+],
+  "geometry": {"coordinates":[-70.49222399999999,43.478418],"type":"Point"}
 }

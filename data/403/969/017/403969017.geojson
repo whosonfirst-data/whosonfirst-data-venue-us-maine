@@ -2,13 +2,14 @@
   "id": 403969017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.972082,43.82904,-69.972082,43.82904",
     "geom:latitude":43.82904,
     "geom:longitude":-69.972082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Spy Rock Rd",
     "sg:city":"Harpswell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403969017,
-    "wof:lastmodified":1449054964,
+    "wof:lastmodified":1466587123,
     "wof:name":"Amy N Haible",
     "wof:parent_id":85837691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-69.972082,43.82904,-69.972082,43.82904],
+  "bbox": [
+    -69.972082,
+    43.82904,
+    -69.972082,
+    43.82904
+],
   "geometry": {"coordinates":[-69.972082,43.82904],"type":"Point"}
 }

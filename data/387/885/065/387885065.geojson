@@ -2,13 +2,14 @@
   "id": 387885065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.2008,44.101561,-70.2008,44.101561",
     "geom:latitude":44.101561,
     "geom:longitude":-70.2008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Golder St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387885065,
-    "wof:lastmodified":1449058132,
+    "wof:lastmodified":1466587305,
     "wof:name":"Respiratory Health-Dept",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.2008,44.101561,-70.2008,44.101561],
+  "bbox": [
+    -70.2008,
+    44.101561,
+    -70.2008,
+    44.101561
+],
   "geometry": {"coordinates":[-70.2008,44.101561],"type":"Point"}
 }

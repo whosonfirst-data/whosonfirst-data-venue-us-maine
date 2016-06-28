@@ -2,13 +2,14 @@
   "id": 387616647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.440647,44.544722,-70.440647,44.544722",
     "geom:latitude":44.544722,
     "geom:longitude":-70.440647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Holt Hill Rd",
     "sg:city":"Dixfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387616647,
-    "wof:lastmodified":1449058901,
+    "wof:lastmodified":1466585678,
     "wof:name":"Rumford Group Home Transition",
     "wof:parent_id":85814509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelter"
     ]
 },
-  "bbox": [-70.440647,44.544722,-70.440647,44.544722],
+  "bbox": [
+    -70.440647,
+    44.544722,
+    -70.440647,
+    44.544722
+],
   "geometry": {"coordinates":[-70.440647,44.544722],"type":"Point"}
 }

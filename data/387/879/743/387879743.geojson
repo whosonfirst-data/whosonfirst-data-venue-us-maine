@@ -2,13 +2,14 @@
   "id": 387879743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.454292,45.096571,-69.454292,45.096571",
     "geom:latitude":45.096571,
     "geom:longitude":-69.454292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Manter School Rd",
     "sg:city":"Guilford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387879743,
-    "wof:lastmodified":1449056150,
+    "wof:lastmodified":1466587294,
     "wof:name":"Manchester Tristam",
     "wof:parent_id":85806555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.454292,45.096571,-69.454292,45.096571],
+  "bbox": [
+    -69.454292,
+    45.096571,
+    -69.454292,
+    45.096571
+],
   "geometry": {"coordinates":[-69.454292,45.096571],"type":"Point"}
 }

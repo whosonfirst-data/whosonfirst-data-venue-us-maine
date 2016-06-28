@@ -2,13 +2,14 @@
   "id": 403959767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.64209,44.402741,-70.64209,44.402741",
     "geom:latitude":44.402741,
     "geom:longitude":-70.64209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"266 Rumford Ave",
     "sg:city":"Andover",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403959767,
-    "wof:lastmodified":1449055834,
+    "wof:lastmodified":1466586987,
     "wof:name":"A & B Forestry",
     "wof:parent_id":85831117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logging"
     ]
 },
-  "bbox": [-70.64209,44.402741,-70.64209,44.402741],
+  "bbox": [
+    -70.64209,
+    44.402741,
+    -70.64209,
+    44.402741
+],
   "geometry": {"coordinates":[-70.64209,44.402741],"type":"Point"}
 }

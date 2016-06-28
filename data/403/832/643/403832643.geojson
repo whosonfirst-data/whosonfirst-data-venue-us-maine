@@ -2,13 +2,14 @@
   "id": 403832643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.815556,44.904005,-68.815556,44.904005",
     "geom:latitude":44.904005,
     "geom:longitude":-68.815556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Beach Grove Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403832643,
-    "wof:lastmodified":1449054632,
+    "wof:lastmodified":1466586474,
     "wof:name":"Knapp Mobile Home Park",
     "wof:parent_id":85848853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "site"
     ]
 },
-  "bbox": [-68.815556,44.904005,-68.815556,44.904005],
+  "bbox": [
+    -68.815556,
+    44.904005,
+    -68.815556,
+    44.904005
+],
   "geometry": {"coordinates":[-68.815556,44.904005],"type":"Point"}
 }

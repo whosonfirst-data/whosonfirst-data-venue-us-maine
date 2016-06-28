@@ -2,13 +2,14 @@
   "id": 403888529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.104456,44.031576,-70.104456,44.031576",
     "geom:latitude":44.031576,
     "geom:longitude":-70.104456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"273 Lisbon St",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403888529,
-    "wof:lastmodified":1449055470,
+    "wof:lastmodified":1466586784,
     "wof:name":"Lisbon Schoolhouse",
     "wof:parent_id":85830839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-70.104456,44.031576,-70.104456,44.031576],
+  "bbox": [
+    -70.104456,
+    44.031576,
+    -70.104456,
+    44.031576
+],
   "geometry": {"coordinates":[-70.104456,44.031576],"type":"Point"}
 }

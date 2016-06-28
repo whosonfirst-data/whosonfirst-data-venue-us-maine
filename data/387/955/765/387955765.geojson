@@ -2,13 +2,14 @@
   "id": 387955765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.719781,44.788384,-68.719781,44.788384",
     "geom:latitude":44.788384,
     "geom:longitude":-68.719781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Lambert Rd",
     "sg:city":"Eddington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387955765,
-    "wof:lastmodified":1449058750,
+    "wof:lastmodified":1466587338,
     "wof:name":"Cossette Solutions",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.719781,44.788384,-68.719781,44.788384],
+  "bbox": [
+    -68.719781,
+    44.788384,
+    -68.719781,
+    44.788384
+],
   "geometry": {"coordinates":[-68.719781,44.788384],"type":"Point"}
 }

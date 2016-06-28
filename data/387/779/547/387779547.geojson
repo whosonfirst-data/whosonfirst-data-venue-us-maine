@@ -2,13 +2,14 @@
   "id": 387779547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.707926,45.658845,-68.707926,45.658845",
     "geom:latitude":45.658845,
     "geom:longitude":-68.707926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Spring St",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387779547,
-    "wof:lastmodified":1449056685,
+    "wof:lastmodified":1466586994,
     "wof:name":"Katahdin Time Dollar Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.707926,45.658845,-68.707926,45.658845],
+  "bbox": [
+    -68.707926,
+    45.658845,
+    -68.707926,
+    45.658845
+],
   "geometry": {"coordinates":[-68.707926,45.658845],"type":"Point"}
 }

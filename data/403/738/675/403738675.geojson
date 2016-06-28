@@ -2,13 +2,14 @@
   "id": 403738675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.243224,43.726234,-70.243224,43.726234",
     "geom:latitude":43.726234,
     "geom:longitude":-70.243224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Middle Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403738675,
-    "wof:lastmodified":1449055583,
+    "wof:lastmodified":1466586045,
     "wof:name":"Lynne McGhee Talent",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-70.243224,43.726234,-70.243224,43.726234],
+  "bbox": [
+    -70.243224,
+    43.726234,
+    -70.243224,
+    43.726234
+],
   "geometry": {"coordinates":[-70.243224,43.726234],"type":"Point"}
 }

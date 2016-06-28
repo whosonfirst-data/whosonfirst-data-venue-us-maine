@@ -2,13 +2,14 @@
   "id": 403968549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.4423,43.49998,-70.4423,43.49998",
     "geom:latitude":43.49998,
     "geom:longitude":-70.4423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Middle St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403968549,
-    "wof:lastmodified":1449054714,
+    "wof:lastmodified":1466587209,
     "wof:name":"Graphic Arts Lab",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-70.4423,43.49998,-70.4423,43.49998],
+  "bbox": [
+    -70.4423,
+    43.49998,
+    -70.4423,
+    43.49998
+],
   "geometry": {"coordinates":[-70.4423,43.49998],"type":"Point"}
 }

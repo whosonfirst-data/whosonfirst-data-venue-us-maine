@@ -2,13 +2,14 @@
   "id": 387703905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.654056,44.93328,-68.654056,44.93328",
     "geom:latitude":44.93328,
     "geom:longitude":-68.654056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Elm St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387703905,
-    "wof:lastmodified":1449057254,
+    "wof:lastmodified":1466586672,
     "wof:name":"Stamp Act",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.654056,44.93328,-68.654056,44.93328],
+  "bbox": [
+    -68.654056,
+    44.93328,
+    -68.654056,
+    44.93328
+],
   "geometry": {"coordinates":[-68.654056,44.93328],"type":"Point"}
 }

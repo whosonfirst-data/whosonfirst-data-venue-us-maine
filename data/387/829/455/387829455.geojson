@@ -2,13 +2,14 @@
   "id": 387829455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.250772,43.720903,-70.250772,43.720903",
     "geom:latitude":43.720903,
     "geom:longitude":-70.250772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Blueberry Ln",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387829455,
-    "wof:lastmodified":1449059673,
+    "wof:lastmodified":1466587119,
     "wof:name":"Ocean View At Falmouth",
     "wof:parent_id":85816239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "community"
     ]
 },
-  "bbox": [-70.250772,43.720903,-70.250772,43.720903],
+  "bbox": [
+    -70.250772,
+    43.720903,
+    -70.250772,
+    43.720903
+],
   "geometry": {"coordinates":[-70.250772,43.720903],"type":"Point"}
 }

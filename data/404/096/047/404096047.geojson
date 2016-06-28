@@ -2,13 +2,14 @@
   "id": 404096047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.779998,44.81656,-68.779998,44.81656",
     "geom:latitude":44.81656,
     "geom:longitude":-68.779998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Poplar St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404096047,
-    "wof:lastmodified":1449039403,
+    "wof:lastmodified":1466585936,
     "wof:name":"Shapero Jane Laeger",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-68.779998,44.81656,-68.779998,44.81656],
-  "geometry": {"coordinates":[-68.779998,44.81656],"type":"Point"}
+  "bbox": [
+    -68.779998,
+    44.81656,
+    -68.779998,
+    44.81656
+],
+  "geometry": {"coordinates":[-68.77999800000001,44.81656],"type":"Point"}
 }

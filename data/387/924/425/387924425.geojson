@@ -2,13 +2,14 @@
   "id": 387924425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.775121,43.448177,-70.775121,43.448177",
     "geom:latitude":43.448177,
     "geom:longitude":-70.775121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Brook St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387924425,
-    "wof:lastmodified":1449057152,
+    "wof:lastmodified":1466587330,
     "wof:name":"Jo-Anns Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-70.775121,43.448177,-70.775121,43.448177],
+  "bbox": [
+    -70.775121,
+    43.448177,
+    -70.775121,
+    43.448177
+],
   "geometry": {"coordinates":[-70.775121,43.448177],"type":"Point"}
 }

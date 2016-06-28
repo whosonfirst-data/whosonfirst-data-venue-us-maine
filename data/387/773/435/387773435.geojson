@@ -2,13 +2,14 @@
   "id": 387773435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.257175,43.680147,-70.257175,43.680147",
     "geom:latitude":43.680147,
     "geom:longitude":-70.257175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Washington Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387773435,
-    "wof:lastmodified":1449056591,
+    "wof:lastmodified":1466587083,
     "wof:name":"Howie's Pub",
     "wof:parent_id":85816239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.257175,43.680147,-70.257175,43.680147],
+  "bbox": [
+    -70.257175,
+    43.680147,
+    -70.257175,
+    43.680147
+],
   "geometry": {"coordinates":[-70.257175,43.680147],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403915367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.450033,43.740926,-70.450033,43.740926",
     "geom:latitude":43.740926,
     "geom:longitude":-70.450033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Sebago Lake Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403915367,
-    "wof:lastmodified":1449055938,
+    "wof:lastmodified":1466586963,
     "wof:name":"Kal Maine",
     "wof:parent_id":85830911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialty"
     ]
 },
-  "bbox": [-70.450033,43.740926,-70.450033,43.740926],
+  "bbox": [
+    -70.450033,
+    43.740926,
+    -70.450033,
+    43.740926
+],
   "geometry": {"coordinates":[-70.450033,43.740926],"type":"Point"}
 }

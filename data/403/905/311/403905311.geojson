@@ -2,13 +2,14 @@
   "id": 403905311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.404804,45.154722,-67.404804,45.154722",
     "geom:latitude":45.154722,
     "geom:longitude":-67.404804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Main St",
     "sg:city":"Blue Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403905311,
-    "wof:lastmodified":1449055162,
+    "wof:lastmodified":1466586936,
     "wof:name":"Saltmeadow Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.404804,45.154722,-67.404804,45.154722],
+  "bbox": [
+    -67.404804,
+    45.154722,
+    -67.404804,
+    45.154722
+],
   "geometry": {"coordinates":[-67.404804,45.154722],"type":"Point"}
 }

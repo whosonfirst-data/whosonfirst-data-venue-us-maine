@@ -2,13 +2,14 @@
   "id": 404178135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.426921,43.507816,-70.426921,43.507816",
     "geom:latitude":43.507816,
     "geom:longitude":-70.426921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Coolidge Ave",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404178135,
-    "wof:lastmodified":1449039983,
+    "wof:lastmodified":1466586822,
     "wof:name":"Deb's Cleaning Svc",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-70.426921,43.507816,-70.426921,43.507816],
-  "geometry": {"coordinates":[-70.426921,43.507816],"type":"Point"}
+  "bbox": [
+    -70.426921,
+    43.507816,
+    -70.426921,
+    43.507816
+],
+  "geometry": {"coordinates":[-70.42692099999999,43.507816],"type":"Point"}
 }

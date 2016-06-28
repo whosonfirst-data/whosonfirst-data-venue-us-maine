@@ -2,13 +2,14 @@
   "id": 404168377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.385926,43.476279,-70.385926,43.476279",
     "geom:latitude":43.476279,
     "geom:longitude":-70.385926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Seaside Ave",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404168377,
-    "wof:lastmodified":1449039747,
+    "wof:lastmodified":1466586785,
     "wof:name":"Stephen Whelan Construction",
     "wof:parent_id":85819227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.385926,43.476279,-70.385926,43.476279],
+  "bbox": [
+    -70.385926,
+    43.476279,
+    -70.385926,
+    43.476279
+],
   "geometry": {"coordinates":[-70.385926,43.476279],"type":"Point"}
 }

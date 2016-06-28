@@ -2,13 +2,14 @@
   "id": 404076499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.191579,44.145642,-70.191579,44.145642",
     "geom:latitude":44.145642,
     "geom:longitude":-70.191579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1543 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404076499,
-    "wof:lastmodified":1449040036,
+    "wof:lastmodified":1466586620,
     "wof:name":"Detailz Auto",
     "wof:parent_id":85819719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-70.191579,44.145642,-70.191579,44.145642],
+  "bbox": [
+    -70.191579,
+    44.145642,
+    -70.191579,
+    44.145642
+],
   "geometry": {"coordinates":[-70.191579,44.145642],"type":"Point"}
 }

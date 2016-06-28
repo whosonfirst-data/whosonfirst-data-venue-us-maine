@@ -2,13 +2,14 @@
   "id": 403924907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.004994,46.654129,-68.004994,46.654129",
     "geom:latitude":46.654129,
     "geom:longitude":-68.004994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Houlton Rd",
     "sg:city":"Island Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403924907,
-    "wof:lastmodified":1449055014,
+    "wof:lastmodified":1466587010,
     "wof:name":"Island Falls Water Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-68.004994,46.654129,-68.004994,46.654129],
+  "bbox": [
+    -68.004994,
+    46.654129,
+    -68.004994,
+    46.654129
+],
   "geometry": {"coordinates":[-68.004994,46.654129],"type":"Point"}
 }

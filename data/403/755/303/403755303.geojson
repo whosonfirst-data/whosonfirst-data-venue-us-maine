@@ -2,13 +2,14 @@
   "id": 403755303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.53844,43.387043,-70.53844,43.387043",
     "geom:latitude":43.387043,
     "geom:longitude":-70.53844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Main St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403755303,
-    "wof:lastmodified":1449055014,
+    "wof:lastmodified":1466586322,
     "wof:name":"Cole Harrison Agency Inc",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.53844,43.387043,-70.53844,43.387043],
-  "geometry": {"coordinates":[-70.53844,43.387043],"type":"Point"}
+  "bbox": [
+    -70.53844,
+    43.387043,
+    -70.53844,
+    43.387043
+],
+  "geometry": {"coordinates":[-70.53843999999999,43.387043],"type":"Point"}
 }

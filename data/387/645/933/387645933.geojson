@@ -2,13 +2,14 @@
   "id": 387645933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.103345,43.861023,-70.103345,43.861023",
     "geom:latitude":43.861023,
     "geom:longitude":-70.103345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Mallet Dr",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387645933,
-    "wof:lastmodified":1449056490,
+    "wof:lastmodified":1466585944,
     "wof:name":"Ania Small PHD",
     "wof:parent_id":85832875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-70.103345,43.861023,-70.103345,43.861023],
+  "bbox": [
+    -70.103345,
+    43.861023,
+    -70.103345,
+    43.861023
+],
   "geometry": {"coordinates":[-70.103345,43.861023],"type":"Point"}
 }

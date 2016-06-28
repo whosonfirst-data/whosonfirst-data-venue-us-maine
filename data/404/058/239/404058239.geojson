@@ -2,13 +2,14 @@
   "id": 404058239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.268262,43.654174,-70.268262,43.654174",
     "geom:latitude":43.654174,
     "geom:longitude":-70.268262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Deering St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404058239,
-    "wof:lastmodified":1449039189,
+    "wof:lastmodified":1466586410,
     "wof:name":"Ed Duplessis Drywall",
     "wof:parent_id":85880027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.268262,43.654174,-70.268262,43.654174],
-  "geometry": {"coordinates":[-70.268262,43.654174],"type":"Point"}
+  "bbox": [
+    -70.268262,
+    43.654174,
+    -70.268262,
+    43.654174
+],
+  "geometry": {"coordinates":[-70.26826199999999,43.654174],"type":"Point"}
 }

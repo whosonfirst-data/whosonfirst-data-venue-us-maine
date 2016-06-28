@@ -2,13 +2,14 @@
   "id": 404093513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225525,44.08983,-70.225525,44.08983",
     "geom:latitude":44.08983,
     "geom:longitude":-70.225525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Laurel Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404093513,
-    "wof:lastmodified":1449039083,
+    "wof:lastmodified":1466585902,
     "wof:name":"Video Recovery",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cassette"
     ]
 },
-  "bbox": [-70.225525,44.08983,-70.225525,44.08983],
+  "bbox": [
+    -70.225525,
+    44.08983,
+    -70.225525,
+    44.08983
+],
   "geometry": {"coordinates":[-70.225525,44.08983],"type":"Point"}
 }

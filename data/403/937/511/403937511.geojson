@@ -2,13 +2,14 @@
   "id": 403937511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.312973,43.673785,-70.312973,43.673785",
     "geom:latitude":43.673785,
     "geom:longitude":-70.312973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Dennet St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403937511,
-    "wof:lastmodified":1449054893,
+    "wof:lastmodified":1466587128,
     "wof:name":"Jetport Taxi Inc",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-70.312973,43.673785,-70.312973,43.673785],
+  "bbox": [
+    -70.312973,
+    43.673785,
+    -70.312973,
+    43.673785
+],
   "geometry": {"coordinates":[-70.312973,43.673785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387586051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.178726,44.578872,-70.178726,44.578872",
     "geom:latitude":44.578872,
     "geom:longitude":-70.178726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Depot St",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387586051,
-    "wof:lastmodified":1449059481,
+    "wof:lastmodified":1466586107,
     "wof:name":"Woodsprite Orchids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plant"
     ]
 },
-  "bbox": [-70.178726,44.578872,-70.178726,44.578872],
+  "bbox": [
+    -70.178726,
+    44.578872,
+    -70.178726,
+    44.578872
+],
   "geometry": {"coordinates":[-70.178726,44.578872],"type":"Point"}
 }

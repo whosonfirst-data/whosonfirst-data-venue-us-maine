@@ -2,13 +2,14 @@
   "id": 387575009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.888705,44.019387,-69.888705,44.019387",
     "geom:latitude":44.019387,
     "geom:longitude":-69.888705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Ridge Rd",
     "sg:city":"Bowdoinham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387575009,
-    "wof:lastmodified":1449057203,
+    "wof:lastmodified":1466586659,
     "wof:name":"Project Pluto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mail"
     ]
 },
-  "bbox": [-69.888705,44.019387,-69.888705,44.019387],
+  "bbox": [
+    -69.888705,
+    44.019387,
+    -69.888705,
+    44.019387
+],
   "geometry": {"coordinates":[-69.888705,44.019387],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403909765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.248737,43.66508,-70.248737,43.66508",
     "geom:latitude":43.66508,
     "geom:longitude":-70.248737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Kellogg St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403909765,
-    "wof:lastmodified":1449055627,
+    "wof:lastmodified":1466586945,
     "wof:name":"Anne Deleon",
     "wof:parent_id":85835993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.248737,43.66508,-70.248737,43.66508],
-  "geometry": {"coordinates":[-70.248737,43.66508],"type":"Point"}
+  "bbox": [
+    -70.248737,
+    43.66508,
+    -70.248737,
+    43.66508
+],
+  "geometry": {"coordinates":[-70.24873700000001,43.66508],"type":"Point"}
 }

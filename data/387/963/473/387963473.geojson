@@ -2,13 +2,14 @@
   "id": 387963473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.377543,43.676061,-70.377543,43.676061",
     "geom:latitude":43.676061,
     "geom:longitude":-70.377543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Longfellow St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387963473,
-    "wof:lastmodified":1449056471,
+    "wof:lastmodified":1466587301,
     "wof:name":"Gorham Fence Co Inc",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "highway"
     ]
 },
-  "bbox": [-70.377543,43.676061,-70.377543,43.676061],
+  "bbox": [
+    -70.377543,
+    43.676061,
+    -70.377543,
+    43.676061
+],
   "geometry": {"coordinates":[-70.377543,43.676061],"type":"Point"}
 }

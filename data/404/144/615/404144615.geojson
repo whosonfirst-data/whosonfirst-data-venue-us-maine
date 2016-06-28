@@ -2,13 +2,14 @@
   "id": 404144615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.413607,43.606706,-70.413607,43.606706",
     "geom:latitude":43.606706,
     "geom:longitude":-70.413607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Holmes Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404144615,
-    "wof:lastmodified":1449039994,
+    "wof:lastmodified":1466586813,
     "wof:name":"Morin & Sons Remodeling",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.413607,43.606706,-70.413607,43.606706],
+  "bbox": [
+    -70.413607,
+    43.606706,
+    -70.413607,
+    43.606706
+],
   "geometry": {"coordinates":[-70.413607,43.606706],"type":"Point"}
 }

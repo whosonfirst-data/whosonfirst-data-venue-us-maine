@@ -2,13 +2,14 @@
   "id": 403709747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.224004,44.193971,-69.224004,44.193971",
     "geom:latitude":44.193971,
     "geom:longitude":-69.224004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"496 Wottons Mill Rd",
     "sg:city":"Union",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403709747,
-    "wof:lastmodified":1449054898,
+    "wof:lastmodified":1466585720,
     "wof:name":"Maine Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-69.224004,44.193971,-69.224004,44.193971],
-  "geometry": {"coordinates":[-69.224004,44.193971],"type":"Point"}
+  "bbox": [
+    -69.224004,
+    44.193971,
+    -69.224004,
+    44.193971
+],
+  "geometry": {"coordinates":[-69.22400399999999,44.193971],"type":"Point"}
 }

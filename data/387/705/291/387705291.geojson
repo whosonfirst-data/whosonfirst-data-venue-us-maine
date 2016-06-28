@@ -2,13 +2,14 @@
   "id": 387705291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.335047,43.877961,-70.335047,43.877961",
     "geom:latitude":43.877961,
     "geom:longitude":-70.335047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Frost Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387705291,
-    "wof:lastmodified":1449059940,
+    "wof:lastmodified":1466586758,
     "wof:name":"Kimball's & Dube's Garage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.335047,43.877961,-70.335047,43.877961],
+  "bbox": [
+    -70.335047,
+    43.877961,
+    -70.335047,
+    43.877961
+],
   "geometry": {"coordinates":[-70.335047,43.877961],"type":"Point"}
 }

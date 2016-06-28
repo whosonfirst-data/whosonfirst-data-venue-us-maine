@@ -2,13 +2,14 @@
   "id": 387593977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.000949,44.42101,-69.000949,44.42101",
     "geom:latitude":44.42101,
     "geom:longitude":-69.000949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Church St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387593977,
-    "wof:lastmodified":1449058636,
+    "wof:lastmodified":1466586230,
     "wof:name":"Admiral Title Co Inc",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-69.000949,44.42101,-69.000949,44.42101],
-  "geometry": {"coordinates":[-69.000949,44.42101],"type":"Point"}
+  "bbox": [
+    -69.000949,
+    44.42101,
+    -69.000949,
+    44.42101
+],
+  "geometry": {"coordinates":[-69.00094900000001,44.42101],"type":"Point"}
 }

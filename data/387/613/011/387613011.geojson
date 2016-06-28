@@ -2,13 +2,14 @@
   "id": 387613011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.695371,44.834853,-68.695371,44.834853",
     "geom:latitude":44.834853,
     "geom:longitude":-68.695371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Riverside Dr",
     "sg:city":"Eddington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387613011,
-    "wof:lastmodified":1449057876,
+    "wof:lastmodified":1466586680,
     "wof:name":"Greenwood Acres Campground",
     "wof:parent_id":85804681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.695371,44.834853,-68.695371,44.834853],
-  "geometry": {"coordinates":[-68.695371,44.834853],"type":"Point"}
+  "bbox": [
+    -68.695371,
+    44.834853,
+    -68.695371,
+    44.834853
+],
+  "geometry": {"coordinates":[-68.69537099999999,44.834853],"type":"Point"}
 }

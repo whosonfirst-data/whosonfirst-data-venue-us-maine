@@ -2,13 +2,14 @@
   "id": 403716751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.87569,43.399788,-70.87569,43.399788",
     "geom:latitude":43.399788,
     "geom:longitude":-70.87569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Carl Broggi Hwy",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403716751,
-    "wof:lastmodified":1449054812,
+    "wof:lastmodified":1466585824,
     "wof:name":"Northern Explosion Cloggers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dancing"
     ]
 },
-  "bbox": [-70.87569,43.399788,-70.87569,43.399788],
-  "geometry": {"coordinates":[-70.87569,43.399788],"type":"Point"}
+  "bbox": [
+    -70.87569,
+    43.399788,
+    -70.87569,
+    43.399788
+],
+  "geometry": {"coordinates":[-70.87569000000001,43.399788],"type":"Point"}
 }

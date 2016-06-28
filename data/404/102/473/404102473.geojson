@@ -2,13 +2,14 @@
   "id": 404102473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.334728,43.715888,-70.334728,43.715888",
     "geom:latitude":43.715888,
     "geom:longitude":-70.334728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Elmwood Ave",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404102473,
-    "wof:lastmodified":1449040250,
+    "wof:lastmodified":1466586032,
     "wof:name":"Windham Little League Four",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-70.334728,43.715888,-70.334728,43.715888],
+  "bbox": [
+    -70.334728,
+    43.715888,
+    -70.334728,
+    43.715888
+],
   "geometry": {"coordinates":[-70.334728,43.715888],"type":"Point"}
 }

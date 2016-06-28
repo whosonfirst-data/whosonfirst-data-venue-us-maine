@@ -2,13 +2,14 @@
   "id": 403998693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.467137,44.713415,-67.467137,44.713415",
     "geom:latitude":44.713415,
     "geom:longitude":-67.467137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Court St",
     "sg:city":"Machias",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403998693,
-    "wof:lastmodified":1449055066,
+    "wof:lastmodified":1466587187,
     "wof:name":"Home Town Variety & Take Out",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "out"
     ]
 },
-  "bbox": [-67.467137,44.713415,-67.467137,44.713415],
-  "geometry": {"coordinates":[-67.467137,44.713415],"type":"Point"}
+  "bbox": [
+    -67.467137,
+    44.713415,
+    -67.467137,
+    44.713415
+],
+  "geometry": {"coordinates":[-67.46713699999999,44.713415],"type":"Point"}
 }

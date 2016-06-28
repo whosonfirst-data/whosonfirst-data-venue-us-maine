@@ -2,13 +2,14 @@
   "id": 404170683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.743014,43.086177,-70.743014,43.086177",
     "geom:latitude":43.086177,
     "geom:longitude":-70.743014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Wallingford Sq",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404170683,
-    "wof:lastmodified":1449039130,
+    "wof:lastmodified":1466586798,
     "wof:name":"Cutting Room",
     "wof:parent_id":85828587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.743014,43.086177,-70.743014,43.086177],
+  "bbox": [
+    -70.743014,
+    43.086177,
+    -70.743014,
+    43.086177
+],
   "geometry": {"coordinates":[-70.743014,43.086177],"type":"Point"}
 }

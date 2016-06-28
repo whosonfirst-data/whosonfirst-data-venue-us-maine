@@ -2,13 +2,14 @@
   "id": 387768369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.209829,44.097307,-70.209829,44.097307",
     "geom:latitude":44.097307,
     "geom:longitude":-70.209829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Pine St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387768369,
-    "wof:lastmodified":1449057571,
+    "wof:lastmodified":1466587051,
     "wof:name":"Webb's Market",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-70.209829,44.097307,-70.209829,44.097307],
+  "bbox": [
+    -70.209829,
+    44.097307,
+    -70.209829,
+    44.097307
+],
   "geometry": {"coordinates":[-70.209829,44.097307],"type":"Point"}
 }

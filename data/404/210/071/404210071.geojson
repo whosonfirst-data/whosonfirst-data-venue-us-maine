@@ -2,13 +2,14 @@
   "id": 404210071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.847104,43.303256,-70.847104,43.303256",
     "geom:latitude":43.303256,
     "geom:longitude":-70.847104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Cranberry Meadow Rd",
     "sg:city":"Berwick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404210071,
-    "wof:lastmodified":1449039420,
+    "wof:lastmodified":1466586955,
     "wof:name":"Mainely Custom By Design Inc",
     "wof:parent_id":85892311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabricating"
     ]
 },
-  "bbox": [-70.847104,43.303256,-70.847104,43.303256],
+  "bbox": [
+    -70.847104,
+    43.303256,
+    -70.847104,
+    43.303256
+],
   "geometry": {"coordinates":[-70.847104,43.303256],"type":"Point"}
 }

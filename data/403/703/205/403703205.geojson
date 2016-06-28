@@ -2,13 +2,14 @@
   "id": 403703205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.808631,43.180525,-70.808631,43.180525",
     "geom:latitude":43.180525,
     "geom:longitude":-70.808631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Dow Hwy",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403703205,
-    "wof:lastmodified":1449055047,
+    "wof:lastmodified":1466585750,
     "wof:name":"Pike Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.808631,43.180525,-70.808631,43.180525],
-  "geometry": {"coordinates":[-70.808631,43.180525],"type":"Point"}
+  "bbox": [
+    -70.808631,
+    43.180525,
+    -70.808631,
+    43.180525
+],
+  "geometry": {"coordinates":[-70.80863100000001,43.180525],"type":"Point"}
 }

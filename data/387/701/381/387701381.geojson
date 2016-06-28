@@ -2,13 +2,14 @@
   "id": 387701381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.570841,43.33307,-70.570841,43.33307",
     "geom:latitude":43.33307,
     "geom:longitude":-70.570841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2152 Post Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387701381,
-    "wof:lastmodified":1449059112,
+    "wof:lastmodified":1466586734,
     "wof:name":"Douglas Harding Rare Books",
     "wof:parent_id":85815165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.570841,43.33307,-70.570841,43.33307],
+  "bbox": [
+    -70.570841,
+    43.33307,
+    -70.570841,
+    43.33307
+],
   "geometry": {"coordinates":[-70.570841,43.33307],"type":"Point"}
 }

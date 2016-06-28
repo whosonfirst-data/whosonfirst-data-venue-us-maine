@@ -2,13 +2,14 @@
   "id": 387918329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.74569,44.244113,-69.74569,44.244113",
     "geom:latitude":44.244113,
     "geom:longitude":-69.74569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Birmingham Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387918329,
-    "wof:lastmodified":1449058697,
+    "wof:lastmodified":1466587326,
     "wof:name":"Michael Liebel",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-69.74569,44.244113,-69.74569,44.244113],
+  "bbox": [
+    -69.74569,
+    44.244113,
+    -69.74569,
+    44.244113
+],
   "geometry": {"coordinates":[-69.74569,44.244113],"type":"Point"}
 }

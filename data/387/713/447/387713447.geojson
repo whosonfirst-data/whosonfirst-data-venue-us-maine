@@ -2,13 +2,14 @@
   "id": 387713447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.612701,43.72832,-70.612701,43.72832",
     "geom:latitude":43.72832,
     "geom:longitude":-70.612701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Deer Hill N",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387713447,
-    "wof:lastmodified":1449059562,
+    "wof:lastmodified":1466586786,
     "wof:name":"Goyette Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-70.612701,43.72832,-70.612701,43.72832],
+  "bbox": [
+    -70.612701,
+    43.72832,
+    -70.612701,
+    43.72832
+],
   "geometry": {"coordinates":[-70.612701,43.72832],"type":"Point"}
 }

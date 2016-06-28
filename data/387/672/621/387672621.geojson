@@ -2,13 +2,14 @@
   "id": 387672621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.942419,47.165811,-67.942419,47.165811",
     "geom:latitude":47.165811,
     "geom:longitude":-67.942419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Main St",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387672621,
-    "wof:lastmodified":1449056356,
+    "wof:lastmodified":1466586321,
     "wof:name":"Tasty Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.942419,47.165811,-67.942419,47.165811],
+  "bbox": [
+    -67.942419,
+    47.165811,
+    -67.942419,
+    47.165811
+],
   "geometry": {"coordinates":[-67.942419,47.165811],"type":"Point"}
 }

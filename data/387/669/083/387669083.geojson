@@ -2,13 +2,14 @@
   "id": 387669083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.382311,44.264811,-69.382311,44.264811",
     "geom:latitude":44.264811,
     "geom:longitude":-69.382311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Homestead Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387669083,
-    "wof:lastmodified":1449056544,
+    "wof:lastmodified":1466586265,
     "wof:name":"Janus Supportive Living Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.382311,44.264811,-69.382311,44.264811],
+  "bbox": [
+    -69.382311,
+    44.264811,
+    -69.382311,
+    44.264811
+],
   "geometry": {"coordinates":[-69.382311,44.264811],"type":"Point"}
 }

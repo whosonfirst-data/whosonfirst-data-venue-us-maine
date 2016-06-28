@@ -2,13 +2,14 @@
   "id": 403787523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.630943,44.550559,-69.630943,44.550559",
     "geom:latitude":44.550559,
     "geom:longitude":-69.630943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Concourse W",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403787523,
-    "wof:lastmodified":1449055239,
+    "wof:lastmodified":1466586635,
     "wof:name":"Belfast City Public Works Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-69.630943,44.550559,-69.630943,44.550559],
+  "bbox": [
+    -69.630943,
+    44.550559,
+    -69.630943,
+    44.550559
+],
   "geometry": {"coordinates":[-69.630943,44.550559],"type":"Point"}
 }

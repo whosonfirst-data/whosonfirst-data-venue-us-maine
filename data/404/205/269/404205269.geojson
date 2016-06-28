@@ -2,13 +2,14 @@
   "id": 404205269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.30344,43.694827,-70.30344,43.694827",
     "geom:latitude":43.694827,
     "geom:longitude":-70.30344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404205269,
-    "wof:lastmodified":1449039829,
+    "wof:lastmodified":1466586932,
     "wof:name":"Sidelinger Apartments",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-70.30344,43.694827,-70.30344,43.694827],
-  "geometry": {"coordinates":[-70.30344,43.694827],"type":"Point"}
+  "bbox": [
+    -70.30344,
+    43.694827,
+    -70.30344,
+    43.694827
+],
+  "geometry": {"coordinates":[-70.30343999999999,43.694827],"type":"Point"}
 }

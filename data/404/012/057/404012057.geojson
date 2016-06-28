@@ -2,13 +2,14 @@
   "id": 404012057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.412994,43.588849,-70.412994,43.588849",
     "geom:latitude":43.588849,
     "geom:longitude":-70.412994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Stone Brooke Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404012057,
-    "wof:lastmodified":1449040211,
+    "wof:lastmodified":1466585816,
     "wof:name":"Maine Health Mgt Coalition",
     "wof:parent_id":85834397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "employer"
     ]
 },
-  "bbox": [-70.412994,43.588849,-70.412994,43.588849],
+  "bbox": [
+    -70.412994,
+    43.588849,
+    -70.412994,
+    43.588849
+],
   "geometry": {"coordinates":[-70.412994,43.588849],"type":"Point"}
 }

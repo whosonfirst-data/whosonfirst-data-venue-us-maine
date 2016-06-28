@@ -2,13 +2,14 @@
   "id": 403847125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.42277,43.535367,-70.42277,43.535367",
     "geom:latitude":43.535367,
     "geom:longitude":-70.42277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"879 Portland Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403847125,
-    "wof:lastmodified":1449055114,
+    "wof:lastmodified":1466586642,
     "wof:name":"Priced Right Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.42277,43.535367,-70.42277,43.535367],
+  "bbox": [
+    -70.42277,
+    43.535367,
+    -70.42277,
+    43.535367
+],
   "geometry": {"coordinates":[-70.42277,43.535367],"type":"Point"}
 }

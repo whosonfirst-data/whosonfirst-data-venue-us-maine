@@ -2,13 +2,14 @@
   "id": 404098897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.664176,44.002931,-69.664176,44.002931",
     "geom:latitude":44.002931,
     "geom:longitude":-69.664176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Water St",
     "sg:city":"Wiscasset",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404098897,
-    "wof:lastmodified":1449040204,
+    "wof:lastmodified":1466585982,
     "wof:name":"Rent A Husband-Lincoln",
     "wof:parent_id":85820077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-69.664176,44.002931,-69.664176,44.002931],
+  "bbox": [
+    -69.664176,
+    44.002931,
+    -69.664176,
+    44.002931
+],
   "geometry": {"coordinates":[-69.664176,44.002931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403959083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.223873,43.719943,-70.223873,43.719943",
     "geom:latitude":43.719943,
     "geom:longitude":-70.223873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Edgewater Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403959083,
-    "wof:lastmodified":1449055833,
+    "wof:lastmodified":1466586980,
     "wof:name":"MAY Corp",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-70.223873,43.719943,-70.223873,43.719943],
+  "bbox": [
+    -70.223873,
+    43.719943,
+    -70.223873,
+    43.719943
+],
   "geometry": {"coordinates":[-70.223873,43.719943],"type":"Point"}
 }

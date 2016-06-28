@@ -2,13 +2,14 @@
   "id": 387751447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.351075,43.682939,-70.351075,43.682939",
     "geom:latitude":43.682939,
     "geom:longitude":-70.351075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Cumberland St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387751447,
-    "wof:lastmodified":1449056330,
+    "wof:lastmodified":1466586906,
     "wof:name":"Fire Westbrook 911",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-70.351075,43.682939,-70.351075,43.682939],
-  "geometry": {"coordinates":[-70.351075,43.682939],"type":"Point"}
+  "bbox": [
+    -70.351075,
+    43.682939,
+    -70.351075,
+    43.682939
+],
+  "geometry": {"coordinates":[-70.35107499999999,43.682939],"type":"Point"}
 }

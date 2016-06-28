@@ -2,13 +2,14 @@
   "id": 404181059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.649123,43.352628,-70.649123,43.352628",
     "geom:latitude":43.352628,
     "geom:longitude":-70.649123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1931 Sanford Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":404181059,
-    "wof:lastmodified":1449039841,
+    "wof:lastmodified":1466586731,
     "wof:name":"Caron Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [-70.649123,43.352628,-70.649123,43.352628],
+  "bbox": [
+    -70.649123,
+    43.352628,
+    -70.649123,
+    43.352628
+],
   "geometry": {"coordinates":[-70.649123,43.352628],"type":"Point"}
 }

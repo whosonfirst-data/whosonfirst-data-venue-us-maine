@@ -2,13 +2,14 @@
   "id": 387646343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.869999,46.510979,-67.869999,46.510979",
     "geom:latitude":46.510979,
     "geom:longitude":-67.869999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Aci St",
     "sg:city":"Mars Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387646343,
-    "wof:lastmodified":1449056023,
+    "wof:lastmodified":1466585949,
     "wof:name":"Central Aroostook Apprisal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-67.869999,46.510979,-67.869999,46.510979],
-  "geometry": {"coordinates":[-67.869999,46.510979],"type":"Point"}
+  "bbox": [
+    -67.869999,
+    46.510979,
+    -67.869999,
+    46.510979
+],
+  "geometry": {"coordinates":[-67.86999900000001,46.510979],"type":"Point"}
 }

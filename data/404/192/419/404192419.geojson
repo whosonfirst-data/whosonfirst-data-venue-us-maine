@@ -2,13 +2,14 @@
   "id": 404192419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.816306,44.709971,-69.816306,44.709971",
     "geom:latitude":44.709971,
     "geom:longitude":-69.816306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Pleasant Hill Dr",
     "sg:city":"Norridgewock",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404192419,
-    "wof:lastmodified":1449039978,
+    "wof:lastmodified":1466586892,
     "wof:name":"Chris W Stanley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-69.816306,44.709971,-69.816306,44.709971],
+  "bbox": [
+    -69.816306,
+    44.709971,
+    -69.816306,
+    44.709971
+],
   "geometry": {"coordinates":[-69.816306,44.709971],"type":"Point"}
 }

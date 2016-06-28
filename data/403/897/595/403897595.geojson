@@ -2,13 +2,14 @@
   "id": 403897595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.774659,44.313768,-69.774659,44.313768",
     "geom:latitude":44.313768,
     "geom:longitude":-69.774659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 Water St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403897595,
-    "wof:lastmodified":1449055760,
+    "wof:lastmodified":1466586835,
     "wof:name":"Elegant Nails",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-69.774659,44.313768,-69.774659,44.313768],
+  "bbox": [
+    -69.774659,
+    44.313768,
+    -69.774659,
+    44.313768
+],
   "geometry": {"coordinates":[-69.774659,44.313768],"type":"Point"}
 }

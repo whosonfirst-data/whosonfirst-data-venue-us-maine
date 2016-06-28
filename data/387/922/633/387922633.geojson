@@ -2,13 +2,14 @@
   "id": 387922633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.421256,44.901308,-69.421256,44.901308",
     "geom:latitude":44.901308,
     "geom:longitude":-69.421256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Hartland Rd",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387922633,
-    "wof:lastmodified":1449056452,
+    "wof:lastmodified":1466587259,
     "wof:name":"Saint Albans Consolidated Schl",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.421256,44.901308,-69.421256,44.901308],
+  "bbox": [
+    -69.421256,
+    44.901308,
+    -69.421256,
+    44.901308
+],
   "geometry": {"coordinates":[-69.421256,44.901308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387957295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.29145,44.259961,-70.29145,44.259961",
     "geom:latitude":44.259961,
     "geom:longitude":-70.29145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Martin Stream Rd",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387957295,
-    "wof:lastmodified":1449059358,
+    "wof:lastmodified":1466587340,
     "wof:name":"Martin Stream Campsite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.29145,44.259961,-70.29145,44.259961],
+  "bbox": [
+    -70.29145,
+    44.259961,
+    -70.29145,
+    44.259961
+],
   "geometry": {"coordinates":[-70.29145,44.259961],"type":"Point"}
 }

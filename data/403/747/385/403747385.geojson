@@ -2,13 +2,14 @@
   "id": 403747385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.586858,43.72111,-70.586858,43.72111",
     "geom:latitude":43.72111,
     "geom:longitude":-70.586858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Cape Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403747385,
-    "wof:lastmodified":1449054873,
+    "wof:lastmodified":1466586174,
     "wof:name":"Highland Landcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.586858,43.72111,-70.586858,43.72111],
-  "geometry": {"coordinates":[-70.586858,43.72111],"type":"Point"}
+  "bbox": [
+    -70.586858,
+    43.72111,
+    -70.586858,
+    43.72111
+],
+  "geometry": {"coordinates":[-70.58685800000001,43.72111],"type":"Point"}
 }

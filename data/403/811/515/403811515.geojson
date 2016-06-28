@@ -2,13 +2,14 @@
   "id": 403811515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.763592,44.812938,-68.763592,44.812938",
     "geom:latitude":44.812938,
     "geom:longitude":-68.763592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Mount Hope Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403811515,
-    "wof:lastmodified":1449055271,
+    "wof:lastmodified":1466586129,
     "wof:name":"Norumbega Medical Pediatrics",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-68.763592,44.812938,-68.763592,44.812938],
+  "bbox": [
+    -68.763592,
+    44.812938,
+    -68.763592,
+    44.812938
+],
   "geometry": {"coordinates":[-68.763592,44.812938],"type":"Point"}
 }

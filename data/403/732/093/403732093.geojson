@@ -2,13 +2,14 @@
   "id": 403732093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.822054,44.789783,-68.822054,44.789783",
     "geom:latitude":44.789783,
     "geom:longitude":-68.822054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1185 Hammond St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403732093,
-    "wof:lastmodified":1449056017,
+    "wof:lastmodified":1466586003,
     "wof:name":"Statewide Delivery",
     "wof:parent_id":85855195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-68.822054,44.789783,-68.822054,44.789783],
-  "geometry": {"coordinates":[-68.822054,44.789783],"type":"Point"}
+  "bbox": [
+    -68.822054,
+    44.789783,
+    -68.822054,
+    44.789783
+],
+  "geometry": {"coordinates":[-68.82205399999999,44.789783],"type":"Point"}
 }

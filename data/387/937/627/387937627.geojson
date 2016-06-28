@@ -2,13 +2,14 @@
   "id": 387937627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.171478,43.804931,-70.171478,43.804931",
     "geom:latitude":43.804931,
     "geom:longitude":-70.171478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Spring St",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387937627,
-    "wof:lastmodified":1449056823,
+    "wof:lastmodified":1466587270,
     "wof:name":"Yarmouth Insurance",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.171478,43.804931,-70.171478,43.804931],
-  "geometry": {"coordinates":[-70.171478,43.804931],"type":"Point"}
+  "bbox": [
+    -70.171478,
+    43.804931,
+    -70.171478,
+    43.804931
+],
+  "geometry": {"coordinates":[-70.17147799999999,43.804931],"type":"Point"}
 }

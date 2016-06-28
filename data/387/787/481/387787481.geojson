@@ -2,13 +2,14 @@
   "id": 387787481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.128596,44.050384,-70.128596,44.050384",
     "geom:latitude":44.050384,
     "geom:longitude":-70.128596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Lisbon St",
     "sg:city":"Lisbon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387787481,
-    "wof:lastmodified":1449057823,
+    "wof:lastmodified":1466587008,
     "wof:name":"New England Vending Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.128596,44.050384,-70.128596,44.050384],
+  "bbox": [
+    -70.128596,
+    44.050384,
+    -70.128596,
+    44.050384
+],
   "geometry": {"coordinates":[-70.128596,44.050384],"type":"Point"}
 }

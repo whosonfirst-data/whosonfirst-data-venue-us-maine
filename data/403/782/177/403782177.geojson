@@ -2,13 +2,14 @@
   "id": 403782177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.008337,46.706348,-68.008337,46.706348",
     "geom:latitude":46.706348,
     "geom:longitude":-68.008337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Caribou Rd",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403782177,
-    "wof:lastmodified":1449054625,
+    "wof:lastmodified":1466585708,
     "wof:name":"Aroostook Real Estate",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.008337,46.706348,-68.008337,46.706348],
+  "bbox": [
+    -68.008337,
+    46.706348,
+    -68.008337,
+    46.706348
+],
   "geometry": {"coordinates":[-68.008337,46.706348],"type":"Point"}
 }

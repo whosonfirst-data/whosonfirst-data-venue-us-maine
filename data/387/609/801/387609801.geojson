@@ -2,13 +2,14 @@
   "id": 387609801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.179927,44.40064,-70.179927,44.40064",
     "geom:latitude":44.40064,
     "geom:longitude":-70.179927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1095 River Rd",
     "sg:city":"Livermore",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387609801,
-    "wof:lastmodified":1449057523,
+    "wof:lastmodified":1466586495,
     "wof:name":"Jack Driscoll Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-70.179927,44.40064,-70.179927,44.40064],
-  "geometry": {"coordinates":[-70.179927,44.40064],"type":"Point"}
+  "bbox": [
+    -70.179927,
+    44.40064,
+    -70.179927,
+    44.40064
+],
+  "geometry": {"coordinates":[-70.17992700000001,44.40064],"type":"Point"}
 }

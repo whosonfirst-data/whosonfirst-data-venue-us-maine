@@ -2,13 +2,14 @@
   "id": 403902181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.500154,45.275637,-69.500154,45.275637",
     "geom:latitude":45.275637,
     "geom:longitude":-69.500154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Tenney Hill Rd",
     "sg:city":"Monson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403902181,
-    "wof:lastmodified":1449055602,
+    "wof:lastmodified":1466586927,
     "wof:name":"Suomi Plumbing",
     "wof:parent_id":85806555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-69.500154,45.275637,-69.500154,45.275637],
-  "geometry": {"coordinates":[-69.500154,45.275637],"type":"Point"}
+  "bbox": [
+    -69.500154,
+    45.275637,
+    -69.500154,
+    45.275637
+],
+  "geometry": {"coordinates":[-69.50015399999999,45.275637],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387763289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.081575,44.219323,-69.081575,44.219323",
     "geom:latitude":44.219323,
     "geom:longitude":-69.081575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Washington St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387763289,
-    "wof:lastmodified":1449059907,
+    "wof:lastmodified":1466586950,
     "wof:name":"Captain Andy's",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-69.081575,44.219323,-69.081575,44.219323],
+  "bbox": [
+    -69.081575,
+    44.219323,
+    -69.081575,
+    44.219323
+],
   "geometry": {"coordinates":[-69.081575,44.219323],"type":"Point"}
 }

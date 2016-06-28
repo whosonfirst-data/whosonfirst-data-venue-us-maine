@@ -2,13 +2,14 @@
   "id": 404000355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.929937,43.92128,-69.929937,43.92128",
     "geom:latitude":43.92128,
     "geom:longitude":-69.929937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Foreside Rd",
     "sg:city":"Topsham",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404000355,
-    "wof:lastmodified":1449039207,
+    "wof:lastmodified":1466585674,
     "wof:name":"T N T Bible Ministries",
     "wof:parent_id":85812139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-69.929937,43.92128,-69.929937,43.92128],
+  "bbox": [
+    -69.929937,
+    43.92128,
+    -69.929937,
+    43.92128
+],
   "geometry": {"coordinates":[-69.929937,43.92128],"type":"Point"}
 }

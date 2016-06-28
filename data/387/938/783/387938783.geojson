@@ -2,13 +2,14 @@
   "id": 387938783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.2267,44.142265,-70.2267,44.142265",
     "geom:latitude":44.142265,
     "geom:longitude":-70.2267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387938783,
-    "wof:lastmodified":1449058942,
+    "wof:lastmodified":1466587280,
     "wof:name":"Allstate Contract Cleaners Inc",
     "wof:parent_id":85815921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-70.2267,44.142265,-70.2267,44.142265],
-  "geometry": {"coordinates":[-70.2267,44.142265],"type":"Point"}
+  "bbox": [
+    -70.2267,
+    44.142265,
+    -70.2267,
+    44.142265
+],
+  "geometry": {"coordinates":[-70.22669999999999,44.142265],"type":"Point"}
 }

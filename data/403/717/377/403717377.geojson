@@ -2,13 +2,14 @@
   "id": 403717377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.334798,43.714877,-70.334798,43.714877",
     "geom:latitude":43.714877,
     "geom:longitude":-70.334798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403717377,
-    "wof:lastmodified":1449054654,
+    "wof:lastmodified":1466585829,
     "wof:name":"Colonial Adjustment Inc",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-70.334798,43.714877,-70.334798,43.714877],
-  "geometry": {"coordinates":[-70.334798,43.714877],"type":"Point"}
+  "bbox": [
+    -70.334798,
+    43.714877,
+    -70.334798,
+    43.714877
+],
+  "geometry": {"coordinates":[-70.33479800000001,43.714877],"type":"Point"}
 }

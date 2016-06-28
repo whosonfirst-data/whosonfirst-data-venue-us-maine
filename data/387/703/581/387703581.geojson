@@ -2,13 +2,14 @@
   "id": 387703581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.377132,44.271574,-69.377132,44.271574",
     "geom:latitude":44.271574,
     "geom:longitude":-69.377132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"276 Razorville Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387703581,
-    "wof:lastmodified":1449057253,
+    "wof:lastmodified":1466586753,
     "wof:name":"Washington Manor Business",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-69.377132,44.271574,-69.377132,44.271574],
+  "bbox": [
+    -69.377132,
+    44.271574,
+    -69.377132,
+    44.271574
+],
   "geometry": {"coordinates":[-69.377132,44.271574],"type":"Point"}
 }

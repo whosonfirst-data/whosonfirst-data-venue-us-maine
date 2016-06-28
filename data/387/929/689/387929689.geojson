@@ -2,13 +2,14 @@
   "id": 387929689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.755965,44.810466,-68.755965,44.810466",
     "geom:latitude":44.810466,
     "geom:longitude":-68.755965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Otis St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387929689,
-    "wof:lastmodified":1449057565,
+    "wof:lastmodified":1466587273,
     "wof:name":"DMS Electric",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.755965,44.810466,-68.755965,44.810466],
+  "bbox": [
+    -68.755965,
+    44.810466,
+    -68.755965,
+    44.810466
+],
   "geometry": {"coordinates":[-68.755965,44.810466],"type":"Point"}
 }

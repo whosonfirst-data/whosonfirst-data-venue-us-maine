@@ -2,13 +2,14 @@
   "id": 387911841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.784198,44.570904,-68.784198,44.570904",
     "geom:latitude":44.570904,
     "geom:longitude":-68.784198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Main St",
     "sg:city":"Bucksport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387911841,
-    "wof:lastmodified":1449059303,
+    "wof:lastmodified":1466587321,
     "wof:name":"Sawyer Auto Sales",
     "wof:parent_id":85843193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-68.784198,44.570904,-68.784198,44.570904],
+  "bbox": [
+    -68.784198,
+    44.570904,
+    -68.784198,
+    44.570904
+],
   "geometry": {"coordinates":[-68.784198,44.570904],"type":"Point"}
 }

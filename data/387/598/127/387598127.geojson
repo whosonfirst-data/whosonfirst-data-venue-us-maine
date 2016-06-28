@@ -2,13 +2,14 @@
   "id": 387598127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.792465,44.778618,-68.792465,44.778618",
     "geom:latitude":44.778618,
     "geom:longitude":-68.792465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Penobscot Meadow Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387598127,
-    "wof:lastmodified":1449056318,
+    "wof:lastmodified":1466586319,
     "wof:name":"Sylvia's Vending",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-68.792465,44.778618,-68.792465,44.778618],
-  "geometry": {"coordinates":[-68.792465,44.778618],"type":"Point"}
+  "bbox": [
+    -68.792465,
+    44.778618,
+    -68.792465,
+    44.778618
+],
+  "geometry": {"coordinates":[-68.79246500000001,44.778618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403772069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.68512,44.0586,-69.68512,44.0586",
     "geom:latitude":44.0586,
     "geom:longitude":-69.68512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Dorr Rd",
     "sg:city":"Wiscasset",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403772069,
-    "wof:lastmodified":1449055229,
+    "wof:lastmodified":1466586680,
     "wof:name":"Steven E Jones Concrete Contr",
     "wof:parent_id":85820077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.68512,44.0586,-69.68512,44.0586],
+  "bbox": [
+    -69.68512,
+    44.0586,
+    -69.68512,
+    44.0586
+],
   "geometry": {"coordinates":[-69.68512,44.0586],"type":"Point"}
 }

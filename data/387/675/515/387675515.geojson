@@ -2,13 +2,14 @@
   "id": 387675515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.326027,43.785284,-70.326027,43.785284",
     "geom:latitude":43.785284,
     "geom:longitude":-70.326027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Hunter Way",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387675515,
-    "wof:lastmodified":1449058039,
+    "wof:lastmodified":1466586369,
     "wof:name":"Hooper Kevin & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.326027,43.785284,-70.326027,43.785284],
+  "bbox": [
+    -70.326027,
+    43.785284,
+    -70.326027,
+    43.785284
+],
   "geometry": {"coordinates":[-70.326027,43.785284],"type":"Point"}
 }

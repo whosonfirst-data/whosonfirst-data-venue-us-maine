@@ -2,13 +2,14 @@
   "id": 404002751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.848667,44.759731,-68.848667,44.759731",
     "geom:latitude":44.759731,
     "geom:longitude":-68.848667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Papermill Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404002751,
-    "wof:lastmodified":1449040081,
+    "wof:lastmodified":1466585702,
     "wof:name":"D L Green",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.848667,44.759731,-68.848667,44.759731],
-  "geometry": {"coordinates":[-68.848667,44.759731],"type":"Point"}
+  "bbox": [
+    -68.848667,
+    44.759731,
+    -68.848667,
+    44.759731
+],
+  "geometry": {"coordinates":[-68.84866700000001,44.759731],"type":"Point"}
 }

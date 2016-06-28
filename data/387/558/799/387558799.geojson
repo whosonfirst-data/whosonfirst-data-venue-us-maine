@@ -2,13 +2,14 @@
   "id": 387558799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.330181,44.299012,-70.330181,44.299012",
     "geom:latitude":44.299012,
     "geom:longitude":-70.330181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Gammon Rd",
     "sg:city":"Buckfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387558799,
-    "wof:lastmodified":1449057135,
+    "wof:lastmodified":1466585733,
     "wof:name":"Lucas' Equipment Repair",
     "wof:parent_id":85816409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "splitting"
     ]
 },
-  "bbox": [-70.330181,44.299012,-70.330181,44.299012],
+  "bbox": [
+    -70.330181,
+    44.299012,
+    -70.330181,
+    44.299012
+],
   "geometry": {"coordinates":[-70.330181,44.299012],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387766615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.760182,43.416512,-70.760182,43.416512",
     "geom:latitude":43.416512,
     "geom:longitude":-70.760182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Plaza Dr",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387766615,
-    "wof:lastmodified":1449056065,
+    "wof:lastmodified":1466586951,
     "wof:name":"Brunelle Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.760182,43.416512,-70.760182,43.416512],
+  "bbox": [
+    -70.760182,
+    43.416512,
+    -70.760182,
+    43.416512
+],
   "geometry": {"coordinates":[-70.760182,43.416512],"type":"Point"}
 }

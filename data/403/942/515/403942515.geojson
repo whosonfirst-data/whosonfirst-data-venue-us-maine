@@ -2,13 +2,14 @@
   "id": 403942515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.188476,44.089824,-70.188476,44.089824",
     "geom:latitude":44.089824,
     "geom:longitude":-70.188476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Lorraine Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403942515,
-    "wof:lastmodified":1449055248,
+    "wof:lastmodified":1466587064,
     "wof:name":"Ed Nichols Plumbing & Heating",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.188476,44.089824,-70.188476,44.089824],
-  "geometry": {"coordinates":[-70.188476,44.089824],"type":"Point"}
+  "bbox": [
+    -70.188476,
+    44.089824,
+    -70.188476,
+    44.089824
+],
+  "geometry": {"coordinates":[-70.18847599999999,44.089824],"type":"Point"}
 }

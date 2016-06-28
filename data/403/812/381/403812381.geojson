@@ -2,13 +2,14 @@
   "id": 403812381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.415147,43.653241,-70.415147,43.653241",
     "geom:latitude":43.653241,
     "geom:longitude":-70.415147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Beatrice Dr",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403812381,
-    "wof:lastmodified":1449054657,
+    "wof:lastmodified":1466586144,
     "wof:name":"David Moon Electric",
     "wof:parent_id":85838011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.415147,43.653241,-70.415147,43.653241],
+  "bbox": [
+    -70.415147,
+    43.653241,
+    -70.415147,
+    43.653241
+],
   "geometry": {"coordinates":[-70.415147,43.653241],"type":"Point"}
 }

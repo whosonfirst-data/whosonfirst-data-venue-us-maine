@@ -2,13 +2,14 @@
   "id": 387963619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.423079,43.705216,-70.423079,43.705216",
     "geom:latitude":43.705216,
     "geom:longitude":-70.423079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Queen St",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387963619,
-    "wof:lastmodified":1449056471,
+    "wof:lastmodified":1466587347,
     "wof:name":"Financial System & Supply",
     "wof:parent_id":85835377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.423079,43.705216,-70.423079,43.705216],
+  "bbox": [
+    -70.423079,
+    43.705216,
+    -70.423079,
+    43.705216
+],
   "geometry": {"coordinates":[-70.423079,43.705216],"type":"Point"}
 }

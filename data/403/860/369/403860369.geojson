@@ -2,13 +2,14 @@
   "id": 403860369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.194168,44.140237,-70.194168,44.140237",
     "geom:latitude":44.140237,
     "geom:longitude":-70.194168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Chenault St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403860369,
-    "wof:lastmodified":1449055227,
+    "wof:lastmodified":1466586857,
     "wof:name":"Maureen A Clavet",
     "wof:parent_id":85819719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-70.194168,44.140237,-70.194168,44.140237],
+  "bbox": [
+    -70.194168,
+    44.140237,
+    -70.194168,
+    44.140237
+],
   "geometry": {"coordinates":[-70.194168,44.140237],"type":"Point"}
 }

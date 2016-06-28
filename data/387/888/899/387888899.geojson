@@ -2,13 +2,14 @@
   "id": 387888899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.800494,44.387333,-68.800494,44.387333",
     "geom:latitude":44.387333,
     "geom:longitude":-68.800494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Court St",
     "sg:city":"Castine",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387888899,
-    "wof:lastmodified":1449058480,
+    "wof:lastmodified":1466587226,
     "wof:name":"Castine Town Office",
     "wof:parent_id":85820091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-68.800494,44.387333,-68.800494,44.387333],
+  "bbox": [
+    -68.800494,
+    44.387333,
+    -68.800494,
+    44.387333
+],
   "geometry": {"coordinates":[-68.800494,44.387333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404132389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.824513,46.909232,-67.824513,46.909232",
     "geom:latitude":46.909232,
     "geom:longitude":-67.824513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Church St",
     "sg:city":"Limestone",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404132389,
-    "wof:lastmodified":1449039598,
+    "wof:lastmodified":1466586483,
     "wof:name":"Limestone Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-67.824513,46.909232,-67.824513,46.909232],
+  "bbox": [
+    -67.824513,
+    46.909232,
+    -67.824513,
+    46.909232
+],
   "geometry": {"coordinates":[-67.824513,46.909232],"type":"Point"}
 }

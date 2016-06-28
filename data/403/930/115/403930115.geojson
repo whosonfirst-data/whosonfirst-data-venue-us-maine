@@ -2,13 +2,14 @@
   "id": 403930115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.157565,44.691625,-70.157565,44.691625",
     "geom:latitude":44.691625,
     "geom:longitude":-70.157565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Fairbanks Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403930115,
-    "wof:lastmodified":1449055054,
+    "wof:lastmodified":1466587025,
     "wof:name":"Bean & Smith Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.157565,44.691625,-70.157565,44.691625],
-  "geometry": {"coordinates":[-70.157565,44.691625],"type":"Point"}
+  "bbox": [
+    -70.157565,
+    44.691625,
+    -70.157565,
+    44.691625
+],
+  "geometry": {"coordinates":[-70.15756500000001,44.691625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387617079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.443469,43.500206,-70.443469,43.500206",
     "geom:latitude":43.500206,
     "geom:longitude":-70.443469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Main St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387617079,
-    "wof:lastmodified":1449056249,
+    "wof:lastmodified":1466585685,
     "wof:name":"Clinical Hypnosis-Southern",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hypnotherapy"
     ]
 },
-  "bbox": [-70.443469,43.500206,-70.443469,43.500206],
-  "geometry": {"coordinates":[-70.443469,43.500206],"type":"Point"}
+  "bbox": [
+    -70.443469,
+    43.500206,
+    -70.443469,
+    43.500206
+],
+  "geometry": {"coordinates":[-70.44346899999999,43.500206],"type":"Point"}
 }

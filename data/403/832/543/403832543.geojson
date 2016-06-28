@@ -2,13 +2,14 @@
   "id": 403832543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.051164,44.22463,-69.051164,44.22463",
     "geom:latitude":44.22463,
     "geom:longitude":-69.051164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Belfast Rd",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403832543,
-    "wof:lastmodified":1449054630,
+    "wof:lastmodified":1466586473,
     "wof:name":"Camden Hills State Park",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-69.051164,44.22463,-69.051164,44.22463],
+  "bbox": [
+    -69.051164,
+    44.22463,
+    -69.051164,
+    44.22463
+],
   "geometry": {"coordinates":[-69.051164,44.22463],"type":"Point"}
 }

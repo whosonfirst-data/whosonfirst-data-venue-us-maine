@@ -2,13 +2,14 @@
   "id": 387718235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.665439,44.117829,-70.665439,44.117829",
     "geom:latitude":44.117829,
     "geom:longitude":-70.665439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Deertrees Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387718235,
-    "wof:lastmodified":1449056919,
+    "wof:lastmodified":1466586804,
     "wof:name":"Reliable Rubbish Removal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "collection"
     ]
 },
-  "bbox": [-70.665439,44.117829,-70.665439,44.117829],
-  "geometry": {"coordinates":[-70.665439,44.117829],"type":"Point"}
+  "bbox": [
+    -70.665439,
+    44.117829,
+    -70.665439,
+    44.117829
+],
+  "geometry": {"coordinates":[-70.66543900000001,44.117829],"type":"Point"}
 }

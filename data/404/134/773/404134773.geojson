@@ -2,13 +2,14 @@
   "id": 404134773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.648647,44.531747,-69.648647,44.531747",
     "geom:latitude":44.531747,
     "geom:longitude":-69.648647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Water St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404134773,
-    "wof:lastmodified":1449040272,
+    "wof:lastmodified":1466586521,
     "wof:name":"Waterville Sewerage District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [-69.648647,44.531747,-69.648647,44.531747],
+  "bbox": [
+    -69.648647,
+    44.531747,
+    -69.648647,
+    44.531747
+],
   "geometry": {"coordinates":[-69.648647,44.531747],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387718025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.756695,44.795642,-68.756695,44.795642",
     "geom:latitude":44.795642,
     "geom:longitude":-68.756695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Washington St",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387718025,
-    "wof:lastmodified":1449056920,
+    "wof:lastmodified":1466586883,
     "wof:name":"Your Birth Connection",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.756695,44.795642,-68.756695,44.795642],
-  "geometry": {"coordinates":[-68.756695,44.795642],"type":"Point"}
+  "bbox": [
+    -68.756695,
+    44.795642,
+    -68.756695,
+    44.795642
+],
+  "geometry": {"coordinates":[-68.75669499999999,44.795642],"type":"Point"}
 }

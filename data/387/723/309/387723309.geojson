@@ -2,13 +2,14 @@
   "id": 387723309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.06351,44.208535,-69.06351,44.208535",
     "geom:latitude":44.208535,
     "geom:longitude":-69.06351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Bay View St",
     "sg:city":"Camden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387723309,
-    "wof:lastmodified":1449058327,
+    "wof:lastmodified":1466586813,
     "wof:name":"Admiral's Buttons",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.06351,44.208535,-69.06351,44.208535],
-  "geometry": {"coordinates":[-69.06351,44.208535],"type":"Point"}
+  "bbox": [
+    -69.06351,
+    44.208535,
+    -69.06351,
+    44.208535
+],
+  "geometry": {"coordinates":[-69.06350999999999,44.208535],"type":"Point"}
 }

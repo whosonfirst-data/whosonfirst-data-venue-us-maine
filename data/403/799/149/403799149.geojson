@@ -2,13 +2,14 @@
   "id": 403799149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.534756,44.211221,-70.534756,44.211221",
     "geom:latitude":44.211221,
     "geom:longitude":-70.534756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Main St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403799149,
-    "wof:lastmodified":1449055963,
+    "wof:lastmodified":1466585935,
     "wof:name":"Goin' Postal",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "agent"
     ]
 },
-  "bbox": [-70.534756,44.211221,-70.534756,44.211221],
+  "bbox": [
+    -70.534756,
+    44.211221,
+    -70.534756,
+    44.211221
+],
   "geometry": {"coordinates":[-70.534756,44.211221],"type":"Point"}
 }

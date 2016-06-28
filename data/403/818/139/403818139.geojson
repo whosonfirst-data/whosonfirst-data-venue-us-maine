@@ -2,13 +2,14 @@
   "id": 403818139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.08301,44.395202,-68.08301,44.395202",
     "geom:latitude":44.395202,
     "geom:longitude":-68.08301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Main St",
     "sg:city":"Winter Harbor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403818139,
-    "wof:lastmodified":1449055280,
+    "wof:lastmodified":1466586233,
     "wof:name":"Barnacle",
     "wof:parent_id":85821423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.08301,44.395202,-68.08301,44.395202],
+  "bbox": [
+    -68.08301,
+    44.395202,
+    -68.08301,
+    44.395202
+],
   "geometry": {"coordinates":[-68.08301,44.395202],"type":"Point"}
 }

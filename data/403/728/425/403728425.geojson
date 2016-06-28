@@ -2,13 +2,14 @@
   "id": 403728425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.862649,44.746547,-68.862649,44.746547",
     "geom:latitude":44.746547,
     "geom:longitude":-68.862649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"274 Western Ave",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403728425,
-    "wof:lastmodified":1449054951,
+    "wof:lastmodified":1466585949,
     "wof:name":"Hampden Redemption Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-68.862649,44.746547,-68.862649,44.746547],
+  "bbox": [
+    -68.862649,
+    44.746547,
+    -68.862649,
+    44.746547
+],
   "geometry": {"coordinates":[-68.862649,44.746547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387654151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.579141,47.256284,-68.579141,47.256284",
     "geom:latitude":47.256284,
     "geom:longitude":-68.579141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Hillside St",
     "sg:city":"Fort Kent",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387654151,
-    "wof:lastmodified":1449057373,
+    "wof:lastmodified":1466586033,
     "wof:name":"Labbe's",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-68.579141,47.256284,-68.579141,47.256284],
-  "geometry": {"coordinates":[-68.579141,47.256284],"type":"Point"}
+  "bbox": [
+    -68.579141,
+    47.256284,
+    -68.579141,
+    47.256284
+],
+  "geometry": {"coordinates":[-68.57914100000001,47.256284],"type":"Point"}
 }

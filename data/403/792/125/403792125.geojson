@@ -2,13 +2,14 @@
   "id": 403792125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.194835,44.080284,-70.194835,44.080284",
     "geom:latitude":44.080284,
     "geom:longitude":-70.194835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Albert St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403792125,
-    "wof:lastmodified":1449054930,
+    "wof:lastmodified":1466585835,
     "wof:name":"Order of Amaranth Inc Sup",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.194835,44.080284,-70.194835,44.080284],
+  "bbox": [
+    -70.194835,
+    44.080284,
+    -70.194835,
+    44.080284
+],
   "geometry": {"coordinates":[-70.194835,44.080284],"type":"Point"}
 }

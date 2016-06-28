@@ -2,13 +2,14 @@
   "id": 387628727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.796154,44.311071,-69.796154,44.311071",
     "geom:latitude":44.311071,
     "geom:longitude":-69.796154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Capitol St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387628727,
-    "wof:lastmodified":1449059196,
+    "wof:lastmodified":1466585780,
     "wof:name":"Rizzo Mattson Realtors",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.796154,44.311071,-69.796154,44.311071],
+  "bbox": [
+    -69.796154,
+    44.311071,
+    -69.796154,
+    44.311071
+],
   "geometry": {"coordinates":[-69.796154,44.311071],"type":"Point"}
 }

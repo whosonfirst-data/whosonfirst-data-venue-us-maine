@@ -2,13 +2,14 @@
   "id": 387655161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.873163,43.562249,-70.873163,43.562249",
     "geom:latitude":43.562249,
     "geom:longitude":-70.873163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Cherry Rd",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387655161,
-    "wof:lastmodified":1449058294,
+    "wof:lastmodified":1466586047,
     "wof:name":"Nelson F Louis Electrn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.873163,43.562249,-70.873163,43.562249],
-  "geometry": {"coordinates":[-70.873163,43.562249],"type":"Point"}
+  "bbox": [
+    -70.873163,
+    43.562249,
+    -70.873163,
+    43.562249
+],
+  "geometry": {"coordinates":[-70.87316300000001,43.562249],"type":"Point"}
 }

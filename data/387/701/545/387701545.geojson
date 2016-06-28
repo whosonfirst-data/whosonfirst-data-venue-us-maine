@@ -2,13 +2,14 @@
   "id": 387701545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.531675,44.203696,-70.531675,44.203696",
     "geom:latitude":44.203696,
     "geom:longitude":-70.531675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Main St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387701545,
-    "wof:lastmodified":1449059113,
+    "wof:lastmodified":1466586661,
     "wof:name":"Steve's Auto Sales",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.531675,44.203696,-70.531675,44.203696],
-  "geometry": {"coordinates":[-70.531675,44.203696],"type":"Point"}
+  "bbox": [
+    -70.531675,
+    44.203696,
+    -70.531675,
+    44.203696
+],
+  "geometry": {"coordinates":[-70.53167500000001,44.203696],"type":"Point"}
 }

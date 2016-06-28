@@ -2,13 +2,14 @@
   "id": 387855433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.850271,44.35334,-69.850271,44.35334",
     "geom:latitude":44.35334,
     "geom:longitude":-69.850271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"543 Prescott Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387855433,
-    "wof:lastmodified":1449058908,
+    "wof:lastmodified":1466587253,
     "wof:name":"GPS Of New England",
     "wof:parent_id":85841121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-69.850271,44.35334,-69.850271,44.35334],
-  "geometry": {"coordinates":[-69.850271,44.35334],"type":"Point"}
+  "bbox": [
+    -69.850271,
+    44.35334,
+    -69.850271,
+    44.35334
+],
+  "geometry": {"coordinates":[-69.85027100000001,44.35334],"type":"Point"}
 }

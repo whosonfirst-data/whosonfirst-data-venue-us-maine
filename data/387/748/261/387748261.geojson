@@ -2,13 +2,14 @@
   "id": 387748261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.233041,43.78358,-70.233041,43.78358",
     "geom:latitude":43.78358,
     "geom:longitude":-70.233041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Tuttle Rd",
     "sg:city":"Cumberland Center",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387748261,
-    "wof:lastmodified":1449058959,
+    "wof:lastmodified":1466586806,
     "wof:name":"Ocean House Builders",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.233041,43.78358,-70.233041,43.78358],
+  "bbox": [
+    -70.233041,
+    43.78358,
+    -70.233041,
+    43.78358
+],
   "geometry": {"coordinates":[-70.233041,43.78358],"type":"Point"}
 }

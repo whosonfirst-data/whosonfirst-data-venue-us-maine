@@ -2,13 +2,14 @@
   "id": 403816353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.187588,44.125371,-70.187588,44.125371",
     "geom:latitude":44.125371,
     "geom:longitude":-70.187588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 College St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403816353,
-    "wof:lastmodified":1449055414,
+    "wof:lastmodified":1466586205,
     "wof:name":"Montello Manor Inc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-70.187588,44.125371,-70.187588,44.125371],
-  "geometry": {"coordinates":[-70.187588,44.125371],"type":"Point"}
+  "bbox": [
+    -70.187588,
+    44.125371,
+    -70.187588,
+    44.125371
+],
+  "geometry": {"coordinates":[-70.18758800000001,44.125371],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387748631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.462394,44.040088,-70.462394,44.040088",
     "geom:latitude":44.040088,
     "geom:longitude":-70.462394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Florence Ln",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387748631,
-    "wof:lastmodified":1449058960,
+    "wof:lastmodified":1466586812,
     "wof:name":"Deep Woods Construction",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.462394,44.040088,-70.462394,44.040088],
+  "bbox": [
+    -70.462394,
+    44.040088,
+    -70.462394,
+    44.040088
+],
   "geometry": {"coordinates":[-70.462394,44.040088],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387670395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.749604,43.088171,-70.749604,43.088171",
     "geom:latitude":43.088171,
     "geom:longitude":-70.749604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 State Rd",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387670395,
-    "wof:lastmodified":1449056675,
+    "wof:lastmodified":1466586287,
     "wof:name":"Carl's Meat Market",
     "wof:parent_id":85828587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.749604,43.088171,-70.749604,43.088171],
-  "geometry": {"coordinates":[-70.749604,43.088171],"type":"Point"}
+  "bbox": [
+    -70.749604,
+    43.088171,
+    -70.749604,
+    43.088171
+],
+  "geometry": {"coordinates":[-70.74960400000001,43.088171],"type":"Point"}
 }

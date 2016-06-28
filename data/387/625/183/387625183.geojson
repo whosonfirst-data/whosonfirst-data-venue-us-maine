@@ -2,13 +2,14 @@
   "id": 387625183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.796876,44.340986,-69.796876,44.340986",
     "geom:latitude":44.340986,
     "geom:longitude":-69.796876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Community Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387625183,
-    "wof:lastmodified":1449059978,
+    "wof:lastmodified":1466586627,
     "wof:name":"Ikon Office Solutions Inc",
     "wof:parent_id":85841121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "copying"
     ]
 },
-  "bbox": [-69.796876,44.340986,-69.796876,44.340986],
+  "bbox": [
+    -69.796876,
+    44.340986,
+    -69.796876,
+    44.340986
+],
   "geometry": {"coordinates":[-69.796876,44.340986],"type":"Point"}
 }

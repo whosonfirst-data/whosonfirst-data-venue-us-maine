@@ -2,13 +2,14 @@
   "id": 387741205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.412381,44.830073,-69.412381,44.830073",
     "geom:latitude":44.830073,
     "geom:longitude":-69.412381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Main St",
     "sg:city":"Palmyra",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387741205,
-    "wof:lastmodified":1449056320,
+    "wof:lastmodified":1466586865,
     "wof:name":"Ames True Temper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sawmill"
     ]
 },
-  "bbox": [-69.412381,44.830073,-69.412381,44.830073],
+  "bbox": [
+    -69.412381,
+    44.830073,
+    -69.412381,
+    44.830073
+],
   "geometry": {"coordinates":[-69.412381,44.830073],"type":"Point"}
 }

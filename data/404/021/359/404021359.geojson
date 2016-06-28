@@ -2,13 +2,14 @@
   "id": 404021359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.266415,43.661141,-70.266415,43.661141",
     "geom:latitude":43.661141,
     "geom:longitude":-70.266415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Marginal Way",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404021359,
-    "wof:lastmodified":1449039876,
+    "wof:lastmodified":1466585903,
     "wof:name":"Northern Pride Auto Wash",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-70.266415,43.661141,-70.266415,43.661141],
-  "geometry": {"coordinates":[-70.266415,43.661141],"type":"Point"}
+  "bbox": [
+    -70.266415,
+    43.661141,
+    -70.266415,
+    43.661141
+],
+  "geometry": {"coordinates":[-70.26641499999999,43.661141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404207135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.579316,43.704514,-70.579316,43.704514",
     "geom:latitude":43.704514,
     "geom:longitude":-70.579316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Bonny Eagle Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404207135,
-    "wof:lastmodified":1449039967,
+    "wof:lastmodified":1466586938,
     "wof:name":"JC Kramlich Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "family"
     ]
 },
-  "bbox": [-70.579316,43.704514,-70.579316,43.704514],
-  "geometry": {"coordinates":[-70.579316,43.704514],"type":"Point"}
+  "bbox": [
+    -70.579316,
+    43.704514,
+    -70.579316,
+    43.704514
+],
+  "geometry": {"coordinates":[-70.57931600000001,43.704514],"type":"Point"}
 }

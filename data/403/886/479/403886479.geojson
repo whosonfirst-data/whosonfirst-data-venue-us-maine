@@ -2,13 +2,14 @@
   "id": 403886479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.506512,43.676005,-70.506512,43.676005",
     "geom:latitude":43.676005,
     "geom:longitude":-70.506512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Church Hill Rd",
     "sg:city":"Buxton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403886479,
-    "wof:lastmodified":1449055371,
+    "wof:lastmodified":1466586937,
     "wof:name":"North Congregational Church",
     "wof:parent_id":85823309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.506512,43.676005,-70.506512,43.676005],
+  "bbox": [
+    -70.506512,
+    43.676005,
+    -70.506512,
+    43.676005
+],
   "geometry": {"coordinates":[-70.506512,43.676005],"type":"Point"}
 }

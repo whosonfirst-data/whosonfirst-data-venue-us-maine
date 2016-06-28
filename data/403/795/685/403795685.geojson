@@ -2,13 +2,14 @@
   "id": 403795685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.885443,44.550517,-67.885443,44.550517",
     "geom:latitude":44.550517,
     "geom:longitude":-67.885443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Kansas Rd",
     "sg:city":"Milbridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403795685,
-    "wof:lastmodified":1449055436,
+    "wof:lastmodified":1466585883,
     "wof:name":"Height Electric",
     "wof:parent_id":85859219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-67.885443,44.550517,-67.885443,44.550517],
+  "bbox": [
+    -67.885443,
+    44.550517,
+    -67.885443,
+    44.550517
+],
   "geometry": {"coordinates":[-67.885443,44.550517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404112765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.352164,43.545796,-70.352164,43.545796",
     "geom:latitude":43.545796,
     "geom:longitude":-70.352164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Holly St",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404112765,
-    "wof:lastmodified":1449039560,
+    "wof:lastmodified":1466586186,
     "wof:name":"Littlefield & Hall Excavation",
     "wof:parent_id":85822441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.352164,43.545796,-70.352164,43.545796],
+  "bbox": [
+    -70.352164,
+    43.545796,
+    -70.352164,
+    43.545796
+],
   "geometry": {"coordinates":[-70.352164,43.545796],"type":"Point"}
 }

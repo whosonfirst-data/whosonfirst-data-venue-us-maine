@@ -2,13 +2,14 @@
   "id": 387770213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.903241,44.468714,-68.903241,44.468714",
     "geom:latitude":44.468714,
     "geom:longitude":-68.903241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Porter St",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387770213,
-    "wof:lastmodified":1449059988,
+    "wof:lastmodified":1466586962,
     "wof:name":"Spiral Stairs Custom Built",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "stair"
     ]
 },
-  "bbox": [-68.903241,44.468714,-68.903241,44.468714],
-  "geometry": {"coordinates":[-68.903241,44.468714],"type":"Point"}
+  "bbox": [
+    -68.903241,
+    44.468714,
+    -68.903241,
+    44.468714
+],
+  "geometry": {"coordinates":[-68.90324099999999,44.468714],"type":"Point"}
 }

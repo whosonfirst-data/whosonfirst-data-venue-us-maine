@@ -2,13 +2,14 @@
   "id": 387964671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.577056,43.739675,-70.577056,43.739675",
     "geom:latitude":43.739675,
     "geom:longitude":-70.577056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Job Rd",
     "sg:city":"Standish",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387964671,
-    "wof:lastmodified":1449058973,
+    "wof:lastmodified":1466587349,
     "wof:name":"Connors Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "logging"
     ]
 },
-  "bbox": [-70.577056,43.739675,-70.577056,43.739675],
+  "bbox": [
+    -70.577056,
+    43.739675,
+    -70.577056,
+    43.739675
+],
   "geometry": {"coordinates":[-70.577056,43.739675],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387824829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.024936,45.002525,-69.024936,45.002525",
     "geom:latitude":45.002525,
     "geom:longitude":-69.024936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Exeter Rd",
     "sg:city":"Corinth",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387824829,
-    "wof:lastmodified":1449057456,
+    "wof:lastmodified":1466587110,
     "wof:name":"Town Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-69.024936,45.002525,-69.024936,45.002525],
+  "bbox": [
+    -69.024936,
+    45.002525,
+    -69.024936,
+    45.002525
+],
   "geometry": {"coordinates":[-69.024936,45.002525],"type":"Point"}
 }

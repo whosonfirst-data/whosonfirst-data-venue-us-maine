@@ -2,13 +2,14 @@
   "id": 403705037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.76709,43.141004,-70.76709,43.141004",
     "geom:latitude":43.141004,
     "geom:longitude":-70.76709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Littlebrook Ln",
     "sg:city":"Eliot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403705037,
-    "wof:lastmodified":1449055975,
+    "wof:lastmodified":1466586611,
     "wof:name":"Kilbourn Painting",
     "wof:parent_id":85816255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.76709,43.141004,-70.76709,43.141004],
+  "bbox": [
+    -70.76709,
+    43.141004,
+    -70.76709,
+    43.141004
+],
   "geometry": {"coordinates":[-70.76709,43.141004],"type":"Point"}
 }

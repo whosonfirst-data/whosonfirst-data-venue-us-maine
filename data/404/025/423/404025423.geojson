@@ -2,13 +2,14 @@
   "id": 404025423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.914281,43.908046,-69.914281,43.908046",
     "geom:latitude":43.908046,
     "geom:longitude":-69.914281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Bath Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404025423,
-    "wof:lastmodified":1449040115,
+    "wof:lastmodified":1466585958,
     "wof:name":"Maine Mattress & Futons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-69.914281,43.908046,-69.914281,43.908046],
+  "bbox": [
+    -69.914281,
+    43.908046,
+    -69.914281,
+    43.908046
+],
   "geometry": {"coordinates":[-69.914281,43.908046],"type":"Point"}
 }

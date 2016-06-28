@@ -2,13 +2,14 @@
   "id": 387859351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.976205,44.429306,-68.976205,44.429306",
     "geom:latitude":44.429306,
     "geom:longitude":-68.976205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Searsport Ave",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387859351,
-    "wof:lastmodified":1449058833,
+    "wof:lastmodified":1466587258,
     "wof:name":"Mainely Pottery",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-68.976205,44.429306,-68.976205,44.429306],
-  "geometry": {"coordinates":[-68.976205,44.429306],"type":"Point"}
+  "bbox": [
+    -68.976205,
+    44.429306,
+    -68.976205,
+    44.429306
+],
+  "geometry": {"coordinates":[-68.97620499999999,44.429306],"type":"Point"}
 }

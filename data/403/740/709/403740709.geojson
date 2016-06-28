@@ -2,13 +2,14 @@
   "id": 403740709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.282586,45.188801,-67.282586,45.188801",
     "geom:latitude":45.188801,
     "geom:longitude":-67.282586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Buick St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403740709,
-    "wof:lastmodified":1449055242,
+    "wof:lastmodified":1466586064,
     "wof:name":"Denises Cut & Curl",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-67.282586,45.188801,-67.282586,45.188801],
-  "geometry": {"coordinates":[-67.282586,45.188801],"type":"Point"}
+  "bbox": [
+    -67.282586,
+    45.188801,
+    -67.282586,
+    45.188801
+],
+  "geometry": {"coordinates":[-67.28258599999999,45.188801],"type":"Point"}
 }

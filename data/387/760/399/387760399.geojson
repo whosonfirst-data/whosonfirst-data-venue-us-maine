@@ -2,13 +2,14 @@
   "id": 387760399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.307856,43.715424,-70.307856,43.715424",
     "geom:latitude":43.715424,
     "geom:longitude":-70.307856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"892 Riverside St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387760399,
-    "wof:lastmodified":1449059771,
+    "wof:lastmodified":1466586930,
     "wof:name":"Woodworth's Printing Emporium",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-70.307856,43.715424,-70.307856,43.715424],
+  "bbox": [
+    -70.307856,
+    43.715424,
+    -70.307856,
+    43.715424
+],
   "geometry": {"coordinates":[-70.307856,43.715424],"type":"Point"}
 }

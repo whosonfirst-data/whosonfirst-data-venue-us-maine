@@ -2,13 +2,14 @@
   "id": 387887365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.667168,43.377472,-70.667168,43.377472",
     "geom:latitude":43.377472,
     "geom:longitude":-70.667168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Glenwood Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387887365,
-    "wof:lastmodified":1449059161,
+    "wof:lastmodified":1466587309,
     "wof:name":"Susan Hodsdon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.667168,43.377472,-70.667168,43.377472],
+  "bbox": [
+    -70.667168,
+    43.377472,
+    -70.667168,
+    43.377472
+],
   "geometry": {"coordinates":[-70.667168,43.377472],"type":"Point"}
 }

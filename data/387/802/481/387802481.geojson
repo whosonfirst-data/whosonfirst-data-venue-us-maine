@@ -2,13 +2,14 @@
   "id": 387802481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.398994,43.998708,-70.398994,43.998708",
     "geom:latitude":43.998708,
     "geom:longitude":-70.398994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Timber Ln",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387802481,
-    "wof:lastmodified":1449059210,
+    "wof:lastmodified":1466587051,
     "wof:name":"Trashy Women Rubbish Removal",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-70.398994,43.998708,-70.398994,43.998708],
+  "bbox": [
+    -70.398994,
+    43.998708,
+    -70.398994,
+    43.998708
+],
   "geometry": {"coordinates":[-70.398994,43.998708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404169509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.689962,43.30663,-70.689962,43.30663",
     "geom:latitude":43.30663,
     "geom:longitude":-70.689962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1390 N Berwick Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404169509,
-    "wof:lastmodified":1449039845,
+    "wof:lastmodified":1466586878,
     "wof:name":"Chase Construction Inc",
     "wof:parent_id":85851857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.689962,43.30663,-70.689962,43.30663],
-  "geometry": {"coordinates":[-70.689962,43.30663],"type":"Point"}
+  "bbox": [
+    -70.689962,
+    43.30663,
+    -70.689962,
+    43.30663
+],
+  "geometry": {"coordinates":[-70.68996199999999,43.30663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387634589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.292286,44.217378,-70.292286,44.217378",
     "geom:latitude":44.217378,
     "geom:longitude":-70.292286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Little Wilson Pond Rd",
     "sg:city":"Turner",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387634589,
-    "wof:lastmodified":1449057918,
+    "wof:lastmodified":1466586709,
     "wof:name":"Willie's Auto Body Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-70.292286,44.217378,-70.292286,44.217378],
+  "bbox": [
+    -70.292286,
+    44.217378,
+    -70.292286,
+    44.217378
+],
   "geometry": {"coordinates":[-70.292286,44.217378],"type":"Point"}
 }

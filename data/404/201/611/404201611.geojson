@@ -2,13 +2,14 @@
   "id": 404201611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.841873,46.12838,-67.841873,46.12838",
     "geom:latitude":46.12838,
     "geom:longitude":-67.841873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 North St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404201611,
-    "wof:lastmodified":1449040162,
+    "wof:lastmodified":1466586853,
     "wof:name":"First Choice Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.841873,46.12838,-67.841873,46.12838],
-  "geometry": {"coordinates":[-67.841873,46.12838],"type":"Point"}
+  "bbox": [
+    -67.841873,
+    46.12838,
+    -67.841873,
+    46.12838
+],
+  "geometry": {"coordinates":[-67.84187300000001,46.12838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387848235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.28331,43.758618,-70.28331,43.758618",
     "geom:latitude":43.758618,
     "geom:longitude":-70.28331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Winn Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387848235,
-    "wof:lastmodified":1449056636,
+    "wof:lastmodified":1466587150,
     "wof:name":"Baldwin C W Plumbing",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-70.28331,43.758618,-70.28331,43.758618],
+  "bbox": [
+    -70.28331,
+    43.758618,
+    -70.28331,
+    43.758618
+],
   "geometry": {"coordinates":[-70.28331,43.758618],"type":"Point"}
 }

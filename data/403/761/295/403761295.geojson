@@ -2,13 +2,14 @@
   "id": 403761295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.470741,44.138768,-70.470741,44.138768",
     "geom:latitude":44.138768,
     "geom:longitude":-70.470741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"688 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403761295,
-    "wof:lastmodified":1449055643,
+    "wof:lastmodified":1466586424,
     "wof:name":"Reid's Service Ctr",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-70.470741,44.138768,-70.470741,44.138768],
+  "bbox": [
+    -70.470741,
+    44.138768,
+    -70.470741,
+    44.138768
+],
   "geometry": {"coordinates":[-70.470741,44.138768],"type":"Point"}
 }

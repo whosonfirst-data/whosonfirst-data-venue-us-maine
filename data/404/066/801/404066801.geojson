@@ -2,13 +2,14 @@
   "id": 404066801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.26041,43.659954,-70.26041,43.659954",
     "geom:latitude":43.659954,
     "geom:longitude":-70.26041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Oxford St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404066801,
-    "wof:lastmodified":1449039369,
+    "wof:lastmodified":1466586524,
     "wof:name":"Amergian Brothers",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.26041,43.659954,-70.26041,43.659954],
-  "geometry": {"coordinates":[-70.26041,43.659954],"type":"Point"}
+  "bbox": [
+    -70.26041,
+    43.659954,
+    -70.26041,
+    43.659954
+],
+  "geometry": {"coordinates":[-70.26040999999999,43.659954],"type":"Point"}
 }

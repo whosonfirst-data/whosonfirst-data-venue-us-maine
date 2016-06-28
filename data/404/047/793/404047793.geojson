@@ -2,13 +2,14 @@
   "id": 404047793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.940855,47.16207,-67.940855,47.16207",
     "geom:latitude":47.16207,
     "geom:longitude":-67.940855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Main St",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404047793,
-    "wof:lastmodified":1449039905,
+    "wof:lastmodified":1466586257,
     "wof:name":"Morneault Memorial Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.940855,47.16207,-67.940855,47.16207],
+  "bbox": [
+    -67.940855,
+    47.16207,
+    -67.940855,
+    47.16207
+],
   "geometry": {"coordinates":[-67.940855,47.16207],"type":"Point"}
 }

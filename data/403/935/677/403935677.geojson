@@ -2,13 +2,14 @@
   "id": 403935677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.860808,43.569182,-70.860808,43.569182",
     "geom:latitude":43.569182,
     "geom:longitude":-70.860808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 Shapleigh Corner Rd",
     "sg:city":"Shapleigh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403935677,
-    "wof:lastmodified":1449055732,
+    "wof:lastmodified":1466587043,
     "wof:name":"Shapleigh Marine Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.860808,43.569182,-70.860808,43.569182],
-  "geometry": {"coordinates":[-70.860808,43.569182],"type":"Point"}
+  "bbox": [
+    -70.860808,
+    43.569182,
+    -70.860808,
+    43.569182
+],
+  "geometry": {"coordinates":[-70.86080800000001,43.569182],"type":"Point"}
 }

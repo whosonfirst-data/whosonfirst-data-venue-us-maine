@@ -2,13 +2,14 @@
   "id": 403907259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.990856,44.182653,-69.990856,44.182653",
     "geom:latitude":44.182653,
     "geom:longitude":-69.990856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Oak Hill Acres",
     "sg:city":"Monmouth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403907259,
-    "wof:lastmodified":1449055861,
+    "wof:lastmodified":1466587040,
     "wof:name":"Don Morin Photography",
     "wof:parent_id":85851745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-69.990856,44.182653,-69.990856,44.182653],
-  "geometry": {"coordinates":[-69.990856,44.182653],"type":"Point"}
+  "bbox": [
+    -69.990856,
+    44.182653,
+    -69.990856,
+    44.182653
+],
+  "geometry": {"coordinates":[-69.99085599999999,44.182653],"type":"Point"}
 }

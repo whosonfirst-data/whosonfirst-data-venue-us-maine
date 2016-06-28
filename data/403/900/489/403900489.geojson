@@ -2,13 +2,14 @@
   "id": 403900489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.290744,43.683092,-70.290744,43.683092",
     "geom:latitude":43.683092,
     "geom:longitude":-70.290744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1053 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403900489,
-    "wof:lastmodified":1449055210,
+    "wof:lastmodified":1466587015,
     "wof:name":"New England Off Road Otfttrs",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-70.290744,43.683092,-70.290744,43.683092],
+  "bbox": [
+    -70.290744,
+    43.683092,
+    -70.290744,
+    43.683092
+],
   "geometry": {"coordinates":[-70.290744,43.683092],"type":"Point"}
 }

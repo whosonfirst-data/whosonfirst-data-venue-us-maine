@@ -2,13 +2,14 @@
   "id": 387804157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.486036,43.716148,-70.486036,43.716148",
     "geom:latitude":43.716148,
     "geom:longitude":-70.486036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Buck St",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387804157,
-    "wof:lastmodified":1449058761,
+    "wof:lastmodified":1466586968,
     "wof:name":"Atlantic Coast Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.486036,43.716148,-70.486036,43.716148],
+  "bbox": [
+    -70.486036,
+    43.716148,
+    -70.486036,
+    43.716148
+],
   "geometry": {"coordinates":[-70.486036,43.716148],"type":"Point"}
 }

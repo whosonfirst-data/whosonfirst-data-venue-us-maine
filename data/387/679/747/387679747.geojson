@@ -2,13 +2,14 @@
   "id": 387679747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.188632,44.084441,-70.188632,44.084441",
     "geom:latitude":44.084441,
     "geom:longitude":-70.188632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Fairmount St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387679747,
-    "wof:lastmodified":1449058556,
+    "wof:lastmodified":1466586438,
     "wof:name":"C & M Security",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-70.188632,44.084441,-70.188632,44.084441],
+  "bbox": [
+    -70.188632,
+    44.084441,
+    -70.188632,
+    44.084441
+],
   "geometry": {"coordinates":[-70.188632,44.084441],"type":"Point"}
 }

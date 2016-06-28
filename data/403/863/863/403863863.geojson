@@ -2,13 +2,14 @@
   "id": 403863863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.256166,43.669779,-70.256166,43.669779",
     "geom:latitude":43.669779,
     "geom:longitude":-70.256166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Anderson St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403863863,
-    "wof:lastmodified":1449055525,
+    "wof:lastmodified":1466586759,
     "wof:name":"Aikido Of Maine",
     "wof:parent_id":85880023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.256166,43.669779,-70.256166,43.669779],
-  "geometry": {"coordinates":[-70.256166,43.669779],"type":"Point"}
+  "bbox": [
+    -70.256166,
+    43.669779,
+    -70.256166,
+    43.669779
+],
+  "geometry": {"coordinates":[-70.25616599999999,43.669779],"type":"Point"}
 }

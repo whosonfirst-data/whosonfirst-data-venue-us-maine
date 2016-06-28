@@ -2,13 +2,14 @@
   "id": 403768543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.992983,46.940496,-67.992983,46.940496",
     "geom:latitude":46.940496,
     "geom:longitude":-67.992983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Albair Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403768543,
-    "wof:lastmodified":1449055141,
+    "wof:lastmodified":1466586509,
     "wof:name":"Renes Masonery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-67.992983,46.940496,-67.992983,46.940496],
+  "bbox": [
+    -67.992983,
+    46.940496,
+    -67.992983,
+    46.940496
+],
   "geometry": {"coordinates":[-67.992983,46.940496],"type":"Point"}
 }

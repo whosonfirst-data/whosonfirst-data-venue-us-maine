@@ -2,13 +2,14 @@
   "id": 403808565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.236921,43.900582,-70.236921,43.900582",
     "geom:latitude":43.900582,
     "geom:longitude":-70.236921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Allen Rd",
     "sg:city":"Lovell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403808565,
-    "wof:lastmodified":1449054687,
+    "wof:lastmodified":1466586081,
     "wof:name":"Ebenezer Kezar's Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.236921,43.900582,-70.236921,43.900582],
+  "bbox": [
+    -70.236921,
+    43.900582,
+    -70.236921,
+    43.900582
+],
   "geometry": {"coordinates":[-70.236921,43.900582],"type":"Point"}
 }

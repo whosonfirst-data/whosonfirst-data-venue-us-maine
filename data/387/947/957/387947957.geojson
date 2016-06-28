@@ -2,13 +2,14 @@
   "id": 387947957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.840554,46.111165,-67.840554,46.111165",
     "geom:latitude":46.111165,
     "geom:longitude":-67.840554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Old Calais Rd",
     "sg:city":"Hodgdon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387947957,
-    "wof:lastmodified":1449058868,
+    "wof:lastmodified":1466587335,
     "wof:name":"Northern Musical Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.840554,46.111165,-67.840554,46.111165],
+  "bbox": [
+    -67.840554,
+    46.111165,
+    -67.840554,
+    46.111165
+],
   "geometry": {"coordinates":[-67.840554,46.111165],"type":"Point"}
 }

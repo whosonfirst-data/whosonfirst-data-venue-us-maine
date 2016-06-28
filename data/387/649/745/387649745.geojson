@@ -2,13 +2,14 @@
   "id": 387649745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.326101,43.704608,-70.326101,43.704608",
     "geom:latitude":43.704608,
     "geom:longitude":-70.326101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Bridgton Rd",
     "sg:city":"North Bridgton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387649745,
-    "wof:lastmodified":1449058704,
+    "wof:lastmodified":1466586740,
     "wof:name":"US Post Office",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.326101,43.704608,-70.326101,43.704608],
-  "geometry": {"coordinates":[-70.326101,43.704608],"type":"Point"}
+  "bbox": [
+    -70.326101,
+    43.704608,
+    -70.326101,
+    43.704608
+],
+  "geometry": {"coordinates":[-70.32610099999999,43.704608],"type":"Point"}
 }

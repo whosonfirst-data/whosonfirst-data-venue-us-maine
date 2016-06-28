@@ -2,13 +2,14 @@
   "id": 403726837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.405162,43.518506,-70.405162,43.518506",
     "geom:latitude":43.518506,
     "geom:longitude":-70.405162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Smithwheel Rd",
     "sg:city":"Old Orchard Bch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403726837,
-    "wof:lastmodified":1449055516,
+    "wof:lastmodified":1466585926,
     "wof:name":"Old Orchard Beach Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-70.405162,43.518506,-70.405162,43.518506],
+  "bbox": [
+    -70.405162,
+    43.518506,
+    -70.405162,
+    43.518506
+],
   "geometry": {"coordinates":[-70.405162,43.518506],"type":"Point"}
 }

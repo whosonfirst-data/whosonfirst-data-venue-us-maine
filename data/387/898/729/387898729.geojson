@@ -2,13 +2,14 @@
   "id": 387898729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.845561,44.732447,-68.845561,44.732447",
     "geom:latitude":44.732447,
     "geom:longitude":-68.845561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Kennebec Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387898729,
-    "wof:lastmodified":1449056035,
+    "wof:lastmodified":1466587240,
     "wof:name":"D J Hanson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-68.845561,44.732447,-68.845561,44.732447],
+  "bbox": [
+    -68.845561,
+    44.732447,
+    -68.845561,
+    44.732447
+],
   "geometry": {"coordinates":[-68.845561,44.732447],"type":"Point"}
 }

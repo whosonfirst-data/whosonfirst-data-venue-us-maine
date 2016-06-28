@@ -2,13 +2,14 @@
   "id": 387836535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.177484,44.079906,-69.177484,44.079906",
     "geom:latitude":44.079906,
     "geom:longitude":-69.177484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Main St",
     "sg:city":"Tenants Harbor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387836535,
-    "wof:lastmodified":1449058621,
+    "wof:lastmodified":1466587139,
     "wof:name":"Maine Coast Petroleum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.177484,44.079906,-69.177484,44.079906],
-  "geometry": {"coordinates":[-69.177484,44.079906],"type":"Point"}
+  "bbox": [
+    -69.177484,
+    44.079906,
+    -69.177484,
+    44.079906
+],
+  "geometry": {"coordinates":[-69.17748400000001,44.079906],"type":"Point"}
 }

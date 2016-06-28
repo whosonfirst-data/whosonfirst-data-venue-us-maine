@@ -2,13 +2,14 @@
   "id": 403820179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.71861,44.249128,-69.71861,44.249128",
     "geom:latitude":44.249128,
     "geom:longitude":-69.71861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Togus Rd",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403820179,
-    "wof:lastmodified":1449055338,
+    "wof:lastmodified":1466586267,
     "wof:name":"Central Maine Tanning Supply",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-69.71861,44.249128,-69.71861,44.249128],
+  "bbox": [
+    -69.71861,
+    44.249128,
+    -69.71861,
+    44.249128
+],
   "geometry": {"coordinates":[-69.71861,44.249128],"type":"Point"}
 }

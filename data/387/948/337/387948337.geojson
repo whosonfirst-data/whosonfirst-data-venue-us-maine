@@ -2,13 +2,14 @@
   "id": 387948337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.136907,44.472663,-70.136907,44.472663",
     "geom:latitude":44.472663,
     "geom:longitude":-70.136907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"566 Moose Hill Rd",
     "sg:city":"Livermore Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387948337,
-    "wof:lastmodified":1449059123,
+    "wof:lastmodified":1466587284,
     "wof:name":"Moosehill Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.136907,44.472663,-70.136907,44.472663],
-  "geometry": {"coordinates":[-70.136907,44.472663],"type":"Point"}
+  "bbox": [
+    -70.136907,
+    44.472663,
+    -70.136907,
+    44.472663
+],
+  "geometry": {"coordinates":[-70.13690699999999,44.472663],"type":"Point"}
 }

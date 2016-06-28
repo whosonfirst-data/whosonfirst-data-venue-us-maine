@@ -2,13 +2,14 @@
   "id": 387851223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.651967,44.928638,-68.651967,44.928638",
     "geom:latitude":44.928638,
     "geom:longitude":-68.651967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Perkins Ave",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387851223,
-    "wof:lastmodified":1449058616,
+    "wof:lastmodified":1466587224,
     "wof:name":"Meadows",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-68.651967,44.928638,-68.651967,44.928638],
+  "bbox": [
+    -68.651967,
+    44.928638,
+    -68.651967,
+    44.928638
+],
   "geometry": {"coordinates":[-68.651967,44.928638],"type":"Point"}
 }

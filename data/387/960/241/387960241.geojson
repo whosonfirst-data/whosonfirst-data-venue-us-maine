@@ -2,13 +2,14 @@
   "id": 387960241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.47625,44.236961,-70.47625,44.236961",
     "geom:latitude":44.236961,
     "geom:longitude":-70.47625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Buckfield Rd",
     "sg:city":"Hebron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387960241,
-    "wof:lastmodified":1449058847,
+    "wof:lastmodified":1466587344,
     "wof:name":"Hebron Pines Campground",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.47625,44.236961,-70.47625,44.236961],
-  "geometry": {"coordinates":[-70.47625,44.236961],"type":"Point"}
+  "bbox": [
+    -70.47625,
+    44.236961,
+    -70.47625,
+    44.236961
+],
+  "geometry": {"coordinates":[-70.47624999999999,44.236961],"type":"Point"}
 }

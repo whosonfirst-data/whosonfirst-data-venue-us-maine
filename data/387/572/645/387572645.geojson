@@ -2,13 +2,14 @@
   "id": 387572645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.62665,43.8365,-69.62665,43.8365",
     "geom:latitude":43.8365,
     "geom:longitude":-69.62665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 Atlantic Ave",
     "sg:city":"Boothbay Harbor",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387572645,
-    "wof:lastmodified":1449058431,
+    "wof:lastmodified":1466585916,
     "wof:name":"Atlantic Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-69.62665,43.8365,-69.62665,43.8365],
+  "bbox": [
+    -69.62665,
+    43.8365,
+    -69.62665,
+    43.8365
+],
   "geometry": {"coordinates":[-69.62665,43.8365],"type":"Point"}
 }

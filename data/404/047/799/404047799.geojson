@@ -2,13 +2,14 @@
   "id": 404047799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.550003,44.053069,-70.550003,44.053069",
     "geom:latitude":44.053069,
     "geom:longitude":-70.550003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Sherwood Dr",
     "sg:city":"Otisfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404047799,
-    "wof:lastmodified":1449039909,
+    "wof:lastmodified":1466586258,
     "wof:name":"Drew Excavation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.550003,44.053069,-70.550003,44.053069],
+  "bbox": [
+    -70.550003,
+    44.053069,
+    -70.550003,
+    44.053069
+],
   "geometry": {"coordinates":[-70.550003,44.053069],"type":"Point"}
 }

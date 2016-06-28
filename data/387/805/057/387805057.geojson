@@ -2,13 +2,14 @@
   "id": 387805057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.517431,43.418325,-70.517431,43.418325",
     "geom:latitude":43.418325,
     "geom:longitude":-70.517431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1236 Portland Rd",
     "sg:city":"Arundel",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387805057,
-    "wof:lastmodified":1449057371,
+    "wof:lastmodified":1466587150,
     "wof:name":"Dana's Upholstery",
     "wof:parent_id":85828039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-70.517431,43.418325,-70.517431,43.418325],
+  "bbox": [
+    -70.517431,
+    43.418325,
+    -70.517431,
+    43.418325
+],
   "geometry": {"coordinates":[-70.517431,43.418325],"type":"Point"}
 }

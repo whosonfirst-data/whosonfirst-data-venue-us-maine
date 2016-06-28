@@ -2,13 +2,14 @@
   "id": 404119205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.418425,44.541619,-68.418425,44.541619",
     "geom:latitude":44.541619,
     "geom:longitude":-68.418425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 High St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404119205,
-    "wof:lastmodified":1449039982,
+    "wof:lastmodified":1466586282,
     "wof:name":"Your Office Too",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-68.418425,44.541619,-68.418425,44.541619],
+  "bbox": [
+    -68.418425,
+    44.541619,
+    -68.418425,
+    44.541619
+],
   "geometry": {"coordinates":[-68.418425,44.541619],"type":"Point"}
 }

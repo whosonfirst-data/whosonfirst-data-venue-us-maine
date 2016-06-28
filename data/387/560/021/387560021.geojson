@@ -2,13 +2,14 @@
   "id": 387560021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.216012,44.092872,-70.216012,44.092872",
     "geom:latitude":44.092872,
     "geom:longitude":-70.216012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Canal St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387560021,
-    "wof:lastmodified":1449059012,
+    "wof:lastmodified":1466585763,
     "wof:name":"Common Ties Mental Htlh Cltn",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-70.216012,44.092872,-70.216012,44.092872],
-  "geometry": {"coordinates":[-70.216012,44.092872],"type":"Point"}
+  "bbox": [
+    -70.216012,
+    44.092872,
+    -70.216012,
+    44.092872
+],
+  "geometry": {"coordinates":[-70.21601200000001,44.092872],"type":"Point"}
 }

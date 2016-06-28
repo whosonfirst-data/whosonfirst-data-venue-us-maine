@@ -2,13 +2,14 @@
   "id": 387551127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.17508,44.075471,-70.17508,44.075471",
     "geom:latitude":44.075471,
     "geom:longitude":-70.17508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Westminster St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387551127,
-    "wof:lastmodified":1449056864,
+    "wof:lastmodified":1466585670,
     "wof:name":"Northeast Athletics Inc",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.17508,44.075471,-70.17508,44.075471],
-  "geometry": {"coordinates":[-70.17508,44.075471],"type":"Point"}
+  "bbox": [
+    -70.17508,
+    44.075471,
+    -70.17508,
+    44.075471
+],
+  "geometry": {"coordinates":[-70.17507999999999,44.075471],"type":"Point"}
 }

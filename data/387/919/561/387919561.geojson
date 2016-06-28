@@ -2,13 +2,14 @@
   "id": 387919561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.100846,43.841154,-70.100846,43.841154",
     "geom:latitude":43.841154,
     "geom:longitude":-70.100846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 S Freeport Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387919561,
-    "wof:lastmodified":1449058982,
+    "wof:lastmodified":1466587327,
     "wof:name":"Lance Fletcher",
     "wof:parent_id":85813291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-70.100846,43.841154,-70.100846,43.841154],
+  "bbox": [
+    -70.100846,
+    43.841154,
+    -70.100846,
+    43.841154
+],
   "geometry": {"coordinates":[-70.100846,43.841154],"type":"Point"}
 }

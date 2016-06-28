@@ -2,13 +2,14 @@
   "id": 387826737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.042865,46.850033,-68.042865,46.850033",
     "geom:latitude":46.850033,
     "geom:longitude":-68.042865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Lombard Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387826737,
-    "wof:lastmodified":1449058873,
+    "wof:lastmodified":1466587193,
     "wof:name":"Caribou Cabins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.042865,46.850033,-68.042865,46.850033],
-  "geometry": {"coordinates":[-68.042865,46.850033],"type":"Point"}
+  "bbox": [
+    -68.042865,
+    46.850033,
+    -68.042865,
+    46.850033
+],
+  "geometry": {"coordinates":[-68.04286500000001,46.850033],"type":"Point"}
 }

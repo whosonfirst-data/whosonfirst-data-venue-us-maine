@@ -2,13 +2,14 @@
   "id": 387961349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.50338,45.365143,-68.50338,45.365143",
     "geom:latitude":45.365143,
     "geom:longitude":-68.50338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Main St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387961349,
-    "wof:lastmodified":1449059847,
+    "wof:lastmodified":1466587298,
     "wof:name":"Smart's True Value Hardware",
     "wof:parent_id":85849837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.50338,45.365143,-68.50338,45.365143],
-  "geometry": {"coordinates":[-68.50338,45.365143],"type":"Point"}
+  "bbox": [
+    -68.50338,
+    45.365143,
+    -68.50338,
+    45.365143
+],
+  "geometry": {"coordinates":[-68.50338000000001,45.365143],"type":"Point"}
 }

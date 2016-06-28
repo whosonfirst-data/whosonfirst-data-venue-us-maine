@@ -2,13 +2,14 @@
   "id": 404025901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.012287,46.694485,-68.012287,46.694485",
     "geom:latitude":46.694485,
     "geom:longitude":-68.012287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 Main St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404025901,
-    "wof:lastmodified":1449040118,
+    "wof:lastmodified":1466585964,
     "wof:name":"Whitney Originals Inc",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-68.012287,46.694485,-68.012287,46.694485],
+  "bbox": [
+    -68.012287,
+    46.694485,
+    -68.012287,
+    46.694485
+],
   "geometry": {"coordinates":[-68.012287,46.694485],"type":"Point"}
 }

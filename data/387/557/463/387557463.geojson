@@ -2,13 +2,14 @@
   "id": 387557463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.982916,45.249555,-68.982916,45.249555",
     "geom:latitude":45.249555,
     "geom:longitude":-68.982916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Charles St",
     "sg:city":"Milo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387557463,
-    "wof:lastmodified":1449058823,
+    "wof:lastmodified":1466585712,
     "wof:name":"Korner Kreations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.982916,45.249555,-68.982916,45.249555],
+  "bbox": [
+    -68.982916,
+    45.249555,
+    -68.982916,
+    45.249555
+],
   "geometry": {"coordinates":[-68.982916,45.249555],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404085587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.253024,43.653816,-70.253024,43.653816",
     "geom:latitude":43.653816,
     "geom:longitude":-70.253024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Union Wharf",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404085587,
-    "wof:lastmodified":1449039343,
+    "wof:lastmodified":1466585817,
     "wof:name":"Tank Room",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.253024,43.653816,-70.253024,43.653816],
+  "bbox": [
+    -70.253024,
+    43.653816,
+    -70.253024,
+    43.653816
+],
   "geometry": {"coordinates":[-70.253024,43.653816],"type":"Point"}
 }

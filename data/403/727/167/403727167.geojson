@@ -2,13 +2,14 @@
   "id": 403727167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.168955,44.082779,-69.168955,44.082779",
     "geom:latitude":44.082779,
     "geom:longitude":-69.168955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 New County Rd",
     "sg:city":"Thomaston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403727167,
-    "wof:lastmodified":1449054829,
+    "wof:lastmodified":1466585931,
     "wof:name":"Creek Hill Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-69.168955,44.082779,-69.168955,44.082779],
+  "bbox": [
+    -69.168955,
+    44.082779,
+    -69.168955,
+    44.082779
+],
   "geometry": {"coordinates":[-69.168955,44.082779],"type":"Point"}
 }

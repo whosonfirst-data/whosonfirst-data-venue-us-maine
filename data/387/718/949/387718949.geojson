@@ -2,13 +2,14 @@
   "id": 387718949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.45752,44.714976,-67.45752,44.714976",
     "geom:latitude":44.714976,
     "geom:longitude":-67.45752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Main St",
     "sg:city":"Machias",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387718949,
-    "wof:lastmodified":1449056920,
+    "wof:lastmodified":1466586811,
     "wof:name":"Carol Beckman",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-67.45752,44.714976,-67.45752,44.714976],
+  "bbox": [
+    -67.45752,
+    44.714976,
+    -67.45752,
+    44.714976
+],
   "geometry": {"coordinates":[-67.45752,44.714976],"type":"Point"}
 }

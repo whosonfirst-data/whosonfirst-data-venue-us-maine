@@ -2,13 +2,14 @@
   "id": 404046483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.571238,43.641482,-70.571238,43.641482",
     "geom:latitude":43.641482,
     "geom:longitude":-70.571238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Back Nippen Rd",
     "sg:city":"Buxton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404046483,
-    "wof:lastmodified":1449039804,
+    "wof:lastmodified":1466586239,
     "wof:name":"Buxton Press",
     "wof:parent_id":85852373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-70.571238,43.641482,-70.571238,43.641482],
-  "geometry": {"coordinates":[-70.571238,43.641482],"type":"Point"}
+  "bbox": [
+    -70.571238,
+    43.641482,
+    -70.571238,
+    43.641482
+],
+  "geometry": {"coordinates":[-70.57123799999999,43.641482],"type":"Point"}
 }

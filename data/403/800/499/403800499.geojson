@@ -2,13 +2,14 @@
   "id": 403800499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.287045,44.780294,-69.287045,44.780294",
     "geom:latitude":44.780294,
     "geom:longitude":-69.287045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Troy Rd",
     "sg:city":"Detroit",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403800499,
-    "wof:lastmodified":1449054737,
+    "wof:lastmodified":1466585956,
     "wof:name":"Quality Auto",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-69.287045,44.780294,-69.287045,44.780294],
-  "geometry": {"coordinates":[-69.287045,44.780294],"type":"Point"}
+  "bbox": [
+    -69.287045,
+    44.780294,
+    -69.287045,
+    44.780294
+],
+  "geometry": {"coordinates":[-69.28704500000001,44.780294],"type":"Point"}
 }

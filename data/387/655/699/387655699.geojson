@@ -2,13 +2,14 @@
   "id": 387655699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.010286,46.878716,-68.010286,46.878716",
     "geom:latitude":46.878716,
     "geom:longitude":-68.010286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Van Buren Rd",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387655699,
-    "wof:lastmodified":1449058294,
+    "wof:lastmodified":1466586055,
     "wof:name":"Us Veterans Administration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-68.010286,46.878716,-68.010286,46.878716],
-  "geometry": {"coordinates":[-68.010286,46.878716],"type":"Point"}
+  "bbox": [
+    -68.010286,
+    46.878716,
+    -68.010286,
+    46.878716
+],
+  "geometry": {"coordinates":[-68.01028599999999,46.878716],"type":"Point"}
 }

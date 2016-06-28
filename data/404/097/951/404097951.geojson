@@ -2,13 +2,14 @@
   "id": 404097951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.455371,43.492834,-70.455371,43.492834",
     "geom:latitude":43.492834,
     "geom:longitude":-70.455371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Washington St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404097951,
-    "wof:lastmodified":1449039504,
+    "wof:lastmodified":1466585968,
     "wof:name":"Charisma Unisex Hair Design",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.455371,43.492834,-70.455371,43.492834],
+  "bbox": [
+    -70.455371,
+    43.492834,
+    -70.455371,
+    43.492834
+],
   "geometry": {"coordinates":[-70.455371,43.492834],"type":"Point"}
 }

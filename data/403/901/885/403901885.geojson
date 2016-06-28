@@ -2,13 +2,14 @@
   "id": 403901885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.6767,45.236112,-68.6767,45.236112",
     "geom:latitude":45.236112,
     "geom:longitude":-68.6767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Lagrange Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403901885,
-    "wof:lastmodified":1449055187,
+    "wof:lastmodified":1466586926,
     "wof:name":"Mc Laughlin & Mc Laughlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-68.6767,45.236112,-68.6767,45.236112],
+  "bbox": [
+    -68.6767,
+    45.236112,
+    -68.6767,
+    45.236112
+],
   "geometry": {"coordinates":[-68.6767,45.236112],"type":"Point"}
 }

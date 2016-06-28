@@ -2,13 +2,14 @@
   "id": 403987859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.06066,43.996561,-70.06066,43.996561",
     "geom:latitude":43.996561,
     "geom:longitude":-70.06066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Main St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403987859,
-    "wof:lastmodified":1449055378,
+    "wof:lastmodified":1466587166,
     "wof:name":"Movieland",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-70.06066,43.996561,-70.06066,43.996561],
+  "bbox": [
+    -70.06066,
+    43.996561,
+    -70.06066,
+    43.996561
+],
   "geometry": {"coordinates":[-70.06066,43.996561],"type":"Point"}
 }

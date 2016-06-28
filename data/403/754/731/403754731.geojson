@@ -2,13 +2,14 @@
   "id": 403754731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.507952,43.91014,-70.507952,43.91014",
     "geom:latitude":43.91014,
     "geom:longitude":-70.507952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Hawthorne Rd",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403754731,
-    "wof:lastmodified":1449055490,
+    "wof:lastmodified":1466586313,
     "wof:name":"Sabre Corp",
     "wof:parent_id":85841571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-70.507952,43.91014,-70.507952,43.91014],
+  "bbox": [
+    -70.507952,
+    43.91014,
+    -70.507952,
+    43.91014
+],
   "geometry": {"coordinates":[-70.507952,43.91014],"type":"Point"}
 }

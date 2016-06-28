@@ -2,13 +2,14 @@
   "id": 387627177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.224804,43.895527,-70.224804,43.895527",
     "geom:latitude":43.895527,
     "geom:longitude":-70.224804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Leighton Rd",
     "sg:city":"Pownal",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387627177,
-    "wof:lastmodified":1449060002,
+    "wof:lastmodified":1466585763,
     "wof:name":"Mack & Rodel Studios Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "wood"
     ]
 },
-  "bbox": [-70.224804,43.895527,-70.224804,43.895527],
-  "geometry": {"coordinates":[-70.224804,43.895527],"type":"Point"}
+  "bbox": [
+    -70.224804,
+    43.895527,
+    -70.224804,
+    43.895527
+],
+  "geometry": {"coordinates":[-70.22480400000001,43.895527],"type":"Point"}
 }

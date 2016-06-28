@@ -2,13 +2,14 @@
   "id": 403821649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.964287,43.925843,-70.964287,43.925843",
     "geom:latitude":43.925843,
     "geom:longitude":-70.964287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Hampshire Rd",
     "sg:city":"Brownfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403821649,
-    "wof:lastmodified":1449055360,
+    "wof:lastmodified":1466586292,
     "wof:name":"Parsons Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-70.964287,43.925843,-70.964287,43.925843],
+  "bbox": [
+    -70.964287,
+    43.925843,
+    -70.964287,
+    43.925843
+],
   "geometry": {"coordinates":[-70.964287,43.925843],"type":"Point"}
 }

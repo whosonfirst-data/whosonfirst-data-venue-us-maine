@@ -2,13 +2,14 @@
   "id": 404092157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.398889,43.506059,-70.398889,43.506059",
     "geom:latitude":43.506059,
     "geom:longitude":-70.398889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Temple Ave",
     "sg:city":"Old Orchard Beach",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404092157,
-    "wof:lastmodified":1449040072,
+    "wof:lastmodified":1466586650,
     "wof:name":"Pauls Pressur Cleang",
     "wof:parent_id":85828495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.398889,43.506059,-70.398889,43.506059],
+  "bbox": [
+    -70.398889,
+    43.506059,
+    -70.398889,
+    43.506059
+],
   "geometry": {"coordinates":[-70.398889,43.506059],"type":"Point"}
 }

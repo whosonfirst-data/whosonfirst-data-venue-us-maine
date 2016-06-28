@@ -2,13 +2,14 @@
   "id": 404078209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.614026,44.593716,-69.614026,44.593716",
     "geom:latitude":44.593716,
     "geom:longitude":-69.614026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Western Ave",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404078209,
-    "wof:lastmodified":1449040136,
+    "wof:lastmodified":1466585711,
     "wof:name":"Kennebec Valley Technical Clg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institute"
     ]
 },
-  "bbox": [-69.614026,44.593716,-69.614026,44.593716],
+  "bbox": [
+    -69.614026,
+    44.593716,
+    -69.614026,
+    44.593716
+],
   "geometry": {"coordinates":[-69.614026,44.593716],"type":"Point"}
 }

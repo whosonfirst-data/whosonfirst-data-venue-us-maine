@@ -2,13 +2,14 @@
   "id": 387579557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.626666,43.853299,-69.626666,43.853299",
     "geom:latitude":43.853299,
     "geom:longitude":-69.626666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Townsend Ave",
     "sg:city":"Boothbay Harbor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387579557,
-    "wof:lastmodified":1449057310,
+    "wof:lastmodified":1466586012,
     "wof:name":"Harbor Town Inn On-Waterfront",
     "wof:parent_id":85835605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-69.626666,43.853299,-69.626666,43.853299],
+  "bbox": [
+    -69.626666,
+    43.853299,
+    -69.626666,
+    43.853299
+],
   "geometry": {"coordinates":[-69.626666,43.853299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403734507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.812457,44.316731,-69.812457,44.316731",
     "geom:latitude":44.316731,
     "geom:longitude":-69.812457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"393 Western Ave",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403734507,
-    "wof:lastmodified":1449055803,
+    "wof:lastmodified":1466586027,
     "wof:name":"Augusta Pizza",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.812457,44.316731,-69.812457,44.316731],
-  "geometry": {"coordinates":[-69.812457,44.316731],"type":"Point"}
+  "bbox": [
+    -69.812457,
+    44.316731,
+    -69.812457,
+    44.316731
+],
+  "geometry": {"coordinates":[-69.81245699999999,44.316731],"type":"Point"}
 }

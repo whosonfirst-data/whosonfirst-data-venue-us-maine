@@ -2,13 +2,14 @@
   "id": 404090457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.045092,46.702613,-68.045092,46.702613",
     "geom:latitude":46.702613,
     "geom:longitude":-68.045092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 Missile St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404090457,
-    "wof:lastmodified":1449040040,
+    "wof:lastmodified":1466585856,
     "wof:name":"Aroostook Trusses Inc",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "structure"
     ]
 },
-  "bbox": [-68.045092,46.702613,-68.045092,46.702613],
+  "bbox": [
+    -68.045092,
+    46.702613,
+    -68.045092,
+    46.702613
+],
   "geometry": {"coordinates":[-68.045092,46.702613],"type":"Point"}
 }

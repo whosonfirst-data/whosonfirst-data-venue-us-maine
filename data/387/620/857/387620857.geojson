@@ -2,13 +2,14 @@
   "id": 387620857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.430289,44.548032,-68.430289,44.548032",
     "geom:latitude":44.548032,
     "geom:longitude":-68.430289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Shore Rd",
     "sg:city":"Cranberry Isles",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387620857,
-    "wof:lastmodified":1449059588,
+    "wof:lastmodified":1466586691,
     "wof:name":"Cranberry General",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-68.430289,44.548032,-68.430289,44.548032],
+  "bbox": [
+    -68.430289,
+    44.548032,
+    -68.430289,
+    44.548032
+],
   "geometry": {"coordinates":[-68.430289,44.548032],"type":"Point"}
 }

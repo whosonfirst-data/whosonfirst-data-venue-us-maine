@@ -2,13 +2,14 @@
   "id": 404061335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.592565,44.221024,-70.592565,44.221024",
     "geom:latitude":44.221024,
     "geom:longitude":-70.592565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Waterford Rd",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404061335,
-    "wof:lastmodified":1449039991,
+    "wof:lastmodified":1466586456,
     "wof:name":"Martin's General Store",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-70.592565,44.221024,-70.592565,44.221024],
-  "geometry": {"coordinates":[-70.592565,44.221024],"type":"Point"}
+  "bbox": [
+    -70.592565,
+    44.221024,
+    -70.592565,
+    44.221024
+],
+  "geometry": {"coordinates":[-70.59256499999999,44.221024],"type":"Point"}
 }

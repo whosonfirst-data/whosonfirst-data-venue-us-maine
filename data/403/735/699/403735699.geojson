@@ -2,13 +2,14 @@
   "id": 403735699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.158049,44.185696,-70.158049,44.185696",
     "geom:latitude":44.185696,
     "geom:longitude":-70.158049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"461 US Hwy 202",
     "sg:city":"Greene",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403735699,
-    "wof:lastmodified":1449055914,
+    "wof:lastmodified":1466586030,
     "wof:name":"Mary Jane's School Of Dance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dancing"
     ]
 },
-  "bbox": [-70.158049,44.185696,-70.158049,44.185696],
-  "geometry": {"coordinates":[-70.158049,44.185696],"type":"Point"}
+  "bbox": [
+    -70.158049,
+    44.185696,
+    -70.158049,
+    44.185696
+],
+  "geometry": {"coordinates":[-70.15804900000001,44.185696],"type":"Point"}
 }

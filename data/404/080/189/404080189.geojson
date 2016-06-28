@@ -2,13 +2,14 @@
   "id": 404080189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.594951,44.593671,-69.594951,44.593671",
     "geom:latitude":44.593671,
     "geom:longitude":-69.594951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 Main St",
     "sg:city":"Kingfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404080189,
-    "wof:lastmodified":1449040300,
+    "wof:lastmodified":1466585738,
     "wof:name":"Computer Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-69.594951,44.593671,-69.594951,44.593671],
-  "geometry": {"coordinates":[-69.594951,44.593671],"type":"Point"}
+  "bbox": [
+    -69.594951,
+    44.593671,
+    -69.594951,
+    44.593671
+],
+  "geometry": {"coordinates":[-69.59495099999999,44.593671],"type":"Point"}
 }

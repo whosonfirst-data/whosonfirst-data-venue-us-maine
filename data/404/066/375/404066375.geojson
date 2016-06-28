@@ -2,13 +2,14 @@
   "id": 404066375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.837583,43.944708,-69.837583,43.944708",
     "geom:latitude":43.944708,
     "geom:longitude":-69.837583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N Bath Rd",
     "sg:city":"West Bath",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404066375,
-    "wof:lastmodified":1449039368,
+    "wof:lastmodified":1466586517,
     "wof:name":"New Meadows Abatement Inc",
     "wof:parent_id":85813751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "removal"
     ]
 },
-  "bbox": [-69.837583,43.944708,-69.837583,43.944708],
+  "bbox": [
+    -69.837583,
+    43.944708,
+    -69.837583,
+    43.944708
+],
   "geometry": {"coordinates":[-69.837583,43.944708],"type":"Point"}
 }

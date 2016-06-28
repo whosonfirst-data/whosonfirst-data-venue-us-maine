@@ -2,13 +2,14 @@
   "id": 404143937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.283977,43.638399,-70.283977,43.638399",
     "geom:latitude":43.638399,
     "geom:longitude":-70.283977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Main St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404143937,
-    "wof:lastmodified":1449040106,
+    "wof:lastmodified":1466586700,
     "wof:name":"Clean Harbors Environmental",
     "wof:parent_id":85880029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "ecological"
     ]
 },
-  "bbox": [-70.283977,43.638399,-70.283977,43.638399],
-  "geometry": {"coordinates":[-70.283977,43.638399],"type":"Point"}
+  "bbox": [
+    -70.283977,
+    43.638399,
+    -70.283977,
+    43.638399
+],
+  "geometry": {"coordinates":[-70.28397699999999,43.638399],"type":"Point"}
 }

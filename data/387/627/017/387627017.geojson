@@ -2,13 +2,14 @@
   "id": 387627017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.233732,43.714327,-70.233732,43.714327",
     "geom:latitude":43.714327,
     "geom:longitude":-70.233732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 US Hwy 1",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387627017,
-    "wof:lastmodified":1449059998,
+    "wof:lastmodified":1466586624,
     "wof:name":"Northeastern Financial",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-70.233732,43.714327,-70.233732,43.714327],
+  "bbox": [
+    -70.233732,
+    43.714327,
+    -70.233732,
+    43.714327
+],
   "geometry": {"coordinates":[-70.233732,43.714327],"type":"Point"}
 }

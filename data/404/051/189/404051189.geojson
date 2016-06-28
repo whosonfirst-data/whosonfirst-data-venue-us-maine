@@ -2,13 +2,14 @@
   "id": 404051189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.589275,43.322318,-70.589275,43.322318",
     "geom:latitude":43.322318,
     "geom:longitude":-70.589275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Sanford Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404051189,
-    "wof:lastmodified":1449039853,
+    "wof:lastmodified":1466586315,
     "wof:name":"Kickstand & Wheelies",
     "wof:parent_id":85815165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motor"
     ]
 },
-  "bbox": [-70.589275,43.322318,-70.589275,43.322318],
+  "bbox": [
+    -70.589275,
+    43.322318,
+    -70.589275,
+    43.322318
+],
   "geometry": {"coordinates":[-70.589275,43.322318],"type":"Point"}
 }

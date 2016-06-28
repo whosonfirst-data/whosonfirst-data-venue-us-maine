@@ -2,13 +2,14 @@
   "id": 387581233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.724801,44.776693,-69.724801,44.776693",
     "geom:latitude":44.776693,
     "geom:longitude":-69.724801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 Madison Ave",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387581233,
-    "wof:lastmodified":1449056907,
+    "wof:lastmodified":1466586026,
     "wof:name":"Bob's Discount Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-69.724801,44.776693,-69.724801,44.776693],
+  "bbox": [
+    -69.724801,
+    44.776693,
+    -69.724801,
+    44.776693
+],
   "geometry": {"coordinates":[-69.724801,44.776693],"type":"Point"}
 }

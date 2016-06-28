@@ -2,13 +2,14 @@
   "id": 404037271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.65176,44.538928,-69.65176,44.538928",
     "geom:latitude":44.538928,
     "geom:longitude":-69.65176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Collette St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404037271,
-    "wof:lastmodified":1449040341,
+    "wof:lastmodified":1466586049,
     "wof:name":"Maple Leaf Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-69.65176,44.538928,-69.65176,44.538928],
+  "bbox": [
+    -69.65176,
+    44.538928,
+    -69.65176,
+    44.538928
+],
   "geometry": {"coordinates":[-69.65176,44.538928],"type":"Point"}
 }

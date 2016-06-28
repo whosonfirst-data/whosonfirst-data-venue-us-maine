@@ -2,13 +2,14 @@
   "id": 387665391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.295125,43.671371,-70.295125,43.671371",
     "geom:latitude":43.671371,
     "geom:longitude":-70.295125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 Stevens Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387665391,
-    "wof:lastmodified":1449057264,
+    "wof:lastmodified":1466586209,
     "wof:name":"Portland Public Health Div",
     "wof:parent_id":85880021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "health"
     ]
 },
-  "bbox": [-70.295125,43.671371,-70.295125,43.671371],
+  "bbox": [
+    -70.295125,
+    43.671371,
+    -70.295125,
+    43.671371
+],
   "geometry": {"coordinates":[-70.295125,43.671371],"type":"Point"}
 }

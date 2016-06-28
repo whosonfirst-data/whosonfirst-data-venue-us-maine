@@ -2,13 +2,14 @@
   "id": 403702639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.321752,43.686769,-70.321752,43.686769",
     "geom:latitude":43.686769,
     "geom:longitude":-70.321752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Warren Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403702639,
-    "wof:lastmodified":1449055303,
+    "wof:lastmodified":1466585697,
     "wof:name":"B J's Optical",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.321752,43.686769,-70.321752,43.686769],
+  "bbox": [
+    -70.321752,
+    43.686769,
+    -70.321752,
+    43.686769
+],
   "geometry": {"coordinates":[-70.321752,43.686769],"type":"Point"}
 }

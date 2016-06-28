@@ -2,13 +2,14 @@
   "id": 387730605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.454476,43.491671,-70.454476,43.491671",
     "geom:latitude":43.491671,
     "geom:longitude":-70.454476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Alfred St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387730605,
-    "wof:lastmodified":1449059312,
+    "wof:lastmodified":1466586836,
     "wof:name":"Biddeford Police Dept",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-70.454476,43.491671,-70.454476,43.491671],
+  "bbox": [
+    -70.454476,
+    43.491671,
+    -70.454476,
+    43.491671
+],
   "geometry": {"coordinates":[-70.454476,43.491671],"type":"Point"}
 }

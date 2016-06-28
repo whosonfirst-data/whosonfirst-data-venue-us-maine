@@ -2,13 +2,14 @@
   "id": 404203965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.690493,43.141874,-70.690493,43.141874",
     "geom:latitude":43.141874,
     "geom:longitude":-70.690493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"354 US Hwy 1",
     "sg:city":"York",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404203965,
-    "wof:lastmodified":1449039549,
+    "wof:lastmodified":1466586936,
     "wof:name":"Kidspeace",
     "wof:parent_id":85811017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-70.690493,43.141874,-70.690493,43.141874],
+  "bbox": [
+    -70.690493,
+    43.141874,
+    -70.690493,
+    43.141874
+],
   "geometry": {"coordinates":[-70.690493,43.141874],"type":"Point"}
 }

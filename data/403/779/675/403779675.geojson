@@ -2,13 +2,14 @@
   "id": 403779675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.280468,44.093847,-70.280468,44.093847",
     "geom:latitude":44.093847,
     "geom:longitude":-70.280468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Valview Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403779675,
-    "wof:lastmodified":1449054832,
+    "wof:lastmodified":1466585674,
     "wof:name":"All In One Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-70.280468,44.093847,-70.280468,44.093847],
+  "bbox": [
+    -70.280468,
+    44.093847,
+    -70.280468,
+    44.093847
+],
   "geometry": {"coordinates":[-70.280468,44.093847],"type":"Point"}
 }

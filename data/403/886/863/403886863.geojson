@@ -2,13 +2,14 @@
   "id": 403886863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.435428,43.834529,-70.435428,43.834529",
     "geom:latitude":43.834529,
     "geom:longitude":-70.435428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 State Rte 115",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403886863,
-    "wof:lastmodified":1449055372,
+    "wof:lastmodified":1466586943,
     "wof:name":"Sunrise Printing & Graphics",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-70.435428,43.834529,-70.435428,43.834529],
+  "bbox": [
+    -70.435428,
+    43.834529,
+    -70.435428,
+    43.834529
+],
   "geometry": {"coordinates":[-70.435428,43.834529],"type":"Point"}
 }

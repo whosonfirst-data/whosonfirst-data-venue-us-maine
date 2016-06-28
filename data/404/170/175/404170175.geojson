@@ -2,13 +2,14 @@
   "id": 404170175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.263948,43.648347,-70.263948,43.648347",
     "geom:latitude":43.648347,
     "geom:longitude":-70.263948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Danforth St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404170175,
-    "wof:lastmodified":1449039131,
+    "wof:lastmodified":1466586791,
     "wof:name":"Fink Arthur Consulting",
     "wof:parent_id":85855397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "business"
     ]
 },
-  "bbox": [-70.263948,43.648347,-70.263948,43.648347],
+  "bbox": [
+    -70.263948,
+    43.648347,
+    -70.263948,
+    43.648347
+],
   "geometry": {"coordinates":[-70.263948,43.648347],"type":"Point"}
 }

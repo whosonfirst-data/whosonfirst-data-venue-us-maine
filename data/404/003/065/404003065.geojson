@@ -2,13 +2,14 @@
   "id": 404003065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.224969,44.127999,-70.224969,44.127999",
     "geom:latitude":44.127999,
     "geom:longitude":-70.224969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404003065,
-    "wof:lastmodified":1449040245,
+    "wof:lastmodified":1466585708,
     "wof:name":"Craft Mania Inc",
     "wof:parent_id":85815921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-70.224969,44.127999,-70.224969,44.127999],
+  "bbox": [
+    -70.224969,
+    44.127999,
+    -70.224969,
+    44.127999
+],
   "geometry": {"coordinates":[-70.224969,44.127999],"type":"Point"}
 }

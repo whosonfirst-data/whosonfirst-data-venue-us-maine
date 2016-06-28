@@ -2,13 +2,14 @@
   "id": 403943471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.259809,43.686906,-70.259809,43.686906",
     "geom:latitude":43.686906,
     "geom:longitude":-70.259809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Presumpscot St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403943471,
-    "wof:lastmodified":1449054997,
+    "wof:lastmodified":1466587064,
     "wof:name":"Burleigh Electric",
     "wof:parent_id":85816239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.259809,43.686906,-70.259809,43.686906],
+  "bbox": [
+    -70.259809,
+    43.686906,
+    -70.259809,
+    43.686906
+],
   "geometry": {"coordinates":[-70.259809,43.686906],"type":"Point"}
 }

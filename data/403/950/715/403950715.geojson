@@ -2,13 +2,14 @@
   "id": 403950715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.579484,45.628975,-68.579484,45.628975",
     "geom:latitude":45.628975,
     "geom:longitude":-68.579484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Church St",
     "sg:city":"East Millinocket",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403950715,
-    "wof:lastmodified":1449055159,
+    "wof:lastmodified":1466587067,
     "wof:name":"Public Works Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-68.579484,45.628975,-68.579484,45.628975],
-  "geometry": {"coordinates":[-68.579484,45.628975],"type":"Point"}
+  "bbox": [
+    -68.579484,
+    45.628975,
+    -68.579484,
+    45.628975
+],
+  "geometry": {"coordinates":[-68.57948399999999,45.628975],"type":"Point"}
 }

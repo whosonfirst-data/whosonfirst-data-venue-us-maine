@@ -2,13 +2,14 @@
   "id": 387874289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.202058,44.44141,-70.202058,44.44141",
     "geom:latitude":44.44141,
     "geom:longitude":-70.202058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Gibbs Mill Rd",
     "sg:city":"Livermore",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387874289,
-    "wof:lastmodified":1449059676,
+    "wof:lastmodified":1466587199,
     "wof:name":"Gibbs Mill Road Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-70.202058,44.44141,-70.202058,44.44141],
-  "geometry": {"coordinates":[-70.202058,44.44141],"type":"Point"}
+  "bbox": [
+    -70.202058,
+    44.44141,
+    -70.202058,
+    44.44141
+],
+  "geometry": {"coordinates":[-70.20205799999999,44.44141],"type":"Point"}
 }

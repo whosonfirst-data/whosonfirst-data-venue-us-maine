@@ -2,13 +2,14 @@
   "id": 387960923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.61004,45.184863,-68.61004,45.184863",
     "geom:latitude":45.184863,
     "geom:longitude":-68.61004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Pleasant St",
     "sg:city":"Passadumkeag",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387960923,
-    "wof:lastmodified":1449058847,
+    "wof:lastmodified":1466587300,
     "wof:name":"US Post Office",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.61004,45.184863,-68.61004,45.184863],
+  "bbox": [
+    -68.61004,
+    45.184863,
+    -68.61004,
+    45.184863
+],
   "geometry": {"coordinates":[-68.61004,45.184863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404129993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.682124,44.111872,-70.682124,44.111872",
     "geom:latitude":44.111872,
     "geom:longitude":-70.682124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Main St",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404129993,
-    "wof:lastmodified":1449040055,
+    "wof:lastmodified":1466586449,
     "wof:name":"Gateway Marina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.682124,44.111872,-70.682124,44.111872],
+  "bbox": [
+    -70.682124,
+    44.111872,
+    -70.682124,
+    44.111872
+],
   "geometry": {"coordinates":[-70.682124,44.111872],"type":"Point"}
 }

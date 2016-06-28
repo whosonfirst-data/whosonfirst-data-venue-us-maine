@@ -2,13 +2,14 @@
   "id": 387846399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.242372,43.640083,-70.242372,43.640083",
     "geom:latitude":43.640083,
     "geom:longitude":-70.242372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Harriet St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387846399,
-    "wof:lastmodified":1449059052,
+    "wof:lastmodified":1466587152,
     "wof:name":"Shanghi Virgowill Ltd",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-70.242372,43.640083,-70.242372,43.640083],
+  "bbox": [
+    -70.242372,
+    43.640083,
+    -70.242372,
+    43.640083
+],
   "geometry": {"coordinates":[-70.242372,43.640083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404039915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.50218,43.694848,-70.50218,43.694848",
     "geom:latitude":43.694848,
     "geom:longitude":-70.50218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Dow Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404039915,
-    "wof:lastmodified":1449040178,
+    "wof:lastmodified":1466586083,
     "wof:name":"John J Godfrey Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "financial"
     ]
 },
-  "bbox": [-70.50218,43.694848,-70.50218,43.694848],
+  "bbox": [
+    -70.50218,
+    43.694848,
+    -70.50218,
+    43.694848
+],
   "geometry": {"coordinates":[-70.50218,43.694848],"type":"Point"}
 }

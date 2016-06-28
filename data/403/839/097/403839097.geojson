@@ -2,13 +2,14 @@
   "id": 403839097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.487503,43.926845,-70.487503,43.926845",
     "geom:latitude":43.926845,
     "geom:longitude":-70.487503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Tower Rd",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403839097,
-    "wof:lastmodified":1449055454,
+    "wof:lastmodified":1466586584,
     "wof:name":"Dielectric Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-70.487503,43.926845,-70.487503,43.926845],
+  "bbox": [
+    -70.487503,
+    43.926845,
+    -70.487503,
+    43.926845
+],
   "geometry": {"coordinates":[-70.487503,43.926845],"type":"Point"}
 }

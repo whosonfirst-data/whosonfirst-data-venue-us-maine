@@ -2,13 +2,14 @@
   "id": 387695757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.762362,44.527211,-69.762362,44.527211",
     "geom:latitude":44.527211,
     "geom:longitude":-69.762362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Town Farm Rd",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387695757,
-    "wof:lastmodified":1449057548,
+    "wof:lastmodified":1466586713,
     "wof:name":"Permanent Roofing Solutions",
     "wof:parent_id":85837327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.762362,44.527211,-69.762362,44.527211],
+  "bbox": [
+    -69.762362,
+    44.527211,
+    -69.762362,
+    44.527211
+],
   "geometry": {"coordinates":[-69.762362,44.527211],"type":"Point"}
 }

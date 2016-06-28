@@ -2,13 +2,14 @@
   "id": 387825891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.745241,44.368154,-69.745241,44.368154",
     "geom:latitude":44.368154,
     "geom:longitude":-69.745241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 W River Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387825891,
-    "wof:lastmodified":1449056265,
+    "wof:lastmodified":1466587113,
     "wof:name":"Palmer Machine Co",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "welding"
     ]
 },
-  "bbox": [-69.745241,44.368154,-69.745241,44.368154],
-  "geometry": {"coordinates":[-69.745241,44.368154],"type":"Point"}
+  "bbox": [
+    -69.745241,
+    44.368154,
+    -69.745241,
+    44.368154
+],
+  "geometry": {"coordinates":[-69.74524099999999,44.368154],"type":"Point"}
 }

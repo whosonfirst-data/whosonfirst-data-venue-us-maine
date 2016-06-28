@@ -2,13 +2,14 @@
   "id": 387649947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.523849,44.213902,-70.523849,44.213902",
     "geom:latitude":44.213902,
     "geom:longitude":-70.523849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Main St",
     "sg:city":"South Paris",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387649947,
-    "wof:lastmodified":1449058704,
+    "wof:lastmodified":1466586665,
     "wof:name":"Bessey Collision Ctr",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-70.523849,44.213902,-70.523849,44.213902],
+  "bbox": [
+    -70.523849,
+    44.213902,
+    -70.523849,
+    44.213902
+],
   "geometry": {"coordinates":[-70.523849,44.213902],"type":"Point"}
 }

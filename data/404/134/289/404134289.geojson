@@ -2,13 +2,14 @@
   "id": 404134289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.842191,46.769575,-67.842191,46.769575",
     "geom:latitude":46.769575,
     "geom:longitude":-67.842191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Currier Rd",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404134289,
-    "wof:lastmodified":1449040273,
+    "wof:lastmodified":1466586511,
     "wof:name":"Catherine Egans Daycare",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-67.842191,46.769575,-67.842191,46.769575],
+  "bbox": [
+    -67.842191,
+    46.769575,
+    -67.842191,
+    46.769575
+],
   "geometry": {"coordinates":[-67.842191,46.769575],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387630577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.875606,44.872642,-68.875606,44.872642",
     "geom:latitude":44.872642,
     "geom:longitude":-68.875606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2740 Ohio St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387630577,
-    "wof:lastmodified":1449057459,
+    "wof:lastmodified":1466585812,
     "wof:name":"Candles By Jan",
     "wof:parent_id":85855557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-68.875606,44.872642,-68.875606,44.872642],
+  "bbox": [
+    -68.875606,
+    44.872642,
+    -68.875606,
+    44.872642
+],
   "geometry": {"coordinates":[-68.875606,44.872642],"type":"Point"}
 }

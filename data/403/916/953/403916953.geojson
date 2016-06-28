@@ -2,13 +2,14 @@
   "id": 403916953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.359093,43.67765,-70.359093,43.67765",
     "geom:latitude":43.67765,
     "geom:longitude":-70.359093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"672 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403916953,
-    "wof:lastmodified":1449055363,
+    "wof:lastmodified":1466586967,
     "wof:name":"TNT Nails",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-70.359093,43.67765,-70.359093,43.67765],
+  "bbox": [
+    -70.359093,
+    43.67765,
+    -70.359093,
+    43.67765
+],
   "geometry": {"coordinates":[-70.359093,43.67765],"type":"Point"}
 }

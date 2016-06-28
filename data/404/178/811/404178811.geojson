@@ -2,13 +2,14 @@
   "id": 404178811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.598632,44.592966,-69.598632,44.592966",
     "geom:latitude":44.592966,
     "geom:longitude":-69.598632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Maple St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404178811,
-    "wof:lastmodified":1449039987,
+    "wof:lastmodified":1466586911,
     "wof:name":"Pro Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.598632,44.592966,-69.598632,44.592966],
-  "geometry": {"coordinates":[-69.598632,44.592966],"type":"Point"}
+  "bbox": [
+    -69.598632,
+    44.592966,
+    -69.598632,
+    44.592966
+],
+  "geometry": {"coordinates":[-69.59863199999999,44.592966],"type":"Point"}
 }

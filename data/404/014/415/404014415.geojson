@@ -2,13 +2,14 @@
   "id": 404014415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.361551,43.581455,-70.361551,43.581455",
     "geom:latitude":43.581455,
     "geom:longitude":-70.361551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Manson Libby Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404014415,
-    "wof:lastmodified":1449039628,
+    "wof:lastmodified":1466586638,
     "wof:name":"New England Tech Air Inc",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sheet"
     ]
 },
-  "bbox": [-70.361551,43.581455,-70.361551,43.581455],
-  "geometry": {"coordinates":[-70.361551,43.581455],"type":"Point"}
+  "bbox": [
+    -70.361551,
+    43.581455,
+    -70.361551,
+    43.581455
+],
+  "geometry": {"coordinates":[-70.36155100000001,43.581455],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387865657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.863014,44.335456,-69.863014,44.335456",
     "geom:latitude":44.335456,
     "geom:longitude":-69.863014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Myrtle St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387865657,
-    "wof:lastmodified":1449058977,
+    "wof:lastmodified":1466587104,
     "wof:name":"Ballard Meats & Seafood",
     "wof:parent_id":85841121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.863014,44.335456,-69.863014,44.335456],
-  "geometry": {"coordinates":[-69.863014,44.335456],"type":"Point"}
+  "bbox": [
+    -69.863014,
+    44.335456,
+    -69.863014,
+    44.335456
+],
+  "geometry": {"coordinates":[-69.86301400000001,44.335456],"type":"Point"}
 }

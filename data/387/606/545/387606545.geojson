@@ -2,13 +2,14 @@
   "id": 387606545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.231455,44.587391,-70.231455,44.587391",
     "geom:latitude":44.587391,
     "geom:longitude":-70.231455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Canal St",
     "sg:city":"Lisbon Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387606545,
-    "wof:lastmodified":1449056690,
+    "wof:lastmodified":1466586434,
     "wof:name":"Biederlack America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blanket"
     ]
 },
-  "bbox": [-70.231455,44.587391,-70.231455,44.587391],
+  "bbox": [
+    -70.231455,
+    44.587391,
+    -70.231455,
+    44.587391
+],
   "geometry": {"coordinates":[-70.231455,44.587391],"type":"Point"}
 }

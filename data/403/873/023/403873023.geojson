@@ -2,13 +2,14 @@
   "id": 403873023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.261002,43.835858,-70.261002,43.835858",
     "geom:latitude":43.835858,
     "geom:longitude":-70.261002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Delwin Dr",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403873023,
-    "wof:lastmodified":1449054917,
+    "wof:lastmodified":1466586690,
     "wof:name":"Indus Engineering",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-70.261002,43.835858,-70.261002,43.835858],
+  "bbox": [
+    -70.261002,
+    43.835858,
+    -70.261002,
+    43.835858
+],
   "geometry": {"coordinates":[-70.261002,43.835858],"type":"Point"}
 }

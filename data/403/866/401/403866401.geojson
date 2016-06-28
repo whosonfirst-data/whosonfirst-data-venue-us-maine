@@ -2,13 +2,14 @@
   "id": 403866401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.735632,43.095621,-70.735632,43.095621",
     "geom:latitude":43.095621,
     "geom:longitude":-70.735632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Dion Ave",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403866401,
-    "wof:lastmodified":1449055264,
+    "wof:lastmodified":1466586772,
     "wof:name":"Adam & Eve Hair Styles",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.735632,43.095621,-70.735632,43.095621],
+  "bbox": [
+    -70.735632,
+    43.095621,
+    -70.735632,
+    43.095621
+],
   "geometry": {"coordinates":[-70.735632,43.095621],"type":"Point"}
 }

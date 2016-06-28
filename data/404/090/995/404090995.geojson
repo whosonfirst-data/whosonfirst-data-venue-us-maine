@@ -2,13 +2,14 @@
   "id": 404090995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.334857,43.592183,-70.334857,43.592183",
     "geom:latitude":43.592183,
     "geom:longitude":-70.334857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Gorham Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404090995,
-    "wof:lastmodified":1449040044,
+    "wof:lastmodified":1466585865,
     "wof:name":"Central City Sheet Metal",
     "wof:parent_id":85838735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sheet"
     ]
 },
-  "bbox": [-70.334857,43.592183,-70.334857,43.592183],
+  "bbox": [
+    -70.334857,
+    43.592183,
+    -70.334857,
+    43.592183
+],
   "geometry": {"coordinates":[-70.334857,43.592183],"type":"Point"}
 }

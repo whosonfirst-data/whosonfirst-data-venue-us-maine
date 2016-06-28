@@ -2,13 +2,14 @@
   "id": 404213551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.489846,44.125823,-70.489846,44.125823",
     "geom:latitude":44.125823,
     "geom:longitude":-70.489846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 King St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404213551,
-    "wof:lastmodified":1449039097,
+    "wof:lastmodified":1466587058,
     "wof:name":"Ed-O's",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.489846,44.125823,-70.489846,44.125823],
+  "bbox": [
+    -70.489846,
+    44.125823,
+    -70.489846,
+    44.125823
+],
   "geometry": {"coordinates":[-70.489846,44.125823],"type":"Point"}
 }

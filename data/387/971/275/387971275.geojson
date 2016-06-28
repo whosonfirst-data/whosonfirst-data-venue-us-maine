@@ -2,13 +2,14 @@
   "id": 387971275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.838152,44.874251,-68.838152,44.874251",
     "geom:latitude":44.874251,
     "geom:longitude":-68.838152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"286 Hudson Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387971275,
-    "wof:lastmodified":1449058032,
+    "wof:lastmodified":1466587305,
     "wof:name":"Ken Brooks Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.838152,44.874251,-68.838152,44.874251],
-  "geometry": {"coordinates":[-68.838152,44.874251],"type":"Point"}
+  "bbox": [
+    -68.838152,
+    44.874251,
+    -68.838152,
+    44.874251
+],
+  "geometry": {"coordinates":[-68.83815199999999,44.874251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387934753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.260083,44.081669,-70.260083,44.081669",
     "geom:latitude":44.081669,
     "geom:longitude":-70.260083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Minot Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387934753,
-    "wof:lastmodified":1449056301,
+    "wof:lastmodified":1466587276,
     "wof:name":"Auburn Irving Mainway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.260083,44.081669,-70.260083,44.081669],
-  "geometry": {"coordinates":[-70.260083,44.081669],"type":"Point"}
+  "bbox": [
+    -70.260083,
+    44.081669,
+    -70.260083,
+    44.081669
+],
+  "geometry": {"coordinates":[-70.26008299999999,44.081669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403988503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.301124,43.737198,-70.301124,43.737198",
     "geom:latitude":43.737198,
     "geom:longitude":-70.301124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Marston St",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":403988503,
-    "wof:lastmodified":1449055088,
+    "wof:lastmodified":1466587164,
     "wof:name":"Lois Cyr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-70.301124,43.737198,-70.301124,43.737198],
+  "bbox": [
+    -70.301124,
+    43.737198,
+    -70.301124,
+    43.737198
+],
   "geometry": {"coordinates":[-70.301124,43.737198],"type":"Point"}
 }

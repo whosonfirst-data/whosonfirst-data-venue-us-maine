@@ -2,13 +2,14 @@
   "id": 387957443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225875,44.107371,-70.225875,44.107371",
     "geom:latitude":44.107371,
     "geom:longitude":-70.225875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387957443,
-    "wof:lastmodified":1449059360,
+    "wof:lastmodified":1466587340,
     "wof:name":"Keiths Cleaning Service",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-70.225875,44.107371,-70.225875,44.107371],
+  "bbox": [
+    -70.225875,
+    44.107371,
+    -70.225875,
+    44.107371
+],
   "geometry": {"coordinates":[-70.225875,44.107371],"type":"Point"}
 }

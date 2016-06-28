@@ -2,13 +2,14 @@
   "id": 387695569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.751286,43.468079,-70.751286,43.468079",
     "geom:latitude":43.468079,
     "geom:longitude":-70.751286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Mountain Rd",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387695569,
-    "wof:lastmodified":1449057550,
+    "wof:lastmodified":1466586649,
     "wof:name":"M & J Auto Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-70.751286,43.468079,-70.751286,43.468079],
-  "geometry": {"coordinates":[-70.751286,43.468079],"type":"Point"}
+  "bbox": [
+    -70.751286,
+    43.468079,
+    -70.751286,
+    43.468079
+],
+  "geometry": {"coordinates":[-70.75128599999999,43.468079],"type":"Point"}
 }

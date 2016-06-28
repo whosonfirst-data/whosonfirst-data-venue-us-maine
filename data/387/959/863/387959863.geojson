@@ -2,13 +2,14 @@
   "id": 387959863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.483627,43.505449,-70.483627,43.505449",
     "geom:latitude":43.505449,
     "geom:longitude":-70.483627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Berry Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387959863,
-    "wof:lastmodified":1449059535,
+    "wof:lastmodified":1466587343,
     "wof:name":"Jerrys Construction",
     "wof:parent_id":85847051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.483627,43.505449,-70.483627,43.505449],
+  "bbox": [
+    -70.483627,
+    43.505449,
+    -70.483627,
+    43.505449
+],
   "geometry": {"coordinates":[-70.483627,43.505449],"type":"Point"}
 }

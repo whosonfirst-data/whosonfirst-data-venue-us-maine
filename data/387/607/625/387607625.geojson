@@ -2,13 +2,14 @@
   "id": 387607625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.461257,43.477301,-70.461257,43.477301",
     "geom:latitude":43.477301,
     "geom:longitude":-70.461257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 West St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387607625,
-    "wof:lastmodified":1449056613,
+    "wof:lastmodified":1466586455,
     "wof:name":"Houdes Machine & Welding",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-70.461257,43.477301,-70.461257,43.477301],
+  "bbox": [
+    -70.461257,
+    43.477301,
+    -70.461257,
+    43.477301
+],
   "geometry": {"coordinates":[-70.461257,43.477301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387887633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.297924,43.599025,-70.297924,43.599025",
     "geom:latitude":43.599025,
     "geom:longitude":-70.297924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Pleasant Hill Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387887633,
-    "wof:lastmodified":1449059165,
+    "wof:lastmodified":1466587310,
     "wof:name":"Scotts Lawn Service",
     "wof:parent_id":85842219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.297924,43.599025,-70.297924,43.599025],
-  "geometry": {"coordinates":[-70.297924,43.599025],"type":"Point"}
+  "bbox": [
+    -70.297924,
+    43.599025,
+    -70.297924,
+    43.599025
+],
+  "geometry": {"coordinates":[-70.29792399999999,43.599025],"type":"Point"}
 }

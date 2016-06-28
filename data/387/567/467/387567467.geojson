@@ -2,13 +2,14 @@
   "id": 387567467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.844748,46.123343,-67.844748,46.123343",
     "geom:latitude":46.123343,
     "geom:longitude":-67.844748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Military St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387567467,
-    "wof:lastmodified":1449059948,
+    "wof:lastmodified":1466585850,
     "wof:name":"Bureau Rehabilitation Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "administrative"
     ]
 },
-  "bbox": [-67.844748,46.123343,-67.844748,46.123343],
+  "bbox": [
+    -67.844748,
+    46.123343,
+    -67.844748,
+    46.123343
+],
   "geometry": {"coordinates":[-67.844748,46.123343],"type":"Point"}
 }

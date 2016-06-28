@@ -2,13 +2,14 @@
   "id": 404073263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.650099,43.143442,-70.650099,43.143442",
     "geom:latitude":43.143442,
     "geom:longitude":-70.650099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 York St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404073263,
-    "wof:lastmodified":1449039177,
+    "wof:lastmodified":1466586596,
     "wof:name":"Esse",
     "wof:parent_id":85859383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.650099,43.143442,-70.650099,43.143442],
+  "bbox": [
+    -70.650099,
+    43.143442,
+    -70.650099,
+    43.143442
+],
   "geometry": {"coordinates":[-70.650099,43.143442],"type":"Point"}
 }

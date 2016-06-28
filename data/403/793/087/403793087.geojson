@@ -2,13 +2,14 @@
   "id": 403793087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.78207,44.807068,-68.78207,44.807068",
     "geom:latitude":44.807068,
     "geom:longitude":-68.78207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Thomas Hill Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403793087,
-    "wof:lastmodified":1449055368,
+    "wof:lastmodified":1466585849,
     "wof:name":"Hayward Mortgage Inc",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-68.78207,44.807068,-68.78207,44.807068],
+  "bbox": [
+    -68.78207,
+    44.807068,
+    -68.78207,
+    44.807068
+],
   "geometry": {"coordinates":[-68.78207,44.807068],"type":"Point"}
 }

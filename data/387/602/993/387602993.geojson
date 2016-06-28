@@ -2,13 +2,14 @@
   "id": 387602993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.516018,44.232522,-70.516018,44.232522",
     "geom:latitude":44.232522,
     "geom:longitude":-70.516018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Paris Promenade",
     "sg:city":"South Paris",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387602993,
-    "wof:lastmodified":1449057890,
+    "wof:lastmodified":1466586392,
     "wof:name":"Goldilock's Closet A Childrens",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.516018,44.232522,-70.516018,44.232522],
+  "bbox": [
+    -70.516018,
+    44.232522,
+    -70.516018,
+    44.232522
+],
   "geometry": {"coordinates":[-70.516018,44.232522],"type":"Point"}
 }

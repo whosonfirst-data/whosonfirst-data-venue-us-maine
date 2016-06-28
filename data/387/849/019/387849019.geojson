@@ -2,13 +2,14 @@
   "id": 387849019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.462187,44.375339,-69.462187,44.375339",
     "geom:latitude":44.375339,
     "geom:longitude":-69.462187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Jones Rd",
     "sg:city":"Palermo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387849019,
-    "wof:lastmodified":1449056800,
+    "wof:lastmodified":1466587146,
     "wof:name":"Modern Woodmen of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.462187,44.375339,-69.462187,44.375339],
+  "bbox": [
+    -69.462187,
+    44.375339,
+    -69.462187,
+    44.375339
+],
   "geometry": {"coordinates":[-69.462187,44.375339],"type":"Point"}
 }

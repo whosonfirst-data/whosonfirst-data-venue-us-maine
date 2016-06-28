@@ -2,13 +2,14 @@
   "id": 387586553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.544836,43.392326,-70.544836,43.392326",
     "geom:latitude":43.392326,
     "geom:longitude":-70.544836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Wiggins Pond Ln",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387586553,
-    "wof:lastmodified":1449059477,
+    "wof:lastmodified":1466586116,
     "wof:name":"Aries Advertising",
     "wof:parent_id":85804645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [-70.544836,43.392326,-70.544836,43.392326],
+  "bbox": [
+    -70.544836,
+    43.392326,
+    -70.544836,
+    43.392326
+],
   "geometry": {"coordinates":[-70.544836,43.392326],"type":"Point"}
 }

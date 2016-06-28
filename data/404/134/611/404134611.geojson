@@ -2,13 +2,14 @@
   "id": 404134611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.927289,44.718214,-68.927289,44.718214",
     "geom:latitude":44.718214,
     "geom:longitude":-68.927289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"396 Meadow Rd",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404134611,
-    "wof:lastmodified":1449040273,
+    "wof:lastmodified":1466586516,
     "wof:name":"Rescue Mission Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.927289,44.718214,-68.927289,44.718214],
+  "bbox": [
+    -68.927289,
+    44.718214,
+    -68.927289,
+    44.718214
+],
   "geometry": {"coordinates":[-68.927289,44.718214],"type":"Point"}
 }

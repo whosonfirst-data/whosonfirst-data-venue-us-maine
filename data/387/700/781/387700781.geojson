@@ -2,13 +2,14 @@
   "id": 387700781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.984643,44.90545,-66.984643,44.90545",
     "geom:latitude":44.90545,
     "geom:longitude":-66.984643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Water St",
     "sg:city":"Eastport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387700781,
-    "wof:lastmodified":1449059584,
+    "wof:lastmodified":1466586739,
     "wof:name":"Eastport Area Chamber-Commerce",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commerce"
     ]
 },
-  "bbox": [-66.984643,44.90545,-66.984643,44.90545],
-  "geometry": {"coordinates":[-66.984643,44.90545],"type":"Point"}
+  "bbox": [
+    -66.984643,
+    44.90545,
+    -66.984643,
+    44.90545
+],
+  "geometry": {"coordinates":[-66.98464300000001,44.90545],"type":"Point"}
 }

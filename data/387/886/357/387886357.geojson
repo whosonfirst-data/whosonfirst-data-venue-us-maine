@@ -2,13 +2,14 @@
   "id": 387886357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.765698,44.697886,-68.765698,44.697886",
     "geom:latitude":44.697886,
     "geom:longitude":-68.765698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Swetts Pond Rd",
     "sg:city":"Orrington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387886357,
-    "wof:lastmodified":1449058217,
+    "wof:lastmodified":1466587223,
     "wof:name":"Potter Masonry & Restoration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.765698,44.697886,-68.765698,44.697886],
+  "bbox": [
+    -68.765698,
+    44.697886,
+    -68.765698,
+    44.697886
+],
   "geometry": {"coordinates":[-68.765698,44.697886],"type":"Point"}
 }

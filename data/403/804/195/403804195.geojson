@@ -2,13 +2,14 @@
   "id": 403804195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.872314,44.80156,-69.872314,44.80156",
     "geom:latitude":44.80156,
     "geom:longitude":-69.872314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Hardy St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403804195,
-    "wof:lastmodified":1449055536,
+    "wof:lastmodified":1466586014,
     "wof:name":"Pumpkin Patch Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-69.872314,44.80156,-69.872314,44.80156],
+  "bbox": [
+    -69.872314,
+    44.80156,
+    -69.872314,
+    44.80156
+],
   "geometry": {"coordinates":[-69.872314,44.80156],"type":"Point"}
 }

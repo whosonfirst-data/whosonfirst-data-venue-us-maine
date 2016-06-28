@@ -2,13 +2,14 @@
   "id": 387946045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.777793,44.812719,-68.777793,44.812719",
     "geom:latitude":44.812719,
     "geom:longitude":-68.777793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Montgomery St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387946045,
-    "wof:lastmodified":1449059464,
+    "wof:lastmodified":1466587280,
     "wof:name":"Bradford Marlo Interiors",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.777793,44.812719,-68.777793,44.812719],
+  "bbox": [
+    -68.777793,
+    44.812719,
+    -68.777793,
+    44.812719
+],
   "geometry": {"coordinates":[-68.777793,44.812719],"type":"Point"}
 }

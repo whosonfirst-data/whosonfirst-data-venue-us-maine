@@ -2,13 +2,14 @@
   "id": 387617377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.584477,43.314057,-70.584477,43.314057",
     "geom:latitude":43.314057,
     "geom:longitude":-70.584477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1274 Post Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387617377,
-    "wof:lastmodified":1449056247,
+    "wof:lastmodified":1466585688,
     "wof:name":"Morse Forest Products",
     "wof:parent_id":85810445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.584477,43.314057,-70.584477,43.314057],
-  "geometry": {"coordinates":[-70.584477,43.314057],"type":"Point"}
+  "bbox": [
+    -70.584477,
+    43.314057,
+    -70.584477,
+    43.314057
+],
+  "geometry": {"coordinates":[-70.58447700000001,43.314057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403781577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.781967,44.31594,-69.781967,44.31594",
     "geom:latitude":44.31594,
     "geom:longitude":-69.781967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Winthrop St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403781577,
-    "wof:lastmodified":1449054894,
+    "wof:lastmodified":1466585702,
     "wof:name":"Dirigo Housing Assoc",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-69.781967,44.31594,-69.781967,44.31594],
-  "geometry": {"coordinates":[-69.781967,44.31594],"type":"Point"}
+  "bbox": [
+    -69.781967,
+    44.31594,
+    -69.781967,
+    44.31594
+],
+  "geometry": {"coordinates":[-69.78196699999999,44.31594],"type":"Point"}
 }

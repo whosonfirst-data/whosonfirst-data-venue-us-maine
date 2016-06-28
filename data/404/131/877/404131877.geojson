@@ -2,13 +2,14 @@
   "id": 404131877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.850507,44.795701,-68.850507,44.795701",
     "geom:latitude":44.795701,
     "geom:longitude":-68.850507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Liberty Dr",
     "sg:city":"Hermon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404131877,
-    "wof:lastmodified":1449039380,
+    "wof:lastmodified":1466586477,
     "wof:name":"Stephen A Andrew Phd Lcpc",
     "wof:parent_id":85838259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-68.850507,44.795701,-68.850507,44.795701],
-  "geometry": {"coordinates":[-68.850507,44.795701],"type":"Point"}
+  "bbox": [
+    -68.850507,
+    44.795701,
+    -68.850507,
+    44.795701
+],
+  "geometry": {"coordinates":[-68.85050699999999,44.795701],"type":"Point"}
 }

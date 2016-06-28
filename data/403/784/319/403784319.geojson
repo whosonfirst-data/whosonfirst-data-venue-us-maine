@@ -2,13 +2,14 @@
   "id": 403784319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.754922,43.418295,-70.754922,43.418295",
     "geom:latitude":43.418295,
     "geom:longitude":-70.754922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1273 Main St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403784319,
-    "wof:lastmodified":1449055501,
+    "wof:lastmodified":1466585740,
     "wof:name":"Farrer Chiropractic Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.754922,43.418295,-70.754922,43.418295],
-  "geometry": {"coordinates":[-70.754922,43.418295],"type":"Point"}
+  "bbox": [
+    -70.754922,
+    43.418295,
+    -70.754922,
+    43.418295
+],
+  "geometry": {"coordinates":[-70.75492199999999,43.418295],"type":"Point"}
 }

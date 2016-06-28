@@ -2,13 +2,14 @@
   "id": 387632749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.703708,43.511781,-70.703708,43.511781",
     "geom:latitude":43.511781,
     "geom:longitude":-70.703708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Pleasant Point Rd",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387632749,
-    "wof:lastmodified":1449058535,
+    "wof:lastmodified":1466586639,
     "wof:name":"Bruce Andrews",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.703708,43.511781,-70.703708,43.511781],
-  "geometry": {"coordinates":[-70.703708,43.511781],"type":"Point"}
+  "bbox": [
+    -70.703708,
+    43.511781,
+    -70.703708,
+    43.511781
+],
+  "geometry": {"coordinates":[-70.70370800000001,43.511781],"type":"Point"}
 }

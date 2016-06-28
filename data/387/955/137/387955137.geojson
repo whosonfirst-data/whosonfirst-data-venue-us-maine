@@ -2,13 +2,14 @@
   "id": 387955137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.34588,43.680934,-70.34588,43.680934",
     "geom:latitude":43.680934,
     "geom:longitude":-70.34588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387955137,
-    "wof:lastmodified":1449058754,
+    "wof:lastmodified":1466587337,
     "wof:name":"Holly's Super Gas",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.34588,43.680934,-70.34588,43.680934],
-  "geometry": {"coordinates":[-70.34588,43.680934],"type":"Point"}
+  "bbox": [
+    -70.34588,
+    43.680934,
+    -70.34588,
+    43.680934
+],
+  "geometry": {"coordinates":[-70.34587999999999,43.680934],"type":"Point"}
 }

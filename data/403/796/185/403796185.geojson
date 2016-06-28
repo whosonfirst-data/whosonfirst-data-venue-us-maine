@@ -2,13 +2,14 @@
   "id": 403796185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.184326,44.076083,-70.184326,44.076083",
     "geom:latitude":44.076083,
     "geom:longitude":-70.184326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1288 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403796185,
-    "wof:lastmodified":1449055257,
+    "wof:lastmodified":1466585890,
     "wof:name":"J B Auto Sales",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-70.184326,44.076083,-70.184326,44.076083],
+  "bbox": [
+    -70.184326,
+    44.076083,
+    -70.184326,
+    44.076083
+],
   "geometry": {"coordinates":[-70.184326,44.076083],"type":"Point"}
 }

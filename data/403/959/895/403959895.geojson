@@ -2,13 +2,14 @@
   "id": 403959895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.774719,44.313571,-69.774719,44.313571",
     "geom:latitude":44.313571,
     "geom:longitude":-69.774719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"347 Water St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403959895,
-    "wof:lastmodified":1449055833,
+    "wof:lastmodified":1466586988,
     "wof:name":"Belgrade Insurance",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.774719,44.313571,-69.774719,44.313571],
+  "bbox": [
+    -69.774719,
+    44.313571,
+    -69.774719,
+    44.313571
+],
   "geometry": {"coordinates":[-69.774719,44.313571],"type":"Point"}
 }

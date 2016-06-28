@@ -2,13 +2,14 @@
   "id": 404004909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.372581,43.788613,-70.372581,43.788613",
     "geom:latitude":43.788613,
     "geom:longitude":-70.372581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Swan Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404004909,
-    "wof:lastmodified":1449039466,
+    "wof:lastmodified":1466585740,
     "wof:name":"Masonry Preservation Spec",
     "wof:parent_id":85847399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.372581,43.788613,-70.372581,43.788613],
+  "bbox": [
+    -70.372581,
+    43.788613,
+    -70.372581,
+    43.788613
+],
   "geometry": {"coordinates":[-70.372581,43.788613],"type":"Point"}
 }

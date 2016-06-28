@@ -2,13 +2,14 @@
   "id": 387578235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.769384,44.48139,-69.769384,44.48139",
     "geom:latitude":44.48139,
     "geom:longitude":-69.769384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Pond Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387578235,
-    "wof:lastmodified":1449057060,
+    "wof:lastmodified":1466585994,
     "wof:name":"Bryan Bacon",
     "wof:parent_id":85837333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.769384,44.48139,-69.769384,44.48139],
+  "bbox": [
+    -69.769384,
+    44.48139,
+    -69.769384,
+    44.48139
+],
   "geometry": {"coordinates":[-69.769384,44.48139],"type":"Point"}
 }

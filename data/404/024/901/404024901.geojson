@@ -2,13 +2,14 @@
   "id": 404024901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.426571,43.791946,-70.426571,43.791946",
     "geom:latitude":43.791946,
     "geom:longitude":-70.426571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Pope Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404024901,
-    "wof:lastmodified":1449039586,
+    "wof:lastmodified":1466585954,
     "wof:name":"Spectrum Eyewear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.426571,43.791946,-70.426571,43.791946],
+  "bbox": [
+    -70.426571,
+    43.791946,
+    -70.426571,
+    43.791946
+],
   "geometry": {"coordinates":[-70.426571,43.791946],"type":"Point"}
 }

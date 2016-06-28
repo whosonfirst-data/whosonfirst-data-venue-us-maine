@@ -2,13 +2,14 @@
   "id": 387773259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.225373,44.110076,-70.225373,44.110076",
     "geom:latitude":44.110076,
     "geom:longitude":-70.225373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387773259,
-    "wof:lastmodified":1449056590,
+    "wof:lastmodified":1466587082,
     "wof:name":"Prompto 10 Minute Oil Change",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.225373,44.110076,-70.225373,44.110076],
+  "bbox": [
+    -70.225373,
+    44.110076,
+    -70.225373,
+    44.110076
+],
   "geometry": {"coordinates":[-70.225373,44.110076],"type":"Point"}
 }

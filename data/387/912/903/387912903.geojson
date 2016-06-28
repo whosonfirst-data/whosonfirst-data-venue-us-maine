@@ -2,13 +2,14 @@
   "id": 387912903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.643263,43.350584,-70.643263,43.350584",
     "geom:latitude":43.350584,
     "geom:longitude":-70.643263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Meeting House Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387912903,
-    "wof:lastmodified":1449057980,
+    "wof:lastmodified":1466587322,
     "wof:name":"Odd Jobs Unlimited Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.643263,43.350584,-70.643263,43.350584],
+  "bbox": [
+    -70.643263,
+    43.350584,
+    -70.643263,
+    43.350584
+],
   "geometry": {"coordinates":[-70.643263,43.350584],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387585867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.812598,44.315267,-69.812598,44.315267",
     "geom:latitude":44.315267,
     "geom:longitude":-69.812598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Whitten Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387585867,
-    "wof:lastmodified":1449058642,
+    "wof:lastmodified":1466586096,
     "wof:name":"Olympia Sports",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.812598,44.315267,-69.812598,44.315267],
-  "geometry": {"coordinates":[-69.812598,44.315267],"type":"Point"}
+  "bbox": [
+    -69.812598,
+    44.315267,
+    -69.812598,
+    44.315267
+],
+  "geometry": {"coordinates":[-69.81259799999999,44.315267],"type":"Point"}
 }

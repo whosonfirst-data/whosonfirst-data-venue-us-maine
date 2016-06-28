@@ -2,13 +2,14 @@
   "id": 403820601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.731486,44.115703,-69.731486,44.115703",
     "geom:latitude":44.115703,
     "geom:longitude":-69.731486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Weymouth Dr",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403820601,
-    "wof:lastmodified":1449055335,
+    "wof:lastmodified":1466586274,
     "wof:name":"Richmond News & Gift Shop",
     "wof:parent_id":85855379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-69.731486,44.115703,-69.731486,44.115703],
+  "bbox": [
+    -69.731486,
+    44.115703,
+    -69.731486,
+    44.115703
+],
   "geometry": {"coordinates":[-69.731486,44.115703],"type":"Point"}
 }

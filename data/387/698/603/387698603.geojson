@@ -2,13 +2,14 @@
   "id": 387698603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.256713,43.651798,-70.256713,43.651798",
     "geom:latitude":43.651798,
     "geom:longitude":-70.256713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Commercial St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387698603,
-    "wof:lastmodified":1449059686,
+    "wof:lastmodified":1466586655,
     "wof:name":"US Coast Guard Cutter",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-70.256713,43.651798,-70.256713,43.651798],
+  "bbox": [
+    -70.256713,
+    43.651798,
+    -70.256713,
+    43.651798
+],
   "geometry": {"coordinates":[-70.256713,43.651798],"type":"Point"}
 }

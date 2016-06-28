@@ -2,13 +2,14 @@
   "id": 387907481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.236536,43.62179,-70.236536,43.62179",
     "geom:latitude":43.62179,
     "geom:longitude":-70.236536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Cheverus Rd",
     "sg:city":"Cape Elizabeth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387907481,
-    "wof:lastmodified":1449059629,
+    "wof:lastmodified":1466587244,
     "wof:name":"World Rugby Net",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-70.236536,43.62179,-70.236536,43.62179],
+  "bbox": [
+    -70.236536,
+    43.62179,
+    -70.236536,
+    43.62179
+],
   "geometry": {"coordinates":[-70.236536,43.62179],"type":"Point"}
 }

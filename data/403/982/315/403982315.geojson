@@ -2,13 +2,14 @@
   "id": 403982315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-66.989163,44.857838,-66.989163,44.857838",
     "geom:latitude":44.857838,
     "geom:longitude":-66.989163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Washington St",
     "sg:city":"Lubec",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403982315,
-    "wof:lastmodified":1449054863,
+    "wof:lastmodified":1466587157,
     "wof:name":"Bar Harbor Banking & Trust Co",
     "wof:parent_id":85849853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-66.989163,44.857838,-66.989163,44.857838],
+  "bbox": [
+    -66.989163,
+    44.857838,
+    -66.989163,
+    44.857838
+],
   "geometry": {"coordinates":[-66.989163,44.857838],"type":"Point"}
 }

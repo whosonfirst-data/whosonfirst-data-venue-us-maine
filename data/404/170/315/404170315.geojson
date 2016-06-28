@@ -2,13 +2,14 @@
   "id": 404170315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.735197,43.30536,-70.735197,43.30536",
     "geom:latitude":43.30536,
     "geom:longitude":-70.735197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Main St",
     "sg:city":"North Berwick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404170315,
-    "wof:lastmodified":1449039131,
+    "wof:lastmodified":1466586878,
     "wof:name":"Lebanon Special Education Dir",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.735197,43.30536,-70.735197,43.30536],
+  "bbox": [
+    -70.735197,
+    43.30536,
+    -70.735197,
+    43.30536
+],
   "geometry": {"coordinates":[-70.735197,43.30536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404152373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.251132,44.062102,-70.251132,44.062102",
     "geom:latitude":44.062102,
     "geom:longitude":-70.251132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 Washington St N",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404152373,
-    "wof:lastmodified":1449040014,
+    "wof:lastmodified":1466586731,
     "wof:name":"Damon Mechanical Svc",
     "wof:parent_id":85831033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.251132,44.062102,-70.251132,44.062102],
+  "bbox": [
+    -70.251132,
+    44.062102,
+    -70.251132,
+    44.062102
+],
   "geometry": {"coordinates":[-70.251132,44.062102],"type":"Point"}
 }

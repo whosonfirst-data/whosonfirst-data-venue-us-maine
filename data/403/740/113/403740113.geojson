@@ -2,13 +2,14 @@
   "id": 403740113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.255669,43.663002,-70.255669,43.663002",
     "geom:latitude":43.663002,
     "geom:longitude":-70.255669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Boyd St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403740113,
-    "wof:lastmodified":1449055244,
+    "wof:lastmodified":1466586056,
     "wof:name":"Portland Housing Authority",
     "wof:parent_id":85880023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-70.255669,43.663002,-70.255669,43.663002],
+  "bbox": [
+    -70.255669,
+    43.663002,
+    -70.255669,
+    43.663002
+],
   "geometry": {"coordinates":[-70.255669,43.663002],"type":"Point"}
 }

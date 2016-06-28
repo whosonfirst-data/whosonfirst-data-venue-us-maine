@@ -2,13 +2,14 @@
   "id": 404177947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.664831,44.941362,-68.664831,44.941362",
     "geom:latitude":44.941362,
     "geom:longitude":-68.664831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 Gilman Falls Ave",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404177947,
-    "wof:lastmodified":1449040326,
+    "wof:lastmodified":1466586820,
     "wof:name":"Owen J Folsom Inc",
     "wof:parent_id":85822719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-68.664831,44.941362,-68.664831,44.941362],
-  "geometry": {"coordinates":[-68.664831,44.941362],"type":"Point"}
+  "bbox": [
+    -68.664831,
+    44.941362,
+    -68.664831,
+    44.941362
+],
+  "geometry": {"coordinates":[-68.66483100000001,44.941362],"type":"Point"}
 }

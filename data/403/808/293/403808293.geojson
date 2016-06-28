@@ -2,13 +2,14 @@
   "id": 403808293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.364318,43.779293,-70.364318,43.779293",
     "geom:latitude":43.779293,
     "geom:longitude":-70.364318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Anthoine Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403808293,
-    "wof:lastmodified":1449054683,
+    "wof:lastmodified":1466586077,
     "wof:name":"E & B Construction-Inverts",
     "wof:parent_id":85847399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.364318,43.779293,-70.364318,43.779293],
+  "bbox": [
+    -70.364318,
+    43.779293,
+    -70.364318,
+    43.779293
+],
   "geometry": {"coordinates":[-70.364318,43.779293],"type":"Point"}
 }

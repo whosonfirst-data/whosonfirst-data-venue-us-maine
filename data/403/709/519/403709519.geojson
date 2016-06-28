@@ -2,13 +2,14 @@
   "id": 403709519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.199037,44.090341,-70.199037,44.090341",
     "geom:latitude":44.090341,
     "geom:longitude":-70.199037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 East Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403709519,
-    "wof:lastmodified":1449054899,
+    "wof:lastmodified":1466585716,
     "wof:name":"Cassiel's Skin Care",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-70.199037,44.090341,-70.199037,44.090341],
+  "bbox": [
+    -70.199037,
+    44.090341,
+    -70.199037,
+    44.090341
+],
   "geometry": {"coordinates":[-70.199037,44.090341],"type":"Point"}
 }

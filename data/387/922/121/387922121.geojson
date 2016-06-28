@@ -2,13 +2,14 @@
   "id": 387922121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.31706,43.945581,-70.31706,43.945581",
     "geom:latitude":43.945581,
     "geom:longitude":-70.31706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Targett Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387922121,
-    "wof:lastmodified":1449056451,
+    "wof:lastmodified":1466587257,
     "wof:name":"RSE Construction",
     "wof:parent_id":85857545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.31706,43.945581,-70.31706,43.945581],
+  "bbox": [
+    -70.31706,
+    43.945581,
+    -70.31706,
+    43.945581
+],
   "geometry": {"coordinates":[-70.31706,43.945581],"type":"Point"}
 }

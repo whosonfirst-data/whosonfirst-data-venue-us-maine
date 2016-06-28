@@ -2,13 +2,14 @@
   "id": 403833111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.757734,44.820929,-68.757734,44.820929",
     "geom:latitude":44.820929,
     "geom:longitude":-68.757734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Juniper St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403833111,
-    "wof:lastmodified":1449054793,
+    "wof:lastmodified":1466586483,
     "wof:name":"Maine Breast Cancer Coalition",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-68.757734,44.820929,-68.757734,44.820929],
+  "bbox": [
+    -68.757734,
+    44.820929,
+    -68.757734,
+    44.820929
+],
   "geometry": {"coordinates":[-68.757734,44.820929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403798189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.437998,43.823415,-70.437998,43.823415",
     "geom:latitude":43.823415,
     "geom:longitude":-70.437998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"999 River Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403798189,
-    "wof:lastmodified":1449054884,
+    "wof:lastmodified":1466585917,
     "wof:name":"Moulton Motors",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-70.437998,43.823415,-70.437998,43.823415],
-  "geometry": {"coordinates":[-70.437998,43.823415],"type":"Point"}
+  "bbox": [
+    -70.437998,
+    43.823415,
+    -70.437998,
+    43.823415
+],
+  "geometry": {"coordinates":[-70.43799799999999,43.823415],"type":"Point"}
 }

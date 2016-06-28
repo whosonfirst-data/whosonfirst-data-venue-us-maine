@@ -2,13 +2,14 @@
   "id": 403749669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.739155,44.820367,-68.739155,44.820367",
     "geom:latitude":44.820367,
     "geom:longitude":-68.739155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 Hogan Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403749669,
-    "wof:lastmodified":1449055023,
+    "wof:lastmodified":1466586209,
     "wof:name":"Varney Pontiac GMC Mazda Isuzu",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-68.739155,44.820367,-68.739155,44.820367],
+  "bbox": [
+    -68.739155,
+    44.820367,
+    -68.739155,
+    44.820367
+],
   "geometry": {"coordinates":[-68.739155,44.820367],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403982063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.06472,44.209727,-69.06472,44.209727",
     "geom:latitude":44.209727,
     "geom:longitude":-69.06472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Commercial St",
     "sg:city":"Tenants Harbor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403982063,
-    "wof:lastmodified":1449054858,
+    "wof:lastmodified":1466587157,
     "wof:name":"Cod End Market",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.06472,44.209727,-69.06472,44.209727],
-  "geometry": {"coordinates":[-69.06472,44.209727],"type":"Point"}
+  "bbox": [
+    -69.06472,
+    44.209727,
+    -69.06472,
+    44.209727
+],
+  "geometry": {"coordinates":[-69.06471999999999,44.209727],"type":"Point"}
 }

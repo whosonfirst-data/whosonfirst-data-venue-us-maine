@@ -2,13 +2,14 @@
   "id": 403760587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.305682,43.710667,-70.305682,43.710667",
     "geom:latitude":43.710667,
     "geom:longitude":-70.305682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Riverside Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403760587,
-    "wof:lastmodified":1449055895,
+    "wof:lastmodified":1466586412,
     "wof:name":"Builders Insulation Co",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.305682,43.710667,-70.305682,43.710667],
+  "bbox": [
+    -70.305682,
+    43.710667,
+    -70.305682,
+    43.710667
+],
   "geometry": {"coordinates":[-70.305682,43.710667],"type":"Point"}
 }

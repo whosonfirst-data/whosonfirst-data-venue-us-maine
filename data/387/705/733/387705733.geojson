@@ -2,13 +2,14 @@
   "id": 387705733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.327218,43.706538,-70.327218,43.706538",
     "geom:latitude":43.706538,
     "geom:longitude":-70.327218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387705733,
-    "wof:lastmodified":1449059941,
+    "wof:lastmodified":1466586864,
     "wof:name":"Tee 'n Tee Golfland",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-70.327218,43.706538,-70.327218,43.706538],
+  "bbox": [
+    -70.327218,
+    43.706538,
+    -70.327218,
+    43.706538
+],
   "geometry": {"coordinates":[-70.327218,43.706538],"type":"Point"}
 }

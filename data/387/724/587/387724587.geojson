@@ -2,13 +2,14 @@
   "id": 387724587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.970623,43.91447,-69.970623,43.91447",
     "geom:latitude":43.91447,
     "geom:longitude":-69.970623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Dunning St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387724587,
-    "wof:lastmodified":1449059840,
+    "wof:lastmodified":1466586699,
     "wof:name":"Maine Shops Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.970623,43.91447,-69.970623,43.91447],
+  "bbox": [
+    -69.970623,
+    43.91447,
+    -69.970623,
+    43.91447
+],
   "geometry": {"coordinates":[-69.970623,43.91447],"type":"Point"}
 }

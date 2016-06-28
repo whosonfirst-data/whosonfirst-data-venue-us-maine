@@ -2,13 +2,14 @@
   "id": 387566593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.329008,43.681111,-70.329008,43.681111",
     "geom:latitude":43.681111,
     "geom:longitude":-70.329008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Riverside St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387566593,
-    "wof:lastmodified":1449056201,
+    "wof:lastmodified":1466585850,
     "wof:name":"Mr Signs",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.329008,43.681111,-70.329008,43.681111],
+  "bbox": [
+    -70.329008,
+    43.681111,
+    -70.329008,
+    43.681111
+],
   "geometry": {"coordinates":[-70.329008,43.681111],"type":"Point"}
 }

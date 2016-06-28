@@ -2,13 +2,14 @@
   "id": 387774145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.447845,43.84783,-70.447845,43.84783",
     "geom:latitude":43.84783,
     "geom:longitude":-70.447845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"697 Roosevelt Trl",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387774145,
-    "wof:lastmodified":1449057585,
+    "wof:lastmodified":1466586978,
     "wof:name":"Antique Revival",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-70.447845,43.84783,-70.447845,43.84783],
+  "bbox": [
+    -70.447845,
+    43.84783,
+    -70.447845,
+    43.84783
+],
   "geometry": {"coordinates":[-70.447845,43.84783],"type":"Point"}
 }

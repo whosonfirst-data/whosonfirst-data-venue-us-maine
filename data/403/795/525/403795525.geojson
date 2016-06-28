@@ -2,13 +2,14 @@
   "id": 403795525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.628357,43.850608,-69.628357,43.850608",
     "geom:latitude":43.850608,
     "geom:longitude":-69.628357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Commercial St",
     "sg:city":"Boothbay Harbor",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403795525,
-    "wof:lastmodified":1449055435,
+    "wof:lastmodified":1466585880,
     "wof:name":"Calypso Inc",
     "wof:parent_id":85835605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.628357,43.850608,-69.628357,43.850608],
-  "geometry": {"coordinates":[-69.628357,43.850608],"type":"Point"}
+  "bbox": [
+    -69.628357,
+    43.850608,
+    -69.628357,
+    43.850608
+],
+  "geometry": {"coordinates":[-69.62835699999999,43.850608],"type":"Point"}
 }

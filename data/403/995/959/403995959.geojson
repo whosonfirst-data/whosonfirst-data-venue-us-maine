@@ -2,13 +2,14 @@
   "id": 403995959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.202648,44.103288,-70.202648,44.103288",
     "geom:latitude":44.103288,
     "geom:longitude":-70.202648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Central Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403995959,
-    "wof:lastmodified":1449055824,
+    "wof:lastmodified":1466587177,
     "wof:name":"Maine Drug Enforcement Agency",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-70.202648,44.103288,-70.202648,44.103288],
+  "bbox": [
+    -70.202648,
+    44.103288,
+    -70.202648,
+    44.103288
+],
   "geometry": {"coordinates":[-70.202648,44.103288],"type":"Point"}
 }

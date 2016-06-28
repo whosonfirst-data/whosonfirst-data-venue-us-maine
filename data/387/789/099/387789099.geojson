@@ -2,13 +2,14 @@
   "id": 387789099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.438712,43.732132,-70.438712,43.732132",
     "geom:latitude":43.732132,
     "geom:longitude":-70.438712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Sebago Lake Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387789099,
-    "wof:lastmodified":1449057819,
+    "wof:lastmodified":1466587006,
     "wof:name":"Pickrell Electric Inc",
     "wof:parent_id":85830911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.438712,43.732132,-70.438712,43.732132],
+  "bbox": [
+    -70.438712,
+    43.732132,
+    -70.438712,
+    43.732132
+],
   "geometry": {"coordinates":[-70.438712,43.732132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404131627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.404681,45.154649,-67.404681,45.154649",
     "geom:latitude":45.154649,
     "geom:longitude":-67.404681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Main St",
     "sg:city":"Jonesport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404131627,
-    "wof:lastmodified":1449039381,
+    "wof:lastmodified":1466586474,
     "wof:name":"Tall Barney's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.404681,45.154649,-67.404681,45.154649],
+  "bbox": [
+    -67.404681,
+    45.154649,
+    -67.404681,
+    45.154649
+],
   "geometry": {"coordinates":[-67.404681,45.154649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387873139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.231707,43.635048,-70.231707,43.635048",
     "geom:latitude":43.635048,
     "geom:longitude":-70.231707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"452 Cottage Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387873139,
-    "wof:lastmodified":1449056892,
+    "wof:lastmodified":1466587198,
     "wof:name":"Laundry Center",
     "wof:parent_id":85867975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.231707,43.635048,-70.231707,43.635048],
+  "bbox": [
+    -70.231707,
+    43.635048,
+    -70.231707,
+    43.635048
+],
   "geometry": {"coordinates":[-70.231707,43.635048],"type":"Point"}
 }

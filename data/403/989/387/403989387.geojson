@@ -2,13 +2,14 @@
   "id": 403989387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.295539,43.70661,-70.295539,43.70661",
     "geom:latitude":43.70661,
     "geom:longitude":-70.295539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Regan Ln",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403989387,
-    "wof:lastmodified":1449055590,
+    "wof:lastmodified":1466587089,
     "wof:name":"Giuffre Breen Inc",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-70.295539,43.70661,-70.295539,43.70661],
-  "geometry": {"coordinates":[-70.295539,43.70661],"type":"Point"}
+  "bbox": [
+    -70.295539,
+    43.70661,
+    -70.295539,
+    43.70661
+],
+  "geometry": {"coordinates":[-70.29553900000001,43.70661],"type":"Point"}
 }

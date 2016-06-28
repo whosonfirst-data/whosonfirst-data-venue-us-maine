@@ -2,13 +2,14 @@
   "id": 404138877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.815325,43.830326,-69.815325,43.830326",
     "geom:latitude":43.830326,
     "geom:longitude":-69.815325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Stoney Brook Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404138877,
-    "wof:lastmodified":1449039365,
+    "wof:lastmodified":1466586585,
     "wof:name":"Bed Of Roses Interiors",
     "wof:parent_id":85858289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-69.815325,43.830326,-69.815325,43.830326],
+  "bbox": [
+    -69.815325,
+    43.830326,
+    -69.815325,
+    43.830326
+],
   "geometry": {"coordinates":[-69.815325,43.830326],"type":"Point"}
 }

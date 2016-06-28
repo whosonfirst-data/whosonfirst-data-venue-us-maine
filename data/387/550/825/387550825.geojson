@@ -2,13 +2,14 @@
   "id": 387550825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.000849,43.755752,-70.000849,43.755752",
     "geom:latitude":43.755752,
     "geom:longitude":-70.000849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Marshview Way",
     "sg:city":"Harpswell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387550825,
-    "wof:lastmodified":1449058167,
+    "wof:lastmodified":1466585728,
     "wof:name":"Owen Appraisal Inc",
     "wof:parent_id":85855607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-70.000849,43.755752,-70.000849,43.755752],
+  "bbox": [
+    -70.000849,
+    43.755752,
+    -70.000849,
+    43.755752
+],
   "geometry": {"coordinates":[-70.000849,43.755752],"type":"Point"}
 }

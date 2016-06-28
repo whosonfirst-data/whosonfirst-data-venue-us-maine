@@ -2,13 +2,14 @@
   "id": 403739321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.786571,43.447169,-70.786571,43.447169",
     "geom:latitude":43.447169,
     "geom:longitude":-70.786571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Main St",
     "sg:city":"Sanford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403739321,
-    "wof:lastmodified":1449055189,
+    "wof:lastmodified":1466586054,
     "wof:name":"Labor Dept-Unemployment Claims",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-70.786571,43.447169,-70.786571,43.447169],
+  "bbox": [
+    -70.786571,
+    43.447169,
+    -70.786571,
+    43.447169
+],
   "geometry": {"coordinates":[-70.786571,43.447169],"type":"Point"}
 }

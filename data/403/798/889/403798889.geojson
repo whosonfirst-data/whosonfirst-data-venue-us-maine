@@ -2,13 +2,14 @@
   "id": 403798889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.838698,44.883233,-68.838698,44.883233",
     "geom:latitude":44.883233,
     "geom:longitude":-68.838698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"634 Hudson Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403798889,
-    "wof:lastmodified":1449054882,
+    "wof:lastmodified":1466585929,
     "wof:name":"Glenburn Evang Covenant Church",
     "wof:parent_id":85855557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.838698,44.883233,-68.838698,44.883233],
-  "geometry": {"coordinates":[-68.838698,44.883233],"type":"Point"}
+  "bbox": [
+    -68.838698,
+    44.883233,
+    -68.838698,
+    44.883233
+],
+  "geometry": {"coordinates":[-68.83869799999999,44.883233],"type":"Point"}
 }

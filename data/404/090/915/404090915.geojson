@@ -2,13 +2,14 @@
   "id": 404090915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.451875,43.7412,-70.451875,43.7412",
     "geom:latitude":43.7412,
     "geom:longitude":-70.451875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Winslow Rd",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404090915,
-    "wof:lastmodified":1449040043,
+    "wof:lastmodified":1466585863,
     "wof:name":"Launas Woodworks",
     "wof:parent_id":85820911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-70.451875,43.7412,-70.451875,43.7412],
+  "bbox": [
+    -70.451875,
+    43.7412,
+    -70.451875,
+    43.7412
+],
   "geometry": {"coordinates":[-70.451875,43.7412],"type":"Point"}
 }

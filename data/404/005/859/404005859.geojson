@@ -2,13 +2,14 @@
   "id": 404005859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.768535,44.77079,-68.768535,44.77079",
     "geom:latitude":44.77079,
     "geom:longitude":-68.768535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Greenwood Dr",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404005859,
-    "wof:lastmodified":1449040240,
+    "wof:lastmodified":1466585774,
     "wof:name":"Hartery Construction & Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-68.768535,44.77079,-68.768535,44.77079],
+  "bbox": [
+    -68.768535,
+    44.77079,
+    -68.768535,
+    44.77079
+],
   "geometry": {"coordinates":[-68.768535,44.77079],"type":"Point"}
 }

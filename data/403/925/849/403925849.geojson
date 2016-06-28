@@ -2,13 +2,14 @@
   "id": 403925849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.448111,44.541471,-69.448111,44.541471",
     "geom:latitude":44.541471,
     "geom:longitude":-69.448111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Benton Rd",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403925849,
-    "wof:lastmodified":1449054639,
+    "wof:lastmodified":1466587016,
     "wof:name":"Unique Spiral Stairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "stair"
     ]
 },
-  "bbox": [-69.448111,44.541471,-69.448111,44.541471],
+  "bbox": [
+    -69.448111,
+    44.541471,
+    -69.448111,
+    44.541471
+],
   "geometry": {"coordinates":[-69.448111,44.541471],"type":"Point"}
 }

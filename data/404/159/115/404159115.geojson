@@ -2,13 +2,14 @@
   "id": 404159115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.792457,44.811186,-68.792457,44.811186",
     "geom:latitude":44.811186,
     "geom:longitude":-68.792457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 16th St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404159115,
-    "wof:lastmodified":1449039163,
+    "wof:lastmodified":1466586758,
     "wof:name":"Allstar Contractors",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-68.792457,44.811186,-68.792457,44.811186],
+  "bbox": [
+    -68.792457,
+    44.811186,
+    -68.792457,
+    44.811186
+],
   "geometry": {"coordinates":[-68.792457,44.811186],"type":"Point"}
 }

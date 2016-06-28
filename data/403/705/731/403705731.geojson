@@ -2,13 +2,14 @@
   "id": 403705731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.797503,43.467559,-70.797503,43.467559",
     "geom:latitude":43.467559,
     "geom:longitude":-70.797503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Mill St",
     "sg:city":"Springvale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403705731,
-    "wof:lastmodified":1449055973,
+    "wof:lastmodified":1466585678,
     "wof:name":"Corner Post Land Surveying Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-70.797503,43.467559,-70.797503,43.467559],
-  "geometry": {"coordinates":[-70.797503,43.467559],"type":"Point"}
+  "bbox": [
+    -70.797503,
+    43.467559,
+    -70.797503,
+    43.467559
+],
+  "geometry": {"coordinates":[-70.79750300000001,43.467559],"type":"Point"}
 }

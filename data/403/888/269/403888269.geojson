@@ -2,13 +2,14 @@
   "id": 403888269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.294289,43.579569,-70.294289,43.579569",
     "geom:latitude":43.579569,
     "geom:longitude":-70.294289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Winding Way",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403888269,
-    "wof:lastmodified":1449055476,
+    "wof:lastmodified":1466586874,
     "wof:name":"Coastal Consulting Svc LLC",
     "wof:parent_id":85842219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-70.294289,43.579569,-70.294289,43.579569],
-  "geometry": {"coordinates":[-70.294289,43.579569],"type":"Point"}
+  "bbox": [
+    -70.294289,
+    43.579569,
+    -70.294289,
+    43.579569
+],
+  "geometry": {"coordinates":[-70.29428900000001,43.579569],"type":"Point"}
 }

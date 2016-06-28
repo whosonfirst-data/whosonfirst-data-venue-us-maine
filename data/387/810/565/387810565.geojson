@@ -2,13 +2,14 @@
   "id": 387810565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.333981,43.678439,-70.333981,43.678439",
     "geom:latitude":43.678439,
     "geom:longitude":-70.333981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Larrabee Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387810565,
-    "wof:lastmodified":1449057205,
+    "wof:lastmodified":1466586992,
     "wof:name":"Alternative Solutions Inc",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.333981,43.678439,-70.333981,43.678439],
-  "geometry": {"coordinates":[-70.333981,43.678439],"type":"Point"}
+  "bbox": [
+    -70.333981,
+    43.678439,
+    -70.333981,
+    43.678439
+],
+  "geometry": {"coordinates":[-70.33398099999999,43.678439],"type":"Point"}
 }

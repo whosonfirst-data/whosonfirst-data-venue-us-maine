@@ -2,13 +2,14 @@
   "id": 387950161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.795082,44.713311,-69.795082,44.713311",
     "geom:latitude":44.713311,
     "geom:longitude":-69.795082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Main St",
     "sg:city":"Norridgewock",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387950161,
-    "wof:lastmodified":1449057588,
+    "wof:lastmodified":1466587197,
     "wof:name":"Dick Quimby & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-69.795082,44.713311,-69.795082,44.713311],
-  "geometry": {"coordinates":[-69.795082,44.713311],"type":"Point"}
+  "bbox": [
+    -69.795082,
+    44.713311,
+    -69.795082,
+    44.713311
+],
+  "geometry": {"coordinates":[-69.79508199999999,44.713311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403893499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.941067,43.373882,-70.941067,43.373882",
     "geom:latitude":43.373882,
     "geom:longitude":-70.941067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"174 W Lebanon Rd",
     "sg:city":"East Lebanon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403893499,
-    "wof:lastmodified":1449055712,
+    "wof:lastmodified":1466586899,
     "wof:name":"Lizotte S Sugar Shack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-70.941067,43.373882,-70.941067,43.373882],
+  "bbox": [
+    -70.941067,
+    43.373882,
+    -70.941067,
+    43.373882
+],
   "geometry": {"coordinates":[-70.941067,43.373882],"type":"Point"}
 }

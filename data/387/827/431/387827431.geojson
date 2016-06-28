@@ -2,13 +2,14 @@
   "id": 387827431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.236676,43.821528,-70.236676,43.821528",
     "geom:latitude":43.821528,
     "geom:longitude":-70.236676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Baston Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387827431,
-    "wof:lastmodified":1449057460,
+    "wof:lastmodified":1466587193,
     "wof:name":"Lee International Business Dev",
     "wof:parent_id":85846309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-70.236676,43.821528,-70.236676,43.821528],
+  "bbox": [
+    -70.236676,
+    43.821528,
+    -70.236676,
+    43.821528
+],
   "geometry": {"coordinates":[-70.236676,43.821528],"type":"Point"}
 }

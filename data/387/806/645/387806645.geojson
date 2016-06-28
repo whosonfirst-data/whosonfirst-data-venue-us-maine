@@ -2,13 +2,14 @@
   "id": 387806645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.421202,44.542551,-68.421202,44.542551",
     "geom:latitude":44.542551,
     "geom:longitude":-68.421202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"194 Main St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387806645,
-    "wof:lastmodified":1449056100,
+    "wof:lastmodified":1466587077,
     "wof:name":"Black Hawk Land Title",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-68.421202,44.542551,-68.421202,44.542551],
-  "geometry": {"coordinates":[-68.421202,44.542551],"type":"Point"}
+  "bbox": [
+    -68.421202,
+    44.542551,
+    -68.421202,
+    44.542551
+],
+  "geometry": {"coordinates":[-68.42120199999999,44.542551],"type":"Point"}
 }

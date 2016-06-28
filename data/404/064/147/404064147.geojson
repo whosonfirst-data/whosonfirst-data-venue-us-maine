@@ -2,13 +2,14 @@
   "id": 404064147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.335999,44.278692,-70.335999,44.278692",
     "geom:latitude":44.278692,
     "geom:longitude":-70.335999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"371 Turner St",
     "sg:city":"Buckfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404064147,
-    "wof:lastmodified":1449039449,
+    "wof:lastmodified":1466586489,
     "wof:name":"Bly's Garage",
     "wof:parent_id":85816409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.335999,44.278692,-70.335999,44.278692],
+  "bbox": [
+    -70.335999,
+    44.278692,
+    -70.335999,
+    44.278692
+],
   "geometry": {"coordinates":[-70.335999,44.278692],"type":"Point"}
 }

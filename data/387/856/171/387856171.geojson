@@ -2,13 +2,14 @@
   "id": 387856171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.252887,43.832983,-70.252887,43.832983",
     "geom:latitude":43.832983,
     "geom:longitude":-70.252887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Parsonage Rd",
     "sg:city":"North Yarmouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387856171,
-    "wof:lastmodified":1449057176,
+    "wof:lastmodified":1466587173,
     "wof:name":"Ronnys Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-70.252887,43.832983,-70.252887,43.832983],
+  "bbox": [
+    -70.252887,
+    43.832983,
+    -70.252887,
+    43.832983
+],
   "geometry": {"coordinates":[-70.252887,43.832983],"type":"Point"}
 }

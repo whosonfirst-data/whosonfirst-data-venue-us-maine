@@ -2,13 +2,14 @@
   "id": 387847135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.618747,44.554057,-69.618747,44.554057",
     "geom:latitude":44.554057,
     "geom:longitude":-69.618747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Dean St",
     "sg:city":"Winslow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387847135,
-    "wof:lastmodified":1449057483,
+    "wof:lastmodified":1466587148,
     "wof:name":"School Union 52",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.618747,44.554057,-69.618747,44.554057],
+  "bbox": [
+    -69.618747,
+    44.554057,
+    -69.618747,
+    44.554057
+],
   "geometry": {"coordinates":[-69.618747,44.554057],"type":"Point"}
 }

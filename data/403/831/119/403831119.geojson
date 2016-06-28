@@ -2,13 +2,14 @@
   "id": 403831119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.087253,44.391462,-68.087253,44.391462",
     "geom:latitude":44.391462,
     "geom:longitude":-68.087253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 School St",
     "sg:city":"Stonington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403831119,
-    "wof:lastmodified":1449055426,
+    "wof:lastmodified":1466586448,
     "wof:name":"Stonington Trap Works",
     "wof:parent_id":85821423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fishing"
     ]
 },
-  "bbox": [-68.087253,44.391462,-68.087253,44.391462],
+  "bbox": [
+    -68.087253,
+    44.391462,
+    -68.087253,
+    44.391462
+],
   "geometry": {"coordinates":[-68.087253,44.391462],"type":"Point"}
 }

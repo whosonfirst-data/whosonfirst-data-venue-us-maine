@@ -2,13 +2,14 @@
   "id": 387834753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.217809,44.097779,-70.217809,44.097779",
     "geom:latitude":44.097779,
     "geom:longitude":-70.217809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387834753,
-    "wof:lastmodified":1449056458,
+    "wof:lastmodified":1466587131,
     "wof:name":"Technology Hub LLC",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "computer"
     ]
 },
-  "bbox": [-70.217809,44.097779,-70.217809,44.097779],
+  "bbox": [
+    -70.217809,
+    44.097779,
+    -70.217809,
+    44.097779
+],
   "geometry": {"coordinates":[-70.217809,44.097779],"type":"Point"}
 }

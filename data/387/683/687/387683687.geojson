@@ -2,13 +2,14 @@
   "id": 387683687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.451502,44.719079,-67.451502,44.719079",
     "geom:latitude":44.719079,
     "geom:longitude":-67.451502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Main St",
     "sg:city":"Machias",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387683687,
-    "wof:lastmodified":1449057500,
+    "wof:lastmodified":1466586499,
     "wof:name":"Machias Regional Voc Ctr",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.451502,44.719079,-67.451502,44.719079],
+  "bbox": [
+    -67.451502,
+    44.719079,
+    -67.451502,
+    44.719079
+],
   "geometry": {"coordinates":[-67.451502,44.719079],"type":"Point"}
 }

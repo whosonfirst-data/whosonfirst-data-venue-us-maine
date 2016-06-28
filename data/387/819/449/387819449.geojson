@@ -2,13 +2,14 @@
   "id": 387819449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.356891,43.640132,-70.356891,43.640132",
     "geom:latitude":43.640132,
     "geom:longitude":-70.356891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Gannett Dr",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387819449,
-    "wof:lastmodified":1449057010,
+    "wof:lastmodified":1466587187,
     "wof:name":"Reach School",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-70.356891,43.640132,-70.356891,43.640132],
+  "bbox": [
+    -70.356891,
+    43.640132,
+    -70.356891,
+    43.640132
+],
   "geometry": {"coordinates":[-70.356891,43.640132],"type":"Point"}
 }

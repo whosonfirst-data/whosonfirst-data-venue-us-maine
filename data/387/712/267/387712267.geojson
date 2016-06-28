@@ -2,13 +2,14 @@
   "id": 387712267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.680304,44.87271,-68.680304,44.87271",
     "geom:latitude":44.87271,
     "geom:longitude":-68.680304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"291 Main St",
     "sg:city":"Orono",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387712267,
-    "wof:lastmodified":1449057740,
+    "wof:lastmodified":1466586768,
     "wof:name":"Orono Family Medicine",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-68.680304,44.87271,-68.680304,44.87271],
-  "geometry": {"coordinates":[-68.680304,44.87271],"type":"Point"}
+  "bbox": [
+    -68.680304,
+    44.87271,
+    -68.680304,
+    44.87271
+],
+  "geometry": {"coordinates":[-68.68030400000001,44.87271],"type":"Point"}
 }

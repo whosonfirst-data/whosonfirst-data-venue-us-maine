@@ -2,13 +2,14 @@
   "id": 387919489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.205027,44.386264,-68.205027,44.386264",
     "geom:latitude":44.386264,
     "geom:longitude":-68.205027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Newton Way",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387919489,
-    "wof:lastmodified":1449058982,
+    "wof:lastmodified":1466587327,
     "wof:name":"Bar Harbor Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-68.205027,44.386264,-68.205027,44.386264],
+  "bbox": [
+    -68.205027,
+    44.386264,
+    -68.205027,
+    44.386264
+],
   "geometry": {"coordinates":[-68.205027,44.386264],"type":"Point"}
 }

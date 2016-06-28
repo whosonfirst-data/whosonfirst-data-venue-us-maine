@@ -2,13 +2,14 @@
   "id": 404131181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.868783,44.885878,-68.868783,44.885878",
     "geom:latitude":44.885878,
     "geom:longitude":-68.868783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3103 Broadway",
     "sg:city":"Glenburn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404131181,
-    "wof:lastmodified":1449039379,
+    "wof:lastmodified":1466586465,
     "wof:name":"Ace Electric Co",
     "wof:parent_id":85855557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-68.868783,44.885878,-68.868783,44.885878],
-  "geometry": {"coordinates":[-68.868783,44.885878],"type":"Point"}
+  "bbox": [
+    -68.868783,
+    44.885878,
+    -68.868783,
+    44.885878
+],
+  "geometry": {"coordinates":[-68.86878299999999,44.885878],"type":"Point"}
 }

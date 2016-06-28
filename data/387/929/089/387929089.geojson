@@ -2,13 +2,14 @@
   "id": 387929089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.647987,43.351468,-70.647987,43.351468",
     "geom:latitude":43.351468,
     "geom:longitude":-70.647987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 Sanford Rd",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387929089,
-    "wof:lastmodified":1449057561,
+    "wof:lastmodified":1466587265,
     "wof:name":"Libby-Scott Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.647987,43.351468,-70.647987,43.351468],
+  "bbox": [
+    -70.647987,
+    43.351468,
+    -70.647987,
+    43.351468
+],
   "geometry": {"coordinates":[-70.647987,43.351468],"type":"Point"}
 }

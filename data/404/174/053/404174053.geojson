@@ -2,13 +2,14 @@
   "id": 404174053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.176292,44.073096,-70.176292,44.073096",
     "geom:latitude":44.073096,
     "geom:longitude":-70.176292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1455 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404174053,
-    "wof:lastmodified":1449039169,
+    "wof:lastmodified":1466586798,
     "wof:name":"Tire Warehouse",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-70.176292,44.073096,-70.176292,44.073096],
+  "bbox": [
+    -70.176292,
+    44.073096,
+    -70.176292,
+    44.073096
+],
   "geometry": {"coordinates":[-70.176292,44.073096],"type":"Point"}
 }

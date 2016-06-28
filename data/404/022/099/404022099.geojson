@@ -2,13 +2,14 @@
   "id": 404022099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.71952,43.487977,-70.71952,43.487977",
     "geom:latitude":43.487977,
     "geom:longitude":-70.71952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Waterboro Rd",
     "sg:city":"Alfred",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404022099,
-    "wof:lastmodified":1449039415,
+    "wof:lastmodified":1466585920,
     "wof:name":"Blue Door Primitive Pedler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.71952,43.487977,-70.71952,43.487977],
+  "bbox": [
+    -70.71952,
+    43.487977,
+    -70.71952,
+    43.487977
+],
   "geometry": {"coordinates":[-70.71952,43.487977],"type":"Point"}
 }

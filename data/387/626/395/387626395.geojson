@@ -2,13 +2,14 @@
   "id": 387626395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.747043,44.820557,-68.747043,44.820557",
     "geom:latitude":44.820557,
     "geom:longitude":-68.747043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Hempstead Ave",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387626395,
-    "wof:lastmodified":1449059924,
+    "wof:lastmodified":1466586629,
     "wof:name":"Murray & Dunn Lumber Co",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-68.747043,44.820557,-68.747043,44.820557],
-  "geometry": {"coordinates":[-68.747043,44.820557],"type":"Point"}
+  "bbox": [
+    -68.747043,
+    44.820557,
+    -68.747043,
+    44.820557
+],
+  "geometry": {"coordinates":[-68.74704300000001,44.820557],"type":"Point"}
 }

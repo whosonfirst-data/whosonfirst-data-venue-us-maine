@@ -2,13 +2,14 @@
   "id": 387712877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.839918,43.30499,-70.839918,43.30499",
     "geom:latitude":43.30499,
     "geom:longitude":-70.839918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Thompson Hill Rd",
     "sg:city":"Berwick",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387712877,
-    "wof:lastmodified":1449057739,
+    "wof:lastmodified":1466586682,
     "wof:name":"Barker Lawn Care & Snowplowing",
     "wof:parent_id":85892311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sanitary"
     ]
 },
-  "bbox": [-70.839918,43.30499,-70.839918,43.30499],
+  "bbox": [
+    -70.839918,
+    43.30499,
+    -70.839918,
+    43.30499
+],
   "geometry": {"coordinates":[-70.839918,43.30499],"type":"Point"}
 }

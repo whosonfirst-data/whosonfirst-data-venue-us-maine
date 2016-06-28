@@ -2,13 +2,14 @@
   "id": 403983035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.236207,43.735935,-70.236207,43.735935",
     "geom:latitude":43.735935,
     "geom:longitude":-70.236207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"289 Middle Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403983035,
-    "wof:lastmodified":1449055854,
+    "wof:lastmodified":1466587226,
     "wof:name":"Gregory Thompson DO",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-70.236207,43.735935,-70.236207,43.735935],
-  "geometry": {"coordinates":[-70.236207,43.735935],"type":"Point"}
+  "bbox": [
+    -70.236207,
+    43.735935,
+    -70.236207,
+    43.735935
+],
+  "geometry": {"coordinates":[-70.23620699999999,43.735935],"type":"Point"}
 }

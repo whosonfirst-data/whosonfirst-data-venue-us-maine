@@ -2,13 +2,14 @@
   "id": 387833365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.775124,44.320753,-69.775124,44.320753",
     "geom:latitude":44.320753,
     "geom:longitude":-69.775124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 State St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387833365,
-    "wof:lastmodified":1449056592,
+    "wof:lastmodified":1466587209,
     "wof:name":"Human Resources Bureau",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "resource"
     ]
 },
-  "bbox": [-69.775124,44.320753,-69.775124,44.320753],
-  "geometry": {"coordinates":[-69.775124,44.320753],"type":"Point"}
+  "bbox": [
+    -69.775124,
+    44.320753,
+    -69.775124,
+    44.320753
+],
+  "geometry": {"coordinates":[-69.77512400000001,44.320753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387826895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.452013,43.395198,-70.452013,43.395198",
     "geom:latitude":43.395198,
     "geom:longitude":-70.452013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Beachwood Ave",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387826895,
-    "wof:lastmodified":1449058875,
+    "wof:lastmodified":1466587117,
     "wof:name":"Absolute Chimney Svc",
     "wof:parent_id":85852443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "chimney"
     ]
 },
-  "bbox": [-70.452013,43.395198,-70.452013,43.395198],
-  "geometry": {"coordinates":[-70.452013,43.395198],"type":"Point"}
+  "bbox": [
+    -70.452013,
+    43.395198,
+    -70.452013,
+    43.395198
+],
+  "geometry": {"coordinates":[-70.45201299999999,43.395198],"type":"Point"}
 }

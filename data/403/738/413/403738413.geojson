@@ -2,13 +2,14 @@
   "id": 403738413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.880713,43.402531,-70.880713,43.402531",
     "geom:latitude":43.402531,
     "geom:longitude":-70.880713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Lower Cross Rd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403738413,
-    "wof:lastmodified":1449055583,
+    "wof:lastmodified":1466586043,
     "wof:name":"Army Navy Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "army"
     ]
 },
-  "bbox": [-70.880713,43.402531,-70.880713,43.402531],
+  "bbox": [
+    -70.880713,
+    43.402531,
+    -70.880713,
+    43.402531
+],
   "geometry": {"coordinates":[-70.880713,43.402531],"type":"Point"}
 }

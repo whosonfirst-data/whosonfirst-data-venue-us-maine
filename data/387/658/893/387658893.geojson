@@ -2,13 +2,14 @@
   "id": 387658893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.306297,43.733228,-70.306297,43.733228",
     "geom:latitude":43.733228,
     "geom:longitude":-70.306297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Brook Rd",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387658893,
-    "wof:lastmodified":1449056033,
+    "wof:lastmodified":1466586106,
     "wof:name":"Design Alliance",
     "wof:parent_id":85855475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.306297,43.733228,-70.306297,43.733228],
+  "bbox": [
+    -70.306297,
+    43.733228,
+    -70.306297,
+    43.733228
+],
   "geometry": {"coordinates":[-70.306297,43.733228],"type":"Point"}
 }

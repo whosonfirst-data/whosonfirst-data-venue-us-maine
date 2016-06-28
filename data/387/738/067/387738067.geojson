@@ -2,13 +2,14 @@
   "id": 387738067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.71695,43.122993,-70.71695,43.122993",
     "geom:latitude":43.122993,
     "geom:longitude":-70.71695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 US Hwy 1",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387738067,
-    "wof:lastmodified":1449058896,
+    "wof:lastmodified":1466586921,
     "wof:name":"Donnell's Auto Repair",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.71695,43.122993,-70.71695,43.122993],
+  "bbox": [
+    -70.71695,
+    43.122993,
+    -70.71695,
+    43.122993
+],
   "geometry": {"coordinates":[-70.71695,43.122993],"type":"Point"}
 }

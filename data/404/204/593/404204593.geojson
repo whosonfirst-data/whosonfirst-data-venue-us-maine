@@ -2,13 +2,14 @@
   "id": 404204593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.151124,44.170494,-69.151124,44.170494",
     "geom:latitude":44.170494,
     "geom:longitude":-69.151124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Mill St",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404204593,
-    "wof:lastmodified":1449040347,
+    "wof:lastmodified":1466586937,
     "wof:name":"Avena Botanicals Apothecary",
     "wof:parent_id":85845529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "diet"
     ]
 },
-  "bbox": [-69.151124,44.170494,-69.151124,44.170494],
+  "bbox": [
+    -69.151124,
+    44.170494,
+    -69.151124,
+    44.170494
+],
   "geometry": {"coordinates":[-69.151124,44.170494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387649599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.226384,44.140531,-70.226384,44.140531",
     "geom:latitude":44.140531,
     "geom:longitude":-70.226384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1097 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387649599,
-    "wof:lastmodified":1449058705,
+    "wof:lastmodified":1466586738,
     "wof:name":"Jim's Auto Sales",
     "wof:parent_id":85815921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.226384,44.140531,-70.226384,44.140531],
+  "bbox": [
+    -70.226384,
+    44.140531,
+    -70.226384,
+    44.140531
+],
   "geometry": {"coordinates":[-70.226384,44.140531],"type":"Point"}
 }

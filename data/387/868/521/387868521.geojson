@@ -2,13 +2,14 @@
   "id": 387868521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.458721,43.501152,-70.458721,43.501152",
     "geom:latitude":43.501152,
     "geom:longitude":-70.458721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Market St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387868521,
-    "wof:lastmodified":1449056291,
+    "wof:lastmodified":1466587202,
     "wof:name":"Sew What",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-70.458721,43.501152,-70.458721,43.501152],
+  "bbox": [
+    -70.458721,
+    43.501152,
+    -70.458721,
+    43.501152
+],
   "geometry": {"coordinates":[-70.458721,43.501152],"type":"Point"}
 }

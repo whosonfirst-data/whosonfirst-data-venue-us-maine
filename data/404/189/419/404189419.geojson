@@ -2,13 +2,14 @@
   "id": 404189419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.862597,44.965193,-69.862597,44.965193",
     "geom:latitude":44.965193,
     "geom:longitude":-69.862597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 N Main St",
     "sg:city":"Stratton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404189419,
-    "wof:lastmodified":1449039973,
+    "wof:lastmodified":1466586881,
     "wof:name":"Flagstaff Bait Tackle & Rdmptn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "center"
     ]
 },
-  "bbox": [-69.862597,44.965193,-69.862597,44.965193],
-  "geometry": {"coordinates":[-69.862597,44.965193],"type":"Point"}
+  "bbox": [
+    -69.862597,
+    44.965193,
+    -69.862597,
+    44.965193
+],
+  "geometry": {"coordinates":[-69.86259699999999,44.965193],"type":"Point"}
 }

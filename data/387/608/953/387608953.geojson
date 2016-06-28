@@ -2,13 +2,14 @@
   "id": 387608953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.926892,44.475877,-67.926892,44.475877",
     "geom:latitude":44.475877,
     "geom:longitude":-67.926892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Goods Point Rd",
     "sg:city":"Steuben",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387608953,
-    "wof:lastmodified":1449057735,
+    "wof:lastmodified":1466586473,
     "wof:name":"My Girls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.926892,44.475877,-67.926892,44.475877],
+  "bbox": [
+    -67.926892,
+    44.475877,
+    -67.926892,
+    44.475877
+],
   "geometry": {"coordinates":[-67.926892,44.475877],"type":"Point"}
 }

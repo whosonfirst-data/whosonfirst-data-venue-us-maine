@@ -2,13 +2,14 @@
   "id": 387887095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.49734,45.366335,-68.49734,45.366335",
     "geom:latitude":45.366335,
     "geom:longitude":-68.49734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Lakeview St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387887095,
-    "wof:lastmodified":1449059163,
+    "wof:lastmodified":1466587308,
     "wof:name":"Mc Iver's Lakeshore Cottages",
     "wof:parent_id":85849837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cabin"
     ]
 },
-  "bbox": [-68.49734,45.366335,-68.49734,45.366335],
-  "geometry": {"coordinates":[-68.49734,45.366335],"type":"Point"}
+  "bbox": [
+    -68.49734,
+    45.366335,
+    -68.49734,
+    45.366335
+],
+  "geometry": {"coordinates":[-68.49733999999999,45.366335],"type":"Point"}
 }

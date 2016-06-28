@@ -2,13 +2,14 @@
   "id": 403971171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.825408,46.766439,-67.825408,46.766439",
     "geom:latitude":46.766439,
     "geom:longitude":-67.825408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Forest Ave",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403971171,
-    "wof:lastmodified":1449055325,
+    "wof:lastmodified":1466587124,
     "wof:name":"Dot's Beauty Shoppe",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-67.825408,46.766439,-67.825408,46.766439],
+  "bbox": [
+    -67.825408,
+    46.766439,
+    -67.825408,
+    46.766439
+],
   "geometry": {"coordinates":[-67.825408,46.766439],"type":"Point"}
 }

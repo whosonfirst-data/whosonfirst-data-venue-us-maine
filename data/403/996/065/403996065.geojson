@@ -2,13 +2,14 @@
   "id": 403996065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.789306,44.311526,-69.789306,44.311526",
     "geom:latitude":44.311526,
     "geom:longitude":-69.789306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Hillcrest Ct",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403996065,
-    "wof:lastmodified":1449055005,
+    "wof:lastmodified":1466587178,
     "wof:name":"Vkki H Walsh Massage Therapist",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.789306,44.311526,-69.789306,44.311526],
+  "bbox": [
+    -69.789306,
+    44.311526,
+    -69.789306,
+    44.311526
+],
   "geometry": {"coordinates":[-69.789306,44.311526],"type":"Point"}
 }

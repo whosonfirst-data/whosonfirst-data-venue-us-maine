@@ -2,13 +2,14 @@
   "id": 403781057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.214807,44.100433,-70.214807,44.100433",
     "geom:latitude":44.100433,
     "geom:longitude":-70.214807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Sabattus St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403781057,
-    "wof:lastmodified":1449054889,
+    "wof:lastmodified":1466585692,
     "wof:name":"33 Sabattus Street",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.214807,44.100433,-70.214807,44.100433],
-  "geometry": {"coordinates":[-70.214807,44.100433],"type":"Point"}
+  "bbox": [
+    -70.214807,
+    44.100433,
+    -70.214807,
+    44.100433
+],
+  "geometry": {"coordinates":[-70.21480699999999,44.100433],"type":"Point"}
 }

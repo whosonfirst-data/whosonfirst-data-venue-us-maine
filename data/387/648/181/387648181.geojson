@@ -2,13 +2,14 @@
   "id": 387648181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.735238,44.415376,-70.735238,44.415376",
     "geom:latitude":44.415376,
     "geom:longitude":-70.735238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"554 Walkers Mill Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387648181,
-    "wof:lastmodified":1449057138,
+    "wof:lastmodified":1466586659,
     "wof:name":"Harvey Trading Post",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-70.735238,44.415376,-70.735238,44.415376],
+  "bbox": [
+    -70.735238,
+    44.415376,
+    -70.735238,
+    44.415376
+],
   "geometry": {"coordinates":[-70.735238,44.415376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404122615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.450886,43.503721,-70.450886,43.503721",
     "geom:latitude":43.503721,
     "geom:longitude":-70.450886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 South St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404122615,
-    "wof:lastmodified":1449039815,
+    "wof:lastmodified":1466586336,
     "wof:name":"Avesta Housing Section 8",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-70.450886,43.503721,-70.450886,43.503721],
+  "bbox": [
+    -70.450886,
+    43.503721,
+    -70.450886,
+    43.503721
+],
   "geometry": {"coordinates":[-70.450886,43.503721],"type":"Point"}
 }

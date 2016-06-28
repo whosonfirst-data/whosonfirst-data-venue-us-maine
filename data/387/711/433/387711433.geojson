@@ -2,13 +2,14 @@
   "id": 387711433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.905158,44.073815,-69.905158,44.073815",
     "geom:latitude":44.073815,
     "geom:longitude":-69.905158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Post Rd",
     "sg:city":"Bowdoinham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387711433,
-    "wof:lastmodified":1449059222,
+    "wof:lastmodified":1466586772,
     "wof:name":"Baileys Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.905158,44.073815,-69.905158,44.073815],
+  "bbox": [
+    -69.905158,
+    44.073815,
+    -69.905158,
+    44.073815
+],
   "geometry": {"coordinates":[-69.905158,44.073815],"type":"Point"}
 }

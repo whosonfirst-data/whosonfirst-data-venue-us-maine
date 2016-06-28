@@ -2,13 +2,14 @@
   "id": 403809547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.75042,44.741112,-69.75042,44.741112",
     "geom:latitude":44.741112,
     "geom:longitude":-69.75042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 Skowhegan Rd",
     "sg:city":"Norridgewock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403809547,
-    "wof:lastmodified":1449055724,
+    "wof:lastmodified":1466586096,
     "wof:name":"Artistic Memorial Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-69.75042,44.741112,-69.75042,44.741112],
-  "geometry": {"coordinates":[-69.75042,44.741112],"type":"Point"}
+  "bbox": [
+    -69.75042,
+    44.741112,
+    -69.75042,
+    44.741112
+],
+  "geometry": {"coordinates":[-69.75042000000001,44.741112],"type":"Point"}
 }

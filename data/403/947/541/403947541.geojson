@@ -2,13 +2,14 @@
   "id": 403947541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.379167,44.787885,-69.379167,44.787885",
     "geom:latitude":44.787885,
     "geom:longitude":-69.379167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Washington St",
     "sg:city":"Pittsfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403947541,
-    "wof:lastmodified":1449055572,
+    "wof:lastmodified":1466587155,
     "wof:name":"Holly's Place",
     "wof:parent_id":85854823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-69.379167,44.787885,-69.379167,44.787885],
+  "bbox": [
+    -69.379167,
+    44.787885,
+    -69.379167,
+    44.787885
+],
   "geometry": {"coordinates":[-69.379167,44.787885],"type":"Point"}
 }

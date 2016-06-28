@@ -2,13 +2,14 @@
   "id": 387623825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.377954,47.3079,-68.377954,47.3079",
     "geom:latitude":47.3079,
     "geom:longitude":-68.377954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Main St",
     "sg:city":"Madawaska",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387623825,
-    "wof:lastmodified":1449058778,
+    "wof:lastmodified":1466585746,
     "wof:name":"Frozen In Time",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bridal"
     ]
 },
-  "bbox": [-68.377954,47.3079,-68.377954,47.3079],
+  "bbox": [
+    -68.377954,
+    47.3079,
+    -68.377954,
+    47.3079
+],
   "geometry": {"coordinates":[-68.377954,47.3079],"type":"Point"}
 }

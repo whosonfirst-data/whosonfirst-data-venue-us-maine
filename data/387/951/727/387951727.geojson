@@ -2,13 +2,14 @@
   "id": 387951727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.170593,44.487131,-68.170593,44.487131",
     "geom:latitude":44.487131,
     "geom:longitude":-68.170593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 E Side Rd",
     "sg:city":"Sorrento",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387951727,
-    "wof:lastmodified":1449056285,
+    "wof:lastmodified":1466587211,
     "wof:name":"SW Custom Furniture",
     "wof:parent_id":85816831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.170593,44.487131,-68.170593,44.487131],
+  "bbox": [
+    -68.170593,
+    44.487131,
+    -68.170593,
+    44.487131
+],
   "geometry": {"coordinates":[-68.170593,44.487131],"type":"Point"}
 }

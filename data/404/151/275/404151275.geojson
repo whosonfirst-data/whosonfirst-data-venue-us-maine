@@ -2,13 +2,14 @@
   "id": 404151275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.788561,44.406432,-70.788561,44.406432",
     "geom:latitude":44.406432,
     "geom:longitude":-70.788561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Philbrook St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404151275,
-    "wof:lastmodified":1449039094,
+    "wof:lastmodified":1466586722,
     "wof:name":"Bethel Water District",
     "wof:parent_id":85833973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-70.788561,44.406432,-70.788561,44.406432],
+  "bbox": [
+    -70.788561,
+    44.406432,
+    -70.788561,
+    44.406432
+],
   "geometry": {"coordinates":[-70.788561,44.406432],"type":"Point"}
 }

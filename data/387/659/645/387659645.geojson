@@ -2,13 +2,14 @@
   "id": 387659645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.749748,43.352411,-70.749748,43.352411",
     "geom:latitude":43.352411,
     "geom:longitude":-70.749748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Valley Rd",
     "sg:city":"North Berwick",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387659645,
-    "wof:lastmodified":1449056515,
+    "wof:lastmodified":1466586117,
     "wof:name":"Eastern States Excvtg & Trckg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.749748,43.352411,-70.749748,43.352411],
+  "bbox": [
+    -70.749748,
+    43.352411,
+    -70.749748,
+    43.352411
+],
   "geometry": {"coordinates":[-70.749748,43.352411],"type":"Point"}
 }

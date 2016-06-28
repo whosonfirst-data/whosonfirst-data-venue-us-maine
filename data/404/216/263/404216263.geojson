@@ -2,13 +2,14 @@
   "id": 404216263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.300593,43.712135,-70.300593,43.712135",
     "geom:latitude":43.712135,
     "geom:longitude":-70.300593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Allison Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404216263,
-    "wof:lastmodified":1449040187,
+    "wof:lastmodified":1466587081,
     "wof:name":"G & J Packaging Conslnt Inc",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-70.300593,43.712135,-70.300593,43.712135],
-  "geometry": {"coordinates":[-70.300593,43.712135],"type":"Point"}
+  "bbox": [
+    -70.300593,
+    43.712135,
+    -70.300593,
+    43.712135
+],
+  "geometry": {"coordinates":[-70.30059300000001,43.712135],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387739129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.847578,44.745077,-68.847578,44.745077",
     "geom:latitude":44.745077,
     "geom:longitude":-68.847578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Western Ave",
     "sg:city":"Hampden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387739129,
-    "wof:lastmodified":1449057711,
+    "wof:lastmodified":1466586854,
     "wof:name":"Lura E Hoit Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-68.847578,44.745077,-68.847578,44.745077],
+  "bbox": [
+    -68.847578,
+    44.745077,
+    -68.847578,
+    44.745077
+],
   "geometry": {"coordinates":[-68.847578,44.745077],"type":"Point"}
 }

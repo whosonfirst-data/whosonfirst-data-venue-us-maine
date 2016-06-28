@@ -2,13 +2,14 @@
   "id": 403888341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.319984,43.669911,-70.319984,43.669911",
     "geom:latitude":43.669911,
     "geom:longitude":-70.319984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Rowe Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403888341,
-    "wof:lastmodified":1449055475,
+    "wof:lastmodified":1466586781,
     "wof:name":"American Welding Service Inc",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-70.319984,43.669911,-70.319984,43.669911],
-  "geometry": {"coordinates":[-70.319984,43.669911],"type":"Point"}
+  "bbox": [
+    -70.319984,
+    43.669911,
+    -70.319984,
+    43.669911
+],
+  "geometry": {"coordinates":[-70.31998400000001,43.669911],"type":"Point"}
 }

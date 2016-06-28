@@ -2,13 +2,14 @@
   "id": 387943097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.331688,47.350221,-68.331688,47.350221",
     "geom:latitude":47.350221,
     "geom:longitude":-68.331688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 11th Ave",
     "sg:city":"Madawaska",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387943097,
-    "wof:lastmodified":1449057106,
+    "wof:lastmodified":1466587277,
     "wof:name":"North Point",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-68.331688,47.350221,-68.331688,47.350221],
+  "bbox": [
+    -68.331688,
+    47.350221,
+    -68.331688,
+    47.350221
+],
   "geometry": {"coordinates":[-68.331688,47.350221],"type":"Point"}
 }

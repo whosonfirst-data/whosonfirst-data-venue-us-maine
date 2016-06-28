@@ -2,13 +2,14 @@
   "id": 403995977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.453748,43.49223,-70.453748,43.49223",
     "geom:latitude":43.49223,
     "geom:longitude":-70.453748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Alfred St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403995977,
-    "wof:lastmodified":1449055826,
+    "wof:lastmodified":1466587177,
     "wof:name":"Wonder Nails",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-70.453748,43.49223,-70.453748,43.49223],
+  "bbox": [
+    -70.453748,
+    43.49223,
+    -70.453748,
+    43.49223
+],
   "geometry": {"coordinates":[-70.453748,43.49223],"type":"Point"}
 }

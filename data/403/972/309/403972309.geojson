@@ -2,13 +2,14 @@
   "id": 403972309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.205121,44.389767,-68.205121,44.389767",
     "geom:latitude":44.389767,
     "geom:longitude":-68.205121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Cottage St",
     "sg:city":"Bar Harbor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403972309,
-    "wof:lastmodified":1449055308,
+    "wof:lastmodified":1466587130,
     "wof:name":"Cadillac's North Face",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"
     ]
 },
-  "bbox": [-68.205121,44.389767,-68.205121,44.389767],
-  "geometry": {"coordinates":[-68.205121,44.389767],"type":"Point"}
+  "bbox": [
+    -68.205121,
+    44.389767,
+    -68.205121,
+    44.389767
+],
+  "geometry": {"coordinates":[-68.20512100000001,44.389767],"type":"Point"}
 }

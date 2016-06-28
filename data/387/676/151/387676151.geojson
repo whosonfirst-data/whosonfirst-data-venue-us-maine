@@ -2,13 +2,14 @@
   "id": 387676151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.996802,44.415503,-68.996802,44.415503",
     "geom:latitude":44.415503,
     "geom:longitude":-68.996802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Northport Ave",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387676151,
-    "wof:lastmodified":1449058547,
+    "wof:lastmodified":1466586381,
     "wof:name":"David A Thanhauser MD",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-68.996802,44.415503,-68.996802,44.415503],
+  "bbox": [
+    -68.996802,
+    44.415503,
+    -68.996802,
+    44.415503
+],
   "geometry": {"coordinates":[-68.996802,44.415503],"type":"Point"}
 }

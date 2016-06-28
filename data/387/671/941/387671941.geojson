@@ -2,13 +2,14 @@
   "id": 387671941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.340411,43.971486,-69.340411,43.971486",
     "geom:latitude":43.971486,
     "geom:longitude":-69.340411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Davis Point Rd",
     "sg:city":"Friendship",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387671941,
-    "wof:lastmodified":1449056985,
+    "wof:lastmodified":1466586311,
     "wof:name":"Fishermen's Heritage Lobster",
     "wof:parent_id":85832665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lobster"
     ]
 },
-  "bbox": [-69.340411,43.971486,-69.340411,43.971486],
+  "bbox": [
+    -69.340411,
+    43.971486,
+    -69.340411,
+    43.971486
+],
   "geometry": {"coordinates":[-69.340411,43.971486],"type":"Point"}
 }

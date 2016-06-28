@@ -2,13 +2,14 @@
   "id": 387796151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.990278,46.761122,-67.990278,46.761122",
     "geom:latitude":46.761122,
     "geom:longitude":-67.990278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Caribou Rd",
     "sg:city":"Van Buren",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387796151,
-    "wof:lastmodified":1449057896,
+    "wof:lastmodified":1466587112,
     "wof:name":"Lapierre Homestead Farm",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-67.990278,46.761122,-67.990278,46.761122],
+  "bbox": [
+    -67.990278,
+    46.761122,
+    -67.990278,
+    46.761122
+],
   "geometry": {"coordinates":[-67.990278,46.761122],"type":"Point"}
 }

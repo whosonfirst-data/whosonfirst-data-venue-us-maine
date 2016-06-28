@@ -2,13 +2,14 @@
   "id": 404016937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.334283,43.694147,-70.334283,43.694147",
     "geom:latitude":43.694147,
     "geom:longitude":-70.334283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Independence Dr",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404016937,
-    "wof:lastmodified":1449039239,
+    "wof:lastmodified":1466585864,
     "wof:name":"Knm Builders",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.334283,43.694147,-70.334283,43.694147],
+  "bbox": [
+    -70.334283,
+    43.694147,
+    -70.334283,
+    43.694147
+],
   "geometry": {"coordinates":[-70.334283,43.694147],"type":"Point"}
 }

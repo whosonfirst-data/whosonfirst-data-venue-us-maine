@@ -2,13 +2,14 @@
   "id": 404154139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.349774,43.942938,-70.349774,43.942938",
     "geom:latitude":43.942938,
     "geom:longitude":-70.349774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 Shaker Rd",
     "sg:city":"New Gloucester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404154139,
-    "wof:lastmodified":1449040338,
+    "wof:lastmodified":1466586735,
     "wof:name":"Buddy's Store",
     "wof:parent_id":85815293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.349774,43.942938,-70.349774,43.942938],
+  "bbox": [
+    -70.349774,
+    43.942938,
+    -70.349774,
+    43.942938
+],
   "geometry": {"coordinates":[-70.349774,43.942938],"type":"Point"}
 }

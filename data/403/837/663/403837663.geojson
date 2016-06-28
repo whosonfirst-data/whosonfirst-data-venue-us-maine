@@ -2,13 +2,14 @@
   "id": 403837663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.22482,44.128232,-70.22482,44.128232",
     "geom:latitude":44.128232,
     "geom:longitude":-70.22482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"699 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403837663,
-    "wof:lastmodified":1449054837,
+    "wof:lastmodified":1466586560,
     "wof:name":"Auburn Motor Sales",
     "wof:parent_id":85815921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.22482,44.128232,-70.22482,44.128232],
-  "geometry": {"coordinates":[-70.22482,44.128232],"type":"Point"}
+  "bbox": [
+    -70.22482,
+    44.128232,
+    -70.22482,
+    44.128232
+],
+  "geometry": {"coordinates":[-70.22481999999999,44.128232],"type":"Point"}
 }

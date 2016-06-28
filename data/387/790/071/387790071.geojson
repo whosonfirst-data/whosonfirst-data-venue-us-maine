@@ -2,13 +2,14 @@
   "id": 387790071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.315539,43.704955,-70.315539,43.704955",
     "geom:latitude":43.704955,
     "geom:longitude":-70.315539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Industrial Way",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387790071,
-    "wof:lastmodified":1449059023,
+    "wof:lastmodified":1466587005,
     "wof:name":"Maine Candle Co",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [-70.315539,43.704955,-70.315539,43.704955],
+  "bbox": [
+    -70.315539,
+    43.704955,
+    -70.315539,
+    43.704955
+],
   "geometry": {"coordinates":[-70.315539,43.704955],"type":"Point"}
 }

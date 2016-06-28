@@ -2,13 +2,14 @@
   "id": 387776681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.674809,43.947304,-69.674809,43.947304",
     "geom:latitude":43.947304,
     "geom:longitude":-69.674809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Marshall Rd",
     "sg:city":"Westport Island",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387776681,
-    "wof:lastmodified":1449056929,
+    "wof:lastmodified":1466586985,
     "wof:name":"Stern & Stern",
     "wof:parent_id":85835085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-69.674809,43.947304,-69.674809,43.947304],
+  "bbox": [
+    -69.674809,
+    43.947304,
+    -69.674809,
+    43.947304
+],
   "geometry": {"coordinates":[-69.674809,43.947304],"type":"Point"}
 }

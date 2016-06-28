@@ -2,13 +2,14 @@
   "id": 403792635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.512561,44.543486,-68.512561,44.543486",
     "geom:latitude":44.543486,
     "geom:longitude":-68.512561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"789 US Hwy 1",
     "sg:city":"Pembroke",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403792635,
-    "wof:lastmodified":1449054929,
+    "wof:lastmodified":1466585842,
     "wof:name":"Leightons One Cow Frm & Grnhse",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-68.512561,44.543486,-68.512561,44.543486],
-  "geometry": {"coordinates":[-68.512561,44.543486],"type":"Point"}
+  "bbox": [
+    -68.512561,
+    44.543486,
+    -68.512561,
+    44.543486
+],
+  "geometry": {"coordinates":[-68.51256100000001,44.543486],"type":"Point"}
 }

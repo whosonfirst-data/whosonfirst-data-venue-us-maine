@@ -2,13 +2,14 @@
   "id": 387830685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.114387,44.104573,-69.114387,44.104573",
     "geom:latitude":44.104573,
     "geom:longitude":-69.114387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Limerock St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387830685,
-    "wof:lastmodified":1449056911,
+    "wof:lastmodified":1466587202,
     "wof:name":"Limerock Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-69.114387,44.104573,-69.114387,44.104573],
-  "geometry": {"coordinates":[-69.114387,44.104573],"type":"Point"}
+  "bbox": [
+    -69.114387,
+    44.104573,
+    -69.114387,
+    44.104573
+],
+  "geometry": {"coordinates":[-69.11438699999999,44.104573],"type":"Point"}
 }

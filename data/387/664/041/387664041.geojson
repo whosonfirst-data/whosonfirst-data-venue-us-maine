@@ -2,13 +2,14 @@
   "id": 387664041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.890976,44.890331,-68.890976,44.890331",
     "geom:latitude":44.890331,
     "geom:longitude":-68.890976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Danforth Dr",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387664041,
-    "wof:lastmodified":1449057509,
+    "wof:lastmodified":1466586187,
     "wof:name":"Denise H Stanley",
     "wof:parent_id":85855557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.890976,44.890331,-68.890976,44.890331],
-  "geometry": {"coordinates":[-68.890976,44.890331],"type":"Point"}
+  "bbox": [
+    -68.890976,
+    44.890331,
+    -68.890976,
+    44.890331
+],
+  "geometry": {"coordinates":[-68.89097599999999,44.890331],"type":"Point"}
 }

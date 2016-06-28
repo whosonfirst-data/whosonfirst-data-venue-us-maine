@@ -2,13 +2,14 @@
   "id": 387913033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.037879,46.694688,-68.037879,46.694688",
     "geom:latitude":46.694688,
     "geom:longitude":-68.037879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Central Dr",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387913033,
-    "wof:lastmodified":1449057575,
+    "wof:lastmodified":1466587321,
     "wof:name":"Ellis Farms",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-68.037879,46.694688,-68.037879,46.694688],
+  "bbox": [
+    -68.037879,
+    46.694688,
+    -68.037879,
+    46.694688
+],
   "geometry": {"coordinates":[-68.037879,46.694688],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387931633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.368495,43.559296,-70.368495,43.559296",
     "geom:latitude":43.559296,
     "geom:longitude":-70.368495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Pine Point Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387931633,
-    "wof:lastmodified":1449059579,
+    "wof:lastmodified":1466587276,
     "wof:name":"Bayley's Seafood Restaurant",
     "wof:parent_id":85806509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.368495,43.559296,-70.368495,43.559296],
+  "bbox": [
+    -70.368495,
+    43.559296,
+    -70.368495,
+    43.559296
+],
   "geometry": {"coordinates":[-70.368495,43.559296],"type":"Point"}
 }

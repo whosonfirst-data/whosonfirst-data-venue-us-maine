@@ -2,13 +2,14 @@
   "id": 404083219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.804269,44.230817,-69.804269,44.230817",
     "geom:latitude":44.230817,
     "geom:longitude":-69.804269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 High St",
     "sg:city":"West Gardiner",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404083219,
-    "wof:lastmodified":1449039583,
+    "wof:lastmodified":1466585783,
     "wof:name":"Partners Discount Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-69.804269,44.230817,-69.804269,44.230817],
-  "geometry": {"coordinates":[-69.804269,44.230817],"type":"Point"}
+  "bbox": [
+    -69.804269,
+    44.230817,
+    -69.804269,
+    44.230817
+],
+  "geometry": {"coordinates":[-69.80426900000001,44.230817],"type":"Point"}
 }

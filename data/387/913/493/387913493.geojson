@@ -2,13 +2,14 @@
   "id": 387913493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.010017,46.860699,-68.010017,46.860699",
     "geom:latitude":46.860699,
     "geom:longitude":-68.010017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 High St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387913493,
-    "wof:lastmodified":1449057575,
+    "wof:lastmodified":1466587253,
     "wof:name":"Dead River Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-68.010017,46.860699,-68.010017,46.860699],
+  "bbox": [
+    -68.010017,
+    46.860699,
+    -68.010017,
+    46.860699
+],
   "geometry": {"coordinates":[-68.010017,46.860699],"type":"Point"}
 }

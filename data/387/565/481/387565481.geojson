@@ -2,13 +2,14 @@
   "id": 387565481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.764092,44.804444,-68.764092,44.804444",
     "geom:latitude":44.804444,
     "geom:longitude":-68.764092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 State St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387565481,
-    "wof:lastmodified":1449059582,
+    "wof:lastmodified":1466585835,
     "wof:name":"Northeast Burglar & Fire Alarm",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-68.764092,44.804444,-68.764092,44.804444],
-  "geometry": {"coordinates":[-68.764092,44.804444],"type":"Point"}
+  "bbox": [
+    -68.764092,
+    44.804444,
+    -68.764092,
+    44.804444
+],
+  "geometry": {"coordinates":[-68.76409200000001,44.804444],"type":"Point"}
 }

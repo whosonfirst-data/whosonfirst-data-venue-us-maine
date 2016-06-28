@@ -2,13 +2,14 @@
   "id": 403858209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.407741,43.508038,-70.407741,43.508038",
     "geom:latitude":43.508038,
     "geom:longitude":-70.407741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Saco Ave",
     "sg:city":"Old Orchard Beach",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403858209,
-    "wof:lastmodified":1449054773,
+    "wof:lastmodified":1466586747,
     "wof:name":"D&I Sandwiches",
     "wof:parent_id":85828495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-70.407741,43.508038,-70.407741,43.508038],
+  "bbox": [
+    -70.407741,
+    43.508038,
+    -70.407741,
+    43.508038
+],
   "geometry": {"coordinates":[-70.407741,43.508038],"type":"Point"}
 }

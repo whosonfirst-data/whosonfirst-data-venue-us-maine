@@ -2,13 +2,14 @@
   "id": 387682045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.720851,44.823168,-68.720851,44.823168",
     "geom:latitude":44.823168,
     "geom:longitude":-68.720851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"996 State St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387682045,
-    "wof:lastmodified":1449056765,
+    "wof:lastmodified":1466586473,
     "wof:name":"Itty Bitty Footprints",
     "wof:parent_id":85837399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.720851,44.823168,-68.720851,44.823168],
+  "bbox": [
+    -68.720851,
+    44.823168,
+    -68.720851,
+    44.823168
+],
   "geometry": {"coordinates":[-68.720851,44.823168],"type":"Point"}
 }

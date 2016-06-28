@@ -2,13 +2,14 @@
   "id": 403856299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.276045,43.665692,-70.276045,43.665692",
     "geom:latitude":43.665692,
     "geom:longitude":-70.276045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":403856299,
-    "wof:lastmodified":1449055017,
+    "wof:lastmodified":1466586739,
     "wof:name":"Caleb Adult Center",
     "wof:parent_id":85838871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "senior"
     ]
 },
-  "bbox": [-70.276045,43.665692,-70.276045,43.665692],
+  "bbox": [
+    -70.276045,
+    43.665692,
+    -70.276045,
+    43.665692
+],
   "geometry": {"coordinates":[-70.276045,43.665692],"type":"Point"}
 }

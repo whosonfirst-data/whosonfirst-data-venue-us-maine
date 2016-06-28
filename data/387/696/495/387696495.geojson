@@ -2,13 +2,14 @@
   "id": 387696495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.324303,43.650169,-70.324303,43.650169",
     "geom:latitude":43.650169,
     "geom:longitude":-70.324303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Johnson Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387696495,
-    "wof:lastmodified":1449056394,
+    "wof:lastmodified":1466586717,
     "wof:name":"Maine Overnight Air Express",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air"
     ]
 },
-  "bbox": [-70.324303,43.650169,-70.324303,43.650169],
+  "bbox": [
+    -70.324303,
+    43.650169,
+    -70.324303,
+    43.650169
+],
   "geometry": {"coordinates":[-70.324303,43.650169],"type":"Point"}
 }

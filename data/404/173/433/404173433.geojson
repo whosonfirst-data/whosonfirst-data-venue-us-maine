@@ -2,13 +2,14 @@
   "id": 404173433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-69.679926,44.26387,-69.679926,44.26387",
     "geom:latitude":44.26387,
     "geom:longitude":-69.679926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 J & J Ln",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404173433,
-    "wof:lastmodified":1449039283,
+    "wof:lastmodified":1466586791,
     "wof:name":"Swan Marshall Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "commercial"
     ]
 },
-  "bbox": [-69.679926,44.26387,-69.679926,44.26387],
-  "geometry": {"coordinates":[-69.679926,44.26387],"type":"Point"}
+  "bbox": [
+    -69.679926,
+    44.26387,
+    -69.679926,
+    44.26387
+],
+  "geometry": {"coordinates":[-69.67992599999999,44.26387],"type":"Point"}
 }

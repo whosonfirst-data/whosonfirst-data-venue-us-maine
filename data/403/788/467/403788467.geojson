@@ -2,13 +2,14 @@
   "id": 403788467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.590683,47.255182,-68.590683,47.255182",
     "geom:latitude":47.255182,
     "geom:longitude":-68.590683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 E Main St",
     "sg:city":"Fort Kent",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403788467,
-    "wof:lastmodified":1449055331,
+    "wof:lastmodified":1466585787,
     "wof:name":"Elderly Social Action Council",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-68.590683,47.255182,-68.590683,47.255182],
+  "bbox": [
+    -68.590683,
+    47.255182,
+    -68.590683,
+    47.255182
+],
   "geometry": {"coordinates":[-68.590683,47.255182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404120865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.158481,44.101126,-70.158481,44.101126",
     "geom:latitude":44.101126,
     "geom:longitude":-70.158481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1033 Sabattus St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404120865,
-    "wof:lastmodified":1449040149,
+    "wof:lastmodified":1466586310,
     "wof:name":"Lighting Concepts",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fixture"
     ]
 },
-  "bbox": [-70.158481,44.101126,-70.158481,44.101126],
-  "geometry": {"coordinates":[-70.158481,44.101126],"type":"Point"}
+  "bbox": [
+    -70.158481,
+    44.101126,
+    -70.158481,
+    44.101126
+],
+  "geometry": {"coordinates":[-70.15848099999999,44.101126],"type":"Point"}
 }

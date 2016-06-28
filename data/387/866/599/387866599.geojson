@@ -2,13 +2,14 @@
   "id": 387866599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.709238,45.668404,-68.709238,45.668404",
     "geom:latitude":45.668404,
     "geom:longitude":-68.709238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Iron Bridge Rd",
     "sg:city":"Millinocket",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387866599,
-    "wof:lastmodified":1449057910,
+    "wof:lastmodified":1466587191,
     "wof:name":"Alberts Archery & Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.709238,45.668404,-68.709238,45.668404],
+  "bbox": [
+    -68.709238,
+    45.668404,
+    -68.709238,
+    45.668404
+],
   "geometry": {"coordinates":[-68.709238,45.668404],"type":"Point"}
 }
