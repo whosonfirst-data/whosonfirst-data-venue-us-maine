@@ -2,14 +2,20 @@
   "id": 387789917,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Common St Waterville ME 04901",
+    "addr:housenumber":"10",
+    "addr:postcode":"04901",
+    "addr:street":"Common St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.628747,44.549297,-69.628747,44.549297",
     "geom:latitude":44.549297,
     "geom:longitude":-69.628747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 Common St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85948869,
         102087461
     ],
+    "wof:brand_id":1125156795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Tby9wdUl5IqkFh2BbbV5Q_44.549297_-69.628747@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"4724cec5ee5e76ec6fe2bf470ea8d88d",
+    "wof:geomhash":"5635e884c2ab870dc0c6403d9e90379e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387789917,
-    "wof:lastmodified":1466587014,
+    "wof:lastmodified":1510695701,
     "wof:name":"Novastar Home Mortgage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

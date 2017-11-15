@@ -2,14 +2,20 @@
   "id": 404020743,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Capitol St Augusta ME 04330",
+    "addr:housenumber":"150",
+    "addr:postcode":"04330",
+    "addr:street":"Capitol St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.790008,44.309202,-69.790008,44.309202",
     "geom:latitude":44.309202,
     "geom:longitude":-69.790008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 Capitol St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087461,
         85822525
     ],
+    "wof:brand_id":1125150061,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XAfs3bSyatekE334t0svs_44.309202_-69.790008@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"03a5aa1fb03a13a44a9e4da2f2ab29fe",
+    "wof:geomhash":"9d7020c3fc64b06bcd4ff9a6ba5ac98e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":404020743,
-    "wof:lastmodified":1466585894,
+    "wof:lastmodified":1510695809,
     "wof:name":"Stewart Title Co",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387931809,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Milk St Portland ME 04101",
+    "addr:housenumber":"30",
+    "addr:postcode":"04101",
+    "addr:street":"Milk St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.253844,43.656951,-70.253844,43.656951",
     "geom:latitude":43.656951,
     "geom:longitude":-70.253844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30 Milk St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087463,
         85882031
     ],
+    "wof:brand_id":1125156385,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dUzHEz3Mc3TWxIMRBx7BY_43.656951_-70.253844@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7ac679eb1c999458db74abb5d97b5a5",
+    "wof:geomhash":"ff034d31692f6c1a4bd2d82924e107e7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387931809,
-    "wof:lastmodified":1466587278,
+    "wof:lastmodified":1510698491,
     "wof:name":"Electronic Data Systems Corp",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",

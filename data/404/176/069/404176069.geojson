@@ -2,14 +2,20 @@
   "id": 404176069,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 Minot Ave Auburn ME 04210",
+    "addr:housenumber":"1013",
+    "addr:postcode":"04210",
+    "addr:street":"Minot Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.271412,44.081054,-70.271412,44.081054",
     "geom:latitude":44.081054,
     "geom:longitude":-70.271412,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1013 Minot Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85948883,
         102087457
     ],
+    "wof:brand_id":1125158351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fKInDz2TxLo5zEZEvz98U_44.081054_-70.271412@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c285a8b8c2adfe1b2feffd15ffde6192",
+    "wof:geomhash":"38694e56a7e9bc82cde49f611e83ec6f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":404176069,
-    "wof:lastmodified":1466586690,
+    "wof:lastmodified":1510694185,
     "wof:name":"Morton Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

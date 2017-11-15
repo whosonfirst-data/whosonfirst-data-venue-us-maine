@@ -2,14 +2,20 @@
   "id": 387791945,
   "type": "Feature",
   "properties": {
+    "addr:full":"193 Middle St Portland ME 04101",
+    "addr:housenumber":"193",
+    "addr:postcode":"04101",
+    "addr:street":"Middle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.254673,43.657695,-70.254673,43.657695",
     "geom:latitude":43.657695,
     "geom:longitude":-70.254673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"193 Middle St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087463,
         85882031
     ],
+    "wof:brand_id":1125152825,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nU09Sb91XzNcCcgUzuM77_43.657695_-70.254673@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a821323e46acd460a3571c41f4e3a7ae",
+    "wof:geomhash":"4fa7b40b0059475066b2df63a58bb69b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387791945,
-    "wof:lastmodified":1466587014,
+    "wof:lastmodified":1510694713,
     "wof:name":"Ticor Title Insurance",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",

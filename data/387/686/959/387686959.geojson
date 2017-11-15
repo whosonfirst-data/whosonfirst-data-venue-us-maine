@@ -2,6 +2,10 @@
   "id": 387686959,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Main St Bar Harbor ME 04609",
+    "addr:housenumber":"101",
+    "addr:postcode":"04609",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387686959,
-    "wof:lastmodified":1466586554,
+    "wof:lastmodified":1472627285,
     "wof:name":"Our New England",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

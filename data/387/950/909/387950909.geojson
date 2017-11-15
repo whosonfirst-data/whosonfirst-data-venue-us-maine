@@ -2,14 +2,20 @@
   "id": 387950909,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Picott Rd Kittery ME 03904",
+    "addr:housenumber":"91",
+    "addr:postcode":"03904",
+    "addr:street":"Picott Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.736778,43.12005,-70.736778,43.12005",
     "geom:latitude":43.12005,
     "geom:longitude":-70.736778,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"91 Picott Rd",
     "sg:city":"Kittery",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087449,
         85844265
     ],
+    "wof:brand_id":1125154993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TCxFyjVC0zPMG20UQXq0V_43.120050_-70.736778@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"21828bf654ef4c01cb46f1572372d744",
+    "wof:geomhash":"2b13988618a7ca34c30c6e5c9e1ecee5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387950909,
-    "wof:lastmodified":1466587291,
+    "wof:lastmodified":1510698768,
     "wof:name":"Ecolab Inc",
     "wof:parent_id":85844265,
     "wof:placetype":"venue",

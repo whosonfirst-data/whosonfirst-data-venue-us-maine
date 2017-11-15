@@ -2,14 +2,20 @@
   "id": 404118653,
   "type": "Feature",
   "properties": {
+    "addr:full":"62 Oak Ridge Rd Biddeford ME 04005",
+    "addr:housenumber":"62",
+    "addr:postcode":"04005",
+    "addr:street":"Oak Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.430011,43.435562,-70.430011,43.435562",
     "geom:latitude":43.435562,
     "geom:longitude":-70.430011,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"62 Oak Ridge Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087449,
         85836907
     ],
+    "wof:brand_id":1125150177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wHPZ9nWqlQEmhO6RtoAM7_43.435562_-70.430011@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf4466a87589ffbdcacb8a69db3ca6b1",
+    "wof:geomhash":"4805875573c128fc6a4fc046adbb6c7f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":404118653,
-    "wof:lastmodified":1466586275,
+    "wof:lastmodified":1510709552,
     "wof:name":"Bethany Baptist Church",
     "wof:parent_id":85836907,
     "wof:placetype":"venue",

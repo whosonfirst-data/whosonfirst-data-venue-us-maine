@@ -2,6 +2,10 @@
   "id": 403834367,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Main St Waterville ME 04901",
+    "addr:housenumber":"123",
+    "addr:postcode":"04901",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403834367,
-    "wof:lastmodified":1466586502,
+    "wof:lastmodified":1472627296,
     "wof:name":"Joe's Smoke Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

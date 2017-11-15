@@ -2,14 +2,20 @@
   "id": 403898937,
   "type": "Feature",
   "properties": {
+    "addr:full":"2841 Bennoch Rd Alton ME 04468",
+    "addr:housenumber":"2841",
+    "addr:postcode":"04468",
+    "addr:street":"Bennoch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.717878,45.00478,-68.717878,45.00478",
     "geom:latitude":45.00478,
     "geom:longitude":-68.717878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2841 Bennoch Rd",
     "sg:city":"Alton",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         85633793,
         85688769
     ],
+    "wof:brand_id":1125152345,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xmMDPtfQbViYMjxTgaFTn_45.004780_-68.717878@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a58724992f87e4fd5f98dc322c4c2d0a",
+    "wof:geomhash":"c3811efd9648f52a1d3de4c9ae48d560",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":403898937,
-    "wof:lastmodified":1466586922,
+    "wof:lastmodified":1510613372,
     "wof:name":"First Student Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

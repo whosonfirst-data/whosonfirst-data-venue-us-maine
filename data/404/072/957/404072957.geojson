@@ -2,14 +2,20 @@
   "id": 404072957,
   "type": "Feature",
   "properties": {
+    "addr:full":"835 Main St Westbrook ME 04092",
+    "addr:housenumber":"835",
+    "addr:postcode":"04092",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.366715,43.676802,-70.366715,43.676802",
     "geom:latitude":43.676802,
     "geom:longitude":-70.366715,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"835 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087463,
         85851275
     ],
+    "wof:brand_id":1125151877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wuLR2ndXVWyC9sF0Xxc1u_43.676802_-70.366715@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c9021058f22926daf054d457a0f85f1",
+    "wof:geomhash":"e17e35ec828825e924c22691905b4ca4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":404072957,
-    "wof:lastmodified":1466586598,
+    "wof:lastmodified":1510698676,
     "wof:name":"Banknorth",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 404218191,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 E Main St Fort Kent ME 04743",
+    "addr:housenumber":"81",
+    "addr:postcode":"04743",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.589937,47.257771,-68.589937,47.257771",
     "geom:latitude":47.257771,
     "geom:longitude":-68.589937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"81 E Main St",
     "sg:city":"Fort Kent",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102081161,
         85806971
     ],
+    "wof:brand_id":1125154815,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ttpdkRaI6Bqbj9chOKYAn_47.257771_-68.589937@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b8d213bd5785b148baa924bcce201b5",
+    "wof:geomhash":"12cccc21047cac0adf8bf0dfd56299dd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":404218191,
-    "wof:lastmodified":1466586908,
+    "wof:lastmodified":1510695891,
     "wof:name":"Total Look",
     "wof:parent_id":85806971,
     "wof:placetype":"venue",

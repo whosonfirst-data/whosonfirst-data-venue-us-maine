@@ -2,14 +2,20 @@
   "id": 387933943,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Commercial St Skowhegan ME 04915",
+    "addr:housenumber":"9",
+    "addr:postcode":"04915",
+    "addr:street":"Commercial St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.002334,44.4244,-69.002334,44.4244",
     "geom:latitude":44.4244,
     "geom:longitude":-69.002334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9 Commercial St",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087445,
         85824361
     ],
+    "wof:brand_id":1125156193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4t0s69NHMEiCNhfl5Yp1t3_44.424400_-69.002334@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"30b7db90a6da76cf47ed0bbbccefcfee",
+    "wof:geomhash":"39198e09f12e256adf3856fa4ffbbbf9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387933943,
-    "wof:lastmodified":1466587278,
+    "wof:lastmodified":1510694763,
     "wof:name":"Aubuchon Hardware",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",

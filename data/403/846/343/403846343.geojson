@@ -2,14 +2,20 @@
   "id": 403846343,
   "type": "Feature",
   "properties": {
+    "addr:full":"161 Seabury Rd York ME 03909",
+    "addr:housenumber":"161",
+    "addr:postcode":"03909",
+    "addr:street":"Seabury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.655014,43.129242,-70.655014,43.129242",
     "geom:latitude":43.129242,
     "geom:longitude":-70.655014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"161 Seabury Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102087449,
         85847555
     ],
+    "wof:brand_id":1125158989,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4h6gPsql9z1csqWPL4oR3b_43.129242_-70.655014@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"742395d5a330d15a684afd9299496709",
+    "wof:geomhash":"684933b045c37dbed21e89b2b11456a6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":403846343,
-    "wof:lastmodified":1466586821,
+    "wof:lastmodified":1510698690,
     "wof:name":"Fuller Brush Co",
     "wof:parent_id":85847555,
     "wof:placetype":"venue",

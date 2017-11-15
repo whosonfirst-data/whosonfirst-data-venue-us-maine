@@ -2,14 +2,20 @@
   "id": 404217313,
   "type": "Feature",
   "properties": {
+    "addr:full":"1485 Lisbon St Lewiston ME 04240",
+    "addr:housenumber":"1485",
+    "addr:postcode":"04240",
+    "addr:street":"Lisbon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.175907,44.072896,-70.175907,44.072896",
     "geom:latitude":44.072896,
     "geom:longitude":-70.175907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1485 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087457,
         85849833
     ],
+    "wof:brand_id":1125153379,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rQZvC881JndJjW2BdJiIi_44.072896_-70.175907@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"185c47cd2145c8fc5a91932d7075eed6",
+    "wof:geomhash":"dc42e47d12dfb01e4aa8f0cbb3b2450a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":404217313,
-    "wof:lastmodified":1466587081,
+    "wof:lastmodified":1510699526,
     "wof:name":"Family Chiropractic Ctr",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 404132917,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 College Hts Bangor ME 04473",
+    "addr:housenumber":"1",
+    "addr:postcode":"04473",
+    "addr:street":"College Hts",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.668122,44.891453,-68.668122,44.891453",
     "geom:latitude":44.891453,
     "geom:longitude":-68.668122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 College Hts",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102080723,
         85854941
     ],
+    "wof:brand_id":1125156007,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PX3FtyKx4onS4ahmCzSHg_44.891453_-68.668122@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb9b5938be90db252bba3fa6eaeb0801",
+    "wof:geomhash":"4764a8a99e13e8e65c7bbf9a6b271746",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":404132917,
-    "wof:lastmodified":1466586492,
+    "wof:lastmodified":1510697081,
     "wof:name":"US Small Business Adm",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",

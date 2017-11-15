@@ -2,6 +2,10 @@
   "id": 403725701,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Main St Oxford ME 04270",
+    "addr:housenumber":"701",
+    "addr:postcode":"04270",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403725701,
-    "wof:lastmodified":1466585912,
+    "wof:lastmodified":1472627211,
     "wof:name":"Police Dept",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",

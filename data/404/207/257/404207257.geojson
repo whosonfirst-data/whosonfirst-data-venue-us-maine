@@ -2,6 +2,10 @@
   "id": 404207257,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 Main St Westbrook ME 04092",
+    "addr:housenumber":"135",
+    "addr:postcode":"04092",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404207257,
-    "wof:lastmodified":1466586939,
+    "wof:lastmodified":1472627309,
     "wof:name":"Westport Bowling Lanes",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",

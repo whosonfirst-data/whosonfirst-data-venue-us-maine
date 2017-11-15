@@ -2,14 +2,20 @@
   "id": 403937099,
   "type": "Feature",
   "properties": {
+    "addr:full":"791 US Hwy 1 Yarmouth ME 04096",
+    "addr:housenumber":"791",
+    "addr:postcode":"04096",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.178152,43.804016,-70.178152,43.804016",
     "geom:latitude":43.804016,
     "geom:longitude":-70.178152,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"791 US Hwy 1",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087463,
         85859327
     ],
+    "wof:brand_id":1125151397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lDtXcOhZsO10VvfrkPI2q_43.804016_-70.178152@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"13230d68b6bb65998647d3869129434a",
+    "wof:geomhash":"272bf55cbbd82f8acad9806f13dbfc08",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403937099,
-    "wof:lastmodified":1466587040,
+    "wof:lastmodified":1510613539,
     "wof:name":"Texaco Xpress Lube",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",

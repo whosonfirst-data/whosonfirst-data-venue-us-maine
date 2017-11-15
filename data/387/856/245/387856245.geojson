@@ -2,14 +2,20 @@
   "id": 387856245,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Gurnet Rd Brunswick ME 04011",
+    "addr:housenumber":"8",
+    "addr:postcode":"04011",
+    "addr:street":"Gurnet Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.915563,43.906237,-69.915563,43.906237",
     "geom:latitude":43.906237,
     "geom:longitude":-69.915563,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8 Gurnet Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -28,12 +34,13 @@
         85633793,
         85688769
     ],
+    "wof:brand_id":1125153169,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3awRgZcrot5rD7Fz7gzQiP_43.906237_-69.915563@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce6477c9f4b380744f45272b4129c482",
+    "wof:geomhash":"ceae9eb027ea0e66236f62aa1609ecfa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":387856245,
-    "wof:lastmodified":1466587175,
+    "wof:lastmodified":1510694657,
     "wof:name":"Olympia Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

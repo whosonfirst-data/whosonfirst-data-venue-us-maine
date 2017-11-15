@@ -2,14 +2,20 @@
   "id": 404080387,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Winslow Homer Rd Scarborough ME 04074",
+    "addr:housenumber":"8",
+    "addr:postcode":"04074",
+    "addr:street":"Winslow Homer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.319605,43.528726,-70.319605,43.528726",
     "geom:latitude":43.528726,
     "geom:longitude":-70.319605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8 Winslow Homer Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102087463,
         85843227
     ],
+    "wof:brand_id":1125153417,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YmGpKuamxZ2QlR2VYJoBL_43.528726_-70.319605@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d22d31edda60baa43de9cc9481d061cf",
+    "wof:geomhash":"25d597e236bbc3a9ea33faf85db6e28e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":404080387,
-    "wof:lastmodified":1466585742,
+    "wof:lastmodified":1510695028,
     "wof:name":"St James Episcopal Church",
     "wof:parent_id":85843227,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 404152555,
   "type": "Feature",
   "properties": {
+    "addr:full":"1033 Main St Old Town ME 04468",
+    "addr:housenumber":"1033",
+    "addr:postcode":"04468",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.64356,44.906694,-68.64356,44.906694",
     "geom:latitude":44.906694,
     "geom:longitude":-68.64356,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1033 Main St",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102080723,
         85854941
     ],
+    "wof:brand_id":1125157993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25yGdVLHKA1Nd6z3Atpa6P_44.906694_-68.643560@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e0aabd01fc8a70ed40717a845ff4e08f",
+    "wof:geomhash":"9e1335b39a2a482e92e1f823e51fc1a2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":404152555,
-    "wof:lastmodified":1466586732,
+    "wof:lastmodified":1510693782,
     "wof:name":"US Fish & Wildlife Dept Svc",
     "wof:parent_id":85854941,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 387776483,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Forest Ave Portland ME 04101",
+    "addr:housenumber":"125",
+    "addr:postcode":"04101",
+    "addr:street":"Forest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387776483,
-    "wof:lastmodified":1466586984,
+    "wof:lastmodified":1472627338,
     "wof:name":"US Post Office",
     "wof:parent_id":85880027,
     "wof:placetype":"venue",

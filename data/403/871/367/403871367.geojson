@@ -2,6 +2,10 @@
   "id": 403871367,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Main St Brownfield ME 04010",
+    "addr:housenumber":"106",
+    "addr:postcode":"04010",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":403871367,
-    "wof:lastmodified":1466586880,
+    "wof:lastmodified":1472627302,
     "wof:name":"US Post Office",
     "wof:parent_id":85816061,
     "wof:placetype":"venue",

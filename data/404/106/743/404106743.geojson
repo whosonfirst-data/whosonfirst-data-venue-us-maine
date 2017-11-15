@@ -2,14 +2,20 @@
   "id": 404106743,
   "type": "Feature",
   "properties": {
+    "addr:full":"1570 Main St Oxford ME 04270",
+    "addr:housenumber":"1570",
+    "addr:postcode":"04270",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.525369,44.194928,-70.525369,44.194928",
     "geom:latitude":44.194928,
     "geom:longitude":-70.525369,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1570 Main St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         102087437,
         85868781
     ],
+    "wof:brand_id":1125153411,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wpo110Srp4xBLLomZucVn_44.194928_-70.525369@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"428e0bace516710f2be570595f276730",
+    "wof:geomhash":"09b9fc0b59ee331cba1e439add7efea5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":404106743,
-    "wof:lastmodified":1466586094,
+    "wof:lastmodified":1510695030,
     "wof:name":"Natural Resource Conservation",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",

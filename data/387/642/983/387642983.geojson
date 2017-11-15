@@ -2,6 +2,10 @@
   "id": 387642983,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Harry Harmon Dr Portland ME 04102",
+    "addr:housenumber":"10",
+    "addr:postcode":"04102",
+    "addr:street":"Harry Harmon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387642983,
-    "wof:lastmodified":1466585915,
+    "wof:lastmodified":1472627261,
     "wof:name":"Casco Bay Surgery",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",

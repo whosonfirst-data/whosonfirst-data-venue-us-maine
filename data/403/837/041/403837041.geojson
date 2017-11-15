@@ -2,14 +2,20 @@
   "id": 403837041,
   "type": "Feature",
   "properties": {
+    "addr:full":"343 Gorham Rd South Portland ME 04106",
+    "addr:housenumber":"343",
+    "addr:postcode":"04106",
+    "addr:street":"Gorham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.33545,43.637119,-70.33545,43.637119",
     "geom:latitude":43.637119,
     "geom:longitude":-70.33545,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"343 Gorham Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087463,
         85851275
     ],
+    "wof:brand_id":1125152299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cxMRb5wDh1ISCAldyZL42_43.637119_-70.335450@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1bebf46727b3b1cae1cf1ea5b0c9790",
+    "wof:geomhash":"a123b72d9a6ca66ffb6e48d2d140a935",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403837041,
-    "wof:lastmodified":1466586550,
+    "wof:lastmodified":1510695698,
     "wof:name":"Pella Window & Door Co",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",

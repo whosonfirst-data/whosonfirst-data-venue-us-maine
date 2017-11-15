@@ -2,14 +2,20 @@
   "id": 404173763,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Saint John St Portland ME 04102",
+    "addr:housenumber":"222",
+    "addr:postcode":"04102",
+    "addr:street":"Saint John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.278938,43.649971,-70.278938,43.649971",
     "geom:latitude":43.649971,
     "geom:longitude":-70.278938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"222 Saint John St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087463,
         85880029
     ],
+    "wof:brand_id":1125150157,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eQHR2HgnUJZnGsm1YZuNZ_43.649971_-70.278938@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"f5577b200d38421b0120149648fc8b65",
+    "wof:geomhash":"8322bfdc1e48b56b97a4a9787874b814",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":404173763,
-    "wof:lastmodified":1466586793,
+    "wof:lastmodified":1510682138,
     "wof:name":"Hair It Is",
     "wof:parent_id":85880029,
     "wof:placetype":"venue",

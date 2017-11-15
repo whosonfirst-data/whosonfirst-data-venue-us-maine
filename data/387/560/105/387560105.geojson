@@ -2,14 +2,20 @@
   "id": 387560105,
   "type": "Feature",
   "properties": {
+    "addr:full":"68 Marginal Way Portland ME 04101",
+    "addr:housenumber":"68",
+    "addr:postcode":"04101",
+    "addr:street":"Marginal Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.267668,43.660413,-70.267668,43.660413",
     "geom:latitude":43.660413,
     "geom:longitude":-70.267668,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"68 Marginal Way",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087463,
         85880031
     ],
+    "wof:brand_id":1125153193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2J0ZvSgGL1eF1Hxesv9EXa_43.660413_-70.267668@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"85f061b0eca41cfc8ccba7ca37f65896",
+    "wof:geomhash":"c8d47327b11f185bee583f9f1eec8ac8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387560105,
-    "wof:lastmodified":1466585765,
+    "wof:lastmodified":1510694008,
     "wof:name":"AAA Travel Agency",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 403845725,
   "type": "Feature",
   "properties": {
+    "addr:full":"1567 Lisbon St Lewiston ME 04240",
+    "addr:housenumber":"1567",
+    "addr:postcode":"04240",
+    "addr:street":"Lisbon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.170566,44.070383,-70.170566,44.070383",
     "geom:latitude":44.070383,
     "geom:longitude":-70.170566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1567 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087457,
         85849833
     ],
+    "wof:brand_id":1125154541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Q2EFhibLRiIxihMd7nWb6_44.070383_-70.170566@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f7bcc87fcc727ec3277677cd5dc6b18",
+    "wof:geomhash":"dbd3e2a4217542be1e3e832e74d17679",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403845725,
-    "wof:lastmodified":1466586638,
+    "wof:lastmodified":1510699046,
     "wof:name":"Legends",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",

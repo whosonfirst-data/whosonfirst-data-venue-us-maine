@@ -2,14 +2,20 @@
   "id": 403832171,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 Center St Auburn ME 04210",
+    "addr:housenumber":"155",
+    "addr:postcode":"04210",
+    "addr:street":"Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.225727,44.106162,-70.225727,44.106162",
     "geom:latitude":44.106162,
     "geom:longitude":-70.225727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"155 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087457,
         85836549
     ],
+    "wof:brand_id":1125150593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bjPg89l1ndAKYdmkLskxD_44.106162_-70.225727@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"9dd8b09030745d6896a236b7950e17fe",
+    "wof:geomhash":"7825ae5ff57b493981ff86927b04056c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403832171,
-    "wof:lastmodified":1466586468,
+    "wof:lastmodified":1510613420,
     "wof:name":"Lutheran Social Svc",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",

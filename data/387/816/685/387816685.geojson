@@ -2,14 +2,20 @@
   "id": 387816685,
   "type": "Feature",
   "properties": {
+    "addr:full":"884 Lisbon St Lewiston ME 04240",
+    "addr:housenumber":"884",
+    "addr:postcode":"04240",
+    "addr:street":"Lisbon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.201994,44.083881,-70.201994,44.083881",
     "geom:latitude":44.083881,
     "geom:longitude":-70.201994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"884 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087457,
         85836549
     ],
+    "wof:brand_id":1125150319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OJNpZ7jZfzI96vGe53vjw_44.083881_-70.201994@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c193b4e2db880c2c03d2d53c76d8661d",
+    "wof:geomhash":"9bb495f53fa90b91d844eb20f03618f1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387816685,
-    "wof:lastmodified":1466587016,
+    "wof:lastmodified":1510697394,
     "wof:name":"Color Tyme",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",

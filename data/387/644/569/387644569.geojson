@@ -2,14 +2,20 @@
   "id": 387644569,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Auburn St Portland ME 04103",
+    "addr:housenumber":"91",
+    "addr:postcode":"04103",
+    "addr:street":"Auburn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.288961,43.701727,-70.288961,43.701727",
     "geom:latitude":43.701727,
     "geom:longitude":-70.288961,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"91 Auburn St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087463,
         85837549
     ],
+    "wof:brand_id":1125152455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bsztX20rw20vWOR9yjnf2_43.701727_-70.288961@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a286d0442f88c948e7e21d5a2cb428ae",
+    "wof:geomhash":"0f652d270c9b47f885a0381f1460b0aa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387644569,
-    "wof:lastmodified":1466586733,
+    "wof:lastmodified":1510695961,
     "wof:name":"Catalina Marketing Corp",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",

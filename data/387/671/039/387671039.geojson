@@ -2,14 +2,20 @@
   "id": 387671039,
   "type": "Feature",
   "properties": {
+    "addr:full":"148 Middle St Portland ME 04101",
+    "addr:housenumber":"148",
+    "addr:postcode":"04101",
+    "addr:street":"Middle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.253607,43.658202,-70.253607,43.658202",
     "geom:latitude":43.658202,
     "geom:longitude":-70.253607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"148 Middle St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087463,
         85882031
     ],
+    "wof:brand_id":1125154005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xZvcur9lwFKq8EBphVKBg_43.658202_-70.253607@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa52efc3b8bb1bdfe5ab841f4ac07b7a",
+    "wof:geomhash":"05191bd70a6a0eddf119ab1fb04ef8f4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387671039,
-    "wof:lastmodified":1466586296,
+    "wof:lastmodified":1510695150,
     "wof:name":"TGI Fridays",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",

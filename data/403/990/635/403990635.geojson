@@ -2,14 +2,20 @@
   "id": 403990635,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 Bucksport Rd Ellsworth ME 04605",
+    "addr:housenumber":"121",
+    "addr:postcode":"04605",
+    "addr:street":"Bucksport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.438141,44.53919,-68.438141,44.53919",
     "geom:latitude":44.53919,
     "geom:longitude":-68.438141,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"121 Bucksport Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102081201,
         85817861
     ],
+    "wof:brand_id":1125152117,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vCKD16Tm1mCFF16CVHoUO_44.539190_-68.438141@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"f4afd1fec04b2186bab97dd6de111e54",
+    "wof:geomhash":"d242bb8366a4ba8988579165528bd215",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403990635,
-    "wof:lastmodified":1466587250,
+    "wof:lastmodified":1510613197,
     "wof:name":"Unitarian Universalist Church",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",

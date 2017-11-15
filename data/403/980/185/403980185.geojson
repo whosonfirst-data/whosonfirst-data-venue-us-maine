@@ -2,14 +2,20 @@
   "id": 403980185,
   "type": "Feature",
   "properties": {
+    "addr:full":"1035 Lisbon St Lewiston ME 04240",
+    "addr:housenumber":"1035",
+    "addr:postcode":"04240",
+    "addr:street":"Lisbon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.197296,44.08146,-70.197296,44.08146",
     "geom:latitude":44.08146,
     "geom:longitude":-70.197296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1035 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087457,
         85836549
     ],
+    "wof:brand_id":1125152455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ubS4vfgWSD0mfcyh7bCev_44.081460_-70.197296@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ea530aafd5fe0fcb8b403697c8288c87",
+    "wof:geomhash":"1716df179e7923bef3704b2aec98df85",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403980185,
-    "wof:lastmodified":1466587056,
+    "wof:lastmodified":1510695961,
     "wof:name":"Catalina Marketing Corp",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",

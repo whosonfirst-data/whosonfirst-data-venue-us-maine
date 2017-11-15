@@ -2,6 +2,10 @@
   "id": 403713871,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Acme Rd Brewer ME 04412",
+    "addr:housenumber":"15",
+    "addr:postcode":"04412",
+    "addr:street":"Acme Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403713871,
-    "wof:lastmodified":1466586632,
+    "wof:lastmodified":1472627188,
     "wof:name":"W S Emerson Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

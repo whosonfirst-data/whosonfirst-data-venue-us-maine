@@ -2,6 +2,10 @@
   "id": 403801001,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 Country Ln Durham ME 04222",
+    "addr:housenumber":"127",
+    "addr:postcode":"04222",
+    "addr:street":"Country Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403801001,
-    "wof:lastmodified":1466585962,
+    "wof:lastmodified":1472627279,
     "wof:name":"Garneau's Plumbing",
     "wof:parent_id":85806367,
     "wof:placetype":"venue",

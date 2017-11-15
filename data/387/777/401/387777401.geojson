@@ -2,14 +2,20 @@
   "id": 387777401,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Pool Dr Fort Fairfield ME 04742",
+    "addr:housenumber":"10",
+    "addr:postcode":"04742",
+    "addr:street":"Pool Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-67.836072,46.771804,-67.836072,46.771804",
     "geom:latitude":46.771804,
     "geom:longitude":-67.836072,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 Pool Dr",
     "sg:city":"Fort Fairfield",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081161,
         85843087
     ],
+    "wof:brand_id":1125152745,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aeo7i4FwRU6GLqLYuKe9v_46.771804_-67.836072@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"90b3fb12e97698e248b3f12a0d55ecab",
+    "wof:geomhash":"ba25e21ae51ddb8f4bf98eb3f6a7e679",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387777401,
-    "wof:lastmodified":1466586993,
+    "wof:lastmodified":1510613090,
     "wof:name":"Swimming Pool",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",

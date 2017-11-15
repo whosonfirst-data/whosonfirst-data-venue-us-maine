@@ -2,14 +2,20 @@
   "id": 403777929,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Stone St Augusta ME 04330",
+    "addr:housenumber":"33",
+    "addr:postcode":"04330",
+    "addr:street":"Stone St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.765824,44.314254,-69.765824,44.314254",
     "geom:latitude":44.314254,
     "geom:longitude":-69.765824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"33 Stone St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087461,
         85822525
     ],
+    "wof:brand_id":1125151613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xgMLDlzgWTdIrV2tCVu2T_44.314254_-69.765824@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"5a951f4117988d6e4af36ad570743f30",
+    "wof:geomhash":"d2f8b2357ae7d29353ce4a676c8bf29a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403777929,
-    "wof:lastmodified":1466586683,
+    "wof:lastmodified":1510696954,
     "wof:name":"US Internal Revenue Svc",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",

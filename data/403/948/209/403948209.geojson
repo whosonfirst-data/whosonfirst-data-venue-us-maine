@@ -2,14 +2,20 @@
   "id": 403948209,
   "type": "Feature",
   "properties": {
+    "addr:full":"243 Main St Paris ME 04270",
+    "addr:housenumber":"243",
+    "addr:postcode":"04270",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.455164,44.127551,-70.455164,44.127551",
     "geom:latitude":44.127551,
     "geom:longitude":-70.455164,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"243 Main St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         102087437,
         85868781
     ],
+    "wof:brand_id":1125153169,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QXAKhYEUZa2DD5fWQtrXZ_44.127551_-70.455164@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"457aff4ff077401ad8ec61c578715605",
+    "wof:geomhash":"5379b2b8f141c38b4be89c588c14fe8a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":403948209,
-    "wof:lastmodified":1466587061,
+    "wof:lastmodified":1510694657,
     "wof:name":"Olympia Sports",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",

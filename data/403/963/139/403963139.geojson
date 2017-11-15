@@ -2,14 +2,20 @@
   "id": 403963139,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 Park St Rockland ME 04841",
+    "addr:housenumber":"275",
+    "addr:postcode":"04841",
+    "addr:street":"Park St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.130826,44.10152,-69.130826,44.10152",
     "geom:latitude":44.10152,
     "geom:longitude":-69.130826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"275 Park St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85948859,
         102087453
     ],
+    "wof:brand_id":1125152419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L3vj7XUV7G4Je5pfyV27g_44.101520_-69.130826@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"db9e2278b681114dde3fc7ae25e990e6",
+    "wof:geomhash":"b1449925a6022248cc7038bcd59cabe3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403963139,
-    "wof:lastmodified":1466587113,
+    "wof:lastmodified":1510694884,
     "wof:name":"Park Place Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

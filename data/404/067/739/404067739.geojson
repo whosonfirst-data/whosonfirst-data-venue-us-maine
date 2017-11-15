@@ -2,14 +2,20 @@
   "id": 404067739,
   "type": "Feature",
   "properties": {
+    "addr:full":"295 Park Ave Portland ME 04102",
+    "addr:housenumber":"295",
+    "addr:postcode":"04102",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.279512,43.655873,-70.279512,43.655873",
     "geom:latitude":43.655873,
     "geom:longitude":-70.279512,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"295 Park Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85948877,
         102087463
     ],
+    "wof:brand_id":1125155113,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w0G7wP6RJMkdio7vKnWiv_43.655873_-70.279512@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"2946b1b02a31b0173635d93a738d1146",
+    "wof:geomhash":"b28777708eb4382a78c21cf8bc7f52bb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":404067739,
-    "wof:lastmodified":1466586534,
+    "wof:lastmodified":1510696829,
     "wof:name":"Dermatology Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

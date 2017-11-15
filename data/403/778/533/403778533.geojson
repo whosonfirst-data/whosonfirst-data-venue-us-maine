@@ -2,14 +2,20 @@
   "id": 403778533,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Dumont Ave Lewiston ME 04240",
+    "addr:housenumber":"123",
+    "addr:postcode":"04240",
+    "addr:street":"Dumont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.198729,44.081057,-70.198729,44.081057",
     "geom:latitude":44.081057,
     "geom:longitude":-70.198729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 Dumont Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087457,
         85836549
     ],
+    "wof:brand_id":1125154987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ay46TZiasGdya6OxvtaN5_44.081057_-70.198729@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"228016fa2c831570424714e3cd978565",
+    "wof:geomhash":"ca045666b9296df2ba748a45e32bab5d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":403778533,
-    "wof:lastmodified":1466586609,
+    "wof:lastmodified":1510695871,
     "wof:name":"Dominican Sisters",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",

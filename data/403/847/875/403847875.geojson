@@ -2,14 +2,20 @@
   "id": 403847875,
   "type": "Feature",
   "properties": {
+    "addr:full":"67 Camden St Rockport ME 04856",
+    "addr:housenumber":"67",
+    "addr:postcode":"04856",
+    "addr:street":"Camden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.075962,44.195694,-69.075962,44.195694",
     "geom:latitude":44.195694,
     "geom:longitude":-69.075962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"67 Camden St",
     "sg:city":"Rockport",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102087453,
         85833741
     ],
+    "wof:brand_id":1125151475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CV7zz3JAtOT3jNP8I6k6s_44.195694_-69.075962@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1643d545c8e3ac7de9841dbfd6c7f05",
+    "wof:geomhash":"72b383e22c6f0288453fa13be30ec142",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":403847875,
-    "wof:lastmodified":1466586708,
+    "wof:lastmodified":1510698967,
     "wof:name":"LDS Missionaries",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387761803,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 Springer Dr Bangor ME 04401",
+    "addr:housenumber":"46",
+    "addr:postcode":"04401",
+    "addr:street":"Springer Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.740592,44.835946,-68.740592,44.835946",
     "geom:latitude":44.835946,
     "geom:longitude":-68.740592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"46 Springer Dr",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102080723,
         85851073
     ],
+    "wof:brand_id":1125158855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4W0FvbgQ1ud7cUWbgTxm3o_44.835946_-68.740592@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"dad554ae497685b67df1a71fb9a09037",
+    "wof:geomhash":"989b00f3bb2c9bcbd08dafffbc08559d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387761803,
-    "wof:lastmodified":1466586868,
+    "wof:lastmodified":1510695065,
     "wof:name":"Shaw's Supermarket",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",

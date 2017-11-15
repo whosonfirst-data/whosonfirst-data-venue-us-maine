@@ -2,14 +2,20 @@
   "id": 404140445,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 Harlow St Bangor ME 04401",
+    "addr:housenumber":"324",
+    "addr:postcode":"04401",
+    "addr:street":"Harlow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.774948,44.805913,-68.774948,44.805913",
     "geom:latitude":44.805913,
     "geom:longitude":-68.774948,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"324 Harlow St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102080723,
         85816381
     ],
+    "wof:brand_id":1125151613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tL2tWRgY0uaxLxIAZYL8F_44.805913_-68.774948@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"535d17f4442e4bf56197ec9ad2553878",
+    "wof:geomhash":"8cec925722947a4467d13350eeed914a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":404140445,
-    "wof:lastmodified":1466586607,
+    "wof:lastmodified":1510696954,
     "wof:name":"US Internal Revenue Svc",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",

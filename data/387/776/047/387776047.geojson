@@ -2,14 +2,20 @@
   "id": 387776047,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Bishop St Portland ME 04103",
+    "addr:housenumber":"9",
+    "addr:postcode":"04103",
+    "addr:street":"Bishop St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.294862,43.687625,-70.294862,43.687625",
     "geom:latitude":43.687625,
     "geom:longitude":-70.294862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9 Bishop St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087463,
         85837549
     ],
+    "wof:brand_id":1125155779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Wbhoa1eFMvCL9woPXRg3G_43.687625_-70.294862@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e0c695fccb6d218eaab1e4eba6bdd864",
+    "wof:geomhash":"da15d84dbef70f94ed41d6655a55b004",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387776047,
-    "wof:lastmodified":1466586977,
+    "wof:lastmodified":1510695339,
     "wof:name":"Laundry Basket",
     "wof:parent_id":85837549,
     "wof:placetype":"venue",

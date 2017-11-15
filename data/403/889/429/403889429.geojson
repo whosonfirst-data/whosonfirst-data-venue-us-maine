@@ -2,14 +2,20 @@
   "id": 403889429,
   "type": "Feature",
   "properties": {
+    "addr:full":"180 Center St Auburn ME 04210",
+    "addr:housenumber":"180",
+    "addr:postcode":"04210",
+    "addr:street":"Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.22568,44.109021,-70.22568,44.109021",
     "geom:latitude":44.109021,
     "geom:longitude":-70.22568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"180 Center St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102087457,
         85836549
     ],
+    "wof:brand_id":1125158543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11AjCHG8spSPbATVBPycFL_44.109021_-70.225680@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"37629e3827eca8254e99a90ec5ba890a",
+    "wof:geomhash":"d666f7126dbb463e5cf431e74903ed1b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":403889429,
-    "wof:lastmodified":1466586879,
+    "wof:lastmodified":1510699702,
     "wof:name":"Ground Round",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",

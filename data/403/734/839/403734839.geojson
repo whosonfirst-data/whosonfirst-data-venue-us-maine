@@ -2,14 +2,20 @@
   "id": 403734839,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 College Ave Waterville ME 04901",
+    "addr:housenumber":"122",
+    "addr:postcode":"04901",
+    "addr:street":"College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.624642,44.564902,-69.624642,44.564902",
     "geom:latitude":44.564902,
     "geom:longitude":-69.624642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"122 College Ave",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85948869,
         102087461
     ],
+    "wof:brand_id":1125151669,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dc79gOQxVk13Olhvs5ryQ_44.564902_-69.624642@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"82ea1a35c4f87cc0ae810d0fd1eac190",
+    "wof:geomhash":"67994ef97613be3303bdc49cc781efd7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":403734839,
-    "wof:lastmodified":1466586033,
+    "wof:lastmodified":1510613281,
     "wof:name":"Total Image",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

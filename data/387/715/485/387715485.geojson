@@ -2,14 +2,20 @@
   "id": 387715485,
   "type": "Feature",
   "properties": {
+    "addr:full":"295 Gannett Dr South Portland ME 04106",
+    "addr:housenumber":"295",
+    "addr:postcode":"04106",
+    "addr:street":"Gannett Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.35325,43.640496,-70.35325,43.640496",
     "geom:latitude":43.640496,
     "geom:longitude":-70.35325,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"295 Gannett Dr",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087463,
         85851275
     ],
+    "wof:brand_id":1125159359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PJG01OzFxO3zLq5q0Btex_43.640496_-70.353250@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec561203f19f7248e4faabe4e2959f1b",
+    "wof:geomhash":"b7decd7f23e0ae3de27e791e19dd09b3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387715485,
-    "wof:lastmodified":1466586792,
+    "wof:lastmodified":1510699283,
     "wof:name":"Ryder Integrated Logistics Inc",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387868521,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Market St Saco ME 04072",
+    "addr:housenumber":"16",
+    "addr:postcode":"04072",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.458721,43.501152,-70.458721,43.501152",
     "geom:latitude":43.501152,
     "geom:longitude":-70.458721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16 Market St",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087449,
         85819479
     ],
+    "wof:brand_id":1125153177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34nyWlSJpcuhWBd7wN5XyL_43.501152_-70.458721@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c67dc7128979358e5eac0f0a30834721",
+    "wof:geomhash":"a25eeb3b0aeaa800195b2d1753826984",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387868521,
-    "wof:lastmodified":1466587202,
+    "wof:lastmodified":1510712741,
     "wof:name":"Sew What",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",

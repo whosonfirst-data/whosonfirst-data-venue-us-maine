@@ -2,14 +2,20 @@
   "id": 403723157,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Hayes St Bangor ME 04401",
+    "addr:housenumber":"28",
+    "addr:postcode":"04401",
+    "addr:street":"Hayes St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.806696,44.807415,-68.806696,44.807415",
     "geom:latitude":44.807415,
     "geom:longitude":-68.806696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"28 Hayes St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102080723,
         85816381
     ],
+    "wof:brand_id":1125158885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Agq5VXYQGinYbCUTzty7P_44.807415_-68.806696@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9478240d8c4aaaeb6f01ac319901ed8",
+    "wof:geomhash":"8e7ef8b6c55b27ea41aadfa61efb7b19",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403723157,
-    "wof:lastmodified":1466585882,
+    "wof:lastmodified":1510693228,
     "wof:name":"US Army National Guard Recruit",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",

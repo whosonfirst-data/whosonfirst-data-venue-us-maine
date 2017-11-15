@@ -2,14 +2,20 @@
   "id": 403795831,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 East Ave Lewiston ME 04240",
+    "addr:housenumber":"20",
+    "addr:postcode":"04240",
+    "addr:street":"East Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.201066,44.08663,-70.201066,44.08663",
     "geom:latitude":44.08663,
     "geom:longitude":-70.201066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 East Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087457,
         85836549
     ],
+    "wof:brand_id":1125153169,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15h4qRFFJNCJPrANqwunQ5_44.086630_-70.201066@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb50a02f2d89ce054eeacba49737a256",
+    "wof:geomhash":"9ac38b58fdc1197c583aa66f08ffc98c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":403795831,
-    "wof:lastmodified":1466585886,
+    "wof:lastmodified":1510694657,
     "wof:name":"Olympia Sports",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",

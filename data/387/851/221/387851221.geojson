@@ -2,14 +2,20 @@
   "id": 387851221,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Thomas Dr Westbrook ME 04092",
+    "addr:housenumber":"39",
+    "addr:postcode":"04092",
+    "addr:street":"Thomas Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.349513,43.649163,-70.349513,43.649163",
     "geom:latitude":43.649163,
     "geom:longitude":-70.349513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"39 Thomas Dr",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087463,
         85851275
     ],
+    "wof:brand_id":1125159437,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fv3OytnTcTOwU2zzT5NGu_43.649163_-70.349513@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d770003e3df26c2da731ddc686bc43ee",
+    "wof:geomhash":"eae179c657e5909b08ac23ef69033a76",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387851221,
-    "wof:lastmodified":1466587224,
+    "wof:lastmodified":1510697978,
     "wof:name":"Wingfoot Commercial Tire Systs",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",

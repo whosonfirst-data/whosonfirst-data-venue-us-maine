@@ -2,14 +2,20 @@
   "id": 387929379,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 River Rd Newcastle ME 04553",
+    "addr:housenumber":"27",
+    "addr:postcode":"04553",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.539825,44.032553,-69.539825,44.032553",
     "geom:latitude":44.032553,
     "geom:longitude":-69.539825,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"27 River Rd",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85948963,
         102087447
     ],
+    "wof:brand_id":1125159279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h1sjosVPlxt7OsIorXzGo_44.032553_-69.539825@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"21da98b89dd1f2ba791fbed83cbdff9d",
+    "wof:geomhash":"58a0175e410278dc56cc3aecf0d4ff60",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387929379,
-    "wof:lastmodified":1466587270,
+    "wof:lastmodified":1510604899,
     "wof:name":"Healing Hands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

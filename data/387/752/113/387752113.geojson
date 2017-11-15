@@ -2,14 +2,20 @@
   "id": 387752113,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 Payne Rd Scarborough ME 04074",
+    "addr:housenumber":"417",
+    "addr:postcode":"04074",
+    "addr:street":"Payne Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.352195,43.619752,-70.352195,43.619752",
     "geom:latitude":43.619752,
     "geom:longitude":-70.352195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"417 Payne Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087463,
         85817653
     ],
+    "wof:brand_id":1125152455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ys5bIbzQkXo5jw178WTqj_43.619752_-70.352195@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"0ee7b6a4a5083dae5b6618ce853667b9",
+    "wof:geomhash":"3cf837b13df2770680855c8aee1f2468",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387752113,
-    "wof:lastmodified":1466586902,
+    "wof:lastmodified":1510695961,
     "wof:name":"Catalina Marketing Corp",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",

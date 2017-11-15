@@ -2,14 +2,20 @@
   "id": 387722287,
   "type": "Feature",
   "properties": {
+    "addr:full":"430 Gorham Rd South Portland ME 04106",
+    "addr:housenumber":"430",
+    "addr:postcode":"04106",
+    "addr:street":"Gorham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.334198,43.636813,-70.334198,43.636813",
     "geom:latitude":43.636813,
     "geom:longitude":-70.334198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"430 Gorham Rd",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087463,
         85817653
     ],
+    "wof:brand_id":1125154285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mPANXm59qluVxpsaEQI4d_43.636813_-70.334198@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb9515541a12f4b122d85f3c154e5537",
+    "wof:geomhash":"11b5498dc084b29bb4955c6bba5bb268",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387722287,
-    "wof:lastmodified":1466586811,
+    "wof:lastmodified":1510693856,
     "wof:name":"Borders Books Music & Cafe",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",

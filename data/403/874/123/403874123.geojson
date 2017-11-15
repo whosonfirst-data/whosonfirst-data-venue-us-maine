@@ -2,14 +2,20 @@
   "id": 403874123,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 Hatchery Rd East Orland ME 04472",
+    "addr:housenumber":"306",
+    "addr:postcode":"04472",
+    "addr:street":"Hatchery Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.687957,44.583569,-68.687957,44.583569",
     "geom:latitude":44.583569,
     "geom:longitude":-68.687957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"306 Hatchery Rd",
     "sg:city":"East Orland",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85633793,
         85688769
     ],
+    "wof:brand_id":1125157993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1C0SQIdQg49PSz4SK4Wqvl_44.583569_-68.687957@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"66ef6e6f3937d3849e8b0aabe09ea3ac",
+    "wof:geomhash":"4896e44cee219b54d78362dd2dc67dc9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":403874123,
-    "wof:lastmodified":1466586816,
+    "wof:lastmodified":1510693782,
     "wof:name":"US Fish & Wildlife Dept Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

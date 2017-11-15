@@ -2,14 +2,20 @@
   "id": 387876931,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Plummer St Kennebunk ME 04043",
+    "addr:housenumber":"2",
+    "addr:postcode":"04043",
+    "addr:street":"Plummer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.525451,43.385078,-70.525451,43.385078",
     "geom:latitude":43.385078,
     "geom:longitude":-70.525451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Plummer St",
     "sg:city":"Kennebunk",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087449,
         85828039
     ],
+    "wof:brand_id":1125154969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18NoacQp8maZTUZ0GkRUjU_43.385078_-70.525451@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b7e385e3f6d54f4ac8b423dd20bea31f",
+    "wof:geomhash":"48e1bea76c0e6095265ebf161d6c7b26",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387876931,
-    "wof:lastmodified":1466587291,
+    "wof:lastmodified":1510695245,
     "wof:name":"At Your Svc",
     "wof:parent_id":85828039,
     "wof:placetype":"venue",

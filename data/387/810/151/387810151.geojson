@@ -2,14 +2,20 @@
   "id": 387810151,
   "type": "Feature",
   "properties": {
+    "addr:full":"491 Payne Rd Scarborough ME 04074",
+    "addr:housenumber":"491",
+    "addr:postcode":"04074",
+    "addr:street":"Payne Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.345632,43.627649,-70.345632,43.627649",
     "geom:latitude":43.627649,
     "geom:longitude":-70.345632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"491 Payne Rd",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087463,
         85817653
     ],
+    "wof:brand_id":1125153329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zvxAqTmZdqeNqh3zcMYvR_43.627649_-70.345632@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a105dc9d620164fefe624f20ea011e38",
+    "wof:geomhash":"5a4a075e5378c3e44721434fe5ec1d27",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387810151,
-    "wof:lastmodified":1466587084,
+    "wof:lastmodified":1510693793,
     "wof:name":"Pizza Plus",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",

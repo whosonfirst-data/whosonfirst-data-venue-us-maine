@@ -2,6 +2,10 @@
   "id": 387603483,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Center Rd Loring Cm Ctr ME 04740",
+    "addr:housenumber":"32",
+    "addr:postcode":"04740",
+    "addr:street":"Center Rd;Cm Ctr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387603483,
-    "wof:lastmodified":1466586399,
+    "wof:lastmodified":1472627225,
     "wof:name":"Military Bureau",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",

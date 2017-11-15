@@ -2,14 +2,20 @@
   "id": 404041407,
   "type": "Feature",
   "properties": {
+    "addr:full":"745 Roosevelt Trl Windham ME 04062",
+    "addr:housenumber":"745",
+    "addr:postcode":"04062",
+    "addr:street":"Roosevelt Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.44898,43.849438,-70.44898,43.849438",
     "geom:latitude":43.849438,
     "geom:longitude":-70.44898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"745 Roosevelt Trl",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087463,
         85838179
     ],
+    "wof:brand_id":1125156871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1djw8ZIipnvi9te2G9nZso_43.849438_-70.448980@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"59c5f1ffa35fc2906dab212f1f1b675b",
+    "wof:geomhash":"3344d59d082fc33b662236f4ce167912",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":404041407,
-    "wof:lastmodified":1466586103,
+    "wof:lastmodified":1510696999,
     "wof:name":"Upper Cut",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",

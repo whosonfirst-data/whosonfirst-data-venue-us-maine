@@ -2,14 +2,20 @@
   "id": 403852163,
   "type": "Feature",
   "properties": {
+    "addr:full":"271 Bath Rd Brunswick ME 04011",
+    "addr:housenumber":"271",
+    "addr:postcode":"04011",
+    "addr:street":"Bath Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.906098,43.910018,-69.906098,43.910018",
     "geom:latitude":43.910018,
     "geom:longitude":-69.906098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"271 Bath Rd",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85948985,
         102087463
     ],
+    "wof:brand_id":1125157727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eUdSkF16zKlAPNBxzjuiB_43.910018_-69.906098@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"6bd5a3baa7bc55bc6a628d5370c2ae22",
+    "wof:geomhash":"980a65c8aebfdfe1fc9d71230ffb7921",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":403852163,
-    "wof:lastmodified":1466586713,
+    "wof:lastmodified":1510699452,
     "wof:name":"Taylor Rental Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

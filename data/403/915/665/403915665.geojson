@@ -2,14 +2,20 @@
   "id": 403915665,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Main St South Portland ME 04106",
+    "addr:housenumber":"105",
+    "addr:postcode":"04106",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.286716,43.635922,-70.286716,43.635922",
     "geom:latitude":43.635922,
     "geom:longitude":-70.286716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 Main St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087463,
         85809743
     ],
+    "wof:brand_id":1125152283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AHCtZqy1y3YZjo0RqfDXf_43.635922_-70.286716@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"674f4347f976b81fc6bfa34ac8cb1aee",
+    "wof:geomhash":"97b2394261f7d40baad4acb67f694ce4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403915665,
-    "wof:lastmodified":1466586968,
+    "wof:lastmodified":1510699427,
     "wof:name":"Gentiva Health Svc",
     "wof:parent_id":85809743,
     "wof:placetype":"venue",

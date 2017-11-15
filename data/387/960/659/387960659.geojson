@@ -2,14 +2,20 @@
   "id": 387960659,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Waterhouse Rd Dayton ME 04005",
+    "addr:housenumber":"17",
+    "addr:postcode":"04005",
+    "addr:street":"Waterhouse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.577711,43.511948,-70.577711,43.511948",
     "geom:latitude":43.511948,
     "geom:longitude":-70.577711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17 Waterhouse Rd",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087449,
         85822271
     ],
+    "wof:brand_id":1125158585,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KaqvFy9PMEjk5q9Con15B_43.511948_-70.577711@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f601e000f550ba00497e86d30eccce0",
+    "wof:geomhash":"dc4b75358ded90a566e69717912ed03b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387960659,
-    "wof:lastmodified":1466587345,
+    "wof:lastmodified":1510697459,
     "wof:name":"Mr Fix It",
     "wof:parent_id":85822271,
     "wof:placetype":"venue",

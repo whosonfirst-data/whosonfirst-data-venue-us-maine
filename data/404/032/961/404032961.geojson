@@ -2,14 +2,20 @@
   "id": 404032961,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Broadway Farmington ME 04938",
+    "addr:housenumber":"27",
+    "addr:postcode":"04938",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.149927,44.670913,-70.149927,44.670913",
     "geom:latitude":44.670913,
     "geom:longitude":-70.149927,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"27 Broadway",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85948921,
         102087433
     ],
+    "wof:brand_id":1125156585,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HxyuQ7HY6OFRJouFA7r7X_44.670913_-70.149927@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ebfd787f887595152c7ceb704e37d9e",
+    "wof:geomhash":"a8cfba62cd36fb0c2bc656ad8d8d900b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":404032961,
-    "wof:lastmodified":1466586004,
+    "wof:lastmodified":1510695842,
     "wof:name":"J C Penney Catalog",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

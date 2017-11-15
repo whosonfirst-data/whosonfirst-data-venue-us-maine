@@ -2,14 +2,20 @@
   "id": 387805125,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Elm St Norway ME 04268",
+    "addr:housenumber":"27",
+    "addr:postcode":"04268",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.540289,44.209572,-70.540289,44.209572",
     "geom:latitude":44.209572,
     "geom:longitude":-70.540289,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"27 Elm St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087437,
         85868781
     ],
+    "wof:brand_id":1125158885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Jmm2zOROcbFiAI5h9cpgv_44.209572_-70.540289@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e9d28d84c2b7a9f850b20af4c3682be",
+    "wof:geomhash":"488d52aae6eaf9a5a2c2e4f4aeb4a3dc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387805125,
-    "wof:lastmodified":1466587151,
+    "wof:lastmodified":1510693228,
     "wof:name":"US Army National Guard Recruit",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387603097,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Tamarlane Portland ME 04103",
+    "addr:housenumber":"41",
+    "addr:postcode":"04103",
+    "addr:street":"Tamarlane",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.277849,43.688102,-70.277849,43.688102",
     "geom:latitude":43.688102,
     "geom:longitude":-70.277849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"41 Tamarlane",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087463,
         85880019
     ],
+    "wof:brand_id":1125156841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zjydznYwZ0CbqDz7Yzj32_43.688102_-70.277849@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"803c6116eba7829437676d3f48765799",
+    "wof:geomhash":"abc088415652939466ba0f9b4a26959d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387603097,
-    "wof:lastmodified":1466586391,
+    "wof:lastmodified":1510696905,
     "wof:name":"Sisters Of Charity",
     "wof:parent_id":85880019,
     "wof:placetype":"venue",

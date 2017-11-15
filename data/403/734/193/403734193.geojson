@@ -2,14 +2,20 @@
   "id": 403734193,
   "type": "Feature",
   "properties": {
+    "addr:full":"137 Church St Belfast ME 04915",
+    "addr:housenumber":"137",
+    "addr:postcode":"04915",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.009538,44.426809,-69.009538,44.426809",
     "geom:latitude":44.426809,
     "geom:longitude":-69.009538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"137 Church St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087445,
         85824361
     ],
+    "wof:brand_id":1125159709,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lgM4Otm7DKciqhPevpJo5_44.426809_-69.009538@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b3782e5c820d1dfbb59d6897513821fa",
+    "wof:geomhash":"7834178fd9eb0cac5291dd0d807d371b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403734193,
-    "wof:lastmodified":1466586021,
+    "wof:lastmodified":1510613382,
     "wof:name":"Superior Court",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",

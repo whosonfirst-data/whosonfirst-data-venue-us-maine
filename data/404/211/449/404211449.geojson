@@ -2,6 +2,10 @@
   "id": 404211449,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 Newman St Winter Harbor ME 04693",
+    "addr:housenumber":"456",
+    "addr:postcode":"04693",
+    "addr:street":"Newman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404211449,
-    "wof:lastmodified":1466586960,
+    "wof:lastmodified":1472627298,
     "wof:name":"Winter Harbor Water District",
     "wof:parent_id":85821423,
     "wof:placetype":"venue",

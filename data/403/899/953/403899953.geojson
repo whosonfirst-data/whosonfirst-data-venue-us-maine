@@ -2,14 +2,20 @@
   "id": 403899953,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 North St Caribou ME 04736",
+    "addr:housenumber":"20",
+    "addr:postcode":"04736",
+    "addr:street":"North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.001598,46.864075,-68.001598,46.864075",
     "geom:latitude":46.864075,
     "geom:longitude":-68.001598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 North St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85948903,
         102081161
     ],
+    "wof:brand_id":1125154013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0plrOLM0rG2hp1av7hHwVz_46.864075_-68.001598@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"99c9fc62289c90d1f4c49dac7ae48495",
+    "wof:geomhash":"ecbd8a5a927db95d85f3355841fe006e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403899953,
-    "wof:lastmodified":1466587015,
+    "wof:lastmodified":1510695148,
     "wof:name":"US Army Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

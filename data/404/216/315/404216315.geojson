@@ -2,14 +2,20 @@
   "id": 404216315,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Johnson Rd Portland ME 04102",
+    "addr:housenumber":"9",
+    "addr:postcode":"04102",
+    "addr:street":"Johnson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.324303,43.650169,-70.324303,43.650169",
     "geom:latitude":43.650169,
     "geom:longitude":-70.324303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9 Johnson Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087463,
         85851275
     ],
+    "wof:brand_id":1125151313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5boVnUxCbCxipqxcUYEjm1_43.650169_-70.324303@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"679fdabf29d846c4cd553008bae302ca",
+    "wof:geomhash":"7bbc7fceddaf816dd635cb4c2a969c9c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":404216315,
-    "wof:lastmodified":1466586981,
+    "wof:lastmodified":1510696943,
     "wof:name":"Lesco Service Ctr",
     "wof:parent_id":85851275,
     "wof:placetype":"venue",

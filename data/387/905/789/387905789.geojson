@@ -2,14 +2,20 @@
   "id": 387905789,
   "type": "Feature",
   "properties": {
+    "addr:full":"94 Varney Mill Rd Windham ME 04062",
+    "addr:housenumber":"94",
+    "addr:postcode":"04062",
+    "addr:street":"Varney Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.419568,43.823661,-70.419568,43.823661",
     "geom:latitude":43.823661,
     "geom:longitude":-70.419568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"94 Varney Mill Rd",
     "sg:city":"Windham",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087463,
         85838179
     ],
+    "wof:brand_id":1125151475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AhraJ0TWmDwhbswzpA0Lq_43.823661_-70.419568@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d08a57ed86dc74b31dba023dc98e8f1",
+    "wof:geomhash":"521a097bf225e1e21956642101b9c8c5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387905789,
-    "wof:lastmodified":1466587317,
+    "wof:lastmodified":1510698967,
     "wof:name":"LDS Missionaries",
     "wof:parent_id":85838179,
     "wof:placetype":"venue",

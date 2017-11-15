@@ -2,14 +2,20 @@
   "id": 387756457,
   "type": "Feature",
   "properties": {
+    "addr:full":"356 Riverside Industrial Pkwy Portland ME 04103",
+    "addr:housenumber":"356",
+    "addr:postcode":"04103",
+    "addr:street":"Riverside Industrial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.307614,43.706969,-70.307614,43.706969",
     "geom:latitude":43.706969,
     "geom:longitude":-70.307614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"356 Riverside Industrial Pkwy",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087463,
         85845077
     ],
+    "wof:brand_id":1125151103,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_725lJsByekWF9riK5YtXdn_43.706969_-70.307614@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"0feb8f95e99660d93c5ebbbf66deeb37",
+    "wof:geomhash":"1450c4d21e913bdb7a08713190c67c5e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387756457,
-    "wof:lastmodified":1466586915,
+    "wof:lastmodified":1510697584,
     "wof:name":"ABF Freight System Inc",
     "wof:parent_id":85845077,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 403896185,
   "type": "Feature",
   "properties": {
+    "addr:full":"428 North St Houlton ME 04730",
+    "addr:housenumber":"428",
+    "addr:postcode":"04730",
+    "addr:street":"North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-67.840599,46.154454,-67.840599,46.154454",
     "geom:latitude":46.154454,
     "geom:longitude":-67.840599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"428 North St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85633793,
         85688769
     ],
+    "wof:brand_id":1125153771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OZVlAYpStAmBL73QOIDNF_46.154454_-67.840599@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"fe667b74f4aec17be4f4a96e19b40cef",
+    "wof:geomhash":"c22000a6d0d36de32dbf0a6ba1582fdd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":403896185,
-    "wof:lastmodified":1466586909,
+    "wof:lastmodified":1510693977,
     "wof:name":"Grand Rental Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

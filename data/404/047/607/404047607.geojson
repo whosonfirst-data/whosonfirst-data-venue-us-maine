@@ -2,14 +2,20 @@
   "id": 404047607,
   "type": "Feature",
   "properties": {
+    "addr:full":"581 Bridgton Rd Westbrook ME 04092",
+    "addr:housenumber":"",
+    "addr:postcode":"04092",
+    "addr:street":"Bridgton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.337661,43.719416,-70.337661,43.719416",
     "geom:latitude":43.719416,
     "geom:longitude":-70.337661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"581 Bridgton Rd",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102087463,
         85843131
     ],
+    "wof:brand_id":1125157029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dfdo88zARXla9nv7HpyIg_43.719416_-70.337661@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9fd357a9b5def00e4895791b705429b",
+    "wof:geomhash":"ead75d49851974c7b44e5ad715ab123a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":404047607,
-    "wof:lastmodified":1466586253,
+    "wof:lastmodified":1510696716,
     "wof:name":"Novus Windshield Repair",
     "wof:parent_id":85843131,
     "wof:placetype":"venue",

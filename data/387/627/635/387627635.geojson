@@ -2,14 +2,20 @@
   "id": 387627635,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 Camden St Rockland ME 04841",
+    "addr:housenumber":"235",
+    "addr:postcode":"04841",
+    "addr:street":"Camden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.098152,44.125598,-69.098152,44.125598",
     "geom:latitude":44.125598,
     "geom:longitude":-69.098152,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"235 Camden St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85948859,
         102087453
     ],
+    "wof:brand_id":1125153169,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EXQrrXO8V0hzDEL10SBOi_44.125598_-69.098152@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e4c91b925bb676be2dec9193e0d6ffda",
+    "wof:geomhash":"5a3c5cc2c609f9506748e18dde1ee292",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":387627635,
-    "wof:lastmodified":1466585769,
+    "wof:lastmodified":1510694657,
     "wof:name":"Olympia Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

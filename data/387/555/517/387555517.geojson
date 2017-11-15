@@ -2,14 +2,20 @@
   "id": 387555517,
   "type": "Feature",
   "properties": {
+    "addr:full":"375 Main St Rockland ME 04841",
+    "addr:housenumber":"375",
+    "addr:postcode":"04841",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.109082,44.104157,-69.109082,44.104157",
     "geom:latitude":44.104157,
     "geom:longitude":-69.109082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"375 Main St",
     "sg:city":"Rockland",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85948859,
         102087453
     ],
+    "wof:brand_id":1125152051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LzjxmVgm4c23IRDABjUD5_44.104157_-69.109082@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d65de2334849653d989f2acdbbe1698a",
+    "wof:geomhash":"d37015ef99ee8055608e550c83154b7e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387555517,
-    "wof:lastmodified":1466585675,
+    "wof:lastmodified":1510697078,
     "wof:name":"Manpower Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

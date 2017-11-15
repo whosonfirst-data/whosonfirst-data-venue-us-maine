@@ -2,14 +2,20 @@
   "id": 404079251,
   "type": "Feature",
   "properties": {
+    "addr:full":"263 State St Bangor ME 04401",
+    "addr:housenumber":"263",
+    "addr:postcode":"04401",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.759365,44.806088,-68.759365,44.806088",
     "geom:latitude":44.806088,
     "geom:longitude":-68.759365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"263 State St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102080723,
         85816381
     ],
+    "wof:brand_id":1125152797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63vRZfQ6GrEE5h7NQrsW2a_44.806088_-68.759365@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7450a7d0f357e472c5de5410538e82aa",
+    "wof:geomhash":"7a6b1c859ff09bfc2ed26a7956bd547c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":404079251,
-    "wof:lastmodified":1466585725,
+    "wof:lastmodified":1510697597,
     "wof:name":"Molly Maids",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",

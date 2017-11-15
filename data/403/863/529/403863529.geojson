@@ -2,14 +2,20 @@
   "id": 403863529,
   "type": "Feature",
   "properties": {
+    "addr:full":"549 Congress St Portland ME 04101",
+    "addr:housenumber":"549",
+    "addr:postcode":"04101",
+    "addr:street":"Congress St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.262428,43.654696,-70.262428,43.654696",
     "geom:latitude":43.654696,
     "geom:longitude":-70.262428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"549 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087463,
         85882031
     ],
+    "wof:brand_id":1125158885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oikkHpdU0ENzNFaxytU6v_43.654696_-70.262428@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"6180b282e92ac80a26e2772db4e5bbb7",
+    "wof:geomhash":"00edf50c4446bcb4e2381455d206056f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403863529,
-    "wof:lastmodified":1466586755,
+    "wof:lastmodified":1510693228,
     "wof:name":"US Army National Guard Recruit",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 404099843,
   "type": "Feature",
   "properties": {
+    "addr:full":"1080 Lisbon St Lewiston ME 04240",
+    "addr:housenumber":"1080",
+    "addr:postcode":"04240",
+    "addr:street":"Lisbon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.193165,44.079654,-70.193165,44.079654",
     "geom:latitude":44.079654,
     "geom:longitude":-70.193165,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1080 Lisbon St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087457,
         85836549
     ],
+    "wof:brand_id":1125159011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LzqD20xaWMC490nfqL0hk_44.079654_-70.193165@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"302f649b38de2cfba2b08cc387df2897",
+    "wof:geomhash":"bdc7e13456d9a59552435a8d0e51003e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":404099843,
-    "wof:lastmodified":1466585992,
+    "wof:lastmodified":1510696616,
     "wof:name":"Holy Cross Catholic Church",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",

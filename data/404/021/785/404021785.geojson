@@ -2,14 +2,20 @@
   "id": 404021785,
   "type": "Feature",
   "properties": {
+    "addr:full":"90 Jfk Plz Waterville ME 04901",
+    "addr:housenumber":"90",
+    "addr:postcode":"04901",
+    "addr:street":"Jfk Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.65339,44.540682,-69.65339,44.540682",
     "geom:latitude":44.540682,
     "geom:longitude":-69.65339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"90 Jfk Plz",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85948869,
         102087461
     ],
+    "wof:brand_id":1125153713,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H81v3A40J4CHwwm2mhjho_44.540682_-69.653390@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"93a3755507ae348a2a6f267a9aa839f5",
+    "wof:geomhash":"212845504e213155508464cf815a092c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":404021785,
-    "wof:lastmodified":1466585910,
+    "wof:lastmodified":1510694613,
     "wof:name":"Rentway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

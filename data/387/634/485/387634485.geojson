@@ -2,6 +2,10 @@
   "id": 387634485,
   "type": "Feature",
   "properties": {
+    "addr:full":"890 Main St St Francis ME 04736",
+    "addr:housenumber":"890",
+    "addr:postcode":"04736",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387634485,
-    "wof:lastmodified":1466586645,
+    "wof:lastmodified":1472627239,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

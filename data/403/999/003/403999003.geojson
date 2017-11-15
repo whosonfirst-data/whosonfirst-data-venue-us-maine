@@ -2,14 +2,20 @@
   "id": 403999003,
   "type": "Feature",
   "properties": {
+    "addr:full":"527 Main St Presque Isle ME 04769",
+    "addr:housenumber":"527",
+    "addr:postcode":"04769",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.015046,46.683968,-68.015046,46.683968",
     "geom:latitude":46.683968,
     "geom:longitude":-68.015046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"527 Main St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102081161,
         85854605
     ],
+    "wof:brand_id":1125154069,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IWTIfSOVhkAufJN0FQhxM_46.683968_-68.015046@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c30a5ce6c5b3ffb3eae8652601f44848",
+    "wof:geomhash":"917bd5876a9b8b2efc6cd7276e019584",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":403999003,
-    "wof:lastmodified":1466587109,
+    "wof:lastmodified":1510695325,
     "wof:name":"Perfect Touch",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",

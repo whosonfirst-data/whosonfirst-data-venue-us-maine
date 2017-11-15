@@ -2,14 +2,20 @@
   "id": 404038911,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 Grand Army Rd Whitefield ME 04353",
+    "addr:housenumber":"221",
+    "addr:postcode":"04353",
+    "addr:street":"Grand Army Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.599686,44.222602,-69.599686,44.222602",
     "geom:latitude":44.222602,
     "geom:longitude":-69.599686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"221 Grand Army Rd",
     "sg:city":"Whitefield",
     "sg:classifiers":[
@@ -28,12 +34,13 @@
         85633793,
         85688769
     ],
+    "wof:brand_id":1125151269,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zXbMIlSqQKW6WMquTi5Dr_44.222602_-69.599686@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"30a16979bae1babf41e9e58ad6023b64",
+    "wof:geomhash":"d6154e1bc470eb93a9fb6d43c0d29da4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":404038911,
-    "wof:lastmodified":1466586065,
+    "wof:lastmodified":1510699356,
     "wof:name":"Hair Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

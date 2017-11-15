@@ -2,14 +2,20 @@
   "id": 404006209,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 York St Bangor ME 04401",
+    "addr:housenumber":"207",
+    "addr:postcode":"04401",
+    "addr:street":"York St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.762078,44.803754,-68.762078,44.803754",
     "geom:latitude":44.803754,
     "geom:longitude":-68.762078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"207 York St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102080723,
         85816381
     ],
+    "wof:brand_id":1125153121,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WfFN2dYEV0ChrmyiRPR4C_44.803754_-68.762078@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"3baf7ef75eb30eebb1e4fc928c7964d8",
+    "wof:geomhash":"82f9e770006d1496923ba94942bf2a24",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":404006209,
-    "wof:lastmodified":1466585780,
+    "wof:lastmodified":1510699546,
     "wof:name":"St John's Catholic Church",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387781351,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 North St Presque Isle ME 04769",
+    "addr:housenumber":"36",
+    "addr:postcode":"04769",
+    "addr:street":"North St;Isle",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.0073,46.688139,-68.0073,46.688139",
     "geom:latitude":46.688139,
     "geom:longitude":-68.0073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"36 North St",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081161,
         85854605
     ],
+    "wof:brand_id":1125151613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RCeaDX1oPXvPA0SgrlRRr_46.688139_-68.007300@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"59dad5ae714d22afe5672611e3649df7",
+    "wof:geomhash":"0be41fb3043c98179757f10a3493202f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387781351,
-    "wof:lastmodified":1466587091,
+    "wof:lastmodified":1510696954,
     "wof:name":"US Internal Revenue Svc",
     "wof:parent_id":85854605,
     "wof:placetype":"venue",

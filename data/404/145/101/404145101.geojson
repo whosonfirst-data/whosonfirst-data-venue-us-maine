@@ -2,14 +2,20 @@
   "id": 404145101,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Western Ave Augusta ME 04330",
+    "addr:housenumber":"110",
+    "addr:postcode":"04330",
+    "addr:street":"Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.791596,44.31245,-69.791596,44.31245",
     "geom:latitude":44.31245,
     "geom:longitude":-69.791596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Western Ave",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087461,
         85822525
     ],
+    "wof:brand_id":1125153713,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wnTM3zdyjsjFbDdBRMwZM_44.312450_-69.791596@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc695547b4fbb0a02c530a6dace5f158",
+    "wof:geomhash":"5aa326a1b92e17f4705dc7a56ce0cce1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":404145101,
-    "wof:lastmodified":1466586693,
+    "wof:lastmodified":1510694614,
     "wof:name":"Rentway",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",

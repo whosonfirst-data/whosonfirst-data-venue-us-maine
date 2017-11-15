@@ -2,14 +2,20 @@
   "id": 404197661,
   "type": "Feature",
   "properties": {
+    "addr:full":"67 Mountain Rd Biddeford ME 04005",
+    "addr:housenumber":"67",
+    "addr:postcode":"04005",
+    "addr:street":"Mountain Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.506184,43.466824,-70.506184,43.466824",
     "geom:latitude":43.466824,
     "geom:longitude":-70.506184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"67 Mountain Rd",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087449,
         85819479
     ],
+    "wof:brand_id":1125153599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ObZ3DJ2i3rEGKReSP3fQA_43.466824_-70.506184@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb956381eebe9fe76789b6e88c78fb4b",
+    "wof:geomhash":"ba31bcfd0030fc95983141fdd5c863ab",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":404197661,
-    "wof:lastmodified":1466586826,
+    "wof:lastmodified":1510695773,
     "wof:name":"First Apostolic Church",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",

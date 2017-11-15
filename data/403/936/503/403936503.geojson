@@ -2,14 +2,20 @@
   "id": 403936503,
   "type": "Feature",
   "properties": {
+    "addr:full":"883 Forest Ave Portland ME 04103",
+    "addr:housenumber":"883",
+    "addr:postcode":"04103",
+    "addr:street":"Forest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.287642,43.677388,-70.287642,43.677388",
     "geom:latitude":43.677388,
     "geom:longitude":-70.287642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"883 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087463,
         85858625
     ],
+    "wof:brand_id":1125151877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30dGq2TjAZm8Q6n0P8q9S7_43.677388_-70.287642@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"07e6b80f2637789a5ddbefe9d60a1846",
+    "wof:geomhash":"1093919bd7406cd019412c9a768a4508",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":403936503,
-    "wof:lastmodified":1466587041,
+    "wof:lastmodified":1510698676,
     "wof:name":"Banknorth",
     "wof:parent_id":85858625,
     "wof:placetype":"venue",

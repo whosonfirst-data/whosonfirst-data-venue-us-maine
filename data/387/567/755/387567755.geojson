@@ -2,14 +2,20 @@
   "id": 387567755,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Old Orchard Rd Saco ME 04072",
+    "addr:housenumber":"110",
+    "addr:postcode":"04072",
+    "addr:street":"Old Orchard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.415574,43.502908,-70.415574,43.502908",
     "geom:latitude":43.502908,
     "geom:longitude":-70.415574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Old Orchard Rd",
     "sg:city":"Saco",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087449,
         85819479
     ],
+    "wof:brand_id":1125155957,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SLSCexOXc7rrKw6ZrjI0F_43.502908_-70.415574@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b469c811f0997f6f4cdce4e872ec5c50",
+    "wof:geomhash":"0e96cab0134afbe0514f05a94b4d7ed8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387567755,
-    "wof:lastmodified":1466585855,
+    "wof:lastmodified":1510698914,
     "wof:name":"New Testament Baptist Church",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",

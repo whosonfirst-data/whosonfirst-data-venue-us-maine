@@ -2,14 +2,20 @@
   "id": 387756659,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Portland Street Pier South Portland ME 04106",
+    "addr:housenumber":"8",
+    "addr:postcode":"04106",
+    "addr:street":"Portland Street Pier",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.242587,43.650167,-70.242587,43.650167",
     "geom:latitude":43.650167,
     "geom:longitude":-70.242587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8 Portland Street Pier",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087463,
         85820201
     ],
+    "wof:brand_id":1125158919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zvEcPUZiPw9jK0geIsIHy_43.650167_-70.242587@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"dfbacc9f4f99162d5820de0683d4dd92",
+    "wof:geomhash":"3ba19390c9282d453b02c6fd76ef0791",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387756659,
-    "wof:lastmodified":1466586916,
+    "wof:lastmodified":1510693915,
     "wof:name":"Ashley Furniture Homestore",
     "wof:parent_id":85820201,
     "wof:placetype":"venue",

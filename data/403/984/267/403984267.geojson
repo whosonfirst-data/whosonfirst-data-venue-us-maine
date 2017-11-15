@@ -2,6 +2,10 @@
   "id": 403984267,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Bishop St Portland ME 04103",
+    "addr:housenumber":"102",
+    "addr:postcode":"04103",
+    "addr:street":"Bishop St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":403984267,
-    "wof:lastmodified":1466587160,
+    "wof:lastmodified":1472627327,
     "wof:name":"MDOT Testing Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

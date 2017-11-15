@@ -2,14 +2,20 @@
   "id": 387573619,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Morrill St Portland ME 04103",
+    "addr:housenumber":"24",
+    "addr:postcode":"04103",
+    "addr:street":"Morrill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.291485,43.686682,-70.291485,43.686682",
     "geom:latitude":43.686682,
     "geom:longitude":-70.291485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"24 Morrill St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102087463,
         85814011
     ],
+    "wof:brand_id":1125151557,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YW2fZCq8dlbwBSzre9zaF_43.686682_-70.291485@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"afc6b1193524e3b8376f22f502b40f4b",
+    "wof:geomhash":"7ff2413633d9c32030dfa1a6fed9a59a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387573619,
-    "wof:lastmodified":1466585939,
+    "wof:lastmodified":1510699751,
     "wof:name":"MAACO Auto Painting & Bodywork",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",

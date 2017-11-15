@@ -2,14 +2,20 @@
   "id": 403800703,
   "type": "Feature",
   "properties": {
+    "addr:full":"730 US Hwy 1 Yarmouth ME 04096",
+    "addr:housenumber":"730",
+    "addr:postcode":"04096",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.180035,43.803994,-70.180035,43.803994",
     "geom:latitude":43.803994,
     "geom:longitude":-70.180035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"730 US Hwy 1",
     "sg:city":"Yarmouth",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102087463,
         85859327
     ],
+    "wof:brand_id":1125151877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nEqyueIUhgOfIadzoPvCw_43.803994_-70.180035@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"3722198ff424a5eb13fa80c975291f2f",
+    "wof:geomhash":"9a5a54dcec5332168beafec3d648a8e1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":403800703,
-    "wof:lastmodified":1466585958,
+    "wof:lastmodified":1510698676,
     "wof:name":"Banknorth",
     "wof:parent_id":85859327,
     "wof:placetype":"venue",

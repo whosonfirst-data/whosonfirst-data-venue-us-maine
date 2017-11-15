@@ -2,14 +2,20 @@
   "id": 387631589,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Concourse E Waterville ME 04901",
+    "addr:housenumber":"50",
+    "addr:postcode":"04901",
+    "addr:street":"Concourse E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.631194,44.549809,-69.631194,44.549809",
     "geom:latitude":44.549809,
     "geom:longitude":-69.631194,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"50 Concourse E",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85948869,
         102087461
     ],
+    "wof:brand_id":1125157799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4W91OBBNLQ1VOgcJTdePDf_44.549809_-69.631194@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"5278f0de28a57640234ccde3f6976715",
+    "wof:geomhash":"07bc1cf123f03f982183e100d1aaf785",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387631589,
-    "wof:lastmodified":1466585823,
+    "wof:lastmodified":1510698902,
     "wof:name":"Cardsmart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

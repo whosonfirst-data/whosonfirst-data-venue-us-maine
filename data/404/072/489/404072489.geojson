@@ -2,6 +2,10 @@
   "id": 404072489,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Ridge Rd Lisbon Falls ME 04252",
+    "addr:housenumber":"123",
+    "addr:postcode":"04252",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404072489,
-    "wof:lastmodified":1466586592,
+    "wof:lastmodified":1472627229,
     "wof:name":"Sausage Kitchen",
     "wof:parent_id":85813033,
     "wof:placetype":"venue",

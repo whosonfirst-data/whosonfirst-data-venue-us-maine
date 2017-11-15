@@ -2,14 +2,20 @@
   "id": 387908333,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Mount Auburn Ave Auburn ME 04210",
+    "addr:housenumber":"110",
+    "addr:postcode":"04210",
+    "addr:street":"Mount Auburn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.241919,44.12246,-70.241919,44.12246",
     "geom:latitude":44.12246,
     "geom:longitude":-70.241919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Mount Auburn Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087457,
         85836549
     ],
+    "wof:brand_id":1125157337,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iLMJLxqo4P6ll79McdYnE_44.122460_-70.241919@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"cf1cdfa4f17265b369924d1434722e56",
+    "wof:geomhash":"a8f43448a5650a3f88a53f7faca754ec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387908333,
-    "wof:lastmodified":1466587165,
+    "wof:lastmodified":1510696994,
     "wof:name":"Bj's Wholesale Club",
     "wof:parent_id":85836549,
     "wof:placetype":"venue",

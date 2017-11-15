@@ -2,14 +2,20 @@
   "id": 404060075,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Cumberland St Brunswick ME 04011",
+    "addr:housenumber":"15",
+    "addr:postcode":"04011",
+    "addr:street":"Cumberland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.967344,43.915552,-69.967344,43.915552",
     "geom:latitude":43.915552,
     "geom:longitude":-69.967344,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15 Cumberland St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85948985,
         102087463
     ],
+    "wof:brand_id":1125152639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HyGi3ui8wdVSOndjtlFDF_43.915552_-69.967344@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e27325f8820f23823375329d48f37cfc",
+    "wof:geomhash":"a58a916e5f33a3f1280c686f3ced53f5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":404060075,
-    "wof:lastmodified":1466586442,
+    "wof:lastmodified":1510697378,
     "wof:name":"Berean Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 404094163,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 Nottingham Way Brewer ME 04412",
+    "addr:housenumber":"77",
+    "addr:postcode":"04412",
+    "addr:street":"Nottingham Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.766445,44.774601,-68.766445,44.774601",
     "geom:latitude":44.774601,
     "geom:longitude":-68.766445,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"77 Nottingham Way",
     "sg:city":"Brewer",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85948897,
         102080723
     ],
+    "wof:brand_id":1125151377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0v6XY5DQGQ2j33BCSVvbSY_44.774601_-68.766445@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"58f1af9d4f8ddd0f391e653099510c33",
+    "wof:geomhash":"836166de329da726bb1dc45b851e5540",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":404094163,
-    "wof:lastmodified":1466585910,
+    "wof:lastmodified":1510695795,
     "wof:name":"National Property Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

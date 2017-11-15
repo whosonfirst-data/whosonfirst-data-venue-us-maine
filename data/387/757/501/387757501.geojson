@@ -2,14 +2,20 @@
   "id": 387757501,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Station Rd New Sweden ME 04762",
+    "addr:housenumber":"50",
+    "addr:postcode":"04762",
+    "addr:street":"Station Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.130775,46.941819,-68.130775,46.941819",
     "geom:latitude":46.941819,
     "geom:longitude":-68.130775,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"50 Station Rd",
     "sg:city":"New Sweden",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85633793,
         85688769
     ],
+    "wof:brand_id":1125157407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fuZRHz8L20lzhyblbd9X4_46.941819_-68.130775@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"3cf936df6e622442069f640e2fb91206",
+    "wof:geomhash":"a4540707db2b07fb242dc2368a50ca53",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":387757501,
-    "wof:lastmodified":1466586918,
+    "wof:lastmodified":1510697475,
     "wof:name":"Highway Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

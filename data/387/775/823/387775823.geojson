@@ -2,14 +2,20 @@
   "id": 387775823,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Main St Calais ME 04619",
+    "addr:housenumber":"311",
+    "addr:postcode":"04619",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-67.264973,45.183516,-67.264973,45.183516",
     "geom:latitude":45.183516,
     "geom:longitude":-67.264973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 Main St",
     "sg:city":"Calais",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102081143,
         85857599
     ],
+    "wof:brand_id":1125156277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sFa014haHEJcgBPo1hOAx_45.183516_-67.264973@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"765cdd907eed021111fe2f927208d86e",
+    "wof:geomhash":"fa7426266269820dc58cdbab0653edcc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387775823,
-    "wof:lastmodified":1466586982,
+    "wof:lastmodified":1510694865,
     "wof:name":"My Favorite Things",
     "wof:parent_id":85857599,
     "wof:placetype":"venue",

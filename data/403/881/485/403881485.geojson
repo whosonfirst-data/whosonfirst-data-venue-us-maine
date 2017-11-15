@@ -2,6 +2,10 @@
   "id": 403881485,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Main St Richmond ME 04357",
+    "addr:housenumber":"150",
+    "addr:postcode":"04357",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":403881485,
-    "wof:lastmodified":1466586921,
+    "wof:lastmodified":1472627309,
     "wof:name":"Naturally Me",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

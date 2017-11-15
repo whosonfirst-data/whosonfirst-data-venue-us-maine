@@ -2,14 +2,20 @@
   "id": 387584459,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Sea Smoke Ln Brunswick ME 04011",
+    "addr:housenumber":"28",
+    "addr:postcode":"04011",
+    "addr:street":"Sea Smoke Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.897981,43.882482,-69.897981,43.882482",
     "geom:latitude":43.882482,
     "geom:longitude":-69.897981,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"28 Sea Smoke Ln",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85633793,
         85688769
     ],
+    "wof:brand_id":1125150715,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DxhJNi0dvzHVbkrO50w2m_43.882482_-69.897981@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6772a6bcf9854af31a58c42942ea47d",
+    "wof:geomhash":"1c87cb1ed15b294d774550dd3a50b8af",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":387584459,
-    "wof:lastmodified":1466586077,
+    "wof:lastmodified":1510698924,
     "wof:name":"Pillar To Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

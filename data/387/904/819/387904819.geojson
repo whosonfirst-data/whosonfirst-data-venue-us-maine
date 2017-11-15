@@ -2,6 +2,10 @@
   "id": 387904819,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Elm St Waterville ME 04901",
+    "addr:housenumber":"42",
+    "addr:postcode":"04901",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":387904819,
-    "wof:lastmodified":1466587243,
+    "wof:lastmodified":1472627361,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

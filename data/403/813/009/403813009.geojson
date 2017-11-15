@@ -2,14 +2,20 @@
   "id": 403813009,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 State Rte 100 Bangor ME 04401",
+    "addr:housenumber":"6",
+    "addr:postcode":"04401",
+    "addr:street":"State Rte 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.807801,44.797668,-68.807801,44.797668",
     "geom:latitude":44.797668,
     "geom:longitude":-68.807801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6 State Rte 100",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102080723,
         85816381
     ],
+    "wof:brand_id":1125152423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q70Ny63vxSMujQuQyQ2QD_44.797668_-68.807801@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d036119aadf3842d76b4b3182fff25e6",
+    "wof:geomhash":"5130a31216e9473cecd6a4a355421467",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403813009,
-    "wof:lastmodified":1466586152,
+    "wof:lastmodified":1510693822,
     "wof:name":"Securitas Security Svc USA Inc",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",

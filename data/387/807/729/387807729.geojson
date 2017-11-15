@@ -2,14 +2,20 @@
   "id": 387807729,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 Anderson St Portland ME 04101",
+    "addr:housenumber":"118",
+    "addr:postcode":"04101",
+    "addr:street":"Anderson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.255797,43.667521,-70.255797,43.667521",
     "geom:latitude":43.667521,
     "geom:longitude":-70.255797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"118 Anderson St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102087463,
         85880023
     ],
+    "wof:brand_id":1125157641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IiSftRDYIohAB2B7ZrmWK_43.667521_-70.255797@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6a91bd076acabf40588306f86509952",
+    "wof:geomhash":"d629c96c6a28a7985ca7470f0d0fa29d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387807729,
-    "wof:lastmodified":1466586984,
+    "wof:lastmodified":1510613447,
     "wof:name":"Imagistics International Inc",
     "wof:parent_id":85880023,
     "wof:placetype":"venue",

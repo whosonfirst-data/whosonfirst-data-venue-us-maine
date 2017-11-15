@@ -2,14 +2,20 @@
   "id": 387873255,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Cottage St Norway ME 04268",
+    "addr:housenumber":"8",
+    "addr:postcode":"04268",
+    "addr:street":"Cottage St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.540851,44.214882,-70.540851,44.214882",
     "geom:latitude":44.214882,
     "geom:longitude":-70.540851,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8 Cottage St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102087437,
         85868781
     ],
+    "wof:brand_id":1125154483,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ULL5892fqFkKVkKCTYfrb_44.214882_-70.540851@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c121d96aa4c0f87018c0ca64f73483a1",
+    "wof:geomhash":"1495987795a6d0e246a7967d81d55946",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387873255,
-    "wof:lastmodified":1466587198,
+    "wof:lastmodified":1510695956,
     "wof:name":"Shear Designs",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",

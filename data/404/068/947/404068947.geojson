@@ -2,14 +2,20 @@
   "id": 404068947,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 Alfred St Biddeford ME 04005",
+    "addr:housenumber":"420",
+    "addr:postcode":"04005",
+    "addr:street":"Alfred St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.481325,43.480924,-70.481325,43.480924",
     "geom:latitude":43.480924,
     "geom:longitude":-70.481325,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"420 Alfred St",
     "sg:city":"Biddeford",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087449,
         85819479
     ],
+    "wof:brand_id":1125152229,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Pb9E89qbcxuUdAIaDHG9Y_43.480924_-70.481325@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a940e5754d12a48c8969ff5d23c97df4",
+    "wof:geomhash":"5e1d2bd8a1c6a78d52f09e69bb44d6ab",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":404068947,
-    "wof:lastmodified":1466586557,
+    "wof:lastmodified":1510699280,
     "wof:name":"Planet Fitness",
     "wof:parent_id":85819479,
     "wof:placetype":"venue",

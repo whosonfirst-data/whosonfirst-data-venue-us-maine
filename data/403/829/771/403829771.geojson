@@ -2,14 +2,20 @@
   "id": 403829771,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Taylor St Exd Lincoln ME 04457",
+    "addr:housenumber":"19",
+    "addr:postcode":"04457",
+    "addr:street":"Taylor St Exd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.501981,45.360121,-68.501981,45.360121",
     "geom:latitude":45.360121,
     "geom:longitude":-68.501981,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19 Taylor St Exd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102080723,
         85849837
     ],
+    "wof:brand_id":1125155335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ThDZnedxDxZaJcxKt1IyR_45.360121_-68.501981@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"176e0fc9d893671d4fb42a68bc9c4b25",
+    "wof:geomhash":"7c247f751f2c6df06add28dfef31fbcc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":403829771,
-    "wof:lastmodified":1466586424,
+    "wof:lastmodified":1510696707,
     "wof:name":"Ancient Free & Accepted M",
     "wof:parent_id":85849837,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 404121815,
   "type": "Feature",
   "properties": {
+    "addr:full":"134 W Broadway Bangor ME 04401",
+    "addr:housenumber":"134",
+    "addr:postcode":"04401",
+    "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.786905,44.799769,-68.786905,44.799769",
     "geom:latitude":44.799769,
     "geom:longitude":-68.786905,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"134 W Broadway",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102080723,
         85816381
     ],
+    "wof:brand_id":1125152585,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08I2YZwMYkidnkt6UfjPUx_44.799769_-68.786905@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ac88813d554b91a1e3562fe951c35b63",
+    "wof:geomhash":"24bb7915ac369cf745d2a32bd0bc0c5a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":404121815,
-    "wof:lastmodified":1466586325,
+    "wof:lastmodified":1510695990,
     "wof:name":"Clip Joint",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",

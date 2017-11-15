@@ -2,14 +2,20 @@
   "id": 387702259,
   "type": "Feature",
   "properties": {
+    "addr:full":"191 Parsons Rd Presque Isle ME 04769",
+    "addr:housenumber":"191",
+    "addr:postcode":"04769",
+    "addr:street":"Parsons Rd;Isle",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.020429,46.703308,-68.020429,46.703308",
     "geom:latitude":46.703308,
     "geom:longitude":-68.020429,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"191 Parsons Rd",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102081161,
         85843087
     ],
+    "wof:brand_id":1125153771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qm8cheNAYLEvpajF3LuRP_46.703308_-68.020429@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e286726f96e6193e8e3568a704338e2b",
+    "wof:geomhash":"22cd90be6580bdd761384785fd748ffb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387702259,
-    "wof:lastmodified":1466586742,
+    "wof:lastmodified":1510693977,
     "wof:name":"Grand Rental Station",
     "wof:parent_id":85843087,
     "wof:placetype":"venue",

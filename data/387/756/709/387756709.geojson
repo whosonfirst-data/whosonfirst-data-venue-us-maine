@@ -2,14 +2,20 @@
   "id": 387756709,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Thadeus St South Portland ME 04106",
+    "addr:housenumber":"56",
+    "addr:postcode":"04106",
+    "addr:street":"Thadeus St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.28499,43.626942,-70.28499,43.626942",
     "geom:latitude":43.626942,
     "geom:longitude":-70.28499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"56 Thadeus St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087463,
         85809743
     ],
+    "wof:brand_id":1125150593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09Rd0lEC6EmxKoAv2XwYjc_43.626942_-70.284990@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"11492d3425f05a7ba4af091e4f110b0c",
+    "wof:geomhash":"45da5ac256e3ed047bce466ab4a5c548",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387756709,
-    "wof:lastmodified":1466586916,
+    "wof:lastmodified":1510613421,
     "wof:name":"Lutheran Social Svc",
     "wof:parent_id":85809743,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387620437,
   "type": "Feature",
   "properties": {
+    "addr:full":"163 High St Ellsworth ME 04605",
+    "addr:housenumber":"163",
+    "addr:postcode":"04605",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.414274,44.537578,-68.414274,44.537578",
     "geom:latitude":44.537578,
     "geom:longitude":-68.414274,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"163 High St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081201,
         85817861
     ],
+    "wof:brand_id":1125158855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hO8rsAzURb6S7dlsGqAVa_44.537578_-68.414274@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"5882a78d6a354b2a0c15ee5720d2c987",
+    "wof:geomhash":"94c7951be6f3029507ce0ea9aadff171",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387620437,
-    "wof:lastmodified":1466586624,
+    "wof:lastmodified":1510695065,
     "wof:name":"Shaw's Supermarket",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",

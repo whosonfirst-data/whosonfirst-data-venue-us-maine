@@ -2,14 +2,20 @@
   "id": 403937861,
   "type": "Feature",
   "properties": {
+    "addr:full":"357 Maine St Poland ME 04274",
+    "addr:housenumber":"357",
+    "addr:postcode":"04274",
+    "addr:street":"Maine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.362685,44.013088,-70.362685,44.013088",
     "geom:latitude":44.013088,
     "geom:longitude":-70.362685,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"357 Maine St",
     "sg:city":"Poland",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         102087457,
         85849961
     ],
+    "wof:brand_id":1125151669,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Jdxn8Q66OoQrKVXDwfgPJ_44.013088_-70.362685@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"701e43d7ef47590bb7697e3edb819e8e",
+    "wof:geomhash":"d7beb0e5b909b007156d497883dbbbfc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":403937861,
-    "wof:lastmodified":1466587049,
+    "wof:lastmodified":1510613281,
     "wof:name":"Total Image",
     "wof:parent_id":85849961,
     "wof:placetype":"venue",

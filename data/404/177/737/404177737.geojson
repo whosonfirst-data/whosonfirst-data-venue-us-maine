@@ -2,14 +2,20 @@
   "id": 404177737,
   "type": "Feature",
   "properties": {
+    "addr:full":"485 Kennedy Memorial Dr Waterville ME 04901",
+    "addr:housenumber":"485",
+    "addr:postcode":"04901",
+    "addr:street":"Kennedy Memorial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.680557,44.544905,-69.680557,44.544905",
     "geom:latitude":44.544905,
     "geom:longitude":-69.680557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"485 Kennedy Memorial Dr",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85948869,
         102087461
     ],
+    "wof:brand_id":1125156193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gBNgywuYjxZPVqll8D7GL_44.544905_-69.680557@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"75eab772ac7f9d0743fc793f2707f281",
+    "wof:geomhash":"3ba81b681e59995f95dbce03ea95e7f5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":404177737,
-    "wof:lastmodified":1466586704,
+    "wof:lastmodified":1510694763,
     "wof:name":"Aubuchon Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

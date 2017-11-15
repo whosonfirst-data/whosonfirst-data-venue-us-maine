@@ -2,14 +2,20 @@
   "id": 387645527,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 Lisbon Rd Sabattus ME 04280",
+    "addr:housenumber":"61",
+    "addr:postcode":"04280",
+    "addr:street":"Lisbon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.110565,44.105762,-70.110565,44.105762",
     "geom:latitude":44.105762,
     "geom:longitude":-70.110565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"61 Lisbon Rd",
     "sg:city":"Sabattus",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102087457,
         85849833
     ],
+    "wof:brand_id":1125154987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64mtmBuRPa05eZwb5Am20A_44.105762_-70.110565@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"bba1755c24228bde4221c790e0aa436a",
+    "wof:geomhash":"edd19f4c1a9b2a3da08f8540f73edc35",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387645527,
-    "wof:lastmodified":1466585934,
+    "wof:lastmodified":1510695872,
     "wof:name":"Dominican Sisters",
     "wof:parent_id":85849833,
     "wof:placetype":"venue",

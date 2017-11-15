@@ -2,14 +2,20 @@
   "id": 387780143,
   "type": "Feature",
   "properties": {
+    "addr:full":"349 Ossipee Trl E Gorham ME 04038",
+    "addr:housenumber":"349",
+    "addr:postcode":"04038",
+    "addr:street":"Ossipee Trl E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.506667,43.706413,-70.506667,43.706413",
     "geom:latitude":43.706413,
     "geom:longitude":-70.506667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"349 Ossipee Trl E",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85633793,
         85688769
     ],
+    "wof:brand_id":1125151377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PiEzOmDB60eSByzUXFAfA_43.706413_-70.506667@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"583c1d47e6f09decbe4e1adf3d93b7af",
+    "wof:geomhash":"39c13ee22adc2735f27ca59a789731ff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":387780143,
-    "wof:lastmodified":1466586914,
+    "wof:lastmodified":1510695795,
     "wof:name":"National Property Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

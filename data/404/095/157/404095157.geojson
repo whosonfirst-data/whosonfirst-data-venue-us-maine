@@ -2,14 +2,20 @@
   "id": 404095157,
   "type": "Feature",
   "properties": {
+    "addr:full":"92 Augusta Rd Belmont ME 04952",
+    "addr:housenumber":"",
+    "addr:postcode":"04952",
+    "addr:street":"92 Augusta Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.105172,44.405429,-69.105172,44.405429",
     "geom:latitude":44.405429,
     "geom:longitude":-69.105172,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"92 Augusta Rd",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         85633793,
         85688769
     ],
+    "wof:brand_id":1125155697,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dbL5MSCviXGfvCfhSeh0m_44.405429_-69.105172@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b09771f67e2e126e0b8fcab58dd3973",
+    "wof:geomhash":"f20193b238a9106529c68f68a3f468de",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":404095157,
-    "wof:lastmodified":1466585922,
+    "wof:lastmodified":1510693832,
     "wof:name":"Twice As Nice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

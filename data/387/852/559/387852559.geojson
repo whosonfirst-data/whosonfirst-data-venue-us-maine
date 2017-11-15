@@ -2,14 +2,20 @@
   "id": 387852559,
   "type": "Feature",
   "properties": {
+    "addr:full":"139 State St Bangor ME 04401",
+    "addr:housenumber":"139",
+    "addr:postcode":"04401",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.765146,44.803942,-68.765146,44.803942",
     "geom:latitude":44.803942,
     "geom:longitude":-68.765146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"139 State St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102080723,
         85816381
     ],
+    "wof:brand_id":1125151591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TNJ2BLZqRowVWBDffSeZP_44.803942_-68.765146@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"53e4d0cc8ea84e7c386c3f7221b7a46c",
+    "wof:geomhash":"4ba26a3fcb820fab0b64897eec6aebdc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387852559,
-    "wof:lastmodified":1466587080,
+    "wof:lastmodified":1510693872,
     "wof:name":"First Horizon Home Loan Corp",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",

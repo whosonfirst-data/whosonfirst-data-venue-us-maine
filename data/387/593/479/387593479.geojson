@@ -2,14 +2,20 @@
   "id": 387593479,
   "type": "Feature",
   "properties": {
+    "addr:full":"354 Hogan Rd Bangor ME 04401",
+    "addr:housenumber":"354",
+    "addr:postcode":"04401",
+    "addr:street":"Hogan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.742452,44.835403,-68.742452,44.835403",
     "geom:latitude":44.835403,
     "geom:longitude":-68.742452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"354 Hogan Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102080723,
         85851073
     ],
+    "wof:brand_id":1125156007,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rMrAjOOBCRerJkQLwdqS2_44.835403_-68.742452@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1e2a9b37bd2b7cdf367007a057011da",
+    "wof:geomhash":"2e0e50ed8d98fd15f007d7645b8f95d1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387593479,
-    "wof:lastmodified":1466586220,
+    "wof:lastmodified":1510697081,
     "wof:name":"US Small Business Adm",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 403710161,
   "type": "Feature",
   "properties": {
+    "addr:full":"559 Congress St Portland ME 04101",
+    "addr:housenumber":"559",
+    "addr:postcode":"04101",
+    "addr:street":"Congress St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.262281,43.654981,-70.262281,43.654981",
     "geom:latitude":43.654981,
     "geom:longitude":-70.262281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"559 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087463,
         85882031
     ],
+    "wof:brand_id":1125150135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IoYHbQvWqNgqkGfposjGy_43.654981_-70.262281@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"67512ec76a2b88bd3f1213a778fc2b06",
+    "wof:geomhash":"f2d46d01eb6f516417e7fc2c3a85824a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":403710161,
-    "wof:lastmodified":1466585711,
+    "wof:lastmodified":1510696872,
     "wof:name":"Mane Attraction",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",

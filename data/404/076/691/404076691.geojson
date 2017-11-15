@@ -2,14 +2,20 @@
   "id": 404076691,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Everett St Brunswick ME 04011",
+    "addr:housenumber":"8",
+    "addr:postcode":"04011",
+    "addr:street":"Everett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.96507,43.913576,-69.96507,43.913576",
     "geom:latitude":43.913576,
     "geom:longitude":-69.96507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8 Everett St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85948985,
         102087463
     ],
+    "wof:brand_id":1125152539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XBiYvNA3WDHYpRE6U08yF_43.913576_-69.965070@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"f15be9b2ccc0f782f577669f54c0acff",
+    "wof:geomhash":"0977212e5d1a51ff68dea5f7abc4ac06",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":404076691,
-    "wof:lastmodified":1466586621,
+    "wof:lastmodified":1510696764,
     "wof:name":"New England Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

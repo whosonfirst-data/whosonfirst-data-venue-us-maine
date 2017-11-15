@@ -2,14 +2,20 @@
   "id": 387719537,
   "type": "Feature",
   "properties": {
+    "addr:full":"973 Congress St Portland ME 04102",
+    "addr:housenumber":"973",
+    "addr:postcode":"04102",
+    "addr:street":"Congress St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.280173,43.653457,-70.280173,43.653457",
     "geom:latitude":43.653457,
     "geom:longitude":-70.280173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"973 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087463,
         85880029
     ],
+    "wof:brand_id":1125150023,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JIUBNpO1eZCj8WunOdR9d_43.653457_-70.280173@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2a8dfed131a18b8712eaf12b8534f0c",
+    "wof:geomhash":"b84f6b1e6a0453f4a2af30d1edcaa0c3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387719537,
-    "wof:lastmodified":1466586808,
+    "wof:lastmodified":1510695390,
     "wof:name":"ICI Dulux Paint",
     "wof:parent_id":85880029,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387865265,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Ashley Dr Scarborough ME 04074",
+    "addr:housenumber":"6",
+    "addr:postcode":"04074",
+    "addr:street":"Ashley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.354541,43.620333,-70.354541,43.620333",
     "geom:latitude":43.620333,
     "geom:longitude":-70.354541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6 Ashley Dr",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102087463,
         85817653
     ],
+    "wof:brand_id":1125155821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iocAvJF5m7vwaWcxItdxG_43.620333_-70.354541@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"b431f0435d1525191027f0684e3c31f0",
+    "wof:geomhash":"aff1729d8cd8f3c959d301df6ee632d2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387865265,
-    "wof:lastmodified":1466587183,
+    "wof:lastmodified":1510699022,
     "wof:name":"Paychex Inc",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",

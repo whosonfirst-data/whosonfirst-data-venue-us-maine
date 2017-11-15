@@ -2,14 +2,20 @@
   "id": 404166795,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 Main St Caribou ME 04736",
+    "addr:housenumber":"650",
+    "addr:postcode":"04736",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.010886,46.856878,-68.010886,46.856878",
     "geom:latitude":46.856878,
     "geom:longitude":-68.010886,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"650 Main St",
     "sg:city":"Caribou",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85948903,
         102081161
     ],
+    "wof:brand_id":1125155053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W8o6fvYGGEEB7dFY3hnvk_46.856878_-68.010886@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7899787657437d801f6f83136aaf27b4",
+    "wof:geomhash":"4c9ff080d554f051aadad2ada135fa2c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":404166795,
-    "wof:lastmodified":1466586784,
+    "wof:lastmodified":1510694928,
     "wof:name":"St Luke's Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

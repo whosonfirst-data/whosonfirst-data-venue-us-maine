@@ -2,14 +2,20 @@
   "id": 387613633,
   "type": "Feature",
   "properties": {
+    "addr:full":"186 Round-The-Pond Rd Norway ME 04268",
+    "addr:housenumber":"186",
+    "addr:postcode":"04268",
+    "addr:street":"Round-The-Pond Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.594069,44.25186,-70.594069,44.25186",
     "geom:latitude":44.25186,
     "geom:longitude":-70.594069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"186 Round-The-Pond Rd",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         102087437,
         85868781
     ],
+    "wof:brand_id":1125151475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fLsWNgd2Ls1KHzlAuDhgc_44.251860_-70.594069@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba671492485570c02f8a27841a6a8d41",
+    "wof:geomhash":"411e6e9e1b4226997d90ad92b0f03c78",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":387613633,
-    "wof:lastmodified":1466586557,
+    "wof:lastmodified":1510698967,
     "wof:name":"LDS Missionaries",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",

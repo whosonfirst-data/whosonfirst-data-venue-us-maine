@@ -2,14 +2,20 @@
   "id": 404107285,
   "type": "Feature",
   "properties": {
+    "addr:full":"1355 Congress St Portland ME 04102",
+    "addr:housenumber":"1355",
+    "addr:postcode":"04102",
+    "addr:street":"Congress St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.295617,43.658918,-70.295617,43.658918",
     "geom:latitude":43.658918,
     "geom:longitude":-70.295617,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1355 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087463,
         85846029
     ],
+    "wof:brand_id":1125159729,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vscE74SBJWOZzIf8QDa1G_43.658918_-70.295617@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d7e4239261acb0f1970cecadc0a499ec",
+    "wof:geomhash":"4f71a07f39a669cdb5d6cf7335dad061",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":404107285,
-    "wof:lastmodified":1466586102,
+    "wof:lastmodified":1510697224,
     "wof:name":"US Drug Enforcement Adm",
     "wof:parent_id":85846029,
     "wof:placetype":"venue",

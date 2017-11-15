@@ -2,14 +2,20 @@
   "id": 387762389,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Paris Promenade South Paris ME 04281",
+    "addr:housenumber":"8",
+    "addr:postcode":"04281",
+    "addr:street":"Paris Promenade South",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.516473,44.23279,-70.516473,44.23279",
     "geom:latitude":44.23279,
     "geom:longitude":-70.516473,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8 Paris Promenade",
     "sg:city":"South Paris",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         102087437,
         85868781
     ],
+    "wof:brand_id":1125155945,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wN8eXQMMUpcuWYWt89Ox5_44.232790_-70.516473@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7179337310f41f4bd0bb13dad9b1b52a",
+    "wof:geomhash":"ccd01271664d133aff6a5f0f9805152c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":387762389,
-    "wof:lastmodified":1466586943,
+    "wof:lastmodified":1510699781,
     "wof:name":"L P L Financial Services",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",

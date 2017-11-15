@@ -2,14 +2,20 @@
   "id": 403718225,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 US Hwy 1 Falmouth ME 04105",
+    "addr:housenumber":"170",
+    "addr:postcode":"04105",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.233732,43.714327,-70.233732,43.714327",
     "geom:latitude":43.714327,
     "geom:longitude":-70.233732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"170 US Hwy 1",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102087463,
         85854157
     ],
+    "wof:brand_id":1125151133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Lar1hXa89IqjrN1fkoPB6_43.714327_-70.233732@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"efffdbb7016090cd660058f39e4987ea",
+    "wof:geomhash":"3fcfa6d1e6868ac96cfa2a84395bc7da",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":403718225,
-    "wof:lastmodified":1466585832,
+    "wof:lastmodified":1510711274,
     "wof:name":"Assist 2 Sell",
     "wof:parent_id":85854157,
     "wof:placetype":"venue",

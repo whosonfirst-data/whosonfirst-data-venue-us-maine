@@ -2,14 +2,20 @@
   "id": 387830921,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 N School St Skowhegan ME 04976",
+    "addr:housenumber":"11",
+    "addr:postcode":"04976",
+    "addr:street":"N School St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.715515,44.774181,-69.715515,44.774181",
     "geom:latitude":44.774181,
     "geom:longitude":-69.715515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11 N School St",
     "sg:city":"Skowhegan",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85949083,
         102087435
     ],
+    "wof:brand_id":1125152567,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AIQaYSLbduCnuP24rJ1hu_44.774181_-69.715515@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7a9598f64f6b07ee41cb1dbd31815292",
+    "wof:geomhash":"e0926cbf708bd5143113916198e502e9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387830921,
-    "wof:lastmodified":1466587204,
+    "wof:lastmodified":1510693933,
     "wof:name":"Army National Guard Recruiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

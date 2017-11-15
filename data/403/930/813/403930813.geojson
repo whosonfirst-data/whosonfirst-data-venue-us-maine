@@ -2,6 +2,10 @@
   "id": 403930813,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Jennifer Dr Auburn ME 04210",
+    "addr:housenumber":"101",
+    "addr:postcode":"04210",
+    "addr:street":"Jennifer Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":403930813,
-    "wof:lastmodified":1466587117,
+    "wof:lastmodified":1472627327,
     "wof:name":"Holtan Business Forms",
     "wof:parent_id":85813517,
     "wof:placetype":"venue",

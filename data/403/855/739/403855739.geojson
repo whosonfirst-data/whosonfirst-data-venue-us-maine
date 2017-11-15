@@ -2,14 +2,20 @@
   "id": 403855739,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Main St Norway ME 04268",
+    "addr:housenumber":"53",
+    "addr:postcode":"04268",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.531635,44.205411,-70.531635,44.205411",
     "geom:latitude":44.205411,
     "geom:longitude":-70.531635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"53 Main St",
     "sg:city":"Norway",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087437,
         85868781
     ],
+    "wof:brand_id":1125151397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iwhg6zvttlmnFp50WWRtz_44.205411_-70.531635@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"4d1f48b6378e729be1f780eb8123eb14",
+    "wof:geomhash":"72ff7b974819ad480981d35d02d93f24",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403855739,
-    "wof:lastmodified":1466586659,
+    "wof:lastmodified":1510613539,
     "wof:name":"Texaco Xpress Lube",
     "wof:parent_id":85868781,
     "wof:placetype":"venue",

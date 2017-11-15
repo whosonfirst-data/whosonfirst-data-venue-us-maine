@@ -2,14 +2,20 @@
   "id": 403758293,
   "type": "Feature",
   "properties": {
+    "addr:full":"68 Parker Farm Rd Buxton ME 04093",
+    "addr:housenumber":"68",
+    "addr:postcode":"04093",
+    "addr:street":"Parker Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.601957,43.667099,-70.601957,43.667099",
     "geom:latitude":43.667099,
     "geom:longitude":-70.601957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"68 Parker Farm Rd",
     "sg:city":"Buxton",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102087449,
         85828331
     ],
+    "wof:brand_id":1125150799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nqL1BThghj5t4cQ1gTTVC_43.667099_-70.601957@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e74ef4fba1463f5de514974b71db407b",
+    "wof:geomhash":"85584e1456101ec5270a4184d61f4bbd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":403758293,
-    "wof:lastmodified":1466586367,
+    "wof:lastmodified":1510694183,
     "wof:name":"First Free Will Baptist Church",
     "wof:parent_id":85828331,
     "wof:placetype":"venue",

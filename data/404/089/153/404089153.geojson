@@ -2,6 +2,10 @@
   "id": 404089153,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 John Roberts Rd South Portland ME 04106",
+    "addr:housenumber":"125",
+    "addr:postcode":"04106",
+    "addr:street":"John Roberts Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":404089153,
-    "wof:lastmodified":1466585840,
+    "wof:lastmodified":1472627231,
     "wof:name":"Maine Center For Integrated",
     "wof:parent_id":85817653,
     "wof:placetype":"venue",

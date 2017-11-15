@@ -2,14 +2,20 @@
   "id": 387585867,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Whitten Rd Augusta ME 04330",
+    "addr:housenumber":"22",
+    "addr:postcode":"04330",
+    "addr:street":"Whitten Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.812598,44.315267,-69.812598,44.315267",
     "geom:latitude":44.315267,
     "geom:longitude":-69.812598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"22 Whitten Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102087461,
         85822525
     ],
+    "wof:brand_id":1125153169,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WppW0TErz8XsGqHJd2wsH_44.315267_-69.812598@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"d395f8e83c2a451298c5145983ccedb9",
+    "wof:geomhash":"5a0161a3a748e47c0f6fcdf68bb883b5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":387585867,
-    "wof:lastmodified":1466586096,
+    "wof:lastmodified":1510694657,
     "wof:name":"Olympia Sports",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",

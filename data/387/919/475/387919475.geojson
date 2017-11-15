@@ -2,14 +2,20 @@
   "id": 387919475,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Miller St Belfast ME 04915",
+    "addr:housenumber":"37",
+    "addr:postcode":"04915",
+    "addr:street":"Miller St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-69.005273,44.424701,-69.005273,44.424701",
     "geom:latitude":44.424701,
     "geom:longitude":-69.005273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"37 Miller St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087445,
         85824361
     ],
+    "wof:brand_id":1125152117,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50juzVyjo2rtgsZUPn9vMR_44.424701_-69.005273@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c976f915bfcab88e5162abc91abe4d90",
+    "wof:geomhash":"c041ed633f3978e188369364c334faf8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387919475,
-    "wof:lastmodified":1466587259,
+    "wof:lastmodified":1510613197,
     "wof:name":"Unitarian Universalist Church",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",

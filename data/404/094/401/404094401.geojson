@@ -2,6 +2,10 @@
   "id": 404094401,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Main St Greene ME 04236",
+    "addr:housenumber":"102",
+    "addr:postcode":"04236",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404094401,
-    "wof:lastmodified":1466585912,
+    "wof:lastmodified":1472627235,
     "wof:name":"Greene Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

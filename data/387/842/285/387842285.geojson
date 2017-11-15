@@ -2,14 +2,20 @@
   "id": 387842285,
   "type": "Feature",
   "properties": {
+    "addr:full":"73 Grove St Wells ME 04090",
+    "addr:housenumber":"73",
+    "addr:postcode":"04090",
+    "addr:street":"Grove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.553027,43.324649,-70.553027,43.324649",
     "geom:latitude":43.324649,
     "geom:longitude":-70.553027,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"73 Grove St",
     "sg:city":"Wells",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087449,
         85815165
     ],
+    "wof:brand_id":1125151543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Tdt4CcZ487vOL33d1neza_43.324649_-70.553027@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e44be64c7845fb2c68d7d0865ab3b1a",
+    "wof:geomhash":"2988c6393acb113321431fd6ec43391f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387842285,
-    "wof:lastmodified":1466587218,
+    "wof:lastmodified":1510695395,
     "wof:name":"Computer Troubleshooters",
     "wof:parent_id":85815165,
     "wof:placetype":"venue",

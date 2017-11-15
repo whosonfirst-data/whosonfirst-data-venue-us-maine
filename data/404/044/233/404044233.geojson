@@ -2,6 +2,10 @@
   "id": 404044233,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 Main St Bar Harbor ME 04609",
+    "addr:housenumber":"113",
+    "addr:postcode":"04609",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":404044233,
-    "wof:lastmodified":1466586168,
+    "wof:lastmodified":1472627225,
     "wof:name":"Bar Harbor Gift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

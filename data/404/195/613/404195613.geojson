@@ -2,14 +2,20 @@
   "id": 404195613,
   "type": "Feature",
   "properties": {
+    "addr:full":"528 Main St Westbrook ME 04092",
+    "addr:housenumber":"528",
+    "addr:postcode":"04092",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.353349,43.679942,-70.353349,43.679942",
     "geom:latitude":43.679942,
     "geom:longitude":-70.353349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"528 Main St",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087463,
         85836343
     ],
+    "wof:brand_id":1125157701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35y4vVy3jKJbNcFph03tgZ_43.679942_-70.353349@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"1cd098693de6058d4ed5ef093682aa66",
+    "wof:geomhash":"f712e1103115f9bc6e1ddab2fa2c6831",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":404195613,
-    "wof:lastmodified":1466586900,
+    "wof:lastmodified":1510694761,
     "wof:name":"Pizza Time",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",

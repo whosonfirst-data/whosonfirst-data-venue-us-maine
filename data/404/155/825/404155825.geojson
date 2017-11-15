@@ -2,14 +2,20 @@
   "id": 404155825,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 Hancock St Bangor ME 04401",
+    "addr:housenumber":"304",
+    "addr:postcode":"04401",
+    "addr:street":"Hancock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.760145,44.802959,-68.760145,44.802959",
     "geom:latitude":44.802959,
     "geom:longitude":-68.760145,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"304 Hancock St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102080723,
         85816381
     ],
+    "wof:brand_id":1125154939,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2X7xgbv3xwNFtWdooZEMBw_44.802959_-68.760145@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2ccc2dc94c41ddf94449f63049400b3",
+    "wof:geomhash":"3bbf16711ff55643c2c1e3afdc0e27c9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":404155825,
-    "wof:lastmodified":1466586855,
+    "wof:lastmodified":1510613315,
     "wof:name":"Us Veterans Affairs Dept",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",

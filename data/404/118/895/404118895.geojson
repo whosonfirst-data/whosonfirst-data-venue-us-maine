@@ -2,14 +2,20 @@
   "id": 404118895,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 Vivian St South Portland ME 04106",
+    "addr:housenumber":"22",
+    "addr:postcode":"04106",
+    "addr:street":"Vivian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.241358,43.631954,-70.241358,43.631954",
     "geom:latitude":43.631954,
     "geom:longitude":-70.241358,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"22 Vivian St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087463,
         85867973
     ],
+    "wof:brand_id":1125158115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CWppIVnj3g56b7YuXCNlH_43.631954_-70.241358@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"62556a5136e743cd67b1bdba19366051",
+    "wof:geomhash":"4286798ff63277b49704c132c47fecb8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":404118895,
-    "wof:lastmodified":1466586278,
+    "wof:lastmodified":1510696725,
     "wof:name":"International Assoc of FI",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",

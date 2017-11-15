@@ -2,6 +2,10 @@
   "id": 403749539,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Main St Madison ME 04950",
+    "addr:housenumber":"101",
+    "addr:postcode":"04950",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":403749539,
-    "wof:lastmodified":1466586207,
+    "wof:lastmodified":1472627227,
     "wof:name":"Murrays Clock Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

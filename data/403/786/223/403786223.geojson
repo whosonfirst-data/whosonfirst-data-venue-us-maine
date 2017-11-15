@@ -2,14 +2,20 @@
   "id": 403786223,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Market St South Portland ME 04106",
+    "addr:housenumber":"9",
+    "addr:postcode":"04106",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.253732,43.635975,-70.253732,43.635975",
     "geom:latitude":43.635975,
     "geom:longitude":-70.253732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9 Market St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102087463,
         85828657
     ],
+    "wof:brand_id":1125151877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dM7XbwzVoywUeqBVMj7UM_43.635975_-70.253732@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"15ab6f516c77251ce34a0e23f22379a1",
+    "wof:geomhash":"30fe201a387aa460e8507488933ca040",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":403786223,
-    "wof:lastmodified":1466585769,
+    "wof:lastmodified":1510698677,
     "wof:name":"Banknorth",
     "wof:parent_id":85828657,
     "wof:placetype":"venue",

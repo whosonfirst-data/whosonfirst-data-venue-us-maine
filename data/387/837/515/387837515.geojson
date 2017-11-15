@@ -2,14 +2,20 @@
   "id": 387837515,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Bangor Mall Blvd Bangor ME 04401",
+    "addr:housenumber":"27",
+    "addr:postcode":"04401",
+    "addr:street":"Bangor Mall Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.743566,44.835551,-68.743566,44.835551",
     "geom:latitude":44.835551,
     "geom:longitude":-68.743566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"27 Bangor Mall Blvd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102080723,
         85851073
     ],
+    "wof:brand_id":1125150855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vptKHm0Uq3Ky9OhSi4YUM_44.835551_-68.743566@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"aa76afc77f103c212b9e2329ddd8edb2",
+    "wof:geomhash":"f07cd57361546a670d5b37e1d6da796b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387837515,
-    "wof:lastmodified":1466587140,
+    "wof:lastmodified":1510694212,
     "wof:name":"Bankers Life & Casualty Co",
     "wof:parent_id":85851073,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 403886315,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 Main St Ellsworth ME 04605",
+    "addr:housenumber":"231",
+    "addr:postcode":"04605",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.419846,44.542988,-68.419846,44.542988",
     "geom:latitude":44.542988,
     "geom:longitude":-68.419846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"231 Main St",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102081201,
         85817861
     ],
+    "wof:brand_id":1125151235,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wFCLlncrKLkUXInxbNtVp_44.542988_-68.419846@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"1892d45880965a027df5c17dc8a1569d",
+    "wof:geomhash":"18532f395f3bab2d4b1266c2051fbdd7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403886315,
-    "wof:lastmodified":1466586936,
+    "wof:lastmodified":1510694067,
     "wof:name":"St Joseph Catholic Church",
     "wof:parent_id":85817861,
     "wof:placetype":"venue",

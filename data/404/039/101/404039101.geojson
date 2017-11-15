@@ -2,6 +2,10 @@
   "id": 404039101,
   "type": "Feature",
   "properties": {
+    "addr:full":"139 Ocean St South Portland ME 04106",
+    "addr:housenumber":"139",
+    "addr:postcode":"04106",
+    "addr:street":"Ocean St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404039101,
-    "wof:lastmodified":1466586070,
+    "wof:lastmodified":1472627221,
     "wof:name":"South Portland Taxi",
     "wof:parent_id":85867973,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 404183389,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Patrick Dr Westbrook ME 04038",
+    "addr:housenumber":"17",
+    "addr:postcode":"04038",
+    "addr:street":"Patrick Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.533517,43.711359,-70.533517,43.711359",
     "geom:latitude":43.711359,
     "geom:longitude":-70.533517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17 Patrick Dr",
     "sg:city":"Westbrook",
     "sg:classifiers":[
@@ -28,12 +34,13 @@
         85633793,
         85688769
     ],
+    "wof:brand_id":1125150797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23YHoLjkaWp87R1Wp5DBav_43.711359_-70.533517@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c7d6250ab57ff62f88e834c526ac28b",
+    "wof:geomhash":"4ec9fe8393cf38de92170e31c92cb9f5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":404183389,
-    "wof:lastmodified":1466586862,
+    "wof:lastmodified":1510694178,
     "wof:name":"Corporate Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

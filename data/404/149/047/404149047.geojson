@@ -2,14 +2,20 @@
   "id": 404149047,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Brighton Ave Portland ME 04102",
+    "addr:housenumber":"1100",
+    "addr:postcode":"04102",
+    "addr:street":"Brighton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.324521,43.675365,-70.324521,43.675365",
     "geom:latitude":43.675365,
     "geom:longitude":-70.324521,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 Brighton Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102087463,
         85836343
     ],
+    "wof:brand_id":1125154507,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g0KGnfd8oEuYw7rm5V7IK_43.675365_-70.324521@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1c921fcbb0a504f351e99be9901cd4f",
+    "wof:geomhash":"24dcea9abc595967e00d25e84a809a4e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":404149047,
-    "wof:lastmodified":1466586720,
+    "wof:lastmodified":1510696741,
     "wof:name":"A J Wright",
     "wof:parent_id":85836343,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387622183,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Court St Houlton ME 04730",
+    "addr:housenumber":"26",
+    "addr:postcode":"04730",
+    "addr:street":"Court St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-67.839682,46.125214,-67.839682,46.125214",
     "geom:latitude":46.125214,
     "geom:longitude":-67.839682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"26 Court St",
     "sg:city":"Houlton",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85949125,
         102081161
     ],
+    "wof:brand_id":1125151727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ocrGY3eSU4Vvk91FyRWGq_46.125214_-67.839682@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e42970d24373b79ab8b740188f096e2",
+    "wof:geomhash":"9c9ae938c0251f7b9dfc9a7834477658",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387622183,
-    "wof:lastmodified":1466585723,
+    "wof:lastmodified":1510613408,
     "wof:name":"District Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

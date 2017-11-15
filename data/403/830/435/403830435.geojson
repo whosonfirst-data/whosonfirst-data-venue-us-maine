@@ -2,14 +2,20 @@
   "id": 403830435,
   "type": "Feature",
   "properties": {
+    "addr:full":"980 Forest Ave Portland ME 04103",
+    "addr:housenumber":"980",
+    "addr:postcode":"04103",
+    "addr:street":"Forest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.289334,43.680308,-70.289334,43.680308",
     "geom:latitude":43.680308,
     "geom:longitude":-70.289334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"980 Forest Ave",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102087463,
         85814011
     ],
+    "wof:brand_id":1125157737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KgTPfoBGxNBh9vl6v9TvI_43.680308_-70.289334@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"dad62d780ee8d9b4400b023116a9c5ae",
+    "wof:geomhash":"1bfe25fbd4aa40adc882eee387fd4b77",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":403830435,
-    "wof:lastmodified":1466586434,
+    "wof:lastmodified":1510604912,
     "wof:name":"US Veterans Affairs Dept",
     "wof:parent_id":85814011,
     "wof:placetype":"venue",

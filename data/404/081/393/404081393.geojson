@@ -2,14 +2,20 @@
   "id": 404081393,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Yarmouth Rd Gray ME 04039",
+    "addr:housenumber":"31",
+    "addr:postcode":"04039",
+    "addr:street":"Yarmouth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.324007,43.886137,-70.324007,43.886137",
     "geom:latitude":43.886137,
     "geom:longitude":-70.324007,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"31 Yarmouth Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85949013,
         102087463
     ],
+    "wof:brand_id":1125156577,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uGUXIJuWIXFUOZMrky7ma_43.886137_-70.324007@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"ebcb73987b7b4efa801900f6e42d8f49",
+    "wof:geomhash":"b349e0dc09e8739117a0ffbc30371566",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":404081393,
-    "wof:lastmodified":1466585757,
+    "wof:lastmodified":1510696822,
     "wof:name":"Hagemeyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

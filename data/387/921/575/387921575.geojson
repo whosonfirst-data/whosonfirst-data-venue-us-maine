@@ -2,14 +2,20 @@
   "id": 387921575,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Cumberland St Bangor ME 04401",
+    "addr:housenumber":"1",
+    "addr:postcode":"04401",
+    "addr:street":"Cumberland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-68.772481,44.806414,-68.772481,44.806414",
     "geom:latitude":44.806414,
     "geom:longitude":-68.772481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Cumberland St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102080723,
         85816381
     ],
+    "wof:brand_id":1125152283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oAi4jdXwWkX6NRHdvovUN_44.806414_-68.772481@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"bfa2dde3bdd4511ae18f5003fc58347a",
+    "wof:geomhash":"91270e6f144be9e0e80e3779e9c5cdc4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387921575,
-    "wof:lastmodified":1466587328,
+    "wof:lastmodified":1510699427,
     "wof:name":"Gentiva Health Svc",
     "wof:parent_id":85816381,
     "wof:placetype":"venue",

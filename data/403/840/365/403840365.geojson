@@ -2,6 +2,10 @@
   "id": 403840365,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 John St Camden ME 04843",
+    "addr:housenumber":"123",
+    "addr:postcode":"04843",
+    "addr:street":"John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403840365,
-    "wof:lastmodified":1466586604,
+    "wof:lastmodified":1472627289,
     "wof:name":"Camden First Aid Assn",
     "wof:parent_id":85833741,
     "wof:placetype":"venue",

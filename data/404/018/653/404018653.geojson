@@ -2,6 +2,10 @@
   "id": 404018653,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Military St Blaine ME 04730",
+    "addr:housenumber":"42",
+    "addr:postcode":"04730",
+    "addr:street":"Military St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404018653,
-    "wof:lastmodified":1466585877,
+    "wof:lastmodified":1472627212,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

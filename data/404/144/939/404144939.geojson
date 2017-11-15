@@ -2,14 +2,20 @@
   "id": 404144939,
   "type": "Feature",
   "properties": {
+    "addr:full":"481 Congress St Portland ME 04101",
+    "addr:housenumber":"481",
+    "addr:postcode":"04101",
+    "addr:street":"Congress St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.260313,43.656651,-70.260313,43.656651",
     "geom:latitude":43.656651,
     "geom:longitude":-70.260313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"481 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102087463,
         85880031
     ],
+    "wof:brand_id":1125151877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aVRIQfjDq1PgjnAlek2Wi_43.656651_-70.260313@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"e5b6227b4efc18dd4ec713de5441d053",
+    "wof:geomhash":"ef627c3ef5ac49a40edf16a86f15cfb0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":404144939,
-    "wof:lastmodified":1466586698,
+    "wof:lastmodified":1510698676,
     "wof:name":"Banknorth",
     "wof:parent_id":85880031,
     "wof:placetype":"venue",
