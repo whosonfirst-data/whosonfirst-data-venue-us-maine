@@ -1,0 +1,77 @@
+{
+  "id": 857702347,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"48 Hillside Ave Old Town ME 04468",
+    "addr:housenumber":"48",
+    "addr:postcode":"04468",
+    "addr:street":"Hillside Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.643542,44.923211,-68.643542,44.923211",
+    "geom:latitude":44.923211,
+    "geom:longitude":-68.643542,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"48 Hillside Ave",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 356 7050",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ymeBjZsnw0HnAYbKMeDkE_44.923211_-68.643542@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220866,
+    "wof:geomhash":"abc0769fdf15b588ade20470d103e0a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857702347
+        }
+    ],
+    "wof:id":857702347,
+    "wof:lastmodified":1472627202,
+    "wof:name":"Beaulieu & Sons",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -68.643542,
+    44.923211,
+    -68.643542,
+    44.923211
+],
+  "geometry": {"coordinates":[-68.643542,44.923211],"type":"Point"}
+}

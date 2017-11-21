@@ -1,0 +1,76 @@
+{
+  "id": 857684051,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"224 Lane Rd Auburn ME 04210",
+    "addr:housenumber":"224",
+    "addr:postcode":"04210",
+    "addr:street":"Lane Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.228476,44.058983,-70.228476,44.058983",
+    "geom:latitude":44.058983,
+    "geom:longitude":-70.228476,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"224 Lane Rd",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 783 4554",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CXhA7IUjliWrsKSYu03dE_44.058983_-70.228476@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220502,
+    "wof:geomhash":"80be036bd551b4e7b93e516ac9eda5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857684051
+        }
+    ],
+    "wof:id":857684051,
+    "wof:lastmodified":1472627187,
+    "wof:name":"A & L Tile",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.228476,
+    44.058983,
+    -70.228476,
+    44.058983
+],
+  "geometry": {"coordinates":[-70.228476,44.058983],"type":"Point"}
+}

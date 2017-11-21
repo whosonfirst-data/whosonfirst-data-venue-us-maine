@@ -1,0 +1,76 @@
+{
+  "id": 857719383,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5 Old Orchard Dr Bangor ME 04401",
+    "addr:housenumber":"5",
+    "addr:postcode":"04401",
+    "addr:street":"Old Orchard Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.827086,44.841255,-68.827086,44.841255",
+    "geom:latitude":44.841255,
+    "geom:longitude":-68.827086,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Old Orchard Dr",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 990 2714",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837287,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QyycFuNrreUXBL3vBj1wc_44.841255_-68.827086@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221235,
+    "wof:geomhash":"f7270b4b376e7c515f9edc4181016c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85837287,
+            "region_id":85688769,
+            "venue_id":857719383
+        }
+    ],
+    "wof:id":857719383,
+    "wof:lastmodified":1472627256,
+    "wof:name":"Marshall E Hamlin B S C E",
+    "wof:parent_id":85837287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.827086,
+    44.841255,
+    -68.827086,
+    44.841255
+],
+  "geometry": {"coordinates":[-68.82708599999999,44.841255],"type":"Point"}
+}

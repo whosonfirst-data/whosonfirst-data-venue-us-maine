@@ -1,0 +1,83 @@
+{
+  "id": 857684603,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"36 Calais Ave Calais ME 04619",
+    "addr:housenumber":"",
+    "addr:postcode":"04619",
+    "addr:street":"Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.278131,45.184554,-67.278131,45.184554",
+    "geom:latitude":45.184554,
+    "geom:longitude":-67.278131,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Calais Ave",
+    "sg:city":"Calais",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 454 0158",
+    "sg:postcode":"04619",
+    "sg:province":"ME",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857599,
+        102191575,
+        404475311,
+        85633793,
+        85948871,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JnJYX5T8QpQ04k4MgKqaX_45.184554_-67.278131@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220515,
+    "wof:geomhash":"0370b5c4738790517dd7e377218a6906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475311,
+            "locality_id":85948871,
+            "neighbourhood_id":85857599,
+            "region_id":85688769,
+            "venue_id":857684603
+        }
+    ],
+    "wof:id":857684603,
+    "wof:lastmodified":1472627203,
+    "wof:name":"Sunrise Opportunities",
+    "wof:parent_id":85857599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -67.278131,
+    45.184554,
+    -67.278131,
+    45.184554
+],
+  "geometry": {"coordinates":[-67.278131,45.184554],"type":"Point"}
+}

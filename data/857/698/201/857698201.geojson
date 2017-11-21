@@ -1,0 +1,76 @@
+{
+  "id": 857698201,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"105 Oak St Ellsworth ME 04605",
+    "addr:housenumber":"105",
+    "addr:postcode":"04605",
+    "addr:street":"Oak St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.423918,44.547753,-68.423918,44.547753",
+    "geom:latitude":44.547753,
+    "geom:longitude":-68.423918,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"105 Oak St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 664 2626",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06aengkLCZ0uPPAGN5w7Sq_44.547753_-68.423918@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220777,
+    "wof:geomhash":"3cc757c11bdaf5a5c68182db94309091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857698201
+        }
+    ],
+    "wof:id":857698201,
+    "wof:lastmodified":1472627202,
+    "wof:name":"Violette",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.423918,
+    44.547753,
+    -68.423918,
+    44.547753
+],
+  "geometry": {"coordinates":[-68.423918,44.547753],"type":"Point"}
+}

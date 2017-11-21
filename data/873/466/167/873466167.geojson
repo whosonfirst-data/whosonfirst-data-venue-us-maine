@@ -1,0 +1,75 @@
+{
+  "id": 873466167,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Target Technology Center Orono ME",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.676132,44.908335,-68.676132,44.908335",
+    "geom:latitude":44.908335,
+    "geom:longitude":-68.676132,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"Target Technology Center",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"ME",
+    "sg:website":"http://www.marginleft.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NVA5D7zhJGY9dpJLcJFSE_44.908335_-68.676132@1308186498"
+    },
+    "wof:country":"US",
+    "wof:created":1464221591,
+    "wof:geomhash":"b83d7b39709aa6b7dd3aa8fdfe2c1c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":873466167
+        }
+    ],
+    "wof:id":873466167,
+    "wof:lastmodified":1472627183,
+    "wof:name":"MarginLeft",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.676132,
+    44.908335,
+    -68.676132,
+    44.908335
+],
+  "geometry": {"coordinates":[-68.676132,44.908335],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857712703,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"432 Western Ave Augusta ME 04330",
+    "addr:housenumber":"432",
+    "addr:postcode":"04330",
+    "addr:street":"Western Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.820825,44.319557,-69.820825,44.319557",
+    "geom:latitude":44.319557,
+    "geom:longitude":-69.820825,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"432 Western Ave",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 623 1875",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:website":"www.maineagents.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dNwXqKvrNIWYsdpyidqup_44.319557_-69.820825@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221104,
+    "wof:geomhash":"ccfac25858cde63c35795ba37a5082e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857712703
+        }
+    ],
+    "wof:id":857712703,
+    "wof:lastmodified":1472627259,
+    "wof:name":"Maine Insurance Agents Assoc",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.820825,
+    44.319557,
+    -69.820825,
+    44.319557
+],
+  "geometry": {"coordinates":[-69.820825,44.319557],"type":"Point"}
+}

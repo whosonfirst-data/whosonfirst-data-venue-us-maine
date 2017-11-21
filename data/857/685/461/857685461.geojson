@@ -1,0 +1,79 @@
+{
+  "id": 857685461,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"352 Main St Fort Fairfield ME 04742",
+    "addr:housenumber":"352",
+    "addr:postcode":"04742",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.834501,46.772634,-67.834501,46.772634",
+    "geom:latitude":46.772634,
+    "geom:longitude":-67.834501,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "sg:address":"352 Main St",
+    "sg:city":"Fort Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 472 1333",
+    "sg:postcode":"04742",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "osm:way":361095208,
+        "sg:id":"SG_4MJIsaec02sdJs50fCm0Nd_46.772634_-67.834501@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220530,
+    "wof:geomhash":"12554e1d8bef2e3774f3b689d2bdcd87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857685461
+        }
+    ],
+    "wof:id":857685461,
+    "wof:lastmodified":1510941845,
+    "wof:name":"Harvest Market",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.834501,
+    46.772634,
+    -67.834501,
+    46.772634
+],
+  "geometry": {"coordinates":[-67.834501,46.772634],"type":"Point"}
+}

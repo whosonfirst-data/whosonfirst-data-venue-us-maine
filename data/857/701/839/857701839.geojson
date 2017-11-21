@@ -1,0 +1,85 @@
+{
+  "id": 857701839,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"35 Melbourne St Portland ME 04101",
+    "addr:housenumber":"35",
+    "addr:postcode":"04101",
+    "addr:street":"Melbourne St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.249028,43.669255,-70.249028,43.669255",
+    "geom:latitude":43.669255,
+    "geom:longitude":-70.249028,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Melbourne St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 7551",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85816267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cije2JW74PFyvYmWjvnrH_43.669255_-70.249028@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220856,
+    "wof:geomhash":"198516fe108c8ba78765cd2266a391b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85816267,
+            "region_id":85688769,
+            "venue_id":857701839
+        }
+    ],
+    "wof:id":857701839,
+    "wof:lastmodified":1472627217,
+    "wof:name":"Ornamenta Design",
+    "wof:parent_id":85816267,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -70.249028,
+    43.669255,
+    -70.249028,
+    43.669255
+],
+  "geometry": {"coordinates":[-70.249028,43.669255],"type":"Point"}
+}

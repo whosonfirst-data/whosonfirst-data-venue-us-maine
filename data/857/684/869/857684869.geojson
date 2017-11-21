@@ -1,0 +1,81 @@
+{
+  "id": 857684869,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"254 W Ridge Rd Linneus ME 04740",
+    "addr:housenumber":"254",
+    "addr:postcode":"04740",
+    "addr:street":"W Ridge Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.903988,46.598932,-67.903988,46.598932",
+    "geom:latitude":46.598932,
+    "geom:longitude":-67.903988,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"254 W Ridge Rd",
+    "sg:city":"Linneus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 532 7286",
+    "sg:postcode":"04740",
+    "sg:province":"ME",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rEXP4rBusaDPnywSHy79J_46.598932_-67.903988@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220519,
+    "wof:geomhash":"65198714d8ad86034aa9955b01f432d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857684869
+        }
+    ],
+    "wof:id":857684869,
+    "wof:lastmodified":1472627210,
+    "wof:name":"Fox Hollow Photography",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -67.903988,
+    46.598932,
+    -67.903988,
+    46.598932
+],
+  "geometry": {"coordinates":[-67.903988,46.598932],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 857714631,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5 Main St Seal Harbor ME 04675",
+    "addr:housenumber":"5",
+    "addr:postcode":"04675",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.240573,44.299757,-68.240573,44.299757",
+    "geom:latitude":44.299757,
+    "geom:longitude":-68.240573,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Main St",
+    "sg:city":"Seal Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 276 5306",
+    "sg:postcode":"04675",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85803817,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O5ehZRg9lHzaX9ar6oItb_44.299757_-68.240573@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221141,
+    "wof:geomhash":"5ccb40e774138add2fa40360530145f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85803817,
+            "region_id":85688769,
+            "venue_id":857714631
+        }
+    ],
+    "wof:id":857714631,
+    "wof:lastmodified":1472627263,
+    "wof:name":"Seal Harbor Library",
+    "wof:parent_id":85803817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.240573,
+    44.299757,
+    -68.240573,
+    44.299757
+],
+  "geometry": {"coordinates":[-68.240573,44.299757],"type":"Point"}
+}

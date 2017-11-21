@@ -1,0 +1,75 @@
+{
+  "id": 857694827,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"290 Hill Rd Alfred ME 04002",
+    "addr:housenumber":"290",
+    "addr:postcode":"04002",
+    "addr:street":"Hill Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.576296,43.498685,-70.576296,43.498685",
+    "geom:latitude":43.498685,
+    "geom:longitude":-70.576296,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"290 Hill Rd",
+    "sg:city":"Alfred",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 286 8756",
+    "sg:postcode":"04002",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85822271,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yzJk9VnSzY8qdBNdQKXi6_43.498685_-70.576296@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220715,
+    "wof:geomhash":"a3bcdbbbaecb8d85235e445b4d869709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85822271,
+            "region_id":85688769,
+            "venue_id":857694827
+        }
+    ],
+    "wof:id":857694827,
+    "wof:lastmodified":1472627220,
+    "wof:name":"Noble Housewrights",
+    "wof:parent_id":85822271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.576296,
+    43.498685,
+    -70.576296,
+    43.498685
+],
+  "geometry": {"coordinates":[-70.576296,43.498685],"type":"Point"}
+}

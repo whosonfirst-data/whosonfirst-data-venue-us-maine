@@ -1,0 +1,81 @@
+{
+  "id": 857706189,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2 Portland Fish Pier Portland ME 04101",
+    "addr:housenumber":"2",
+    "addr:postcode":"04101",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.255457,43.652266,-70.255457,43.652266",
+    "geom:latitude":43.652266,
+    "geom:longitude":-70.255457,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Portland Fish Pier",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 8121",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85882031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vh5K1Mqj7hIQjuenbEs6I_43.652266_-70.255457@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220935,
+    "wof:geomhash":"d4fe2961cde7f08b562493a039d163e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85882031,
+            "region_id":85688769,
+            "venue_id":857706189
+        }
+    ],
+    "wof:id":857706189,
+    "wof:lastmodified":1472627230,
+    "wof:name":"Harbor Master Port Of Portland",
+    "wof:parent_id":85882031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -70.255457,
+    43.652266,
+    -70.255457,
+    43.652266
+],
+  "geometry": {"coordinates":[-70.25545700000001,43.652266],"type":"Point"}
+}

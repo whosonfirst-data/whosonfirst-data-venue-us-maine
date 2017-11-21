@@ -1,0 +1,81 @@
+{
+  "id": 857733515,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12 Mill Ridge Farm Ln York ME 03909",
+    "addr:housenumber":"12",
+    "addr:postcode":"03909",
+    "addr:street":"Mill Ridge Farm Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.639939,43.17007,-70.639939,43.17007",
+    "geom:latitude":43.17007,
+    "geom:longitude":-70.639939,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Mill Ridge Farm Ln",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 363 6070",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831291,
+        102191575,
+        404475823,
+        85633793,
+        85949035,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7djNPZH1JDxPtAPgFno9cb_43.170070_-70.639939@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221510,
+    "wof:geomhash":"c624145a611ecc1c4006d13fe2718231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475823,
+            "locality_id":85949035,
+            "neighbourhood_id":85831291,
+            "region_id":85688769,
+            "venue_id":857733515
+        }
+    ],
+    "wof:id":857733515,
+    "wof:lastmodified":1472627309,
+    "wof:name":"Greg MacGlashing Locksmith Service",
+    "wof:parent_id":85831291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [
+    -70.639939,
+    43.17007,
+    -70.639939,
+    43.17007
+],
+  "geometry": {"coordinates":[-70.639939,43.17007],"type":"Point"}
+}

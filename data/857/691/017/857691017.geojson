@@ -1,0 +1,83 @@
+{
+  "id": 857691017,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"101 Bowery St Bath ME 04530",
+    "addr:housenumber":"101",
+    "addr:postcode":"04530",
+    "addr:street":"Bowery St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.811812,43.926501,-69.811812,43.926501",
+    "geom:latitude":43.926501,
+    "geom:longitude":-69.811812,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 Bowery St",
+    "sg:city":"Bath",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 442 7731",
+    "sg:postcode":"04530",
+    "sg:province":"ME",
+    "sg:tags":[
+        "canned",
+        "fish",
+        "cured",
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948861,
+        102087455,
+        85813751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c7pb8tvJPzOrr7JZUUKXp_43.926501_-69.811812@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220640,
+    "wof:geomhash":"9f9f2cbb256c93f4b11afabc47080e8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087455,
+            "locality_id":85948861,
+            "neighbourhood_id":85813751,
+            "region_id":85688769,
+            "venue_id":857691017
+        }
+    ],
+    "wof:id":857691017,
+    "wof:lastmodified":1472627185,
+    "wof:name":"Stinson Seafood Co",
+    "wof:parent_id":85813751,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "canned",
+        "fish",
+        "cured",
+        "seafood"
+    ]
+},
+  "bbox": [
+    -69.811812,
+    43.926501,
+    -69.811812,
+    43.926501
+],
+  "geometry": {"coordinates":[-69.811812,43.926501],"type":"Point"}
+}

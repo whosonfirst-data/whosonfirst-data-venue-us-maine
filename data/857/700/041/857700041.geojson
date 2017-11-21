@@ -1,0 +1,70 @@
+{
+  "id": 857700041,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2150 Hudson Rd Hudson ME 04449",
+    "addr:housenumber":"2150",
+    "addr:postcode":"04449",
+    "addr:street":"Hudson Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.854461,44.955298,-68.854461,44.955298",
+    "geom:latitude":44.955298,
+    "geom:longitude":-68.854461,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2150 Hudson Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 327 1444",
+    "sg:postcode":"04449",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85855557,
+        102080723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z87IM8w0Ijhy2mhZHOf3Q_44.955298_-68.854461@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220814,
+    "wof:geomhash":"5c9439a44bb1b83327f226674231d95e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85855557,
+            "region_id":85688769,
+            "venue_id":857700041
+        }
+    ],
+    "wof:id":857700041,
+    "wof:lastmodified":1472627196,
+    "wof:name":"Hudson Elementary School",
+    "wof:parent_id":85855557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.854461,
+    44.955298,
+    -68.854461,
+    44.955298
+],
+  "geometry": {"coordinates":[-68.854461,44.955298],"type":"Point"}
+}

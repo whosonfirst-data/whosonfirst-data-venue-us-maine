@@ -1,0 +1,83 @@
+{
+  "id": 857720327,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"58 Bennett St Bangor ME 04401",
+    "addr:housenumber":"58",
+    "addr:postcode":"04401",
+    "addr:street":"Bennett St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.835997,44.789506,-68.835997,44.789506",
+    "geom:latitude":44.789506,
+    "geom:longitude":-68.835997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"58 Bennett St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 8624",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855195,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WXQmVT9JDbijqhQ4LWK2J_44.789506_-68.835997@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221256,
+    "wof:geomhash":"ce1f4996934aa3f3438811854f9eebda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85855195,
+            "region_id":85688769,
+            "venue_id":857720327
+        }
+    ],
+    "wof:id":857720327,
+    "wof:lastmodified":1472627255,
+    "wof:name":"Down East Emulsions",
+    "wof:parent_id":85855195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -68.835997,
+    44.789506,
+    -68.835997,
+    44.789506
+],
+  "geometry": {"coordinates":[-68.83599700000001,44.789506],"type":"Point"}
+}

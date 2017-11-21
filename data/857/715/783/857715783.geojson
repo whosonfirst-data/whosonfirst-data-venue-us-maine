@@ -1,0 +1,72 @@
+{
+  "id": 857715783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"36 Fleming St Lincoln ME 04457",
+    "addr:housenumber":"36",
+    "addr:postcode":"04457",
+    "addr:street":"Fleming St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.505137,45.363825,-68.505137,45.363825",
+    "geom:latitude":45.363825,
+    "geom:longitude":-68.505137,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Fleming St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 794 2158",
+    "sg:postcode":"04457",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949107,
+        102080723,
+        85849837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WmKyKuazxebwM5uP9b3dt_45.363825_-68.505137@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221162,
+    "wof:geomhash":"2067eabcddd8a9f1918138a37b7d177b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85949107,
+            "neighbourhood_id":85849837,
+            "region_id":85688769,
+            "venue_id":857715783
+        }
+    ],
+    "wof:id":857715783,
+    "wof:lastmodified":1472627274,
+    "wof:name":"Big Apple",
+    "wof:parent_id":85849837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.505137,
+    45.363825,
+    -68.505137,
+    45.363825
+],
+  "geometry": {"coordinates":[-68.505137,45.363825],"type":"Point"}
+}

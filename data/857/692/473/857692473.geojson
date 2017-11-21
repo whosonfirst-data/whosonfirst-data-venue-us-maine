@@ -1,0 +1,82 @@
+{
+  "id": 857692473,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"33 Sanford Dr Gorham ME 04038",
+    "addr:housenumber":"33",
+    "addr:postcode":"04038",
+    "addr:street":"Sanford Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.392334,43.680315,-70.392334,43.680315",
+    "geom:latitude":43.680315,
+    "geom:longitude":-70.392334,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Sanford Dr",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 856 9911",
+    "sg:postcode":"04038",
+    "sg:province":"ME",
+    "sg:tags":[
+        "designer"
+    ],
+    "sg:website":"www.transformitdesign.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835377,
+        102191575,
+        404475529,
+        85633793,
+        85948995,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hwDVQatjA1lYsElp9JnIC_43.680315_-70.392334@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220670,
+    "wof:geomhash":"5a2443ef96c0cb0674111ce3b6520866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475529,
+            "locality_id":85948995,
+            "neighbourhood_id":85835377,
+            "region_id":85688769,
+            "venue_id":857692473
+        }
+    ],
+    "wof:id":857692473,
+    "wof:lastmodified":1472627206,
+    "wof:name":"Trans Formit",
+    "wof:parent_id":85835377,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer"
+    ]
+},
+  "bbox": [
+    -70.392334,
+    43.680315,
+    -70.392334,
+    43.680315
+],
+  "geometry": {"coordinates":[-70.39233400000001,43.680315],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 857688377,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"52 Pleasant St Waterville ME 04901",
+    "addr:housenumber":"52",
+    "addr:postcode":"04901",
+    "addr:street":"Pleasant St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.635239,44.551709,-69.635239,44.551709",
+    "geom:latitude":44.551709,
+    "geom:longitude":-69.635239,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 Pleasant St",
+    "sg:city":"Waterville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 873 2163",
+    "sg:postcode":"04901",
+    "sg:province":"ME",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.kennebecvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ds9fMdVX9MLk5MHku2S05_44.551709_-69.635239@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220586,
+    "wof:geomhash":"38c22512e098bfe7d0fc88a8b06d0917",
+    "wof:hierarchy":[],
+    "wof:id":857688377,
+    "wof:lastmodified":1472627199,
+    "wof:name":"Kennebec Veterinary Svc Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -69.635239,
+    44.551709,
+    -69.635239,
+    44.551709
+],
+  "geometry": {"coordinates":[-69.635239,44.551709],"type":"Point"}
+}

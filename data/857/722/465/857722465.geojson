@@ -1,0 +1,91 @@
+{
+  "id": 857722465,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"103 Texas Ave Bangor ME 04401",
+    "addr:housenumber":"103",
+    "addr:postcode":"04401",
+    "addr:street":"Texas Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.804546,44.806407,-68.804546,44.806407",
+    "geom:latitude":44.806407,
+    "geom:longitude":-68.804546,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"103 Texas Ave",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 3033",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "info",
+        "addiction",
+        "abuse",
+        "treatment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529713,
+        85855195,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C3e5LRQwGWMvEe6WgS6kk_44.806407_-68.804546@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221297,
+    "wof:geomhash":"9a5d71a09df2a9573ff45c7691dadc5e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529713,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85855195,
+            "region_id":85688769,
+            "venue_id":857722465
+        }
+    ],
+    "wof:id":857722465,
+    "wof:lastmodified":1472627267,
+    "wof:name":"Women's Project",
+    "wof:parent_id":102529713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "info",
+        "addiction",
+        "abuse",
+        "treatment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -68.804546,
+    44.806407,
+    -68.804546,
+    44.806407
+],
+  "geometry": {"coordinates":[-68.804546,44.806407],"type":"Point"}
+}

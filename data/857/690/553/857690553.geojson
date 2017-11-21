@@ -1,0 +1,75 @@
+{
+  "id": 857690553,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"737 Congress St Portland ME 04102",
+    "addr:housenumber":"737",
+    "addr:postcode":"04102",
+    "addr:street":"Congress St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.269903,43.653197,-70.269903,43.653197",
+    "geom:latitude":43.653197,
+    "geom:longitude":-70.269903,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"737 Congress St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 775 2303",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:website":"www.sawyercompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85880027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DolXDDyV1gmc4Hrp2xOoZ_43.653197_-70.269903@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220629,
+    "wof:geomhash":"4466c844258071d4b0a9b86dcb869895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880027,
+            "region_id":85688769,
+            "venue_id":857690553
+        }
+    ],
+    "wof:id":857690553,
+    "wof:lastmodified":1472627205,
+    "wof:name":"Sawyer & Co Florist",
+    "wof:parent_id":85880027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.269903,
+    43.653197,
+    -70.269903,
+    43.653197
+],
+  "geometry": {"coordinates":[-70.269903,43.653197],"type":"Point"}
+}

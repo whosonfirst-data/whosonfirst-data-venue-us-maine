@@ -1,0 +1,85 @@
+{
+  "id": 857732613,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"659 US Route 1 York ME 03909",
+    "addr:housenumber":"659",
+    "addr:postcode":"03909",
+    "addr:street":"Us Route 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.652347,43.158686,-70.652347,43.158686",
+    "geom:latitude":43.158686,
+    "geom:longitude":-70.652347,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"659 US Route 1",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 351 3063",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859383,
+        102191575,
+        404475823,
+        85633793,
+        85949065,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pQ9afJGEbdR4FtkNeFB1B_43.158686_-70.652347@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221495,
+    "wof:geomhash":"568c841d53ca4d567c23aa551eb8eeff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475823,
+            "locality_id":85949065,
+            "neighbourhood_id":85859383,
+            "region_id":85688769,
+            "venue_id":857732613
+        }
+    ],
+    "wof:id":857732613,
+    "wof:lastmodified":1472627309,
+    "wof:name":"The Clown",
+    "wof:parent_id":85859383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -70.652347,
+    43.158686,
+    -70.652347,
+    43.158686
+],
+  "geometry": {"coordinates":[-70.65234700000001,43.158686],"type":"Point"}
+}

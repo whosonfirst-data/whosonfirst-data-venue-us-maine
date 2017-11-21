@@ -1,0 +1,80 @@
+{
+  "id": 857692807,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2333 E Conway Rd North Conway ME 03813",
+    "addr:housenumber":"2333",
+    "addr:postcode":"03813",
+    "addr:street":"E Conway Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.036116,44.000695,-71.036116,44.000695",
+    "geom:latitude":44.000695,
+    "geom:longitude":-71.036116,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2333 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 3836",
+    "sg:postcode":"03813",
+    "sg:province":"ME",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.1768countryinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816185,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u1pER7AmMFV8m0DYKBRNk_44.000695_-71.036116@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220677,
+    "wof:geomhash":"d20648ceaf9b3ee51a29fca9fb5ac4c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816185,
+            "region_id":85688689,
+            "venue_id":857692807
+        }
+    ],
+    "wof:id":857692807,
+    "wof:lastmodified":1472627216,
+    "wof:name":"1768 Country Inn",
+    "wof:parent_id":85816185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -71.036116,
+    44.000695,
+    -71.036116,
+    44.000695
+],
+  "geometry": {"coordinates":[-71.03611600000001,44.000695],"type":"Point"}
+}

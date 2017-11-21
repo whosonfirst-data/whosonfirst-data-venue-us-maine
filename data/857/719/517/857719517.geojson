@@ -1,0 +1,75 @@
+{
+  "id": 857719517,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"68 N Raymond Rd Gray ME 04039",
+    "addr:housenumber":"68",
+    "addr:postcode":"04039",
+    "addr:street":"N Raymond Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.367724,43.92572,-70.367724,43.92572",
+    "geom:latitude":43.92572,
+    "geom:longitude":-70.367724,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"68 N Raymond Rd",
+    "sg:city":"Gray",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 657 5509",
+    "sg:postcode":"04039",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85815293,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JBsjBQVledLVGT5wy9La0_43.925720_-70.367724@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221238,
+    "wof:geomhash":"7186a2361ea5fd25fd41fc81576da4a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85815293,
+            "region_id":85688769,
+            "venue_id":857719517
+        }
+    ],
+    "wof:id":857719517,
+    "wof:lastmodified":1472627261,
+    "wof:name":"M A Pardi Building & Rmdlng",
+    "wof:parent_id":85815293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.367724,
+    43.92572,
+    -70.367724,
+    43.92572
+],
+  "geometry": {"coordinates":[-70.367724,43.92572],"type":"Point"}
+}

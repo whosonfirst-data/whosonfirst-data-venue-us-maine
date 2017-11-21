@@ -1,0 +1,72 @@
+{
+  "id": 857696443,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"46 Middle St Old Town ME 04468",
+    "addr:housenumber":"46",
+    "addr:postcode":"04468",
+    "addr:street":"Middle St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.64663,44.936038,-68.64663,44.936038",
+    "geom:latitude":44.936038,
+    "geom:longitude":-68.64663,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"46 Middle St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 3972",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yP3pLWozNcoGiGW2Cjz0J_44.936038_-68.646630@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220744,
+    "wof:geomhash":"2108a41b63dba4264d33c0fe1988b36a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857696443
+        }
+    ],
+    "wof:id":857696443,
+    "wof:lastmodified":1472627204,
+    "wof:name":"Old Town Public Library",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.64663,
+    44.936038,
+    -68.64663,
+    44.936038
+],
+  "geometry": {"coordinates":[-68.64663,44.936038],"type":"Point"}
+}

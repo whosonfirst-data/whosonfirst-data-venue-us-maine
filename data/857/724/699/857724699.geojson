@@ -1,0 +1,81 @@
+{
+  "id": 857724699,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"366 US Hwy 1 Columbia ME 04605",
+    "addr:housenumber":"366",
+    "addr:postcode":"04605",
+    "addr:street":"Us Hwy 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.433934,44.539022,-68.433934,44.539022",
+    "geom:latitude":44.539022,
+    "geom:longitude":-68.433934,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"366 US Hwy 1",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 483 2267",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bToAWf8YUJ8iTAYcwUbBK_44.539022_-68.433934@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221337,
+    "wof:geomhash":"dcd9ac678e452ff6cb64ec9140b18e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857724699
+        }
+    ],
+    "wof:id":857724699,
+    "wof:lastmodified":1472627274,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -68.433934,
+    44.539022,
+    -68.433934,
+    44.539022
+],
+  "geometry": {"coordinates":[-68.43393399999999,44.539022],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873464281,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"29 Pleasant Hill Rd Scarborough ME 04074",
+    "addr:housenumber":"29",
+    "addr:postcode":"04074",
+    "addr:street":"Pleasant Hill Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.310097,43.609402,-70.310097,43.609402",
+    "geom:latitude":43.609402,
+    "geom:longitude":-70.310097,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"29 Pleasant Hill Rd",
+    "sg:city":"Scarborough",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 883 2979",
+    "sg:postcode":"04074",
+    "sg:province":"ME",
+    "sg:tags":[
+        "trainer"
+    ],
+    "sg:website":"www.lfcmaine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852203,
+        102191575,
+        404475439,
+        85633793,
+        85948879,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2so6M8T9jw8ZbMRrESoBIN_43.609402_-70.310097@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221554,
+    "wof:geomhash":"b782b1fdd01e90d82f1474c9ceb8d5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475439,
+            "locality_id":85948879,
+            "neighbourhood_id":85852203,
+            "region_id":85688769,
+            "venue_id":873464281
+        }
+    ],
+    "wof:id":873464281,
+    "wof:lastmodified":1472627183,
+    "wof:name":"Lifestyle Fitness Center",
+    "wof:parent_id":85852203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trainer"
+    ]
+},
+  "bbox": [
+    -70.310097,
+    43.609402,
+    -70.310097,
+    43.609402
+],
+  "geometry": {"coordinates":[-70.310097,43.609402],"type":"Point"}
+}

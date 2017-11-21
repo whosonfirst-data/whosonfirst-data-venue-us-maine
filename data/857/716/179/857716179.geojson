@@ -1,0 +1,72 @@
+{
+  "id": 857716179,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"51 E Main St Fort Kent ME 04743",
+    "addr:housenumber":"51",
+    "addr:postcode":"04743",
+    "addr:street":"E Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.590035,47.257339,-68.590035,47.257339",
+    "geom:latitude":47.257339,
+    "geom:longitude":-68.590035,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 E Main St",
+    "sg:city":"Fort Kent",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 834 5714",
+    "sg:postcode":"04743",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GoVZM4ue0AGUA3Sv2qYMF_47.257339_-68.590035@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221169,
+    "wof:geomhash":"5e523af8b462c3b86ab9c111c89e7422",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857716179
+        }
+    ],
+    "wof:id":857716179,
+    "wof:lastmodified":1472627246,
+    "wof:name":"Gas-N-Go Foods",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.590035,
+    47.257339,
+    -68.590035,
+    47.257339
+],
+  "geometry": {"coordinates":[-68.590035,47.257339],"type":"Point"}
+}

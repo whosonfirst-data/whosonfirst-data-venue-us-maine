@@ -1,0 +1,77 @@
+{
+  "id": 857704241,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"58 Vista Way Glenburn ME 04401",
+    "addr:housenumber":"58",
+    "addr:postcode":"04401",
+    "addr:street":"Vista Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.817569,44.922108,-68.817569,44.922108",
+    "geom:latitude":44.922108,
+    "geom:longitude":-68.817569,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"58 Vista Way",
+    "sg:city":"Glenburn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 941 9654",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85855557,
+        102080723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iYgBjbNVQXP8unYiNrMi5_44.922108_-68.817569@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220899,
+    "wof:geomhash":"19e71eb94803d4afb13fa336a42ee9d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85855557,
+            "region_id":85688769,
+            "venue_id":857704241
+        }
+    ],
+    "wof:id":857704241,
+    "wof:lastmodified":1472627225,
+    "wof:name":"Cormier's Plumbing & Heating",
+    "wof:parent_id":85855557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.817569,
+    44.922108,
+    -68.817569,
+    44.922108
+],
+  "geometry": {"coordinates":[-68.81756900000001,44.922108],"type":"Point"}
+}

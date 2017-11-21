@@ -1,0 +1,75 @@
+{
+  "id": 857733625,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2 US Rte 1 York ME 03909",
+    "addr:housenumber":"",
+    "addr:postcode":"03909",
+    "addr:street":"Us Rte 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.702294,43.132422,-70.702294,43.132422",
+    "geom:latitude":43.132422,
+    "geom:longitude":-70.702294,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 US Rte 1",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 439 3401",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85844265,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OhZMsHhYDX7hHQJ1UWa3a_43.132422_-70.702294@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221512,
+    "wof:geomhash":"b9cd54bd01340355b1091a818886b64f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85844265,
+            "region_id":85688769,
+            "venue_id":857733625
+        }
+    ],
+    "wof:id":857733625,
+    "wof:lastmodified":1472627313,
+    "wof:name":"York's Best Seafood",
+    "wof:parent_id":85844265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -70.702294,
+    43.132422,
+    -70.702294,
+    43.132422
+],
+  "geometry": {"coordinates":[-70.70229399999999,43.132422],"type":"Point"}
+}

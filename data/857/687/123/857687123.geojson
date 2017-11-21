@@ -1,0 +1,74 @@
+{
+  "id": 857687123,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"65 Sherman St Portland ME 04101",
+    "addr:housenumber":"65",
+    "addr:postcode":"04101",
+    "addr:street":"Sherman St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.269017,43.655812,-70.269017,43.655812",
+    "geom:latitude":43.655812,
+    "geom:longitude":-70.269017,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"65 Sherman St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 541 3604",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85880027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gN7lXMW159LEY3Bijerrc_43.655812_-70.269017@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220562,
+    "wof:geomhash":"bedee42026a0a95ba008a40948abd3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880027,
+            "region_id":85688769,
+            "venue_id":857687123
+        }
+    ],
+    "wof:id":857687123,
+    "wof:lastmodified":1472627184,
+    "wof:name":"HCR Properties",
+    "wof:parent_id":85880027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.269017,
+    43.655812,
+    -70.269017,
+    43.655812
+],
+  "geometry": {"coordinates":[-70.26901700000001,43.655812],"type":"Point"}
+}

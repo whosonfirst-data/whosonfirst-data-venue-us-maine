@@ -1,0 +1,78 @@
+{
+  "id": 857701749,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"52 Water St Hallowell ME 04347",
+    "addr:housenumber":"52",
+    "addr:postcode":"04347",
+    "addr:street":"Water St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.788984,44.289462,-69.788984,44.289462",
+    "geom:latitude":44.289462,
+    "geom:longitude":-69.788984,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 Water St",
+    "sg:city":"Hallowell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 620 8495",
+    "sg:postcode":"04347",
+    "sg:province":"ME",
+    "sg:tags":[
+        "mental"
+    ],
+    "sg:website":"www.proteabhs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QAddC6P4C3bwMtFasViMr_44.289462_-69.788984@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220855,
+    "wof:geomhash":"6b26920d9d9492fb0ed91d0a459d2157",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857701749
+        }
+    ],
+    "wof:id":857701749,
+    "wof:lastmodified":1472627217,
+    "wof:name":"Protea Behavioral Health Svc",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -69.788984,
+    44.289462,
+    -69.788984,
+    44.289462
+],
+  "geometry": {"coordinates":[-69.788984,44.289462],"type":"Point"}
+}

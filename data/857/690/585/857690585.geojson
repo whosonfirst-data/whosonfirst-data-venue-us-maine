@@ -1,0 +1,83 @@
+{
+  "id": 857690585,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"134 Surry Rd Ellsworth ME 04605",
+    "addr:housenumber":"134",
+    "addr:postcode":"04605",
+    "addr:street":"Surry Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.431617,44.531546,-68.431617,44.531546",
+    "geom:latitude":44.531546,
+    "geom:longitude":-68.431617,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"134 Surry Rd",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 5236",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WkzYsPU0nHkLPaCBXoseH_44.531546_-68.431617@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220629,
+    "wof:geomhash":"e07b18238cab8ab68b7e5b6caf37498a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857690585
+        }
+    ],
+    "wof:id":857690585,
+    "wof:lastmodified":1472627205,
+    "wof:name":"R F Jordan & Sons Constr Inc",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.431617,
+    44.531546,
+    -68.431617,
+    44.531546
+],
+  "geometry": {"coordinates":[-68.431617,44.531546],"type":"Point"}
+}

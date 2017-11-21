@@ -1,0 +1,77 @@
+{
+  "id": 857705909,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"721 Douglas Hwy Lamoine ME 04605",
+    "addr:housenumber":"721",
+    "addr:postcode":"04605",
+    "addr:street":"Douglas Hwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.346411,44.495982,-68.346411,44.495982",
+    "geom:latitude":44.495982,
+    "geom:longitude":-68.346411,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"721 Douglas Hwy",
+    "sg:city":"Lamoine",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 9417",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85868805,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5egmvDWRHCd52bFLL4CZlk_44.495982_-68.346411@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220930,
+    "wof:geomhash":"c72791b95d9350f0dc5244788ce86979",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85868805,
+            "region_id":85688769,
+            "venue_id":857705909
+        }
+    ],
+    "wof:id":857705909,
+    "wof:lastmodified":1472627260,
+    "wof:name":"Richard J King Inc",
+    "wof:parent_id":85868805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.346411,
+    44.495982,
+    -68.346411,
+    44.495982
+],
+  "geometry": {"coordinates":[-68.346411,44.495982],"type":"Point"}
+}

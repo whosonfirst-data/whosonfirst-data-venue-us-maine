@@ -1,0 +1,83 @@
+{
+  "id": 857711585,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18 South St Augusta ME 04330",
+    "addr:housenumber":"18",
+    "addr:postcode":"04330",
+    "addr:street":"South St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.786964,44.297208,-69.786964,44.297208",
+    "geom:latitude":44.297208,
+    "geom:longitude":-69.786964,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 South St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 626 3283",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gTSsueGDYmd4Ekna7BxNz_44.297208_-69.786964@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221066,
+    "wof:geomhash":"ac93d7dac717b8eb67817f9cd8b7f8fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857711585
+        }
+    ],
+    "wof:id":857711585,
+    "wof:lastmodified":1472627253,
+    "wof:name":"Pro-Way Interior",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -69.786964,
+    44.297208,
+    -69.786964,
+    44.297208
+],
+  "geometry": {"coordinates":[-69.786964,44.297208],"type":"Point"}
+}

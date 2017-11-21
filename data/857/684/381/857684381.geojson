@@ -1,0 +1,81 @@
+{
+  "id": 857684381,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15 N Main St Wolfeboro ME 03813",
+    "addr:housenumber":"15",
+    "addr:postcode":"03813",
+    "addr:street":"N Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.219462,43.586731,-71.219462,43.586731",
+    "geom:latitude":43.586731,
+    "geom:longitude":-71.219462,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 N Main St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 4776",
+    "sg:postcode":"03813",
+    "sg:province":"ME",
+    "sg:tags":[
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gnTHQeeeXc2F08KMJCB4T_43.586731_-71.219462@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220510,
+    "wof:geomhash":"9893de2f57586586c6bd6e38aa88e080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":857684381
+        }
+    ],
+    "wof:id":857684381,
+    "wof:lastmodified":1472627198,
+    "wof:name":"Jen Putney Licsw Ladc",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "worker"
+    ]
+},
+  "bbox": [
+    -71.219462,
+    43.586731,
+    -71.219462,
+    43.586731
+],
+  "geometry": {"coordinates":[-71.21946199999999,43.586731],"type":"Point"}
+}

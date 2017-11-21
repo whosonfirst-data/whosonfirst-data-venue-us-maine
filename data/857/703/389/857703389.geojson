@@ -1,0 +1,83 @@
+{
+  "id": 857703389,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"241 Congress St Portland ME 04101",
+    "addr:housenumber":"241",
+    "addr:postcode":"04101",
+    "addr:street":"Congress St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.252021,43.662583,-70.252021,43.662583",
+    "geom:latitude":43.662583,
+    "geom:longitude":-70.252021,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"241 Congress St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 773 4200",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85835993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JS7wkCC6rKeMCqbtwN5Lc_43.662583_-70.252021@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220884,
+    "wof:geomhash":"80c4198ea16fe2488c45b627713ae23a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85835993,
+            "region_id":85688769,
+            "venue_id":857703389
+        }
+    ],
+    "wof:id":857703389,
+    "wof:lastmodified":1472627201,
+    "wof:name":"Carlson & Turner Books",
+    "wof:parent_id":85835993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -70.252021,
+    43.662583,
+    -70.252021,
+    43.662583
+],
+  "geometry": {"coordinates":[-70.252021,43.662583],"type":"Point"}
+}

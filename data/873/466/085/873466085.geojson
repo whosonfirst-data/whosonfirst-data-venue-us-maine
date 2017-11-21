@@ -1,0 +1,76 @@
+{
+  "id": 873466085,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12 W Side Rd South Bristol ME 04568",
+    "addr:housenumber":"12",
+    "addr:postcode":"04568",
+    "addr:street":"W Side Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.551779,43.837678,-69.551779,43.837678",
+    "geom:latitude":43.837678,
+    "geom:longitude":-69.551779,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 W Side Rd",
+    "sg:city":"South Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 644 8552",
+    "sg:postcode":"04568",
+    "sg:province":"ME",
+    "sg:website":"www.islandgrocery.net/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85810969,
+        102087447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3esFJTJrQbo4LoRCNSn4ht_43.837678_-69.551779@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221589,
+    "wof:geomhash":"cb1faf434a438a25e316e5c328a578fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087447,
+            "neighbourhood_id":85810969,
+            "region_id":85688769,
+            "venue_id":873466085
+        }
+    ],
+    "wof:id":873466085,
+    "wof:lastmodified":1472627182,
+    "wof:name":"Island Grocery",
+    "wof:parent_id":85810969,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.551779,
+    43.837678,
+    -69.551779,
+    43.837678
+],
+  "geometry": {"coordinates":[-69.551779,43.837678],"type":"Point"}
+}

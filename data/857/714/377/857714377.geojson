@@ -1,0 +1,84 @@
+{
+  "id": 857714377,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"65 Water St Ellsworth ME 04605",
+    "addr:housenumber":"65",
+    "addr:postcode":"04605",
+    "addr:street":"Water St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.424616,44.540764,-68.424616,44.540764",
+    "geom:latitude":44.540764,
+    "geom:longitude":-68.424616,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"65 Water St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 2512",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.morrisonchevolds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p63LrpS66ftTQgEJDYxHD_44.540764_-68.424616@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221136,
+    "wof:geomhash":"5b61ed42f1eab352b8e7e9b86d2e45ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857714377
+        }
+    ],
+    "wof:id":857714377,
+    "wof:lastmodified":1472627258,
+    "wof:name":"Morrison Chevrolet & Olds",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -68.424616,
+    44.540764,
+    -68.424616,
+    44.540764
+],
+  "geometry": {"coordinates":[-68.424616,44.540764],"type":"Point"}
+}

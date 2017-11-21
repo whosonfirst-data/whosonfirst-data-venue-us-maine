@@ -1,0 +1,81 @@
+{
+  "id": 857709245,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1 Arnold St Eastport ME 04631",
+    "addr:housenumber":"1",
+    "addr:postcode":"04631",
+    "addr:street":"Arnold St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.028161,44.928627,-67.028161,44.928627",
+    "geom:latitude":44.928627,
+    "geom:longitude":-67.028161,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Arnold St",
+    "sg:city":"Eastport",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 853 6164",
+    "sg:postcode":"04631",
+    "sg:province":"ME",
+    "sg:tags":[
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843545,
+        102191575,
+        404475775,
+        85633793,
+        85948873,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uOfqGakJUDGc3EcENfguj_44.928627_-67.028161@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221010,
+    "wof:geomhash":"3b7bbd2eecdae10bcfe14ab70d5d9e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475775,
+            "locality_id":85948873,
+            "neighbourhood_id":85843545,
+            "region_id":85688769,
+            "venue_id":857709245
+        }
+    ],
+    "wof:id":857709245,
+    "wof:lastmodified":1472627229,
+    "wof:name":"Creative Apparel Assoc",
+    "wof:parent_id":85843545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accessory"
+    ]
+},
+  "bbox": [
+    -67.028161,
+    44.928627,
+    -67.028161,
+    44.928627
+],
+  "geometry": {"coordinates":[-67.028161,44.928627],"type":"Point"}
+}

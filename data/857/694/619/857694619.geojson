@@ -1,0 +1,77 @@
+{
+  "id": 857694619,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9 Beal St Machias ME 04654",
+    "addr:housenumber":"9",
+    "addr:postcode":"04654",
+    "addr:street":"Beal St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.466892,44.711836,-67.466892,44.711836",
+    "geom:latitude":44.711836,
+    "geom:longitude":-67.466892,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Beal St",
+    "sg:city":"Machias",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 255 3387",
+    "sg:postcode":"04654",
+    "sg:province":"ME",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85826381,
+        102081143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lr1iOWVf6zo9VVHFJikni_44.711836_-67.466892@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220709,
+    "wof:geomhash":"581c92f401ea1975458b0b077f5aaeca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85826381,
+            "region_id":85688769,
+            "venue_id":857694619
+        }
+    ],
+    "wof:id":857694619,
+    "wof:lastmodified":1472627213,
+    "wof:name":"Marshall's Health Care Fclty",
+    "wof:parent_id":85826381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -67.466892,
+    44.711836,
+    -67.466892,
+    44.711836
+],
+  "geometry": {"coordinates":[-67.466892,44.711836],"type":"Point"}
+}

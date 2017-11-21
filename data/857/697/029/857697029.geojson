@@ -1,0 +1,81 @@
+{
+  "id": 857697029,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1702 Main St Mapleton ME 04746",
+    "addr:housenumber":"1702",
+    "addr:postcode":"04746",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.155919,46.681768,-68.155919,46.681768",
+    "geom:latitude":46.681768,
+    "geom:longitude":-68.155919,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1702 Main St",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 6886",
+    "sg:postcode":"04746",
+    "sg:province":"ME",
+    "sg:tags":[
+        "sharpening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01TvNz5Guj8RAtvXA7HqEm_46.681768_-68.155919@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220754,
+    "wof:geomhash":"a803416f990bec9d97fa9f64beb552b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857697029
+        }
+    ],
+    "wof:id":857697029,
+    "wof:lastmodified":1472627193,
+    "wof:name":"Ernie's Sharpening Svc",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening"
+    ]
+},
+  "bbox": [
+    -68.155919,
+    46.681768,
+    -68.155919,
+    46.681768
+],
+  "geometry": {"coordinates":[-68.155919,46.681768],"type":"Point"}
+}

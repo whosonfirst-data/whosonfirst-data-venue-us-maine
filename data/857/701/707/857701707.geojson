@@ -1,0 +1,81 @@
+{
+  "id": 857701707,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"50 Main St Bucksport ME 04416",
+    "addr:housenumber":"50",
+    "addr:postcode":"04416",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.77686,44.570142,-68.77686,44.570142",
+    "geom:latitude":44.570142,
+    "geom:longitude":-68.77686,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Main St",
+    "sg:city":"Bucksport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 469 7368",
+    "sg:postcode":"04416",
+    "sg:province":"ME",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843193,
+        102191575,
+        404475595,
+        85633793,
+        85949087,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t0pfZGtUyU8IUWdnlvAXc_44.570142_-68.776860@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220854,
+    "wof:geomhash":"4092f95803a6b9803597c5e14589d339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475595,
+            "locality_id":85949087,
+            "neighbourhood_id":85843193,
+            "region_id":85688769,
+            "venue_id":857701707
+        }
+    ],
+    "wof:id":857701707,
+    "wof:lastmodified":1472627216,
+    "wof:name":"Bucksport Town Clerk",
+    "wof:parent_id":85843193,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -68.77686,
+    44.570142,
+    -68.77686,
+    44.570142
+],
+  "geometry": {"coordinates":[-68.77686,44.570142],"type":"Point"}
+}

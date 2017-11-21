@@ -1,0 +1,81 @@
+{
+  "id": 857684497,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"41 Bruce Hill Rd Cumberland Ctr ME 04021",
+    "addr:housenumber":"41",
+    "addr:postcode":"04021",
+    "addr:street":"Bruce Hill Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.300175,43.794328,-70.300175,43.794328",
+    "geom:latitude":43.794328,
+    "geom:longitude":-70.300175,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 Bruce Hill Rd",
+    "sg:city":"Cumberland Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 829 5409",
+    "sg:postcode":"04021",
+    "sg:province":"ME",
+    "sg:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85855337,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48CVLsSqUrgiWDsSfLsLqr_43.794328_-70.300175@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220513,
+    "wof:geomhash":"d9ce2a1753d27446094d83db5bf4e291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85855337,
+            "region_id":85688769,
+            "venue_id":857684497
+        }
+    ],
+    "wof:id":857684497,
+    "wof:lastmodified":1472627201,
+    "wof:name":"C & E Hardwoods",
+    "wof:parent_id":85855337,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ]
+},
+  "bbox": [
+    -70.300175,
+    43.794328,
+    -70.300175,
+    43.794328
+],
+  "geometry": {"coordinates":[-70.300175,43.794328],"type":"Point"}
+}

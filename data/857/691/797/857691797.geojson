@@ -1,0 +1,70 @@
+{
+  "id": 857691797,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1465 E Conway Rd North Conway ME 03813",
+    "addr:housenumber":"1465",
+    "addr:postcode":"03813",
+    "addr:street":"E Conway Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.059523,44.011292,-71.059523,44.011292",
+    "geom:latitude":44.011292,
+    "geom:longitude":-71.059523,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1465 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 5097",
+    "sg:postcode":"03813",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MeJ4TSKK4XczuKfQXRCz0_44.011292_-71.059523@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220658,
+    "wof:geomhash":"b972670b00d995c23ca0efa731a5209a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":857691797
+        }
+    ],
+    "wof:id":857691797,
+    "wof:lastmodified":1472627208,
+    "wof:name":"North Conway Irving Mainway",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.059523,
+    44.011292,
+    -71.059523,
+    44.011292
+],
+  "geometry": {"coordinates":[-71.059523,44.011292],"type":"Point"}
+}

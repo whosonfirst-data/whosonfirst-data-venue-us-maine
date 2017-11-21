@@ -1,0 +1,79 @@
+{
+  "id": 857704973,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"418 Ray St Portland ME 04103",
+    "addr:housenumber":"418",
+    "addr:postcode":"04103",
+    "addr:street":"Ray St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.282162,43.70358,-70.282162,43.70358",
+    "geom:latitude":43.70358,
+    "geom:longitude":-70.282162,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"418 Ray St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 878 0788",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85837549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pd0E3l5htOxlWna8VoUBv_43.703580_-70.282162@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220911,
+    "wof:geomhash":"56aa130880c70db909974b533c755a47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85837549,
+            "region_id":85688769,
+            "venue_id":857704973
+        }
+    ],
+    "wof:id":857704973,
+    "wof:lastmodified":1472627254,
+    "wof:name":"Fallbrook Woods",
+    "wof:parent_id":85837549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -70.282162,
+    43.70358,
+    -70.282162,
+    43.70358
+],
+  "geometry": {"coordinates":[-70.282162,43.70358],"type":"Point"}
+}

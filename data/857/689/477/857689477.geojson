@@ -1,0 +1,78 @@
+{
+  "id": 857689477,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1 High St Sangerville ME 04468",
+    "addr:housenumber":"1",
+    "addr:postcode":"04468",
+    "addr:street":"High St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.650862,44.937567,-68.650862,44.937567",
+    "geom:latitude":44.937567,
+    "geom:longitude":-68.650862,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 High St",
+    "sg:city":"Sangerville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 876 3541",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "metalworking"
+    ],
+    "sg:website":"www.numberall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PGu3UQjrKlyDAvw3lpAw7_44.937567_-68.650862@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220607,
+    "wof:geomhash":"b2a6c6b97cf872b819cb41915b89a489",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857689477
+        }
+    ],
+    "wof:id":857689477,
+    "wof:lastmodified":1472627205,
+    "wof:name":"Numberall Stamp & Tool Co Inc",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metalworking"
+    ]
+},
+  "bbox": [
+    -68.650862,
+    44.937567,
+    -68.650862,
+    44.937567
+],
+  "geometry": {"coordinates":[-68.650862,44.937567],"type":"Point"}
+}

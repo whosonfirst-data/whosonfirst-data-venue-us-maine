@@ -1,0 +1,81 @@
+{
+  "id": 857711337,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"499 Stevens Ave Portland ME 04103",
+    "addr:housenumber":"499",
+    "addr:postcode":"04103",
+    "addr:street":"Stevens Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.295034,43.675,-70.295034,43.675",
+    "geom:latitude":43.675,
+    "geom:longitude":-70.295034,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"499 Stevens Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 6688",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85880021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_274IOsaqFO2eg14QlPNXRp_43.675000_-70.295034@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221057,
+    "wof:geomhash":"82a2b7f7c76c72d406bddc5fa08a1a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880021,
+            "region_id":85688769,
+            "venue_id":857711337
+        }
+    ],
+    "wof:id":857711337,
+    "wof:lastmodified":1472627241,
+    "wof:name":"Michael A Russo Nd",
+    "wof:parent_id":85880021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.295034,
+    43.675,
+    -70.295034,
+    43.675
+],
+  "geometry": {"coordinates":[-70.295034,43.675],"type":"Point"}
+}

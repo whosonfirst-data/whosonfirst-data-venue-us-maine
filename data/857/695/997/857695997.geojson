@@ -1,0 +1,81 @@
+{
+  "id": 857695997,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6 Dupuis Ave Lewiston ME 04240",
+    "addr:housenumber":"6",
+    "addr:postcode":"04240",
+    "addr:street":"Dupuis Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.189466,44.095996,-70.189466,44.095996",
+    "geom:latitude":44.095996,
+    "geom:longitude":-70.189466,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Dupuis Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 782 2492",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PRo0UihLNJm8FOXVDmmdt_44.095996_-70.189466@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220737,
+    "wof:geomhash":"3197c5125652468135cc8a8ca7ae951e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857695997
+        }
+    ],
+    "wof:id":857695997,
+    "wof:lastmodified":1472627216,
+    "wof:name":"Medical Billing Advisory",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -70.189466,
+    44.095996,
+    -70.189466,
+    44.095996
+],
+  "geometry": {"coordinates":[-70.189466,44.095996],"type":"Point"}
+}

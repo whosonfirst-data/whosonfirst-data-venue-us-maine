@@ -1,0 +1,79 @@
+{
+  "id": 857697433,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"174 Main St Lincoln ME 04457",
+    "addr:housenumber":"174",
+    "addr:postcode":"04457",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.50216,45.372211,-68.50216,45.372211",
+    "geom:latitude":45.372211,
+    "geom:longitude":-68.50216,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"174 Main St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 794 2950",
+    "sg:postcode":"04457",
+    "sg:province":"ME",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949107,
+        102080723,
+        85849837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tRfCYQcgNnt19SyIEfdaT_45.372211_-68.502160@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220764,
+    "wof:geomhash":"ac8b82730b68c92f3a070c602e8b54bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85949107,
+            "neighbourhood_id":85849837,
+            "region_id":85688769,
+            "venue_id":857697433
+        }
+    ],
+    "wof:id":857697433,
+    "wof:lastmodified":1472627206,
+    "wof:name":"Lincoln True Count Redemption",
+    "wof:parent_id":85849837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -68.50216,
+    45.372211,
+    -68.50216,
+    45.372211
+],
+  "geometry": {"coordinates":[-68.50216,45.372211],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873464799,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"161 Ocean St South Portland ME 04106",
+    "addr:housenumber":"161",
+    "addr:postcode":"04106",
+    "addr:street":"Ocean St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.252502,43.636799,-70.252502,43.636799",
+    "geom:latitude":43.636799,
+    "geom:longitude":-70.252502,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"161 Ocean St",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 799 8266",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948879,
+        102087463,
+        85867973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HZA7IHrZvuIGLfkYuKSoP_43.636799_-70.252502@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221564,
+    "wof:geomhash":"1b8c86399f2624c56afbb19d1d46766b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948879,
+            "neighbourhood_id":85867973,
+            "region_id":85688769,
+            "venue_id":873464799
+        }
+    ],
+    "wof:id":873464799,
+    "wof:lastmodified":1472627184,
+    "wof:name":"Tropical Sun Tanning & Beach Wear",
+    "wof:parent_id":85867973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.252502,
+    43.636799,
+    -70.252502,
+    43.636799
+],
+  "geometry": {"coordinates":[-70.25250200000001,43.636799],"type":"Point"}
+}

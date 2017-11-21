@@ -1,0 +1,70 @@
+{
+  "id": 857725997,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"34 Park St South Paris ME 04281",
+    "addr:housenumber":"34",
+    "addr:postcode":"04281",
+    "addr:street":"Park St South",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.514141,44.225129,-70.514141,44.225129",
+    "geom:latitude":44.225129,
+    "geom:longitude":-70.514141,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"34 Park St",
+    "sg:city":"South Paris",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 743 0401",
+    "sg:postcode":"04281",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85868781,
+        102087437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20zy8Finxap3D9AcCQ6JqA_44.225129_-70.514141@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221361,
+    "wof:geomhash":"2a97f60e027ba6c0b76d880005fdd9fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087437,
+            "neighbourhood_id":85868781,
+            "region_id":85688769,
+            "venue_id":857725997
+        }
+    ],
+    "wof:id":857725997,
+    "wof:lastmodified":1472627275,
+    "wof:name":"Jane Billings Insurance Inc",
+    "wof:parent_id":85868781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.514141,
+    44.225129,
+    -70.514141,
+    44.225129
+],
+  "geometry": {"coordinates":[-70.514141,44.225129],"type":"Point"}
+}

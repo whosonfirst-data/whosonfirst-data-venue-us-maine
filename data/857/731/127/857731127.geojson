@@ -1,0 +1,84 @@
+{
+  "id": 857731127,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1002 Stillwater Ave Old Town ME 04468",
+    "addr:housenumber":"1002",
+    "addr:postcode":"04468",
+    "addr:street":"Stillwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.683432,44.914605,-68.683432,44.914605",
+    "geom:latitude":44.914605,
+    "geom:longitude":-68.683432,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1002 Stillwater Ave",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/old-town/176319-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 0082",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dx3b3Ul3flvGRz10zCHjr_44.914605_-68.683432@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221458,
+    "wof:geomhash":"986af3cadd61296226ab8abe834560f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857731127
+        }
+    ],
+    "wof:id":857731127,
+    "wof:lastmodified":1472627298,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -68.683432,
+    44.914605,
+    -68.683432,
+    44.914605
+],
+  "geometry": {"coordinates":[-68.683432,44.914605],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 857698085,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"178 Warren Ave Portland ME 04103",
+    "addr:housenumber":"178",
+    "addr:postcode":"04103",
+    "addr:street":"Warren Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.304661,43.688156,-70.304661,43.688156",
+    "geom:latitude":43.688156,
+    "geom:longitude":-70.304661,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"178 Warren Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 797 3550",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "banquet",
+        "rooms"
+    ],
+    "sg:website":"www.keeleythekaterer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85835305,
+        85813999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49d39Q9azR8zpR3pPHTduy_43.688156_-70.304661@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220775,
+    "wof:geomhash":"3c4663776687271821cfb6234e858e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85835305,
+            "region_id":85688769,
+            "venue_id":857698085
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85813999,
+            "region_id":85688769,
+            "venue_id":857698085
+        }
+    ],
+    "wof:id":857698085,
+    "wof:lastmodified":1472627195,
+    "wof:name":"Keeley The Katerer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -70.304661,
+    43.688156,
+    -70.304661,
+    43.688156
+],
+  "geometry": {"coordinates":[-70.304661,43.688156],"type":"Point"}
+}

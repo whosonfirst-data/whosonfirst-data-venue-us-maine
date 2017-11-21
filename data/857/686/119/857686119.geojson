@@ -1,0 +1,79 @@
+{
+  "id": 857686119,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"315 Phillips Rd Bangor ME 04401",
+    "addr:housenumber":"315",
+    "addr:postcode":"04401",
+    "addr:street":"Phillips Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.900774,44.872647,-68.900774,44.872647",
+    "geom:latitude":44.872647,
+    "geom:longitude":-68.900774,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"315 Phillips Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 884 7296",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85855557,
+        102080723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RqfEYDhR1LY00UiEe5fxD_44.872647_-68.900774@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220541,
+    "wof:geomhash":"e86a9b7368947b9d1dc0a78f55645cd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85855557,
+            "region_id":85688769,
+            "venue_id":857686119
+        }
+    ],
+    "wof:id":857686119,
+    "wof:lastmodified":1472627189,
+    "wof:name":"Corson's Garage",
+    "wof:parent_id":85855557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -68.900774,
+    44.872647,
+    -68.900774,
+    44.872647
+],
+  "geometry": {"coordinates":[-68.900774,44.872647],"type":"Point"}
+}

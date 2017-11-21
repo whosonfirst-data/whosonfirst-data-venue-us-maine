@@ -1,0 +1,84 @@
+{
+  "id": 857689625,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"328 Bucksport Rd Ellsworth ME 04605",
+    "addr:housenumber":"328",
+    "addr:postcode":"04605",
+    "addr:street":"Bucksport Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.516366,44.544848,-68.516366,44.544848",
+    "geom:latitude":44.544848,
+    "geom:longitude":-68.516366,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"328 Bucksport Rd",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 664 0500",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "sg:website":"www.stanleymarine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q2oPEjDFaQHx6g8fxwtgt_44.544848_-68.516366@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220610,
+    "wof:geomhash":"b3be51f16453cf520e7474dbd9985bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857689625
+        }
+    ],
+    "wof:id":857689625,
+    "wof:lastmodified":1472627209,
+    "wof:name":"Stanley Marine",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -68.516366,
+    44.544848,
+    -68.516366,
+    44.544848
+],
+  "geometry": {"coordinates":[-68.516366,44.544848],"type":"Point"}
+}

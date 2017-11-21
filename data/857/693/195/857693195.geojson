@@ -1,0 +1,85 @@
+{
+  "id": 857693195,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"91 E Bridge St Westbrook ME 04092",
+    "addr:housenumber":"91",
+    "addr:postcode":"04092",
+    "addr:street":"E Bridge St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.355608,43.694942,-70.355608,43.694942",
+    "geom:latitude":43.694942,
+    "geom:longitude":-70.355608,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"91 E Bridge St",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 854 1679",
+    "sg:postcode":"04092",
+    "sg:province":"ME",
+    "sg:tags":[
+        "food",
+        "product",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843131,
+        102191575,
+        404474917,
+        85633793,
+        85948881,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Bj4BFgrmJEYePLSsUENNU_43.694942_-70.355608@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220683,
+    "wof:geomhash":"33bb363b49af99836033bd9f3bf79c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404474917,
+            "locality_id":85948881,
+            "neighbourhood_id":85843131,
+            "region_id":85688769,
+            "venue_id":857693195
+        }
+    ],
+    "wof:id":857693195,
+    "wof:lastmodified":1472627201,
+    "wof:name":"Mad Gabs Inc",
+    "wof:parent_id":85843131,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product",
+        "health"
+    ]
+},
+  "bbox": [
+    -70.355608,
+    43.694942,
+    -70.355608,
+    43.694942
+],
+  "geometry": {"coordinates":[-70.355608,43.694942],"type":"Point"}
+}

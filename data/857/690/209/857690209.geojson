@@ -1,0 +1,81 @@
+{
+  "id": 857690209,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"58 Harding Ave Island Falls ME 04742",
+    "addr:housenumber":"58",
+    "addr:postcode":"04742",
+    "addr:street":"Harding Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.826073,46.764454,-67.826073,46.764454",
+    "geom:latitude":46.764454,
+    "geom:longitude":-67.826073,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"58 Harding Ave",
+    "sg:city":"Island Falls",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 463 2119",
+    "sg:postcode":"04742",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fnosZB7SHo53jI9jzTEld_46.764454_-67.826073@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220621,
+    "wof:geomhash":"5525f012954c228a62082902d372eac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857690209
+        }
+    ],
+    "wof:id":857690209,
+    "wof:lastmodified":1472627194,
+    "wof:name":"Country Creations",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -67.826073,
+    46.764454,
+    -67.826073,
+    46.764454
+],
+  "geometry": {"coordinates":[-67.82607299999999,46.764454],"type":"Point"}
+}

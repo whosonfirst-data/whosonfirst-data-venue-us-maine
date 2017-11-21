@@ -1,0 +1,81 @@
+{
+  "id": 857722231,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1330 Bunker Hill Rd Jefferson ME 04348",
+    "addr:housenumber":"1330",
+    "addr:postcode":"04348",
+    "addr:street":"Bunker Hill Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.516429,44.12292,-69.516429,44.12292",
+    "geom:latitude":44.12292,
+    "geom:longitude":-69.516429,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1330 Bunker Hill Rd",
+    "sg:city":"Jefferson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 563 6848",
+    "sg:postcode":"04348",
+    "sg:province":"ME",
+    "sg:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948963,
+        102087447,
+        85813435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VXbOpCiUwxH1Ss1wt5HRT_44.122920_-69.516429@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221293,
+    "wof:geomhash":"0727f7623b411743c7ff57c67087f021",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087447,
+            "locality_id":85948963,
+            "neighbourhood_id":85813435,
+            "region_id":85688769,
+            "venue_id":857722231
+        }
+    ],
+    "wof:id":857722231,
+    "wof:lastmodified":1472627258,
+    "wof:name":"Dale E Hunt Painting Inc",
+    "wof:parent_id":85813435,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -69.516429,
+    44.12292,
+    -69.516429,
+    44.12292
+],
+  "geometry": {"coordinates":[-69.516429,44.12292],"type":"Point"}
+}

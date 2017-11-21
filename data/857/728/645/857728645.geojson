@@ -1,0 +1,76 @@
+{
+  "id": 857728645,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4 Dane St Kennebunk ME 04043",
+    "addr:housenumber":"4",
+    "addr:postcode":"04043",
+    "addr:street":"Dane St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.537399,43.386902,-70.537399,43.386902",
+    "geom:latitude":43.386902,
+    "geom:longitude":-70.537399,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Dane St",
+    "sg:city":"Kennebunk",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 985 3055",
+    "sg:postcode":"04043",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804645,
+        102191575,
+        404475789,
+        85633793,
+        85949063,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AdhLqQAtd1IKMP5mX3Ibn_43.387297_-70.537616@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464221408,
+    "wof:geomhash":"9af783ddcaa50143c125b3bdf3249f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475789,
+            "locality_id":85949063,
+            "neighbourhood_id":85804645,
+            "region_id":85688769,
+            "venue_id":857728645
+        }
+    ],
+    "wof:id":857728645,
+    "wof:lastmodified":1472627302,
+    "wof:name":"Natural Way Chiropractic",
+    "wof:parent_id":85804645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.537399,
+    43.386902,
+    -70.537399,
+    43.386902
+],
+  "geometry": {"coordinates":[-70.53739899999999,43.386902],"type":"Point"}
+}

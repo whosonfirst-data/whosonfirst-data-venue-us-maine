@@ -1,0 +1,76 @@
+{
+  "id": 857704267,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"50 Main St Orono ME 04473",
+    "addr:housenumber":"50",
+    "addr:postcode":"04473",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.673195,44.882093,-68.673195,44.882093",
+    "geom:latitude":44.882093,
+    "geom:longitude":-68.673195,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Main St",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 5573",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qupJiE3ZTzZj3I278yMet_44.882093_-68.673195@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220900,
+    "wof:geomhash":"f6a1226904c1809122d5d6f26adc2aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857704267
+        }
+    ],
+    "wof:id":857704267,
+    "wof:lastmodified":1472627225,
+    "wof:name":"Richard S Bradford Inc",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.673195,
+    44.882093,
+    -68.673195,
+    44.882093
+],
+  "geometry": {"coordinates":[-68.67319500000001,44.882093],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857687659,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13 Market St Fort Kent ME 04743",
+    "addr:housenumber":"13",
+    "addr:postcode":"04743",
+    "addr:street":"Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.58763,47.25668,-68.58763,47.25668",
+    "geom:latitude":47.25668,
+    "geom:longitude":-68.58763,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13 Market St",
+    "sg:city":"Fort Kent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 834 3580",
+    "sg:postcode":"04743",
+    "sg:province":"ME",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SJ9Q6xAK3xHvG8tS4JDHH_47.256680_-68.587630@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220572,
+    "wof:geomhash":"cdd65c0fce2dfc038ead801f6aeac7be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857687659
+        }
+    ],
+    "wof:id":857687659,
+    "wof:lastmodified":1472627196,
+    "wof:name":"Steve's Cycle & Marine",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -68.58763,
+    47.25668,
+    -68.58763,
+    47.25668
+],
+  "geometry": {"coordinates":[-68.58763,47.25668],"type":"Point"}
+}

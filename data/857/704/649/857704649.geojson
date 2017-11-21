@@ -1,0 +1,79 @@
+{
+  "id": 857704649,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"140 Congress St Portland ME 04101",
+    "addr:housenumber":"140",
+    "addr:postcode":"04101",
+    "addr:street":"Congress St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.248598,43.665285,-70.248598,43.665285",
+    "geom:latitude":43.665285,
+    "geom:longitude":-70.248598,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"140 Congress St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 1809",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85835993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O5QmTE4bDADoCYwiEeWPA_43.665285_-70.248598@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220906,
+    "wof:geomhash":"27c34a6de26c67b02fa88de6d6a1b7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85835993,
+            "region_id":85688769,
+            "venue_id":857704649
+        }
+    ],
+    "wof:id":857704649,
+    "wof:lastmodified":1472627239,
+    "wof:name":"Portland Free Methodist Church",
+    "wof:parent_id":85835993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -70.248598,
+    43.665285,
+    -70.248598,
+    43.665285
+],
+  "geometry": {"coordinates":[-70.248598,43.665285],"type":"Point"}
+}

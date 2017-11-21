@@ -1,0 +1,86 @@
+{
+  "id": 857690647,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22 Calais Ave Calais ME 04619",
+    "addr:housenumber":"",
+    "addr:postcode":"04619",
+    "addr:street":"Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.276975,45.185911,-67.276975,45.185911",
+    "geom:latitude":45.185911,
+    "geom:longitude":-67.276975,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"22 Calais Ave",
+    "sg:city":"Calais",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 454 8517",
+    "sg:postcode":"04619",
+    "sg:province":"ME",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857599,
+        102191575,
+        404475311,
+        85633793,
+        85948871,
+        102081143,
+        85688769
+    ],
+    "wof:brand_id":1125152567,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h6ahrMnxYugbQWvDFQjf4_45.185911_-67.276975@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220630,
+    "wof:geomhash":"fa3f64d1ff63ac389fe50a942dd09a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475311,
+            "locality_id":85948871,
+            "neighbourhood_id":85857599,
+            "region_id":85688769,
+            "venue_id":857690647
+        }
+    ],
+    "wof:id":857690647,
+    "wof:lastmodified":1510693933,
+    "wof:name":"Army National Guard Recruiter",
+    "wof:parent_id":85857599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -67.276975,
+    45.185911,
+    -67.276975,
+    45.185911
+],
+  "geometry": {"coordinates":[-67.27697499999999,45.185911],"type":"Point"}
+}

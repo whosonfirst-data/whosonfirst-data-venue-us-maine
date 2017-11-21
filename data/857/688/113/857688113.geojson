@@ -1,0 +1,75 @@
+{
+  "id": 857688113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"24 Gilbert Dr Manchester ME 04351",
+    "addr:housenumber":"24",
+    "addr:postcode":"04351",
+    "addr:street":"Gilbert Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.858676,44.376928,-69.858676,44.376928",
+    "geom:latitude":44.376928,
+    "geom:longitude":-69.858676,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 Gilbert Dr",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 621 1884",
+    "sg:postcode":"04351",
+    "sg:province":"ME",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85841121,
+        102087461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BuuGvUEGJVG4N3idfbsGM_44.376928_-69.858676@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220581,
+    "wof:geomhash":"f64281b2f50503f9b1510213237a251e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "neighbourhood_id":85841121,
+            "region_id":85688769,
+            "venue_id":857688113
+        }
+    ],
+    "wof:id":857688113,
+    "wof:lastmodified":1472627190,
+    "wof:name":"Mark Daigle",
+    "wof:parent_id":85841121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -69.858676,
+    44.376928,
+    -69.858676,
+    44.376928
+],
+  "geometry": {"coordinates":[-69.858676,44.376928],"type":"Point"}
+}

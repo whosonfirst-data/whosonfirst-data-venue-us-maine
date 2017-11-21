@@ -1,0 +1,78 @@
+{
+  "id": 857731197,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"209 Townsend Ave Boothbay Harbor ME 04538",
+    "addr:housenumber":"209",
+    "addr:postcode":"04538",
+    "addr:street":"Townsend Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.627463,43.8624,-69.627463,43.8624",
+    "geom:latitude":43.8624,
+    "geom:longitude":-69.627463,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"209 Townsend Ave",
+    "sg:city":"Boothbay Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/boothbay-harbor/244774-amatos-xpress/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 633 2419",
+    "sg:postcode":"04538",
+    "sg:province":"ME",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948955,
+        102087447,
+        85835605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IeHpqOfVKeiRfh9PUk40c_43.862400_-69.627463@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221460,
+    "wof:geomhash":"5df13b6c3ec5200af209fcad385bc4f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087447,
+            "locality_id":85948955,
+            "neighbourhood_id":85835605,
+            "region_id":85688769,
+            "venue_id":857731197
+        }
+    ],
+    "wof:id":857731197,
+    "wof:lastmodified":1472627300,
+    "wof:name":"Amato's Xpress",
+    "wof:parent_id":85835605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -69.627463,
+    43.8624,
+    -69.627463,
+    43.8624
+],
+  "geometry": {"coordinates":[-69.62746300000001,43.8624],"type":"Point"}
+}

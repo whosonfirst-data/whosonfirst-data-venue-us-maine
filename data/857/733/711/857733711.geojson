@@ -1,0 +1,84 @@
+{
+  "id": 857733711,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"435 Cider Hill Rd York ME 03909",
+    "addr:housenumber":"435",
+    "addr:postcode":"03909",
+    "addr:street":"Cider Hill Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.697304,43.1586,-70.697304,43.1586",
+    "geom:latitude":43.1586,
+    "geom:longitude":-70.697304,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"435 Cider Hill Rd",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 351 2700",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85820011,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DnMnIUY6WMoe4BTu87gS0_43.158600_-70.697304@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221513,
+    "wof:geomhash":"b055abf128f107eeb6bc9709c8ae189a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85820011,
+            "region_id":85688769,
+            "venue_id":857733711
+        }
+    ],
+    "wof:id":857733711,
+    "wof:lastmodified":1472627311,
+    "wof:name":"Brixham Montessori Friends School",
+    "wof:parent_id":85820011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -70.697304,
+    43.1586,
+    -70.697304,
+    43.1586
+],
+  "geometry": {"coordinates":[-70.697304,43.1586],"type":"Point"}
+}

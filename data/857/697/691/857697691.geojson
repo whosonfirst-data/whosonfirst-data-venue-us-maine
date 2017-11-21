@@ -1,0 +1,72 @@
+{
+  "id": 857697691,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11 Park St Pittsfield ME 04967",
+    "addr:housenumber":"11",
+    "addr:postcode":"04967",
+    "addr:street":"Park St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.383439,44.784654,-69.383439,44.784654",
+    "geom:latitude":44.784654,
+    "geom:longitude":-69.383439,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Park St",
+    "sg:city":"Pittsfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 487 2500",
+    "sg:postcode":"04967",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949081,
+        102087435,
+        85854823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SFHWFDAamwrkNokcZEWwl_44.784654_-69.383439@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220768,
+    "wof:geomhash":"4ec6fc1fc29c03ff80ea42d3d6d1cbbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087435,
+            "locality_id":85949081,
+            "neighbourhood_id":85854823,
+            "region_id":85688769,
+            "venue_id":857697691
+        }
+    ],
+    "wof:id":857697691,
+    "wof:lastmodified":1472627212,
+    "wof:name":"Village Pizza",
+    "wof:parent_id":85854823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.383439,
+    44.784654,
+    -69.383439,
+    44.784654
+],
+  "geometry": {"coordinates":[-69.383439,44.784654],"type":"Point"}
+}

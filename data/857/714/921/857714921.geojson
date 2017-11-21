@@ -1,0 +1,83 @@
+{
+  "id": 857714921,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10 Montana Ave Greenville ME 04401",
+    "addr:housenumber":"10",
+    "addr:postcode":"04401",
+    "addr:street":"Montana Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.803691,44.810439,-68.803691,44.810439",
+    "geom:latitude":44.810439,
+    "geom:longitude":-68.803691,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Montana Ave",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 695 2421",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529713,
+        85855195,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tk1z8R9YhuQTfegHGZ71p_44.810439_-68.803691@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221146,
+    "wof:geomhash":"9ef4a2c307a754a6318b0970545faa18",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529713,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85855195,
+            "region_id":85688769,
+            "venue_id":857714921
+        }
+    ],
+    "wof:id":857714921,
+    "wof:lastmodified":1472627277,
+    "wof:name":"Greenville Town Manager",
+    "wof:parent_id":102529713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -68.803691,
+    44.810439,
+    -68.803691,
+    44.810439
+],
+  "geometry": {"coordinates":[-68.803691,44.810439],"type":"Point"}
+}

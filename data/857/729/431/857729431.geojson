@@ -1,0 +1,82 @@
+{
+  "id": 857729431,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"679 Roosevelt Trl Windham ME 04062",
+    "addr:housenumber":"679",
+    "addr:postcode":"04062",
+    "addr:street":"Roosevelt Trl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.434674,43.827416,-70.434674,43.827416",
+    "geom:latitude":43.827416,
+    "geom:longitude":-70.434674,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"679 Roosevelt Trl",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/windham/93179-the-extreme-pita/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 892 2006",
+    "sg:postcode":"04062",
+    "sg:province":"ME",
+    "sg:tags":[
+        "mediterranean",
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948999,
+        102087463,
+        85838179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z5vHfuFP7o3GGVlJi3gQm_43.827416_-70.434674@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221422,
+    "wof:geomhash":"58b19112a7b89aadef3f89457b1e0d16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948999,
+            "neighbourhood_id":85838179,
+            "region_id":85688769,
+            "venue_id":857729431
+        }
+    ],
+    "wof:id":857729431,
+    "wof:lastmodified":1472627300,
+    "wof:name":"The Extreme Pita",
+    "wof:parent_id":85838179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mediterranean",
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -70.434674,
+    43.827416,
+    -70.434674,
+    43.827416
+],
+  "geometry": {"coordinates":[-70.434674,43.827416],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857685811,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"765 US Hwy 1 Yarmouth ME 04096",
+    "addr:housenumber":"765",
+    "addr:postcode":"04096",
+    "addr:street":"Us Hwy 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.175085,43.804776,-70.175085,43.804776",
+    "geom:latitude":43.804776,
+    "geom:longitude":-70.175085,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"765 US Hwy 1",
+    "sg:city":"Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 846 1109",
+    "sg:postcode":"04096",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859327,
+        102191575,
+        404475445,
+        85633793,
+        85949005,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27RokZfkDwgQRCeeFIZk5A_43.804776_-70.175085@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220536,
+    "wof:geomhash":"1a045cda0594270f2e2af2946a93812f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475445,
+            "locality_id":85949005,
+            "neighbourhood_id":85859327,
+            "region_id":85688769,
+            "venue_id":857685811
+        }
+    ],
+    "wof:id":857685811,
+    "wof:lastmodified":1472627204,
+    "wof:name":"Washington Mutual",
+    "wof:parent_id":85859327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.175085,
+    43.804776,
+    -70.175085,
+    43.804776
+],
+  "geometry": {"coordinates":[-70.175085,43.804776],"type":"Point"}
+}

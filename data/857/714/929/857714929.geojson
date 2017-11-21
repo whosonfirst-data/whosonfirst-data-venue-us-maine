@@ -1,0 +1,83 @@
+{
+  "id": 857714929,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1124 Broad St Auburn ME 04210",
+    "addr:housenumber":"1124",
+    "addr:postcode":"04210",
+    "addr:street":"Broad St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.244514,44.054059,-70.244514,44.054059",
+    "geom:latitude":44.054059,
+    "geom:longitude":-70.244514,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1124 Broad St",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 753 0001",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "sg:tags":[
+        "fabricator",
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813517,
+        102191575,
+        404474837,
+        85633793,
+        85948883,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FCDSPHNs6Ab1CwP19JKPD_44.054059_-70.244514@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221146,
+    "wof:geomhash":"85126c3f70945bdf848c8549260276fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404474837,
+            "locality_id":85948883,
+            "neighbourhood_id":85813517,
+            "region_id":85688769,
+            "venue_id":857714929
+        }
+    ],
+    "wof:id":857714929,
+    "wof:lastmodified":1472627277,
+    "wof:name":"Global Fab",
+    "wof:parent_id":85813517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "metal"
+    ]
+},
+  "bbox": [
+    -70.244514,
+    44.054059,
+    -70.244514,
+    44.054059
+],
+  "geometry": {"coordinates":[-70.244514,44.054059],"type":"Point"}
+}

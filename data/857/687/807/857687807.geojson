@@ -1,0 +1,75 @@
+{
+  "id": 857687807,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13 Cider Ridge Rd Mount Desert ME 04660",
+    "addr:housenumber":"13",
+    "addr:postcode":"04660",
+    "addr:street":"Cider Ridge Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.346316,44.344328,-68.346316,44.344328",
+    "geom:latitude":44.344328,
+    "geom:longitude":-68.346316,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13 Cider Ridge Rd",
+    "sg:city":"Mount Desert",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 244 0065",
+    "sg:postcode":"04660",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85849305,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hAjAmalHuJIijomuWoMiG_44.344328_-68.346316@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220574,
+    "wof:geomhash":"d7593201955f13b162027ae22be8999f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85849305,
+            "region_id":85688769,
+            "venue_id":857687807
+        }
+    ],
+    "wof:id":857687807,
+    "wof:lastmodified":1472627196,
+    "wof:name":"Woods Portable Welding",
+    "wof:parent_id":85849305,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.346316,
+    44.344328,
+    -68.346316,
+    44.344328
+],
+  "geometry": {"coordinates":[-68.346316,44.344328],"type":"Point"}
+}

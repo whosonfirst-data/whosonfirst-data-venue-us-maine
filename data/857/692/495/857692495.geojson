@@ -1,0 +1,76 @@
+{
+  "id": 857692495,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"440 Stillwater Ave Old Town ME 04468",
+    "addr:housenumber":"440",
+    "addr:postcode":"04468",
+    "addr:street":"Stillwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.66178,44.930268,-68.66178,44.930268",
+    "geom:latitude":44.930268,
+    "geom:longitude":-68.66178,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"440 Stillwater Ave",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 7721",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kiXhZ3v3yZRUzPiK6gxzt_44.930268_-68.661780@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220671,
+    "wof:geomhash":"b7ab831de56278ac560303a6a1d37990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857692495
+        }
+    ],
+    "wof:id":857692495,
+    "wof:lastmodified":1472627206,
+    "wof:name":"Birmingham's Florist & Gifts",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.66178,
+    44.930268,
+    -68.66178,
+    44.930268
+],
+  "geometry": {"coordinates":[-68.66177999999999,44.930268],"type":"Point"}
+}

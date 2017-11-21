@@ -1,0 +1,83 @@
+{
+  "id": 857689337,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"454 Main St Presque Isle ME 04769",
+    "addr:housenumber":"454",
+    "addr:postcode":"04769",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.015256,46.681963,-68.015256,46.681963",
+    "geom:latitude":46.681963,
+    "geom:longitude":-68.015256,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"454 Main St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 768 9998",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "consultant",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v0sCBVYwpfDcMzC9Wtc5d_46.681963_-68.015256@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220605,
+    "wof:geomhash":"f2cb67bf1142e638952e8fb1bf171820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857689337
+        }
+    ],
+    "wof:id":857689337,
+    "wof:lastmodified":1472627200,
+    "wof:name":"Carleton Project",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "educational"
+    ]
+},
+  "bbox": [
+    -68.015256,
+    46.681963,
+    -68.015256,
+    46.681963
+],
+  "geometry": {"coordinates":[-68.01525599999999,46.681963],"type":"Point"}
+}

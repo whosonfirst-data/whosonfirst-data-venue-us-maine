@@ -1,0 +1,81 @@
+{
+  "id": 857695403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"682 Main St Old Town ME 04468",
+    "addr:housenumber":"682",
+    "addr:postcode":"04468",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.639349,44.914884,-68.639349,44.914884",
+    "geom:latitude":44.914884,
+    "geom:longitude":-68.639349,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"682 Main St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 5680",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RXSUhy9VnpzvYfJ8zMRXv_44.914884_-68.639349@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220727,
+    "wof:geomhash":"cba765761373a0fa04a18b94a4701f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857695403
+        }
+    ],
+    "wof:id":857695403,
+    "wof:lastmodified":1472627205,
+    "wof:name":"Ford Photography",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -68.639349,
+    44.914884,
+    -68.639349,
+    44.914884
+],
+  "geometry": {"coordinates":[-68.639349,44.914884],"type":"Point"}
+}

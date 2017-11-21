@@ -1,0 +1,76 @@
+{
+  "id": 857699903,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6 Kendall Head Rd Eastport ME 04631",
+    "addr:housenumber":"6",
+    "addr:postcode":"04631",
+    "addr:street":"Kendall Head Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.016099,44.935964,-67.016099,44.935964",
+    "geom:latitude":44.935964,
+    "geom:longitude":-67.016099,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Kendall Head Rd",
+    "sg:city":"Eastport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 853 4484",
+    "sg:postcode":"04631",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843545,
+        102191575,
+        404475775,
+        85633793,
+        85948873,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pcnfTCq1csUSn7nI3rVpI_44.935964_-67.016099@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220810,
+    "wof:geomhash":"1b1cd126339c7ea916343357e0c7bf37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475775,
+            "locality_id":85948873,
+            "neighbourhood_id":85843545,
+            "region_id":85688769,
+            "venue_id":857699903
+        }
+    ],
+    "wof:id":857699903,
+    "wof:lastmodified":1472627213,
+    "wof:name":"Cpl Kennels",
+    "wof:parent_id":85843545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.016099,
+    44.935964,
+    -67.016099,
+    44.935964
+],
+  "geometry": {"coordinates":[-67.016099,44.935964],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857701691,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"229 US Hwy 1 Frenchville ME 04745",
+    "addr:housenumber":"229",
+    "addr:postcode":"04745",
+    "addr:street":"Us Hwy 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.379275,47.303683,-68.379275,47.303683",
+    "geom:latitude":47.303683,
+    "geom:longitude":-68.379275,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"229 US Hwy 1",
+    "sg:city":"Frenchville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 543 6697",
+    "sg:postcode":"04745",
+    "sg:province":"ME",
+    "sg:tags":[
+        "retail",
+        "direct",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UBWMY0CzyRjkj30elNjrD_47.303683_-68.379275@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220854,
+    "wof:geomhash":"b94a64a3fcf6bb3ed1384246410b9bfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857701691
+        }
+    ],
+    "wof:id":857701691,
+    "wof:lastmodified":1472627215,
+    "wof:name":"Downeast Networking Services",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retail",
+        "direct",
+        "sales"
+    ]
+},
+  "bbox": [
+    -68.379275,
+    47.303683,
+    -68.379275,
+    47.303683
+],
+  "geometry": {"coordinates":[-68.37927500000001,47.303683],"type":"Point"}
+}

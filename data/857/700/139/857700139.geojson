@@ -1,0 +1,71 @@
+{
+  "id": 857700139,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"52 Bay Point Rd Georgetown ME 04548",
+    "addr:housenumber":"52",
+    "addr:postcode":"04548",
+    "addr:street":"Bay Point Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.756487,43.800819,-69.756487,43.800819",
+    "geom:latitude":43.800819,
+    "geom:longitude":-69.756487,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 Bay Point Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 371 2160",
+    "sg:postcode":"04548",
+    "sg:province":"ME",
+    "sg:website":"www.georgetown.u47.k12.me.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85855541,
+        102087455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yBriAnsXvneusGl5eMr2y_43.800819_-69.756487@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220816,
+    "wof:geomhash":"1204d49f4627cb3f4c58458400ed6146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087455,
+            "neighbourhood_id":85855541,
+            "region_id":85688769,
+            "venue_id":857700139
+        }
+    ],
+    "wof:id":857700139,
+    "wof:lastmodified":1472627201,
+    "wof:name":"Georgetown Central School",
+    "wof:parent_id":85855541,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.756487,
+    43.800819,
+    -69.756487,
+    43.800819
+],
+  "geometry": {"coordinates":[-69.75648700000001,43.800819],"type":"Point"}
+}

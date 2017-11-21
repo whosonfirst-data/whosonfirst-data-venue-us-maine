@@ -1,0 +1,83 @@
+{
+  "id": 857706573,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"52 Portland Street Pier South Portland ME 04106",
+    "addr:housenumber":"52",
+    "addr:postcode":"04106",
+    "addr:street":"Portland Street Pier",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.242321,43.649841,-70.242321,43.649841",
+    "geom:latitude":43.649841,
+    "geom:longitude":-70.242321,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 Portland Street Pier",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 2087",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820201,
+        102191575,
+        404475439,
+        85633793,
+        85948879,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14cIHeFGgT9POvHLt1BKN8_43.649841_-70.242321@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220941,
+    "wof:geomhash":"ed38373923a62317033d973a4f9dada0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475439,
+            "locality_id":85948879,
+            "neighbourhood_id":85820201,
+            "region_id":85688769,
+            "venue_id":857706573
+        }
+    ],
+    "wof:id":857706573,
+    "wof:lastmodified":1472627238,
+    "wof:name":"J W Mantsch Plumbing & Heating",
+    "wof:parent_id":85820201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.242321,
+    43.649841,
+    -70.242321,
+    43.649841
+],
+  "geometry": {"coordinates":[-70.242321,43.649841],"type":"Point"}
+}

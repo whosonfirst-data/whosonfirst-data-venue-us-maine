@@ -1,0 +1,75 @@
+{
+  "id": 857732525,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"168 Main St Ogunquit ME 03907",
+    "addr:housenumber":"168",
+    "addr:postcode":"03907",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.601799,43.243301,-70.601799,43.243301",
+    "geom:latitude":43.243301,
+    "geom:longitude":-70.601799,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"168 Main St",
+    "sg:city":"Ogunquit",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 646 9056",
+    "sg:postcode":"03907",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85854335,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cTr7DCF2zkyST8fyOj1j4_43.243301_-70.601799@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221493,
+    "wof:geomhash":"9a231639b774ee7bf60e64e944e63274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85854335,
+            "region_id":85688769,
+            "venue_id":857732525
+        }
+    ],
+    "wof:id":857732525,
+    "wof:lastmodified":1472627305,
+    "wof:name":"Yellow Monkey Guest Houses & Motel",
+    "wof:parent_id":85854335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.601799,
+    43.243301,
+    -70.601799,
+    43.243301
+],
+  "geometry": {"coordinates":[-70.601799,43.243301],"type":"Point"}
+}

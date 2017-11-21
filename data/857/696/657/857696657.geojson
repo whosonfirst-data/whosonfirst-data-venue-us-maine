@@ -1,0 +1,81 @@
+{
+  "id": 857696657,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"92 Wilbraham Rd Springfield ME 01109",
+    "addr:housenumber":"92",
+    "addr:postcode":"01109",
+    "addr:street":"Wilbraham Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.560205,42.111763,-72.560205,42.111763",
+    "geom:latitude":42.111763,
+    "geom:longitude":-72.560205,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"92 Wilbraham Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 413 736 2007",
+    "sg:postcode":"01109",
+    "sg:province":"ME",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853247,
+        102191575,
+        404476369,
+        85633793,
+        85950393,
+        102084627,
+        85688645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18dw47hQ1jLYVuQW1sOZAa_42.111763_-72.560205@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220747,
+    "wof:geomhash":"650e7b1dcb88bc0b50386b8895179cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476369,
+            "locality_id":85950393,
+            "neighbourhood_id":85853247,
+            "region_id":85688645,
+            "venue_id":857696657
+        }
+    ],
+    "wof:id":857696657,
+    "wof:lastmodified":1472627213,
+    "wof:name":"P J's Painting & Maintenance",
+    "wof:parent_id":85853247,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -72.560205,
+    42.111763,
+    -72.560205,
+    42.111763
+],
+  "geometry": {"coordinates":[-72.560205,42.111763],"type":"Point"}
+}

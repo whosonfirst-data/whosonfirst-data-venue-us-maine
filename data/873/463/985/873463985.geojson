@@ -1,0 +1,72 @@
+{
+  "id": 873463985,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1220 Portland Rd Arundel ME 04046",
+    "addr:housenumber":"1220",
+    "addr:postcode":"04046",
+    "addr:street":"Portland Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.521202,43.410599,-70.521202,43.410599",
+    "geom:latitude":43.410599,
+    "geom:longitude":-70.521202,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1220 Portland Rd",
+    "sg:city":"Arundel",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 985 3576",
+    "sg:postcode":"04046",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949039,
+        102087449,
+        85828039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y5niAfOulIf2QckJTCDd0_43.410599_-70.521202@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221547,
+    "wof:geomhash":"cf150ddc552046efb25df90d434c8475",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85949039,
+            "neighbourhood_id":85828039,
+            "region_id":85688769,
+            "venue_id":873463985
+        }
+    ],
+    "wof:id":873463985,
+    "wof:lastmodified":1472627183,
+    "wof:name":"Altieri Anthony N Dent",
+    "wof:parent_id":85828039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.521202,
+    43.410599,
+    -70.521202,
+    43.410599
+],
+  "geometry": {"coordinates":[-70.521202,43.410599],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 873464899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"130C Thadeus St South Portland ME 04106",
+    "addr:housenumber":"130c",
+    "addr:postcode":"04106",
+    "addr:street":"Thadeus St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.287617,43.625563,-70.287617,43.625563",
+    "geom:latitude":43.625563,
+    "geom:longitude":-70.287617,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"130C Thadeus St",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 699 4239",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.beaverbuildinginc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809743,
+        102191575,
+        404475439,
+        85633793,
+        85948879,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ugpcyhrumdV8Jh2vptsmJ_43.625563_-70.287617@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221567,
+    "wof:geomhash":"8a37c11c1328c23652a254a812c2707d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475439,
+            "locality_id":85948879,
+            "neighbourhood_id":85809743,
+            "region_id":85688769,
+            "venue_id":873464899
+        }
+    ],
+    "wof:id":873464899,
+    "wof:lastmodified":1472627186,
+    "wof:name":"Beaver Building Inc",
+    "wof:parent_id":85809743,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.287617,
+    43.625563,
+    -70.287617,
+    43.625563
+],
+  "geometry": {"coordinates":[-70.287617,43.625563],"type":"Point"}
+}

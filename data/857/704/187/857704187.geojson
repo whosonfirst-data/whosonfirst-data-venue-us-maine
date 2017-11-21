@@ -1,0 +1,81 @@
+{
+  "id": 857704187,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1505 Roosevelt Ave Springfield ME 01109",
+    "addr:housenumber":"1505",
+    "addr:postcode":"01109",
+    "addr:street":"Roosevelt Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.549629,42.12266,-72.549629,42.12266",
+    "geom:latitude":42.12266,
+    "geom:longitude":-72.549629,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1505 Roosevelt Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"01109",
+    "sg:province":"ME",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841837,
+        102191575,
+        404476369,
+        85633793,
+        85950393,
+        102084627,
+        85688645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gUbMMXtGy2XWNjLSYypw9_42.122660_-72.549629@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220898,
+    "wof:geomhash":"e85ad83bbf003b9c1532fbdbdd197260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476369,
+            "locality_id":85950393,
+            "neighbourhood_id":85841837,
+            "region_id":85688645,
+            "venue_id":857704187
+        }
+    ],
+    "wof:id":857704187,
+    "wof:lastmodified":1472627225,
+    "wof:name":"Police Training Academy",
+    "wof:parent_id":85841837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -72.549629,
+    42.12266,
+    -72.549629,
+    42.12266
+],
+  "geometry": {"coordinates":[-72.549629,42.12266],"type":"Point"}
+}

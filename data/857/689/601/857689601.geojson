@@ -1,0 +1,86 @@
+{
+  "id": 857689601,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4 Boundry Line Rd Fort Fairfield ME 04742",
+    "addr:housenumber":"4",
+    "addr:postcode":"04742",
+    "addr:street":"Boundry Line Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.793447,46.766187,-67.793447,46.766187",
+    "geom:latitude":46.766187,
+    "geom:longitude":-67.793447,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"4 Boundry Line Rd",
+    "sg:city":"Fort Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 473 7474",
+    "sg:postcode":"04742",
+    "sg:province":"ME",
+    "sg:tags":[
+        "federal",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:brand_id":1125152111,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Iip73knXdFJz4lbMyWX2Q_46.766187_-67.793447@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220609,
+    "wof:geomhash":"06d8b7055533932da67c722bed9d1ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857689601
+        }
+    ],
+    "wof:id":857689601,
+    "wof:lastmodified":1510783855,
+    "wof:name":"US Customs Svc",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -67.793447,
+    46.766187,
+    -67.793447,
+    46.766187
+],
+  "geometry": {"coordinates":[-67.793447,46.766187],"type":"Point"}
+}

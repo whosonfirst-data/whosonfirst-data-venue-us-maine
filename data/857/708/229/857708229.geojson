@@ -1,0 +1,83 @@
+{
+  "id": 857708229,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"30 Stroudwater Rd Portland ME 04102",
+    "addr:housenumber":"30",
+    "addr:postcode":"04102",
+    "addr:street":"Stroudwater Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.317641,43.660903,-70.317641,43.660903",
+    "geom:latitude":43.660903,
+    "geom:longitude":-70.317641,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Stroudwater Rd",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 0557",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85851275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j1cHe9R3sAQ9FfOF71GBg_43.660903_-70.317641@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220980,
+    "wof:geomhash":"0821db56ac74424e875fad54b7a0a716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85851275,
+            "region_id":85688769,
+            "venue_id":857708229
+        }
+    ],
+    "wof:id":857708229,
+    "wof:lastmodified":1472627239,
+    "wof:name":"Allstar Home Electronics",
+    "wof:parent_id":85851275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -70.317641,
+    43.660903,
+    -70.317641,
+    43.660903
+],
+  "geometry": {"coordinates":[-70.31764099999999,43.660903],"type":"Point"}
+}

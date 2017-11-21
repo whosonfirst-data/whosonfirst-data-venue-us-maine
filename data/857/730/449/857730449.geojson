@@ -1,0 +1,87 @@
+{
+  "id": 857730449,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"649 Turner St Auburn ME 04210",
+    "addr:housenumber":"649",
+    "addr:postcode":"04210",
+    "addr:street":"Turner St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.232,44.11922,-70.232,44.11922",
+    "geom:latitude":44.11922,
+    "geom:longitude":-70.232,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"649 Turner St",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/auburn/98598-longhorn-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 784 1807",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:brand_id":1125149273,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nCw1jE1uaxlJmUdUzAX2e_44.119220_-70.232000@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221446,
+    "wof:geomhash":"bcfdfbdcac4fd990753e0e4e04705c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857730449
+        }
+    ],
+    "wof:id":857730449,
+    "wof:lastmodified":1510876413,
+    "wof:name":"LongHorn Steakhouse",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -70.232,
+    44.11922,
+    -70.232,
+    44.11922
+],
+  "geometry": {"coordinates":[-70.232,44.11922],"type":"Point"}
+}

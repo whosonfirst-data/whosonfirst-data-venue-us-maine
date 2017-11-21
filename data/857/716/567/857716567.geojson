@@ -1,0 +1,76 @@
+{
+  "id": 857716567,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"37 Gorham Rd Scarborough ME 04074",
+    "addr:housenumber":"37",
+    "addr:postcode":"04074",
+    "addr:street":"Gorham Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.335386,43.594521,-70.335386,43.594521",
+    "geom:latitude":43.594521,
+    "geom:longitude":-70.335386,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 Gorham Rd",
+    "sg:city":"Scarborough",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 883 0374",
+    "sg:postcode":"04074",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838735,
+        102191575,
+        404475433,
+        85633793,
+        85949003,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YjLumwRbByQHolozoS7PU_43.594521_-70.335386@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221175,
+    "wof:geomhash":"3ee23bee54b17e5fbe34f454058df108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475433,
+            "locality_id":85949003,
+            "neighbourhood_id":85838735,
+            "region_id":85688769,
+            "venue_id":857716567
+        }
+    ],
+    "wof:id":857716567,
+    "wof:lastmodified":1472627258,
+    "wof:name":"Bank Of America",
+    "wof:parent_id":85838735,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.335386,
+    43.594521,
+    -70.335386,
+    43.594521
+],
+  "geometry": {"coordinates":[-70.335386,43.594521],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857701663,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"615 Broadway Bangor ME 04401",
+    "addr:housenumber":"615",
+    "addr:postcode":"04401",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.779442,44.823563,-68.779442,44.823563",
+    "geom:latitude":44.823563,
+    "geom:longitude":-68.779442,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"615 Broadway",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 2752",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85815935,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:brand_id":420575315,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zLTOLaaRc8er7IzIs8ErI_44.823563_-68.779442@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220853,
+    "wof:geomhash":"5b932501749ba548fae3d8bf01a764d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85815935,
+            "region_id":85688769,
+            "venue_id":857701663
+        }
+    ],
+    "wof:id":857701663,
+    "wof:lastmodified":1510602476,
+    "wof:name":"T J Maxx",
+    "wof:parent_id":85815935,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.779442,
+    44.823563,
+    -68.779442,
+    44.823563
+],
+  "geometry": {"coordinates":[-68.779442,44.823563],"type":"Point"}
+}

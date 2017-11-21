@@ -1,0 +1,81 @@
+{
+  "id": 857718879,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"97 Main St Belfast ME 04915",
+    "addr:housenumber":"97",
+    "addr:postcode":"04915",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.007163,44.425798,-69.007163,44.425798",
+    "geom:latitude":44.425798,
+    "geom:longitude":-69.007163,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"97 Main St",
+    "sg:city":"Belfast",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 338 9977",
+    "sg:postcode":"04915",
+    "sg:province":"ME",
+    "sg:tags":[
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85824361,
+        102191575,
+        404474809,
+        85633793,
+        85948905,
+        102087445,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xw5tuoKh1eJDO0bcVLeH8_44.425798_-69.007163@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221224,
+    "wof:geomhash":"4f955f291e065aa709ddbe28320368fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087445,
+            "localadmin_id":404474809,
+            "locality_id":85948905,
+            "neighbourhood_id":85824361,
+            "region_id":85688769,
+            "venue_id":857718879
+        }
+    ],
+    "wof:id":857718879,
+    "wof:lastmodified":1472627276,
+    "wof:name":"Plants Unlimited",
+    "wof:parent_id":85824361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant"
+    ]
+},
+  "bbox": [
+    -69.007163,
+    44.425798,
+    -69.007163,
+    44.425798
+],
+  "geometry": {"coordinates":[-69.00716300000001,44.425798],"type":"Point"}
+}

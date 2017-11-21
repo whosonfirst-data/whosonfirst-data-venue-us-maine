@@ -1,0 +1,77 @@
+{
+  "id": 857712633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"134 Highland Ave Gardiner ME 04345",
+    "addr:housenumber":"134",
+    "addr:postcode":"04345",
+    "addr:street":"Highland Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.77948,44.232598,-69.77948,44.232598",
+    "geom:latitude":44.232598,
+    "geom:longitude":-69.77948,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"134 Highland Ave",
+    "sg:city":"Gardiner",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 582 2546",
+    "sg:postcode":"04345",
+    "sg:province":"ME",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_357ReekPW0odhLfmJJdTa0_44.232598_-69.779480@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221102,
+    "wof:geomhash":"b290e973d7fa8bca21ae31e2ef6cd24f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857712633
+        }
+    ],
+    "wof:id":857712633,
+    "wof:lastmodified":1472627257,
+    "wof:name":"Gardiner Free Methodist Church",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -69.77948,
+    44.232598,
+    -69.77948,
+    44.232598
+],
+  "geometry": {"coordinates":[-69.77948000000001,44.232598],"type":"Point"}
+}

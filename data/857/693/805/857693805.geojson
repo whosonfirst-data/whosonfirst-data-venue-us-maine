@@ -1,0 +1,77 @@
+{
+  "id": 857693805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1476 Hammond St Bangor ME 04401",
+    "addr:housenumber":"1476",
+    "addr:postcode":"04401",
+    "addr:street":"Hammond St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.826461,44.792194,-68.826461,44.792194",
+    "geom:latitude":44.792194,
+    "geom:longitude":-68.826461,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1476 Hammond St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 945 2934",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:website":"www.rangerinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855195,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RezQT2MUi8qqTGDo9TR2p_44.792194_-68.826461@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220695,
+    "wof:geomhash":"590712210d7fbfda8d0639d7aff2a3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85855195,
+            "region_id":85688769,
+            "venue_id":857693805
+        }
+    ],
+    "wof:id":857693805,
+    "wof:lastmodified":1472627219,
+    "wof:name":"Ranger Inn",
+    "wof:parent_id":85855195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.826461,
+    44.792194,
+    -68.826461,
+    44.792194
+],
+  "geometry": {"coordinates":[-68.82646099999999,44.792194],"type":"Point"}
+}

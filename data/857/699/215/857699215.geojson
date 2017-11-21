@@ -1,0 +1,81 @@
+{
+  "id": 857699215,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"40 Call Rd Milford ME 04461",
+    "addr:housenumber":"",
+    "addr:postcode":"04461",
+    "addr:street":"Call Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.635096,44.947909,-68.635096,44.947909",
+    "geom:latitude":44.947909,
+    "geom:longitude":-68.635096,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Call Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 7270",
+    "sg:postcode":"04461",
+    "sg:province":"ME",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zbPjix3uKHeUsxP2D2f3L_44.947909_-68.635096@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220795,
+    "wof:geomhash":"31a42099c60927a124645fefd933487c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857699215
+        }
+    ],
+    "wof:id":857699215,
+    "wof:lastmodified":1472627199,
+    "wof:name":"Green House Nursery School",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -68.635096,
+    44.947909,
+    -68.635096,
+    44.947909
+],
+  "geometry": {"coordinates":[-68.635096,44.947909],"type":"Point"}
+}

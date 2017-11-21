@@ -1,0 +1,81 @@
+{
+  "id": 857706663,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"74 Woodville Rd Falmouth ME 04105",
+    "addr:housenumber":"74",
+    "addr:postcode":"04105",
+    "addr:street":"Woodville Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.27513,43.735599,-70.27513,43.735599",
+    "geom:latitude":43.735599,
+    "geom:longitude":-70.27513,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"74 Woodville Rd",
+    "sg:city":"Falmouth",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 781 7429",
+    "sg:postcode":"04105",
+    "sg:province":"ME",
+    "sg:website":"www.falmouthschools.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85855475,
+        102087463,
+        85948877,
+        85837549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kC3ndJrEaEp1UQuq8GDlt_43.735599_-70.275130@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220944,
+    "wof:geomhash":"483e391d778be1130e251f5a8b836eae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85855475,
+            "region_id":85688769,
+            "venue_id":857706663
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85837549,
+            "region_id":85688769,
+            "venue_id":857706663
+        }
+    ],
+    "wof:id":857706663,
+    "wof:lastmodified":1472627250,
+    "wof:name":"Falmouth High School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.27513,
+    43.735599,
+    -70.27513,
+    43.735599
+],
+  "geometry": {"coordinates":[-70.27513,43.735599],"type":"Point"}
+}

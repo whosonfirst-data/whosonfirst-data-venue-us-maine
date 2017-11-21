@@ -1,0 +1,76 @@
+{
+  "id": 857731317,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3 E Main St Machias ME 04654",
+    "addr:housenumber":"3",
+    "addr:postcode":"04654",
+    "addr:street":"E Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.442299,44.723067,-67.442299,44.723067",
+    "geom:latitude":44.723067,
+    "geom:longitude":-67.442299,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 E Main St",
+    "sg:city":"Machias",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/machias/241788-the-bluebird-ranch/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 255 3351",
+    "sg:postcode":"04654",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85826381,
+        102081143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pYcsebdtYq0Ye0wUuRKsh_44.723067_-67.442299@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221463,
+    "wof:geomhash":"d418a9fbf990711d3cbd480fe7ec744f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85826381,
+            "region_id":85688769,
+            "venue_id":857731317
+        }
+    ],
+    "wof:id":857731317,
+    "wof:lastmodified":1472627300,
+    "wof:name":"The Bluebird Ranch",
+    "wof:parent_id":85826381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -67.442299,
+    44.723067,
+    -67.442299,
+    44.723067
+],
+  "geometry": {"coordinates":[-67.44229900000001,44.723067],"type":"Point"}
+}

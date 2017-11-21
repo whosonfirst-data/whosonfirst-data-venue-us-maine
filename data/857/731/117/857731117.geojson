@@ -1,0 +1,84 @@
+{
+  "id": 857731117,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"613 Stillwater Ave Old Town ME 04468",
+    "addr:housenumber":"613",
+    "addr:postcode":"04468",
+    "addr:street":"Stillwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.671031,44.92405,-68.671031,44.92405",
+    "geom:latitude":44.92405,
+    "geom:longitude":-68.671031,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"613 Stillwater Ave",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/old-town/168478-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 9446",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vaHGV0V5Exl4FRoZYrx8M_44.924050_-68.671031@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221458,
+    "wof:geomhash":"dc7bc3917c9edc74a57fd54b316a8f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857731117
+        }
+    ],
+    "wof:id":857731117,
+    "wof:lastmodified":1472627298,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -68.671031,
+    44.92405,
+    -68.671031,
+    44.92405
+],
+  "geometry": {"coordinates":[-68.671031,44.92405],"type":"Point"}
+}

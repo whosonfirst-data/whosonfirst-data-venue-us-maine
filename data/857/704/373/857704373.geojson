@@ -1,0 +1,70 @@
+{
+  "id": 857704373,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"19 Main St Machias ME 04654",
+    "addr:housenumber":"19",
+    "addr:postcode":"04654",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.454453,44.716796,-67.454453,44.716796",
+    "geom:latitude":44.716796,
+    "geom:longitude":-67.454453,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Main St",
+    "sg:city":"Machias",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 255 8001",
+    "sg:postcode":"04654",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85826381,
+        102081143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tUI97sPnJETI0Qt2gDNc8_44.716796_-67.454453@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220901,
+    "wof:geomhash":"85a76837dc7a4e73361a208ebb228891",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85826381,
+            "region_id":85688769,
+            "venue_id":857704373
+        }
+    ],
+    "wof:id":857704373,
+    "wof:lastmodified":1472627229,
+    "wof:name":"Peter J Knowles DC",
+    "wof:parent_id":85826381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.454453,
+    44.716796,
+    -67.454453,
+    44.716796
+],
+  "geometry": {"coordinates":[-67.454453,44.716796],"type":"Point"}
+}

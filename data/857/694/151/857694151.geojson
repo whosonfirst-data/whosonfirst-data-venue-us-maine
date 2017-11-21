@@ -1,0 +1,76 @@
+{
+  "id": 857694151,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10 Goodridge Rd Orono ME 04473",
+    "addr:housenumber":"10",
+    "addr:postcode":"04473",
+    "addr:street":"Goodridge Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.676724,44.881518,-68.676724,44.881518",
+    "geom:latitude":44.881518,
+    "geom:longitude":-68.676724,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Goodridge Rd",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 2151",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ymk2RFxjoRU2kkIwg91Aw_44.881518_-68.676724@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220702,
+    "wof:geomhash":"14b4621b5a7bc805cac0a9ec20596f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857694151
+        }
+    ],
+    "wof:id":857694151,
+    "wof:lastmodified":1472627197,
+    "wof:name":"Asa C Adams Elementary School",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.676724,
+    44.881518,
+    -68.676724,
+    44.881518
+],
+  "geometry": {"coordinates":[-68.67672399999999,44.881518],"type":"Point"}
+}

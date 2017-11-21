@@ -1,0 +1,79 @@
+{
+  "id": 857724853,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"109 Center St Old Town ME 04468",
+    "addr:housenumber":"109",
+    "addr:postcode":"04468",
+    "addr:street":"Center St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.645651,44.93477,-68.645651,44.93477",
+    "geom:latitude":44.93477,
+    "geom:longitude":-68.645651,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"109 Center St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 4734",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EIzK8tY7nVLzenVwhjFbn_44.934770_-68.645651@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221340,
+    "wof:geomhash":"60e20bffde750745cfbe68299a407aee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857724853
+        }
+    ],
+    "wof:id":857724853,
+    "wof:lastmodified":1472627278,
+    "wof:name":"Old Town Water District",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -68.645651,
+    44.93477,
+    -68.645651,
+    44.93477
+],
+  "geometry": {"coordinates":[-68.645651,44.93477],"type":"Point"}
+}

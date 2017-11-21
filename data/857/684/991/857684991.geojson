@@ -1,0 +1,83 @@
+{
+  "id": 857684991,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16 Providence Ave Falmouth ME 04105",
+    "addr:housenumber":"16",
+    "addr:postcode":"04105",
+    "addr:street":"Providence Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.235948,43.708877,-70.235948,43.708877",
+    "geom:latitude":43.708877,
+    "geom:longitude":-70.235948,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Providence Ave",
+    "sg:city":"Falmouth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 781 4508",
+    "sg:postcode":"04105",
+    "sg:province":"ME",
+    "sg:tags":[
+        "trade",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854157,
+        102191575,
+        404474903,
+        85633793,
+        85948991,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lEqETPrdfcp0GpUDBZsxq_43.708877_-70.235948@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220522,
+    "wof:geomhash":"f0b9fa1b12048bd9fe46483fd468bd74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404474903,
+            "locality_id":85948991,
+            "neighbourhood_id":85854157,
+            "region_id":85688769,
+            "venue_id":857684991
+        }
+    ],
+    "wof:id":857684991,
+    "wof:lastmodified":1472627211,
+    "wof:name":"Quality Pool Service",
+    "wof:parent_id":85854157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.235948,
+    43.708877,
+    -70.235948,
+    43.708877
+],
+  "geometry": {"coordinates":[-70.23594799999999,43.708877],"type":"Point"}
+}

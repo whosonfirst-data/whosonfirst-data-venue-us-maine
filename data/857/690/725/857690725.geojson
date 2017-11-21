@@ -1,0 +1,83 @@
+{
+  "id": 857690725,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"53 Long Sands Rd York ME 03909",
+    "addr:housenumber":"53",
+    "addr:postcode":"03909",
+    "addr:street":"Long Sands Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.647325,43.14522,-70.647325,43.14522",
+    "geom:latitude":43.14522,
+    "geom:longitude":-70.647325,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"53 Long Sands Rd",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Seafood",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 363 4908",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "sg:tags":[
+        "commercial",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859383,
+        102191575,
+        404475823,
+        85633793,
+        85949065,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AbTlq3fEG18obiBvNL3NT_43.145220_-70.647325@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220632,
+    "wof:geomhash":"a5234269db8550c4aa5193ce145dd847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475823,
+            "locality_id":85949065,
+            "neighbourhood_id":85859383,
+            "region_id":85688769,
+            "venue_id":857690725
+        }
+    ],
+    "wof:id":857690725,
+    "wof:lastmodified":1472627206,
+    "wof:name":"Kevin McCarthy",
+    "wof:parent_id":85859383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -70.647325,
+    43.14522,
+    -70.647325,
+    43.14522
+],
+  "geometry": {"coordinates":[-70.647325,43.14522],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857704315,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"626 Eastman Rd Center Conway ME 03813",
+    "addr:housenumber":"626",
+    "addr:postcode":"03813",
+    "addr:street":"Eastman Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.089263,44.00578,-71.089263,44.00578",
+    "geom:latitude":44.00578,
+    "geom:longitude":-71.089263,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"626 Eastman Rd",
+    "sg:city":"Center Conway",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 9331",
+    "sg:postcode":"03813",
+    "sg:province":"ME",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p251rc6WzzEkvZliiPZg2_44.005780_-71.089263@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220901,
+    "wof:geomhash":"21220dccfa62461deecf8233f1ca6740",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":857704315
+        }
+    ],
+    "wof:id":857704315,
+    "wof:lastmodified":1472627228,
+    "wof:name":"Carroll County Senior Program",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -71.089263,
+    44.00578,
+    -71.089263,
+    44.00578
+],
+  "geometry": {"coordinates":[-71.089263,44.00578],"type":"Point"}
+}

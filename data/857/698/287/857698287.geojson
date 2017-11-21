@@ -1,0 +1,77 @@
+{
+  "id": 857698287,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1020 River Rd Windham ME 04062",
+    "addr:housenumber":"1020",
+    "addr:postcode":"04062",
+    "addr:street":"River Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.436105,43.826309,-70.436105,43.826309",
+    "geom:latitude":43.826309,
+    "geom:longitude":-70.436105,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1020 River Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 892 0116",
+    "sg:postcode":"04062",
+    "sg:province":"ME",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948999,
+        102087463,
+        85838179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22gYnpk3q2BT4GORE5myLD_43.826309_-70.436105@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220778,
+    "wof:geomhash":"b02865289ef2cf392bc08c01c038b748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948999,
+            "neighbourhood_id":85838179,
+            "region_id":85688769,
+            "venue_id":857698287
+        }
+    ],
+    "wof:id":857698287,
+    "wof:lastmodified":1472627208,
+    "wof:name":"Tumble Weed Construction",
+    "wof:parent_id":85838179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -70.436105,
+    43.826309,
+    -70.436105,
+    43.826309
+],
+  "geometry": {"coordinates":[-70.436105,43.826309],"type":"Point"}
+}

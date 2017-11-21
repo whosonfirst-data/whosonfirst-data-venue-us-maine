@@ -1,0 +1,77 @@
+{
+  "id": 857725541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"136 US Hwy 1 Scarborough ME 04074",
+    "addr:housenumber":"136",
+    "addr:postcode":"04074",
+    "addr:street":"Us Hwy 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.324031,43.597207,-70.324031,43.597207",
+    "geom:latitude":43.597207,
+    "geom:longitude":-70.324031,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"136 US Hwy 1",
+    "sg:city":"Scarborough",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 396 6500",
+    "sg:postcode":"04074",
+    "sg:province":"ME",
+    "sg:website":"www.seniorinfolink.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838735,
+        102191575,
+        404475433,
+        85633793,
+        85949003,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DO4McjLmKB9InqrBaJ3g0_43.597207_-70.324031@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221353,
+    "wof:geomhash":"6b80a55dead51768a245094637a8c225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475433,
+            "locality_id":85949003,
+            "neighbourhood_id":85838735,
+            "region_id":85688769,
+            "venue_id":857725541
+        }
+    ],
+    "wof:id":857725541,
+    "wof:lastmodified":1472627261,
+    "wof:name":"Southern Maine Agency-Aging",
+    "wof:parent_id":85838735,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.324031,
+    43.597207,
+    -70.324031,
+    43.597207
+],
+  "geometry": {"coordinates":[-70.32403100000001,43.597207],"type":"Point"}
+}

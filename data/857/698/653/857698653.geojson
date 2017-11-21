@@ -1,0 +1,77 @@
+{
+  "id": 857698653,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"26 Almar St Farmingdale ME 04344",
+    "addr:housenumber":"26",
+    "addr:postcode":"04344",
+    "addr:street":"Almar St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.784161,44.258463,-69.784161,44.258463",
+    "geom:latitude":44.258463,
+    "geom:longitude":-69.784161,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26 Almar St",
+    "sg:city":"Farmingdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 621 0100",
+    "sg:postcode":"04344",
+    "sg:province":"ME",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xSDPtR4tLCq8ccyCTpdZN_44.258463_-69.784161@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220785,
+    "wof:geomhash":"788732f6877cf99654b6eb6253abe1e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857698653
+        }
+    ],
+    "wof:id":857698653,
+    "wof:lastmodified":1472627210,
+    "wof:name":"Libby Appraisal Svc",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -69.784161,
+    44.258463,
+    -69.784161,
+    44.258463
+],
+  "geometry": {"coordinates":[-69.784161,44.258463],"type":"Point"}
+}

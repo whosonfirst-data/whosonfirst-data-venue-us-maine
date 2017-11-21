@@ -1,0 +1,85 @@
+{
+  "id": 857694057,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"23 Water St Saco ME 04072",
+    "addr:housenumber":"23",
+    "addr:postcode":"04072",
+    "addr:street":"Water St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.450621,43.499123,-70.450621,43.499123",
+    "geom:latitude":43.499123,
+    "geom:longitude":-70.450621,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Water St",
+    "sg:city":"Saco",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 283 8403",
+    "sg:postcode":"04072",
+    "sg:province":"ME",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819479,
+        102191575,
+        404475883,
+        85633793,
+        85948887,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XO61bpAalZXXm2zv1FCr7_43.499123_-70.450621@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220700,
+    "wof:geomhash":"68c576b529c95749e8125e51843bf63a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475883,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":857694057
+        }
+    ],
+    "wof:id":857694057,
+    "wof:lastmodified":1472627191,
+    "wof:name":"Dayowl Counseling",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -70.450621,
+    43.499123,
+    -70.450621,
+    43.499123
+],
+  "geometry": {"coordinates":[-70.450621,43.499123],"type":"Point"}
+}

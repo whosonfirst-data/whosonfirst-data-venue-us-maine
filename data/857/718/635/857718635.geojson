@@ -1,0 +1,82 @@
+{
+  "id": 857718635,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"27 Casco Ter Falmouth ME 04105",
+    "addr:housenumber":"27",
+    "addr:postcode":"04105",
+    "addr:street":"Casco Ter",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.203985,43.734984,-70.203985,43.734984",
+    "geom:latitude":43.734984,
+    "geom:longitude":-70.203985,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Casco Ter",
+    "sg:city":"Falmouth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 781 6080",
+    "sg:postcode":"04105",
+    "sg:province":"ME",
+    "sg:tags":[
+        "internet"
+    ],
+    "sg:website":"www.imexmusic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854157,
+        102191575,
+        404474903,
+        85633793,
+        85948991,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ElEmWP4SynNCiOhrriVc1_43.734984_-70.203985@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221215,
+    "wof:geomhash":"68f4274adf43cd18e27eb82e580516a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404474903,
+            "locality_id":85948991,
+            "neighbourhood_id":85854157,
+            "region_id":85688769,
+            "venue_id":857718635
+        }
+    ],
+    "wof:id":857718635,
+    "wof:lastmodified":1472627272,
+    "wof:name":"Imexmusic.Com Inc",
+    "wof:parent_id":85854157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -70.203985,
+    43.734984,
+    -70.203985,
+    43.734984
+],
+  "geometry": {"coordinates":[-70.203985,43.734984],"type":"Point"}
+}

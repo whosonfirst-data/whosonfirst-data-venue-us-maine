@@ -1,0 +1,77 @@
+{
+  "id": 857733143,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8 Market Place Dr York ME 03909",
+    "addr:housenumber":"8",
+    "addr:postcode":"03909",
+    "addr:street":"Market Place Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.67392,43.149178,-70.67392,43.149178",
+    "geom:latitude":43.149178,
+    "geom:longitude":-70.67392,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Market Place Dr",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 361 4388",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "sg:tags":[
+        "thai",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85811017,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZlmJbVSOb23lOv5aEyd1b_43.149178_-70.673920@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221504,
+    "wof:geomhash":"89ce8b38c162d0d307f05b1e75b9f172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85811017,
+            "region_id":85688769,
+            "venue_id":857733143
+        }
+    ],
+    "wof:id":857733143,
+    "wof:lastmodified":1472627299,
+    "wof:name":"China Bistro",
+    "wof:parent_id":85811017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "thai",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -70.67392,
+    43.149178,
+    -70.67392,
+    43.149178
+],
+  "geometry": {"coordinates":[-70.67392,43.149178],"type":"Point"}
+}

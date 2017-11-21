@@ -1,0 +1,75 @@
+{
+  "id": 857734667,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10 Bayberry Ave Kennebunk ME 04043",
+    "addr:housenumber":"10",
+    "addr:postcode":"04043",
+    "addr:street":"Bayberry Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.481908,43.348721,-70.481908,43.348721",
+    "geom:latitude":43.348721,
+    "geom:longitude":-70.481908,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Bayberry Ave",
+    "sg:city":"Kennebunk",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 468 1992",
+    "sg:postcode":"04043",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85828035,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OSzYht1lYvgg3aPw7fZ2i_43.348721_-70.481908@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221533,
+    "wof:geomhash":"ff75f7462509e9bb672b6679776750c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85828035,
+            "region_id":85688769,
+            "venue_id":857734667
+        }
+    ],
+    "wof:id":857734667,
+    "wof:lastmodified":1472627313,
+    "wof:name":"Coastal Renovators",
+    "wof:parent_id":85828035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.481908,
+    43.348721,
+    -70.481908,
+    43.348721
+],
+  "geometry": {"coordinates":[-70.481908,43.348721],"type":"Point"}
+}

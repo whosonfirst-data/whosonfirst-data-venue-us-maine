@@ -1,0 +1,81 @@
+{
+  "id": 857719933,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"25 Pond Rd Lewiston ME 04240",
+    "addr:housenumber":"25",
+    "addr:postcode":"04240",
+    "addr:street":"Pond Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.168426,44.084443,-70.168426,44.084443",
+    "geom:latitude":44.084443,
+    "geom:longitude":-70.168426,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Pond Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 784 6495",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849833,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aeSsjbwqvfFbLPe9XdEdF_44.084443_-70.168426@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221249,
+    "wof:geomhash":"82d00bb9039968accc1281445cc6aa2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85849833,
+            "region_id":85688769,
+            "venue_id":857719933
+        }
+    ],
+    "wof:id":857719933,
+    "wof:lastmodified":1472627276,
+    "wof:name":"Crystal Clean Window Washing",
+    "wof:parent_id":85849833,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window"
+    ]
+},
+  "bbox": [
+    -70.168426,
+    44.084443,
+    -70.168426,
+    44.084443
+],
+  "geometry": {"coordinates":[-70.168426,44.084443],"type":"Point"}
+}

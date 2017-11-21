@@ -1,0 +1,84 @@
+{
+  "id": 857698003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"49 Reach Rd Presque Isle ME 04769",
+    "addr:housenumber":"49",
+    "addr:postcode":"04769",
+    "addr:street":"Reach Rd;Isle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.996249,46.700416,-67.996249,46.700416",
+    "geom:latitude":46.700416,
+    "geom:longitude":-67.996249,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"49 Reach Rd",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 768 7520",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "sg:website":"www.familyroofing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843087,
+        102191575,
+        404475361,
+        85633793,
+        85948903,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V2D2D43tP8MrpSzwloeWU_46.700416_-67.996249@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220773,
+    "wof:geomhash":"bd19375d5dcef579b8edf5b28a82937b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475361,
+            "locality_id":85948903,
+            "neighbourhood_id":85843087,
+            "region_id":85688769,
+            "venue_id":857698003
+        }
+    ],
+    "wof:id":857698003,
+    "wof:lastmodified":1472627191,
+    "wof:name":"Family Roofing",
+    "wof:parent_id":85843087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -67.996249,
+    46.700416,
+    -67.996249,
+    46.700416
+],
+  "geometry": {"coordinates":[-67.99624900000001,46.700416],"type":"Point"}
+}

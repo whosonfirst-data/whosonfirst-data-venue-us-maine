@@ -1,0 +1,86 @@
+{
+  "id": 857733329,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"84 Organug Rd York ME 03909",
+    "addr:housenumber":"84",
+    "addr:postcode":"03909",
+    "addr:street":"Organug Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.66012,43.137779,-70.66012,43.137779",
+    "geom:latitude":43.137779,
+    "geom:longitude":-70.66012,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"84 Organug Rd",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 363 4214",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"parksandrec.yorkmaine.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859383,
+        102191575,
+        404475823,
+        85633793,
+        85949065,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ah3OhJyjcCyw7Iw5qtB2p_43.137779_-70.660120@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221507,
+    "wof:geomhash":"32d16dce140138182576c54375d08778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475823,
+            "locality_id":85949065,
+            "neighbourhood_id":85859383,
+            "region_id":85688769,
+            "venue_id":857733329
+        }
+    ],
+    "wof:id":857733329,
+    "wof:lastmodified":1472627303,
+    "wof:name":"York Town of",
+    "wof:parent_id":85859383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -70.66012,
+    43.137779,
+    -70.66012,
+    43.137779
+],
+  "geometry": {"coordinates":[-70.66012000000001,43.137779],"type":"Point"}
+}

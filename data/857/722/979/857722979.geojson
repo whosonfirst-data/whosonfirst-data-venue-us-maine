@@ -1,0 +1,75 @@
+{
+  "id": 857722979,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"344 Main St Southwest Harbor ME 04679",
+    "addr:housenumber":"344",
+    "addr:postcode":"04679",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.326303,44.272038,-68.326303,44.272038",
+    "geom:latitude":44.272038,
+    "geom:longitude":-68.326303,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"344 Main St",
+    "sg:city":"Southwest Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 244 3315",
+    "sg:postcode":"04679",
+    "sg:province":"ME",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85832161,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BO4OIsPIAX9K0vtRt7Q4H_44.272038_-68.326303@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221306,
+    "wof:geomhash":"a3d87d36919017f21b5a9158f4d85160",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85832161,
+            "region_id":85688769,
+            "venue_id":857722979
+        }
+    ],
+    "wof:id":857722979,
+    "wof:lastmodified":1472627281,
+    "wof:name":"Sawyer's Market",
+    "wof:parent_id":85832161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -68.326303,
+    44.272038,
+    -68.326303,
+    44.272038
+],
+  "geometry": {"coordinates":[-68.326303,44.272038],"type":"Point"}
+}

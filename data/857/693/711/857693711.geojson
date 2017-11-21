@@ -1,0 +1,77 @@
+{
+  "id": 857693711,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"127 Raven Rd Freedom ME 04941",
+    "addr:housenumber":"127",
+    "addr:postcode":"04941",
+    "addr:street":"Raven Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.325407,44.528691,-69.325407,44.528691",
+    "geom:latitude":44.528691,
+    "geom:longitude":-69.325407,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"127 Raven Rd",
+    "sg:city":"Freedom",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 382 6329",
+    "sg:postcode":"04941",
+    "sg:province":"ME",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85828753,
+        102087445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W0EiT9GP7s6ZDspinNjCR_44.528691_-69.325407@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220694,
+    "wof:geomhash":"57c5a5ce7ac3cd920291692cb8e73aeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087445,
+            "neighbourhood_id":85828753,
+            "region_id":85688769,
+            "venue_id":857693711
+        }
+    ],
+    "wof:id":857693711,
+    "wof:lastmodified":1472627219,
+    "wof:name":"Ravens Berry Farm",
+    "wof:parent_id":85828753,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -69.325407,
+    44.528691,
+    -69.325407,
+    44.528691
+],
+  "geometry": {"coordinates":[-69.325407,44.528691],"type":"Point"}
+}

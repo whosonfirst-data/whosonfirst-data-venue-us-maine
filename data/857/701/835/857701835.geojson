@@ -1,0 +1,81 @@
+{
+  "id": 857701835,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"35 School St Gorham ME 04038",
+    "addr:housenumber":"35",
+    "addr:postcode":"04038",
+    "addr:street":"School St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.443318,43.680535,-70.443318,43.680535",
+    "geom:latitude":43.680535,
+    "geom:longitude":-70.443318,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 School St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 839 9100",
+    "sg:postcode":"04038",
+    "sg:province":"ME",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835377,
+        102191575,
+        404475529,
+        85633793,
+        85948995,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FiYGFmA7QG34lZiFo93tq_43.680535_-70.443318@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220856,
+    "wof:geomhash":"1eb9fc96d97a46db53f82f24367ed072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475529,
+            "locality_id":85948995,
+            "neighbourhood_id":85835377,
+            "region_id":85688769,
+            "venue_id":857701835
+        }
+    ],
+    "wof:id":857701835,
+    "wof:lastmodified":1472627217,
+    "wof:name":"Kumon Gorham",
+    "wof:parent_id":85835377,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -70.443318,
+    43.680535,
+    -70.443318,
+    43.680535
+],
+  "geometry": {"coordinates":[-70.443318,43.680535],"type":"Point"}
+}

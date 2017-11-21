@@ -1,0 +1,80 @@
+{
+  "id": 857716763,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"98 Elm St Portland ME 04101",
+    "addr:housenumber":"98",
+    "addr:postcode":"04101",
+    "addr:street":"Elm St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.26275,43.66075,-70.26275,43.66075",
+    "geom:latitude":43.66075,
+    "geom:longitude":-70.26275,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"98 Elm St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 775 6139",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "tool"
+    ],
+    "sg:website":"www.beautech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85880031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LW56KhFlYlX7d3YvSAnUf_43.660750_-70.262750@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221179,
+    "wof:geomhash":"c4bf13b63947671be489929a42d8195a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880031,
+            "region_id":85688769,
+            "venue_id":857716763
+        }
+    ],
+    "wof:id":857716763,
+    "wof:lastmodified":1472627272,
+    "wof:name":"Beau Tech",
+    "wof:parent_id":85880031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool"
+    ]
+},
+  "bbox": [
+    -70.26275,
+    43.66075,
+    -70.26275,
+    43.66075
+],
+  "geometry": {"coordinates":[-70.26275,43.66075],"type":"Point"}
+}

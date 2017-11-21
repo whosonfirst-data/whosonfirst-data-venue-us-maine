@@ -1,0 +1,75 @@
+{
+  "id": 857699751,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"515 Kansas Rd Milbridge ME 04658",
+    "addr:housenumber":"515",
+    "addr:postcode":"04658",
+    "addr:street":"Kansas Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.895469,44.558625,-67.895469,44.558625",
+    "geom:latitude":44.558625,
+    "geom:longitude":-67.895469,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"515 Kansas Rd",
+    "sg:city":"Milbridge",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 546 2111",
+    "sg:postcode":"04658",
+    "sg:province":"ME",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85859219,
+        102081143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JF6Uf49KybZYnuUlVvtap_44.558625_-67.895469@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220808,
+    "wof:geomhash":"20a92f3289a1bc669a81e40f4925536b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85859219,
+            "region_id":85688769,
+            "venue_id":857699751
+        }
+    ],
+    "wof:id":857699751,
+    "wof:lastmodified":1472627209,
+    "wof:name":"Appraisal Research Associates",
+    "wof:parent_id":85859219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -67.895469,
+    44.558625,
+    -67.895469,
+    44.558625
+],
+  "geometry": {"coordinates":[-67.89546900000001,44.558625],"type":"Point"}
+}

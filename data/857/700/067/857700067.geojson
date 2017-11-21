@@ -1,0 +1,81 @@
+{
+  "id": 857700067,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18 Kenneth Rd South Portland ME 04106",
+    "addr:housenumber":"18",
+    "addr:postcode":"04106",
+    "addr:street":"Kenneth Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.299556,43.628174,-70.299556,43.628174",
+    "geom:latitude":43.628174,
+    "geom:longitude":-70.299556,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Kenneth Rd",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 775 6274",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852203,
+        102191575,
+        404475439,
+        85633793,
+        85948879,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i100dbpltDGYQ8hM9kep9_43.628174_-70.299556@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220814,
+    "wof:geomhash":"2300c30f4db619635c29f1a52b756f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475439,
+            "locality_id":85948879,
+            "neighbourhood_id":85852203,
+            "region_id":85688769,
+            "venue_id":857700067
+        }
+    ],
+    "wof:id":857700067,
+    "wof:lastmodified":1472627196,
+    "wof:name":"Clayton Inc",
+    "wof:parent_id":85852203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -70.299556,
+    43.628174,
+    -70.299556,
+    43.628174
+],
+  "geometry": {"coordinates":[-70.299556,43.628174],"type":"Point"}
+}

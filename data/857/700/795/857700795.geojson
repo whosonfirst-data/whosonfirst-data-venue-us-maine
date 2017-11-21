@@ -1,0 +1,83 @@
+{
+  "id": 857700795,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"75 State St Ellsworth ME 04605",
+    "addr:housenumber":"75",
+    "addr:postcode":"04605",
+    "addr:street":"State St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.425394,44.544431,-68.425394,44.544431",
+    "geom:latitude":44.544431,
+    "geom:longitude":-68.425394,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"75 State St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 4737",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "profit",
+        "aid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GQ63r7D8qPUfIftrjw6Tp_44.544431_-68.425394@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220831,
+    "wof:geomhash":"db6c8f4612b44666e116dd1fec31e97c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857700795
+        }
+    ],
+    "wof:id":857700795,
+    "wof:lastmodified":1472627212,
+    "wof:name":"Red Cross",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "profit",
+        "aid"
+    ]
+},
+  "bbox": [
+    -68.425394,
+    44.544431,
+    -68.425394,
+    44.544431
+],
+  "geometry": {"coordinates":[-68.425394,44.544431],"type":"Point"}
+}

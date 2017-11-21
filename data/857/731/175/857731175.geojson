@@ -1,0 +1,80 @@
+{
+  "id": 857731175,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"75 Leeman Hwy Bath ME 04530",
+    "addr:housenumber":"75",
+    "addr:postcode":"04530",
+    "addr:street":"Leeman Hwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.816957,43.911347,-69.816957,43.911347",
+    "geom:latitude":43.911347,
+    "geom:longitude":-69.816957,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"75 Leeman Hwy",
+    "sg:city":"Bath",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/bath/197179-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 442 8745",
+    "sg:postcode":"04530",
+    "sg:province":"ME",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948861,
+        102087455,
+        85858289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_300xH0zIBsNa92sgpTqsbK_43.911347_-69.816957@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221460,
+    "wof:geomhash":"400e7c0863527a37dca2884875cf81cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087455,
+            "locality_id":85948861,
+            "neighbourhood_id":85858289,
+            "region_id":85688769,
+            "venue_id":857731175
+        }
+    ],
+    "wof:id":857731175,
+    "wof:lastmodified":1472627299,
+    "wof:name":"Burger King",
+    "wof:parent_id":85858289,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -69.816957,
+    43.911347,
+    -69.816957,
+    43.911347
+],
+  "geometry": {"coordinates":[-69.816957,43.911347],"type":"Point"}
+}

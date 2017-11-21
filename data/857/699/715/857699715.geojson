@@ -1,0 +1,76 @@
+{
+  "id": 857699715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"49 Saratoga Ave Bangor ME 04401",
+    "addr:housenumber":"49",
+    "addr:postcode":"04401",
+    "addr:street":"Saratoga Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.750227,44.820738,-68.750227,44.820738",
+    "geom:latitude":44.820738,
+    "geom:longitude":-68.750227,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"49 Saratoga Ave",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 9639",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gBBWfyK6QeN0hnGwUdpL6_44.820738_-68.750227@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220806,
+    "wof:geomhash":"8890a18ae3640d39651e149816199baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857699715
+        }
+    ],
+    "wof:id":857699715,
+    "wof:lastmodified":1472627209,
+    "wof:name":"Tozier Landscaping",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.750227,
+    44.820738,
+    -68.750227,
+    44.820738
+],
+  "geometry": {"coordinates":[-68.750227,44.820738],"type":"Point"}
+}

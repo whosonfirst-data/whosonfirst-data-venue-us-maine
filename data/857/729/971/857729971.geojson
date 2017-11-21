@@ -1,0 +1,87 @@
+{
+  "id": 857729971,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1440 Brighton Ave Portland ME 04102",
+    "addr:housenumber":"1440",
+    "addr:postcode":"04102",
+    "addr:street":"Brighton Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.328579,43.67682,-70.328579,43.67682",
+    "geom:latitude":43.67682,
+    "geom:longitude":-70.328579,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"1440 Brighton Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/portland/10178-famous-daves/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"0",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836343,
+        102191575,
+        404474917,
+        85633793,
+        85948881,
+        102087463,
+        85688769
+    ],
+    "wof:brand_id":1125150743,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TmqFgcW1eQvazZCynb662_43.676820_-70.328579@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221438,
+    "wof:geomhash":"40247490794a5e185551e6add6ca0c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404474917,
+            "locality_id":85948881,
+            "neighbourhood_id":85836343,
+            "region_id":85688769,
+            "venue_id":857729971
+        }
+    ],
+    "wof:id":857729971,
+    "wof:lastmodified":1510857475,
+    "wof:name":"Famous Dave's",
+    "wof:parent_id":85836343,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.328579,
+    43.67682,
+    -70.328579,
+    43.67682
+],
+  "geometry": {"coordinates":[-70.328579,43.67682],"type":"Point"}
+}

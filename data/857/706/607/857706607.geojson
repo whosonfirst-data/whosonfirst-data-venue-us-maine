@@ -1,0 +1,83 @@
+{
+  "id": 857706607,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"140 Academy St Presque Isle ME 04769",
+    "addr:housenumber":"140",
+    "addr:postcode":"04769",
+    "addr:street":"Academy St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.998941,46.676684,-67.998941,46.676684",
+    "geom:latitude":46.676684,
+    "geom:longitude":-67.998941,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"140 Academy St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 768 4217",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RtG2jyZrBk2dMJrSWUqOL_46.676684_-67.998941@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220942,
+    "wof:geomhash":"2eb20469eae0e0f6dbc8863e75e4cab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857706607
+        }
+    ],
+    "wof:id":857706607,
+    "wof:lastmodified":1472627248,
+    "wof:name":"Spectrum Medical Group",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -67.998941,
+    46.676684,
+    -67.998941,
+    46.676684
+],
+  "geometry": {"coordinates":[-67.998941,46.676684],"type":"Point"}
+}

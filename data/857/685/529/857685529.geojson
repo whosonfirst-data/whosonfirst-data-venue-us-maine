@@ -1,0 +1,75 @@
+{
+  "id": 857685529,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"33 Wilson Rd Kittery ME 03904",
+    "addr:housenumber":"33",
+    "addr:postcode":"03904",
+    "addr:street":"Wilson Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.74158,43.120453,-70.74158,43.120453",
+    "geom:latitude":43.120453,
+    "geom:longitude":-70.74158,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Wilson Rd",
+    "sg:city":"Kittery",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 451 9439",
+    "sg:postcode":"03904",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85844265,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SYR1UPlMHztm1YGywVIkS_43.120453_-70.741580@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220531,
+    "wof:geomhash":"6b1245ecdec00dd5542378cf13abfb50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85844265,
+            "region_id":85688769,
+            "venue_id":857685529
+        }
+    ],
+    "wof:id":857685529,
+    "wof:lastmodified":1472627198,
+    "wof:name":"Beach Comber Hair Design",
+    "wof:parent_id":85844265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -70.74158,
+    43.120453,
+    -70.74158,
+    43.120453
+],
+  "geometry": {"coordinates":[-70.74158,43.120453],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857704795,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"47 Evergreen Ln Durham ME 04222",
+    "addr:housenumber":"47",
+    "addr:postcode":"04222",
+    "addr:street":"Evergreen Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.079596,43.971727,-70.079596,43.971727",
+    "geom:latitude":43.971727,
+    "geom:longitude":-70.079596,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"47 Evergreen Ln",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 353 4747",
+    "sg:postcode":"04222",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949027,
+        102087457,
+        85813033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Op9Z479hijeRPNNgRLnr5_43.971727_-70.079596@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220909,
+    "wof:geomhash":"4fab8373eab1878f691e271a18547784",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85949027,
+            "neighbourhood_id":85813033,
+            "region_id":85688769,
+            "venue_id":857704795
+        }
+    ],
+    "wof:id":857704795,
+    "wof:lastmodified":1472627248,
+    "wof:name":"Beaulieu Plumbing",
+    "wof:parent_id":85813033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.079596,
+    43.971727,
+    -70.079596,
+    43.971727
+],
+  "geometry": {"coordinates":[-70.079596,43.971727],"type":"Point"}
+}

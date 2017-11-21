@@ -1,0 +1,79 @@
+{
+  "id": 857705017,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"23 Pleasant St Damariscotta ME 04530",
+    "addr:housenumber":"23",
+    "addr:postcode":"04530",
+    "addr:street":"Pleasant St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.817003,43.90293,-69.817003,43.90293",
+    "geom:latitude":43.90293,
+    "geom:longitude":-69.817003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Pleasant St",
+    "sg:city":"Damariscotta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 563 8451",
+    "sg:postcode":"04530",
+    "sg:province":"ME",
+    "sg:tags":[
+        "building",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948861,
+        102087455,
+        85858289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30LO2ohImud1o7KFBBiPGh_43.902930_-69.817003@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220913,
+    "wof:geomhash":"da76c53f7ccfda47c58bf2b702dbc56b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087455,
+            "locality_id":85948861,
+            "neighbourhood_id":85858289,
+            "region_id":85688769,
+            "venue_id":857705017
+        }
+    ],
+    "wof:id":857705017,
+    "wof:lastmodified":1472627225,
+    "wof:name":"Prospec Home Inspection",
+    "wof:parent_id":85858289,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -69.817003,
+    43.90293,
+    -69.817003,
+    43.90293
+],
+  "geometry": {"coordinates":[-69.817003,43.90293],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857698519,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"90 E Main St Fort Kent ME 04743",
+    "addr:housenumber":"90",
+    "addr:postcode":"04743",
+    "addr:street":"E Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.589904,47.260459,-68.589904,47.260459",
+    "geom:latitude":47.260459,
+    "geom:longitude":-68.589904,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"90 E Main St",
+    "sg:city":"Fort Kent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 834 7266",
+    "sg:postcode":"04743",
+    "sg:province":"ME",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y5yKtYKD4ump2tbuO2bSE_47.260459_-68.589904@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220783,
+    "wof:geomhash":"427f172bee3be3373c791d568bafea44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857698519
+        }
+    ],
+    "wof:id":857698519,
+    "wof:lastmodified":1472627213,
+    "wof:name":"Town & Country Decorating",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -68.589904,
+    47.260459,
+    -68.589904,
+    47.260459
+],
+  "geometry": {"coordinates":[-68.589904,47.260459],"type":"Point"}
+}

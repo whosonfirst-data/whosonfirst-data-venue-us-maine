@@ -1,0 +1,85 @@
+{
+  "id": 857687223,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"619 Main St Presque Isle ME 04769",
+    "addr:housenumber":"619",
+    "addr:postcode":"04769",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.014635,46.684738,-68.014635,46.684738",
+    "geom:latitude":46.684738,
+    "geom:longitude":-68.014635,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"619 Main St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 762 1521",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "stone",
+        "cut",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rR3HGJLkXdTWaO6vHbVEz_46.684738_-68.014635@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220563,
+    "wof:geomhash":"3deb9a02486635dc6b6fa8e79b945e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857687223
+        }
+    ],
+    "wof:id":857687223,
+    "wof:lastmodified":1472627185,
+    "wof:name":"Presque Isle Memorial Works",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone",
+        "cut",
+        "product"
+    ]
+},
+  "bbox": [
+    -68.014635,
+    46.684738,
+    -68.014635,
+    46.684738
+],
+  "geometry": {"coordinates":[-68.014635,46.684738],"type":"Point"}
+}

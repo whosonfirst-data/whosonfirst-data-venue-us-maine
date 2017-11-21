@@ -1,0 +1,81 @@
+{
+  "id": 857724857,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"110 Harris Ave Portland ME 04103",
+    "addr:housenumber":"110",
+    "addr:postcode":"04103",
+    "addr:street":"Harris Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.303941,43.698899,-70.303941,43.698899",
+    "geom:latitude":43.698899,
+    "geom:longitude":-70.303941,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 Harris Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 878 8803",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85845077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_796OwLCYNkl7LNFOGJkM97_43.698899_-70.303941@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221340,
+    "wof:geomhash":"757900886928fe4d0519a4aec0068f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85845077,
+            "region_id":85688769,
+            "venue_id":857724857
+        }
+    ],
+    "wof:id":857724857,
+    "wof:lastmodified":1472627278,
+    "wof:name":"Jacquelyn M Huff Lmt Thrptc",
+    "wof:parent_id":85845077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -70.303941,
+    43.698899,
+    -70.303941,
+    43.698899
+],
+  "geometry": {"coordinates":[-70.30394099999999,43.698899],"type":"Point"}
+}

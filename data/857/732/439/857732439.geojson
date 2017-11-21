@@ -1,0 +1,76 @@
+{
+  "id": 857732439,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"339 Clay Hill Rd P.O. Box 941 Ogunquit ME 03907",
+    "addr:housenumber":"339",
+    "addr:postcode":"box 941;03907",
+    "addr:street":"Clay Hill Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.617262,43.235956,-70.617262,43.235956",
+    "geom:latitude":43.235956,
+    "geom:longitude":-70.617262,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"339 Clay Hill Rd P.O. Box 941",
+    "sg:city":"Ogunquit",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 361 2400",
+    "sg:postcode":"03907",
+    "sg:province":"ME",
+    "sg:website":"www.beauportinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85854335,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CoKmXwb08SrbJSv9kwubr_43.235956_-70.617262@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221492,
+    "wof:geomhash":"14a8e3f984de742a210c7c7d10ff5fae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85854335,
+            "region_id":85688769,
+            "venue_id":857732439
+        }
+    ],
+    "wof:id":857732439,
+    "wof:lastmodified":1472627304,
+    "wof:name":"Beauport Inn",
+    "wof:parent_id":85854335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.617262,
+    43.235956,
+    -70.617262,
+    43.235956
+],
+  "geometry": {"coordinates":[-70.617262,43.235956],"type":"Point"}
+}

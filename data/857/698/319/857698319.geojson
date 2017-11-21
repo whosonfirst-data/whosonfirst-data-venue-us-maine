@@ -1,0 +1,79 @@
+{
+  "id": 857698319,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"80 Exchange St Portland ME 04101",
+    "addr:housenumber":"80",
+    "addr:postcode":"04101",
+    "addr:street":"Exchange St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.255299,43.657939,-70.255299,43.657939",
+    "geom:latitude":43.657939,
+    "geom:longitude":-70.255299,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"80 Exchange St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 2360",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85882031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57yWRmvcHdefOqGrBBTclD_43.657939_-70.255299@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220779,
+    "wof:geomhash":"ee9b4b3ee0b3285c13b0ad8f3801c372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85882031,
+            "region_id":85688769,
+            "venue_id":857698319
+        }
+    ],
+    "wof:id":857698319,
+    "wof:lastmodified":1472627209,
+    "wof:name":"Brann & Isaacson",
+    "wof:parent_id":85882031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -70.255299,
+    43.657939,
+    -70.255299,
+    43.657939
+],
+  "geometry": {"coordinates":[-70.25529899999999,43.657939],"type":"Point"}
+}

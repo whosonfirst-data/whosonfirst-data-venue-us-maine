@@ -1,0 +1,78 @@
+{
+  "id": 857697335,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"79 Pigeon Hill Rd Steuben ME 04680",
+    "addr:housenumber":"79",
+    "addr:postcode":"04680",
+    "addr:street":"Pigeon Hill Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.905779,44.494563,-67.905779,44.494563",
+    "geom:latitude":44.494563,
+    "geom:longitude":-67.905779,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"79 Pigeon Hill Rd",
+    "sg:city":"Steuben",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 546 2823",
+    "sg:postcode":"04680",
+    "sg:province":"ME",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "sg:website":"www.westbusservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85859219,
+        102081143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z46R4KVKmT0uwkvRGw3Ju_44.494563_-67.905779@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220761,
+    "wof:geomhash":"ef2dd241bc60fb0f17632f9d9d862ec4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85859219,
+            "region_id":85688769,
+            "venue_id":857697335
+        }
+    ],
+    "wof:id":857697335,
+    "wof:lastmodified":1472627203,
+    "wof:name":"West Bus Svc",
+    "wof:parent_id":85859219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -67.905779,
+    44.494563,
+    -67.905779,
+    44.494563
+],
+  "geometry": {"coordinates":[-67.905779,44.494563],"type":"Point"}
+}

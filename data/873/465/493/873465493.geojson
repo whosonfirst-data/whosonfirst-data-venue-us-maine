@@ -1,0 +1,78 @@
+{
+  "id": 873465493,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Inn by the Sea 40 Bowery Beach Road Cape Elizabeth ME 04107",
+    "addr:housenumber":"40",
+    "addr:postcode":"04107",
+    "addr:street":"Bowery Beach Road",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.226489,43.567885,-70.226489,43.567885",
+    "geom:latitude":43.567885,
+    "geom:longitude":-70.226489,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"Inn by the Sea 40 Bowery Beach Road",
+    "sg:city":"Cape Elizabeth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 799 3134",
+    "sg:postcode":"04107",
+    "sg:province":"ME",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "sg:website":"www.innbythesea.com/dining/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85824889,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MyQfY5ACIybKVPcUKSdhn_43.567885_-70.226489@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221579,
+    "wof:geomhash":"a1f58b8e64f31e49458a25f1b1f6dec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85824889,
+            "region_id":85688769,
+            "venue_id":873465493
+        }
+    ],
+    "wof:id":873465493,
+    "wof:lastmodified":1472627184,
+    "wof:name":"Sea Glass",
+    "wof:parent_id":85824889,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.226489,
+    43.567885,
+    -70.226489,
+    43.567885
+],
+  "geometry": {"coordinates":[-70.226489,43.567885],"type":"Point"}
+}

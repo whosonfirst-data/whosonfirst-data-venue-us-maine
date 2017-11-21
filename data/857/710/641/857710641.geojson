@@ -1,0 +1,83 @@
+{
+  "id": 857710641,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"63 Mechanic St Presque Isle ME 04769",
+    "addr:housenumber":"63",
+    "addr:postcode":"04769",
+    "addr:street":"Mechanic St;Isle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.024863,46.682409,-68.024863,46.682409",
+    "geom:latitude":46.682409,
+    "geom:longitude":-68.024863,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"63 Mechanic St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 8425",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fmJyTzrp3H18Sn84XFf7S_46.682409_-68.024863@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221045,
+    "wof:geomhash":"c6f6ea9f17d8519a09708b8894f5b7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857710641
+        }
+    ],
+    "wof:id":857710641,
+    "wof:lastmodified":1472627250,
+    "wof:name":"Wilson Carpentry",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.024863,
+    46.682409,
+    -68.024863,
+    46.682409
+],
+  "geometry": {"coordinates":[-68.024863,46.682409],"type":"Point"}
+}

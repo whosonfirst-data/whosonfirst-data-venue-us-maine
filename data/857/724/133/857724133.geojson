@@ -1,0 +1,82 @@
+{
+  "id": 857724133,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12 Morrison St Mapleton ME 04757",
+    "addr:housenumber":"12",
+    "addr:postcode":"04757",
+    "addr:street":"Morrison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.160277,46.683693,-68.160277,46.683693",
+    "geom:latitude":46.683693,
+    "geom:longitude":-68.160277,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Morrison St",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 2822",
+    "sg:postcode":"04757",
+    "sg:province":"ME",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.mainedetailing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T0puoz0SYr1wviuZ0Sigj_46.683693_-68.160277@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221327,
+    "wof:geomhash":"cf05bfb17822884b500e875a86bbc1fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857724133
+        }
+    ],
+    "wof:id":857724133,
+    "wof:lastmodified":1472627251,
+    "wof:name":"Maine Detailing Co",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -68.160277,
+    46.683693,
+    -68.160277,
+    46.683693
+],
+  "geometry": {"coordinates":[-68.16027699999999,46.683693],"type":"Point"}
+}

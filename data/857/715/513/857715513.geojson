@@ -1,0 +1,76 @@
+{
+  "id": 857715513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"810 State St Bangor ME 04401",
+    "addr:housenumber":"810",
+    "addr:postcode":"04401",
+    "addr:street":"State St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.735899,44.815683,-68.735899,44.815683",
+    "geom:latitude":44.815683,
+    "geom:longitude":-68.735899,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"810 State St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 0125",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BCqk8Kd74yLmJLjvPj7RN_44.815683_-68.735899@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221157,
+    "wof:geomhash":"08c6b344e1ea5db5c99bec9dcf49bbac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857715513
+        }
+    ],
+    "wof:id":857715513,
+    "wof:lastmodified":1472627267,
+    "wof:name":"Riverview Motel",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.735899,
+    44.815683,
+    -68.735899,
+    44.815683
+],
+  "geometry": {"coordinates":[-68.735899,44.815683],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857725961,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"184 Target Industrial Cir Bangor ME 04401",
+    "addr:housenumber":"184",
+    "addr:postcode":"04401",
+    "addr:street":"Target Industrial Cir",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.827305,44.78981,-68.827305,44.78981",
+    "geom:latitude":44.78981,
+    "geom:longitude":-68.827305,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"184 Target Industrial Cir",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 941 9797",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855195,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WXNQI8jFvgGRT3uSZZQCy_44.789810_-68.827305@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221361,
+    "wof:geomhash":"23380f5af6801f030e62c567c450f3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85855195,
+            "region_id":85688769,
+            "venue_id":857725961
+        }
+    ],
+    "wof:id":857725961,
+    "wof:lastmodified":1472627275,
+    "wof:name":"WABI",
+    "wof:parent_id":85855195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -68.827305,
+    44.78981,
+    -68.827305,
+    44.78981
+],
+  "geometry": {"coordinates":[-68.827305,44.78981],"type":"Point"}
+}

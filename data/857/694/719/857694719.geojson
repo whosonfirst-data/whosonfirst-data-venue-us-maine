@@ -1,0 +1,75 @@
+{
+  "id": 857694719,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1 Portland St Old Town ME 04468",
+    "addr:housenumber":"1",
+    "addr:postcode":"04468",
+    "addr:street":"Portland St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.637478,44.917293,-68.637478,44.917293",
+    "geom:latitude":44.917293,
+    "geom:longitude":-68.637478,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"1 Portland St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 7711",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:brand_id":1125151549,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18ncVlbyUodKqIc2aHWCVT_44.917293_-68.637478@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220712,
+    "wof:geomhash":"ea304b98bd3958afbfd337d20353c811",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857694719
+        }
+    ],
+    "wof:id":857694719,
+    "wof:lastmodified":1510695399,
+    "wof:name":"Georgia-Pacific Corp",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.637478,
+    44.917293,
+    -68.637478,
+    44.917293
+],
+  "geometry": {"coordinates":[-68.637478,44.917293],"type":"Point"}
+}

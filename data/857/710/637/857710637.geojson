@@ -1,0 +1,82 @@
+{
+  "id": 857710637,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"79 North St Calais ME 04619",
+    "addr:housenumber":"79",
+    "addr:postcode":"04619",
+    "addr:street":"North St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.282105,45.184849,-67.282105,45.184849",
+    "geom:latitude":45.184849,
+    "geom:longitude":-67.282105,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"79 North St",
+    "sg:city":"Calais",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 454 7181",
+    "sg:postcode":"04619",
+    "sg:province":"ME",
+    "sg:tags":[
+        "attorney"
+    ],
+    "sg:website":"www.churchilllaw.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857599,
+        102191575,
+        404475311,
+        85633793,
+        85948871,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RnDnxXgHBHOKSbhnktkje_45.184849_-67.282105@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221045,
+    "wof:geomhash":"2085232de5fef8114c54093c46d7b434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475311,
+            "locality_id":85948871,
+            "neighbourhood_id":85857599,
+            "region_id":85688769,
+            "venue_id":857710637
+        }
+    ],
+    "wof:id":857710637,
+    "wof:lastmodified":1472627250,
+    "wof:name":"John Churchill",
+    "wof:parent_id":85857599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -67.282105,
+    45.184849,
+    -67.282105,
+    45.184849
+],
+  "geometry": {"coordinates":[-67.282105,45.184849],"type":"Point"}
+}

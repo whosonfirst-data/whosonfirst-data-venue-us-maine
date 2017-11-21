@@ -1,0 +1,83 @@
+{
+  "id": 857709681,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16 Bomarc Rd Bangor ME 04401",
+    "addr:housenumber":"16",
+    "addr:postcode":"04401",
+    "addr:street":"Bomarc Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.779382,44.844185,-68.779382,44.844185",
+    "geom:latitude":44.844185,
+    "geom:longitude":-68.779382,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Bomarc Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 9445",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85815935,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_028Y4M0usjc0bcb2WcyG2e_44.844185_-68.779382@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221023,
+    "wof:geomhash":"e61fc67b9753594f9c7179e4afe5e83f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85815935,
+            "region_id":85688769,
+            "venue_id":857709681
+        }
+    ],
+    "wof:id":857709681,
+    "wof:lastmodified":1472627250,
+    "wof:name":"N S Giles Foundation",
+    "wof:parent_id":85815935,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.779382,
+    44.844185,
+    -68.779382,
+    44.844185
+],
+  "geometry": {"coordinates":[-68.779382,44.844185],"type":"Point"}
+}

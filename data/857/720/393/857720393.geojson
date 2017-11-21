@@ -1,0 +1,92 @@
+{
+  "id": 857720393,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"170 Main St Presque Isle ME 04769",
+    "addr:housenumber":"170",
+    "addr:postcode":"04769",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.0147,46.67194,-68.0147,46.67194",
+    "geom:latitude":46.67194,
+    "geom:longitude":-68.0147,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"170 Main St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 0019",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "retardation",
+        "disabled",
+        "mental",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OsXFdc2YdRqogOT1u6nr9_46.671940_-68.014700@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221257,
+    "wof:geomhash":"ca773d6a6f675c5a4a9559fd72af0fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857720393
+        }
+    ],
+    "wof:id":857720393,
+    "wof:lastmodified":1472627257,
+    "wof:name":"Personal Services Of Aroostook",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retardation",
+        "disabled",
+        "mental",
+        "dev"
+    ]
+},
+  "bbox": [
+    -68.0147,
+    46.67194,
+    -68.0147,
+    46.67194
+],
+  "geometry": {"coordinates":[-68.0147,46.67194],"type":"Point"}
+}

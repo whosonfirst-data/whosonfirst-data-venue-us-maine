@@ -1,0 +1,83 @@
+{
+  "id": 857685743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2331 Congress St Portland ME 04102",
+    "addr:housenumber":"2331",
+    "addr:postcode":"04102",
+    "addr:street":"Congress St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.334134,43.650961,-70.334134,43.650961",
+    "geom:latitude":43.650961,
+    "geom:longitude":-70.334134,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2331 Congress St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 874 0400",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85851275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZNcwFzdUr8HOD3cWljTS7_43.650961_-70.334134@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220534,
+    "wof:geomhash":"04426b57232ee7b17055fa4a346286bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85851275,
+            "region_id":85688769,
+            "venue_id":857685743
+        }
+    ],
+    "wof:id":857685743,
+    "wof:lastmodified":1472627204,
+    "wof:name":"Signet Electronic Systems Inc",
+    "wof:parent_id":85851275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -70.334134,
+    43.650961,
+    -70.334134,
+    43.650961
+],
+  "geometry": {"coordinates":[-70.33413400000001,43.650961],"type":"Point"}
+}

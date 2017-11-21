@@ -1,0 +1,83 @@
+{
+  "id": 857714851,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"38 Dow Hwy Eliot ME 03903",
+    "addr:housenumber":"38",
+    "addr:postcode":"03903",
+    "addr:street":"Dow Hwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.771368,43.130569,-70.771368,43.130569",
+    "geom:latitude":43.130569,
+    "geom:longitude":-70.771368,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"38 Dow Hwy",
+    "sg:city":"Eliot",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 439 4669",
+    "sg:postcode":"03903",
+    "sg:province":"ME",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849617,
+        102191575,
+        404475891,
+        85633793,
+        85949057,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50BODUM5wbAsnYwzyO6Zc4_43.130569_-70.771368@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221145,
+    "wof:geomhash":"889b721d030932e0dbe97dedefcb4078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475891,
+            "locality_id":85949057,
+            "neighbourhood_id":85849617,
+            "region_id":85688769,
+            "venue_id":857714851
+        }
+    ],
+    "wof:id":857714851,
+    "wof:lastmodified":1472627278,
+    "wof:name":"Eliot Driving School",
+    "wof:parent_id":85849617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -70.771368,
+    43.130569,
+    -70.771368,
+    43.130569
+],
+  "geometry": {"coordinates":[-70.771368,43.130569],"type":"Point"}
+}

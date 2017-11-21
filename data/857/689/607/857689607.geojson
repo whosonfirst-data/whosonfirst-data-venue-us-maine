@@ -1,0 +1,77 @@
+{
+  "id": 857689607,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11 Tracy Rd Mt Desert ME 04662",
+    "addr:housenumber":"11",
+    "addr:postcode":"04662",
+    "addr:street":"Tracy Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.289559,44.291857,-68.289559,44.291857",
+    "geom:latitude":44.291857,
+    "geom:longitude":-68.289559,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Tracy Rd",
+    "sg:city":"Mt Desert",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 276 5142",
+    "sg:postcode":"04662",
+    "sg:province":"ME",
+    "sg:tags":[
+        "storage",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85803817,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L8r2AogQJqTuDmakVgCnf_44.291857_-68.289559@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220610,
+    "wof:geomhash":"0df68e2ed96fd7a222c6e1a64ca09c43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85803817,
+            "region_id":85688769,
+            "venue_id":857689607
+        }
+    ],
+    "wof:id":857689607,
+    "wof:lastmodified":1472627209,
+    "wof:name":"Brightside Boat Storage",
+    "wof:parent_id":85803817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "boat"
+    ]
+},
+  "bbox": [
+    -68.289559,
+    44.291857,
+    -68.289559,
+    44.291857
+],
+  "geometry": {"coordinates":[-68.289559,44.291857],"type":"Point"}
+}

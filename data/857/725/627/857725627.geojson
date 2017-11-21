@@ -1,0 +1,76 @@
+{
+  "id": 857725627,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2 Sylvan Rd Orono ME 04473",
+    "addr:housenumber":"2",
+    "addr:postcode":"04473",
+    "addr:street":"Sylvan Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.686992,44.904204,-68.686992,44.904204",
+    "geom:latitude":44.904204,
+    "geom:longitude":-68.686992,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Sylvan Rd",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 2702",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J4FIvXMCLZ2HzTX5GKszQ_44.904204_-68.686992@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221355,
+    "wof:geomhash":"a3baa79ccd4c27e39ca804200eb38348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857725627
+        }
+    ],
+    "wof:id":857725627,
+    "wof:lastmodified":1472627263,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.686992,
+    44.904204,
+    -68.686992,
+    44.904204
+],
+  "geometry": {"coordinates":[-68.686992,44.904204],"type":"Point"}
+}

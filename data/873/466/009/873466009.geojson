@@ -1,0 +1,76 @@
+{
+  "id": 873466009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"32 Co Op Rd Pemaquid ME 04558",
+    "addr:housenumber":"32",
+    "addr:postcode":"04558",
+    "addr:street":"Co Op Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.519496,43.884122,-69.519496,43.884122",
+    "geom:latitude":43.884122,
+    "geom:longitude":-69.519496,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 Co Op Rd",
+    "sg:city":"Pemaquid",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 677 2801",
+    "sg:postcode":"04558",
+    "sg:province":"ME",
+    "sg:tags":[
+        "seafood"
+    ],
+    "sg:website":"www.pemaquidlobstercoop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85841123,
+        102087447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2laaInelTqRxKTbf4WGph1_43.884122_-69.519496@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221588,
+    "wof:geomhash":"b4f6f5a9277da55b096cdc2d5c865994",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087447,
+            "neighbourhood_id":85841123,
+            "region_id":85688769,
+            "venue_id":873466009
+        }
+    ],
+    "wof:id":873466009,
+    "wof:lastmodified":1472627183,
+    "wof:name":"Pemaquid Fisherman's Co-Op",
+    "wof:parent_id":85841123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -69.519496,
+    43.884122,
+    -69.519496,
+    43.884122
+],
+  "geometry": {"coordinates":[-69.519496,43.884122],"type":"Point"}
+}

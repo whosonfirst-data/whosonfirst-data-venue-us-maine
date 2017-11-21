@@ -1,0 +1,84 @@
+{
+  "id": 857688825,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"485 Main St Orono ME 04473",
+    "addr:housenumber":"485",
+    "addr:postcode":"04473",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.690755,44.858457,-68.690755,44.858457",
+    "geom:latitude":44.858457,
+    "geom:longitude":-68.690755,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"485 Main St",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 2124",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "sg:website":"www.silversautoparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75BcvKqtumGrpIa73Qsemw_44.858457_-68.690755@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220596,
+    "wof:geomhash":"9d10ecdf3ebd877eb9d0a1ff658356ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857688825
+        }
+    ],
+    "wof:id":857688825,
+    "wof:lastmodified":1472627209,
+    "wof:name":"Silver's Auto Parts Inc",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -68.690755,
+    44.858457,
+    -68.690755,
+    44.858457
+],
+  "geometry": {"coordinates":[-68.690755,44.858457],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 857731889,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"511 Congress St Portland ME 04101",
+    "addr:housenumber":"511",
+    "addr:postcode":"04101",
+    "addr:street":"Congress St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.260733,43.656247,-70.260733,43.656247",
+    "geom:latitude":43.656247,
+    "geom:longitude":-70.260733,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"511 Congress St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/portland/91166-dangelo-sandwich-shops/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 828 2907",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85882031
+    ],
+    "wof:brand_id":1125151503,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DuYjAA5JA6H9aIOZecr8Z_43.656281_-70.260903@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221481,
+    "wof:geomhash":"6db9b8d268ae15b967f049bd559caecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85882031,
+            "region_id":85688769,
+            "venue_id":857731889
+        }
+    ],
+    "wof:id":857731889,
+    "wof:lastmodified":1510699688,
+    "wof:name":"D'Angelo Sandwich Shops",
+    "wof:parent_id":85882031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -70.260733,
+    43.656247,
+    -70.260733,
+    43.656247
+],
+  "geometry": {"coordinates":[-70.260733,43.656247],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857732431,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"69 Cottage St Ogunquit ME 03907",
+    "addr:housenumber":"69",
+    "addr:postcode":"03907",
+    "addr:street":"Cottage St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.600078,43.245848,-70.600078,43.245848",
+    "geom:latitude":43.245848,
+    "geom:longitude":-70.600078,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"69 Cottage St",
+    "sg:city":"Ogunquit",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 646 5639",
+    "sg:postcode":"03907",
+    "sg:province":"ME",
+    "sg:tags":[
+        "house",
+        "guest"
+    ],
+    "sg:website":"thedolphinden.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85854335,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15b8tiV6ll7WjOdTCMflxw_43.245848_-70.600078@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221491,
+    "wof:geomhash":"93dcd9307a6e5f75588d82751896b4b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85854335,
+            "region_id":85688769,
+            "venue_id":857732431
+        }
+    ],
+    "wof:id":857732431,
+    "wof:lastmodified":1472627305,
+    "wof:name":"Dolphin Den",
+    "wof:parent_id":85854335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "guest"
+    ]
+},
+  "bbox": [
+    -70.600078,
+    43.245848,
+    -70.600078,
+    43.245848
+],
+  "geometry": {"coordinates":[-70.600078,43.245848],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857688241,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"84 E Main St Fort Kent ME 04743",
+    "addr:housenumber":"84",
+    "addr:postcode":"04743",
+    "addr:street":"E Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.590054,47.261274,-68.590054,47.261274",
+    "geom:latitude":47.261274,
+    "geom:longitude":-68.590054,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"84 E Main St",
+    "sg:city":"Fort Kent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 834 5444",
+    "sg:postcode":"04743",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cFI4t3OJSRtAP8k3NBAux_47.261274_-68.590054@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220583,
+    "wof:geomhash":"b9a15ed7eeb9d5455e425d767690599d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857688241
+        }
+    ],
+    "wof:id":857688241,
+    "wof:lastmodified":1472627193,
+    "wof:name":"Rite Aid Pharmacy",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.590054,
+    47.261274,
+    -68.590054,
+    47.261274
+],
+  "geometry": {"coordinates":[-68.59005399999999,47.261274],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857721513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"111 Bay Rd Jonesboro ME 04605",
+    "addr:housenumber":"111",
+    "addr:postcode":"04605",
+    "addr:street":"Bay Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.274486,44.457747,-68.274486,44.457747",
+    "geom:latitude":44.457747,
+    "geom:longitude":-68.274486,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"111 Bay Rd",
+    "sg:city":"Jonesboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 434 7741",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "cranberry"
+    ],
+    "sg:website":"www.cranberryshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85829637,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TqBlTJCSW2EA5vSFf1Arq_44.457747_-68.274486@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221280,
+    "wof:geomhash":"b9e53fc87bb30b9ab879131ae7bce284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85829637,
+            "region_id":85688769,
+            "venue_id":857721513
+        }
+    ],
+    "wof:id":857721513,
+    "wof:lastmodified":1472627268,
+    "wof:name":"Weownit Cranberry Co",
+    "wof:parent_id":85829637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cranberry"
+    ]
+},
+  "bbox": [
+    -68.274486,
+    44.457747,
+    -68.274486,
+    44.457747
+],
+  "geometry": {"coordinates":[-68.274486,44.457747],"type":"Point"}
+}

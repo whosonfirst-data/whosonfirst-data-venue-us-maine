@@ -1,0 +1,80 @@
+{
+  "id": 857712855,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"57 Exchange St Portland ME 04101",
+    "addr:housenumber":"57",
+    "addr:postcode":"04101",
+    "addr:street":"Exchange St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.254079,43.65713,-70.254079,43.65713",
+    "geom:latitude":43.65713,
+    "geom:longitude":-70.254079,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"57 Exchange St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 773 7217",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.christmasstore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85882031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48b0pFqRDXVPcaSyNwOp7E_43.657130_-70.254079@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221107,
+    "wof:geomhash":"91bb069006b809d001314b81ca5ddfda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85882031,
+            "region_id":85688769,
+            "venue_id":857712855
+        }
+    ],
+    "wof:id":857712855,
+    "wof:lastmodified":1472627267,
+    "wof:name":"Country Noel Christmas Etc",
+    "wof:parent_id":85882031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -70.254079,
+    43.65713,
+    -70.254079,
+    43.65713
+],
+  "geometry": {"coordinates":[-70.254079,43.65713],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857717519,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"40 Bay Rd Blue Hill ME 04605",
+    "addr:housenumber":"40",
+    "addr:postcode":"04605",
+    "addr:street":"Bay Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.279629,44.456764,-68.279629,44.456764",
+    "geom:latitude":44.456764,
+    "geom:longitude":-68.279629,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Bay Rd",
+    "sg:city":"Blue Hill",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 359 2304",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85829637,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pe9FWYd1ZV0BLOK88y0vy_44.456764_-68.279629@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221195,
+    "wof:geomhash":"1d5d410394e19773ca05c49668dab56c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85829637,
+            "region_id":85688769,
+            "venue_id":857717519
+        }
+    ],
+    "wof:id":857717519,
+    "wof:lastmodified":1472627257,
+    "wof:name":"Soar Studio",
+    "wof:parent_id":85829637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -68.279629,
+    44.456764,
+    -68.279629,
+    44.456764
+],
+  "geometry": {"coordinates":[-68.279629,44.456764],"type":"Point"}
+}

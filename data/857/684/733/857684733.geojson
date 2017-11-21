@@ -1,0 +1,83 @@
+{
+  "id": 857684733,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"161 Park St Orono ME 04473",
+    "addr:housenumber":"161",
+    "addr:postcode":"04473",
+    "addr:street":"Park St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.655284,44.897631,-68.655284,44.897631",
+    "geom:latitude":44.897631,
+    "geom:longitude":-68.655284,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"161 Park St",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 7867",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ipByZb21ZsdNZnJ7QuuMd_44.897631_-68.655284@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220517,
+    "wof:geomhash":"4f6b3ebc65a0aafced757a5fdfb0e0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857684733
+        }
+    ],
+    "wof:id":857684733,
+    "wof:lastmodified":1472627206,
+    "wof:name":"Orono Old Town Self Storage",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -68.655284,
+    44.897631,
+    -68.655284,
+    44.897631
+],
+  "geometry": {"coordinates":[-68.65528399999999,44.897631],"type":"Point"}
+}

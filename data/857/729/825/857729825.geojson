@@ -1,0 +1,82 @@
+{
+  "id": 857729825,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"88 Exchange St Portland ME 04101",
+    "addr:housenumber":"88",
+    "addr:postcode":"04101",
+    "addr:street":"Exchange St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.255381,43.658105,-70.255381,43.658105",
+    "geom:latitude":43.658105,
+    "geom:longitude":-70.255381,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"88 Exchange St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/portland/40204-tandoor-fine-indian-cuisine/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 775 4259",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "indian",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85882031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RfT2egmhiK6Az3EVFSKqM_43.658105_-70.255381@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221430,
+    "wof:geomhash":"396e004e90eae23a61f06e088bfbecd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85882031,
+            "region_id":85688769,
+            "venue_id":857729825
+        }
+    ],
+    "wof:id":857729825,
+    "wof:lastmodified":1472627313,
+    "wof:name":"Tandoor Fine Indian Cuisine",
+    "wof:parent_id":85882031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "indian",
+        "asian"
+    ]
+},
+  "bbox": [
+    -70.255381,
+    43.658105,
+    -70.255381,
+    43.658105
+],
+  "geometry": {"coordinates":[-70.255381,43.658105],"type":"Point"}
+}

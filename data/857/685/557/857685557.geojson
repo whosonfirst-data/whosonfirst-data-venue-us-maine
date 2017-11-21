@@ -1,0 +1,81 @@
+{
+  "id": 857685557,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"122 Even Keel Rd Yarmouth ME 04096",
+    "addr:housenumber":"122 even",
+    "addr:postcode":"04096",
+    "addr:street":"Keel Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.158016,43.810532,-70.158016,43.810532",
+    "geom:latitude":43.810532,
+    "geom:longitude":-70.158016,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"122 Even Keel Rd",
+    "sg:city":"Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Watercraft",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 846 3184",
+    "sg:postcode":"04096",
+    "sg:province":"ME",
+    "sg:tags":[
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859327,
+        102191575,
+        404475445,
+        85633793,
+        85949005,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O8aUFtrjQX3Vadz3uYPqZ_43.810532_-70.158016@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220531,
+    "wof:geomhash":"5d83abc1977c6de09925150b9a35ec97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475445,
+            "locality_id":85949005,
+            "neighbourhood_id":85859327,
+            "region_id":85688769,
+            "venue_id":857685557
+        }
+    ],
+    "wof:id":857685557,
+    "wof:lastmodified":1472627198,
+    "wof:name":"Green Marine",
+    "wof:parent_id":85859327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat"
+    ]
+},
+  "bbox": [
+    -70.158016,
+    43.810532,
+    -70.158016,
+    43.810532
+],
+  "geometry": {"coordinates":[-70.158016,43.810532],"type":"Point"}
+}

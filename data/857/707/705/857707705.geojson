@@ -1,0 +1,75 @@
+{
+  "id": 857707705,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"96 Main St Machias ME 04654",
+    "addr:housenumber":"96",
+    "addr:postcode":"04654",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.459408,44.714314,-67.459408,44.714314",
+    "geom:latitude":44.714314,
+    "geom:longitude":-67.459408,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"96 Main St",
+    "sg:city":"Machias",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 255 3833",
+    "sg:postcode":"04654",
+    "sg:province":"ME",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85826381,
+        102081143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_791Z3NUSRA4kb7rclxLHkW_44.714314_-67.459408@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220963,
+    "wof:geomhash":"e14fdd4460222c4576d2e68c08a2bf7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85826381,
+            "region_id":85688769,
+            "venue_id":857707705
+        }
+    ],
+    "wof:id":857707705,
+    "wof:lastmodified":1472627254,
+    "wof:name":"Machias Cleaners & Laundry Inc",
+    "wof:parent_id":85826381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -67.459408,
+    44.714314,
+    -67.459408,
+    44.714314
+],
+  "geometry": {"coordinates":[-67.459408,44.714314],"type":"Point"}
+}

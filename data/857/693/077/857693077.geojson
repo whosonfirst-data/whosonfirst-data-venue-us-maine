@@ -1,0 +1,88 @@
+{
+  "id": 857693077,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22 Bayview Ave Ellsworth ME 04605",
+    "addr:housenumber":"22",
+    "addr:postcode":"04605",
+    "addr:street":"Bayview Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.419106,44.546064,-68.419106,44.546064",
+    "geom:latitude":44.546064,
+    "geom:longitude":-68.419106,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Bayview Ave",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 8646",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52TBy5sy7jfhZLyhimbk6g_44.546064_-68.419106@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220682,
+    "wof:geomhash":"84db314a971b7d61b30590573292f0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857693077
+        }
+    ],
+    "wof:id":857693077,
+    "wof:lastmodified":1472627194,
+    "wof:name":"Sanchez & Son",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.419106,
+    44.546064,
+    -68.419106,
+    44.546064
+],
+  "geometry": {"coordinates":[-68.419106,44.546064],"type":"Point"}
+}

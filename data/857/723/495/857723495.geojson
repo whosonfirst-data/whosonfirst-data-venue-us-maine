@@ -1,0 +1,83 @@
+{
+  "id": 857723495,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"60 Longview Dr Bangor ME 04401",
+    "addr:housenumber":"60",
+    "addr:postcode":"04401",
+    "addr:street":"Longview Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.742843,44.840183,-68.742843,44.840183",
+    "geom:latitude":44.840183,
+    "geom:longitude":-68.742843,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"60 Longview Dr",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 2020",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NVebM3eTF8Hir8KdAla5h_44.840183_-68.742843@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221315,
+    "wof:geomhash":"cf5411bbb4b35cbf7412dddda0079115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857723495
+        }
+    ],
+    "wof:id":857723495,
+    "wof:lastmodified":1472627268,
+    "wof:name":"Target One Hour Photo",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -68.742843,
+    44.840183,
+    -68.742843,
+    44.840183
+],
+  "geometry": {"coordinates":[-68.74284299999999,44.840183],"type":"Point"}
+}

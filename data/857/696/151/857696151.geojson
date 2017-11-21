@@ -1,0 +1,83 @@
+{
+  "id": 857696151,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"44 Elm St Camden ME 04843",
+    "addr:housenumber":"44",
+    "addr:postcode":"04843",
+    "addr:street":"Elm St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.064493,44.211973,-69.064493,44.211973",
+    "geom:latitude":44.211973,
+    "geom:longitude":-69.064493,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"44 Elm St",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 236 6889",
+    "sg:postcode":"04843",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833741,
+        102191575,
+        404475697,
+        85633793,
+        85948907,
+        102087453,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MEDnAoqzxATXR3odtPqPL_44.211973_-69.064493@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220739,
+    "wof:geomhash":"33091e7ea56d462f4fbcda7212fb95d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087453,
+            "localadmin_id":404475697,
+            "locality_id":85948907,
+            "neighbourhood_id":85833741,
+            "region_id":85688769,
+            "venue_id":857696151
+        }
+    ],
+    "wof:id":857696151,
+    "wof:lastmodified":1472627196,
+    "wof:name":"Frugal Suzy's",
+    "wof:parent_id":85833741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -69.064493,
+    44.211973,
+    -69.064493,
+    44.211973
+],
+  "geometry": {"coordinates":[-69.064493,44.211973],"type":"Point"}
+}

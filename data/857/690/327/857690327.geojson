@@ -1,0 +1,79 @@
+{
+  "id": 857690327,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"162 Lewiston Rd New Gloucester ME 04260",
+    "addr:housenumber":"162",
+    "addr:postcode":"04260",
+    "addr:street":"Lewiston Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.306783,43.934816,-70.306783,43.934816",
+    "geom:latitude":43.934816,
+    "geom:longitude":-70.306783,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"162 Lewiston Rd",
+    "sg:city":"New Gloucester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 926 4442",
+    "sg:postcode":"04260",
+    "sg:province":"ME",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85857545,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DbP5vBPHepai2XCDIE9hI_43.934816_-70.306783@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220624,
+    "wof:geomhash":"01a00cb744aa9c5a9ec87058814a4fd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85857545,
+            "region_id":85688769,
+            "venue_id":857690327
+        }
+    ],
+    "wof:id":857690327,
+    "wof:lastmodified":1472627196,
+    "wof:name":"Portland Insulation Inc",
+    "wof:parent_id":85857545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.306783,
+    43.934816,
+    -70.306783,
+    43.934816
+],
+  "geometry": {"coordinates":[-70.306783,43.934816],"type":"Point"}
+}

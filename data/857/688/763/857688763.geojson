@@ -1,0 +1,84 @@
+{
+  "id": 857688763,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14 Center Rd Loring Cm Ctr ME 04740",
+    "addr:housenumber":"14",
+    "addr:postcode":"04740",
+    "addr:street":"Center Rd;Cm Ctr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.920424,46.642987,-67.920424,46.642987",
+    "geom:latitude":46.642987,
+    "geom:longitude":-67.920424,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Center Rd",
+    "sg:city":"Loring Cm Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 328 0905",
+    "sg:postcode":"04740",
+    "sg:province":"ME",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "sg:website":"www.hydroblendinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l03B1C4PStGVDiFYwqqcE_46.642987_-67.920424@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220594,
+    "wof:geomhash":"4e0b70326813146af0180acfd7343054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857688763
+        }
+    ],
+    "wof:id":857688763,
+    "wof:lastmodified":1472627206,
+    "wof:name":"Hydroblend Inc",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -67.920424,
+    46.642987,
+    -67.920424,
+    46.642987
+],
+  "geometry": {"coordinates":[-67.920424,46.642987],"type":"Point"}
+}

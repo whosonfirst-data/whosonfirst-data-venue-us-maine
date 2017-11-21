@@ -1,0 +1,72 @@
+{
+  "id": 857723915,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"24 Stillwater Ave Old Town ME 04468",
+    "addr:housenumber":"24",
+    "addr:postcode":"04468",
+    "addr:street":"Stillwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.650206,44.937978,-68.650206,44.937978",
+    "geom:latitude":44.937978,
+    "geom:longitude":-68.650206,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 Stillwater Ave",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 1625",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Hh4wkKguMa4ukNyrvqyBe_44.937978_-68.650206@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221322,
+    "wof:geomhash":"df5e48680e7be2cd000d001894e72a3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857723915
+        }
+    ],
+    "wof:id":857723915,
+    "wof:lastmodified":1472627279,
+    "wof:name":"Smart Chiropractic",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.650206,
+    44.937978,
+    -68.650206,
+    44.937978
+],
+  "geometry": {"coordinates":[-68.650206,44.937978],"type":"Point"}
+}

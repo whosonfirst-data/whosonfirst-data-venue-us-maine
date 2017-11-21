@@ -1,0 +1,79 @@
+{
+  "id": 857692603,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2345 E Conway Rd North Conway ME 03813",
+    "addr:housenumber":"2345",
+    "addr:postcode":"03813",
+    "addr:street":"E Conway Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.036121,44.000695,-71.036121,44.000695",
+    "geom:latitude":44.000695,
+    "geom:longitude":-71.036121,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2345 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 1850",
+    "sg:postcode":"03813",
+    "sg:province":"ME",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816185,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sdcIebsSAXo7qj1Wgoa4L_44.000695_-71.036121@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220673,
+    "wof:geomhash":"7d7fe04ae6cd0d5e5712a26496c8b0ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816185,
+            "region_id":85688689,
+            "venue_id":857692603
+        }
+    ],
+    "wof:id":857692603,
+    "wof:lastmodified":1472627209,
+    "wof:name":"Bills Satellite TV",
+    "wof:parent_id":85816185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.036121,
+    44.000695,
+    -71.036121,
+    44.000695
+],
+  "geometry": {"coordinates":[-71.03612099999999,44.000695],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857734557,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7 Tidewater Ct Kennebunk ME 04043",
+    "addr:housenumber":"7",
+    "addr:postcode":"04043",
+    "addr:street":"Tidewater Ct",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.505476,43.374714,-70.505476,43.374714",
+    "geom:latitude":43.374714,
+    "geom:longitude":-70.505476,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Tidewater Ct",
+    "sg:city":"Kennebunk",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 967 0455",
+    "sg:postcode":"04043",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.sprucefirth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949039,
+        102087449,
+        85828039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LUt9WepSxBLiQ8kEqVKo8_43.374714_-70.505476@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221531,
+    "wof:geomhash":"0ff1b3fbe725caf8aafebfeb2192e51b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85949039,
+            "neighbourhood_id":85828039,
+            "region_id":85688769,
+            "venue_id":857734557
+        }
+    ],
+    "wof:id":857734557,
+    "wof:lastmodified":1472627312,
+    "wof:name":"Spruce Firth Woodwork & Design",
+    "wof:parent_id":85828039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.505476,
+    43.374714,
+    -70.505476,
+    43.374714
+],
+  "geometry": {"coordinates":[-70.505476,43.374714],"type":"Point"}
+}

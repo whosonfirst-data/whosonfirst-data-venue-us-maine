@@ -1,0 +1,79 @@
+{
+  "id": 857724951,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11 Park St Hallowell ME 04347",
+    "addr:housenumber":"11",
+    "addr:postcode":"04347",
+    "addr:street":"Park St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.785869,44.295022,-69.785869,44.295022",
+    "geom:latitude":44.295022,
+    "geom:longitude":-69.785869,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Park St",
+    "sg:city":"Hallowell",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 623 3868",
+    "sg:postcode":"04347",
+    "sg:province":"ME",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C5UOMMyZrF8o7AAC9jpMV_44.295022_-69.785869@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221342,
+    "wof:geomhash":"c4c9f201e2c264ef97a2e5e7a2758d84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857724951
+        }
+    ],
+    "wof:id":857724951,
+    "wof:lastmodified":1472627278,
+    "wof:name":"Corner Music & Piano Shop",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -69.785869,
+    44.295022,
+    -69.785869,
+    44.295022
+],
+  "geometry": {"coordinates":[-69.78586900000001,44.295022],"type":"Point"}
+}

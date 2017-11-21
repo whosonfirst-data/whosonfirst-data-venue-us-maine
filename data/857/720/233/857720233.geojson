@@ -1,0 +1,75 @@
+{
+  "id": 857720233,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"212 Country Club Rd Oakland ME 04963",
+    "addr:housenumber":"212",
+    "addr:postcode":"04963",
+    "addr:street":"Country Club Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.706976,44.532809,-69.706976,44.532809",
+    "geom:latitude":44.532809,
+    "geom:longitude":-69.706976,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"212 Country Club Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 465 2933",
+    "sg:postcode":"04963",
+    "sg:province":"ME",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85837327,
+        102087461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29Iez7OOBTMmodYAPvXanW_44.532809_-69.706976@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221254,
+    "wof:geomhash":"de4a41dbf62f484cc87b8e88175fbfa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "neighbourhood_id":85837327,
+            "region_id":85688769,
+            "venue_id":857720233
+        }
+    ],
+    "wof:id":857720233,
+    "wof:lastmodified":1472627251,
+    "wof:name":"Hallowell Builders",
+    "wof:parent_id":85837327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -69.706976,
+    44.532809,
+    -69.706976,
+    44.532809
+],
+  "geometry": {"coordinates":[-69.706976,44.532809],"type":"Point"}
+}

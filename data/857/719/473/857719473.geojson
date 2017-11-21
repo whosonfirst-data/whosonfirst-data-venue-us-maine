@@ -1,0 +1,81 @@
+{
+  "id": 857719473,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"402 Water St Hallowell ME 04347",
+    "addr:housenumber":"402",
+    "addr:postcode":"04347",
+    "addr:street":"Water St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.787166,44.267723,-69.787166,44.267723",
+    "geom:latitude":44.267723,
+    "geom:longitude":-69.787166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"402 Water St",
+    "sg:city":"Hallowell",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 623 0040",
+    "sg:postcode":"04347",
+    "sg:province":"ME",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bi4itM0U60Sk4hXbWjw91_44.267723_-69.787166@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221237,
+    "wof:geomhash":"008e3edcc9d4d711baa1b86fa434dfe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857719473
+        }
+    ],
+    "wof:id":857719473,
+    "wof:lastmodified":1472627261,
+    "wof:name":"Katrine Sholl",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -69.787166,
+    44.267723,
+    -69.787166,
+    44.267723
+],
+  "geometry": {"coordinates":[-69.787166,44.267723],"type":"Point"}
+}

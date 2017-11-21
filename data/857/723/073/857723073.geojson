@@ -1,0 +1,82 @@
+{
+  "id": 857723073,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"28 Foden Rd South Portland ME 04106",
+    "addr:housenumber":"28",
+    "addr:postcode":"04106",
+    "addr:street":"Foden Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.323227,43.639967,-70.323227,43.639967",
+    "geom:latitude":43.639967,
+    "geom:longitude":-70.323227,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"28 Foden Rd",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 6278",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.pslstrive.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85851275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_440b0vAmbXgHvA7ufzlOSV_43.639967_-70.323227@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221307,
+    "wof:geomhash":"bf92c6f199a7bed444dcd42d9a4f2bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85851275,
+            "region_id":85688769,
+            "venue_id":857723073
+        }
+    ],
+    "wof:id":857723073,
+    "wof:lastmodified":1472627250,
+    "wof:name":"Peregrine Corp",
+    "wof:parent_id":85851275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -70.323227,
+    43.639967,
+    -70.323227,
+    43.639967
+],
+  "geometry": {"coordinates":[-70.323227,43.639967],"type":"Point"}
+}

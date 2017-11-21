@@ -1,0 +1,83 @@
+{
+  "id": 857724549,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"80 Stillwater Ave Orono ME 04473",
+    "addr:housenumber":"80",
+    "addr:postcode":"04473",
+    "addr:street":"Stillwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.702139,44.892226,-68.702139,44.892226",
+    "geom:latitude":44.892226,
+    "geom:longitude":-68.702139,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"80 Stillwater Ave",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 7832",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "sg:tags":[
+        "decorating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fXtTOPLyu3hginwpZuorE_44.892226_-68.702139@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221334,
+    "wof:geomhash":"66c7cbb6aee1500e5fba3c7ca36aa603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857724549
+        }
+    ],
+    "wof:id":857724549,
+    "wof:lastmodified":1472627261,
+    "wof:name":"Silver Tools",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decorating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.702139,
+    44.892226,
+    -68.702139,
+    44.892226
+],
+  "geometry": {"coordinates":[-68.702139,44.892226],"type":"Point"}
+}

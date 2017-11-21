@@ -1,0 +1,78 @@
+{
+  "id": 857731301,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15 South St Blue Hill ME 04614",
+    "addr:housenumber":"15",
+    "addr:postcode":"04614",
+    "addr:street":"South St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.596775,44.407408,-68.596775,44.407408",
+    "geom:latitude":44.407408,
+    "geom:longitude":-68.596775,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 South St",
+    "sg:city":"Blue Hill",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/blue-hill/119786-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 374 3269",
+    "sg:postcode":"04614",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85806493,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FVeMBVhPYOmTfGPTK4906_44.407408_-68.596775@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221463,
+    "wof:geomhash":"23d3cc295fccce7bad4277b880151d5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85806493,
+            "region_id":85688769,
+            "venue_id":857731301
+        }
+    ],
+    "wof:id":857731301,
+    "wof:lastmodified":1472627301,
+    "wof:name":"Subway",
+    "wof:parent_id":85806493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -68.596775,
+    44.407408,
+    -68.596775,
+    44.407408
+],
+  "geometry": {"coordinates":[-68.59677499999999,44.407408],"type":"Point"}
+}

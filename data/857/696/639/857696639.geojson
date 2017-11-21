@@ -1,0 +1,76 @@
+{
+  "id": 857696639,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"110 Park St Orono ME 04473",
+    "addr:housenumber":"110",
+    "addr:postcode":"04473",
+    "addr:street":"Park St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.660406,44.893807,-68.660406,44.893807",
+    "geom:latitude":44.893807,
+    "geom:longitude":-68.660406,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 Park St",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 5596",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JQctSIQC9stHGTOGqD0ln_44.893807_-68.660406@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220747,
+    "wof:geomhash":"fde0f32760e89cca66fd033366bb43ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857696639
+        }
+    ],
+    "wof:id":857696639,
+    "wof:lastmodified":1472627213,
+    "wof:name":"Bangor Savings Bank",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.660406,
+    44.893807,
+    -68.660406,
+    44.893807
+],
+  "geometry": {"coordinates":[-68.66040599999999,44.893807],"type":"Point"}
+}

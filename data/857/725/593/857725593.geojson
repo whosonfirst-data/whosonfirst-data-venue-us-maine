@@ -1,0 +1,64 @@
+{
+  "id": 857725593,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3 Elm St Somersworth ME 03878",
+    "addr:housenumber":"3",
+    "addr:postcode":"03878",
+    "addr:street":"Elm St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.864487,43.262498,-70.864487,43.262498",
+    "geom:latitude":43.262498,
+    "geom:longitude":-70.864487,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Elm St",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 692 4262",
+    "sg:postcode":"03878",
+    "sg:province":"ME",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UsAcsfqeAyVNBXx8Bv9e1_43.262498_-70.864487@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221354,
+    "wof:geomhash":"c8d63ba2a3d9ab90e121d4ec1f829f96",
+    "wof:hierarchy":[],
+    "wof:id":857725593,
+    "wof:lastmodified":1472627262,
+    "wof:name":"Somersworth Water Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -70.864487,
+    43.262498,
+    -70.864487,
+    43.262498
+],
+  "geometry": {"coordinates":[-70.864487,43.262498],"type":"Point"}
+}

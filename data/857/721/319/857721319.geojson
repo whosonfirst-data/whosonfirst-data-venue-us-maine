@@ -1,0 +1,73 @@
+{
+  "id": 857721319,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"44 Edison Dr Augusta ME 04330",
+    "addr:housenumber":"44",
+    "addr:postcode":"04330",
+    "addr:street":"Edison Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.817566,44.315639,-69.817566,44.315639",
+    "geom:latitude":44.315639,
+    "geom:longitude":-69.817566,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"44 Edison Dr",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 623 1134",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:website":"www.allofmainecu.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ese4N2ZSlYZ5DDu1Dn6I5_44.315639_-69.817566@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221276,
+    "wof:geomhash":"5a2acc52a5ef20c424a49cd1a71f6012",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857721319
+        }
+    ],
+    "wof:id":857721319,
+    "wof:lastmodified":1472627263,
+    "wof:name":"Alliance Of Maine Federal Cu",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.817566,
+    44.315639,
+    -69.817566,
+    44.315639
+],
+  "geometry": {"coordinates":[-69.817566,44.315639],"type":"Point"}
+}

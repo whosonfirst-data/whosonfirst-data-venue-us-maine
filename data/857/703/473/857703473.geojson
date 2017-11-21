@@ -1,0 +1,72 @@
+{
+  "id": 857703473,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"146 Center St Old Town ME 04468",
+    "addr:housenumber":"146",
+    "addr:postcode":"04468",
+    "addr:street":"Center St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.646361,44.934717,-68.646361,44.934717",
+    "geom:latitude":44.934717,
+    "geom:longitude":-68.646361,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"146 Center St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 3327",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D2YImYEQfIwOyrehhbQvX_44.934717_-68.646361@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220885,
+    "wof:geomhash":"27f4f09baee8a32b1c70b4881e2c61e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857703473
+        }
+    ],
+    "wof:id":857703473,
+    "wof:lastmodified":1472627206,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.646361,
+    44.934717,
+    -68.646361,
+    44.934717
+],
+  "geometry": {"coordinates":[-68.646361,44.934717],"type":"Point"}
+}

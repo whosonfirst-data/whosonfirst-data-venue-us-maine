@@ -1,0 +1,79 @@
+{
+  "id": 857695107,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14 Cherry St Farmingdale ME 04344",
+    "addr:housenumber":"14",
+    "addr:postcode":"04344",
+    "addr:street":"Cherry St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.784724,44.258661,-69.784724,44.258661",
+    "geom:latitude":44.258661,
+    "geom:longitude":-69.784724,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Cherry St",
+    "sg:city":"Farmingdale",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 622 4804",
+    "sg:postcode":"04344",
+    "sg:province":"ME",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0245Z1hIDabZiU657nx7Bm_44.258661_-69.784724@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220722,
+    "wof:geomhash":"c34f06558468f28ecfa1021e2c955fc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857695107
+        }
+    ],
+    "wof:id":857695107,
+    "wof:lastmodified":1472627196,
+    "wof:name":"Mallar Associates",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -69.784724,
+    44.258661,
+    -69.784724,
+    44.258661
+],
+  "geometry": {"coordinates":[-69.784724,44.258661],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 857695199,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"47 Penobscot St Orono ME 04473",
+    "addr:housenumber":"47",
+    "addr:postcode":"04473",
+    "addr:street":"Penobscot St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.654821,44.887726,-68.654821,44.887726",
+    "geom:latitude":44.887726,
+    "geom:longitude":-68.654821,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"47 Penobscot St",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 4449",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "sg:tags":[
+        "water",
+        "bulk",
+        "company"
+    ],
+    "sg:website":"www.ovwd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m9NJ4qXR8ot04PV3qyUzD_44.887726_-68.654821@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220723,
+    "wof:geomhash":"6c4f9d90580875dba17d7fab79e5369f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857695199
+        }
+    ],
+    "wof:id":857695199,
+    "wof:lastmodified":1472627198,
+    "wof:name":"Orono-Veazie Water District",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "bulk",
+        "company"
+    ]
+},
+  "bbox": [
+    -68.654821,
+    44.887726,
+    -68.654821,
+    44.887726
+],
+  "geometry": {"coordinates":[-68.654821,44.887726],"type":"Point"}
+}

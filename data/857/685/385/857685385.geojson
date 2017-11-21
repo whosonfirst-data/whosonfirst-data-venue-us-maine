@@ -1,0 +1,81 @@
+{
+  "id": 857685385,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"483 Hogan Rd Bangor ME 04401",
+    "addr:housenumber":"483",
+    "addr:postcode":"04401",
+    "addr:street":"Hogan Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.74116,44.830453,-68.74116,44.830453",
+    "geom:latitude":44.830453,
+    "geom:longitude":-68.74116,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"483 Hogan Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 6666",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BGKAM8SLjNs40Icb5D8q7_44.830453_-68.741160@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220528,
+    "wof:geomhash":"0c3b7af437d0de323e7c9fbb81f671ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857685385
+        }
+    ],
+    "wof:id":857685385,
+    "wof:lastmodified":1472627193,
+    "wof:name":"Peterbilt",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -68.74116,
+    44.830453,
+    -68.74116,
+    44.830453
+],
+  "geometry": {"coordinates":[-68.74115999999999,44.830453],"type":"Point"}
+}

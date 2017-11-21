@@ -1,0 +1,75 @@
+{
+  "id": 857702263,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"210 State Rd Bath ME 04530",
+    "addr:housenumber":"210",
+    "addr:postcode":"04530",
+    "addr:street":"State Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.852743,43.903764,-69.852743,43.903764",
+    "geom:latitude":43.903764,
+    "geom:longitude":-69.852743,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"210 State Rd",
+    "sg:city":"Bath",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 443 1641",
+    "sg:postcode":"04530",
+    "sg:province":"ME",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85837805,
+        102087455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qUPT2rtABHB4KZQyIe98b_43.903764_-69.852743@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220864,
+    "wof:geomhash":"5bc9e6b34a93e443ec5f60b0d4a39610",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087455,
+            "neighbourhood_id":85837805,
+            "region_id":85688769,
+            "venue_id":857702263
+        }
+    ],
+    "wof:id":857702263,
+    "wof:lastmodified":1472627203,
+    "wof:name":"Steves Auto",
+    "wof:parent_id":85837805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -69.852743,
+    43.903764,
+    -69.852743,
+    43.903764
+],
+  "geometry": {"coordinates":[-69.852743,43.903764],"type":"Point"}
+}

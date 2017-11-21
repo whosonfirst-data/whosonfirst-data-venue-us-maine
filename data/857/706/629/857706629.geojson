@@ -1,0 +1,81 @@
+{
+  "id": 857706629,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"28 Forest Ave Ellsworth ME 04605",
+    "addr:housenumber":"28",
+    "addr:postcode":"04605",
+    "addr:street":"Forest Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.433548,44.551118,-68.433548,44.551118",
+    "geom:latitude":44.551118,
+    "geom:longitude":-68.433548,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"28 Forest Ave",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 4841",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "reporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JMlZzae1hmBraLkIa9zIA_44.551118_-68.433548@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220943,
+    "wof:geomhash":"41bac7a4d3d959c5bbdfb662f0f86df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857706629
+        }
+    ],
+    "wof:id":857706629,
+    "wof:lastmodified":1472627246,
+    "wof:name":"Medical Transcription",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting"
+    ]
+},
+  "bbox": [
+    -68.433548,
+    44.551118,
+    -68.433548,
+    44.551118
+],
+  "geometry": {"coordinates":[-68.433548,44.551118],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857716251,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"849 Stillwater Ave Bangor ME 04401",
+    "addr:housenumber":"849",
+    "addr:postcode":"04401",
+    "addr:street":"Stillwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.747682,44.837151,-68.747682,44.837151",
+    "geom:latitude":44.837151,
+    "geom:longitude":-68.747682,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"849 Stillwater Ave",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 6677",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z0YAYlG4DqPjNbiMgpucG_44.837151_-68.747682@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221170,
+    "wof:geomhash":"57475f6b789199aa5e3b37bc622aecf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857716251
+        }
+    ],
+    "wof:id":857716251,
+    "wof:lastmodified":1472627251,
+    "wof:name":"Bangor House Of Pizza",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.747682,
+    44.837151,
+    -68.747682,
+    44.837151
+],
+  "geometry": {"coordinates":[-68.747682,44.837151],"type":"Point"}
+}

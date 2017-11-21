@@ -1,0 +1,79 @@
+{
+  "id": 857719983,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"553 River Rd Brunswick ME 04011",
+    "addr:housenumber":"553",
+    "addr:postcode":"04011",
+    "addr:street":"River Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.017284,43.935108,-70.017284,43.935108",
+    "geom:latitude":43.935108,
+    "geom:longitude":-70.017284,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"553 River Rd",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 725 0935",
+    "sg:postcode":"04011",
+    "sg:province":"ME",
+    "sg:tags":[
+        "equipment",
+        "system",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85813909,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mDpR3K6497BzxlL5ijWJb_43.935108_-70.017284@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221250,
+    "wof:geomhash":"cd7d7b11500076aa4d002ddc2f3c6ad1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85813909,
+            "region_id":85688769,
+            "venue_id":857719983
+        }
+    ],
+    "wof:id":857719983,
+    "wof:lastmodified":1472627274,
+    "wof:name":"Vacuum Pressing Systems",
+    "wof:parent_id":85813909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "system",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -70.017284,
+    43.935108,
+    -70.017284,
+    43.935108
+],
+  "geometry": {"coordinates":[-70.017284,43.935108],"type":"Point"}
+}

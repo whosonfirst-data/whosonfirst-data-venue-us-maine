@@ -1,0 +1,80 @@
+{
+  "id": 857726427,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"86 US Hwy 202 Leeds ME 04263",
+    "addr:housenumber":"86",
+    "addr:postcode":"04263",
+    "addr:street":"Us Hwy 202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.087975,44.222883,-70.087975,44.222883",
+    "geom:latitude":44.222883,
+    "geom:longitude":-70.087975,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"86 US Hwy 202",
+    "sg:city":"Leeds",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 933 4496",
+    "sg:postcode":"04263",
+    "sg:province":"ME",
+    "sg:tags":[
+        "equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85830143,
+        102087461
+    ],
+    "wof:brand_id":1125156475,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aHIPOkckxvtNorM6s3DZV_44.222883_-70.087975@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221368,
+    "wof:geomhash":"b62e6381aaaef4ff904ee76682b680ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "neighbourhood_id":85830143,
+            "region_id":85688769,
+            "venue_id":857726427
+        }
+    ],
+    "wof:id":857726427,
+    "wof:lastmodified":1510696791,
+    "wof:name":"Safety-Kleen Corp",
+    "wof:parent_id":85830143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -70.087975,
+    44.222883,
+    -70.087975,
+    44.222883
+],
+  "geometry": {"coordinates":[-70.087975,44.222883],"type":"Point"}
+}

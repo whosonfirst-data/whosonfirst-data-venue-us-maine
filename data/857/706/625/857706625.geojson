@@ -1,0 +1,85 @@
+{
+  "id": 857706625,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3078 W Chapman Rd Mapleton ME 04757",
+    "addr:housenumber":"3078",
+    "addr:postcode":"04757",
+    "addr:street":"W Chapman Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.162619,46.680336,-68.162619,46.680336",
+    "geom:latitude":46.680336,
+    "geom:longitude":-68.162619,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3078 W Chapman Rd",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 3233",
+    "sg:postcode":"04757",
+    "sg:province":"ME",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kHZ4xrwGSnHgPfUPCeYGR_46.680336_-68.162619@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220943,
+    "wof:geomhash":"8b521b6a68e7850b7413de5fb0ff3638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857706625
+        }
+    ],
+    "wof:id":857706625,
+    "wof:lastmodified":1472627249,
+    "wof:name":"Carpet Wizard",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -68.162619,
+    46.680336,
+    -68.162619,
+    46.680336
+],
+  "geometry": {"coordinates":[-68.16261900000001,46.680336],"type":"Point"}
+}

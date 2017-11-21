@@ -1,0 +1,71 @@
+{
+  "id": 857732363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"49 Shore Rd Ogunquit ME 03907",
+    "addr:housenumber":"49",
+    "addr:postcode":"03907",
+    "addr:street":"Shore Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.597189,43.246198,-70.597189,43.246198",
+    "geom:latitude":43.246198,
+    "geom:longitude":-70.597189,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"49 Shore Rd",
+    "sg:city":"Ogunquit",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 646 0554",
+    "sg:postcode":"03907",
+    "sg:province":"ME",
+    "sg:website":"www.vanwardgallery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85854335,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dj3huRfte2WBA5vh8GkHE_43.246198_-70.597189@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221490,
+    "wof:geomhash":"e4033be719cca917cda9921438ce86b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85854335,
+            "region_id":85688769,
+            "venue_id":857732363
+        }
+    ],
+    "wof:id":857732363,
+    "wof:lastmodified":1472627301,
+    "wof:name":"Van Ward Gallery",
+    "wof:parent_id":85854335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.597189,
+    43.246198,
+    -70.597189,
+    43.246198
+],
+  "geometry": {"coordinates":[-70.597189,43.246198],"type":"Point"}
+}

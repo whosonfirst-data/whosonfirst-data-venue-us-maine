@@ -1,0 +1,81 @@
+{
+  "id": 857717807,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"160 W Pleasant St Westbrook ME 04092",
+    "addr:housenumber":"160",
+    "addr:postcode":"04092",
+    "addr:street":"W Pleasant St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.371604,43.672324,-70.371604,43.672324",
+    "geom:latitude":43.672324,
+    "geom:longitude":-70.371604,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"160 W Pleasant St",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 854 2047",
+    "sg:postcode":"04092",
+    "sg:province":"ME",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85851275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pRCylKSrSyeCniuaGLhWQ_43.672324_-70.371604@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221200,
+    "wof:geomhash":"48ba0b9532ba02df12d6f0ffff59776b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85851275,
+            "region_id":85688769,
+            "venue_id":857717807
+        }
+    ],
+    "wof:id":857717807,
+    "wof:lastmodified":1472627266,
+    "wof:name":"Cairns Electric",
+    "wof:parent_id":85851275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.371604,
+    43.672324,
+    -70.371604,
+    43.672324
+],
+  "geometry": {"coordinates":[-70.371604,43.672324],"type":"Point"}
+}

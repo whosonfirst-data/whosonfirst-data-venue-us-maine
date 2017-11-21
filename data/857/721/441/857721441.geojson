@@ -1,0 +1,72 @@
+{
+  "id": 857721441,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"36 School St Monticello ME 04756",
+    "addr:housenumber":"36",
+    "addr:postcode":"04756",
+    "addr:street":"School St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.326177,47.353671,-68.326177,47.353671",
+    "geom:latitude":47.353671,
+    "geom:longitude":-68.326177,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 School St",
+    "sg:city":"Monticello",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 538 9495",
+    "sg:postcode":"04756",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KoIFP1nh83UXZ6xeaFTM4_47.353671_-68.326177@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221279,
+    "wof:geomhash":"eb737987f43d4326786370804aa1aa20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857721441
+        }
+    ],
+    "wof:id":857721441,
+    "wof:lastmodified":1472627266,
+    "wof:name":"Wellington Elementary School",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.326177,
+    47.353671,
+    -68.326177,
+    47.353671
+],
+  "geometry": {"coordinates":[-68.326177,47.353671],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857708225,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"41 Hill Top Dr Arundel ME 04046",
+    "addr:housenumber":"41",
+    "addr:postcode":"04046",
+    "addr:street":"Hill Top Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.52083,43.425594,-70.52083,43.425594",
+    "geom:latitude":43.425594,
+    "geom:longitude":-70.52083,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 Hill Top Dr",
+    "sg:city":"Arundel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 985 5172",
+    "sg:postcode":"04046",
+    "sg:province":"ME",
+    "sg:tags":[
+        "driveway"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804645,
+        102191575,
+        404475789,
+        85633793,
+        85949063,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zJs23TwH1KTAFAMPkaZoy_43.425594_-70.520830@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220979,
+    "wof:geomhash":"8911c98fd174be184d47a808428c003e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475789,
+            "locality_id":85949063,
+            "neighbourhood_id":85804645,
+            "region_id":85688769,
+            "venue_id":857708225
+        }
+    ],
+    "wof:id":857708225,
+    "wof:lastmodified":1472627240,
+    "wof:name":"Affordable Paving",
+    "wof:parent_id":85804645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "driveway"
+    ]
+},
+  "bbox": [
+    -70.52083,
+    43.425594,
+    -70.52083,
+    43.425594
+],
+  "geometry": {"coordinates":[-70.52083,43.425594],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857700013,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"30 Libby Hill Rd Oakland ME 04963",
+    "addr:housenumber":"30",
+    "addr:postcode":"04963",
+    "addr:street":"Libby Hill Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.721325,44.538727,-69.721325,44.538727",
+    "geom:latitude":44.538727,
+    "geom:longitude":-69.721325,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Libby Hill Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 465 3350",
+    "sg:postcode":"04963",
+    "sg:province":"ME",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85837327,
+        102087461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eo5wDFXI619JThzKzo5Fl_44.538727_-69.721325@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220813,
+    "wof:geomhash":"dd0ba14c5d0d72349e5e0bcdf5f2038b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "neighbourhood_id":85837327,
+            "region_id":85688769,
+            "venue_id":857700013
+        }
+    ],
+    "wof:id":857700013,
+    "wof:lastmodified":1472627193,
+    "wof:name":"Mayberry Builders",
+    "wof:parent_id":85837327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -69.721325,
+    44.538727,
+    -69.721325,
+    44.538727
+],
+  "geometry": {"coordinates":[-69.72132499999999,44.538727],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857693055,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1576 Hammond St Bangor ME 04401",
+    "addr:housenumber":"1576",
+    "addr:postcode":"04401",
+    "addr:street":"Hammond St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.839583,44.794501,-68.839583,44.794501",
+    "geom:latitude":44.794501,
+    "geom:longitude":-68.839583,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1576 Hammond St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 262 7252",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855195,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ia6VxFcDx89cU7mRaNwAw_44.794501_-68.839583@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220681,
+    "wof:geomhash":"f84836e4fd5173354a0957b2c4a9186a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85855195,
+            "region_id":85688769,
+            "venue_id":857693055
+        }
+    ],
+    "wof:id":857693055,
+    "wof:lastmodified":1472627194,
+    "wof:name":"Poirier's Garage",
+    "wof:parent_id":85855195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -68.839583,
+    44.794501,
+    -68.839583,
+    44.794501
+],
+  "geometry": {"coordinates":[-68.839583,44.794501],"type":"Point"}
+}

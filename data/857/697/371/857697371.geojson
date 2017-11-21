@@ -1,0 +1,70 @@
+{
+  "id": 857697371,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7 Lake St Rangeley ME 04970",
+    "addr:housenumber":"7",
+    "addr:postcode":"04970",
+    "addr:street":"Lake St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.643206,44.964452,-70.643206,44.964452",
+    "geom:latitude":44.964452,
+    "geom:longitude":-70.643206,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Lake St",
+    "sg:city":"Rangeley",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 864 5529",
+    "sg:postcode":"04970",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85834553,
+        102087433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oBLhJ4Vc1ozGd1V3kwyxn_44.964452_-70.643206@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220763,
+    "wof:geomhash":"50734277717fe43e54ff68fc5ec98802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087433,
+            "neighbourhood_id":85834553,
+            "region_id":85688769,
+            "venue_id":857697371
+        }
+    ],
+    "wof:id":857697371,
+    "wof:lastmodified":1472627203,
+    "wof:name":"Rangeley Public Library",
+    "wof:parent_id":85834553,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.643206,
+    44.964452,
+    -70.643206,
+    44.964452
+],
+  "geometry": {"coordinates":[-70.64320600000001,44.964452],"type":"Point"}
+}

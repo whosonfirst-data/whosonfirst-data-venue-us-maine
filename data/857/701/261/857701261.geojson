@@ -1,0 +1,81 @@
+{
+  "id": 857701261,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"137 Preble St Portland ME 04101",
+    "addr:housenumber":"137",
+    "addr:postcode":"04101",
+    "addr:street":"Preble St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.263638,43.66047,-70.263638,43.66047",
+    "geom:latitude":43.66047,
+    "geom:longitude":-70.263638,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"137 Preble St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 9642",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "instruction",
+        "yoga"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85880031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eSNmkzB8iGAtxpkXAiduB_43.660470_-70.263638@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220840,
+    "wof:geomhash":"96fda65c3b2d61edd7ed0fc8e82a6ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880031,
+            "region_id":85688769,
+            "venue_id":857701261
+        }
+    ],
+    "wof:id":857701261,
+    "wof:lastmodified":1472627203,
+    "wof:name":"Yoga Center",
+    "wof:parent_id":85880031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "yoga"
+    ]
+},
+  "bbox": [
+    -70.263638,
+    43.66047,
+    -70.263638,
+    43.66047
+],
+  "geometry": {"coordinates":[-70.263638,43.66047],"type":"Point"}
+}

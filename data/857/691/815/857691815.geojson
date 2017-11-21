@@ -1,0 +1,70 @@
+{
+  "id": 857691815,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1591 Main St Oxford ME 04270",
+    "addr:housenumber":"1591",
+    "addr:postcode":"04270",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.524818,44.194075,-70.524818,44.194075",
+    "geom:latitude":44.194075,
+    "geom:longitude":-70.524818,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1591 Main St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 743 2638",
+    "sg:postcode":"04270",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85868781,
+        102087437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GuYwpRkrClnkNJDAaju4q_44.194075_-70.524818@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220659,
+    "wof:geomhash":"610e06d545cf7b6a9b16680577a7c688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087437,
+            "neighbourhood_id":85868781,
+            "region_id":85688769,
+            "venue_id":857691815
+        }
+    ],
+    "wof:id":857691815,
+    "wof:lastmodified":1472627208,
+    "wof:name":"Oxford Federal Credit Union",
+    "wof:parent_id":85868781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.524818,
+    44.194075,
+    -70.524818,
+    44.194075
+],
+  "geometry": {"coordinates":[-70.524818,44.194075],"type":"Point"}
+}

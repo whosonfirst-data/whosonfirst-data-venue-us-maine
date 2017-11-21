@@ -1,0 +1,79 @@
+{
+  "id": 857708835,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"466 Stevens Ave Portland ME 04103",
+    "addr:housenumber":"466",
+    "addr:postcode":"04103",
+    "addr:street":"Stevens Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.29529,43.67407,-70.29529,43.67407",
+    "geom:latitude":43.67407,
+    "geom:longitude":-70.29529,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"466 Stevens Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 773 2423",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85880021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NLNKiBa1qWjjO7u1VzT4z_43.674070_-70.295290@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220995,
+    "wof:geomhash":"62853b0a01ee75b421d198a761cca058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880021,
+            "region_id":85688769,
+            "venue_id":857708835
+        }
+    ],
+    "wof:id":857708835,
+    "wof:lastmodified":1472627270,
+    "wof:name":"Central Square Baptist Church",
+    "wof:parent_id":85880021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -70.29529,
+    43.67407,
+    -70.29529,
+    43.67407
+],
+  "geometry": {"coordinates":[-70.29528999999999,43.67407],"type":"Point"}
+}

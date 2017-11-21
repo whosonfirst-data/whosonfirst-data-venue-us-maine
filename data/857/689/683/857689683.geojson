@@ -1,0 +1,84 @@
+{
+  "id": 857689683,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3 Andrews Rd Boothbay Harbor ME 04530",
+    "addr:housenumber":"3",
+    "addr:postcode":"04530",
+    "addr:street":"Andrews Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.822738,43.914739,-69.822738,43.914739",
+    "geom:latitude":43.914739,
+    "geom:longitude":-69.822738,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Andrews Rd",
+    "sg:city":"Boothbay Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 633 2121",
+    "sg:postcode":"04530",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948861,
+        102087455,
+        85813751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PR9wPrJApuE7YIm7aJlZr_43.914739_-69.822738@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220612,
+    "wof:geomhash":"34e81352fd1291aa98e0865531f8cf66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087455,
+            "locality_id":85948861,
+            "neighbourhood_id":85813751,
+            "region_id":85688769,
+            "venue_id":857689683
+        }
+    ],
+    "wof:id":857689683,
+    "wof:lastmodified":1472627210,
+    "wof:name":"St Andrews Hospital",
+    "wof:parent_id":85813751,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -69.822738,
+    43.914739,
+    -69.822738,
+    43.914739
+],
+  "geometry": {"coordinates":[-69.822738,43.914739],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857731277,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"130 Route 1 Gouldsboro ME 04607",
+    "addr:housenumber":"130",
+    "addr:postcode":"04607",
+    "addr:street":"Route 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.01509,44.49107,-68.01509,44.49107",
+    "geom:latitude":44.49107,
+    "geom:longitude":-68.01509,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"130 Route 1",
+    "sg:city":"Gouldsboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/gouldsboro/119811-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 963 2500",
+    "sg:postcode":"04607",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949095,
+        102081201,
+        85821423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eqtQdN7pTW0Go94Oiy12A_44.491070_-68.015090@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221462,
+    "wof:geomhash":"cedd6169e5d0177aee73a32e67ca9a39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "locality_id":85949095,
+            "neighbourhood_id":85821423,
+            "region_id":85688769,
+            "venue_id":857731277
+        }
+    ],
+    "wof:id":857731277,
+    "wof:lastmodified":1472627301,
+    "wof:name":"Subway",
+    "wof:parent_id":85821423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -68.01509,
+    44.49107,
+    -68.01509,
+    44.49107
+],
+  "geometry": {"coordinates":[-68.01509,44.49107],"type":"Point"}
+}

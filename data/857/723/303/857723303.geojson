@@ -1,0 +1,76 @@
+{
+  "id": 857723303,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2448 E Conway Rd North Conway ME 03813",
+    "addr:housenumber":"2448",
+    "addr:postcode":"03813",
+    "addr:street":"E Conway Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.0596,44.01125,-71.0596,44.01125",
+    "geom:latitude":44.01125,
+    "geom:longitude":-71.0596,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2448 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 5819",
+    "sg:postcode":"03813",
+    "sg:province":"ME",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "sg:website":"www.antique-estate-jewelry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N5maqm6dU5xmOA3O0YSI5_44.011250_-71.059600@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221312,
+    "wof:geomhash":"62587cbe1b7788480145db971ac9f5f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":857723303
+        }
+    ],
+    "wof:id":857723303,
+    "wof:lastmodified":1472627258,
+    "wof:name":"North Country Fair Jewelers",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -71.0596,
+    44.01125,
+    -71.0596,
+    44.01125
+],
+  "geometry": {"coordinates":[-71.0596,44.01125],"type":"Point"}
+}

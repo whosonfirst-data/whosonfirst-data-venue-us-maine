@@ -1,0 +1,81 @@
+{
+  "id": 857725953,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"43 North St Presque Isle ME 04769",
+    "addr:housenumber":"43",
+    "addr:postcode":"04769",
+    "addr:street":"North St;Isle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.008001,46.688258,-68.008001,46.688258",
+    "geom:latitude":46.688258,
+    "geom:longitude":-68.008001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"43 North St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 769 0881",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0geHhUzkneTXKQyriZlZXI_46.688258_-68.008001@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221361,
+    "wof:geomhash":"fa6d080fab5d7998cc75095f42973eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857725953
+        }
+    ],
+    "wof:id":857725953,
+    "wof:lastmodified":1472627275,
+    "wof:name":"Presque Isle City Fire Dept",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -68.008001,
+    46.688258,
+    -68.008001,
+    46.688258
+],
+  "geometry": {"coordinates":[-68.00800099999999,46.688258],"type":"Point"}
+}

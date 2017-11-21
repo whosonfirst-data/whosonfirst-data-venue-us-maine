@@ -1,0 +1,75 @@
+{
+  "id": 857694817,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6 Danforth Dr Bangor ME 04401",
+    "addr:housenumber":"6",
+    "addr:postcode":"04401",
+    "addr:street":"Danforth Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.890976,44.890331,-68.890976,44.890331",
+    "geom:latitude":44.890331,
+    "geom:longitude":-68.890976,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Danforth Dr",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 884 7567",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85855557,
+        102080723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aNfDT0orsSqTDKWVtXXzs_44.890331_-68.890976@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220715,
+    "wof:geomhash":"5604358d1ce6916f4aea2d496513a22d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85855557,
+            "region_id":85688769,
+            "venue_id":857694817
+        }
+    ],
+    "wof:id":857694817,
+    "wof:lastmodified":1472627220,
+    "wof:name":"Reginald Danforth",
+    "wof:parent_id":85855557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.890976,
+    44.890331,
+    -68.890976,
+    44.890331
+],
+  "geometry": {"coordinates":[-68.89097599999999,44.890331],"type":"Point"}
+}

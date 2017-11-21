@@ -1,0 +1,77 @@
+{
+  "id": 857709697,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11 Kent Rd Fort Kent ME 04743",
+    "addr:housenumber":"11",
+    "addr:postcode":"04743",
+    "addr:street":"Kent Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.587877,47.273958,-68.587877,47.273958",
+    "geom:latitude":47.273958,
+    "geom:longitude":-68.587877,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Kent Rd",
+    "sg:city":"Fort Kent",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 834 2996",
+    "sg:postcode":"04743",
+    "sg:province":"ME",
+    "sg:tags":[
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ToRflDqR46kt0br0VPC9f_47.273958_-68.587877@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221023,
+    "wof:geomhash":"587851ed557b9fc6bf832441aa845880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857709697
+        }
+    ],
+    "wof:id":857709697,
+    "wof:lastmodified":1472627256,
+    "wof:name":"Creative Apparel",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing"
+    ]
+},
+  "bbox": [
+    -68.587877,
+    47.273958,
+    -68.587877,
+    47.273958
+],
+  "geometry": {"coordinates":[-68.58787700000001,47.273958],"type":"Point"}
+}

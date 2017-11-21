@@ -1,0 +1,77 @@
+{
+  "id": 857718177,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"349 River Rd Pembroke ME 04666",
+    "addr:housenumber":"349",
+    "addr:postcode":"04666",
+    "addr:street":"River Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.174724,44.95218,-67.174724,44.95218",
+    "geom:latitude":44.95218,
+    "geom:longitude":-67.174724,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"349 River Rd",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 726 3997",
+    "sg:postcode":"04666",
+    "sg:province":"ME",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85838129,
+        102081143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m7CFXMpqmI8cvklvE6UBB_44.952180_-67.174724@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221207,
+    "wof:geomhash":"d0a927d4d0e26721436d663c9c38477b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85838129,
+            "region_id":85688769,
+            "venue_id":857718177
+        }
+    ],
+    "wof:id":857718177,
+    "wof:lastmodified":1472627253,
+    "wof:name":"Downeast Drilling & Blasting",
+    "wof:parent_id":85838129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -67.174724,
+    44.95218,
+    -67.174724,
+    44.95218
+],
+  "geometry": {"coordinates":[-67.174724,44.95218],"type":"Point"}
+}

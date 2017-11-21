@@ -1,0 +1,80 @@
+{
+  "id": 857686367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1158 Riverside St Portland ME 04103",
+    "addr:housenumber":"1158",
+    "addr:postcode":"04103",
+    "addr:street":"Riverside St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.315168,43.709044,-70.315168,43.709044",
+    "geom:latitude":43.709044,
+    "geom:longitude":-70.315168,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1158 Riverside St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 797 3524",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "course"
+    ],
+    "sg:website":"www.ci.portland.me.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85845077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_531c3cwPkaoIaiNeQzhNIB_43.709044_-70.315168@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220546,
+    "wof:geomhash":"d80aa493cd6643d46c4e53bbe0e7906b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85845077,
+            "region_id":85688769,
+            "venue_id":857686367
+        }
+    ],
+    "wof:id":857686367,
+    "wof:lastmodified":1472627197,
+    "wof:name":"Riverside Municipal Golf Crse",
+    "wof:parent_id":85845077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -70.315168,
+    43.709044,
+    -70.315168,
+    43.709044
+],
+  "geometry": {"coordinates":[-70.315168,43.709044],"type":"Point"}
+}

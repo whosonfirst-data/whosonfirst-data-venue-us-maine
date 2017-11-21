@@ -1,0 +1,82 @@
+{
+  "id": 857709685,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"87 County Rd Westbrook ME 04092",
+    "addr:housenumber":"87",
+    "addr:postcode":"04092",
+    "addr:street":"County Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.35569,43.650848,-70.35569,43.650848",
+    "geom:latitude":43.650848,
+    "geom:longitude":-70.35569,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"87 County Rd",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 1557",
+    "sg:postcode":"04092",
+    "sg:province":"ME",
+    "sg:tags":[
+        "confectionery",
+        "candy"
+    ],
+    "sg:website":"www.havenscandies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85851275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SybEkwhXjLrNqlGIAhpzP_43.650848_-70.355690@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221023,
+    "wof:geomhash":"208588b86245e31404bea1fc3691bc56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85851275,
+            "region_id":85688769,
+            "venue_id":857709685
+        }
+    ],
+    "wof:id":857709685,
+    "wof:lastmodified":1472627255,
+    "wof:name":"Haven's Candies",
+    "wof:parent_id":85851275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "candy"
+    ]
+},
+  "bbox": [
+    -70.35569,
+    43.650848,
+    -70.35569,
+    43.650848
+],
+  "geometry": {"coordinates":[-70.35569,43.650848],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857714417,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"737 Wilson St Brewer ME 04412",
+    "addr:housenumber":"737",
+    "addr:postcode":"04412",
+    "addr:street":"Wilson St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.725922,44.773108,-68.725922,44.773108",
+    "geom:latitude":44.773108,
+    "geom:longitude":-68.725922,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"737 Wilson St",
+    "sg:city":"Brewer",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 989 7766",
+    "sg:postcode":"04412",
+    "sg:province":"ME",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837399,
+        102191575,
+        404475153,
+        85633793,
+        85948897,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eQNIjuSXr5ueNU3rRJcvz_44.773108_-68.725922@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221137,
+    "wof:geomhash":"8d15ca404c0e7c25401e2114cd9c1354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475153,
+            "locality_id":85948897,
+            "neighbourhood_id":85837399,
+            "region_id":85688769,
+            "venue_id":857714417
+        }
+    ],
+    "wof:id":857714417,
+    "wof:lastmodified":1472627263,
+    "wof:name":"DFC Of Maine",
+    "wof:parent_id":85837399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -68.725922,
+    44.773108,
+    -68.725922,
+    44.773108
+],
+  "geometry": {"coordinates":[-68.725922,44.773108],"type":"Point"}
+}

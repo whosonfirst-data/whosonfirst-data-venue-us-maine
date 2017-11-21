@@ -1,0 +1,85 @@
+{
+  "id": 857691577,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"46 Pines St Mapleton ME 04757",
+    "addr:housenumber":"46",
+    "addr:postcode":"04757",
+    "addr:street":"Pines St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.138564,46.679836,-68.138564,46.679836",
+    "geom:latitude":46.679836,
+    "geom:longitude":-68.138564,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"46 Pines St",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 0315",
+    "sg:postcode":"04757",
+    "sg:province":"ME",
+    "sg:tags":[
+        "datum",
+        "religious",
+        "organization"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31XNDOPtuJLwAjBcF2Ifda_46.679836_-68.138564@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220654,
+    "wof:geomhash":"f969fa6f44c60d342b54abcdbc38db32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857691577
+        }
+    ],
+    "wof:id":857691577,
+    "wof:lastmodified":1472627202,
+    "wof:name":"Northern Pine Web Design",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum",
+        "religious",
+        "organization"
+    ]
+},
+  "bbox": [
+    -68.138564,
+    46.679836,
+    -68.138564,
+    46.679836
+],
+  "geometry": {"coordinates":[-68.138564,46.679836],"type":"Point"}
+}

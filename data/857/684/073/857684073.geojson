@@ -1,0 +1,81 @@
+{
+  "id": 857684073,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1115 Mapleton Rd Mapleton ME 04757",
+    "addr:housenumber":"1115",
+    "addr:postcode":"04757",
+    "addr:street":"Mapleton Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.10139,46.682919,-68.10139,46.682919",
+    "geom:latitude":46.682919,
+    "geom:longitude":-68.10139,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1115 Mapleton Rd",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 769 1521",
+    "sg:postcode":"04757",
+    "sg:province":"ME",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hJiCXIMtrPOO8sdqTuN5I_46.682919_-68.101390@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220503,
+    "wof:geomhash":"b3fab2c45dea682a677809eebfb1108c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857684073
+        }
+    ],
+    "wof:id":857684073,
+    "wof:lastmodified":1472627186,
+    "wof:name":"Bernier & Sons Repair",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -68.10139,
+    46.682919,
+    -68.10139,
+    46.682919
+],
+  "geometry": {"coordinates":[-68.10138999999999,46.682919],"type":"Point"}
+}

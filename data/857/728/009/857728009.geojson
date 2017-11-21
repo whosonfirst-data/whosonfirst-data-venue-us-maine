@@ -1,0 +1,83 @@
+{
+  "id": 857728009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"72 Ocean St South Portland ME 04106",
+    "addr:housenumber":"72",
+    "addr:postcode":"04106",
+    "addr:street":"Ocean St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.2537,43.6395,-70.2537,43.6395",
+    "geom:latitude":43.6395,
+    "geom:longitude":-70.2537,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"72 Ocean St",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 1438",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828657,
+        102191575,
+        404475439,
+        85633793,
+        85948879,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MwCrX6Et3h4tDnAd81fuW_43.639420_-70.253508@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464221396,
+    "wof:geomhash":"7c2cdcb225cc611fccf6ae7444b24ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475439,
+            "locality_id":85948879,
+            "neighbourhood_id":85828657,
+            "region_id":85688769,
+            "venue_id":857728009
+        }
+    ],
+    "wof:id":857728009,
+    "wof:lastmodified":1472627286,
+    "wof:name":"Ocean Street Auto Repair 2",
+    "wof:parent_id":85828657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -70.2537,
+    43.6395,
+    -70.2537,
+    43.6395
+],
+  "geometry": {"coordinates":[-70.25369999999999,43.6395],"type":"Point"}
+}

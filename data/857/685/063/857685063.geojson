@@ -1,0 +1,70 @@
+{
+  "id": 857685063,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"370 Pine Point Rd Scarborough ME 04074",
+    "addr:housenumber":"370",
+    "addr:postcode":"04074",
+    "addr:street":"Pine Point Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.343947,43.541079,-70.343947,43.541079",
+    "geom:latitude":43.541079,
+    "geom:longitude":-70.343947,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"370 Pine Point Rd",
+    "sg:city":"Scarborough",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 883 0090",
+    "sg:postcode":"04074",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85822441,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wXYDoppPxk7XjlJ6kcPxj_43.541079_-70.343947@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220523,
+    "wof:geomhash":"4172819af2da2926cd6c68ca42a78f64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85822441,
+            "region_id":85688769,
+            "venue_id":857685063
+        }
+    ],
+    "wof:id":857685063,
+    "wof:lastmodified":1472627184,
+    "wof:name":"Lily's",
+    "wof:parent_id":85822441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.343947,
+    43.541079,
+    -70.343947,
+    43.541079
+],
+  "geometry": {"coordinates":[-70.343947,43.541079],"type":"Point"}
+}

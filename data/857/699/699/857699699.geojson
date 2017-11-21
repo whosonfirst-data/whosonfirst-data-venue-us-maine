@@ -1,0 +1,70 @@
+{
+  "id": 857699699,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13 Cottage St Norway ME 04268",
+    "addr:housenumber":"13",
+    "addr:postcode":"04268",
+    "addr:street":"Cottage St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.540604,44.215139,-70.540604,44.215139",
+    "geom:latitude":44.215139,
+    "geom:longitude":-70.540604,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13 Cottage St",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 743 5569",
+    "sg:postcode":"04268",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85868781,
+        102087437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_759519VXK5iMxKpwxZf78D_44.215139_-70.540604@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220806,
+    "wof:geomhash":"95954026f9c3fc1a86d12eaa26883a97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087437,
+            "neighbourhood_id":85868781,
+            "region_id":85688769,
+            "venue_id":857699699
+        }
+    ],
+    "wof:id":857699699,
+    "wof:lastmodified":1472627207,
+    "wof:name":"Art Moves Dance Studio",
+    "wof:parent_id":85868781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.540604,
+    44.215139,
+    -70.540604,
+    44.215139
+],
+  "geometry": {"coordinates":[-70.540604,44.215139],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857698769,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"236 State St Portland ME 04101",
+    "addr:housenumber":"236",
+    "addr:postcode":"04101",
+    "addr:street":"State St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.267638,43.654902,-70.267638,43.654902",
+    "geom:latitude":43.654902,
+    "geom:longitude":-70.267638,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"236 State St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 775 3595",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "commercial",
+        "graphic",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85880027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JJHMZL9fbtbqzBYQaauYj_43.654902_-70.267638@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220788,
+    "wof:geomhash":"e33c9614d77dba84b5f78d119b74f269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880027,
+            "region_id":85688769,
+            "venue_id":857698769
+        }
+    ],
+    "wof:id":857698769,
+    "wof:lastmodified":1472627216,
+    "wof:name":"Buehler Braden",
+    "wof:parent_id":85880027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "graphic",
+        "design"
+    ]
+},
+  "bbox": [
+    -70.267638,
+    43.654902,
+    -70.267638,
+    43.654902
+],
+  "geometry": {"coordinates":[-70.26763800000001,43.654902],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857716107,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"222 Main St St Agatha ME 04772",
+    "addr:housenumber":"222",
+    "addr:postcode":"04772",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.344568,47.24891,-68.344568,47.24891",
+    "geom:latitude":47.24891,
+    "geom:longitude":-68.344568,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"222 Main St",
+    "sg:city":"St Agatha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 543 7530",
+    "sg:postcode":"04772",
+    "sg:province":"ME",
+    "sg:tags":[
+        "bulldozing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JkXuLVQIDsTTMpIXIFvIF_47.248910_-68.344568@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221167,
+    "wof:geomhash":"3bc3d5b67e51df1d5b9840bd0e2d2539",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857716107
+        }
+    ],
+    "wof:id":857716107,
+    "wof:lastmodified":1472627243,
+    "wof:name":"Trav Mar Inc",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulldozing"
+    ]
+},
+  "bbox": [
+    -68.344568,
+    47.24891,
+    -68.344568,
+    47.24891
+],
+  "geometry": {"coordinates":[-68.344568,47.24891],"type":"Point"}
+}

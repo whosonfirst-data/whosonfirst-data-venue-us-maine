@@ -1,0 +1,76 @@
+{
+  "id": 857695643,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1162 Union St Bangor ME 04401",
+    "addr:housenumber":"1162",
+    "addr:postcode":"04401",
+    "addr:street":"Union St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.814127,44.81873,-68.814127,44.81873",
+    "geom:latitude":44.81873,
+    "geom:longitude":-68.814127,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1162 Union St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 6711",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837287,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HyBhAoQFrkZUb4aqVWAVV_44.818730_-68.814127@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220730,
+    "wof:geomhash":"3ee431a2c64a98d60ca09b2f5cd62398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85837287,
+            "region_id":85688769,
+            "venue_id":857695643
+        }
+    ],
+    "wof:id":857695643,
+    "wof:lastmodified":1472627210,
+    "wof:name":"Town & Country Realtors",
+    "wof:parent_id":85837287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.814127,
+    44.81873,
+    -68.814127,
+    44.81873
+],
+  "geometry": {"coordinates":[-68.814127,44.81873],"type":"Point"}
+}

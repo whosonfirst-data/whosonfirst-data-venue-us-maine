@@ -1,0 +1,75 @@
+{
+  "id": 857720617,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"26 Danforth St Norway ME 04268",
+    "addr:housenumber":"26",
+    "addr:postcode":"04268",
+    "addr:street":"Danforth St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.539399,44.214033,-70.539399,44.214033",
+    "geom:latitude":44.214033,
+    "geom:longitude":-70.539399,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26 Danforth St",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 743 5304",
+    "sg:postcode":"04268",
+    "sg:province":"ME",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85868781,
+        102087437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73u95f1i5WMQAuZDenzJ6z_44.214033_-70.539399@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221261,
+    "wof:geomhash":"f0863ba3962e3f5ec9f07d9c39bedd0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087437,
+            "neighbourhood_id":85868781,
+            "region_id":85688769,
+            "venue_id":857720617
+        }
+    ],
+    "wof:id":857720617,
+    "wof:lastmodified":1472627269,
+    "wof:name":"Norway Waste Treatment Plant",
+    "wof:parent_id":85868781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -70.539399,
+    44.214033,
+    -70.539399,
+    44.214033
+],
+  "geometry": {"coordinates":[-70.539399,44.214033],"type":"Point"}
+}

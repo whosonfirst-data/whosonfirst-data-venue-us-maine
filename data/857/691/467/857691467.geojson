@@ -1,0 +1,76 @@
+{
+  "id": 857691467,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"693 Mount Hope Ave Bangor ME 04401",
+    "addr:housenumber":"693",
+    "addr:postcode":"04401",
+    "addr:street":"Mount Hope Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.738842,44.822529,-68.738842,44.822529",
+    "geom:latitude":44.822529,
+    "geom:longitude":-68.738842,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"693 Mount Hope Ave",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 8902",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71Vay0mSjKSrPb5qQr0Qel_44.822529_-68.738842@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220651,
+    "wof:geomhash":"bd7e67b713187f21ddba85021080b7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857691467
+        }
+    ],
+    "wof:id":857691467,
+    "wof:lastmodified":1472627198,
+    "wof:name":"Bangor Humane Society",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.738842,
+    44.822529,
+    -68.738842,
+    44.822529
+],
+  "geometry": {"coordinates":[-68.73884200000001,44.822529],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857708531,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8 Court St Belfast ME 04915",
+    "addr:housenumber":"8",
+    "addr:postcode":"04915",
+    "addr:street":"Court St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.007204,44.424096,-69.007204,44.424096",
+    "geom:latitude":44.424096,
+    "geom:longitude":-69.007204,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Court St",
+    "sg:city":"Belfast",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 338 2282",
+    "sg:postcode":"04915",
+    "sg:province":"ME",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85824361,
+        102191575,
+        404474809,
+        85633793,
+        85948905,
+        102087445,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0grG9pRfH3kbZBgzoEQThK_44.424096_-69.007204@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220988,
+    "wof:geomhash":"3b5e5c77bc174a20ab387c5a3207e46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087445,
+            "localadmin_id":404474809,
+            "locality_id":85948905,
+            "neighbourhood_id":85824361,
+            "region_id":85688769,
+            "venue_id":857708531
+        }
+    ],
+    "wof:id":857708531,
+    "wof:lastmodified":1472627255,
+    "wof:name":"First Church In Belfast UCC",
+    "wof:parent_id":85824361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -69.007204,
+    44.424096,
+    -69.007204,
+    44.424096
+],
+  "geometry": {"coordinates":[-69.007204,44.424096],"type":"Point"}
+}

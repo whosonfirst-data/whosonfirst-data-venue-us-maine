@@ -1,0 +1,76 @@
+{
+  "id": 857717229,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"17 Donna St Gorham ME 04038",
+    "addr:housenumber":"17",
+    "addr:postcode":"04038",
+    "addr:street":"Donna St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.431159,43.685015,-70.431159,43.685015",
+    "geom:latitude":43.685015,
+    "geom:longitude":-70.431159,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17 Donna St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 839 3888",
+    "sg:postcode":"04038",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835377,
+        102191575,
+        404475529,
+        85633793,
+        85948995,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QlNfuSxBjbtKsiJz3A2yD_43.685015_-70.431159@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221188,
+    "wof:geomhash":"9a65e7ad0a8b563275f974b33a960f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475529,
+            "locality_id":85948995,
+            "neighbourhood_id":85835377,
+            "region_id":85688769,
+            "venue_id":857717229
+        }
+    ],
+    "wof:id":857717229,
+    "wof:lastmodified":1472627254,
+    "wof:name":"Ronald Steinberg DC",
+    "wof:parent_id":85835377,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.431159,
+    43.685015,
+    -70.431159,
+    43.685015
+],
+  "geometry": {"coordinates":[-70.43115899999999,43.685015],"type":"Point"}
+}

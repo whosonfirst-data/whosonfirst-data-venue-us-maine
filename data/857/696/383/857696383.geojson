@@ -1,0 +1,75 @@
+{
+  "id": 857696383,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12 Cottage St Norway ME 04268",
+    "addr:housenumber":"12",
+    "addr:postcode":"04268",
+    "addr:street":"Cottage St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.540969,44.214686,-70.540969,44.214686",
+    "geom:latitude":44.214686,
+    "geom:longitude":-70.540969,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Cottage St",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 743 5225",
+    "sg:postcode":"04268",
+    "sg:province":"ME",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85868781,
+        102087437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cDyATB5xz5v8WsDFL3s5a_44.214686_-70.540969@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220743,
+    "wof:geomhash":"f6c3a9c20f52b0ee1ae9109203676562",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087437,
+            "neighbourhood_id":85868781,
+            "region_id":85688769,
+            "venue_id":857696383
+        }
+    ],
+    "wof:id":857696383,
+    "wof:lastmodified":1472627202,
+    "wof:name":"Norway Baptist Church",
+    "wof:parent_id":85868781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -70.540969,
+    44.214686,
+    -70.540969,
+    44.214686
+],
+  "geometry": {"coordinates":[-70.540969,44.214686],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 857708459,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"277 Milton Rd Rochester ME 03868",
+    "addr:housenumber":"277",
+    "addr:postcode":"03868",
+    "addr:street":"Milton Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.980276,43.362073,-70.980276,43.362073",
+    "geom:latitude":43.362073,
+    "geom:longitude":-70.980276,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"277 Milton Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 9037",
+    "sg:postcode":"03868",
+    "sg:province":"ME",
+    "sg:tags":[
+        "filter",
+        "equipment",
+        "pump",
+        "industrial",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o5bOKjg8JviguC0TN8Klg_43.362073_-70.980276@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220986,
+    "wof:geomhash":"7ee6340ffce848267732e0e25697c4da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":857708459
+        }
+    ],
+    "wof:id":857708459,
+    "wof:lastmodified":1472627254,
+    "wof:name":"Forest Pump & Filter Company",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter",
+        "equipment",
+        "pump",
+        "industrial",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -70.980276,
+    43.362073,
+    -70.980276,
+    43.362073
+],
+  "geometry": {"coordinates":[-70.980276,43.362073],"type":"Point"}
+}

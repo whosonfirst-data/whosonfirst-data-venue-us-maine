@@ -1,0 +1,81 @@
+{
+  "id": 857690005,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"551 Methodist Rd Westbrook ME 04092",
+    "addr:housenumber":"551",
+    "addr:postcode":"04092",
+    "addr:street":"Methodist Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.357079,43.724648,-70.357079,43.724648",
+    "geom:latitude":43.724648,
+    "geom:longitude":-70.357079,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"551 Methodist Rd",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 854 2243",
+    "sg:postcode":"04092",
+    "sg:province":"ME",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843131,
+        102191575,
+        404474917,
+        85633793,
+        85948881,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01cBrS5gwvOzvyAyVURImG_43.724648_-70.357079@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220617,
+    "wof:geomhash":"cb7f986f2b33eefd86810b52d28bef1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404474917,
+            "locality_id":85948881,
+            "neighbourhood_id":85843131,
+            "region_id":85688769,
+            "venue_id":857690005
+        }
+    ],
+    "wof:id":857690005,
+    "wof:lastmodified":1472627190,
+    "wof:name":"Grace Full Gospel Church",
+    "wof:parent_id":85843131,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -70.357079,
+    43.724648,
+    -70.357079,
+    43.724648
+],
+  "geometry": {"coordinates":[-70.357079,43.724648],"type":"Point"}
+}

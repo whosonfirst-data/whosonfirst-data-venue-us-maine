@@ -1,0 +1,83 @@
+{
+  "id": 857685823,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"242 Miller St Bangor ME 04401",
+    "addr:housenumber":"242",
+    "addr:postcode":"04401",
+    "addr:street":"Miller St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.836821,44.792159,-68.836821,44.792159",
+    "geom:latitude":44.792159,
+    "geom:longitude":-68.836821,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"242 Miller St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 3636",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "parts",
+        "boiler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855195,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47BpzeUS88BgSDFgNvfSZw_44.792159_-68.836821@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220537,
+    "wof:geomhash":"3140bdc488949fc733c55795fad97d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85855195,
+            "region_id":85688769,
+            "venue_id":857685823
+        }
+    ],
+    "wof:id":857685823,
+    "wof:lastmodified":1472627210,
+    "wof:name":"PNA Inc",
+    "wof:parent_id":85855195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts",
+        "boiler"
+    ]
+},
+  "bbox": [
+    -68.836821,
+    44.792159,
+    -68.836821,
+    44.792159
+],
+  "geometry": {"coordinates":[-68.836821,44.792159],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857719075,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"23 Mason St Bethel ME 04217",
+    "addr:housenumber":"23",
+    "addr:postcode":"04217",
+    "addr:street":"Mason St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.786761,44.40484,-70.786761,44.40484",
+    "geom:latitude":44.40484,
+    "geom:longitude":-70.786761,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Mason St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 824 0707",
+    "sg:postcode":"04217",
+    "sg:province":"ME",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85833973,
+        102087437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZBKIFpygo8hhJ92JPrydO_44.404840_-70.786761@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221228,
+    "wof:geomhash":"d1b6a956fcd995353c3c9e14111b794b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087437,
+            "neighbourhood_id":85833973,
+            "region_id":85688769,
+            "venue_id":857719075
+        }
+    ],
+    "wof:id":857719075,
+    "wof:lastmodified":1472627244,
+    "wof:name":"Sam Chapman Tree Svc",
+    "wof:parent_id":85833973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -70.786761,
+    44.40484,
+    -70.786761,
+    44.40484
+],
+  "geometry": {"coordinates":[-70.786761,44.40484],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857703697,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"52 Main St Lincoln ME 04457",
+    "addr:housenumber":"52",
+    "addr:postcode":"04457",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.503241,45.365445,-68.503241,45.365445",
+    "geom:latitude":45.365445,
+    "geom:longitude":-68.503241,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 Main St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 8991",
+    "sg:postcode":"04457",
+    "sg:province":"ME",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949107,
+        102080723,
+        85849837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a401KPcOC0ESGTrdQHUeT_45.365445_-68.503241@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220889,
+    "wof:geomhash":"28450346caa631ebbd6bf0dd7b7f284a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85949107,
+            "neighbourhood_id":85849837,
+            "region_id":85688769,
+            "venue_id":857703697
+        }
+    ],
+    "wof:id":857703697,
+    "wof:lastmodified":1472627216,
+    "wof:name":"Mary K Lemmons",
+    "wof:parent_id":85849837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -68.503241,
+    45.365445,
+    -68.503241,
+    45.365445
+],
+  "geometry": {"coordinates":[-68.503241,45.365445],"type":"Point"}
+}

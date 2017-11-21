@@ -1,0 +1,77 @@
+{
+  "id": 857694891,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"185 Center St Old Town ME 04468",
+    "addr:housenumber":"185",
+    "addr:postcode":"04468",
+    "addr:street":"Center St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.647578,44.934074,-68.647578,44.934074",
+    "geom:latitude":44.934074,
+    "geom:longitude":-68.647578,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"185 Center St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 2874",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aIhH994GwfGzefjKUxcnr_44.934074_-68.647578@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220716,
+    "wof:geomhash":"62c5e3dc6f2cc12d6753aa86d55cc90c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857694891
+        }
+    ],
+    "wof:id":857694891,
+    "wof:lastmodified":1472627222,
+    "wof:name":"Old Town Bowling Ctr",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -68.647578,
+    44.934074,
+    -68.647578,
+    44.934074
+],
+  "geometry": {"coordinates":[-68.647578,44.934074],"type":"Point"}
+}

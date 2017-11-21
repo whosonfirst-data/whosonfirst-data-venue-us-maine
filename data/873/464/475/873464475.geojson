@@ -1,0 +1,77 @@
+{
+  "id": 873464475,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"232 Pine St South Portland ME 04106",
+    "addr:housenumber":"232",
+    "addr:postcode":"04106",
+    "addr:street":"Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.240898,43.6399,-70.240898,43.6399",
+    "geom:latitude":43.6399,
+    "geom:longitude":-70.240898,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"232 Pine St",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 767 4357",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948879,
+        102087463,
+        85867973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_576oI3W9uB4JLT77rP1TRX_43.639900_-70.240898@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221558,
+    "wof:geomhash":"78a818bc759b5838a1952aed5e6db57d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948879,
+            "neighbourhood_id":85867973,
+            "region_id":85688769,
+            "venue_id":873464475
+        }
+    ],
+    "wof:id":873464475,
+    "wof:lastmodified":1472627184,
+    "wof:name":"Help Key the",
+    "wof:parent_id":85867973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -70.240898,
+    43.6399,
+    -70.240898,
+    43.6399
+],
+  "geometry": {"coordinates":[-70.240898,43.6399],"type":"Point"}
+}

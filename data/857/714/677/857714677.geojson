@@ -1,0 +1,76 @@
+{
+  "id": 857714677,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"42 Water St Eastport ME 04631",
+    "addr:housenumber":"42",
+    "addr:postcode":"04631",
+    "addr:street":"Water St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-66.984486,44.904151,-66.984486,44.904151",
+    "geom:latitude":44.904151,
+    "geom:longitude":-66.984486,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42 Water St",
+    "sg:city":"Eastport",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 853 4343",
+    "sg:postcode":"04631",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849853,
+        102191575,
+        404475775,
+        85633793,
+        85948873,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sBbR3dwpSk5qthGJSWXUM_44.904151_-66.984486@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221142,
+    "wof:geomhash":"73ef2e63915131a46d8ba7e8918c06cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475775,
+            "locality_id":85948873,
+            "neighbourhood_id":85849853,
+            "region_id":85688769,
+            "venue_id":857714677
+        }
+    ],
+    "wof:id":857714677,
+    "wof:lastmodified":1472627275,
+    "wof:name":"S L Wadsworth & Son",
+    "wof:parent_id":85849853,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.984486,
+    44.904151,
+    -66.984486,
+    44.904151
+],
+  "geometry": {"coordinates":[-66.984486,44.904151],"type":"Point"}
+}

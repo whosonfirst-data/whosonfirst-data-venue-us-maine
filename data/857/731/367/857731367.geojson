@@ -1,0 +1,80 @@
+{
+  "id": 857731367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"377 Main St Madawaska ME 04756",
+    "addr:housenumber":"377",
+    "addr:postcode":"04756",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.333737,47.356178,-68.333737,47.356178",
+    "geom:latitude":47.356178,
+    "geom:longitude":-68.333737,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"377 Main St",
+    "sg:city":"Madawaska",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/madawaska/119827-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 728 7199",
+    "sg:postcode":"04756",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18wdxWvZ3ngPg018aIWEDf_47.356178_-68.333737@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221465,
+    "wof:geomhash":"366b065ba027e0cbe36c2df7a0251c9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857731367
+        }
+    ],
+    "wof:id":857731367,
+    "wof:lastmodified":1472627309,
+    "wof:name":"Subway",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -68.333737,
+    47.356178,
+    -68.333737,
+    47.356178
+],
+  "geometry": {"coordinates":[-68.333737,47.356178],"type":"Point"}
+}

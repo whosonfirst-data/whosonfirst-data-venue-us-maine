@@ -1,0 +1,77 @@
+{
+  "id": 857710795,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"135 State Rte 236 Berwick ME 03901",
+    "addr:housenumber":"135",
+    "addr:postcode":"03901",
+    "addr:street":"State Rte 236",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.834248,43.25581,-70.834248,43.25581",
+    "geom:latitude":43.25581,
+    "geom:longitude":-70.834248,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"135 State Rte 236",
+    "sg:city":"Berwick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 698 9958",
+    "sg:postcode":"03901",
+    "sg:province":"ME",
+    "sg:tags":[
+        "horse",
+        "transporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85813221,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41KSPljR7gQSjjHrrPIdim_43.255810_-70.834248@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221047,
+    "wof:geomhash":"6abc3d25e84029db744f0d3ae940a49a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85813221,
+            "region_id":85688769,
+            "venue_id":857710795
+        }
+    ],
+    "wof:id":857710795,
+    "wof:lastmodified":1472627257,
+    "wof:name":"Ferguson Brook Farm",
+    "wof:parent_id":85813221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "transporting"
+    ]
+},
+  "bbox": [
+    -70.834248,
+    43.25581,
+    -70.834248,
+    43.25581
+],
+  "geometry": {"coordinates":[-70.834248,43.25581],"type":"Point"}
+}

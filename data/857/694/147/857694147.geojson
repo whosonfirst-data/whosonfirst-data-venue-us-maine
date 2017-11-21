@@ -1,0 +1,81 @@
+{
+  "id": 857694147,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"550 College St Lewiston ME 04240",
+    "addr:housenumber":"550",
+    "addr:postcode":"04240",
+    "addr:street":"College St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.188108,44.124759,-70.188108,44.124759",
+    "geom:latitude":44.124759,
+    "geom:longitude":-70.188108,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"550 College St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 783 7375",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_619uonszcxXU0g2Prhe1tf_44.124759_-70.188108@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220702,
+    "wof:geomhash":"627880e5f2e33f15fceb464d2c61e767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857694147
+        }
+    ],
+    "wof:id":857694147,
+    "wof:lastmodified":1472627197,
+    "wof:name":"Assisted Home Care II",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -70.188108,
+    44.124759,
+    -70.188108,
+    44.124759
+],
+  "geometry": {"coordinates":[-70.188108,44.124759],"type":"Point"}
+}

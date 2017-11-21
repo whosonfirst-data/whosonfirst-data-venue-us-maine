@@ -1,0 +1,81 @@
+{
+  "id": 857705561,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"211 Valley St Portland ME 04102",
+    "addr:housenumber":"211",
+    "addr:postcode":"04102",
+    "addr:street":"Valley St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.277729,43.649556,-70.277729,43.649556",
+    "geom:latitude":43.649556,
+    "geom:longitude":-70.277729,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"211 Valley St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 4099",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85880029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6swTpnO0N2Tm6nqsZZUW6x_43.649556_-70.277729@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220924,
+    "wof:geomhash":"f515606a8acb02cff2d82b007a933a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880029,
+            "region_id":85688769,
+            "venue_id":857705561
+        }
+    ],
+    "wof:id":857705561,
+    "wof:lastmodified":1472627251,
+    "wof:name":"Mike Charron Automotive Svcs",
+    "wof:parent_id":85880029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -70.277729,
+    43.649556,
+    -70.277729,
+    43.649556
+],
+  "geometry": {"coordinates":[-70.27772899999999,43.649556],"type":"Point"}
+}

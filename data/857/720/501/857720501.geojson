@@ -1,0 +1,83 @@
+{
+  "id": 857720501,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"54 Calais Ave Calais ME 04619",
+    "addr:housenumber":"",
+    "addr:postcode":"04619",
+    "addr:street":"Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.281075,45.181596,-67.281075,45.181596",
+    "geom:latitude":45.181596,
+    "geom:longitude":-67.281075,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"54 Calais Ave",
+    "sg:city":"Calais",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 454 2762",
+    "sg:postcode":"04619",
+    "sg:province":"ME",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857599,
+        102191575,
+        404475311,
+        85633793,
+        85948871,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eirL566m1UHHiaAtWPuir_45.181596_-67.281075@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221259,
+    "wof:geomhash":"abd0d49eaa4844ea4cdb2f9855ca034d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475311,
+            "locality_id":85948871,
+            "neighbourhood_id":85857599,
+            "region_id":85688769,
+            "venue_id":857720501
+        }
+    ],
+    "wof:id":857720501,
+    "wof:lastmodified":1472627258,
+    "wof:name":"Howard Fox Memorial Pool",
+    "wof:parent_id":85857599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -67.281075,
+    45.181596,
+    -67.281075,
+    45.181596
+],
+  "geometry": {"coordinates":[-67.281075,45.181596],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857715931,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"32 Washington St Camden ME 04843",
+    "addr:housenumber":"32",
+    "addr:postcode":"04843",
+    "addr:street":"Washington St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.066915,44.210308,-69.066915,44.210308",
+    "geom:latitude":44.210308,
+    "geom:longitude":-69.066915,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 Washington St",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 236 9687",
+    "sg:postcode":"04843",
+    "sg:province":"ME",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833741,
+        102191575,
+        404475697,
+        85633793,
+        85948907,
+        102087453,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sib0c3IeeZZ8yU05UtjGL_44.210308_-69.066915@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221164,
+    "wof:geomhash":"90d4f4525c75b39785b047ec920e97e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087453,
+            "localadmin_id":404475697,
+            "locality_id":85948907,
+            "neighbourhood_id":85833741,
+            "region_id":85688769,
+            "venue_id":857715931
+        }
+    ],
+    "wof:id":857715931,
+    "wof:lastmodified":1472627277,
+    "wof:name":"Robert F Baldwin CPA",
+    "wof:parent_id":85833741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -69.066915,
+    44.210308,
+    -69.066915,
+    44.210308
+],
+  "geometry": {"coordinates":[-69.06691499999999,44.210308],"type":"Point"}
+}

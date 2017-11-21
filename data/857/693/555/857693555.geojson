@@ -1,0 +1,76 @@
+{
+  "id": 857693555,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"141 Spring St Yarmouth ME 04096",
+    "addr:housenumber":"141",
+    "addr:postcode":"04096",
+    "addr:street":"Spring St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.171478,43.804931,-70.171478,43.804931",
+    "geom:latitude":43.804931,
+    "geom:longitude":-70.171478,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"141 Spring St",
+    "sg:city":"Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 846 1646",
+    "sg:postcode":"04096",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859327,
+        102191575,
+        404475445,
+        85633793,
+        85949005,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eRypw3r4PnkPxWyFw2Wm5_43.804931_-70.171478@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220692,
+    "wof:geomhash":"b9db38f4cfa303b02451e7798ff0f0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475445,
+            "locality_id":85949005,
+            "neighbourhood_id":85859327,
+            "region_id":85688769,
+            "venue_id":857693555
+        }
+    ],
+    "wof:id":857693555,
+    "wof:lastmodified":1472627216,
+    "wof:name":"Studio 88 Salon",
+    "wof:parent_id":85859327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.171478,
+    43.804931,
+    -70.171478,
+    43.804931
+],
+  "geometry": {"coordinates":[-70.17147799999999,43.804931],"type":"Point"}
+}

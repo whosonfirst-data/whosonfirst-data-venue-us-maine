@@ -1,0 +1,81 @@
+{
+  "id": 857707507,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"833 Gray Rd Gorham ME 04038",
+    "addr:housenumber":"833",
+    "addr:postcode":"04038",
+    "addr:street":"Gray Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.425581,43.732482,-70.425581,43.732482",
+    "geom:latitude":43.732482,
+    "geom:longitude":-70.425581,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"833 Gray Rd",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 892 8706",
+    "sg:postcode":"04038",
+    "sg:province":"ME",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830911,
+        102191575,
+        404475443,
+        85633793,
+        85948997,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0COIJ6WXzvdQkGrBp9iA1x_43.732482_-70.425581@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220959,
+    "wof:geomhash":"112852514776cff1749ca8aa71bc6b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475443,
+            "locality_id":85948997,
+            "neighbourhood_id":85830911,
+            "region_id":85688769,
+            "venue_id":857707507
+        }
+    ],
+    "wof:id":857707507,
+    "wof:lastmodified":1472627250,
+    "wof:name":"Sawyer's Variety Store",
+    "wof:parent_id":85830911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -70.425581,
+    43.732482,
+    -70.425581,
+    43.732482
+],
+  "geometry": {"coordinates":[-70.42558099999999,43.732482],"type":"Point"}
+}

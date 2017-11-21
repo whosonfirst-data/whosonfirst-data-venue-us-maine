@@ -1,0 +1,81 @@
+{
+  "id": 857690855,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"232 W Elm St Yarmouth ME 04096",
+    "addr:housenumber":"232",
+    "addr:postcode":"04096",
+    "addr:street":"W Elm St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.196278,43.795652,-70.196278,43.795652",
+    "geom:latitude":43.795652,
+    "geom:longitude":-70.196278,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"232 W Elm St",
+    "sg:city":"Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 846 0550",
+    "sg:postcode":"04096",
+    "sg:province":"ME",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859327,
+        102191575,
+        404475445,
+        85633793,
+        85949005,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QPu6iKcjaoRQA7tKraFDh_43.795652_-70.196278@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220636,
+    "wof:geomhash":"171e2fb0d0695028b81fa090a0001f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475445,
+            "locality_id":85949005,
+            "neighbourhood_id":85859327,
+            "region_id":85688769,
+            "venue_id":857690855
+        }
+    ],
+    "wof:id":857690855,
+    "wof:lastmodified":1472627204,
+    "wof:name":"Smith Appraisal Svc",
+    "wof:parent_id":85859327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -70.196278,
+    43.795652,
+    -70.196278,
+    43.795652
+],
+  "geometry": {"coordinates":[-70.19627800000001,43.795652],"type":"Point"}
+}

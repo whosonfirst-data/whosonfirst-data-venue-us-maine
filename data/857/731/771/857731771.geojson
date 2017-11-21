@@ -1,0 +1,114 @@
+{
+  "id": 857731771,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"742 Main St Westbrook ME 04092",
+    "addr:housenumber":"742",
+    "addr:postcode":"04092",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.361131,43.676878,-70.361131,43.676878",
+    "geom:latitude":43.676878,
+    "geom:longitude":-70.361131,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"742 Main St",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/westbrook/149077-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 856 6557",
+    "sg:postcode":"04092",
+    "sg:province":"ME",
+    "sg:tags":[
+        "coffee",
+        "sandwich",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85851275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PymqVMwzCP5mlSrdYuXOd_43.676793_-70.361325@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221478,
+    "wof:geomhash":"23d6a51538fe8a1a60c7e179abd57dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85851275,
+            "region_id":85688769,
+            "venue_id":857731771
+        }
+    ],
+    "wof:id":857731771,
+    "wof:lastmodified":1472627318,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85851275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "sandwich",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -70.361131,
+    43.676878,
+    -70.361131,
+    43.676878
+],
+  "geometry": {"coordinates":[-70.361131,43.676878],"type":"Point"}
+}

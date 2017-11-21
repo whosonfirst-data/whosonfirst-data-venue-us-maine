@@ -1,0 +1,83 @@
+{
+  "id": 857701729,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1 Runway Rd South Portland ME 04106",
+    "addr:housenumber":"1",
+    "addr:postcode":"04106",
+    "addr:street":"Runway Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.306043,43.610302,-70.306043,43.610302",
+    "geom:latitude":43.610302,
+    "geom:longitude":-70.306043,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Runway Rd",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 885 9284",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "property",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852203,
+        102191575,
+        404475439,
+        85633793,
+        85948879,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63myf9lfxoEVClvq4eXS53_43.610302_-70.306043@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220854,
+    "wof:geomhash":"7c795afdaa74d64cd499e81b0be0850d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475439,
+            "locality_id":85948879,
+            "neighbourhood_id":85852203,
+            "region_id":85688769,
+            "venue_id":857701729
+        }
+    ],
+    "wof:id":857701729,
+    "wof:lastmodified":1472627216,
+    "wof:name":"Acme Property Mntnc & Hm",
+    "wof:parent_id":85852203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -70.306043,
+    43.610302,
+    -70.306043,
+    43.610302
+],
+  "geometry": {"coordinates":[-70.306043,43.610302],"type":"Point"}
+}

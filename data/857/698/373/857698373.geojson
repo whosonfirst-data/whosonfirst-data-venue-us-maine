@@ -1,0 +1,86 @@
+{
+  "id": 857698373,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5 Mill St Orono ME 04473",
+    "addr:housenumber":"5",
+    "addr:postcode":"04473",
+    "addr:street":"Mill St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.670568,44.883227,-68.670568,44.883227",
+    "geom:latitude":44.883227,
+    "geom:longitude":-68.670568,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Mill St",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 2016",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XJWcu28nfQz8UuaQy0Hpd_44.883227_-68.670568@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220780,
+    "wof:geomhash":"141604c6e6aab8a5a53f1b296161c44f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857698373
+        }
+    ],
+    "wof:id":857698373,
+    "wof:lastmodified":1472627209,
+    "wof:name":"Jane's Gifts & Tanning",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -68.670568,
+    44.883227,
+    -68.670568,
+    44.883227
+],
+  "geometry": {"coordinates":[-68.670568,44.883227],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857703317,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"700 State St Springfield ME 01109",
+    "addr:housenumber":"700",
+    "addr:postcode":"01109",
+    "addr:street":"State St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.56812,42.110544,-72.56812,42.110544",
+    "geom:latitude":42.110544,
+    "geom:longitude":-72.56812,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"700 State St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 413 858 2660",
+    "sg:postcode":"01109",
+    "sg:province":"ME",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881113,
+        102191575,
+        404476369,
+        85633793,
+        85950393,
+        102084627,
+        85688645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48PZybdOALGowxusuDMsqk_42.110544_-72.568120@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220883,
+    "wof:geomhash":"38ca3da6041c4263fa75f8dc8a454f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476369,
+            "locality_id":85950393,
+            "neighbourhood_id":85881113,
+            "region_id":85688645,
+            "venue_id":857703317
+        }
+    ],
+    "wof:id":857703317,
+    "wof:lastmodified":1472627200,
+    "wof:name":"River Inn",
+    "wof:parent_id":85881113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -72.56812,
+    42.110544,
+    -72.56812,
+    42.110544
+],
+  "geometry": {"coordinates":[-72.56811999999999,42.110544],"type":"Point"}
+}

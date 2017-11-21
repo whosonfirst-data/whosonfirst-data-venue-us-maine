@@ -1,0 +1,77 @@
+{
+  "id": 857712381,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"343 Gorham Rd South Portland ME 04106",
+    "addr:housenumber":"343",
+    "addr:postcode":"04106",
+    "addr:street":"Gorham Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.33545,43.637119,-70.33545,43.637119",
+    "geom:latitude":43.637119,
+    "geom:longitude":-70.33545,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"343 Gorham Rd",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 879 5700",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85851275
+    ],
+    "wof:brand_id":1125151491,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WoDtjd0YHD8qPiZv8sJYw_43.637119_-70.335450@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221096,
+    "wof:geomhash":"a123b72d9a6ca66ffb6e48d2d140a935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85851275,
+            "region_id":85688769,
+            "venue_id":857712381
+        }
+    ],
+    "wof:id":857712381,
+    "wof:lastmodified":1510857946,
+    "wof:name":"American Heart Assn",
+    "wof:parent_id":85851275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.33545,
+    43.637119,
+    -70.33545,
+    43.637119
+],
+  "geometry": {"coordinates":[-70.33544999999999,43.637119],"type":"Point"}
+}

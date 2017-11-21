@@ -1,0 +1,76 @@
+{
+  "id": 857733375,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Mountain Rd York ME 03909",
+    "addr:housenumber":"",
+    "addr:postcode":"03909",
+    "addr:street":"Mountain Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.664083,43.21307,-70.664083,43.21307",
+    "geom:latitude":43.21307,
+    "geom:longitude":-70.664083,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mountain Rd",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 361 1102",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "sg:tags":[
+        "hiking"
+    ],
+    "sg:website":"agamenticus.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85820011,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78PUkvjQjVFYlaG5f3OTiJ_43.213070_-70.664083@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221508,
+    "wof:geomhash":"95b6bfa2ed150a2d4b9b551bbacb5885",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85820011,
+            "region_id":85688769,
+            "venue_id":857733375
+        }
+    ],
+    "wof:id":857733375,
+    "wof:lastmodified":1472627306,
+    "wof:name":"Mount Agamenticus Trail",
+    "wof:parent_id":85820011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hiking"
+    ]
+},
+  "bbox": [
+    -70.664083,
+    43.21307,
+    -70.664083,
+    43.21307
+],
+  "geometry": {"coordinates":[-70.66408300000001,43.21307],"type":"Point"}
+}

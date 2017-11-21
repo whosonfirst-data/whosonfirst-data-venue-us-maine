@@ -1,0 +1,79 @@
+{
+  "id": 857715645,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"170 John Roberts Rd South Portland ME 04106",
+    "addr:housenumber":"170",
+    "addr:postcode":"04106",
+    "addr:street":"John Roberts Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.32857,43.629789,-70.32857,43.629789",
+    "geom:latitude":43.629789,
+    "geom:longitude":-70.32857,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"170 John Roberts Rd",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 4320",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85817653,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MKChZ0ATVCSPq9QILQoNv_43.629789_-70.328570@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221159,
+    "wof:geomhash":"743ba2c723238c74d602c5da56d28d30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85817653,
+            "region_id":85688769,
+            "venue_id":857715645
+        }
+    ],
+    "wof:id":857715645,
+    "wof:lastmodified":1472627273,
+    "wof:name":"Pine Tree Mobile Sounds",
+    "wof:parent_id":85817653,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ]
+},
+  "bbox": [
+    -70.32857,
+    43.629789,
+    -70.32857,
+    43.629789
+],
+  "geometry": {"coordinates":[-70.32857,43.629789],"type":"Point"}
+}

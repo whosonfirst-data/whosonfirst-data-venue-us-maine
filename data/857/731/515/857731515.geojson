@@ -1,0 +1,64 @@
+{
+  "id": 857731515,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"336 Main St Waterville ME 04901",
+    "addr:housenumber":"336",
+    "addr:postcode":"04901",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.638758,44.568433,-69.638758,44.568433",
+    "geom:latitude":44.568433,
+    "geom:longitude":-69.638758,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"336 Main St",
+    "sg:city":"Waterville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/waterville/215812-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"04901",
+    "sg:province":"ME",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Fbu0l3hrpmO5WxgJXLQKk_44.568433_-69.638758@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221468,
+    "wof:geomhash":"56209bf051312847f0ad936e32ac54e1",
+    "wof:hierarchy":[],
+    "wof:id":857731515,
+    "wof:lastmodified":1472627314,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -69.638758,
+    44.568433,
+    -69.638758,
+    44.568433
+],
+  "geometry": {"coordinates":[-69.638758,44.568433],"type":"Point"}
+}

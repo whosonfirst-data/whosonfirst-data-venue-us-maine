@@ -1,0 +1,72 @@
+{
+  "id": 857701021,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"41 Center St Old Town ME 04468",
+    "addr:housenumber":"41",
+    "addr:postcode":"04468",
+    "addr:street":"Center St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.643749,44.936617,-68.643749,44.936617",
+    "geom:latitude":44.936617,
+    "geom:longitude":-68.643749,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 Center St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 6565",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_293gYcpGJGxxNDm1rCKoZz_44.936617_-68.643749@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220835,
+    "wof:geomhash":"9ff234896c1e13df32e8c5b035dae8bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857701021
+        }
+    ],
+    "wof:id":857701021,
+    "wof:lastmodified":1472627196,
+    "wof:name":"K & L Properties",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.643749,
+    44.936617,
+    -68.643749,
+    44.936617
+],
+  "geometry": {"coordinates":[-68.643749,44.936617],"type":"Point"}
+}

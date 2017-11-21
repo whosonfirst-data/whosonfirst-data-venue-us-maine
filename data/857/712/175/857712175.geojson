@@ -1,0 +1,84 @@
+{
+  "id": 857712175,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"444 US Hwy 1 Columbia ME 04605",
+    "addr:housenumber":"444",
+    "addr:postcode":"04605",
+    "addr:street":"Us Hwy 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.434999,44.539023,-68.434999,44.539023",
+    "geom:latitude":44.539023,
+    "geom:longitude":-68.434999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"444 US Hwy 1",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 483 4094",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:brand_id":1125150589,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BeJAzcVBmMqLvlUSR87Rz_44.539023_-68.434999@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221084,
+    "wof:geomhash":"f8ba6c693e7f4d6b8bc5edb8031d9cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857712175
+        }
+    ],
+    "wof:id":857712175,
+    "wof:lastmodified":1510699576,
+    "wof:name":"Faith United Methodist Church",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -68.434999,
+    44.539023,
+    -68.434999,
+    44.539023
+],
+  "geometry": {"coordinates":[-68.434999,44.539023],"type":"Point"}
+}

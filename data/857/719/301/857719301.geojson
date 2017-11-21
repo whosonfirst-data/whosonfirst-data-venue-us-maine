@@ -1,0 +1,81 @@
+{
+  "id": 857719301,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"549 Commercial St Rockport ME 04856",
+    "addr:housenumber":"549",
+    "addr:postcode":"04856",
+    "addr:street":"Commercial St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.080251,44.178464,-69.080251,44.178464",
+    "geom:latitude":44.178464,
+    "geom:longitude":-69.080251,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"549 Commercial St",
+    "sg:city":"Rockport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 236 3421",
+    "sg:postcode":"04856",
+    "sg:province":"ME",
+    "sg:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85845529,
+        102087453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pMHcaiT2Q4PGnlXMao5Bu_44.178464_-69.080251@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221233,
+    "wof:geomhash":"4d94e64f030fd14f073c9c5eb46764b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087453,
+            "neighbourhood_id":85845529,
+            "region_id":85688769,
+            "venue_id":857719301
+        }
+    ],
+    "wof:id":857719301,
+    "wof:lastmodified":1472627253,
+    "wof:name":"Dunn's Hearing Aid Care Ctr",
+    "wof:parent_id":85845529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ]
+},
+  "bbox": [
+    -69.080251,
+    44.178464,
+    -69.080251,
+    44.178464
+],
+  "geometry": {"coordinates":[-69.080251,44.178464],"type":"Point"}
+}

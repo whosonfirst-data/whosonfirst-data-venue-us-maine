@@ -1,0 +1,77 @@
+{
+  "id": 857714507,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"179 Mount Vernon Ave Augusta ME 04330",
+    "addr:housenumber":"179",
+    "addr:postcode":"04330",
+    "addr:street":"Mount Vernon Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.784692,44.329576,-69.784692,44.329576",
+    "geom:latitude":44.329576,
+    "geom:longitude":-69.784692,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"179 Mount Vernon Ave",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 622 2704",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eIofbrWp7BLNhOUvOG3Nm_44.329576_-69.784692@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221139,
+    "wof:geomhash":"6c5a5a13f42bd8feab3732f7692fdf7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857714507
+        }
+    ],
+    "wof:id":857714507,
+    "wof:lastmodified":1472627264,
+    "wof:name":"Creative Cutters",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -69.784692,
+    44.329576,
+    -69.784692,
+    44.329576
+],
+  "geometry": {"coordinates":[-69.78469200000001,44.329576],"type":"Point"}
+}

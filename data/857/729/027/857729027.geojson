@@ -1,0 +1,80 @@
+{
+  "id": 857729027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"518 US-1 Kittery ME 03904",
+    "addr:housenumber":"518",
+    "addr:postcode":"03904",
+    "addr:street":"Us-1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.705707,43.129523,-70.705707,43.129523",
+    "geom:latitude":43.129523,
+    "geom:longitude":-70.705707,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"518 US-1",
+    "sg:city":"Kittery",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/kittery/83053-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 439 1300",
+    "sg:postcode":"03904",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85844265,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sj4VxlnNAVfXIKRybfrLJ_43.129523_-70.705707@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221416,
+    "wof:geomhash":"fb69e0a5ed13dd1e0b300e87427fec43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85844265,
+            "region_id":85688769,
+            "venue_id":857729027
+        }
+    ],
+    "wof:id":857729027,
+    "wof:lastmodified":1472627287,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85844265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -70.705707,
+    43.129523,
+    -70.705707,
+    43.129523
+],
+  "geometry": {"coordinates":[-70.705707,43.129523],"type":"Point"}
+}

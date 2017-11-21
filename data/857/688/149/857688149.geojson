@@ -1,0 +1,85 @@
+{
+  "id": 857688149,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"45 Hogan Rd Bangor ME 04401",
+    "addr:housenumber":"45",
+    "addr:postcode":"04401",
+    "addr:street":"Hogan Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.738619,44.818788,-68.738619,44.818788",
+    "geom:latitude":44.818788,
+    "geom:longitude":-68.738619,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Hogan Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 7186",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HOfzRYFdztjhS25uYUQbN_44.818788_-68.738619@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220582,
+    "wof:geomhash":"84dc389786be51353417cbca4ef697cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857688149
+        }
+    ],
+    "wof:id":857688149,
+    "wof:lastmodified":1472627190,
+    "wof:name":"Epiphanes K Balian MD",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -68.738619,
+    44.818788,
+    -68.738619,
+    44.818788
+],
+  "geometry": {"coordinates":[-68.738619,44.818788],"type":"Point"}
+}

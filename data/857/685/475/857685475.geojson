@@ -1,0 +1,81 @@
+{
+  "id": 857685475,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"25 Randolph Dr Bangor ME 04401",
+    "addr:housenumber":"25",
+    "addr:postcode":"04401",
+    "addr:street":"Randolph Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.816467,44.820932,-68.816467,44.820932",
+    "geom:latitude":44.820932,
+    "geom:longitude":-68.816467,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Randolph Dr",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 6251",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837287,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fxtHXNEXpkfTynLocG8Uz_44.820932_-68.816467@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220530,
+    "wof:geomhash":"d34d503666d1c138773bd7df8c92afa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85837287,
+            "region_id":85688769,
+            "venue_id":857685475
+        }
+    ],
+    "wof:id":857685475,
+    "wof:lastmodified":1472627195,
+    "wof:name":"Elegant Images Photography",
+    "wof:parent_id":85837287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -68.816467,
+    44.820932,
+    -68.816467,
+    44.820932
+],
+  "geometry": {"coordinates":[-68.816467,44.820932],"type":"Point"}
+}

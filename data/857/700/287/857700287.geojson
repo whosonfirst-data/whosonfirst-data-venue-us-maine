@@ -1,0 +1,75 @@
+{
+  "id": 857700287,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"117 Old Post Rd Kittery ME 03904",
+    "addr:housenumber":"117",
+    "addr:postcode":"03904",
+    "addr:street":"Old Post Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.745865,43.098949,-70.745865,43.098949",
+    "geom:latitude":43.098949,
+    "geom:longitude":-70.745865,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"117 Old Post Rd",
+    "sg:city":"Kittery",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 439 3378",
+    "sg:postcode":"03904",
+    "sg:province":"ME",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85844265,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FCnB2j1Nr9r1vHgDKbUOh_43.098949_-70.745865@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220819,
+    "wof:geomhash":"c7d16e96364e281d0c8844ac32a2ac95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85844265,
+            "region_id":85688769,
+            "venue_id":857700287
+        }
+    ],
+    "wof:id":857700287,
+    "wof:lastmodified":1472627204,
+    "wof:name":"Kittery Lions Club",
+    "wof:parent_id":85844265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -70.745865,
+    43.098949,
+    -70.745865,
+    43.098949
+],
+  "geometry": {"coordinates":[-70.74586499999999,43.098949],"type":"Point"}
+}

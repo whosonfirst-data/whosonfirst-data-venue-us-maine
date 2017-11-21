@@ -1,0 +1,83 @@
+{
+  "id": 857726449,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"21 Yorke Ridge Way York ME 03910",
+    "addr:housenumber":"21",
+    "addr:postcode":"03910",
+    "addr:street":"Yorke Ridge Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.627149,43.161438,-70.627149,43.161438",
+    "geom:latitude":43.161438,
+    "geom:longitude":-70.627149,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Yorke Ridge Way",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 363 3755",
+    "sg:postcode":"03910",
+    "sg:province":"ME",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831291,
+        102191575,
+        404475823,
+        85633793,
+        85949035,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oo5qAUncCcosT0VuQgmLz_43.161438_-70.627149@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221369,
+    "wof:geomhash":"9f367b8f241e0ce6b6f1dc55fc6d2c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475823,
+            "locality_id":85949035,
+            "neighbourhood_id":85831291,
+            "region_id":85688769,
+            "venue_id":857726449
+        }
+    ],
+    "wof:id":857726449,
+    "wof:lastmodified":1472627262,
+    "wof:name":"Eastman Inc",
+    "wof:parent_id":85831291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -70.627149,
+    43.161438,
+    -70.627149,
+    43.161438
+],
+  "geometry": {"coordinates":[-70.627149,43.161438],"type":"Point"}
+}

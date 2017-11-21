@@ -1,0 +1,78 @@
+{
+  "id": 857710655,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"41 Pomola Ave Sorrento ME 04677",
+    "addr:housenumber":"41",
+    "addr:postcode":"04677",
+    "addr:street":"Pomola Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.173716,44.481189,-68.173716,44.481189",
+    "geom:latitude":44.481189,
+    "geom:longitude":-68.173716,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 Pomola Ave",
+    "sg:city":"Sorrento",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 422 2051",
+    "sg:postcode":"04677",
+    "sg:province":"ME",
+    "sg:tags":[
+        "equipment",
+        "exercise"
+    ],
+    "sg:website":"www.versagripps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85816831,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GD6zb8PjKlbHxDzvwaGBU_44.481189_-68.173716@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221045,
+    "wof:geomhash":"523b317283556608004c5f444838f7e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85816831,
+            "region_id":85688769,
+            "venue_id":857710655
+        }
+    ],
+    "wof:id":857710655,
+    "wof:lastmodified":1472627256,
+    "wof:name":"Power Gripps USA Inc",
+    "wof:parent_id":85816831,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "exercise"
+    ]
+},
+  "bbox": [
+    -68.173716,
+    44.481189,
+    -68.173716,
+    44.481189
+],
+  "geometry": {"coordinates":[-68.173716,44.481189],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857713891,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"366 Main St Orono ME 04473",
+    "addr:housenumber":"366",
+    "addr:postcode":"04473",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.68741,44.862191,-68.68741,44.862191",
+    "geom:latitude":44.862191,
+    "geom:longitude":-68.68741,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"366 Main St",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 2060",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35eKWJo7gUxin7Lhqt3h2T_44.862191_-68.687410@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221128,
+    "wof:geomhash":"907576a120749baf37c716b3a582021a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857713891
+        }
+    ],
+    "wof:id":857713891,
+    "wof:lastmodified":1472627274,
+    "wof:name":"Penobscot Valley Country Club",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -68.68741,
+    44.862191,
+    -68.68741,
+    44.862191
+],
+  "geometry": {"coordinates":[-68.68741,44.862191],"type":"Point"}
+}

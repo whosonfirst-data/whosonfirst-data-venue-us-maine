@@ -1,0 +1,77 @@
+{
+  "id": 857684185,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"529 US Hwy 1 York ME 03909",
+    "addr:housenumber":"529",
+    "addr:postcode":"03909",
+    "addr:street":"Us Hwy 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.659632,43.154049,-70.659632,43.154049",
+    "geom:latitude":43.154049,
+    "geom:longitude":-70.659632,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"529 US Hwy 1",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 363 4300",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "sg:website":"www.yorkerealty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859383,
+        102191575,
+        404475823,
+        85633793,
+        85949065,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hrxte9VuGfI7V2eh240Hy_43.154049_-70.659632@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220506,
+    "wof:geomhash":"ac6f5f3492a40bb42e4d493ee63de29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475823,
+            "locality_id":85949065,
+            "neighbourhood_id":85859383,
+            "region_id":85688769,
+            "venue_id":857684185
+        }
+    ],
+    "wof:id":857684185,
+    "wof:lastmodified":1472627188,
+    "wof:name":"Coldwell Banker Yorke Realty",
+    "wof:parent_id":85859383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.659632,
+    43.154049,
+    -70.659632,
+    43.154049
+],
+  "geometry": {"coordinates":[-70.659632,43.154049],"type":"Point"}
+}

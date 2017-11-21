@@ -1,0 +1,79 @@
+{
+  "id": 857725017,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"150 Whitten Rd Augusta ME 04330",
+    "addr:housenumber":"150",
+    "addr:postcode":"04330",
+    "addr:street":"Whitten Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.808698,44.306325,-69.808698,44.306325",
+    "geom:latitude":44.306325,
+    "geom:longitude":-69.808698,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"150 Whitten Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 623 4100",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tJyd2UiGxRKbBe9pP2BQ1_44.306325_-69.808698@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221343,
+    "wof:geomhash":"83a25062da854af7fe39da5e041eca8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857725017
+        }
+    ],
+    "wof:id":857725017,
+    "wof:lastmodified":1472627250,
+    "wof:name":"Voice Of Maine News Talk",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -69.808698,
+    44.306325,
+    -69.808698,
+    44.306325
+],
+  "geometry": {"coordinates":[-69.80869800000001,44.306325],"type":"Point"}
+}

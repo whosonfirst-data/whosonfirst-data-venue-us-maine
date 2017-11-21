@@ -1,0 +1,79 @@
+{
+  "id": 857724753,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"24 Russel St Farmingdale ME 04344",
+    "addr:housenumber":"24",
+    "addr:postcode":"04344",
+    "addr:street":"Russel St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.783809,44.241752,-69.783809,44.241752",
+    "geom:latitude":44.241752,
+    "geom:longitude":-69.783809,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 Russel St",
+    "sg:city":"Farmingdale",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 582 4990",
+    "sg:postcode":"04344",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shop",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tNSZVwQJh5q7VfFYG1rmE_44.241752_-69.783809@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221338,
+    "wof:geomhash":"19127ce22b63d0089c9360c4061e7e71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857724753
+        }
+    ],
+    "wof:id":857724753,
+    "wof:lastmodified":1472627271,
+    "wof:name":"The Niche In The Nook",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -69.783809,
+    44.241752,
+    -69.783809,
+    44.241752
+],
+  "geometry": {"coordinates":[-69.78380900000001,44.241752],"type":"Point"}
+}

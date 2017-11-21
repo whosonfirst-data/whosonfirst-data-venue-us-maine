@@ -1,0 +1,84 @@
+{
+  "id": 857730907,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"663 Stillwater Ave Bangor ME 04401",
+    "addr:housenumber":"663",
+    "addr:postcode":"04401",
+    "addr:street":"Stillwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.751597,44.832524,-68.751597,44.832524",
+    "geom:latitude":44.832524,
+    "geom:longitude":-68.751597,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"663 Stillwater Ave",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/bangor/103689-ruby-tuesdays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 3442",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dS2wiwMfMCr8065vXMZgd_44.832524_-68.751597@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221454,
+    "wof:geomhash":"0f4c694a64bd76712094b73b319fa35e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857730907
+        }
+    ],
+    "wof:id":857730907,
+    "wof:lastmodified":1472627320,
+    "wof:name":"Ruby Tuesdays",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -68.751597,
+    44.832524,
+    -68.751597,
+    44.832524
+],
+  "geometry": {"coordinates":[-68.751597,44.832524],"type":"Point"}
+}

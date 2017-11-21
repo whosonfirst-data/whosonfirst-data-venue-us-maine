@@ -1,0 +1,79 @@
+{
+  "id": 857712075,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"267 Congress St Portland ME 04101",
+    "addr:housenumber":"267",
+    "addr:postcode":"04101",
+    "addr:street":"Congress St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.252124,43.66238,-70.252124,43.66238",
+    "geom:latitude":43.66238,
+    "geom:longitude":-70.252124,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"267 Congress St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 4100",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85835993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08sb4euhHDxxoMfgBG0V5f_43.662380_-70.252124@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221081,
+    "wof:geomhash":"c12a955d9e40b32cf53f618e944f31d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85835993,
+            "region_id":85688769,
+            "venue_id":857712075
+        }
+    ],
+    "wof:id":857712075,
+    "wof:lastmodified":1472627230,
+    "wof:name":"Mt Sinai Cemetery Assn Inc",
+    "wof:parent_id":85835993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -70.252124,
+    43.66238,
+    -70.252124,
+    43.66238
+],
+  "geometry": {"coordinates":[-70.25212399999999,43.66238],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 857703233,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10 Parkhurst Siding Rd Presque Isle ME 04769",
+    "addr:housenumber":"10",
+    "addr:postcode":"04769",
+    "addr:street":"Parkhurst Siding Rd;Isle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.952091,46.710898,-67.952091,46.710898",
+    "geom:latitude":46.710898,
+    "geom:longitude":-67.952091,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Parkhurst Siding Rd",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 760 2300",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.mainepublicservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843087,
+        102191575,
+        404475361,
+        85633793,
+        85948903,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61rPolD1dgXb8sRbwfuwyN_46.710898_-67.952091@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220881,
+    "wof:geomhash":"8eddef9a8ec2de7a290eab02f6736ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475361,
+            "locality_id":85948903,
+            "neighbourhood_id":85843087,
+            "region_id":85688769,
+            "venue_id":857703233
+        }
+    ],
+    "wof:id":857703233,
+    "wof:lastmodified":1472627197,
+    "wof:name":"Maine Public Svc Co",
+    "wof:parent_id":85843087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -67.952091,
+    46.710898,
+    -67.952091,
+    46.710898
+],
+  "geometry": {"coordinates":[-67.952091,46.710898],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857691175,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7 Prebles Way Gray ME 04039",
+    "addr:housenumber":"7",
+    "addr:postcode":"04039",
+    "addr:street":"Prebles Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.359298,43.921741,-70.359298,43.921741",
+    "geom:latitude":43.921741,
+    "geom:longitude":-70.359298,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Prebles Way",
+    "sg:city":"Gray",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 657 4239",
+    "sg:postcode":"04039",
+    "sg:province":"ME",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85815293,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AR4Dt2k9pmmxOrpdGwmYU_43.921741_-70.359298@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220644,
+    "wof:geomhash":"ab1e3fa7549f68d472f304bf216c9438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85815293,
+            "region_id":85688769,
+            "venue_id":857691175
+        }
+    ],
+    "wof:id":857691175,
+    "wof:lastmodified":1472627190,
+    "wof:name":"Jeff Preble's Concrete",
+    "wof:parent_id":85815293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.359298,
+    43.921741,
+    -70.359298,
+    43.921741
+],
+  "geometry": {"coordinates":[-70.359298,43.921741],"type":"Point"}
+}

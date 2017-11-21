@@ -1,0 +1,76 @@
+{
+  "id": 857733177,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"433 US Route 1 York ME 03909",
+    "addr:housenumber":"433",
+    "addr:postcode":"03909",
+    "addr:street":"Us Route 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.671303,43.1492,-70.671303,43.1492",
+    "geom:latitude":43.1492,
+    "geom:longitude":-70.671303,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"433 US Route 1",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 363 7980",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859383,
+        102191575,
+        404475823,
+        85633793,
+        85949065,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WVxtsZabLMfzLQx16y31A_43.149200_-70.671303@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221504,
+    "wof:geomhash":"d22297809aee66f8516586f78e28ff63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475823,
+            "locality_id":85949065,
+            "neighbourhood_id":85859383,
+            "region_id":85688769,
+            "venue_id":857733177
+        }
+    ],
+    "wof:id":857733177,
+    "wof:lastmodified":1472627301,
+    "wof:name":"Ruby's Wood Grill",
+    "wof:parent_id":85859383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.671303,
+    43.1492,
+    -70.671303,
+    43.1492
+],
+  "geometry": {"coordinates":[-70.67130299999999,43.1492],"type":"Point"}
+}

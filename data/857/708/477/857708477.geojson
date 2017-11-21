@@ -1,0 +1,77 @@
+{
+  "id": 857708477,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"50 Dublin St Machias ME 04654",
+    "addr:housenumber":"50",
+    "addr:postcode":"04654",
+    "addr:street":"Dublin St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.460427,44.707813,-67.460427,44.707813",
+    "geom:latitude":44.707813,
+    "geom:longitude":-67.460427,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Dublin St",
+    "sg:city":"Machias",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 255 8033",
+    "sg:postcode":"04654",
+    "sg:province":"ME",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85826381,
+        102081143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jtrRt0joMvkt7aQyKJ2tC_44.707813_-67.460427@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220986,
+    "wof:geomhash":"34c335f491cd270eebb70405de8ed761",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85826381,
+            "region_id":85688769,
+            "venue_id":857708477
+        }
+    ],
+    "wof:id":857708477,
+    "wof:lastmodified":1472627254,
+    "wof:name":"J L Huntley Plumbing & Heating",
+    "wof:parent_id":85826381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -67.460427,
+    44.707813,
+    -67.460427,
+    44.707813
+],
+  "geometry": {"coordinates":[-67.460427,44.707813],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 857694741,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"125 Milton Rd Rochester ME 03868",
+    "addr:housenumber":"125",
+    "addr:postcode":"03868",
+    "addr:street":"Milton Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.975289,43.348645,-70.975289,43.348645",
+    "geom:latitude":43.348645,
+    "geom:longitude":-70.975289,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"125 Milton Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 5354",
+    "sg:postcode":"03868",
+    "sg:province":"ME",
+    "sg:tags":[
+        "bridal",
+        "wear",
+        "formal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18q3vfHdJslj6DdaCLkMPB_43.348645_-70.975289@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220713,
+    "wof:geomhash":"12f3f913182c5cdf346bd571ef372021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":857694741
+        }
+    ],
+    "wof:id":857694741,
+    "wof:lastmodified":1472627219,
+    "wof:name":"Evelyn Maries Bridals Formals",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bridal",
+        "wear",
+        "formal"
+    ]
+},
+  "bbox": [
+    -70.975289,
+    43.348645,
+    -70.975289,
+    43.348645
+],
+  "geometry": {"coordinates":[-70.975289,43.348645],"type":"Point"}
+}

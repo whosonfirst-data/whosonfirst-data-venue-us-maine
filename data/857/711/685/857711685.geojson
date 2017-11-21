@@ -1,0 +1,78 @@
+{
+  "id": 857711685,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"439 Western Ave Augusta ME 04330",
+    "addr:housenumber":"439",
+    "addr:postcode":"04330",
+    "addr:street":"Western Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.820421,44.319577,-69.820421,44.319577",
+    "geom:latitude":44.319577,
+    "geom:longitude":-69.820421,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"439 Western Ave",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 623 3846",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.blouinmotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85841121,
+        102087461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CbqtoLJwmFNMEAPbwPXYX_44.319577_-69.820421@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221071,
+    "wof:geomhash":"a807b55e3b9c18d345302934e8b2062f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "neighbourhood_id":85841121,
+            "region_id":85688769,
+            "venue_id":857711685
+        }
+    ],
+    "wof:id":857711685,
+    "wof:lastmodified":1472627263,
+    "wof:name":"Blouin Motors Inc",
+    "wof:parent_id":85841121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -69.820421,
+    44.319577,
+    -69.820421,
+    44.319577
+],
+  "geometry": {"coordinates":[-69.820421,44.319577],"type":"Point"}
+}

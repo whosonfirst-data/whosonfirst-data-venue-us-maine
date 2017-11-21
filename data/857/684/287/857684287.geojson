@@ -1,0 +1,80 @@
+{
+  "id": 857684287,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2 Court St Ellsworth ME 04654",
+    "addr:housenumber":"2",
+    "addr:postcode":"04654",
+    "addr:street":"Court St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.45252,44.718599,-67.45252,44.718599",
+    "geom:latitude":44.718599,
+    "geom:longitude":-67.45252,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"2 Court St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 4737",
+    "sg:postcode":"04654",
+    "sg:province":"ME",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85826381,
+        102081143
+    ],
+    "wof:brand_id":420574099,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pXN97HzWwggusQXU9ppmy_44.718599_-67.452520@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220508,
+    "wof:geomhash":"bd09568bb7b1a135266313f1eda6a38e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85826381,
+            "region_id":85688769,
+            "venue_id":857684287
+        }
+    ],
+    "wof:id":857684287,
+    "wof:lastmodified":1510604879,
+    "wof:name":"American Red Cross",
+    "wof:parent_id":85826381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -67.45252,
+    44.718599,
+    -67.45252,
+    44.718599
+],
+  "geometry": {"coordinates":[-67.45252000000001,44.718599],"type":"Point"}
+}

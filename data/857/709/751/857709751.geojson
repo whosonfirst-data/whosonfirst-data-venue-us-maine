@@ -1,0 +1,70 @@
+{
+  "id": 857709751,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"51 Holland Ave Bar Harbor ME 04609",
+    "addr:housenumber":"51",
+    "addr:postcode":"04609",
+    "addr:street":"Holland Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.211473,44.386671,-68.211473,44.386671",
+    "geom:latitude":44.386671,
+    "geom:longitude":-68.211473,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Holland Ave",
+    "sg:city":"Bar Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 288 3771",
+    "sg:postcode":"04609",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85803817,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65D1zZGWO97VaYEfboemZq_44.386671_-68.211473@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221024,
+    "wof:geomhash":"63568a4fe497fdfb28c355f664c9fd26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85803817,
+            "region_id":85688769,
+            "venue_id":857709751
+        }
+    ],
+    "wof:id":857709751,
+    "wof:lastmodified":1472627257,
+    "wof:name":"Aurora Motel",
+    "wof:parent_id":85803817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.211473,
+    44.386671,
+    -68.211473,
+    44.386671
+],
+  "geometry": {"coordinates":[-68.211473,44.386671],"type":"Point"}
+}

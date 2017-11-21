@@ -1,0 +1,75 @@
+{
+  "id": 857706465,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"27 Main St Machias ME 04654",
+    "addr:housenumber":"27",
+    "addr:postcode":"04654",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.457516,44.715098,-67.457516,44.715098",
+    "geom:latitude":44.715098,
+    "geom:longitude":-67.457516,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Main St",
+    "sg:city":"Machias",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 255 6035",
+    "sg:postcode":"04654",
+    "sg:province":"ME",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85826381,
+        102081143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LF7cWRDQeM7kSzweIS5Eh_44.715098_-67.457516@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220940,
+    "wof:geomhash":"c12b6628c13900db8dd78fd7f98100cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85826381,
+            "region_id":85688769,
+            "venue_id":857706465
+        }
+    ],
+    "wof:id":857706465,
+    "wof:lastmodified":1472627239,
+    "wof:name":"Main Street Discount",
+    "wof:parent_id":85826381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -67.457516,
+    44.715098,
+    -67.457516,
+    44.715098
+],
+  "geometry": {"coordinates":[-67.457516,44.715098],"type":"Point"}
+}

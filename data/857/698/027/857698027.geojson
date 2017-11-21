@@ -1,0 +1,81 @@
+{
+  "id": 857698027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"20 South St Lubec ME 04652",
+    "addr:housenumber":"20",
+    "addr:postcode":"04652",
+    "addr:street":"South St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-66.988449,44.855676,-66.988449,44.855676",
+    "geom:latitude":44.855676,
+    "geom:longitude":-66.988449,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 South St",
+    "sg:city":"Lubec",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 733 2203",
+    "sg:postcode":"04652",
+    "sg:province":"ME",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849853,
+        102191575,
+        404475775,
+        85633793,
+        85948873,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YWnWl0rkMcZaguqdGBA3L_44.855676_-66.988449@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220774,
+    "wof:geomhash":"33ea81617df9a09dacc1550a941de827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475775,
+            "locality_id":85948873,
+            "neighbourhood_id":85849853,
+            "region_id":85688769,
+            "venue_id":857698027
+        }
+    ],
+    "wof:id":857698027,
+    "wof:lastmodified":1472627192,
+    "wof:name":"Lubec Consolidated School",
+    "wof:parent_id":85849853,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -66.988449,
+    44.855676,
+    -66.988449,
+    44.855676
+],
+  "geometry": {"coordinates":[-66.988449,44.855676],"type":"Point"}
+}

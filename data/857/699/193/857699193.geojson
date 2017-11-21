@@ -1,0 +1,76 @@
+{
+  "id": 857699193,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"213 Main St Fort Fairfield ME 04742",
+    "addr:housenumber":"213",
+    "addr:postcode":"04742",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.826009,46.769982,-67.826009,46.769982",
+    "geom:latitude":46.769982,
+    "geom:longitude":-67.826009,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"213 Main St",
+    "sg:city":"Fort Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 473 7202",
+    "sg:postcode":"04742",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_645S1mefv2u9EP0F3Z6LcW_46.769982_-67.826009@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220795,
+    "wof:geomhash":"968baa1dd4769435769147b911772051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857699193
+        }
+    ],
+    "wof:id":857699193,
+    "wof:lastmodified":1472627199,
+    "wof:name":"Fort One-Stop",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.826009,
+    46.769982,
+    -67.826009,
+    46.769982
+],
+  "geometry": {"coordinates":[-67.826009,46.769982],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857707269,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1587 Broadway South Portland ME 04106",
+    "addr:housenumber":"1587",
+    "addr:postcode":"04106",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.299205,43.629225,-70.299205,43.629225",
+    "geom:latitude":43.629225,
+    "geom:longitude":-70.299205,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1587 Broadway",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 773 0737",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809743,
+        102191575,
+        404475439,
+        85633793,
+        85948879,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QKQgbqgu1QsDlIuhSkBo8_43.629225_-70.299205@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220954,
+    "wof:geomhash":"8ff41c6b9377b37d41deb29a52fdd0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475439,
+            "locality_id":85948879,
+            "neighbourhood_id":85809743,
+            "region_id":85688769,
+            "venue_id":857707269
+        }
+    ],
+    "wof:id":857707269,
+    "wof:lastmodified":1472627237,
+    "wof:name":"Jayar Signs",
+    "wof:parent_id":85809743,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.299205,
+    43.629225,
+    -70.299205,
+    43.629225
+],
+  "geometry": {"coordinates":[-70.299205,43.629225],"type":"Point"}
+}

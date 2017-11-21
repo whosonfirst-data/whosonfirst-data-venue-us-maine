@@ -1,0 +1,75 @@
+{
+  "id": 857724159,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"474 Turner St Canton ME 04221",
+    "addr:housenumber":"474",
+    "addr:postcode":"04221",
+    "addr:street":"Turner St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.285619,44.416262,-70.285619,44.416262",
+    "geom:latitude":44.416262,
+    "geom:longitude":-70.285619,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"474 Turner St",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 597 2757",
+    "sg:postcode":"04221",
+    "sg:province":"ME",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85833559,
+        102087437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Wh01HJRKYONReluqF2HUV_44.416262_-70.285619@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221327,
+    "wof:geomhash":"c269a36ca2dcb221da50eac3f4eb8bf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087437,
+            "neighbourhood_id":85833559,
+            "region_id":85688769,
+            "venue_id":857724159
+        }
+    ],
+    "wof:id":857724159,
+    "wof:lastmodified":1472627252,
+    "wof:name":"Country Press",
+    "wof:parent_id":85833559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -70.285619,
+    44.416262,
+    -70.285619,
+    44.416262
+],
+  "geometry": {"coordinates":[-70.285619,44.416262],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857718887,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"42 Pine Acres Way Dover Foxcroft ME 04401",
+    "addr:housenumber":"42",
+    "addr:postcode":"04401",
+    "addr:street":"Pine Acres Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.851654,44.917001,-68.851654,44.917001",
+    "geom:latitude":44.917001,
+    "geom:longitude":-68.851654,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42 Pine Acres Way",
+    "sg:city":"Dover Foxcroft",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 564 2321",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85855557,
+        102080723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UFaO71tVUKviGuuLXyQgd_44.917001_-68.851654@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221224,
+    "wof:geomhash":"f2de369e7ff3fa8e1ba24ee42659853f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85855557,
+            "region_id":85688769,
+            "venue_id":857718887
+        }
+    ],
+    "wof:id":857718887,
+    "wof:lastmodified":1472627276,
+    "wof:name":"Natural Resources Conservation",
+    "wof:parent_id":85855557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -68.851654,
+    44.917001,
+    -68.851654,
+    44.917001
+],
+  "geometry": {"coordinates":[-68.851654,44.917001],"type":"Point"}
+}

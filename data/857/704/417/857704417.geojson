@@ -1,0 +1,76 @@
+{
+  "id": 857704417,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6 Portland Street Pier South Portland ME 04106",
+    "addr:housenumber":"6",
+    "addr:postcode":"04106",
+    "addr:street":"Portland Street Pier",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.242592,43.650166,-70.242592,43.650166",
+    "geom:latitude":43.650166,
+    "geom:longitude":-70.242592,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Portland Street Pier",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 799 4900",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820201,
+        102191575,
+        404475439,
+        85633793,
+        85948879,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1afcu3rjPaYr55TccRL1uY_43.650166_-70.242592@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220903,
+    "wof:geomhash":"538d660c3d6b4ee0f66d27410d68d49e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475439,
+            "locality_id":85948879,
+            "neighbourhood_id":85820201,
+            "region_id":85688769,
+            "venue_id":857704417
+        }
+    ],
+    "wof:id":857704417,
+    "wof:lastmodified":1472627229,
+    "wof:name":"Susu's Hair Studio",
+    "wof:parent_id":85820201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.242592,
+    43.650166,
+    -70.242592,
+    43.650166
+],
+  "geometry": {"coordinates":[-70.242592,43.650166],"type":"Point"}
+}

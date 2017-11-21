@@ -1,0 +1,76 @@
+{
+  "id": 873466125,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1 Executive Drive, 3rd Floor Chelmsford ME 01824",
+    "addr:housenumber":"1;3rd floor",
+    "addr:postcode":"01824",
+    "addr:street":"Executive Drive",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.341865,42.615573,-71.341865,42.615573",
+    "geom:latitude":42.615573,
+    "geom:longitude":-71.341865,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Executive Drive, 3rd Floor",
+    "sg:city":"Chelmsford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"01824",
+    "sg:province":"ME",
+    "sg:website":"http://www.avg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825227,
+        102191575,
+        404476397,
+        85633793,
+        85950327,
+        102084643,
+        85688645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mnjY2P0VOaA3UETXxpxVt_42.615573_-71.341865@1308186497"
+    },
+    "wof:country":"US",
+    "wof:created":1464221590,
+    "wof:geomhash":"6ded635956bd2d25f7bf5e8cb4dc46bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084643,
+            "localadmin_id":404476397,
+            "locality_id":85950327,
+            "neighbourhood_id":85825227,
+            "region_id":85688645,
+            "venue_id":873466125
+        }
+    ],
+    "wof:id":873466125,
+    "wof:lastmodified":1472627182,
+    "wof:name":"AVG Technologies",
+    "wof:parent_id":85825227,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.341865,
+    42.615573,
+    -71.341865,
+    42.615573
+],
+  "geometry": {"coordinates":[-71.341865,42.615573],"type":"Point"}
+}

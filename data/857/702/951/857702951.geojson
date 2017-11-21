@@ -1,0 +1,83 @@
+{
+  "id": 857702951,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1171 Broadway Bangor ME 04401",
+    "addr:housenumber":"1171",
+    "addr:postcode":"04401",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.795423,44.840194,-68.795423,44.840194",
+    "geom:latitude":44.840194,
+    "geom:longitude":-68.795423,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1171 Broadway",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 2810",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "medical",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85815935,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74c7hbmb8tIRLtrv4jTRVV_44.840194_-68.795423@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220876,
+    "wof:geomhash":"4d7b3f2996b7661b66b1e374769253b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85815935,
+            "region_id":85688769,
+            "venue_id":857702951
+        }
+    ],
+    "wof:id":857702951,
+    "wof:lastmodified":1472627215,
+    "wof:name":"Nehe MRI",
+    "wof:parent_id":85815935,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -68.795423,
+    44.840194,
+    -68.795423,
+    44.840194
+],
+  "geometry": {"coordinates":[-68.795423,44.840194],"type":"Point"}
+}

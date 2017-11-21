@@ -1,0 +1,83 @@
+{
+  "id": 857722333,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"72 State Rte 236 Kittery ME 03904",
+    "addr:housenumber":"72",
+    "addr:postcode":"03904",
+    "addr:street":"State Rte 236",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.737799,43.093247,-70.737799,43.093247",
+    "geom:latitude":43.093247,
+    "geom:longitude":-70.737799,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"72 State Rte 236",
+    "sg:city":"Kittery",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 439 9676",
+    "sg:postcode":"03904",
+    "sg:province":"ME",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828587,
+        102191575,
+        404475793,
+        85633793,
+        85949043,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MKRnuUYbFOBmbgLnmpcBI_43.093247_-70.737799@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221295,
+    "wof:geomhash":"fcbd5e58bae51cb7baefd6fb540f1972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475793,
+            "locality_id":85949043,
+            "neighbourhood_id":85828587,
+            "region_id":85688769,
+            "venue_id":857722333
+        }
+    ],
+    "wof:id":857722333,
+    "wof:lastmodified":1472627261,
+    "wof:name":"Atlantic Drywall Co",
+    "wof:parent_id":85828587,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.737799,
+    43.093247,
+    -70.737799,
+    43.093247
+],
+  "geometry": {"coordinates":[-70.737799,43.093247],"type":"Point"}
+}

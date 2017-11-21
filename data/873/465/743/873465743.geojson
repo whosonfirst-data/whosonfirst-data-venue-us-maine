@@ -1,0 +1,83 @@
+{
+  "id": 873465743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"312 Ocean House Rd Cape Elizabeth ME 04107",
+    "addr:housenumber":"312",
+    "addr:postcode":"04107",
+    "addr:street":"Ocean House Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.227473,43.595237,-70.227473,43.595237",
+    "geom:latitude":43.595237,
+    "geom:longitude":-70.227473,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"312 Ocean House Rd",
+    "sg:city":"Cape Elizabeth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 632 8994",
+    "sg:postcode":"04107",
+    "sg:province":"ME",
+    "sg:tags":[
+        "pet",
+        "photographer"
+    ],
+    "sg:website":"www.andunlimiteddogs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85867971,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tK7gVr7AE3RAESRGQnLTl_43.595237_-70.227473@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221583,
+    "wof:geomhash":"cf2abcc1d8c6d34b0749e67d6c0f1ba1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85867971,
+            "region_id":85688769,
+            "venue_id":873465743
+        }
+    ],
+    "wof:id":873465743,
+    "wof:lastmodified":1472627189,
+    "wof:name":"& Unlimited Dogs",
+    "wof:parent_id":85867971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "photographer"
+    ]
+},
+  "bbox": [
+    -70.227473,
+    43.595237,
+    -70.227473,
+    43.595237
+],
+  "geometry": {"coordinates":[-70.227473,43.595237],"type":"Point"}
+}

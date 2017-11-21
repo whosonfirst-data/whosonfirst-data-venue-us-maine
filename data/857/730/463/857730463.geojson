@@ -1,0 +1,84 @@
+{
+  "id": 857730463,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"333 Center St Auburn ME 04210",
+    "addr:housenumber":"333",
+    "addr:postcode":"04210",
+    "addr:street":"Center St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.224626,44.112813,-70.224626,44.112813",
+    "geom:latitude":44.112813,
+    "geom:longitude":-70.224626,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"333 Center St",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/auburn/197166-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 784 6142",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fx56FptWq9hwLlnqbi5s9_44.112813_-70.224626@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221446,
+    "wof:geomhash":"8fa56865a72319ba5a9c45e8aab5bca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857730463
+        }
+    ],
+    "wof:id":857730463,
+    "wof:lastmodified":1472627302,
+    "wof:name":"Burger King",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.224626,
+    44.112813,
+    -70.224626,
+    44.112813
+],
+  "geometry": {"coordinates":[-70.224626,44.112813],"type":"Point"}
+}

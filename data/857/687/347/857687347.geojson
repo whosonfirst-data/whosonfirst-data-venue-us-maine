@@ -1,0 +1,83 @@
+{
+  "id": 857687347,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10 W Myrtle St Biddeford ME 04005",
+    "addr:housenumber":"10",
+    "addr:postcode":"04005",
+    "addr:street":"W Myrtle St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.46005,43.488718,-70.46005,43.488718",
+    "geom:latitude":43.488718,
+    "geom:longitude":-70.46005,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 W Myrtle St",
+    "sg:city":"Biddeford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 329 7395",
+    "sg:postcode":"04005",
+    "sg:province":"ME",
+    "sg:tags":[
+        "surgical",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819479,
+        102191575,
+        404475883,
+        85633793,
+        85948887,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RGA7hcXEVD5QYPQqeBzsn_43.488718_-70.460050@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220566,
+    "wof:geomhash":"d7737d1f10e75a2efff0a00e0f6831a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475883,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":857687347
+        }
+    ],
+    "wof:id":857687347,
+    "wof:lastmodified":1472627188,
+    "wof:name":"Le Voyageur",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -70.46005,
+    43.488718,
+    -70.46005,
+    43.488718
+],
+  "geometry": {"coordinates":[-70.46005,43.488718],"type":"Point"}
+}

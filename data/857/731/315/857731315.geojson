@@ -1,0 +1,76 @@
+{
+  "id": 857731315,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8 Main St Machias ME 04654",
+    "addr:housenumber":"8",
+    "addr:postcode":"04654",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.460813,44.713942,-67.460813,44.713942",
+    "geom:latitude":44.713942,
+    "geom:longitude":-67.460813,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Main St",
+    "sg:city":"Machias",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/machias/207712-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 255 8808",
+    "sg:postcode":"04654",
+    "sg:province":"ME",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85826381,
+        102081143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wWexUwz8PNvUAMQVaVFHj_44.713942_-67.460813@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221463,
+    "wof:geomhash":"b0c6186a49debf4e98bce26e0f69333c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85826381,
+            "region_id":85688769,
+            "venue_id":857731315
+        }
+    ],
+    "wof:id":857731315,
+    "wof:lastmodified":1472627301,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85826381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -67.460813,
+    44.713942,
+    -67.460813,
+    44.713942
+],
+  "geometry": {"coordinates":[-67.460813,44.713942],"type":"Point"}
+}

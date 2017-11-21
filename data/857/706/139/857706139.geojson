@@ -1,0 +1,79 @@
+{
+  "id": 857706139,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"24 Plymouth Dr Saco ME 04072",
+    "addr:housenumber":"24",
+    "addr:postcode":"04072",
+    "addr:street":"Plymouth Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.398643,43.484789,-70.398643,43.484789",
+    "geom:latitude":43.484789,
+    "geom:longitude":-70.398643,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 Plymouth Dr",
+    "sg:city":"Saco",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 284 6799",
+    "sg:postcode":"04072",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85949051,
+        102087449,
+        85828495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17WWn5rMcy4c0zbId15LFX_43.484789_-70.398643@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220934,
+    "wof:geomhash":"59a2b5a489b8ea7c980adfd15611d178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85949051,
+            "neighbourhood_id":85828495,
+            "region_id":85688769,
+            "venue_id":857706139
+        }
+    ],
+    "wof:id":857706139,
+    "wof:lastmodified":1472627229,
+    "wof:name":"Don Golojuch Plumbing & Htg",
+    "wof:parent_id":85828495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.398643,
+    43.484789,
+    -70.398643,
+    43.484789
+],
+  "geometry": {"coordinates":[-70.39864300000001,43.484789],"type":"Point"}
+}

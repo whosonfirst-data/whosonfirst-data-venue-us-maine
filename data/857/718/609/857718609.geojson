@@ -1,0 +1,77 @@
+{
+  "id": 857718609,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"116 State St Augusta ME 04330",
+    "addr:housenumber":"116",
+    "addr:postcode":"04330",
+    "addr:street":"State St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.778042,44.314062,-69.778042,44.314062",
+    "geom:latitude":44.314062,
+    "geom:longitude":-69.778042,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"116 State St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 623 3701",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D9UlVaZWqrpDR3yYIxtdE_44.314062_-69.778042@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221214,
+    "wof:geomhash":"c67e5c0d933a83d1220f3e1ce57d4bd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857718609
+        }
+    ],
+    "wof:id":857718609,
+    "wof:lastmodified":1472627265,
+    "wof:name":"Bourassa & Petersen",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -69.778042,
+    44.314062,
+    -69.778042,
+    44.314062
+],
+  "geometry": {"coordinates":[-69.778042,44.314062],"type":"Point"}
+}

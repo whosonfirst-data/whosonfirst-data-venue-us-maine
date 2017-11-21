@@ -1,0 +1,72 @@
+{
+  "id": 873464597,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"30 Emery St South Portland ME 04106",
+    "addr:housenumber":"30",
+    "addr:postcode":"04106",
+    "addr:street":"Emery St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.247299,43.636501,-70.247299,43.636501",
+    "geom:latitude":43.636501,
+    "geom:longitude":-70.247299,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Emery St",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 799 0702",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948879,
+        102087463,
+        85867973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gTVRWzUjw3TmB1wRaGo0m_43.636501_-70.247299@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221561,
+    "wof:geomhash":"76242fe8d6cb4194f2c3faeb1021d3ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948879,
+            "neighbourhood_id":85867973,
+            "region_id":85688769,
+            "venue_id":873464597
+        }
+    ],
+    "wof:id":873464597,
+    "wof:lastmodified":1472627184,
+    "wof:name":"Holy Cross Daycare Center",
+    "wof:parent_id":85867973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.247299,
+    43.636501,
+    -70.247299,
+    43.636501
+],
+  "geometry": {"coordinates":[-70.247299,43.636501],"type":"Point"}
+}

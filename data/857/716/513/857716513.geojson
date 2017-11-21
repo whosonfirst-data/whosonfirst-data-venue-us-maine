@@ -1,0 +1,75 @@
+{
+  "id": 857716513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3508 Union St Levant ME 04456",
+    "addr:housenumber":"3508",
+    "addr:postcode":"04456",
+    "addr:street":"Union St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.937652,44.870165,-68.937652,44.870165",
+    "geom:latitude":44.870165,
+    "geom:longitude":-68.937652,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3508 Union St",
+    "sg:city":"Levant",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 884 7151",
+    "sg:postcode":"04456",
+    "sg:province":"ME",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85838259,
+        102080723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TFjWVcLkQfrERxft3ccAU_44.870165_-68.937652@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221174,
+    "wof:geomhash":"0b11632688227e8caf08a3bb497eb493",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85838259,
+            "region_id":85688769,
+            "venue_id":857716513
+        }
+    ],
+    "wof:id":857716513,
+    "wof:lastmodified":1472627254,
+    "wof:name":"C & K Variety Levant Village",
+    "wof:parent_id":85838259,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -68.937652,
+    44.870165,
+    -68.937652,
+    44.870165
+],
+  "geometry": {"coordinates":[-68.937652,44.870165],"type":"Point"}
+}

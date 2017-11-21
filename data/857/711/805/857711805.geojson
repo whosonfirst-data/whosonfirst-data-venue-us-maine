@@ -1,0 +1,77 @@
+{
+  "id": 857711805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"40 Mount Desert St Mt Desert ME 04609",
+    "addr:housenumber":"40",
+    "addr:postcode":"04609",
+    "addr:street":"Mount Desert St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.20719,44.386877,-68.20719,44.386877",
+    "geom:latitude":44.386877,
+    "geom:longitude":-68.20719,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Mount Desert St",
+    "sg:city":"Mt Desert",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 288 3410",
+    "sg:postcode":"04609",
+    "sg:province":"ME",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85803817,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NCU4HNFbe5M1nF74iRLew_44.386877_-68.207190@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221074,
+    "wof:geomhash":"65dbfe066fbb53c737b5ff97363a52e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85803817,
+            "region_id":85688769,
+            "venue_id":857711805
+        }
+    ],
+    "wof:id":857711805,
+    "wof:lastmodified":1472627266,
+    "wof:name":"Therapeutic Services Inc",
+    "wof:parent_id":85803817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -68.20719,
+    44.386877,
+    -68.20719,
+    44.386877
+],
+  "geometry": {"coordinates":[-68.20719,44.386877],"type":"Point"}
+}

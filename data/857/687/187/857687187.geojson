@@ -1,0 +1,81 @@
+{
+  "id": 857687187,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"651 Riverside St Portland ME 04103",
+    "addr:housenumber":"651",
+    "addr:postcode":"04103",
+    "addr:street":"Riverside St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.324914,43.693828,-70.324914,43.693828",
+    "geom:latitude":43.693828,
+    "geom:longitude":-70.324914,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"651 Riverside St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 797 6899",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "maker",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85845077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2guy1NYXCApxQrBX0OreEc_43.693828_-70.324914@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220563,
+    "wof:geomhash":"8d6ca3d4a9661370fd4a400bb1e4dcee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85845077,
+            "region_id":85688769,
+            "venue_id":857687187
+        }
+    ],
+    "wof:id":857687187,
+    "wof:lastmodified":1472627184,
+    "wof:name":"North Star Woodworking Inc",
+    "wof:parent_id":85845077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maker",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -70.324914,
+    43.693828,
+    -70.324914,
+    43.693828
+],
+  "geometry": {"coordinates":[-70.32491400000001,43.693828],"type":"Point"}
+}

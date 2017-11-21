@@ -1,0 +1,76 @@
+{
+  "id": 857705315,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"135 North Rd Swans Island ME 04685",
+    "addr:housenumber":"135",
+    "addr:postcode":"04685",
+    "addr:street":"North Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.453696,44.157681,-68.453696,44.157681",
+    "geom:latitude":44.157681,
+    "geom:longitude":-68.453696,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"135 North Rd",
+    "sg:city":"Swans Island",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 526 4492",
+    "sg:postcode":"04685",
+    "sg:province":"ME",
+    "sg:tags":[
+        "blanket"
+    ],
+    "sg:website":"www.atlanticblanket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85803863,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RAqPGe7IQBg4K8dA0L5In_44.157681_-68.453696@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220920,
+    "wof:geomhash":"46f8c51c8b3d0f5b791771e24b0d9099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85803863,
+            "region_id":85688769,
+            "venue_id":857705315
+        }
+    ],
+    "wof:id":857705315,
+    "wof:lastmodified":1472627232,
+    "wof:name":"Atlantic Blanket Co",
+    "wof:parent_id":85803863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blanket"
+    ]
+},
+  "bbox": [
+    -68.453696,
+    44.157681,
+    -68.453696,
+    44.157681
+],
+  "geometry": {"coordinates":[-68.45369599999999,44.157681],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 857725437,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"34 Spruce St Rockport ME 04856",
+    "addr:housenumber":"34",
+    "addr:postcode":"04856",
+    "addr:street":"Spruce St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.077538,44.18152,-69.077538,44.18152",
+    "geom:latitude":44.18152,
+    "geom:longitude":-69.077538,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"34 Spruce St",
+    "sg:city":"Rockport",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 236 6196",
+    "sg:postcode":"04856",
+    "sg:province":"ME",
+    "sg:tags":[
+        "trade",
+        "exposition",
+        "fair",
+        "show"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833741,
+        102191575,
+        404475697,
+        85633793,
+        85948907,
+        102087453,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eR7pSrz0lsP2qiz3AuASD_44.181520_-69.077538@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221351,
+    "wof:geomhash":"028a1a7850ef972aa40e9b03a66a92c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087453,
+            "localadmin_id":404475697,
+            "locality_id":85948907,
+            "neighbourhood_id":85833741,
+            "region_id":85688769,
+            "venue_id":857725437
+        }
+    ],
+    "wof:id":857725437,
+    "wof:lastmodified":1472627257,
+    "wof:name":"Mc Nabb Expositions",
+    "wof:parent_id":85833741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade",
+        "exposition",
+        "fair",
+        "show"
+    ]
+},
+  "bbox": [
+    -69.077538,
+    44.18152,
+    -69.077538,
+    44.18152
+],
+  "geometry": {"coordinates":[-69.077538,44.18152],"type":"Point"}
+}

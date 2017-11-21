@@ -1,0 +1,85 @@
+{
+  "id": 857733715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16 Hospital Dr York ME 03909",
+    "addr:housenumber":"16",
+    "addr:postcode":"03909",
+    "addr:street":"Hospital Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.6511,43.1437,-70.6511,43.1437",
+    "geom:latitude":43.1437,
+    "geom:longitude":-70.6511,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Hospital Dr",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 363 3490",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "sg:tags":[
+        "medicine",
+        "sport",
+        "orthopedist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859383,
+        102191575,
+        404475823,
+        85633793,
+        85949065,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P1n7VooWQ1HIDiLdUr6wn_43.143700_-70.651100@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221513,
+    "wof:geomhash":"06e50403f79a046502953ca4caf04239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475823,
+            "locality_id":85949065,
+            "neighbourhood_id":85859383,
+            "region_id":85688769,
+            "venue_id":857733715
+        }
+    ],
+    "wof:id":857733715,
+    "wof:lastmodified":1472627315,
+    "wof:name":"Sutherland William S MD",
+    "wof:parent_id":85859383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "sport",
+        "orthopedist"
+    ]
+},
+  "bbox": [
+    -70.6511,
+    43.1437,
+    -70.6511,
+    43.1437
+],
+  "geometry": {"coordinates":[-70.6511,43.1437],"type":"Point"}
+}

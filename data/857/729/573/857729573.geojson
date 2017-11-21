@@ -1,0 +1,82 @@
+{
+  "id": 857729573,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"234 US-1 Scarborough ME 04074",
+    "addr:housenumber":"234",
+    "addr:postcode":"04074",
+    "addr:street":"Us-1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.335169,43.590082,-70.335169,43.590082",
+    "geom:latitude":43.590082,
+    "geom:longitude":-70.335169,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"234 US-1",
+    "sg:city":"Scarborough",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/scarborough/237164-amatos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 883 2402",
+    "sg:postcode":"04074",
+    "sg:province":"ME",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838735,
+        102191575,
+        404475433,
+        85633793,
+        85949003,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b30fw2g4xEXGfJwfTB89k_43.590082_-70.335169@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221425,
+    "wof:geomhash":"f68889a58caa9a95d203a52e3db7f408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475433,
+            "locality_id":85949003,
+            "neighbourhood_id":85838735,
+            "region_id":85688769,
+            "venue_id":857729573
+        }
+    ],
+    "wof:id":857729573,
+    "wof:lastmodified":1472627304,
+    "wof:name":"Amato's",
+    "wof:parent_id":85838735,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -70.335169,
+    43.590082,
+    -70.335169,
+    43.590082
+],
+  "geometry": {"coordinates":[-70.33516899999999,43.590082],"type":"Point"}
+}

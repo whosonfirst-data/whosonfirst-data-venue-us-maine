@@ -1,0 +1,64 @@
+{
+  "id": 857722919,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3 N Main St Strong ME 04983",
+    "addr:housenumber":"3",
+    "addr:postcode":"04983",
+    "addr:street":"N Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.21959,44.809152,-70.21959,44.809152",
+    "geom:latitude":44.809152,
+    "geom:longitude":-70.21959,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 N Main St",
+    "sg:city":"Strong",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 684 4037",
+    "sg:postcode":"04983",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pFrIH70wT6hnDcPXXdBQl_44.809152_-70.219590@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221305,
+    "wof:geomhash":"86a5653110ecf88fd82093e71e79fd3f",
+    "wof:hierarchy":[],
+    "wof:id":857722919,
+    "wof:lastmodified":1472627281,
+    "wof:name":"Main Street Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -70.21959,
+    44.809152,
+    -70.21959,
+    44.809152
+],
+  "geometry": {"coordinates":[-70.21959,44.809152],"type":"Point"}
+}

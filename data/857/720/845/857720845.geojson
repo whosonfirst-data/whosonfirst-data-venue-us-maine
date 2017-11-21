@@ -1,0 +1,81 @@
+{
+  "id": 857720845,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"51 Franklin St Ellsworth ME 04605",
+    "addr:housenumber":"51",
+    "addr:postcode":"04605",
+    "addr:street":"Franklin St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.423602,44.541596,-68.423602,44.541596",
+    "geom:latitude":44.541596,
+    "geom:longitude":-68.423602,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Franklin St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 3320",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "return"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ruAcpwwsn4THWjcnvrXMR_44.541596_-68.423602@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221265,
+    "wof:geomhash":"79357cc2dfe05de50c6090d2a44a86c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857720845
+        }
+    ],
+    "wof:id":857720845,
+    "wof:lastmodified":1472627276,
+    "wof:name":"Lounder Business Service",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return"
+    ]
+},
+  "bbox": [
+    -68.423602,
+    44.541596,
+    -68.423602,
+    44.541596
+],
+  "geometry": {"coordinates":[-68.423602,44.541596],"type":"Point"}
+}

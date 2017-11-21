@@ -1,0 +1,77 @@
+{
+  "id": 857694745,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6 North St Presque Isle ME 04769",
+    "addr:housenumber":"6",
+    "addr:postcode":"04769",
+    "addr:street":"North St;Isle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.012188,46.68825,-68.012188,46.68825",
+    "geom:latitude":46.68825,
+    "geom:longitude":-68.012188,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 North St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 8000",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:website":"www.katahdintrust.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hUeaE42271ijwdcHempHi_46.688250_-68.012188@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220713,
+    "wof:geomhash":"9fceb2798eb16cf7a035faef7722f2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857694745
+        }
+    ],
+    "wof:id":857694745,
+    "wof:lastmodified":1472627219,
+    "wof:name":"Katahdin Trust Co",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.012188,
+    46.68825,
+    -68.012188,
+    46.68825
+],
+  "geometry": {"coordinates":[-68.01218799999999,46.68825],"type":"Point"}
+}

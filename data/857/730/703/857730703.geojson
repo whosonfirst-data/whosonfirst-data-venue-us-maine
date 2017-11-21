@@ -1,0 +1,76 @@
+{
+  "id": 857730703,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"284 Civic Center Dr Augusta ME 04330",
+    "addr:housenumber":"284",
+    "addr:postcode":"04330",
+    "addr:street":"Civic Center Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.795883,44.348535,-69.795883,44.348535",
+    "geom:latitude":44.348535,
+    "geom:longitude":-69.795883,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"284 Civic Center Dr",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/augusta/244772-amatos-xpress/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 621 0665",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85841121,
+        102087461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MaxAUIs3GlauSiW8nhL0w_44.348535_-69.795883@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221451,
+    "wof:geomhash":"bfa495c60fb8cab80e31e0636f72dd08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "neighbourhood_id":85841121,
+            "region_id":85688769,
+            "venue_id":857730703
+        }
+    ],
+    "wof:id":857730703,
+    "wof:lastmodified":1472627315,
+    "wof:name":"Amato's Xpress",
+    "wof:parent_id":85841121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -69.795883,
+    44.348535,
+    -69.795883,
+    44.348535
+],
+  "geometry": {"coordinates":[-69.795883,44.348535],"type":"Point"}
+}

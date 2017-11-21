@@ -1,0 +1,77 @@
+{
+  "id": 857734799,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"17 Western Avenue Kennebunk ME 04043",
+    "addr:housenumber":"17",
+    "addr:postcode":"04043",
+    "addr:street":"Western Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.478854,43.360781,-70.478854,43.360781",
+    "geom:latitude":43.360781,
+    "geom:longitude":-70.478854,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17 Western Avenue",
+    "sg:city":"Kennebunk",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 967 1198",
+    "sg:postcode":"04043",
+    "sg:province":"ME",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85812189,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SDDR3XLM4WlHewyoBT8FA_43.360781_-70.478854@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221536,
+    "wof:geomhash":"7704f64b1d2a798dcb198c16034cb096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85812189,
+            "region_id":85688769,
+            "venue_id":857734799
+        }
+    ],
+    "wof:id":857734799,
+    "wof:lastmodified":1472627315,
+    "wof:name":"Big Fish",
+    "wof:parent_id":85812189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.478854,
+    43.360781,
+    -70.478854,
+    43.360781
+],
+  "geometry": {"coordinates":[-70.478854,43.360781],"type":"Point"}
+}

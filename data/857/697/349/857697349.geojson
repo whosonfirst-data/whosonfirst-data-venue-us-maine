@@ -1,0 +1,85 @@
+{
+  "id": 857697349,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"52 Christian Ridge Rd Ellsworth ME 04605",
+    "addr:housenumber":"52",
+    "addr:postcode":"04605",
+    "addr:street":"Christian Ridge Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.44443,44.545512,-68.44443,44.545512",
+    "geom:latitude":44.545512,
+    "geom:longitude":-68.44443,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 Christian Ridge Rd",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 8407",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0acs14SfbwYF7NhlX9qk1m_44.545512_-68.444430@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220762,
+    "wof:geomhash":"dd5e2e10a2dfca0b792351c4826cc753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857697349
+        }
+    ],
+    "wof:id":857697349,
+    "wof:lastmodified":1472627202,
+    "wof:name":"Corrections Dept",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -68.44443,
+    44.545512,
+    -68.44443,
+    44.545512
+],
+  "geometry": {"coordinates":[-68.44443,44.545512],"type":"Point"}
+}

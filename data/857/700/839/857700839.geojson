@@ -1,0 +1,79 @@
+{
+  "id": 857700839,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1103 Pushaw Rd Glenburn ME 04401",
+    "addr:housenumber":"1103",
+    "addr:postcode":"04401",
+    "addr:street":"Pushaw Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.81272,44.889721,-68.81272,44.889721",
+    "geom:latitude":44.889721,
+    "geom:longitude":-68.81272,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1103 Pushaw Rd",
+    "sg:city":"Glenburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 945 5062",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85848853,
+        102080723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GHq6MIBixMeTylDkJNx6J_44.889721_-68.812720@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220831,
+    "wof:geomhash":"bda9a785d4c4cf04649f1b8dcdbffa30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85848853,
+            "region_id":85688769,
+            "venue_id":857700839
+        }
+    ],
+    "wof:id":857700839,
+    "wof:lastmodified":1472627214,
+    "wof:name":"Central Auto Body",
+    "wof:parent_id":85848853,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -68.81272,
+    44.889721,
+    -68.81272,
+    44.889721
+],
+  "geometry": {"coordinates":[-68.81272,44.889721],"type":"Point"}
+}

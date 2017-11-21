@@ -1,0 +1,83 @@
+{
+  "id": 857684827,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3 High St Ellsworth ME 04605",
+    "addr:housenumber":"3",
+    "addr:postcode":"04605",
+    "addr:street":"High St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.420031,44.542827,-68.420031,44.542827",
+    "geom:latitude":44.542827,
+    "geom:longitude":-68.420031,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 High St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 664 0339",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Htu8O7B29npLD2atIV2A7_44.542827_-68.420031@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220519,
+    "wof:geomhash":"c08df45bbde0531d71d8b46b7d0b1d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857684827
+        }
+    ],
+    "wof:id":857684827,
+    "wof:lastmodified":1472627210,
+    "wof:name":"Beth C Wright Cancer Resource",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -68.420031,
+    44.542827,
+    -68.420031,
+    44.542827
+],
+  "geometry": {"coordinates":[-68.42003099999999,44.542827],"type":"Point"}
+}

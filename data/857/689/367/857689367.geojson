@@ -1,0 +1,79 @@
+{
+  "id": 857689367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"427 Fore St Portland ME 04101",
+    "addr:housenumber":"427",
+    "addr:postcode":"04101",
+    "addr:street":"Fore St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.254592,43.655977,-70.254592,43.655977",
+    "geom:latitude":43.655977,
+    "geom:longitude":-70.254592,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"427 Fore St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 7738",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85882031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bXd2ttGs31BK2ZRtORrtn_43.655977_-70.254592@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220605,
+    "wof:geomhash":"e78c4bb6da0fdf13a910c2569162a6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85882031,
+            "region_id":85688769,
+            "venue_id":857689367
+        }
+    ],
+    "wof:id":857689367,
+    "wof:lastmodified":1472627198,
+    "wof:name":"Fore Street Parking Garage",
+    "wof:parent_id":85882031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -70.254592,
+    43.655977,
+    -70.254592,
+    43.655977
+],
+  "geometry": {"coordinates":[-70.254592,43.655977],"type":"Point"}
+}

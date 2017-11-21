@@ -1,0 +1,72 @@
+{
+  "id": 857705593,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"77 Water St Hallowell ME 04347",
+    "addr:housenumber":"77",
+    "addr:postcode":"04347",
+    "addr:street":"Water St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.789813,44.288084,-69.789813,44.288084",
+    "geom:latitude":44.288084,
+    "geom:longitude":-69.789813,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"77 Water St",
+    "sg:city":"Hallowell",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 623 3480",
+    "sg:postcode":"04347",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6llh8YYbJ9cgYIZva314rr_44.288084_-69.789813@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220925,
+    "wof:geomhash":"50054f37db2570ce9b5da57e8a45b0b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857705593
+        }
+    ],
+    "wof:id":857705593,
+    "wof:lastmodified":1472627251,
+    "wof:name":"Maine Apartment Owners",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.789813,
+    44.288084,
+    -69.789813,
+    44.288084
+],
+  "geometry": {"coordinates":[-69.789813,44.288084],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857707181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15 Shapleigh Rd Kittery ME 03904",
+    "addr:housenumber":"15",
+    "addr:postcode":"03904",
+    "addr:street":"Shapleigh Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.737063,43.091692,-70.737063,43.091692",
+    "geom:latitude":43.091692,
+    "geom:longitude":-70.737063,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"15 Shapleigh Rd",
+    "sg:city":"Kittery",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 439 1966",
+    "sg:postcode":"03904",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828587,
+        102191575,
+        404475793,
+        85633793,
+        85949043,
+        102087449,
+        85688769
+    ],
+    "wof:brand_id":1125149563,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x7Tx2xuKSygPDSTl3PN9U_43.091692_-70.737063@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220953,
+    "wof:geomhash":"43f539f95e7b3e238eac2a9836e31324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475793,
+            "locality_id":85949043,
+            "neighbourhood_id":85828587,
+            "region_id":85688769,
+            "venue_id":857707181
+        }
+    ],
+    "wof:id":857707181,
+    "wof:lastmodified":1510877440,
+    "wof:name":"Brooks Pharmacy",
+    "wof:parent_id":85828587,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.737063,
+    43.091692,
+    -70.737063,
+    43.091692
+],
+  "geometry": {"coordinates":[-70.73706300000001,43.091692],"type":"Point"}
+}

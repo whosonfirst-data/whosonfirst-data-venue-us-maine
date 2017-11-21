@@ -1,0 +1,81 @@
+{
+  "id": 857724589,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"388 Mount Hope Ave Bangor ME 04401",
+    "addr:housenumber":"388",
+    "addr:postcode":"04401",
+    "addr:street":"Mount Hope Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.751011,44.817844,-68.751011,44.817844",
+    "geom:latitude":44.817844,
+    "geom:longitude":-68.751011,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"388 Mount Hope Ave",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 1826",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "taping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PipQWWCBKxuAzn0iVgwLT_44.817844_-68.751011@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221335,
+    "wof:geomhash":"89d3a96542390bdc8c16adb87b0f63ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857724589
+        }
+    ],
+    "wof:id":857724589,
+    "wof:lastmodified":1472627264,
+    "wof:name":"Digital Workshop",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taping"
+    ]
+},
+  "bbox": [
+    -68.751011,
+    44.817844,
+    -68.751011,
+    44.817844
+],
+  "geometry": {"coordinates":[-68.75101100000001,44.817844],"type":"Point"}
+}

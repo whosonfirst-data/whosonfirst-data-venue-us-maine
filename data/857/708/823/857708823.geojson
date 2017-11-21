@@ -1,0 +1,83 @@
+{
+  "id": 857708823,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"19 Page Pl Orono ME 04473",
+    "addr:housenumber":"19",
+    "addr:postcode":"04473",
+    "addr:street":"Page Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.684909,44.873732,-68.684909,44.873732",
+    "geom:latitude":44.873732,
+    "geom:longitude":-68.684909,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Page Pl",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 3710",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "sg:tags":[
+        "consulting",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FJ3jrAHEk7Ar7tmo8A0Yj_44.873732_-68.684909@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220995,
+    "wof:geomhash":"477ac8bd6227a8bab9e9ed2c5a5de72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857708823
+        }
+    ],
+    "wof:id":857708823,
+    "wof:lastmodified":1472627271,
+    "wof:name":"S B K Consulting LLC",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "management"
+    ]
+},
+  "bbox": [
+    -68.684909,
+    44.873732,
+    -68.684909,
+    44.873732
+],
+  "geometry": {"coordinates":[-68.684909,44.873732],"type":"Point"}
+}

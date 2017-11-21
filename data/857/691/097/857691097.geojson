@@ -1,0 +1,72 @@
+{
+  "id": 857691097,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"87 Winthrop St Augusta ME 04330",
+    "addr:housenumber":"87",
+    "addr:postcode":"04330",
+    "addr:street":"Winthrop St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.781742,44.315975,-69.781742,44.315975",
+    "geom:latitude":44.315975,
+    "geom:longitude":-69.781742,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"87 Winthrop St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 622 4688",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jV6CQ5ZM5OnDzLeikJHsF_44.315975_-69.781742@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220643,
+    "wof:geomhash":"024e1dd9686c86fa45d1854d8e9ebc7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857691097
+        }
+    ],
+    "wof:id":857691097,
+    "wof:lastmodified":1472627189,
+    "wof:name":"Maine Space Grant Consortium",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.781742,
+    44.315975,
+    -69.781742,
+    44.315975
+],
+  "geometry": {"coordinates":[-69.78174199999999,44.315975],"type":"Point"}
+}

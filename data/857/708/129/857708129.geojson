@@ -1,0 +1,72 @@
+{
+  "id": 857708129,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"799 Roosevelt Trl Windham ME 04062",
+    "addr:housenumber":"799",
+    "addr:postcode":"04062",
+    "addr:street":"Roosevelt Trl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.449939,43.850368,-70.449939,43.850368",
+    "geom:latitude":43.850368,
+    "geom:longitude":-70.449939,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"799 Roosevelt Trl",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 892 1445",
+    "sg:postcode":"04062",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948999,
+        102087463,
+        85838179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AJIbiKgcXRegsJz809mF6_43.850368_-70.449939@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220976,
+    "wof:geomhash":"4770f49012f657802bf58ccb9b014d22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948999,
+            "neighbourhood_id":85838179,
+            "region_id":85688769,
+            "venue_id":857708129
+        }
+    ],
+    "wof:id":857708129,
+    "wof:lastmodified":1472627228,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85838179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.449939,
+    43.850368,
+    -70.449939,
+    43.850368
+],
+  "geometry": {"coordinates":[-70.449939,43.850368],"type":"Point"}
+}

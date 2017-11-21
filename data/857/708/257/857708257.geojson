@@ -1,0 +1,83 @@
+{
+  "id": 857708257,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"739 Odlin Rd Bangor ME 04401",
+    "addr:housenumber":"739",
+    "addr:postcode":"04401",
+    "addr:street":"Odlin Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.832619,44.780525,-68.832619,44.780525",
+    "geom:latitude":44.780525,
+    "geom:longitude":-68.832619,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"739 Odlin Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 5003",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855195,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06ZluzY08ZZiAt2oYILzuv_44.780525_-68.832619@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220980,
+    "wof:geomhash":"b817ac809624950264178a1985991e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85855195,
+            "region_id":85688769,
+            "venue_id":857708257
+        }
+    ],
+    "wof:id":857708257,
+    "wof:lastmodified":1472627232,
+    "wof:name":"Commercial Refrigeration",
+    "wof:parent_id":85855195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -68.832619,
+    44.780525,
+    -68.832619,
+    44.780525
+],
+  "geometry": {"coordinates":[-68.83261899999999,44.780525],"type":"Point"}
+}

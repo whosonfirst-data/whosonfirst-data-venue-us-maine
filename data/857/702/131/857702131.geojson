@@ -1,0 +1,76 @@
+{
+  "id": 857702131,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"60 Carmichael St Presque Isle ME 04769",
+    "addr:housenumber":"60",
+    "addr:postcode":"04769",
+    "addr:street":"Carmichael St;Isle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.004785,46.693217,-68.004785,46.693217",
+    "geom:latitude":46.693217,
+    "geom:longitude":-68.004785,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"60 Carmichael St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 762 9201",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hahiSDOI03AxyyVAjvFhI_46.693217_-68.004785@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220862,
+    "wof:geomhash":"be9b604c3ff395190ec9b41a58e718a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857702131
+        }
+    ],
+    "wof:id":857702131,
+    "wof:lastmodified":1472627195,
+    "wof:name":"Cavendish Farms",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.004785,
+    46.693217,
+    -68.004785,
+    46.693217
+],
+  "geometry": {"coordinates":[-68.004785,46.693217],"type":"Point"}
+}

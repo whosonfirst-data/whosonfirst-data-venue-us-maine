@@ -1,0 +1,81 @@
+{
+  "id": 857718181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"72 High St Eastport ME 04631",
+    "addr:housenumber":"72",
+    "addr:postcode":"04631",
+    "addr:street":"High St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-66.98977,44.904813,-66.98977,44.904813",
+    "geom:latitude":44.904813,
+    "geom:longitude":-66.98977,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"72 High St",
+    "sg:city":"Eastport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 853 4240",
+    "sg:postcode":"04631",
+    "sg:province":"ME",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849853,
+        102191575,
+        404475775,
+        85633793,
+        85948873,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3knNodWeiM5M7xNniwd8iU_44.904813_-66.989770@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221207,
+    "wof:geomhash":"4b194a6f2b921a2a890705ed7d2f9c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475775,
+            "locality_id":85948873,
+            "neighbourhood_id":85849853,
+            "region_id":85688769,
+            "venue_id":857718181
+        }
+    ],
+    "wof:id":857718181,
+    "wof:lastmodified":1472627253,
+    "wof:name":"Flagg Funeral Home",
+    "wof:parent_id":85849853,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -66.98977,
+    44.904813,
+    -66.98977,
+    44.904813
+],
+  "geometry": {"coordinates":[-66.98976999999999,44.904813],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857698279,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22 Argyle Rd Alton ME 04468",
+    "addr:housenumber":"22",
+    "addr:postcode":"04468",
+    "addr:street":"Argyle Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.733778,45.04539,-68.733778,45.04539",
+    "geom:latitude":45.04539,
+    "geom:longitude":-68.733778,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Argyle Rd",
+    "sg:city":"Alton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 394 2331",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54nUlcuePVha8j5L9ncEQq_45.045390_-68.733778@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220778,
+    "wof:geomhash":"df59c3a6ae269c34aa08c697e24984e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857698279
+        }
+    ],
+    "wof:id":857698279,
+    "wof:lastmodified":1472627208,
+    "wof:name":"Alton Elementary School",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.733778,
+    45.04539,
+    -68.733778,
+    45.04539
+],
+  "geometry": {"coordinates":[-68.733778,45.04539],"type":"Point"}
+}

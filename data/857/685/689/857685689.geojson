@@ -1,0 +1,70 @@
+{
+  "id": 857685689,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14 Sea St Northeast Harbor ME 04662",
+    "addr:housenumber":"14",
+    "addr:postcode":"04662",
+    "addr:street":"Sea St Northeast",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.287223,44.294673,-68.287223,44.294673",
+    "geom:latitude":44.294673,
+    "geom:longitude":-68.287223,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Sea St",
+    "sg:city":"Northeast Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 276 3965",
+    "sg:postcode":"04662",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85803817,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nlcL3Xv7YpeKAST5EAwzo_44.294673_-68.287223@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220534,
+    "wof:geomhash":"8faa706f744f96f29cfd92be2314c396",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85803817,
+            "region_id":85688769,
+            "venue_id":857685689
+        }
+    ],
+    "wof:id":857685689,
+    "wof:lastmodified":1472627203,
+    "wof:name":"Docksider",
+    "wof:parent_id":85803817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.287223,
+    44.294673,
+    -68.287223,
+    44.294673
+],
+  "geometry": {"coordinates":[-68.287223,44.294673],"type":"Point"}
+}

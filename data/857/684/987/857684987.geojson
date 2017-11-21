@@ -1,0 +1,81 @@
+{
+  "id": 857684987,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"875 N Main St Brewer ME 04412",
+    "addr:housenumber":"875",
+    "addr:postcode":"04412",
+    "addr:street":"N Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.730952,44.814393,-68.730952,44.814393",
+    "geom:latitude":44.814393,
+    "geom:longitude":-68.730952,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"875 N Main St",
+    "sg:city":"Brewer",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 989 3370",
+    "sg:postcode":"04412",
+    "sg:province":"ME",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837399,
+        102191575,
+        404475153,
+        85633793,
+        85948897,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qGLyui9iPg5MSXYklehSp_44.814393_-68.730952@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220522,
+    "wof:geomhash":"948a11da32207697a9d5deac14a522ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475153,
+            "locality_id":85948897,
+            "neighbourhood_id":85837399,
+            "region_id":85688769,
+            "venue_id":857684987
+        }
+    ],
+    "wof:id":857684987,
+    "wof:lastmodified":1472627212,
+    "wof:name":"Ebbtide Motel",
+    "wof:parent_id":85837399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -68.730952,
+    44.814393,
+    -68.730952,
+    44.814393
+],
+  "geometry": {"coordinates":[-68.730952,44.814393],"type":"Point"}
+}

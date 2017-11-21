@@ -1,0 +1,64 @@
+{
+  "id": 857729341,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8 Main St Gray ME 04039",
+    "addr:housenumber":"8",
+    "addr:postcode":"04039",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.330293,43.885837,-70.330293,43.885837",
+    "geom:latitude":43.885837,
+    "geom:longitude":-70.330293,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Main St",
+    "sg:city":"Gray",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/gray/215788-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"04039",
+    "sg:province":"ME",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20gLaqyhqbW1LW5xJmpRz1_43.885837_-70.330293@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221421,
+    "wof:geomhash":"870e3c0baf74cc27fce30aacf3c46357",
+    "wof:hierarchy":[],
+    "wof:id":857729341,
+    "wof:lastmodified":1472627300,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.330293,
+    43.885837,
+    -70.330293,
+    43.885837
+],
+  "geometry": {"coordinates":[-70.330293,43.885837],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857726941,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"31 Hunter Rd Freeport ME 04032",
+    "addr:housenumber":"31",
+    "addr:postcode":"04032",
+    "addr:street":"Hunter Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.11896,43.846532,-70.11896,43.846532",
+    "geom:latitude":43.846532,
+    "geom:longitude":-70.11896,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31 Hunter Rd",
+    "sg:city":"Freeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 865 6647",
+    "sg:postcode":"04032",
+    "sg:province":"ME",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948993,
+        102087463,
+        85842863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36r4ClUVXm0DSKnimPfBDU_43.846532_-70.118960@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221377,
+    "wof:geomhash":"9cb8103c75f857b80b0f56a41e227dfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948993,
+            "neighbourhood_id":85842863,
+            "region_id":85688769,
+            "venue_id":857726941
+        }
+    ],
+    "wof:id":857726941,
+    "wof:lastmodified":1472627276,
+    "wof:name":"Pawsibilitis Pet Grooming",
+    "wof:parent_id":85842863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -70.11896,
+    43.846532,
+    -70.11896,
+    43.846532
+],
+  "geometry": {"coordinates":[-70.11896,43.846532],"type":"Point"}
+}

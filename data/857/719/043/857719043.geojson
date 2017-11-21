@@ -1,0 +1,83 @@
+{
+  "id": 857719043,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"244 Center Line Rd Presque Isle ME 04769",
+    "addr:housenumber":"244",
+    "addr:postcode":"04769",
+    "addr:street":"Center Line Rd;Isle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.984987,46.656582,-67.984987,46.656582",
+    "geom:latitude":46.656582,
+    "geom:longitude":-67.984987,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"244 Center Line Rd",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 768 8851",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wS8JuO14EcoX3k2eVYiaK_46.656582_-67.984987@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221227,
+    "wof:geomhash":"846b9e2bc50e14bd188866d1178e2f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857719043
+        }
+    ],
+    "wof:id":857719043,
+    "wof:lastmodified":1472627244,
+    "wof:name":"Hutchings Flooring",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -67.984987,
+    46.656582,
+    -67.984987,
+    46.656582
+],
+  "geometry": {"coordinates":[-67.984987,46.656582],"type":"Point"}
+}

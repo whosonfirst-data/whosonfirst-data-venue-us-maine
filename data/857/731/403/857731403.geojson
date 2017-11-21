@@ -1,0 +1,87 @@
+{
+  "id": 857731403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"814 Main St Presque Isle ME 04769",
+    "addr:housenumber":"814",
+    "addr:postcode":"04769",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.009877,46.701092,-68.009877,46.701092",
+    "geom:latitude":46.701092,
+    "geom:longitude":-68.009877,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "sg:address":"814 Main St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/presque-isle/73768-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 762 8651",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843087,
+        102191575,
+        404475361,
+        85633793,
+        85948903,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "osm:way":186842040,
+        "sg:id":"SG_2N0eh0YIYGjOmowM1VUoXj_46.701092_-68.009877@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221466,
+    "wof:geomhash":"3dc5e716813bfd2803e1d65a2203528a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475361,
+            "locality_id":85948903,
+            "neighbourhood_id":85843087,
+            "region_id":85688769,
+            "venue_id":857731403
+        }
+    ],
+    "wof:id":857731403,
+    "wof:lastmodified":1510942995,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85843087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -68.009877,
+    46.701092,
+    -68.009877,
+    46.701092
+],
+  "geometry": {"coordinates":[-68.009877,46.701092],"type":"Point"}
+}

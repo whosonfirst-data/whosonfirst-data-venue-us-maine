@@ -1,0 +1,78 @@
+{
+  "id": 857729679,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"352 Harbor Rd Wells ME 04090",
+    "addr:housenumber":"352",
+    "addr:postcode":"04090",
+    "addr:street":"Harbor Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.567147,43.3203,-70.567147,43.3203",
+    "geom:latitude":43.3203,
+    "geom:longitude":-70.567147,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"352 Harbor Rd",
+    "sg:city":"Wells",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/wells/236579-lords-harborside-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 646 2651",
+    "sg:postcode":"04090",
+    "sg:province":"ME",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85815165,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hpd79D7uq8Q8dx0DHqXln_43.320300_-70.567147@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221427,
+    "wof:geomhash":"65a6a6ca02658a361755d7e5dea2a89f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85815165,
+            "region_id":85688769,
+            "venue_id":857729679
+        }
+    ],
+    "wof:id":857729679,
+    "wof:lastmodified":1472627310,
+    "wof:name":"Lord's Harborside Restaurant",
+    "wof:parent_id":85815165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.567147,
+    43.3203,
+    -70.567147,
+    43.3203
+],
+  "geometry": {"coordinates":[-70.56714700000001,43.3203],"type":"Point"}
+}

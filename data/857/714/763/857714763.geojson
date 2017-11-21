@@ -1,0 +1,83 @@
+{
+  "id": 857714763,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"392 Main St Saco ME 04072",
+    "addr:housenumber":"392",
+    "addr:postcode":"04072",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.435828,43.508258,-70.435828,43.508258",
+    "geom:latitude":43.508258,
+    "geom:longitude":-70.435828,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"392 Main St",
+    "sg:city":"Saco",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 284 0900",
+    "sg:postcode":"04072",
+    "sg:province":"ME",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819479,
+        102191575,
+        404475883,
+        85633793,
+        85948887,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zxD1oLOQNo5PiyhodK4GZ_43.508258_-70.435828@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221143,
+    "wof:geomhash":"caf756bb85882b96ae899df2ee7f1eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475883,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":857714763
+        }
+    ],
+    "wof:id":857714763,
+    "wof:lastmodified":1472627274,
+    "wof:name":"Monarch Center Of Saco",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -70.435828,
+    43.508258,
+    -70.435828,
+    43.508258
+],
+  "geometry": {"coordinates":[-70.435828,43.508258],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857704133,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"48 Sabattus St Lewiston ME 04240",
+    "addr:housenumber":"48",
+    "addr:postcode":"04240",
+    "addr:street":"Sabattus St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.21243,44.100197,-70.21243,44.100197",
+    "geom:latitude":44.100197,
+    "geom:longitude":-70.21243,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"48 Sabattus St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 784 4571",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "salon",
+        "beauty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Oc6xCUpgFC3i0OdXJj67U_44.100197_-70.212430@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220898,
+    "wof:geomhash":"979d08d962326341427c6df52c6d9609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857704133
+        }
+    ],
+    "wof:id":857704133,
+    "wof:lastmodified":1472627225,
+    "wof:name":"C & C Beauty & Barber Supply",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon",
+        "beauty"
+    ]
+},
+  "bbox": [
+    -70.21243,
+    44.100197,
+    -70.21243,
+    44.100197
+],
+  "geometry": {"coordinates":[-70.21243,44.100197],"type":"Point"}
+}

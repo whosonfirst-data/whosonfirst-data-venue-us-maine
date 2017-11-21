@@ -1,0 +1,75 @@
+{
+  "id": 857726203,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"265 Valley Rd Sumner ME 04292",
+    "addr:housenumber":"265",
+    "addr:postcode":"04292",
+    "addr:street":"Valley Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.409828,44.379505,-70.409828,44.379505",
+    "geom:latitude":44.379505,
+    "geom:longitude":-70.409828,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"265 Valley Rd",
+    "sg:city":"Sumner",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 388 2222",
+    "sg:postcode":"04292",
+    "sg:province":"ME",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85833559,
+        102087437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NXhBV6cDBUh73HXSOvCoz_44.379505_-70.409828@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221365,
+    "wof:geomhash":"b0a8816dff7c0688d61edc6313511790",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087437,
+            "neighbourhood_id":85833559,
+            "region_id":85688769,
+            "venue_id":857726203
+        }
+    ],
+    "wof:id":857726203,
+    "wof:lastmodified":1472627249,
+    "wof:name":"Valley Road Repair",
+    "wof:parent_id":85833559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -70.409828,
+    44.379505,
+    -70.409828,
+    44.379505
+],
+  "geometry": {"coordinates":[-70.409828,44.379505],"type":"Point"}
+}

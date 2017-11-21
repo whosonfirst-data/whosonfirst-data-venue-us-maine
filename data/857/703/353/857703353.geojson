@@ -1,0 +1,78 @@
+{
+  "id": 857703353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"270 West St Rockport ME 04856",
+    "addr:housenumber":"270",
+    "addr:postcode":"04856",
+    "addr:street":"West St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.088396,44.186863,-69.088396,44.186863",
+    "geom:latitude":44.186863,
+    "geom:longitude":-69.088396,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"270 West St",
+    "sg:city":"Rockport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 236 3736",
+    "sg:postcode":"04856",
+    "sg:province":"ME",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.lorraineconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85845529,
+        102087453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LFz6u4orZOFGuis9pBR1o_44.186863_-69.088396@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220884,
+    "wof:geomhash":"e12d98c8c2c4b65b026525940e55219f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087453,
+            "neighbourhood_id":85845529,
+            "region_id":85688769,
+            "venue_id":857703353
+        }
+    ],
+    "wof:id":857703353,
+    "wof:lastmodified":1472627201,
+    "wof:name":"Lorraine Construction",
+    "wof:parent_id":85845529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -69.088396,
+    44.186863,
+    -69.088396,
+    44.186863
+],
+  "geometry": {"coordinates":[-69.088396,44.186863],"type":"Point"}
+}

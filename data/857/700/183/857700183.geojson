@@ -1,0 +1,79 @@
+{
+  "id": 857700183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"146 Brook Rd Dyer Brook ME 04772",
+    "addr:housenumber":"146",
+    "addr:postcode":"04772",
+    "addr:street":"Brook Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.317132,47.246012,-68.317132,47.246012",
+    "geom:latitude":47.246012,
+    "geom:longitude":-68.317132,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"146 Brook Rd",
+    "sg:city":"Dyer Brook",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 757 8700",
+    "sg:postcode":"04772",
+    "sg:province":"ME",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lF6vJx9v3x4d2iGRBCPnn_47.246012_-68.317132@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220816,
+    "wof:geomhash":"703c3e15608e5bf56f6dc8a372017928",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857700183
+        }
+    ],
+    "wof:id":857700183,
+    "wof:lastmodified":1472627202,
+    "wof:name":"Northern Kathadin Valley Waste",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -68.317132,
+    47.246012,
+    -68.317132,
+    47.246012
+],
+  "geometry": {"coordinates":[-68.317132,47.246012],"type":"Point"}
+}

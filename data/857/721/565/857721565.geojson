@@ -1,0 +1,81 @@
+{
+  "id": 857721565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"87 Fort Rd Mars Hill ME 04758",
+    "addr:housenumber":"87",
+    "addr:postcode":"04758",
+    "addr:street":"Fort Rd Mars Hill",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.866296,46.569476,-67.866296,46.569476",
+    "geom:latitude":46.569476,
+    "geom:longitude":-67.866296,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"87 Fort Rd",
+    "sg:city":"Mars Hill",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 429 9285",
+    "sg:postcode":"04758",
+    "sg:province":"ME",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OzcFpg0Lsl7aoEcPYGIn5_46.569476_-67.866296@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221281,
+    "wof:geomhash":"e81a74abc131eba999d8877ebe3f2929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857721565
+        }
+    ],
+    "wof:id":857721565,
+    "wof:lastmodified":1472627273,
+    "wof:name":"Apostolic Pentecostal Church",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -67.866296,
+    46.569476,
+    -67.866296,
+    46.569476
+],
+  "geometry": {"coordinates":[-67.86629600000001,46.569476],"type":"Point"}
+}

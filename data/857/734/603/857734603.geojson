@@ -1,0 +1,77 @@
+{
+  "id": 857734603,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"41 Western Ave Studio 41 Kennebunk ME 04043",
+    "addr:housenumber":"41;41",
+    "addr:postcode":"04043",
+    "addr:street":"Western Ave Studio",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.47955,43.360403,-70.47955,43.360403",
+    "geom:latitude":43.360403,
+    "geom:longitude":-70.47955,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 Western Ave Studio 41",
+    "sg:city":"Kennebunk",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 432 5266",
+    "sg:postcode":"04043",
+    "sg:province":"ME",
+    "sg:tags":[
+        "makeup",
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85812189,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nPftv8zjD92TIhZFQStqG_43.360403_-70.479550@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221532,
+    "wof:geomhash":"e0aeddf90744a7d1834754d5f3bcdeb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85812189,
+            "region_id":85688769,
+            "venue_id":857734603
+        }
+    ],
+    "wof:id":857734603,
+    "wof:lastmodified":1472627313,
+    "wof:name":"Blushing Bride Make-up Artistry",
+    "wof:parent_id":85812189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "makeup",
+        "artist"
+    ]
+},
+  "bbox": [
+    -70.47955,
+    43.360403,
+    -70.47955,
+    43.360403
+],
+  "geometry": {"coordinates":[-70.47955,43.360403],"type":"Point"}
+}

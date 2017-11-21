@@ -1,0 +1,72 @@
+{
+  "id": 857697869,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22 Howland Ln Lagrange ME 04468",
+    "addr:housenumber":"22",
+    "addr:postcode":"04468",
+    "addr:street":"Howland Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.652517,44.93805,-68.652517,44.93805",
+    "geom:latitude":44.93805,
+    "geom:longitude":-68.652517,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Howland Ln",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 943 2196",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49fGUemHf5rUv4rohKEgRL_44.938050_-68.652517@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220771,
+    "wof:geomhash":"c1d2511c75365c318227c34d44e78937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857697869
+        }
+    ],
+    "wof:id":857697869,
+    "wof:lastmodified":1472627216,
+    "wof:name":"LA Grange Primary School",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.652517,
+    44.93805,
+    -68.652517,
+    44.93805
+],
+  "geometry": {"coordinates":[-68.652517,44.93805],"type":"Point"}
+}

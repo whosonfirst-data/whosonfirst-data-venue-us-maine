@@ -1,0 +1,83 @@
+{
+  "id": 857686209,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"473 Elm St Biddeford ME 04005",
+    "addr:housenumber":"473",
+    "addr:postcode":"04005",
+    "addr:street":"Elm St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.476134,43.47788,-70.476134,43.47788",
+    "geom:latitude":43.47788,
+    "geom:longitude":-70.476134,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"473 Elm St",
+    "sg:city":"Biddeford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 283 9353",
+    "sg:postcode":"04005",
+    "sg:province":"ME",
+    "sg:tags":[
+        "party",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819479,
+        102191575,
+        404475883,
+        85633793,
+        85948887,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hNGr3biZNDw2FoL2wLgw6_43.477880_-70.476134@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220543,
+    "wof:geomhash":"71b4067c2fc20b5ad6a85190f4f3c3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475883,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":857686209
+        }
+    ],
+    "wof:id":857686209,
+    "wof:lastmodified":1472627194,
+    "wof:name":"Party Castles",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "supply"
+    ]
+},
+  "bbox": [
+    -70.476134,
+    43.47788,
+    -70.476134,
+    43.47788
+],
+  "geometry": {"coordinates":[-70.476134,43.47788],"type":"Point"}
+}

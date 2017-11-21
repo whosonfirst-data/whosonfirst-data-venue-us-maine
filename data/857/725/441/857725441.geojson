@@ -1,0 +1,84 @@
+{
+  "id": 857725441,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"536 Riverside St Portland ME 04103",
+    "addr:housenumber":"536",
+    "addr:postcode":"04103",
+    "addr:street":"Riverside St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.325409,43.692316,-70.325409,43.692316",
+    "geom:latitude":43.692316,
+    "geom:longitude":-70.325409,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"536 Riverside St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 797 3778",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "sun",
+        "solarium",
+        "rooms"
+    ],
+    "sg:website":"www.wintergreensolariums.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85845077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sqPBG3pd2kVc60uD8lCRc_43.692316_-70.325409@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221351,
+    "wof:geomhash":"3d16b0867a96772b4776acc9e0f176a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85845077,
+            "region_id":85688769,
+            "venue_id":857725441
+        }
+    ],
+    "wof:id":857725441,
+    "wof:lastmodified":1472627257,
+    "wof:name":"Winter Green Solariums Sales",
+    "wof:parent_id":85845077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sun",
+        "solarium",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -70.325409,
+    43.692316,
+    -70.325409,
+    43.692316
+],
+  "geometry": {"coordinates":[-70.32540899999999,43.692316],"type":"Point"}
+}

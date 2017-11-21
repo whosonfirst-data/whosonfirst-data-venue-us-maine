@@ -1,0 +1,83 @@
+{
+  "id": 857719843,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"572 Odlin Rd Bangor ME 04401",
+    "addr:housenumber":"572",
+    "addr:postcode":"04401",
+    "addr:street":"Odlin Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.8223,44.780834,-68.8223,44.780834",
+    "geom:latitude":44.780834,
+    "geom:longitude":-68.8223,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"572 Odlin Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 262 0046",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855195,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SJJDlMrGjsubi44oSHA6F_44.780834_-68.822300@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221247,
+    "wof:geomhash":"06e09be39b0a167813442284c8e4dd09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85855195,
+            "region_id":85688769,
+            "venue_id":857719843
+        }
+    ],
+    "wof:id":857719843,
+    "wof:lastmodified":1472627273,
+    "wof:name":"South Wind Industrial Svc",
+    "wof:parent_id":85855195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.8223,
+    44.780834,
+    -68.8223,
+    44.780834
+],
+  "geometry": {"coordinates":[-68.8223,44.780834],"type":"Point"}
+}

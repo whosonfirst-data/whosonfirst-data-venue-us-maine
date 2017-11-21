@@ -1,0 +1,77 @@
+{
+  "id": 873464467,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"180 Waterman Dr Ste 6 South Portland ME 04106",
+    "addr:housenumber":"180",
+    "addr:postcode":"04106",
+    "addr:street":"Waterman Dr Ste 6",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.256158,43.636323,-70.256158,43.636323",
+    "geom:latitude":43.636323,
+    "geom:longitude":-70.256158,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"180 Waterman Dr Ste 6",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 767 0814",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:website":"www.bangor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828657,
+        102191575,
+        404475439,
+        85633793,
+        85948879,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YnGOnezavu1Q94h3f6d1A_43.636323_-70.256158@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221558,
+    "wof:geomhash":"058c294b26cec5812b806337e3475f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475439,
+            "locality_id":85948879,
+            "neighbourhood_id":85828657,
+            "region_id":85688769,
+            "venue_id":873464467
+        }
+    ],
+    "wof:id":873464467,
+    "wof:lastmodified":1472627184,
+    "wof:name":"Bangor Savings Bank",
+    "wof:parent_id":85828657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.256158,
+    43.636323,
+    -70.256158,
+    43.636323
+],
+  "geometry": {"coordinates":[-70.256158,43.636323],"type":"Point"}
+}

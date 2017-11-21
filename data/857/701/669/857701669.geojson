@@ -1,0 +1,81 @@
+{
+  "id": 857701669,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"259 Main St Fort Fairfield ME 04742",
+    "addr:housenumber":"259",
+    "addr:postcode":"04742",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.829062,46.770885,-67.829062,46.770885",
+    "geom:latitude":46.770885,
+    "geom:longitude":-67.829062,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"259 Main St",
+    "sg:city":"Fort Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 472 5831",
+    "sg:postcode":"04742",
+    "sg:province":"ME",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kZWvGaQYCelwxLHqzY4LZ_46.770885_-67.829062@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220853,
+    "wof:geomhash":"09a5af255ccb1bc1cc7b9d434eb9dd97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857701669
+        }
+    ],
+    "wof:id":857701669,
+    "wof:lastmodified":1472627214,
+    "wof:name":"Goodhue's Jewelry",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [
+    -67.829062,
+    46.770885,
+    -67.829062,
+    46.770885
+],
+  "geometry": {"coordinates":[-67.82906199999999,46.770885],"type":"Point"}
+}

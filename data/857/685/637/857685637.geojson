@@ -1,0 +1,75 @@
+{
+  "id": 857685637,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"70 A A Landing Rd Bangor ME 04401",
+    "addr:housenumber":"70;a",
+    "addr:postcode":"04401",
+    "addr:street":"A;Landing Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.808533,44.896522,-68.808533,44.896522",
+    "geom:latitude":44.896522,
+    "geom:longitude":-68.808533,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"70 A A Landing Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 945 2974",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85848853,
+        102080723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61AOq2YoXFftgaGhXHEQ3w_44.896522_-68.808533@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220533,
+    "wof:geomhash":"e61182ac1b1f9a90635cb12db288a377",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85848853,
+            "region_id":85688769,
+            "venue_id":857685637
+        }
+    ],
+    "wof:id":857685637,
+    "wof:lastmodified":1472627200,
+    "wof:name":"Adunn",
+    "wof:parent_id":85848853,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -68.808533,
+    44.896522,
+    -68.808533,
+    44.896522
+],
+  "geometry": {"coordinates":[-68.808533,44.896522],"type":"Point"}
+}

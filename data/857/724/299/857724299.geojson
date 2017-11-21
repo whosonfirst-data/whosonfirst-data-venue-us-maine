@@ -1,0 +1,77 @@
+{
+  "id": 857724299,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"33 Ripples Rd Mt Desert ME 04660",
+    "addr:housenumber":"33",
+    "addr:postcode":"04660",
+    "addr:street":"Ripples Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.356101,44.347797,-68.356101,44.347797",
+    "geom:latitude":44.347797,
+    "geom:longitude":-68.356101,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Ripples Rd",
+    "sg:city":"Mt Desert",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 244 0206",
+    "sg:postcode":"04660",
+    "sg:province":"ME",
+    "sg:tags":[
+        "designer",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85849305,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LruGzufKKG7Xy2OkLmMZQ_44.347797_-68.356101@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221330,
+    "wof:geomhash":"c0d124da515e051ee0f4b7eab91485ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85849305,
+            "region_id":85688769,
+            "venue_id":857724299
+        }
+    ],
+    "wof:id":857724299,
+    "wof:lastmodified":1472627256,
+    "wof:name":"Burdick & Booher",
+    "wof:parent_id":85849305,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -68.356101,
+    44.347797,
+    -68.356101,
+    44.347797
+],
+  "geometry": {"coordinates":[-68.356101,44.347797],"type":"Point"}
+}

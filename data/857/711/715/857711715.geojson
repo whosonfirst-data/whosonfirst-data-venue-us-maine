@@ -1,0 +1,81 @@
+{
+  "id": 857711715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12 1st St Topsham ME 04086",
+    "addr:housenumber":"12",
+    "addr:postcode":"04086",
+    "addr:street":"1St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.966929,43.935757,-69.966929,43.935757",
+    "geom:latitude":43.935757,
+    "geom:longitude":-69.966929,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 1st St",
+    "sg:city":"Topsham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 721 8500",
+    "sg:postcode":"04086",
+    "sg:province":"ME",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948915,
+        102087455,
+        85809811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CbD9yDMebfh7nSlsXMxQ8_43.935757_-69.966929@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221071,
+    "wof:geomhash":"c4425e83e6f82e7d9462d8a2d154a54b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087455,
+            "locality_id":85948915,
+            "neighbourhood_id":85809811,
+            "region_id":85688769,
+            "venue_id":857711715
+        }
+    ],
+    "wof:id":857711715,
+    "wof:lastmodified":1472627262,
+    "wof:name":"Servpro",
+    "wof:parent_id":85809811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -69.966929,
+    43.935757,
+    -69.966929,
+    43.935757
+],
+  "geometry": {"coordinates":[-69.96692899999999,43.935757],"type":"Point"}
+}

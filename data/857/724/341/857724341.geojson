@@ -1,0 +1,77 @@
+{
+  "id": 857724341,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3 W Main St Brooks ME 04921",
+    "addr:housenumber":"3",
+    "addr:postcode":"04921",
+    "addr:street":"W Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.126999,44.552675,-69.126999,44.552675",
+    "geom:latitude":44.552675,
+    "geom:longitude":-69.126999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 W Main St",
+    "sg:city":"Brooks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 722 3345",
+    "sg:postcode":"04921",
+    "sg:province":"ME",
+    "sg:tags":[
+        "farm",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85828753,
+        102087445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16lfLjpqVBk5NfhUGqAE5i_44.552675_-69.126999@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221330,
+    "wof:geomhash":"69534a07baae96d7f87733c6230638ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087445,
+            "neighbourhood_id":85828753,
+            "region_id":85688769,
+            "venue_id":857724341
+        }
+    ],
+    "wof:id":857724341,
+    "wof:lastmodified":1472627258,
+    "wof:name":"Moeller & Clark Inc",
+    "wof:parent_id":85828753,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -69.126999,
+    44.552675,
+    -69.126999,
+    44.552675
+],
+  "geometry": {"coordinates":[-69.126999,44.552675],"type":"Point"}
+}

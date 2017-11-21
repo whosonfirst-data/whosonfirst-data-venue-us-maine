@@ -1,0 +1,85 @@
+{
+  "id": 857722393,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"72 Portland Street Pier South Portland ME 04106",
+    "addr:housenumber":"72",
+    "addr:postcode":"04106",
+    "addr:street":"Portland Street Pier",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.242188,43.649652,-70.242188,43.649652",
+    "geom:latitude":43.649652,
+    "geom:longitude":-70.242188,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"72 Portland Street Pier",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 775 3366",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.interimhealthcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820201,
+        102191575,
+        404475439,
+        85633793,
+        85948879,
+        102087463,
+        85688769
+    ],
+    "wof:brand_id":1125150571,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S33CsBc3aEVRGoRF6PkCM_43.649652_-70.242188@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221296,
+    "wof:geomhash":"877fd32b5bb926e7107798f94fb55732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475439,
+            "locality_id":85948879,
+            "neighbourhood_id":85820201,
+            "region_id":85688769,
+            "venue_id":857722393
+        }
+    ],
+    "wof:id":857722393,
+    "wof:lastmodified":1510858223,
+    "wof:name":"Interim Healthcare",
+    "wof:parent_id":85820201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -70.242188,
+    43.649652,
+    -70.242188,
+    43.649652
+],
+  "geometry": {"coordinates":[-70.242188,43.649652],"type":"Point"}
+}

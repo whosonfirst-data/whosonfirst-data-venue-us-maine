@@ -1,0 +1,79 @@
+{
+  "id": 857694725,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"155 Court St Auburn ME 04210",
+    "addr:housenumber":"155",
+    "addr:postcode":"04210",
+    "addr:street":"Court St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.228268,44.097739,-70.228268,44.097739",
+    "geom:latitude":44.097739,
+    "geom:longitude":-70.228268,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"155 Court St",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 782 5162",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:brand_id":1125160053,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GpHIzJ8Z4swEGlO9Wx5ia_44.097739_-70.228268@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220712,
+    "wof:geomhash":"94f300759f48b55837c82d053aa6c4cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857694725
+        }
+    ],
+    "wof:id":857694725,
+    "wof:lastmodified":1510877389,
+    "wof:name":"Xtra Mart",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.228268,
+    44.097739,
+    -70.228268,
+    44.097739
+],
+  "geometry": {"coordinates":[-70.228268,44.097739],"type":"Point"}
+}

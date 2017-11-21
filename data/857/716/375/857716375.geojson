@@ -1,0 +1,81 @@
+{
+  "id": 857716375,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"570 N Main St Brewer ME 04412",
+    "addr:housenumber":"570",
+    "addr:postcode":"04412",
+    "addr:street":"N Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.742654,44.805297,-68.742654,44.805297",
+    "geom:latitude":44.805297,
+    "geom:longitude":-68.742654,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"570 N Main St",
+    "sg:city":"Brewer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 989 4709",
+    "sg:postcode":"04412",
+    "sg:province":"ME",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837399,
+        102191575,
+        404475153,
+        85633793,
+        85948897,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NfziVi93OgkcqJSTfDPw1_44.805297_-68.742654@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221172,
+    "wof:geomhash":"b154f1ced541161440d3234253d70721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475153,
+            "locality_id":85948897,
+            "neighbourhood_id":85837399,
+            "region_id":85688769,
+            "venue_id":857716375
+        }
+    ],
+    "wof:id":857716375,
+    "wof:lastmodified":1472627254,
+    "wof:name":"Penobscot Conservation Assoc",
+    "wof:parent_id":85837399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -68.742654,
+    44.805297,
+    -68.742654,
+    44.805297
+],
+  "geometry": {"coordinates":[-68.742654,44.805297],"type":"Point"}
+}

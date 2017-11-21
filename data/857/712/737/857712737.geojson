@@ -1,0 +1,83 @@
+{
+  "id": 857712737,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"178 Middle St Portland ME 04101",
+    "addr:housenumber":"178",
+    "addr:postcode":"04101",
+    "addr:street":"Middle St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.255074,43.657562,-70.255074,43.657562",
+    "geom:latitude":43.657562,
+    "geom:longitude":-70.255074,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"178 Middle St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 7532",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85882031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y7T4enyTVahiiovwfzI30_43.657562_-70.255074@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221104,
+    "wof:geomhash":"2be15e2142ac2ff056008282829fc647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85882031,
+            "region_id":85688769,
+            "venue_id":857712737
+        }
+    ],
+    "wof:id":857712737,
+    "wof:lastmodified":1472627266,
+    "wof:name":"Gregory Byrer",
+    "wof:parent_id":85882031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -70.255074,
+    43.657562,
+    -70.255074,
+    43.657562
+],
+  "geometry": {"coordinates":[-70.25507399999999,43.657562],"type":"Point"}
+}

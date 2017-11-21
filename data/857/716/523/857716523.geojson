@@ -1,0 +1,77 @@
+{
+  "id": 857716523,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"625 Bridgton Rd Westbrook ME 04092",
+    "addr:housenumber":"625",
+    "addr:postcode":"04092",
+    "addr:street":"Bridgton Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.338458,43.720787,-70.338458,43.720787",
+    "geom:latitude":43.720787,
+    "geom:longitude":-70.338458,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"625 Bridgton Rd",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 797 8585",
+    "sg:postcode":"04092",
+    "sg:province":"ME",
+    "sg:website":"www.tfre.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843131,
+        102191575,
+        404474917,
+        85633793,
+        85948881,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QGf4KOPDhIRZagcCXDKYH_43.720787_-70.338458@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221174,
+    "wof:geomhash":"2b9b91d5a44e18a4f5dc57b8da29fb6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404474917,
+            "locality_id":85948881,
+            "neighbourhood_id":85843131,
+            "region_id":85688769,
+            "venue_id":857716523
+        }
+    ],
+    "wof:id":857716523,
+    "wof:lastmodified":1472627261,
+    "wof:name":"Tim Flaherty Real Estate",
+    "wof:parent_id":85843131,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.338458,
+    43.720787,
+    -70.338458,
+    43.720787
+],
+  "geometry": {"coordinates":[-70.338458,43.720787],"type":"Point"}
+}

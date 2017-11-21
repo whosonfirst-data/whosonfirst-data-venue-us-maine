@@ -1,0 +1,79 @@
+{
+  "id": 857724289,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"229 Congress St Portland ME 04101",
+    "addr:housenumber":"229",
+    "addr:postcode":"04101",
+    "addr:street":"Congress St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.251294,43.663253,-70.251294,43.663253",
+    "geom:latitude":43.663253,
+    "geom:longitude":-70.251294,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"229 Congress St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 780 1345",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85835993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58CauUn3kc3oqlFYk3xMg0_43.663253_-70.251294@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221329,
+    "wof:geomhash":"b2339dbd842408f1bc99d2acce4eaf83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85835993,
+            "region_id":85688769,
+            "venue_id":857724289
+        }
+    ],
+    "wof:id":857724289,
+    "wof:lastmodified":1472627256,
+    "wof:name":"Portland Fiber Gallery & Wvng",
+    "wof:parent_id":85835993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    -70.251294,
+    43.663253,
+    -70.251294,
+    43.663253
+],
+  "geometry": {"coordinates":[-70.251294,43.663253],"type":"Point"}
+}

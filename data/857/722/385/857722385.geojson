@@ -1,0 +1,75 @@
+{
+  "id": 857722385,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"274 Saint John St Portland ME 04102",
+    "addr:housenumber":"274",
+    "addr:postcode":"04102",
+    "addr:street":"Saint John St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.27965,43.653365,-70.27965,43.653365",
+    "geom:latitude":43.653365,
+    "geom:longitude":-70.27965,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"274 Saint John St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 773 5604",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:website":"www.mainehardware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85880029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DObAJtFhTfiZUcVbQKHgd_43.653365_-70.279650@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221295,
+    "wof:geomhash":"0c1ebcf12d6105e56411375684a87979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880029,
+            "region_id":85688769,
+            "venue_id":857722385
+        }
+    ],
+    "wof:id":857722385,
+    "wof:lastmodified":1472627264,
+    "wof:name":"Ace Hardware",
+    "wof:parent_id":85880029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.27965,
+    43.653365,
+    -70.27965,
+    43.653365
+],
+  "geometry": {"coordinates":[-70.27965,43.653365],"type":"Point"}
+}

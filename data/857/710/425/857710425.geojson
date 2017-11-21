@@ -1,0 +1,81 @@
+{
+  "id": 857710425,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7 Hickory Ln Eliot ME 03903",
+    "addr:housenumber":"7",
+    "addr:postcode":"03903",
+    "addr:street":"Hickory Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.772767,43.111235,-70.772767,43.111235",
+    "geom:latitude":43.111235,
+    "geom:longitude":-70.772767,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Hickory Ln",
+    "sg:city":"Eliot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 439 3636",
+    "sg:postcode":"03903",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849617,
+        102191575,
+        404475891,
+        85633793,
+        85949057,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WGbG9e0ALZwtW3JS2tcSB_43.111235_-70.772767@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221039,
+    "wof:geomhash":"f27212da933830f4231534439ec7aaac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475891,
+            "locality_id":85949057,
+            "neighbourhood_id":85849617,
+            "region_id":85688769,
+            "venue_id":857710425
+        }
+    ],
+    "wof:id":857710425,
+    "wof:lastmodified":1472627236,
+    "wof:name":"David C Cooley Construction",
+    "wof:parent_id":85849617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.772767,
+    43.111235,
+    -70.772767,
+    43.111235
+],
+  "geometry": {"coordinates":[-70.772767,43.111235],"type":"Point"}
+}

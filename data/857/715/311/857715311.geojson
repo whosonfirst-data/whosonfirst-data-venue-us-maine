@@ -1,0 +1,75 @@
+{
+  "id": 857715311,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5 S Causeway Ln Southwest Harbor ME 04679",
+    "addr:housenumber":"5",
+    "addr:postcode":"04679",
+    "addr:street":"S Causeway Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.321181,44.279427,-68.321181,44.279427",
+    "geom:latitude":44.279427,
+    "geom:longitude":-68.321181,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 S Causeway Ln",
+    "sg:city":"Southwest Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 244 5321",
+    "sg:postcode":"04679",
+    "sg:province":"ME",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85832161,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52WWvXZ8paZO8B8JVmGY3L_44.279427_-68.321181@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221154,
+    "wof:geomhash":"3f2d8c75799da95fb31022e3c7c29236",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85832161,
+            "region_id":85688769,
+            "venue_id":857715311
+        }
+    ],
+    "wof:id":857715311,
+    "wof:lastmodified":1472627247,
+    "wof:name":"Causeway Club",
+    "wof:parent_id":85832161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -68.321181,
+    44.279427,
+    -68.321181,
+    44.279427
+],
+  "geometry": {"coordinates":[-68.321181,44.279427],"type":"Point"}
+}

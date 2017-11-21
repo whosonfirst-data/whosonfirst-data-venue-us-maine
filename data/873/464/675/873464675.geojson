@@ -1,0 +1,72 @@
+{
+  "id": 873464675,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"101 Ocean St South Portland ME 04106",
+    "addr:housenumber":"101",
+    "addr:postcode":"04106",
+    "addr:street":"Ocean St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.253098,43.638802,-70.253098,43.638802",
+    "geom:latitude":43.638802,
+    "geom:longitude":-70.253098,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 Ocean St",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 799 3374",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948879,
+        102087463,
+        85867973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gqbZ0wsfMLhfWtrxMyf79_43.638802_-70.253098@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221562,
+    "wof:geomhash":"cc98896406218abeead1572374ef839f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948879,
+            "neighbourhood_id":85867973,
+            "region_id":85688769,
+            "venue_id":873464675
+        }
+    ],
+    "wof:id":873464675,
+    "wof:lastmodified":1472627184,
+    "wof:name":"Smaha's Legion Sq Mkt",
+    "wof:parent_id":85867973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.253098,
+    43.638802,
+    -70.253098,
+    43.638802
+],
+  "geometry": {"coordinates":[-70.25309799999999,43.638802],"type":"Point"}
+}

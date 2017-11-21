@@ -1,0 +1,82 @@
+{
+  "id": 857688665,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"187 Mighty St Gorham ME 04038",
+    "addr:housenumber":"187",
+    "addr:postcode":"04038",
+    "addr:street":"Mighty St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.489691,43.733818,-70.489691,43.733818",
+    "geom:latitude":43.733818,
+    "geom:longitude":-70.489691,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"187 Mighty St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 655 6004",
+    "sg:postcode":"04038",
+    "sg:province":"ME",
+    "sg:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ],
+    "sg:website":"www.northerntestboring.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948997,
+        102087463,
+        85836805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ms26eDz5V8Dd84WCNRmb9_43.733818_-70.489691@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220593,
+    "wof:geomhash":"826cc96e6fac7cd2df77d88d4c49baa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948997,
+            "neighbourhood_id":85836805,
+            "region_id":85688769,
+            "venue_id":857688665
+        }
+    ],
+    "wof:id":857688665,
+    "wof:lastmodified":1472627203,
+    "wof:name":"Northern Test Boring Inc",
+    "wof:parent_id":85836805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.489691,
+    43.733818,
+    -70.489691,
+    43.733818
+],
+  "geometry": {"coordinates":[-70.48969099999999,43.733818],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857722751,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8 Holbrook St Freeport ME 04032",
+    "addr:housenumber":"8",
+    "addr:postcode":"04032",
+    "addr:street":"Holbrook St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.110596,43.857707,-70.110596,43.857707",
+    "geom:latitude":43.857707,
+    "geom:longitude":-70.110596,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "sg:address":"8 Holbrook St",
+    "sg:city":"Freeport",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 865 9705",
+    "sg:postcode":"04032",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948993,
+        102087463,
+        85842863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "osm:node":2699359975,
+        "sg:id":"SG_2Aq9dBiVgiVSGtjh2P5Sww_43.857707_-70.110596@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221302,
+    "wof:geomhash":"b5b5077ac873d89ac8675ef5047903a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948993,
+            "neighbourhood_id":85842863,
+            "region_id":85688769,
+            "venue_id":857722751
+        }
+    ],
+    "wof:id":857722751,
+    "wof:lastmodified":1510943330,
+    "wof:name":"Applewood Inn",
+    "wof:parent_id":85842863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.110596,
+    43.857707,
+    -70.110596,
+    43.857707
+],
+  "geometry": {"coordinates":[-70.110596,43.857707],"type":"Point"}
+}

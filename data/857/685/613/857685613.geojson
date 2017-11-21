@@ -1,0 +1,82 @@
+{
+  "id": 857685613,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1185 Hammond St Bangor ME 04401",
+    "addr:housenumber":"1185",
+    "addr:postcode":"04401",
+    "addr:street":"Hammond St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.822054,44.789783,-68.822054,44.789783",
+    "geom:latitude":44.789783,
+    "geom:longitude":-68.822054,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1185 Hammond St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 974 2070",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.rotech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855195,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O5rBW9vwJ6jvsu53MlaCe_44.789783_-68.822054@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220532,
+    "wof:geomhash":"a549594f80072310fa1ca38d8b12ef10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85855195,
+            "region_id":85688769,
+            "venue_id":857685613
+        }
+    ],
+    "wof:id":857685613,
+    "wof:lastmodified":1472627200,
+    "wof:name":"Acadia Home Care",
+    "wof:parent_id":85855195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -68.822054,
+    44.789783,
+    -68.822054,
+    44.789783
+],
+  "geometry": {"coordinates":[-68.82205399999999,44.789783],"type":"Point"}
+}

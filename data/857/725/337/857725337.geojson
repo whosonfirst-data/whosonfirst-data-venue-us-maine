@@ -1,0 +1,78 @@
+{
+  "id": 857725337,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"555 Lisbon St Lisbon Falls ME 04252",
+    "addr:housenumber":"555",
+    "addr:postcode":"04252",
+    "addr:street":"Lisbon St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.084627,44.010323,-70.084627,44.010323",
+    "geom:latitude":44.010323,
+    "geom:longitude":-70.084627,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"555 Lisbon St",
+    "sg:city":"Lisbon Falls",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 353 8518",
+    "sg:postcode":"04252",
+    "sg:province":"ME",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.lisbonfallsbaptist.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949027,
+        102087457,
+        85806367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hnUHzhBD5XjliqmHH5EPu_44.010323_-70.084627@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221349,
+    "wof:geomhash":"adca283a2bc952aa001eaffbf1861d61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087457,
+            "locality_id":85949027,
+            "neighbourhood_id":85806367,
+            "region_id":85688769,
+            "venue_id":857725337
+        }
+    ],
+    "wof:id":857725337,
+    "wof:lastmodified":1472627257,
+    "wof:name":"Lisbon Falls Baptist Church",
+    "wof:parent_id":85806367,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -70.084627,
+    44.010323,
+    -70.084627,
+    44.010323
+],
+  "geometry": {"coordinates":[-70.084627,44.010323],"type":"Point"}
+}

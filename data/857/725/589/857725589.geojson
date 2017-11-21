@@ -1,0 +1,75 @@
+{
+  "id": 857725589,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2145 Post Rd Wells ME 04090",
+    "addr:housenumber":"2145",
+    "addr:postcode":"04090",
+    "addr:street":"Post Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.564778,43.340581,-70.564778,43.340581",
+    "geom:latitude":43.340581,
+    "geom:longitude":-70.564778,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2145 Post Rd",
+    "sg:city":"Wells",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 646 1068",
+    "sg:postcode":"04090",
+    "sg:province":"ME",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85815165,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ilI463BGeOLPyMC9FrL3r_43.340581_-70.564778@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221354,
+    "wof:geomhash":"4375e92e7b53b311cd3bb7f024e2103c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85815165,
+            "region_id":85688769,
+            "venue_id":857725589
+        }
+    ],
+    "wof:id":857725589,
+    "wof:lastmodified":1472627262,
+    "wof:name":"Mc Garry & Holmes",
+    "wof:parent_id":85815165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -70.564778,
+    43.340581,
+    -70.564778,
+    43.340581
+],
+  "geometry": {"coordinates":[-70.564778,43.340581],"type":"Point"}
+}

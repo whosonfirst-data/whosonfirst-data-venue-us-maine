@@ -1,0 +1,82 @@
+{
+  "id": 857731711,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"200 E Main St Searsport ME 04974",
+    "addr:housenumber":"200",
+    "addr:postcode":"04974",
+    "addr:street":"E Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.915938,44.457954,-68.915938,44.457954",
+    "geom:latitude":44.457954,
+    "geom:longitude":-68.915938,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"200 E Main St",
+    "sg:city":"Searsport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/searsport/236747-rhumb-line/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 548 2600",
+    "sg:postcode":"04974",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85824361,
+        102191575,
+        404474809,
+        85633793,
+        85948905,
+        102087445,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JYINSlFb3Pvxh7EFqzS4p_44.457954_-68.915938@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221477,
+    "wof:geomhash":"4e1dc0a11e83b11554275c79b705bfcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087445,
+            "localadmin_id":404474809,
+            "locality_id":85948905,
+            "neighbourhood_id":85824361,
+            "region_id":85688769,
+            "venue_id":857731711
+        }
+    ],
+    "wof:id":857731711,
+    "wof:lastmodified":1472627317,
+    "wof:name":"Rhumb Line",
+    "wof:parent_id":85824361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -68.915938,
+    44.457954,
+    -68.915938,
+    44.457954
+],
+  "geometry": {"coordinates":[-68.915938,44.457954],"type":"Point"}
+}

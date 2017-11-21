@@ -1,0 +1,84 @@
+{
+  "id": 857724865,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"642 Main St Presque Isle ME 04769",
+    "addr:housenumber":"642",
+    "addr:postcode":"04769",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.013172,46.68709,-68.013172,46.68709",
+    "geom:latitude":46.68709,
+    "geom:longitude":-68.013172,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"642 Main St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 554 2100",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "sg:website":"www.stateofmaine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KdLln5Uwk6M5ZCAiGpQAT_46.687090_-68.013172@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221340,
+    "wof:geomhash":"403af92a1415c7cc54cc0446d8f78eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857724865
+        }
+    ],
+    "wof:id":857724865,
+    "wof:lastmodified":1472627278,
+    "wof:name":"Dept Of Health & Human Svc",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -68.013172,
+    46.68709,
+    -68.013172,
+    46.68709
+],
+  "geometry": {"coordinates":[-68.013172,46.68709],"type":"Point"}
+}

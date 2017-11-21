@@ -1,0 +1,80 @@
+{
+  "id": 857731121,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"255 Main St Old Town ME 04468",
+    "addr:housenumber":"255",
+    "addr:postcode":"04468",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.644473,44.930592,-68.644473,44.930592",
+    "geom:latitude":44.930592,
+    "geom:longitude":-68.644473,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"255 Main St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/old-town/119836-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 5030",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lHn082JBS5Pjvs6ibCDt2_44.930592_-68.644473@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221458,
+    "wof:geomhash":"7d3993cd50c6ceb7e9a734a7a87a8b55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857731121
+        }
+    ],
+    "wof:id":857731121,
+    "wof:lastmodified":1472627299,
+    "wof:name":"Subway",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -68.644473,
+    44.930592,
+    -68.644473,
+    44.930592
+],
+  "geometry": {"coordinates":[-68.644473,44.930592],"type":"Point"}
+}

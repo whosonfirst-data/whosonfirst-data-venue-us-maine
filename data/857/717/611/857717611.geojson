@@ -1,0 +1,77 @@
+{
+  "id": 857717611,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"21 Somerset Ave Pittsfield ME 04967",
+    "addr:housenumber":"21",
+    "addr:postcode":"04967",
+    "addr:street":"Somerset Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.385324,44.785002,-69.385324,44.785002",
+    "geom:latitude":44.785002,
+    "geom:longitude":-69.385324,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Somerset Ave",
+    "sg:city":"Pittsfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 487 3121",
+    "sg:postcode":"04967",
+    "sg:province":"ME",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949081,
+        102087435,
+        85854823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iMw8LxeY8Qe1EdYH3U1ot_44.785002_-69.385324@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221197,
+    "wof:geomhash":"c9c31571bbefc4b0cd3c28d7a2c77cbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087435,
+            "locality_id":85949081,
+            "neighbourhood_id":85854823,
+            "region_id":85688769,
+            "venue_id":857717611
+        }
+    ],
+    "wof:id":857717611,
+    "wof:lastmodified":1472627259,
+    "wof:name":"Alfred P Bachrach",
+    "wof:parent_id":85854823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -69.385324,
+    44.785002,
+    -69.385324,
+    44.785002
+],
+  "geometry": {"coordinates":[-69.385324,44.785002],"type":"Point"}
+}

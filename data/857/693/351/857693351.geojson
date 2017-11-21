@@ -1,0 +1,81 @@
+{
+  "id": 857693351,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"28 Main St Belfast ME 04915",
+    "addr:housenumber":"28",
+    "addr:postcode":"04915",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.0059,44.427003,-69.0059,44.427003",
+    "geom:latitude":44.427003,
+    "geom:longitude":-69.0059,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"28 Main St",
+    "sg:city":"Belfast",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 548 6777",
+    "sg:postcode":"04915",
+    "sg:province":"ME",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85824361,
+        102191575,
+        404474809,
+        85633793,
+        85948905,
+        102087445,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RFLT7BQxEk9Ykn0Ir8E9G_44.427003_-69.005900@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220687,
+    "wof:geomhash":"15e71ec496231effb50758eff56b518c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087445,
+            "localadmin_id":404474809,
+            "locality_id":85948905,
+            "neighbourhood_id":85824361,
+            "region_id":85688769,
+            "venue_id":857693351
+        }
+    ],
+    "wof:id":857693351,
+    "wof:lastmodified":1472627205,
+    "wof:name":"Camp Cottage & Castle Antiques",
+    "wof:parent_id":85824361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -69.0059,
+    44.427003,
+    -69.0059,
+    44.427003
+],
+  "geometry": {"coordinates":[-69.0059,44.427003],"type":"Point"}
+}

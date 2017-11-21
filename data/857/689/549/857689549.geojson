@@ -1,0 +1,85 @@
+{
+  "id": 857689549,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"700 Mount Hope Ave Bangor ME 04401",
+    "addr:housenumber":"700",
+    "addr:postcode":"04401",
+    "addr:street":"Mount Hope Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.739125,44.822466,-68.739125,44.822466",
+    "geom:latitude":44.822466,
+    "geom:longitude":-68.739125,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"700 Mount Hope Ave",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 992 7070",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05F5cVjZfTFIfbRgkL3Q2Y_44.822466_-68.739125@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220609,
+    "wof:geomhash":"448fac6433884273cc8dd090c9e116d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857689549
+        }
+    ],
+    "wof:id":857689549,
+    "wof:lastmodified":1472627207,
+    "wof:name":"Elizabeth Lander",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -68.739125,
+    44.822466,
+    -68.739125,
+    44.822466
+],
+  "geometry": {"coordinates":[-68.739125,44.822466],"type":"Point"}
+}

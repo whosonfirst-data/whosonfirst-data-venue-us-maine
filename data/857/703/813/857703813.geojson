@@ -1,0 +1,75 @@
+{
+  "id": 857703813,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"45 Main St South Paris ME 04281",
+    "addr:housenumber":"45",
+    "addr:postcode":"04281",
+    "addr:street":"Main St South",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.515574,44.222058,-70.515574,44.222058",
+    "geom:latitude":44.222058,
+    "geom:longitude":-70.515574,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Main St",
+    "sg:city":"South Paris",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 743 8402",
+    "sg:postcode":"04281",
+    "sg:province":"ME",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85868781,
+        102087437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6osSv4kjJXD4yseUwZg1to_44.222058_-70.515574@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220891,
+    "wof:geomhash":"173e5ced9ed2baa5792f7c2ee1329957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087437,
+            "neighbourhood_id":85868781,
+            "region_id":85688769,
+            "venue_id":857703813
+        }
+    ],
+    "wof:id":857703813,
+    "wof:lastmodified":1472627218,
+    "wof:name":"Weston-Chandler Funerl Home",
+    "wof:parent_id":85868781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -70.515574,
+    44.222058,
+    -70.515574,
+    44.222058
+],
+  "geometry": {"coordinates":[-70.515574,44.222058],"type":"Point"}
+}

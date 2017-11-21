@@ -1,0 +1,77 @@
+{
+  "id": 857701187,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"701 Hogan Rd Bangor ME 04401",
+    "addr:housenumber":"701",
+    "addr:postcode":"04401",
+    "addr:street":"Hogan Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.743193,44.839384,-68.743193,44.839384",
+    "geom:latitude":44.839384,
+    "geom:longitude":-68.743193,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"701 Hogan Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 0355",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:website":"www.bangormotorinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4baJRagEBTPUZXczmfd0tj_44.839384_-68.743193@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220839,
+    "wof:geomhash":"72aa77f4419c030b75c61a5c0f0ecb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857701187
+        }
+    ],
+    "wof:id":857701187,
+    "wof:lastmodified":1472627201,
+    "wof:name":"Bangor Motor Inn",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.743193,
+    44.839384,
+    -68.743193,
+    44.839384
+],
+  "geometry": {"coordinates":[-68.74319300000001,44.839384],"type":"Point"}
+}

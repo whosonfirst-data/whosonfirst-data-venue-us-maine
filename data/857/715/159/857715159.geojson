@@ -1,0 +1,75 @@
+{
+  "id": 857715159,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1140 Shore Rd Ellsworth ME 04605",
+    "addr:housenumber":"1140",
+    "addr:postcode":"04605",
+    "addr:street":"Shore Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.349464,44.470891,-68.349464,44.470891",
+    "geom:latitude":44.470891,
+    "geom:longitude":-68.349464,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1140 Shore Rd",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 5131",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85868805,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l3inu9aLhWtX6ekmNIsyY_44.470891_-68.349464@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221150,
+    "wof:geomhash":"5962e5ce73c63799b0782585cf9207e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85868805,
+            "region_id":85688769,
+            "venue_id":857715159
+        }
+    ],
+    "wof:id":857715159,
+    "wof:lastmodified":1472627243,
+    "wof:name":"Pure Fries LLC",
+    "wof:parent_id":85868805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -68.349464,
+    44.470891,
+    -68.349464,
+    44.470891
+],
+  "geometry": {"coordinates":[-68.349464,44.470891],"type":"Point"}
+}

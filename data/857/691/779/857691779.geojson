@@ -1,0 +1,75 @@
+{
+  "id": 857691779,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"20 Bow St Freeport ME 04032",
+    "addr:housenumber":"20",
+    "addr:postcode":"04032",
+    "addr:street":"Bow St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.100709,43.856284,-70.100709,43.856284",
+    "geom:latitude":43.856284,
+    "geom:longitude":-70.100709,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"20 Bow St",
+    "sg:city":"Freeport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 865 1720",
+    "sg:postcode":"04032",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948993,
+        102087463,
+        85842863
+    ],
+    "wof:brand_id":1125153641,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FRQhqrBBcnULGR5Qw13vt_43.856284_-70.100709@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220658,
+    "wof:geomhash":"017d25e03ef034a8023f102749d6a987",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948993,
+            "neighbourhood_id":85842863,
+            "region_id":85688769,
+            "venue_id":857691779
+        }
+    ],
+    "wof:id":857691779,
+    "wof:lastmodified":1510694641,
+    "wof:name":"Samsonite",
+    "wof:parent_id":85842863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.100709,
+    43.856284,
+    -70.100709,
+    43.856284
+],
+  "geometry": {"coordinates":[-70.10070899999999,43.856284],"type":"Point"}
+}

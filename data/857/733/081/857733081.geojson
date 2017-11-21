@@ -1,0 +1,73 @@
+{
+  "id": 857733081,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1070 US Route 1 York ME 03909",
+    "addr:housenumber":"1070",
+    "addr:postcode":"03909",
+    "addr:street":"Us Route 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.628085,43.180185,-70.628085,43.180185",
+    "geom:latitude":43.180185,
+    "geom:longitude":-70.628085,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"1070 US Route 1",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 363 8880",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85859377,
+        102087449
+    ],
+    "wof:brand_id":1125151251,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LL7DhNoextkePVAryDidF_43.180185_-70.628085@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221503,
+    "wof:geomhash":"50a0e803a6e5afed0a3b6e286ae90988",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85859377,
+            "region_id":85688769,
+            "venue_id":857733081
+        }
+    ],
+    "wof:id":857733081,
+    "wof:lastmodified":1510857838,
+    "wof:name":"Best Nails",
+    "wof:parent_id":85859377,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.628085,
+    43.180185,
+    -70.628085,
+    43.180185
+],
+  "geometry": {"coordinates":[-70.628085,43.180185],"type":"Point"}
+}

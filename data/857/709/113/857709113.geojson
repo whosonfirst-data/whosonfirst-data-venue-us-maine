@@ -1,0 +1,75 @@
+{
+  "id": 857709113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5 Neighborhood Rd Northeast Harbor ME 04662",
+    "addr:housenumber":"5",
+    "addr:postcode":"04662",
+    "addr:street":"Neighborhood Rd Northeast",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.290299,44.291829,-68.290299,44.291829",
+    "geom:latitude":44.291829,
+    "geom:longitude":-68.290299,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Neighborhood Rd",
+    "sg:city":"Northeast Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 276 3644",
+    "sg:postcode":"04662",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85803817,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mglv1MThMALwr2FbdfmNC_44.291829_-68.290299@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221005,
+    "wof:geomhash":"2e68ea49de22b3b3aec676fcce41e65c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85803817,
+            "region_id":85688769,
+            "venue_id":857709113
+        }
+    ],
+    "wof:id":857709113,
+    "wof:lastmodified":1472627231,
+    "wof:name":"C E Bucklin & Sons Inc",
+    "wof:parent_id":85803817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.290299,
+    44.291829,
+    -68.290299,
+    44.291829
+],
+  "geometry": {"coordinates":[-68.290299,44.291829],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857697241,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"55 Brimmer St Brewer ME 04412",
+    "addr:housenumber":"55",
+    "addr:postcode":"04412",
+    "addr:street":"Brimmer St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.763822,44.792166,-68.763822,44.792166",
+    "geom:latitude":44.792166,
+    "geom:longitude":-68.763822,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Brimmer St",
+    "sg:city":"Brewer",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 989 2400",
+    "sg:postcode":"04412",
+    "sg:province":"ME",
+    "sg:tags":[
+        "garbage",
+        "system",
+        "collection",
+        "trucking",
+        "operator",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R6lfFeI6EYStUWL1pg57J_44.792166_-68.763822@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220760,
+    "wof:geomhash":"744630f672e72126bb8de3a90e94eceb",
+    "wof:hierarchy":[],
+    "wof:id":857697241,
+    "wof:lastmodified":1472627200,
+    "wof:name":"Bob's Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "system",
+        "collection",
+        "trucking",
+        "operator",
+        "local"
+    ]
+},
+  "bbox": [
+    -68.763822,
+    44.792166,
+    -68.763822,
+    44.792166
+],
+  "geometry": {"coordinates":[-68.763822,44.792166],"type":"Point"}
+}

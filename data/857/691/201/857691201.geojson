@@ -1,0 +1,77 @@
+{
+  "id": 857691201,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"336 Quaker Ridge Rd Casco ME 04015",
+    "addr:housenumber":"336",
+    "addr:postcode":"04015",
+    "addr:street":"Quaker Ridge Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.530846,43.965656,-70.530846,43.965656",
+    "geom:latitude":43.965656,
+    "geom:longitude":-70.530846,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"336 Quaker Ridge Rd",
+    "sg:city":"Casco",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 627 4750",
+    "sg:postcode":"04015",
+    "sg:province":"ME",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85841571,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S6FOblDThJAINoJjJIa4M_43.965656_-70.530846@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220645,
+    "wof:geomhash":"62ba5062c92071508d6446b15cf99b2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85841571,
+            "region_id":85688769,
+            "venue_id":857691201
+        }
+    ],
+    "wof:id":857691201,
+    "wof:lastmodified":1472627189,
+    "wof:name":"Under Lock & Key",
+    "wof:parent_id":85841571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -70.530846,
+    43.965656,
+    -70.530846,
+    43.965656
+],
+  "geometry": {"coordinates":[-70.530846,43.965656],"type":"Point"}
+}

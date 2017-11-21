@@ -1,0 +1,77 @@
+{
+  "id": 857700453,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"45 Water St Blue Hill ME 04654",
+    "addr:housenumber":"45",
+    "addr:postcode":"04654",
+    "addr:street":"Water St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.463865,44.711632,-67.463865,44.711632",
+    "geom:latitude":44.711632,
+    "geom:longitude":-67.463865,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Water St",
+    "sg:city":"Blue Hill",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 374 5000",
+    "sg:postcode":"04654",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85826381,
+        102081143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kjQMqZTSivlz6MfnkXY1R_44.711632_-67.463865@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220824,
+    "wof:geomhash":"339e9e010043f41b888e7963aa964de9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85826381,
+            "region_id":85688769,
+            "venue_id":857700453
+        }
+    ],
+    "wof:id":857700453,
+    "wof:lastmodified":1472627204,
+    "wof:name":"Tenney Hill Family Practice",
+    "wof:parent_id":85826381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -67.463865,
+    44.711632,
+    -67.463865,
+    44.711632
+],
+  "geometry": {"coordinates":[-67.463865,44.711632],"type":"Point"}
+}

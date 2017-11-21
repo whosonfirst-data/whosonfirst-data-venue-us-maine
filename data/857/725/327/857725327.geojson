@@ -1,0 +1,76 @@
+{
+  "id": 857725327,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"510 Sabattus St Lewiston ME 04240",
+    "addr:housenumber":"510",
+    "addr:postcode":"04240",
+    "addr:street":"Sabattus St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.189373,44.101652,-70.189373,44.101652",
+    "geom:latitude":44.101652,
+    "geom:longitude":-70.189373,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"510 Sabattus St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 782 7469",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fJMnDtV12W0YmV14d0iXV_44.101652_-70.189373@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221349,
+    "wof:geomhash":"b880bf4ee741d82e7f97d65629da1362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857725327
+        }
+    ],
+    "wof:id":857725327,
+    "wof:lastmodified":1472627257,
+    "wof:name":"Beverage World",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.189373,
+    44.101652,
+    -70.189373,
+    44.101652
+],
+  "geometry": {"coordinates":[-70.189373,44.101652],"type":"Point"}
+}

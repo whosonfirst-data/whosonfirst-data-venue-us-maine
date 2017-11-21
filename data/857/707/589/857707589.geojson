@@ -1,0 +1,83 @@
+{
+  "id": 857707589,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"35 Quimby St Biddeford ME 04005",
+    "addr:housenumber":"35",
+    "addr:postcode":"04005",
+    "addr:street":"Quimby St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.463211,43.494154,-70.463211,43.494154",
+    "geom:latitude":43.494154,
+    "geom:longitude":-70.463211,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Quimby St",
+    "sg:city":"Biddeford",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 283 2965",
+    "sg:postcode":"04005",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shellfish",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819479,
+        102191575,
+        404475883,
+        85633793,
+        85948887,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MhAPjGTeVssj73stsOjde_43.494154_-70.463211@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220960,
+    "wof:geomhash":"f6f04bb48fe4bef1cef6dbe02577631e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475883,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":857707589
+        }
+    ],
+    "wof:id":857707589,
+    "wof:lastmodified":1472627252,
+    "wof:name":"Charles W Nason",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shellfish",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -70.463211,
+    43.494154,
+    -70.463211,
+    43.494154
+],
+  "geometry": {"coordinates":[-70.463211,43.494154],"type":"Point"}
+}

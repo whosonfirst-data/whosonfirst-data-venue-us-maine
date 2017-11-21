@@ -1,0 +1,81 @@
+{
+  "id": 857696107,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"43 Mountain Rd Biddeford ME 04005",
+    "addr:housenumber":"43",
+    "addr:postcode":"04005",
+    "addr:street":"Mountain Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.500584,43.470048,-70.500584,43.470048",
+    "geom:latitude":43.470048,
+    "geom:longitude":-70.500584,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"43 Mountain Rd",
+    "sg:city":"Biddeford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 468 7771",
+    "sg:postcode":"04005",
+    "sg:province":"ME",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819479,
+        102191575,
+        404475883,
+        85633793,
+        85948887,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IzcbFqHx6rpDCOKG5UFXo_43.470048_-70.500584@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220738,
+    "wof:geomhash":"902321fb9745e9ead3caaf7a33de2a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475883,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":857696107
+        }
+    ],
+    "wof:id":857696107,
+    "wof:lastmodified":1472627189,
+    "wof:name":"K & B Welding",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -70.500584,
+    43.470048,
+    -70.500584,
+    43.470048
+],
+  "geometry": {"coordinates":[-70.500584,43.470048],"type":"Point"}
+}

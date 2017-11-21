@@ -1,0 +1,97 @@
+{
+  "id": 857729159,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"181 Portland Rd Bridgton ME 04009",
+    "addr:housenumber":"181",
+    "addr:postcode":"04009",
+    "addr:street":"Portland Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.700302,44.042845,-70.700302,44.042845",
+    "geom:latitude":44.042845,
+    "geom:longitude":-70.700302,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"181 Portland Rd",
+    "sg:city":"Bridgton",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/bridgton/149038-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 647 5536",
+    "sg:postcode":"04009",
+    "sg:province":"ME",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85847059,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JuZIJKoOskz3R3fddgN3i_44.042845_-70.700302@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221418,
+    "wof:geomhash":"f0b2b26d613e884c3914a7f7e3ae6b61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85847059,
+            "region_id":85688769,
+            "venue_id":857729159
+        }
+    ],
+    "wof:id":857729159,
+    "wof:lastmodified":1472627299,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85847059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -70.700302,
+    44.042845,
+    -70.700302,
+    44.042845
+],
+  "geometry": {"coordinates":[-70.70030199999999,44.042845],"type":"Point"}
+}

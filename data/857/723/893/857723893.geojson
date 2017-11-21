@@ -1,0 +1,77 @@
+{
+  "id": 857723893,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"53 Squire Libby Rd Saco ME 04072",
+    "addr:housenumber":"53",
+    "addr:postcode":"04072",
+    "addr:street":"Squire Libby Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.523538,43.598073,-70.523538,43.598073",
+    "geom:latitude":43.598073,
+    "geom:longitude":-70.523538,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"53 Squire Libby Rd",
+    "sg:city":"Saco",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 929 6552",
+    "sg:postcode":"04072",
+    "sg:province":"ME",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85852373,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H7rLYSH8IlTFukzHnvCku_43.598073_-70.523538@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221322,
+    "wof:geomhash":"8b47296d5fe403d6810ed932bb1a848c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85852373,
+            "region_id":85688769,
+            "venue_id":857723893
+        }
+    ],
+    "wof:id":857723893,
+    "wof:lastmodified":1472627277,
+    "wof:name":"Durkin Entps & Carpentry Svcs",
+    "wof:parent_id":85852373,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.523538,
+    43.598073,
+    -70.523538,
+    43.598073
+],
+  "geometry": {"coordinates":[-70.523538,43.598073],"type":"Point"}
+}

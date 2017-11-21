@@ -1,0 +1,84 @@
+{
+  "id": 857707809,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"54 Oak St Ellsworth ME 04605",
+    "addr:housenumber":"54",
+    "addr:postcode":"04605",
+    "addr:street":"Oak St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.421838,44.545107,-68.421838,44.545107",
+    "geom:latitude":44.545107,
+    "geom:longitude":-68.421838,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"54 Oak St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 664 0100",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "sg:website":"www.unimortgage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aiG54qBDErK8yhpHja2BF_44.545107_-68.421838@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220965,
+    "wof:geomhash":"f3a5e84ba617969777ff62e06a26c87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857707809
+        }
+    ],
+    "wof:id":857707809,
+    "wof:lastmodified":1472627257,
+    "wof:name":"Universal Mortgage Corp",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -68.421838,
+    44.545107,
+    -68.421838,
+    44.545107
+],
+  "geometry": {"coordinates":[-68.42183799999999,44.545107],"type":"Point"}
+}

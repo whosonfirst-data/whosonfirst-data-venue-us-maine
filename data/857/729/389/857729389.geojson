@@ -1,0 +1,99 @@
+{
+  "id": 857729389,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"30 Landing Rd Windham ME 04062",
+    "addr:housenumber":"30",
+    "addr:postcode":"04062",
+    "addr:street":"Landing Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.443858,43.838695,-70.443858,43.838695",
+    "geom:latitude":43.838695,
+    "geom:longitude":-70.443858,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Landing Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/windham/149059-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 892 3525",
+    "sg:postcode":"04062",
+    "sg:province":"ME",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948999,
+        102087463,
+        85838179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oZ1IcqbCDo9400X00wVB3_43.838695_-70.443858@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221422,
+    "wof:geomhash":"0d9b496d1035d44f319f850f1b2845d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948999,
+            "neighbourhood_id":85838179,
+            "region_id":85688769,
+            "venue_id":857729389
+        }
+    ],
+    "wof:id":857729389,
+    "wof:lastmodified":1472627300,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85838179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -70.443858,
+    43.838695,
+    -70.443858,
+    43.838695
+],
+  "geometry": {"coordinates":[-70.44385800000001,43.838695],"type":"Point"}
+}

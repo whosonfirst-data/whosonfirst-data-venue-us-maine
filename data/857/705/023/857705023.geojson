@@ -1,0 +1,72 @@
+{
+  "id": 857705023,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"530 Main St Madawaska ME 04756",
+    "addr:housenumber":"530",
+    "addr:postcode":"04756",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.328313,47.356165,-68.328313,47.356165",
+    "geom:latitude":47.356165,
+    "geom:longitude":-68.328313,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"530 Main St",
+    "sg:city":"Madawaska",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 728 4712",
+    "sg:postcode":"04756",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yAi9NtFWFSvKf4AgrtR2V_47.356165_-68.328313@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220913,
+    "wof:geomhash":"a564d1ba66ec1c26e4ed0204935c4950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857705023
+        }
+    ],
+    "wof:id":857705023,
+    "wof:lastmodified":1472627226,
+    "wof:name":"June's Fashions",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.328313,
+    47.356165,
+    -68.328313,
+    47.356165
+],
+  "geometry": {"coordinates":[-68.32831299999999,47.356165],"type":"Point"}
+}

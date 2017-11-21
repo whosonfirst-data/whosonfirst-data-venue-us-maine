@@ -1,0 +1,85 @@
+{
+  "id": 857713339,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"166 E Elm St Yarmouth ME 04096",
+    "addr:housenumber":"166",
+    "addr:postcode":"04096",
+    "addr:street":"E Elm St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.190034,43.808305,-70.190034,43.808305",
+    "geom:latitude":43.808305,
+    "geom:longitude":-70.190034,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"166 E Elm St",
+    "sg:city":"Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 847 9239",
+    "sg:postcode":"04096",
+    "sg:province":"ME",
+    "sg:tags":[
+        "mill",
+        "fabric",
+        "cotton"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859327,
+        102191575,
+        404475445,
+        85633793,
+        85949005,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NvnGBWO8l8iHrNe6PZf8d_43.808305_-70.190034@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221117,
+    "wof:geomhash":"b007cc202af6b7cd1614491823b5ae39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475445,
+            "locality_id":85949005,
+            "neighbourhood_id":85859327,
+            "region_id":85688769,
+            "venue_id":857713339
+        }
+    ],
+    "wof:id":857713339,
+    "wof:lastmodified":1472627250,
+    "wof:name":"Custom Fabric Creations",
+    "wof:parent_id":85859327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill",
+        "fabric",
+        "cotton"
+    ]
+},
+  "bbox": [
+    -70.190034,
+    43.808305,
+    -70.190034,
+    43.808305
+],
+  "geometry": {"coordinates":[-70.190034,43.808305],"type":"Point"}
+}

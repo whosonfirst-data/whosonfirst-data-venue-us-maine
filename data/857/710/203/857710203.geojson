@@ -1,0 +1,77 @@
+{
+  "id": 857710203,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"29 Highland Ave Fort Kent ME 04743",
+    "addr:housenumber":"29",
+    "addr:postcode":"04743",
+    "addr:street":"Highland Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.58634,47.25778,-68.58634,47.25778",
+    "geom:latitude":47.25778,
+    "geom:longitude":-68.58634,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"29 Highland Ave",
+    "sg:city":"Fort Kent",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 363 1777",
+    "sg:postcode":"04743",
+    "sg:province":"ME",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29UW6pwhiT9gfud57Nj6Bh_47.257780_-68.586340@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221034,
+    "wof:geomhash":"40ebfb662b78e7fdf1e551d1b43e3f35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857710203
+        }
+    ],
+    "wof:id":857710203,
+    "wof:lastmodified":1472627233,
+    "wof:name":"Harbor Painting",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -68.58634,
+    47.25778,
+    -68.58634,
+    47.25778
+],
+  "geometry": {"coordinates":[-68.58634000000001,47.25778],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857704561,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11 Industrial St Presque Isle ME 04769",
+    "addr:housenumber":"11",
+    "addr:postcode":"04769",
+    "addr:street":"Industrial St;Isle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.024008,46.681446,-68.024008,46.681446",
+    "geom:latitude":46.681446,
+    "geom:longitude":-68.024008,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Industrial St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 3453",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PVxSK76SBNjQrSle8jD0k_46.681446_-68.024008@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220905,
+    "wof:geomhash":"43377e67bd2874e5a9d8a118aa770f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857704561
+        }
+    ],
+    "wof:id":857704561,
+    "wof:lastmodified":1472627236,
+    "wof:name":"Industrial Street 1 Stop",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.024008,
+    46.681446,
+    -68.024008,
+    46.681446
+],
+  "geometry": {"coordinates":[-68.02400799999999,46.681446],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857714311,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"500 Main St Madawaska ME 04756",
+    "addr:housenumber":"500",
+    "addr:postcode":"04756",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.327619,47.356091,-68.327619,47.356091",
+    "geom:latitude":47.356091,
+    "geom:longitude":-68.327619,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 Main St",
+    "sg:city":"Madawaska",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 728 6160",
+    "sg:postcode":"04756",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tlai9iNpb1EWbtwdd13OI_47.356091_-68.327619@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221135,
+    "wof:geomhash":"69758f3fe26a91c7f3d2035a3b739a56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857714311
+        }
+    ],
+    "wof:id":857714311,
+    "wof:lastmodified":1472627255,
+    "wof:name":"Congressman John Baldacci",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.327619,
+    47.356091,
+    -68.327619,
+    47.356091
+],
+  "geometry": {"coordinates":[-68.327619,47.356091],"type":"Point"}
+}

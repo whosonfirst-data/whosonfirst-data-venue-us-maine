@@ -1,0 +1,76 @@
+{
+  "id": 857702789,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"418 Station Rd Stacyville ME 04740",
+    "addr:housenumber":"418",
+    "addr:postcode":"04740",
+    "addr:street":"Station Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.910757,46.682873,-67.910757,46.682873",
+    "geom:latitude":46.682873,
+    "geom:longitude":-67.910757,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"418 Station Rd",
+    "sg:city":"Stacyville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 365 4298",
+    "sg:postcode":"04740",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fqPkL7MokMpVm7eVHABT6_46.682873_-67.910757@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220873,
+    "wof:geomhash":"b1fdbf81816f753d1f931628fe7a6759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857702789
+        }
+    ],
+    "wof:id":857702789,
+    "wof:lastmodified":1472627211,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.910757,
+    46.682873,
+    -67.910757,
+    46.682873
+],
+  "geometry": {"coordinates":[-67.910757,46.682873],"type":"Point"}
+}

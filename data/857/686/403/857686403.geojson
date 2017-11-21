@@ -1,0 +1,84 @@
+{
+  "id": 857686403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"125 Center Rd Loring Cm Ctr ME 04740",
+    "addr:housenumber":"125",
+    "addr:postcode":"04740",
+    "addr:street":"Center Rd;Cm Ctr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.904593,46.642208,-67.904593,46.642208",
+    "geom:latitude":46.642208,
+    "geom:longitude":-67.904593,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"125 Center Rd",
+    "sg:city":"Loring Cm Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 328 4248",
+    "sg:postcode":"04740",
+    "sg:province":"ME",
+    "sg:tags":[
+        "representative",
+        "manufacturer"
+    ],
+    "sg:website":"www.pattisonsigngroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2on8XbCOixcfgcNsofY78A_46.642208_-67.904593@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220547,
+    "wof:geomhash":"c1519b9d51b62cf0fe6ec9ba4dbd7111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857686403
+        }
+    ],
+    "wof:id":857686403,
+    "wof:lastmodified":1472627197,
+    "wof:name":"Pattison Sign Co",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -67.904593,
+    46.642208,
+    -67.904593,
+    46.642208
+],
+  "geometry": {"coordinates":[-67.90459300000001,46.642208],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857715941,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10 Foch St Lewiston ME 04240",
+    "addr:housenumber":"10",
+    "addr:postcode":"04240",
+    "addr:street":"Foch St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.18217,44.078285,-70.18217,44.078285",
+    "geom:latitude":44.078285,
+    "geom:longitude":-70.18217,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Foch St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 786 5667",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DqYV7PK6oxqh8l68nhhaU_44.078285_-70.182170@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221164,
+    "wof:geomhash":"88a1e954f285d924b759f3a0fa728bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857715941
+        }
+    ],
+    "wof:id":857715941,
+    "wof:lastmodified":1472627277,
+    "wof:name":"North Country Real Estate Mgmt",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -70.18217,
+    44.078285,
+    -70.18217,
+    44.078285
+],
+  "geometry": {"coordinates":[-70.18217,44.078285],"type":"Point"}
+}

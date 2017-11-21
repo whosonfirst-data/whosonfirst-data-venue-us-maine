@@ -1,0 +1,75 @@
+{
+  "id": 857710563,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"103 Leighton Rd Augusta ME 04330",
+    "addr:housenumber":"103",
+    "addr:postcode":"04330",
+    "addr:street":"Leighton Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.817285,44.323903,-69.817285,44.323903",
+    "geom:latitude":44.323903,
+    "geom:longitude":-69.817285,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"103 Leighton Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 623 5200",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85841121,
+        102087461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gV36TNJCxMOYY2tndqB10_44.323903_-69.817285@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221043,
+    "wof:geomhash":"3b70b2a620f607e4de7c8cffdeeb3951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "neighbourhood_id":85841121,
+            "region_id":85688769,
+            "venue_id":857710563
+        }
+    ],
+    "wof:id":857710563,
+    "wof:lastmodified":1472627247,
+    "wof:name":"Augusta Tool Rental",
+    "wof:parent_id":85841121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -69.817285,
+    44.323903,
+    -69.817285,
+    44.323903
+],
+  "geometry": {"coordinates":[-69.817285,44.323903],"type":"Point"}
+}

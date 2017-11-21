@@ -1,0 +1,77 @@
+{
+  "id": 857691439,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"265 Main St Old Town ME 04468",
+    "addr:housenumber":"265",
+    "addr:postcode":"04468",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.644313,44.930182,-68.644313,44.930182",
+    "geom:latitude":44.930182,
+    "geom:longitude":-68.644313,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"265 Main St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 9244",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "savings"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u9v9iSraFrTckR48AEJ4H_44.930182_-68.644313@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220650,
+    "wof:geomhash":"73aa470a65495ee85ab15bf0ae10c6fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857691439
+        }
+    ],
+    "wof:id":857691439,
+    "wof:lastmodified":1472627191,
+    "wof:name":"Bangor Savings Bank",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "savings"
+    ]
+},
+  "bbox": [
+    -68.644313,
+    44.930182,
+    -68.644313,
+    44.930182
+],
+  "geometry": {"coordinates":[-68.644313,44.930182],"type":"Point"}
+}

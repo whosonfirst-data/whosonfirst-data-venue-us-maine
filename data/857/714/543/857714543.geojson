@@ -1,0 +1,71 @@
+{
+  "id": 857714543,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"195 Main St Ogunquit ME 04090",
+    "addr:housenumber":"195",
+    "addr:postcode":"04090",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.598399,43.262371,-70.598399,43.262371",
+    "geom:latitude":43.262371,
+    "geom:longitude":-70.598399,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"195 Main St",
+    "sg:city":"Ogunquit",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 646 5101",
+    "sg:postcode":"04090",
+    "sg:province":"ME",
+    "sg:website":"www.mainestreetogunquit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85854335,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vwHPe8hHW8VRznN3Zn6Ur_43.262371_-70.598399@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221139,
+    "wof:geomhash":"570fff10d614f66e651b6f97757c8482",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85854335,
+            "region_id":85688769,
+            "venue_id":857714543
+        }
+    ],
+    "wof:id":857714543,
+    "wof:lastmodified":1472627266,
+    "wof:name":"Maine Street",
+    "wof:parent_id":85854335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.598399,
+    43.262371,
+    -70.598399,
+    43.262371
+],
+  "geometry": {"coordinates":[-70.598399,43.262371],"type":"Point"}
+}

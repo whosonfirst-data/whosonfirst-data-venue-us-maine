@@ -1,0 +1,70 @@
+{
+  "id": 857705153,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3007 Bristol Rd New Harbor ME 04554",
+    "addr:housenumber":"3007",
+    "addr:postcode":"04554",
+    "addr:street":"Bristol Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.507605,43.847793,-69.507605,43.847793",
+    "geom:latitude":43.847793,
+    "geom:longitude":-69.507605,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3007 Bristol Rd",
+    "sg:city":"New Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 677 2494",
+    "sg:postcode":"04554",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85841123,
+        102087447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78eVUh6R3reXpqk64Obknc_43.847793_-69.507605@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220917,
+    "wof:geomhash":"52908ae2d1528d73175caf7ce3a6bf21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087447,
+            "neighbourhood_id":85841123,
+            "region_id":85688769,
+            "venue_id":857705153
+        }
+    ],
+    "wof:id":857705153,
+    "wof:lastmodified":1472627228,
+    "wof:name":"Fisherman Museum",
+    "wof:parent_id":85841123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.507605,
+    43.847793,
+    -69.507605,
+    43.847793
+],
+  "geometry": {"coordinates":[-69.507605,43.847793],"type":"Point"}
+}

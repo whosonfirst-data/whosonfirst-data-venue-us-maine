@@ -1,0 +1,94 @@
+{
+  "id": 857701253,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"123 Gray Rd Falmouth ME 04105",
+    "addr:housenumber":"123",
+    "addr:postcode":"04105",
+    "addr:street":"Gray Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.297843,43.741703,-70.297843,43.741703",
+    "geom:latitude":43.741703,
+    "geom:longitude":-70.297843,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 Gray Rd",
+    "sg:city":"Falmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 797 0366",
+    "sg:postcode":"04105",
+    "sg:province":"ME",
+    "sg:tags":[
+        "coping",
+        "plastering",
+        "tiling",
+        "pool",
+        "swimming"
+    ],
+    "sg:website":"www.christmanpool.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85855475,
+        102087463,
+        85948877,
+        85837549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04GzkLWRFgrGGBSQJoIw9V_43.741703_-70.297843@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220840,
+    "wof:geomhash":"3df6506059fd735669fbd955400fe6e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85855475,
+            "region_id":85688769,
+            "venue_id":857701253
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85837549,
+            "region_id":85688769,
+            "venue_id":857701253
+        }
+    ],
+    "wof:id":857701253,
+    "wof:lastmodified":1472627203,
+    "wof:name":"Christman Pool Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coping",
+        "plastering",
+        "tiling",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -70.297843,
+    43.741703,
+    -70.297843,
+    43.741703
+],
+  "geometry": {"coordinates":[-70.297843,43.741703],"type":"Point"}
+}

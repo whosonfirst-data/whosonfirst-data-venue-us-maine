@@ -1,0 +1,83 @@
+{
+  "id": 857700165,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"930 Stillwater Ave Bangor ME 04401",
+    "addr:housenumber":"930",
+    "addr:postcode":"04401",
+    "addr:street":"Stillwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.747682,44.837151,-68.747682,44.837151",
+    "geom:latitude":44.837151,
+    "geom:longitude":-68.747682,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"930 Stillwater Ave",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 973 3400",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H7WgnVR63jz3neNGV4psB_44.837151_-68.747682@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220816,
+    "wof:geomhash":"57475f6b789199aa5e3b37bc622aecf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857700165
+        }
+    ],
+    "wof:id":857700165,
+    "wof:lastmodified":1472627202,
+    "wof:name":"Unicel",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -68.747682,
+    44.837151,
+    -68.747682,
+    44.837151
+],
+  "geometry": {"coordinates":[-68.747682,44.837151],"type":"Point"}
+}

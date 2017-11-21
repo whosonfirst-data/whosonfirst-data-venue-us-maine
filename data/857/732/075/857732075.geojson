@@ -1,0 +1,87 @@
+{
+  "id": 857732075,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"120 Haskell Rd Bangor ME 04401",
+    "addr:housenumber":"120",
+    "addr:postcode":"04401",
+    "addr:street":"Haskell Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.7392,44.830226,-68.7392,44.830226",
+    "geom:latitude":44.830226,
+    "geom:longitude":-68.7392,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "sg:address":"120 Haskell Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/bangor/11124-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 262 5516",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "osm:node":3764302129,
+        "sg:id":"SG_4ITQL75BvvF0t2ddQ7aIeM_44.830013_-68.739258@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221485,
+    "wof:geomhash":"68d5d81df0de1980a4177df05fe9a886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857732075
+        }
+    ],
+    "wof:id":857732075,
+    "wof:lastmodified":1510942443,
+    "wof:name":"Denny's",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -68.7392,
+    44.830226,
+    -68.7392,
+    44.830226
+],
+  "geometry": {"coordinates":[-68.7392,44.830226],"type":"Point"}
+}

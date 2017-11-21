@@ -1,0 +1,73 @@
+{
+  "id": 857717665,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1833 E Conway Rd North Conway ME 03813",
+    "addr:housenumber":"1833",
+    "addr:postcode":"03813",
+    "addr:street":"E Conway Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.059552,44.011276,-71.059552,44.011276",
+    "geom:latitude":44.011276,
+    "geom:longitude":-71.059552,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"1833 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 6487",
+    "sg:postcode":"03813",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:brand_id":1125150249,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QcZArluAcxENveUpjfuJf_44.011276_-71.059552@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221198,
+    "wof:geomhash":"09714336f597544e90c7ee3ef81eb413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":857717665
+        }
+    ],
+    "wof:id":857717665,
+    "wof:lastmodified":1510858554,
+    "wof:name":"Papa Gino's",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.059552,
+    44.011276,
+    -71.059552,
+    44.011276
+],
+  "geometry": {"coordinates":[-71.059552,44.011276],"type":"Point"}
+}

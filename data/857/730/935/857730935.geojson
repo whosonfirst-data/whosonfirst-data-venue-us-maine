@@ -1,0 +1,84 @@
+{
+  "id": 857730935,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"555 Stillwater Ave Bangor ME 04401",
+    "addr:housenumber":"555",
+    "addr:postcode":"04401",
+    "addr:street":"Stillwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.745244,44.835082,-68.745244,44.835082",
+    "geom:latitude":44.835082,
+    "geom:longitude":-68.745244,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"555 Stillwater Ave",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/bangor/236715-oriental-jade/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 6969",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nnuFfkjOTdVxedi00130S_44.835082_-68.745244@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221455,
+    "wof:geomhash":"010a275125f46dc42dbdb1297a827169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857730935
+        }
+    ],
+    "wof:id":857730935,
+    "wof:lastmodified":1472627320,
+    "wof:name":"Oriental Jade",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -68.745244,
+    44.835082,
+    -68.745244,
+    44.835082
+],
+  "geometry": {"coordinates":[-68.745244,44.835082],"type":"Point"}
+}

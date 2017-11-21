@@ -1,0 +1,79 @@
+{
+  "id": 857732295,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"518 US Route 1 Kittery ME 03904",
+    "addr:housenumber":"518",
+    "addr:postcode":"03904",
+    "addr:street":"Us Route 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.705837,43.129357,-70.705837,43.129357",
+    "geom:latitude":43.129357,
+    "geom:longitude":-70.705837,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"518 US Route 1",
+    "sg:city":"Kittery",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 439 8988",
+    "sg:postcode":"03904",
+    "sg:province":"ME",
+    "sg:tags":[
+        "house",
+        "steak",
+        "barbecue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85844265,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GMK74BNdCVrhkR7LoNExk_43.129357_-70.705837@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221489,
+    "wof:geomhash":"85abb0600810ec0bd912923714b29bc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85844265,
+            "region_id":85688769,
+            "venue_id":857732295
+        }
+    ],
+    "wof:id":857732295,
+    "wof:lastmodified":1472627301,
+    "wof:name":"Mainely Bbq & Co.",
+    "wof:parent_id":85844265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "steak",
+        "barbecue"
+    ]
+},
+  "bbox": [
+    -70.705837,
+    43.129357,
+    -70.705837,
+    43.129357
+],
+  "geometry": {"coordinates":[-70.705837,43.129357],"type":"Point"}
+}

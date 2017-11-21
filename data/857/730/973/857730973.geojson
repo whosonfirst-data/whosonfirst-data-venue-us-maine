@@ -1,0 +1,103 @@
+{
+  "id": 857730973,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"995 Union St Bangor ME 04401",
+    "addr:housenumber":"995",
+    "addr:postcode":"04401",
+    "addr:street":"Union St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.806847,44.815382,-68.806847,44.815382",
+    "geom:latitude":44.815382,
+    "geom:longitude":-68.806847,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"995 Union St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/bangor/149117-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 0277",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837287,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oteZUcOah1oETkyk3YX9H_44.815382_-68.806847@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221455,
+    "wof:geomhash":"598b4d4f67dfd93eadf19672c9d7a9f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85837287,
+            "region_id":85688769,
+            "venue_id":857730973
+        }
+    ],
+    "wof:id":857730973,
+    "wof:lastmodified":1472627322,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85837287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -68.806847,
+    44.815382,
+    -68.806847,
+    44.815382
+],
+  "geometry": {"coordinates":[-68.806847,44.815382],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857726431,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"19 Cotta Ln St Albans ME 04971",
+    "addr:housenumber":"19",
+    "addr:postcode":"04971",
+    "addr:street":"Cotta Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.397746,44.916582,-69.397746,44.916582",
+    "geom:latitude":44.916582,
+    "geom:longitude":-69.397746,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Cotta Ln",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 938 4613",
+    "sg:postcode":"04971",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949081,
+        102087435,
+        85854823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dT0qpL4p4UnjyHrIgks4c_44.916582_-69.397746@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221368,
+    "wof:geomhash":"e17ba81c1f7cae4f91e9f1bc839866d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087435,
+            "locality_id":85949081,
+            "neighbourhood_id":85854823,
+            "region_id":85688769,
+            "venue_id":857726431
+        }
+    ],
+    "wof:id":857726431,
+    "wof:lastmodified":1472627259,
+    "wof:name":"Country Lane Candles & Gifts",
+    "wof:parent_id":85854823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -69.397746,
+    44.916582,
+    -69.397746,
+    44.916582
+],
+  "geometry": {"coordinates":[-69.397746,44.916582],"type":"Point"}
+}

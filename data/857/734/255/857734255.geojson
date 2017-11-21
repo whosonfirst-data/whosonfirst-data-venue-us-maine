@@ -1,0 +1,75 @@
+{
+  "id": 857734255,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"53 Western Ave Kennebunk ME 04043",
+    "addr:housenumber":"53",
+    "addr:postcode":"04043",
+    "addr:street":"Western Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.479897,43.360199,-70.479897,43.360199",
+    "geom:latitude":43.360199,
+    "geom:longitude":-70.479897,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"53 Western Ave",
+    "sg:city":"Kennebunk",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 967 3179",
+    "sg:postcode":"04043",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85812189,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DJDZIzFWsPBBk52xcS1Ik_43.360199_-70.479897@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221526,
+    "wof:geomhash":"da7fa15094d0bc6b761dda0e4f503312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85812189,
+            "region_id":85688769,
+            "venue_id":857734255
+        }
+    ],
+    "wof:id":857734255,
+    "wof:lastmodified":1472627302,
+    "wof:name":"Lindal Cedar Homes",
+    "wof:parent_id":85812189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.479897,
+    43.360199,
+    -70.479897,
+    43.360199
+],
+  "geometry": {"coordinates":[-70.47989699999999,43.360199],"type":"Point"}
+}

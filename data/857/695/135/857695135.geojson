@@ -1,0 +1,64 @@
+{
+  "id": 857695135,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"41 Acme Rd Brewer ME 04412",
+    "addr:housenumber":"41",
+    "addr:postcode":"04412",
+    "addr:street":"Acme Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.756299,44.78664,-68.756299,44.78664",
+    "geom:latitude":44.78664,
+    "geom:longitude":-68.756299,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 Acme Rd",
+    "sg:city":"Brewer",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 992 2660",
+    "sg:postcode":"04412",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xuSgpN94YCXvGwXUk2Meu_44.786640_-68.756299@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220722,
+    "wof:geomhash":"d680fd7609d411cc849a926a14d6b1cd",
+    "wof:hierarchy":[],
+    "wof:id":857695135,
+    "wof:lastmodified":1472627197,
+    "wof:name":"Sleep Well",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -68.756299,
+    44.78664,
+    -68.756299,
+    44.78664
+],
+  "geometry": {"coordinates":[-68.756299,44.78664],"type":"Point"}
+}

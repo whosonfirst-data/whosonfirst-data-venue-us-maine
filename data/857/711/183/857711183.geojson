@@ -1,0 +1,83 @@
+{
+  "id": 857711183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"240 Ridge Rd York ME 03909",
+    "addr:housenumber":"240",
+    "addr:postcode":"03909",
+    "addr:street":"Ridge Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.626417,43.16392,-70.626417,43.16392",
+    "geom:latitude":43.16392,
+    "geom:longitude":-70.626417,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"240 Ridge Rd",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 363 7377",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831291,
+        102191575,
+        404475823,
+        85633793,
+        85949035,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Yz91c4tIjwAoclryTwYQo_43.163920_-70.626417@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221054,
+    "wof:geomhash":"83f0e8bb934251971c51ac6b201e34e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475823,
+            "locality_id":85949035,
+            "neighbourhood_id":85831291,
+            "region_id":85688769,
+            "venue_id":857711183
+        }
+    ],
+    "wof:id":857711183,
+    "wof:lastmodified":1472627236,
+    "wof:name":"Fredette Tile",
+    "wof:parent_id":85831291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -70.626417,
+    43.16392,
+    -70.626417,
+    43.16392
+],
+  "geometry": {"coordinates":[-70.626417,43.16392],"type":"Point"}
+}

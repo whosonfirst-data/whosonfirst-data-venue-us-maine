@@ -1,0 +1,77 @@
+{
+  "id": 857694669,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"51 Main St Mattawamkeag ME 04468",
+    "addr:housenumber":"51",
+    "addr:postcode":"04468",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.643469,44.944355,-68.643469,44.944355",
+    "geom:latitude":44.944355,
+    "geom:longitude":-68.643469,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Main St",
+    "sg:city":"Mattawamkeag",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 736 4355",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KlljLPHWX4ZUUWVybkOJy_44.944355_-68.643469@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220710,
+    "wof:geomhash":"e40d583c23be90d0ade4f479f16b8488",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857694669
+        }
+    ],
+    "wof:id":857694669,
+    "wof:lastmodified":1472627216,
+    "wof:name":"Reflections Beauty Salon",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -68.643469,
+    44.944355,
+    -68.643469,
+    44.944355
+],
+  "geometry": {"coordinates":[-68.643469,44.944355],"type":"Point"}
+}

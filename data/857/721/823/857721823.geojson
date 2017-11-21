@@ -1,0 +1,81 @@
+{
+  "id": 857721823,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"88 North St Calais ME 04619",
+    "addr:housenumber":"88",
+    "addr:postcode":"04619",
+    "addr:street":"North St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.280199,45.186623,-67.280199,45.186623",
+    "geom:latitude":45.186623,
+    "geom:longitude":-67.280199,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"88 North St",
+    "sg:city":"Calais",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 454 0880",
+    "sg:postcode":"04619",
+    "sg:province":"ME",
+    "sg:tags":[
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857599,
+        102191575,
+        404475311,
+        85633793,
+        85948871,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YFsQId4QApMPhhZFhtgIN_45.186623_-67.280199@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221285,
+    "wof:geomhash":"02921fea7a97303da0ea3d34e4ea8a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475311,
+            "locality_id":85948871,
+            "neighbourhood_id":85857599,
+            "region_id":85688769,
+            "venue_id":857721823
+        }
+    ],
+    "wof:id":857721823,
+    "wof:lastmodified":1472627278,
+    "wof:name":"Maine Pretrial Svc Inc",
+    "wof:parent_id":85857599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plan"
+    ]
+},
+  "bbox": [
+    -67.280199,
+    45.186623,
+    -67.280199,
+    45.186623
+],
+  "geometry": {"coordinates":[-67.280199,45.186623],"type":"Point"}
+}

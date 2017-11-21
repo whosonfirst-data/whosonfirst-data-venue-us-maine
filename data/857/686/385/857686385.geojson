@@ -1,0 +1,78 @@
+{
+  "id": 857686385,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"130 Market St Fort Kent ME 04743",
+    "addr:housenumber":"130",
+    "addr:postcode":"04743",
+    "addr:street":"Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.577886,47.245814,-68.577886,47.245814",
+    "geom:latitude":47.245814,
+    "geom:longitude":-68.577886,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"130 Market St",
+    "sg:city":"Fort Kent",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 834 6186",
+    "sg:postcode":"04743",
+    "sg:province":"ME",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.daigleandhoughton.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FSPMv7kTayxELzGTKG1hc_47.245814_-68.577886@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220546,
+    "wof:geomhash":"ef49af80144e93ec8c267fa507f4ed29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857686385
+        }
+    ],
+    "wof:id":857686385,
+    "wof:lastmodified":1472627197,
+    "wof:name":"Daigle & Houghton Inc",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -68.577886,
+    47.245814,
+    -68.577886,
+    47.245814
+],
+  "geometry": {"coordinates":[-68.57788600000001,47.245814],"type":"Point"}
+}

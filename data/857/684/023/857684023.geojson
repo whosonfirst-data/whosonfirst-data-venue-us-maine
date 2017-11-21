@@ -1,0 +1,81 @@
+{
+  "id": 857684023,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"72 Main St Orono ME 04473",
+    "addr:housenumber":"72",
+    "addr:postcode":"04473",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.673489,44.88175,-68.673489,44.88175",
+    "geom:latitude":44.88175,
+    "geom:longitude":-68.673489,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"72 Main St",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 2550",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3itR73K0CtZvsMGza14WDB_44.881750_-68.673489@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220501,
+    "wof:geomhash":"0be1255b11bd3f1947023a492df34288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857684023
+        }
+    ],
+    "wof:id":857684023,
+    "wof:lastmodified":1472627185,
+    "wof:name":"Brookings Smith LA Beau Chapel",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -68.673489,
+    44.88175,
+    -68.673489,
+    44.88175
+],
+  "geometry": {"coordinates":[-68.673489,44.88175],"type":"Point"}
+}

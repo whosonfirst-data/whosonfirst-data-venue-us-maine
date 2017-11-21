@@ -1,0 +1,83 @@
+{
+  "id": 857734491,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1 Colonel Gelardi Dr Kennebunk ME 04043",
+    "addr:housenumber":"1",
+    "addr:postcode":"04043",
+    "addr:street":"Colonel Gelardi Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.538945,43.381972,-70.538945,43.381972",
+    "geom:latitude":43.381972,
+    "geom:longitude":-70.538945,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Colonel Gelardi Dr",
+    "sg:city":"Kennebunk",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 985 6621",
+    "sg:postcode":"04043",
+    "sg:province":"ME",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.gymnationsport.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949039,
+        102087449,
+        85828039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HZnk7QFiZOGRkBxeviDhG_43.381972_-70.538945@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221530,
+    "wof:geomhash":"056e8097eff41c3274388d986edb2bac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85949039,
+            "neighbourhood_id":85828039,
+            "region_id":85688769,
+            "venue_id":857734491
+        }
+    ],
+    "wof:id":857734491,
+    "wof:lastmodified":1472627307,
+    "wof:name":"Tiny Stars Fit-N-Learn Nursery School",
+    "wof:parent_id":85828039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -70.538945,
+    43.381972,
+    -70.538945,
+    43.381972
+],
+  "geometry": {"coordinates":[-70.538945,43.381972],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857719743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"365 Gorham Rd South Portland ME 04106",
+    "addr:housenumber":"365",
+    "addr:postcode":"04106",
+    "addr:street":"Gorham Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.3343,43.637001,-70.3343,43.637001",
+    "geom:latitude":43.637001,
+    "geom:longitude":-70.3343,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"365 Gorham Rd",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 828 8600",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85851275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dKAlYkAVrSyfRhINs6T7y_43.637001_-70.334300@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221245,
+    "wof:geomhash":"94b759451c6180ca0a20fc4b80983076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85851275,
+            "region_id":85688769,
+            "venue_id":857719743
+        }
+    ],
+    "wof:id":857719743,
+    "wof:lastmodified":1472627266,
+    "wof:name":"Lone Star Steakhouse",
+    "wof:parent_id":85851275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.3343,
+    43.637001,
+    -70.3343,
+    43.637001
+],
+  "geometry": {"coordinates":[-70.3343,43.637001],"type":"Point"}
+}

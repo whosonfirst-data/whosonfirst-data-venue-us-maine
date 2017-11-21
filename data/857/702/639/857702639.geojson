@@ -1,0 +1,82 @@
+{
+  "id": 857702639,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"47 Gardiner Rd Wiscasset ME 04578",
+    "addr:housenumber":"47",
+    "addr:postcode":"04578",
+    "addr:street":"Gardiner Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.667982,44.010107,-69.667982,44.010107",
+    "geom:latitude":44.010107,
+    "geom:longitude":-69.667982,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"47 Gardiner Rd",
+    "sg:city":"Wiscasset",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 882 6355",
+    "sg:postcode":"04578",
+    "sg:province":"ME",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.wiscassetnewspaper.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820077,
+        102191575,
+        404475725,
+        85633793,
+        85948961,
+        102087447,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PYmbpPhqnhdg51cWFS43X_44.010107_-69.667982@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220871,
+    "wof:geomhash":"1d62d72ea962f3cb085e6ff17d5ad9a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087447,
+            "localadmin_id":404475725,
+            "locality_id":85948961,
+            "neighbourhood_id":85820077,
+            "region_id":85688769,
+            "venue_id":857702639
+        }
+    ],
+    "wof:id":857702639,
+    "wof:lastmodified":1472627206,
+    "wof:name":"Wiscasset Newspaper",
+    "wof:parent_id":85820077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -69.667982,
+    44.010107,
+    -69.667982,
+    44.010107
+],
+  "geometry": {"coordinates":[-69.66798199999999,44.010107],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857692939,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3250 Union St Bangor ME 04401",
+    "addr:housenumber":"3250",
+    "addr:postcode":"04401",
+    "addr:street":"Union St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.907899,44.861418,-68.907899,44.861418",
+    "geom:latitude":44.861418,
+    "geom:longitude":-68.907899,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3250 Union St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 884 8474",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "interior",
+        "aircraft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85838259,
+        102080723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GOAZv2CDOoOjdE79jLyvn_44.861418_-68.907899@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220679,
+    "wof:geomhash":"b9e64dfc34c495aa32f0b050180698e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85838259,
+            "region_id":85688769,
+            "venue_id":857692939
+        }
+    ],
+    "wof:id":857692939,
+    "wof:lastmodified":1472627213,
+    "wof:name":"Tams Upholstery Touch",
+    "wof:parent_id":85838259,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "aircraft"
+    ]
+},
+  "bbox": [
+    -68.907899,
+    44.861418,
+    -68.907899,
+    44.861418
+],
+  "geometry": {"coordinates":[-68.907899,44.861418],"type":"Point"}
+}

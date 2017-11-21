@@ -1,0 +1,79 @@
+{
+  "id": 857716205,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"99 Warren Rd West Buxton ME 04093",
+    "addr:housenumber":"99",
+    "addr:postcode":"04093",
+    "addr:street":"Warren Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.600107,43.678128,-70.600107,43.678128",
+    "geom:latitude":43.678128,
+    "geom:longitude":-70.600107,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"99 Warren Rd",
+    "sg:city":"West Buxton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 727 4985",
+    "sg:postcode":"04093",
+    "sg:province":"ME",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85828331,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PDSvJ0uD8l0ygTttWjanE_43.678128_-70.600107@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221169,
+    "wof:geomhash":"5592b1ffb3e234b26fda0e8163a634e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85828331,
+            "region_id":85688769,
+            "venue_id":857716205
+        }
+    ],
+    "wof:id":857716205,
+    "wof:lastmodified":1472627250,
+    "wof:name":"Sirius Trucking Entps LLC",
+    "wof:parent_id":85828331,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -70.600107,
+    43.678128,
+    -70.600107,
+    43.678128
+],
+  "geometry": {"coordinates":[-70.60010699999999,43.678128],"type":"Point"}
+}

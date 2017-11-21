@@ -1,0 +1,77 @@
+{
+  "id": 857723443,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1247 Carl Broggi Hwy Lebanon ME 04027",
+    "addr:housenumber":"1247",
+    "addr:postcode":"04027",
+    "addr:street":"Carl Broggi Hwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.939895,43.337392,-70.939895,43.337392",
+    "geom:latitude":43.337392,
+    "geom:longitude":-70.939895,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1247 Carl Broggi Hwy",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 339 2087",
+    "sg:postcode":"04027",
+    "sg:province":"ME",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975055,
+        102085609,
+        85849815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MlhesgJTdg42RpeSQ1gFF_43.337392_-70.939895@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221314,
+    "wof:geomhash":"390a995354ee0ee07543db74c259b46c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975055,
+            "neighbourhood_id":85849815,
+            "region_id":85688689,
+            "venue_id":857723443
+        }
+    ],
+    "wof:id":857723443,
+    "wof:lastmodified":1472627266,
+    "wof:name":"Motor Truck Svc Inc",
+    "wof:parent_id":85849815,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -70.939895,
+    43.337392,
+    -70.939895,
+    43.337392
+],
+  "geometry": {"coordinates":[-70.93989500000001,43.337392],"type":"Point"}
+}

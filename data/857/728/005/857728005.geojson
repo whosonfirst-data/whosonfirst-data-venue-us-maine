@@ -1,0 +1,83 @@
+{
+  "id": 857728005,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"68 Main St Kennebunk ME 04043",
+    "addr:housenumber":"68",
+    "addr:postcode":"04043",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.540001,43.386299,-70.540001,43.386299",
+    "geom:latitude":43.386299,
+    "geom:longitude":-70.540001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"68 Main St",
+    "sg:city":"Kennebunk",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 985 1806",
+    "sg:postcode":"04043",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804645,
+        102191575,
+        404475789,
+        85633793,
+        85949063,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MTPejCcqfkUwO33wDmHrS_43.386182_-70.540315@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464221396,
+    "wof:geomhash":"05554fe2259ac14ca57d471cacac44df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475789,
+            "locality_id":85949063,
+            "neighbourhood_id":85804645,
+            "region_id":85688769,
+            "venue_id":857728005
+        }
+    ],
+    "wof:id":857728005,
+    "wof:lastmodified":1472627286,
+    "wof:name":"Caprio Teresa A DO",
+    "wof:parent_id":85804645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -70.540001,
+    43.386299,
+    -70.540001,
+    43.386299
+],
+  "geometry": {"coordinates":[-70.540001,43.386299],"type":"Point"}
+}

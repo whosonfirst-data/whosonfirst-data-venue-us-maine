@@ -1,0 +1,79 @@
+{
+  "id": 857724441,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"50 Morrison Farm Rd Ellsworth ME 04605",
+    "addr:housenumber":"50",
+    "addr:postcode":"04605",
+    "addr:street":"Morrison Farm Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.395323,44.719364,-68.395323,44.719364",
+    "geom:latitude":44.719364,
+    "geom:longitude":-68.395323,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Morrison Farm Rd",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 537 5095",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85815061,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vi7d3srk4noKYfxXwlA0e_44.719364_-68.395323@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221332,
+    "wof:geomhash":"50b7bf864562fc6ab77aabdf54b723b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85815061,
+            "region_id":85688769,
+            "venue_id":857724441
+        }
+    ],
+    "wof:id":857724441,
+    "wof:lastmodified":1472627264,
+    "wof:name":"Vachon Electric",
+    "wof:parent_id":85815061,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.395323,
+    44.719364,
+    -68.395323,
+    44.719364
+],
+  "geometry": {"coordinates":[-68.395323,44.719364],"type":"Point"}
+}

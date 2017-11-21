@@ -1,0 +1,77 @@
+{
+  "id": 857713461,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"160 Canal St Lewiston ME 04240",
+    "addr:housenumber":"160",
+    "addr:postcode":"04240",
+    "addr:street":"Canal St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.216305,44.093529,-70.216305,44.093529",
+    "geom:latitude":44.093529,
+    "geom:longitude":-70.216305,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"160 Canal St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 782 2545",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:website":"www.carrollsmusic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LaGm6cegG9WGxRcKqnLs5_44.093529_-70.216305@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221119,
+    "wof:geomhash":"223602f227fedcec39da23c06cf8e59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857713461
+        }
+    ],
+    "wof:id":857713461,
+    "wof:lastmodified":1472627256,
+    "wof:name":"Carroll's School & Music Ctr",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.216305,
+    44.093529,
+    -70.216305,
+    44.093529
+],
+  "geometry": {"coordinates":[-70.21630500000001,44.093529],"type":"Point"}
+}

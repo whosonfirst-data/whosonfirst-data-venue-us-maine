@@ -1,0 +1,75 @@
+{
+  "id": 857734871,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18 Bufflehead Cove Ln Kennebunk ME 04043",
+    "addr:housenumber":"18",
+    "addr:postcode":"04043",
+    "addr:street":"Bufflehead Cove Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.483504,43.365171,-70.483504,43.365171",
+    "geom:latitude":43.365171,
+    "geom:longitude":-70.483504,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Bufflehead Cove Ln",
+    "sg:city":"Kennebunk",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 967 3879",
+    "sg:postcode":"04043",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85812189,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jYfTvf2ZtiVQO22MN9Ku1_43.365171_-70.483504@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221537,
+    "wof:geomhash":"3e32eb275f2146d46da8a396e24f600f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85812189,
+            "region_id":85688769,
+            "venue_id":857734871
+        }
+    ],
+    "wof:id":857734871,
+    "wof:lastmodified":1472627315,
+    "wof:name":"Bufflehead Cove Bed & Breakfast",
+    "wof:parent_id":85812189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.483504,
+    43.365171,
+    -70.483504,
+    43.365171
+],
+  "geometry": {"coordinates":[-70.483504,43.365171],"type":"Point"}
+}

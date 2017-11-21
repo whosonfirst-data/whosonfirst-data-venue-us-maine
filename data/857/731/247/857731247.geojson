@@ -1,0 +1,84 @@
+{
+  "id": 857731247,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"211 High St Ellsworth ME 04605",
+    "addr:housenumber":"211",
+    "addr:postcode":"04605",
+    "addr:street":"High St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.414853,44.538369,-68.414853,44.538369",
+    "geom:latitude":44.538369,
+    "geom:longitude":-68.414853,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"211 High St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/ellsworth/73773-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 3335",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pHMXgZGeHU8UQk0LDJwFO_44.538369_-68.414853@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221461,
+    "wof:geomhash":"2444d33d9096ac15ec1f342756839491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857731247
+        }
+    ],
+    "wof:id":857731247,
+    "wof:lastmodified":1472627299,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -68.414853,
+    44.538369,
+    -68.414853,
+    44.538369
+],
+  "geometry": {"coordinates":[-68.41485299999999,44.538369],"type":"Point"}
+}

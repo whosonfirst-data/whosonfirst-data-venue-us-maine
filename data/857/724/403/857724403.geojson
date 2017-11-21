@@ -1,0 +1,77 @@
+{
+  "id": 857724403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14 Dempsy Curve Fort Kent ME 04743",
+    "addr:housenumber":"14",
+    "addr:postcode":"04743",
+    "addr:street":"Dempsy Curve",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.62334,47.23785,-68.62334,47.23785",
+    "geom:latitude":47.23785,
+    "geom:longitude":-68.62334,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Dempsy Curve",
+    "sg:city":"Fort Kent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 834 3291",
+    "sg:postcode":"04743",
+    "sg:province":"ME",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pPjHYUOHtFYwm3hsg86Cz_47.237850_-68.623340@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221331,
+    "wof:geomhash":"74f5a7c8f5a8dab7e18da393c6da13f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857724403
+        }
+    ],
+    "wof:id":857724403,
+    "wof:lastmodified":1472627260,
+    "wof:name":"Tom's Small Engine Repair",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -68.62334,
+    47.23785,
+    -68.62334,
+    47.23785
+],
+  "geometry": {"coordinates":[-68.62334,47.23785],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857706883,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14 Pelletier Ave Saint Francis ME 04745",
+    "addr:housenumber":"14",
+    "addr:postcode":"04745",
+    "addr:street":"Pelletier Ave Saint",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.368046,47.320757,-68.368046,47.320757",
+    "geom:latitude":47.320757,
+    "geom:longitude":-68.368046,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Pelletier Ave",
+    "sg:city":"Saint Francis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 398 3401",
+    "sg:postcode":"04745",
+    "sg:province":"ME",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32ypyUhBBRSaUZmgpmgpCY_47.320757_-68.368046@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220947,
+    "wof:geomhash":"582b0d1a3307e6ec20e0f64d57bcff44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857706883
+        }
+    ],
+    "wof:id":857706883,
+    "wof:lastmodified":1472627256,
+    "wof:name":"T/R Trucking & Son",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -68.368046,
+    47.320757,
+    -68.368046,
+    47.320757
+],
+  "geometry": {"coordinates":[-68.36804600000001,47.320757],"type":"Point"}
+}

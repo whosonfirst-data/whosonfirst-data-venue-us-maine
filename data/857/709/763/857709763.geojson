@@ -1,0 +1,81 @@
+{
+  "id": 857709763,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2 Barker St Calais ME 04619",
+    "addr:housenumber":"2",
+    "addr:postcode":"04619",
+    "addr:street":"Barker St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.269378,45.184538,-67.269378,45.184538",
+    "geom:latitude":45.184538,
+    "geom:longitude":-67.269378,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Barker St",
+    "sg:city":"Calais",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 454 2914",
+    "sg:postcode":"04619",
+    "sg:province":"ME",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857599,
+        102191575,
+        404475311,
+        85633793,
+        85948871,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yYvXH1YmEXteaqiXAObtT_45.184538_-67.269378@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221025,
+    "wof:geomhash":"5348ae99b2e901052555a81c4ab4d9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475311,
+            "locality_id":85948871,
+            "neighbourhood_id":85857599,
+            "region_id":85688769,
+            "venue_id":857709763
+        }
+    ],
+    "wof:id":857709763,
+    "wof:lastmodified":1472627257,
+    "wof:name":"Community Health & Counseling",
+    "wof:parent_id":85857599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -67.269378,
+    45.184538,
+    -67.269378,
+    45.184538
+],
+  "geometry": {"coordinates":[-67.269378,45.184538],"type":"Point"}
+}

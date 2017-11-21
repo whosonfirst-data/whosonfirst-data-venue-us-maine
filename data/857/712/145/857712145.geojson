@@ -1,0 +1,85 @@
+{
+  "id": 857712145,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"46 Middle Ave Mexico ME 04257",
+    "addr:housenumber":"46",
+    "addr:postcode":"04257",
+    "addr:street":"Middle Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.548429,44.560977,-70.548429,44.560977",
+    "geom:latitude":44.560977,
+    "geom:longitude":-70.548429,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"46 Middle Ave",
+    "sg:city":"Mexico",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 364 4862",
+    "sg:postcode":"04257",
+    "sg:province":"ME",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844599,
+        102191575,
+        404475769,
+        85633793,
+        85948977,
+        102087437,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jkEKS89vKKfv2YnCZIGaB_44.560977_-70.548429@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221083,
+    "wof:geomhash":"cf94dc4764df05baa6a41d54a685dff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087437,
+            "localadmin_id":404475769,
+            "locality_id":85948977,
+            "neighbourhood_id":85844599,
+            "region_id":85688769,
+            "venue_id":857712145
+        }
+    ],
+    "wof:id":857712145,
+    "wof:lastmodified":1472627233,
+    "wof:name":"Belskis Body Shop",
+    "wof:parent_id":85844599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -70.548429,
+    44.560977,
+    -70.548429,
+    44.560977
+],
+  "geometry": {"coordinates":[-70.548429,44.560977],"type":"Point"}
+}

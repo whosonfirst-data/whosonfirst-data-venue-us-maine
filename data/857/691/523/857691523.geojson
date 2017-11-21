@@ -1,0 +1,83 @@
+{
+  "id": 857691523,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"90 Ridgewood Dr Bangor ME 04401",
+    "addr:housenumber":"90",
+    "addr:postcode":"04401",
+    "addr:street":"Ridgewood Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.741789,44.845268,-68.741789,44.845268",
+    "geom:latitude":44.845268,
+    "geom:longitude":-68.741789,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"90 Ridgewood Dr",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 0669",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rjOD99VbQjiiyg0F2kStB_44.845268_-68.741789@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220653,
+    "wof:geomhash":"cad40345d3cc31c702302642f7f626ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857691523
+        }
+    ],
+    "wof:id":857691523,
+    "wof:lastmodified":1472627200,
+    "wof:name":"Penobscot Valley Dermatology",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -68.741789,
+    44.845268,
+    -68.741789,
+    44.845268
+],
+  "geometry": {"coordinates":[-68.741789,44.845268],"type":"Point"}
+}

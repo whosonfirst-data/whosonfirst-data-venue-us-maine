@@ -1,0 +1,86 @@
+{
+  "id": 857714565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"242 Smith Ridge Rd Dennysville ME 04628",
+    "addr:housenumber":"242",
+    "addr:postcode":"04628",
+    "addr:street":"Smith Ridge Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.263065,44.955886,-67.263065,44.955886",
+    "geom:latitude":44.955886,
+    "geom:longitude":-67.263065,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"242 Smith Ridge Rd",
+    "sg:city":"Dennysville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 726 4643",
+    "sg:postcode":"04628",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85838129,
+        102081143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sTC8QoC37AnzoG4PVOFiU_44.955886_-67.263065@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221140,
+    "wof:geomhash":"954ff7e211368b96b9794b9ab7cdfd04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85838129,
+            "region_id":85688769,
+            "venue_id":857714565
+        }
+    ],
+    "wof:id":857714565,
+    "wof:lastmodified":1472627266,
+    "wof:name":"Lingley's Garage",
+    "wof:parent_id":85838129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -67.263065,
+    44.955886,
+    -67.263065,
+    44.955886
+],
+  "geometry": {"coordinates":[-67.263065,44.955886],"type":"Point"}
+}

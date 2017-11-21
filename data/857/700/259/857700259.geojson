@@ -1,0 +1,76 @@
+{
+  "id": 857700259,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6 Bangor Mall Blvd Bangor ME 04401",
+    "addr:housenumber":"6",
+    "addr:postcode":"04401",
+    "addr:street":"Bangor Mall Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.742591,44.835635,-68.742591,44.835635",
+    "geom:latitude":44.835635,
+    "geom:longitude":-68.742591,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Bangor Mall Blvd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 1005",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bgmZuR08MdZfbv2BIRMyR_44.835635_-68.742591@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220818,
+    "wof:geomhash":"3382b872e63372d3c8d8108a85d0aace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857700259
+        }
+    ],
+    "wof:id":857700259,
+    "wof:lastmodified":1472627202,
+    "wof:name":"Toys R Us",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.742591,
+    44.835635,
+    -68.742591,
+    44.835635
+],
+  "geometry": {"coordinates":[-68.742591,44.835635],"type":"Point"}
+}

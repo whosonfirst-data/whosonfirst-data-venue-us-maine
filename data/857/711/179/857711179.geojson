@@ -1,0 +1,79 @@
+{
+  "id": 857711179,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"48 Main St Belfast ME 04915",
+    "addr:housenumber":"48",
+    "addr:postcode":"04915",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.00619,44.426791,-69.00619,44.426791",
+    "geom:latitude":44.426791,
+    "geom:longitude":-69.00619,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"48 Main St",
+    "sg:city":"Belfast",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 338 4747",
+    "sg:postcode":"04915",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85824361,
+        102191575,
+        404474809,
+        85633793,
+        85948905,
+        102087445,
+        85688769
+    ],
+    "wof:brand_id":1125156871,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SAIb5nBBnEEFRvwYkznlK_44.426791_-69.006190@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221054,
+    "wof:geomhash":"cb225e8d9cf4fddb688ff9199859a170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087445,
+            "localadmin_id":404474809,
+            "locality_id":85948905,
+            "neighbourhood_id":85824361,
+            "region_id":85688769,
+            "venue_id":857711179
+        }
+    ],
+    "wof:id":857711179,
+    "wof:lastmodified":1510697000,
+    "wof:name":"Upper Cut",
+    "wof:parent_id":85824361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.00619,
+    44.426791,
+    -69.00619,
+    44.426791
+],
+  "geometry": {"coordinates":[-69.00619,44.426791],"type":"Point"}
+}

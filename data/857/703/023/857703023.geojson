@@ -1,0 +1,72 @@
+{
+  "id": 857703023,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"110 Field Rd Falmouth ME 04105",
+    "addr:housenumber":"110",
+    "addr:postcode":"04105",
+    "addr:street":"Field Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.273832,43.756854,-70.273832,43.756854",
+    "geom:latitude":43.756854,
+    "geom:longitude":-70.273832,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 Field Rd",
+    "sg:city":"Falmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 878 5878",
+    "sg:postcode":"04105",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85837549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t1Bf2eOjAkBtCOBVTAqMB_43.756854_-70.273832@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220878,
+    "wof:geomhash":"2a918c9df37709837a65b4e31758f9d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85837549,
+            "region_id":85688769,
+            "venue_id":857703023
+        }
+    ],
+    "wof:id":857703023,
+    "wof:lastmodified":1472627192,
+    "wof:name":"Tails Up K9 Training Center",
+    "wof:parent_id":85837549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.273832,
+    43.756854,
+    -70.273832,
+    43.756854
+],
+  "geometry": {"coordinates":[-70.273832,43.756854],"type":"Point"}
+}

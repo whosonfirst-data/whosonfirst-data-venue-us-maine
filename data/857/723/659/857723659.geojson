@@ -1,0 +1,81 @@
+{
+  "id": 857723659,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"534 Pushaw Rd Bangor ME 04401",
+    "addr:housenumber":"534",
+    "addr:postcode":"04401",
+    "addr:street":"Pushaw Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.810046,44.861158,-68.810046,44.861158",
+    "geom:latitude":44.861158,
+    "geom:longitude":-68.810046,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"534 Pushaw Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 6710",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85815935,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3InWWrE1BU6IiYxcTWZ1ew_44.861158_-68.810046@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221318,
+    "wof:geomhash":"b53f5027331dae68ab59cc0cf25bbff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85815935,
+            "region_id":85688769,
+            "venue_id":857723659
+        }
+    ],
+    "wof:id":857723659,
+    "wof:lastmodified":1472627272,
+    "wof:name":"Great Brook Farm",
+    "wof:parent_id":85815935,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equine"
+    ]
+},
+  "bbox": [
+    -68.810046,
+    44.861158,
+    -68.810046,
+    44.861158
+],
+  "geometry": {"coordinates":[-68.810046,44.861158],"type":"Point"}
+}

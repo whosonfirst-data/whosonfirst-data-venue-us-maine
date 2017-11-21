@@ -1,0 +1,79 @@
+{
+  "id": 857687005,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3 Market St Fort Kent ME 04743",
+    "addr:housenumber":"3",
+    "addr:postcode":"04743",
+    "addr:street":"Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.589764,47.25757,-68.589764,47.25757",
+    "geom:latitude":47.25757,
+    "geom:longitude":-68.589764,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Market St",
+    "sg:city":"Fort Kent",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 834 3903",
+    "sg:postcode":"04743",
+    "sg:province":"ME",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eGwHQxGjhQGc8eAwA0FEM_47.257570_-68.589764@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220559,
+    "wof:geomhash":"763754e2fc7c6474dc277814cb63d3b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857687005
+        }
+    ],
+    "wof:id":857687005,
+    "wof:lastmodified":1472627184,
+    "wof:name":"NAPA-Roy's Auto Parts",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -68.589764,
+    47.25757,
+    -68.589764,
+    47.25757
+],
+  "geometry": {"coordinates":[-68.589764,47.25757],"type":"Point"}
+}

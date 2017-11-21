@@ -1,0 +1,81 @@
+{
+  "id": 857692141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1502 State St Veazie ME 04401",
+    "addr:housenumber":"1502",
+    "addr:postcode":"04401",
+    "addr:street":"State St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.705189,44.841228,-68.705189,44.841228",
+    "geom:latitude":44.841228,
+    "geom:longitude":-68.705189,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1502 State St",
+    "sg:city":"Veazie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 7734",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xgmjOR8xvbb1rZNDYwFH7_44.841228_-68.705189@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220664,
+    "wof:geomhash":"e989dcc754f91946f08ad4a61a0cc37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857692141
+        }
+    ],
+    "wof:id":857692141,
+    "wof:lastmodified":1472627196,
+    "wof:name":"Johnson Monumental Co",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -68.705189,
+    44.841228,
+    -68.705189,
+    44.841228
+],
+  "geometry": {"coordinates":[-68.705189,44.841228],"type":"Point"}
+}

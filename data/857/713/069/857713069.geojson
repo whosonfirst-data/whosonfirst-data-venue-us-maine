@@ -1,0 +1,76 @@
+{
+  "id": 857713069,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"609 Broadway Bangor ME 04401",
+    "addr:housenumber":"609",
+    "addr:postcode":"04401",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.779556,44.823732,-68.779556,44.823732",
+    "geom:latitude":44.823732,
+    "geom:longitude":-68.779556,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"609 Broadway",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 942 4874",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85815935,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MGUiB7lUEUPxtCjwN6cpG_44.823732_-68.779556@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221111,
+    "wof:geomhash":"2f18efaa762f05ae462e074fb4c91274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85815935,
+            "region_id":85688769,
+            "venue_id":857713069
+        }
+    ],
+    "wof:id":857713069,
+    "wof:lastmodified":1472627238,
+    "wof:name":"Bangor Savings Bank",
+    "wof:parent_id":85815935,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.779556,
+    44.823732,
+    -68.779556,
+    44.823732
+],
+  "geometry": {"coordinates":[-68.779556,44.823732],"type":"Point"}
+}

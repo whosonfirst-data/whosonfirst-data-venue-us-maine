@@ -1,0 +1,75 @@
+{
+  "id": 857708011,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10 Bangor St Augusta ME 04330",
+    "addr:housenumber":"10",
+    "addr:postcode":"04330",
+    "addr:street":"Bangor St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.767545,44.317285,-69.767545,44.317285",
+    "geom:latitude":44.317285,
+    "geom:longitude":-69.767545,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"10 Bangor St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 623 9844",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:brand_id":1125156193,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09Yh1uSu8w0hsqt0jtlkYL_44.317285_-69.767545@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220973,
+    "wof:geomhash":"48c4b1196acf99f0a522e139971cbe4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857708011
+        }
+    ],
+    "wof:id":857708011,
+    "wof:lastmodified":1510694763,
+    "wof:name":"Aubuchon Hardware",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.767545,
+    44.317285,
+    -69.767545,
+    44.317285
+],
+  "geometry": {"coordinates":[-69.767545,44.317285],"type":"Point"}
+}

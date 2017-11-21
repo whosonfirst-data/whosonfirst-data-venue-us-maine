@@ -1,0 +1,99 @@
+{
+  "id": 857731699,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1573 Main St Palmyra ME 04965",
+    "addr:housenumber":"1573",
+    "addr:postcode":"04965",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.300692,44.839497,-69.300692,44.839497",
+    "geom:latitude":44.839497,
+    "geom:longitude":-69.300692,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1573 Main St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/palmyra/149142-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 368 4401",
+    "sg:postcode":"04965",
+    "sg:province":"ME",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949081,
+        102087435,
+        85854823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j9Kvr0VqXKjmHfPwAgMDb_44.839497_-69.300692@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221477,
+    "wof:geomhash":"8962f7feecaaa4000389cc966f1a6322",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087435,
+            "locality_id":85949081,
+            "neighbourhood_id":85854823,
+            "region_id":85688769,
+            "venue_id":857731699
+        }
+    ],
+    "wof:id":857731699,
+    "wof:lastmodified":1472627317,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85854823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -69.300692,
+    44.839497,
+    -69.300692,
+    44.839497
+],
+  "geometry": {"coordinates":[-69.300692,44.839497],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857715905,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"133 Mount Vernon Ave Augusta ME 04330",
+    "addr:housenumber":"133",
+    "addr:postcode":"04330",
+    "addr:street":"Mount Vernon Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.776636,44.3248,-69.776636,44.3248",
+    "geom:latitude":44.3248,
+    "geom:longitude":-69.776636,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"133 Mount Vernon Ave",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 626 3100",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "material"
+    ],
+    "sg:website":"www.shopfromhomeflooring.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SqmWpwxy8sDlkYUUNYGJd_44.324800_-69.776636@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221164,
+    "wof:geomhash":"785fecaa19733cc0a43e3994c612eeb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857715905
+        }
+    ],
+    "wof:id":857715905,
+    "wof:lastmodified":1472627277,
+    "wof:name":"Shop From Home Flooring",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    -69.776636,
+    44.3248,
+    -69.776636,
+    44.3248
+],
+  "geometry": {"coordinates":[-69.776636,44.3248],"type":"Point"}
+}

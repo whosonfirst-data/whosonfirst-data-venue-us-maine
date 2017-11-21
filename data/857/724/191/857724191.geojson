@@ -1,0 +1,76 @@
+{
+  "id": 857724191,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"33 Mill St Orono ME 04473",
+    "addr:housenumber":"33",
+    "addr:postcode":"04473",
+    "addr:street":"Mill St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.671728,44.883408,-68.671728,44.883408",
+    "geom:latitude":44.883408,
+    "geom:longitude":-68.671728,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Mill St",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 7811",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pjI2PDo7ghH7JEsESw8Sp_44.883408_-68.671728@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221327,
+    "wof:geomhash":"0ed537f7ba8941002ea632c2bb0b85cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857724191
+        }
+    ],
+    "wof:id":857724191,
+    "wof:lastmodified":1472627253,
+    "wof:name":"Park's Hardware",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.671728,
+    44.883408,
+    -68.671728,
+    44.883408
+],
+  "geometry": {"coordinates":[-68.671728,44.883408],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857735143,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"86 North St Kennebunkport ME 04046",
+    "addr:housenumber":"86",
+    "addr:postcode":"04046",
+    "addr:street":"North St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.473,43.370899,-70.473,43.370899",
+    "geom:latitude":43.370899,
+    "geom:longitude":-70.473,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"86 North St",
+    "sg:city":"Kennebunkport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 967 0877",
+    "sg:postcode":"04046",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85812189,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gwdXRnXx62813o4G4AuxS_43.370899_-70.473000@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221542,
+    "wof:geomhash":"ce0a9efb492ab4ccff7ab70b01cff8af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85812189,
+            "region_id":85688769,
+            "venue_id":857735143
+        }
+    ],
+    "wof:id":857735143,
+    "wof:lastmodified":1472627298,
+    "wof:name":"Northland Construction",
+    "wof:parent_id":85812189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.473,
+    43.370899,
+    -70.473,
+    43.370899
+],
+  "geometry": {"coordinates":[-70.473,43.370899],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857717857,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"443 Main St Ellsworth ME 04605",
+    "addr:housenumber":"443",
+    "addr:postcode":"04605",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.392124,44.550417,-68.392124,44.550417",
+    "geom:latitude":44.550417,
+    "geom:longitude":-68.392124,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"443 Main St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 7571",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YHRX3DYF7bQ6AyQh8Htkh_44.550417_-68.392124@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221201,
+    "wof:geomhash":"0016d2c9b63371c1e7e12091d22828a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857717857
+        }
+    ],
+    "wof:id":857717857,
+    "wof:lastmodified":1472627269,
+    "wof:name":"School Administrative Union 92",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.392124,
+    44.550417,
+    -68.392124,
+    44.550417
+],
+  "geometry": {"coordinates":[-68.392124,44.550417],"type":"Point"}
+}

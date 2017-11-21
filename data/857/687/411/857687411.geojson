@@ -1,0 +1,76 @@
+{
+  "id": 857687411,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"936 Stillwater Ave Bangor ME 04401",
+    "addr:housenumber":"936",
+    "addr:postcode":"04401",
+    "addr:street":"Stillwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.741036,44.844778,-68.741036,44.844778",
+    "geom:latitude":44.844778,
+    "geom:longitude":-68.741036,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"936 Stillwater Ave",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 941 0200",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VMhIJiXTMlMsNDsnfMmlS_44.844778_-68.741036@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220567,
+    "wof:geomhash":"f881b693eb6fb9fafb8f85823e91edde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857687411
+        }
+    ],
+    "wof:id":857687411,
+    "wof:lastmodified":1472627189,
+    "wof:name":"Country Inn",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.741036,
+    44.844778,
+    -68.741036,
+    44.844778
+],
+  "geometry": {"coordinates":[-68.74103599999999,44.844778],"type":"Point"}
+}

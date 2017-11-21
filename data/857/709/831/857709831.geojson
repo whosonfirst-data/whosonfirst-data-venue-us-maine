@@ -1,0 +1,70 @@
+{
+  "id": 857709831,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"92 Miles Rd Newcastle ME 04568",
+    "addr:housenumber":"92",
+    "addr:postcode":"04568",
+    "addr:street":"Miles Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.549057,43.855794,-69.549057,43.855794",
+    "geom:latitude":43.855794,
+    "geom:longitude":-69.549057,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"92 Miles Rd",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 563 6666",
+    "sg:postcode":"04568",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85810969,
+        102087447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PNC53yNckocgbERu9Inre_43.855794_-69.549057@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221026,
+    "wof:geomhash":"126cf28c2b964c0ad2d3ef74a8419085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087447,
+            "neighbourhood_id":85810969,
+            "region_id":85688769,
+            "venue_id":857709831
+        }
+    ],
+    "wof:id":857709831,
+    "wof:lastmodified":1472627260,
+    "wof:name":"Flowers At Louis Doe Home Ctr",
+    "wof:parent_id":85810969,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.549057,
+    43.855794,
+    -69.549057,
+    43.855794
+],
+  "geometry": {"coordinates":[-69.549057,43.855794],"type":"Point"}
+}

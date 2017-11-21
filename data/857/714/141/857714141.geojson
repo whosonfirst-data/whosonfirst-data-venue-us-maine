@@ -1,0 +1,81 @@
+{
+  "id": 857714141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"36 Penn Plz Bangor ME 04401",
+    "addr:housenumber":"36",
+    "addr:postcode":"04401",
+    "addr:street":"Penn Plz",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.74985,44.836379,-68.74985,44.836379",
+    "geom:latitude":44.836379,
+    "geom:longitude":-68.74985,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Penn Plz",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 990 4344",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Rn71C1X99CplVdq4VkcHJ_44.836379_-68.749850@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221132,
+    "wof:geomhash":"4f9b903af9fe49e1fb01f7b5ca1a915b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857714141
+        }
+    ],
+    "wof:id":857714141,
+    "wof:lastmodified":1472627237,
+    "wof:name":"Dirigo Investigative Svc",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -68.74985,
+    44.836379,
+    -68.74985,
+    44.836379
+],
+  "geometry": {"coordinates":[-68.74985,44.836379],"type":"Point"}
+}

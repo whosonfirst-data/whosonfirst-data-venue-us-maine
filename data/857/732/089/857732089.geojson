@@ -1,0 +1,84 @@
+{
+  "id": 857732089,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"57 Bangor Mall Blvd Bangor ME 04401",
+    "addr:housenumber":"57",
+    "addr:postcode":"04401",
+    "addr:street":"Bangor Mall Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.744216,44.835448,-68.744216,44.835448",
+    "geom:latitude":44.835448,
+    "geom:longitude":-68.744216,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"57 Bangor Mall Blvd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/bangor/210659-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 2536",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UT9mup4LXzTdWcXKl27YA_44.835375_-68.744874@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221485,
+    "wof:geomhash":"1d7ccc264db11478a725b8bdac15410f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857732089
+        }
+    ],
+    "wof:id":857732089,
+    "wof:lastmodified":1472627298,
+    "wof:name":"Arby's",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -68.744216,
+    44.835448,
+    -68.744216,
+    44.835448
+],
+  "geometry": {"coordinates":[-68.74421599999999,44.835448],"type":"Point"}
+}

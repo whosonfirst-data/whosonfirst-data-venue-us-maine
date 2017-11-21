@@ -1,0 +1,82 @@
+{
+  "id": 857686917,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"299 Godfrey Blvd Bangor ME 04401",
+    "addr:housenumber":"299",
+    "addr:postcode":"04401",
+    "addr:street":"Godfrey Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.814637,44.811533,-68.814637,44.811533",
+    "geom:latitude":44.811533,
+    "geom:longitude":-68.814637,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"299 Godfrey Blvd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 945 5686",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.flybangor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855195,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64WolpW6bwuxEeBgm9G4mn_44.811533_-68.814637@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220557,
+    "wof:geomhash":"fde5fa5d47c2b44109d7156b74dda357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85855195,
+            "region_id":85688769,
+            "venue_id":857686917
+        }
+    ],
+    "wof:id":857686917,
+    "wof:lastmodified":1472627210,
+    "wof:name":"Comair Inc",
+    "wof:parent_id":85855195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -68.814637,
+    44.811533,
+    -68.814637,
+    44.811533
+],
+  "geometry": {"coordinates":[-68.814637,44.811533],"type":"Point"}
+}

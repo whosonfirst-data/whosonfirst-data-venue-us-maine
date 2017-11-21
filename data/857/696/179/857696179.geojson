@@ -1,0 +1,77 @@
+{
+  "id": 857696179,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8 Main St Howland ME 04448",
+    "addr:housenumber":"8",
+    "addr:postcode":"04448",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.656765,45.242069,-68.656765,45.242069",
+    "geom:latitude":45.242069,
+    "geom:longitude":-68.656765,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Main St",
+    "sg:city":"Howland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 732 3513",
+    "sg:postcode":"04448",
+    "sg:province":"ME",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949107,
+        102080723,
+        85849837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q4tGiBvBxaLWspGE1nHAc_45.242069_-68.656765@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220739,
+    "wof:geomhash":"5453c7ac579682153c4f7df215025724",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85949107,
+            "neighbourhood_id":85849837,
+            "region_id":85688769,
+            "venue_id":857696179
+        }
+    ],
+    "wof:id":857696179,
+    "wof:lastmodified":1472627196,
+    "wof:name":"Howland Town Office",
+    "wof:parent_id":85849837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -68.656765,
+    45.242069,
+    -68.656765,
+    45.242069
+],
+  "geometry": {"coordinates":[-68.65676499999999,45.242069],"type":"Point"}
+}

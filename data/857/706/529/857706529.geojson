@@ -1,0 +1,85 @@
+{
+  "id": 857706529,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1 King St Deer Isle ME 04619",
+    "addr:housenumber":"1",
+    "addr:postcode":"04619",
+    "addr:street":"King St;Isle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.290446,45.168718,-67.290446,45.168718",
+    "geom:latitude":45.168718,
+    "geom:longitude":-67.290446,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 King St",
+    "sg:city":"Deer Isle",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 348 5657",
+    "sg:postcode":"04619",
+    "sg:province":"ME",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857599,
+        102191575,
+        404475311,
+        85633793,
+        85948871,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IYS263owvfk4mWQcprEv7_45.168718_-67.290446@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220941,
+    "wof:geomhash":"f911d640d4a6c39149b85d8c529a70c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475311,
+            "locality_id":85948871,
+            "neighbourhood_id":85857599,
+            "region_id":85688769,
+            "venue_id":857706529
+        }
+    ],
+    "wof:id":857706529,
+    "wof:lastmodified":1472627243,
+    "wof:name":"One King Row",
+    "wof:parent_id":85857599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -67.290446,
+    45.168718,
+    -67.290446,
+    45.168718
+],
+  "geometry": {"coordinates":[-67.290446,45.168718],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857709553,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"665 Stillwater Ave Old Town ME 04468",
+    "addr:housenumber":"665",
+    "addr:postcode":"04468",
+    "addr:street":"Stillwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.672163,44.923288,-68.672163,44.923288",
+    "geom:latitude":44.923288,
+    "geom:longitude":-68.672163,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"665 Stillwater Ave",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 2413",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OKWa6Dx7Sc40qWbwt2SDr_44.923288_-68.672163@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221019,
+    "wof:geomhash":"fe0d0c1d59958e38c9564decbc2b2b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857709553
+        }
+    ],
+    "wof:id":857709553,
+    "wof:lastmodified":1472627253,
+    "wof:name":"Sullivan's Automotive Svc",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -68.672163,
+    44.923288,
+    -68.672163,
+    44.923288
+],
+  "geometry": {"coordinates":[-68.672163,44.923288],"type":"Point"}
+}

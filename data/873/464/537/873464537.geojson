@@ -1,0 +1,76 @@
+{
+  "id": 873464537,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"51 Market St South Portland ME 04106",
+    "addr:housenumber":"51",
+    "addr:postcode":"04106",
+    "addr:street":"Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.254303,43.6357,-70.254303,43.6357",
+    "geom:latitude":43.6357,
+    "geom:longitude":-70.254303,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Market St",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 767 1882",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828657,
+        102191575,
+        404475439,
+        85633793,
+        85948879,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18YLaPGMVBChQD0gYiKjuA_43.635700_-70.254303@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221559,
+    "wof:geomhash":"5c3c77d51c17d2d3eea2f15cabd71a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475439,
+            "locality_id":85948879,
+            "neighbourhood_id":85828657,
+            "region_id":85688769,
+            "venue_id":873464537
+        }
+    ],
+    "wof:id":873464537,
+    "wof:lastmodified":1472627184,
+    "wof:name":"Asia Restaurant",
+    "wof:parent_id":85828657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.254303,
+    43.6357,
+    -70.254303,
+    43.6357
+],
+  "geometry": {"coordinates":[-70.25430299999999,43.6357],"type":"Point"}
+}

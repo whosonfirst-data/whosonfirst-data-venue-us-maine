@@ -1,0 +1,76 @@
+{
+  "id": 857694747,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"260 Main St Presque Isle ME 04769",
+    "addr:housenumber":"260",
+    "addr:postcode":"04769",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.01603,46.675436,-68.01603,46.675436",
+    "geom:latitude":46.675436,
+    "geom:longitude":-68.01603,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"260 Main St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 5500",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XCd1aNLM3pyhFIix63BQh_46.675436_-68.016030@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220713,
+    "wof:geomhash":"1cc6f620e6c1d80b6ed0fa261f4f7c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857694747
+        }
+    ],
+    "wof:id":857694747,
+    "wof:lastmodified":1472627218,
+    "wof:name":"Big Cheese Pizza",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.01603,
+    46.675436,
+    -68.01603,
+    46.675436
+],
+  "geometry": {"coordinates":[-68.01603,46.675436],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857730363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"333 Broadway South Portland ME 04106",
+    "addr:housenumber":"333",
+    "addr:postcode":"04106",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.244175,43.639388,-70.244175,43.639388",
+    "geom:latitude":43.639388,
+    "geom:longitude":-70.244175,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"333 Broadway",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/south-portland/119855-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 767 0111",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948879,
+        102087463,
+        85867973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q43yIQP4ASoXxFJprvKWa_43.639388_-70.244175@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221445,
+    "wof:geomhash":"d0afdbe0d91f3529228c1cd196fd4578",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948879,
+            "neighbourhood_id":85867973,
+            "region_id":85688769,
+            "venue_id":857730363
+        }
+    ],
+    "wof:id":857730363,
+    "wof:lastmodified":1472627301,
+    "wof:name":"Subway",
+    "wof:parent_id":85867973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -70.244175,
+    43.639388,
+    -70.244175,
+    43.639388
+],
+  "geometry": {"coordinates":[-70.244175,43.639388],"type":"Point"}
+}

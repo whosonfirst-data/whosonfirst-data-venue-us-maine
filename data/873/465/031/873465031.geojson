@@ -1,0 +1,82 @@
+{
+  "id": 873465031,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"301 Cottage Rd South Portland ME 04106",
+    "addr:housenumber":"301",
+    "addr:postcode":"04106",
+    "addr:street":"Cottage Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.240196,43.635101,-70.240196,43.635101",
+    "geom:latitude":43.635101,
+    "geom:longitude":-70.240196,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"301 Cottage Rd",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 799 3361",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948879,
+        102087463,
+        85867973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OMjLWgWiKJfzP6DcC8Yfo_43.635101_-70.240196@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221569,
+    "wof:geomhash":"2ee12e03847e14e8e4c6ed8091e2dacd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948879,
+            "neighbourhood_id":85867973,
+            "region_id":85688769,
+            "venue_id":873465031
+        }
+    ],
+    "wof:id":873465031,
+    "wof:lastmodified":1472627182,
+    "wof:name":"Discovery Center the",
+    "wof:parent_id":85867973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -70.240196,
+    43.635101,
+    -70.240196,
+    43.635101
+],
+  "geometry": {"coordinates":[-70.240196,43.635101],"type":"Point"}
+}

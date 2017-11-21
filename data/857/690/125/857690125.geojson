@@ -1,0 +1,83 @@
+{
+  "id": 857690125,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7 Pendleton St China Village ME 04915",
+    "addr:housenumber":"7",
+    "addr:postcode":"04915",
+    "addr:street":"Pendleton St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.005946,44.426218,-69.005946,44.426218",
+    "geom:latitude":44.426218,
+    "geom:longitude":-69.005946,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Pendleton St",
+    "sg:city":"China Village",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 968 2101",
+    "sg:postcode":"04915",
+    "sg:province":"ME",
+    "sg:tags":[
+        "conference",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85824361,
+        102191575,
+        404474809,
+        85633793,
+        85948905,
+        102087445,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_609M7zq41AVfCLHHWR5TIr_44.426218_-69.005946@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220619,
+    "wof:geomhash":"a7f51eb0d2a1287c73f4636c11a5405c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087445,
+            "localadmin_id":404474809,
+            "locality_id":85948905,
+            "neighbourhood_id":85824361,
+            "region_id":85688769,
+            "venue_id":857690125
+        }
+    ],
+    "wof:id":857690125,
+    "wof:lastmodified":1472627193,
+    "wof:name":"China Lake Conference Ctr",
+    "wof:parent_id":85824361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conference",
+        "center"
+    ]
+},
+  "bbox": [
+    -69.005946,
+    44.426218,
+    -69.005946,
+    44.426218
+],
+  "geometry": {"coordinates":[-69.00594599999999,44.426218],"type":"Point"}
+}

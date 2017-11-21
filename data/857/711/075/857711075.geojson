@@ -1,0 +1,76 @@
+{
+  "id": 857711075,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"115 Park St Rockport ME 04856",
+    "addr:housenumber":"115",
+    "addr:postcode":"04856",
+    "addr:street":"Park St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.102109,44.196727,-69.102109,44.196727",
+    "geom:latitude":44.196727,
+    "geom:longitude":-69.102109,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"115 Park St",
+    "sg:city":"Rockport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 594 5511",
+    "sg:postcode":"04856",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833741,
+        102191575,
+        404475697,
+        85633793,
+        85948907,
+        102087453,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09HojDrhYBvEWCZqwjjt7e_44.196727_-69.102109@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221052,
+    "wof:geomhash":"22dd49a129bdc0eaf8a007bb6f27715b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087453,
+            "localadmin_id":404475697,
+            "locality_id":85948907,
+            "neighbourhood_id":85833741,
+            "region_id":85688769,
+            "venue_id":857711075
+        }
+    ],
+    "wof:id":857711075,
+    "wof:lastmodified":1472627230,
+    "wof:name":"Flint Enterprises",
+    "wof:parent_id":85833741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.102109,
+    44.196727,
+    -69.102109,
+    44.196727
+],
+  "geometry": {"coordinates":[-69.102109,44.196727],"type":"Point"}
+}

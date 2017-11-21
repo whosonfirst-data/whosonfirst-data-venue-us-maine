@@ -1,0 +1,83 @@
+{
+  "id": 857728027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"440 Ocean St South Portland ME 04106",
+    "addr:housenumber":"440",
+    "addr:postcode":"04106",
+    "addr:street":"Ocean St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.250702,43.626701,-70.250702,43.626701",
+    "geom:latitude":43.626701,
+    "geom:longitude":-70.250702,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"440 Ocean St",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 799 2400",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "elementary",
+        "kindergarten",
+        "school",
+        "academic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948879,
+        102087463,
+        85867973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ole7WKTZjkLZcH0KIcmN6_43.627237_-70.250672@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464221396,
+    "wof:geomhash":"92e767eaa6fe43525ff31d2e6c3411ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948879,
+            "neighbourhood_id":85867973,
+            "region_id":85688769,
+            "venue_id":857728027
+        }
+    ],
+    "wof:id":857728027,
+    "wof:lastmodified":1472627286,
+    "wof:name":"Casco Bay Montessori School",
+    "wof:parent_id":85867973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "kindergarten",
+        "school",
+        "academic"
+    ]
+},
+  "bbox": [
+    -70.250702,
+    43.626701,
+    -70.250702,
+    43.626701
+],
+  "geometry": {"coordinates":[-70.250702,43.626701],"type":"Point"}
+}

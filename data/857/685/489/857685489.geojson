@@ -1,0 +1,79 @@
+{
+  "id": 857685489,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"81 Oak St Portland ME 04101",
+    "addr:housenumber":"81",
+    "addr:postcode":"04101",
+    "addr:street":"Oak St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.262141,43.655658,-70.262141,43.655658",
+    "geom:latitude":43.655658,
+    "geom:longitude":-70.262141,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"81 Oak St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 253 8012",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "scientist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85882031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fk8xwOZB62EXsYI13Nx3W_43.655658_-70.262141@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220530,
+    "wof:geomhash":"e243dee0de09a42c445cf82cb5d8f917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85882031,
+            "region_id":85688769,
+            "venue_id":857685489
+        }
+    ],
+    "wof:id":857685489,
+    "wof:lastmodified":1472627197,
+    "wof:name":"Net Matrix Solutions",
+    "wof:parent_id":85882031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scientist"
+    ]
+},
+  "bbox": [
+    -70.262141,
+    43.655658,
+    -70.262141,
+    43.655658
+],
+  "geometry": {"coordinates":[-70.262141,43.655658],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857714219,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2556 E Conway Rd Center Conway ME 03813",
+    "addr:housenumber":"2556",
+    "addr:postcode":"03813",
+    "addr:street":"E Conway Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.059608,44.011245,-71.059608,44.011245",
+    "geom:latitude":44.011245,
+    "geom:longitude":-71.059608,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2556 E Conway Rd",
+    "sg:city":"Center Conway",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 939 2674",
+    "sg:postcode":"03813",
+    "sg:province":"ME",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fKREdLB7LFOAkwD4KqY0t_44.011245_-71.059608@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221133,
+    "wof:geomhash":"b808cebc07011a81ec9674f97b8ca3fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":857714219
+        }
+    ],
+    "wof:id":857714219,
+    "wof:lastmodified":1472627248,
+    "wof:name":"Sawyer Community Residence",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -71.059608,
+    44.011245,
+    -71.059608,
+    44.011245
+],
+  "geometry": {"coordinates":[-71.059608,44.011245],"type":"Point"}
+}

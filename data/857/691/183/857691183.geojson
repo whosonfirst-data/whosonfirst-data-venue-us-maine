@@ -1,0 +1,79 @@
+{
+  "id": 857691183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7 River Rd Indian Island ME 04468",
+    "addr:housenumber":"7",
+    "addr:postcode":"04468",
+    "addr:street":"River Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.648076,44.948389,-68.648076,44.948389",
+    "geom:latitude":44.948389,
+    "geom:longitude":-68.648076,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 River Rd",
+    "sg:city":"Indian Island",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 7750",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "bingo",
+        "game"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6em1B4aQwQk7HgwHWODL0V_44.948389_-68.648076@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220644,
+    "wof:geomhash":"4ad1c005f5f7e541a5e2d27be242d2c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857691183
+        }
+    ],
+    "wof:id":857691183,
+    "wof:lastmodified":1472627188,
+    "wof:name":"Penobscot Indian Reservation",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bingo",
+        "game"
+    ]
+},
+  "bbox": [
+    -68.648076,
+    44.948389,
+    -68.648076,
+    44.948389
+],
+  "geometry": {"coordinates":[-68.648076,44.948389],"type":"Point"}
+}

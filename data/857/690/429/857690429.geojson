@@ -1,0 +1,81 @@
+{
+  "id": 857690429,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"47 Park St Ellsworth ME 04605",
+    "addr:housenumber":"47",
+    "addr:postcode":"04605",
+    "addr:street":"Park St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.421466,44.54585,-68.421466,44.54585",
+    "geom:latitude":44.54585,
+    "geom:longitude":-68.421466,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"47 Park St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 5013",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fH9Ei8mQ2kNCbGzQb2yB6_44.545850_-68.421466@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220627,
+    "wof:geomhash":"0bea4eb756e7bf59efef83d93f4be415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857690429
+        }
+    ],
+    "wof:id":857690429,
+    "wof:lastmodified":1472627195,
+    "wof:name":"Walter H Dickes DDS",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -68.421466,
+    44.54585,
+    -68.421466,
+    44.54585
+],
+  "geometry": {"coordinates":[-68.421466,44.54585],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857697277,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"518 US Hwy 1 Kittery ME 03904",
+    "addr:housenumber":"518",
+    "addr:postcode":"03904",
+    "addr:street":"Us Hwy 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.70275,43.132201,-70.70275,43.132201",
+    "geom:latitude":43.132201,
+    "geom:longitude":-70.70275,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"518 US Hwy 1",
+    "sg:city":"Kittery",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 439 1111",
+    "sg:postcode":"03904",
+    "sg:province":"ME",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85805231,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EBr7FuJZuKweBbPxgP5CN_43.132201_-70.702750@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220760,
+    "wof:geomhash":"9774ae5419c60cad4ac1e6e0a154c38d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85805231,
+            "region_id":85688769,
+            "venue_id":857697277
+        }
+    ],
+    "wof:id":857697277,
+    "wof:lastmodified":1472627196,
+    "wof:name":"Our School Nursery School",
+    "wof:parent_id":85805231,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -70.70275,
+    43.132201,
+    -70.70275,
+    43.132201
+],
+  "geometry": {"coordinates":[-70.70274999999999,43.132201],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873465573,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1000 Shore Rd Cape Elizabeth ME 04107",
+    "addr:housenumber":"1000",
+    "addr:postcode":"04107",
+    "addr:street":"Shore Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.216676,43.623997,-70.216676,43.623997",
+    "geom:latitude":43.623997,
+    "geom:longitude":-70.216676,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1000 Shore Rd",
+    "sg:city":"Cape Elizabeth",
+    "sg:classifiers":[
+        {
+            "category":"Park",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 799 2661",
+    "sg:postcode":"04107",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85867971,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vKC8pcoHmRsjBRtE7VY2p_43.623997_-70.216676@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221580,
+    "wof:geomhash":"f33cf35b99e4cd88e2fe5e072d80aa18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85867971,
+            "region_id":85688769,
+            "venue_id":873465573
+        }
+    ],
+    "wof:id":873465573,
+    "wof:lastmodified":1472627185,
+    "wof:name":"Portland Head Lighthouse and Museum",
+    "wof:parent_id":85867971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.216676,
+    43.623997,
+    -70.216676,
+    43.623997
+],
+  "geometry": {"coordinates":[-70.21667600000001,43.623997],"type":"Point"}
+}

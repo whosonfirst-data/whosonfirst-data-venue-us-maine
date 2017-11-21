@@ -1,0 +1,77 @@
+{
+  "id": 857720863,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13 Hill St Blue Hill ME 04634",
+    "addr:housenumber":"13",
+    "addr:postcode":"04634",
+    "addr:street":"Hill St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.263726,44.603083,-68.263726,44.603083",
+    "geom:latitude":44.603083,
+    "geom:longitude":-68.263726,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13 Hill St",
+    "sg:city":"Blue Hill",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 374 2877",
+    "sg:postcode":"04634",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85820603,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dR9Kovim3UDOvCL0T2cDo_44.603083_-68.263726@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221265,
+    "wof:geomhash":"25c0c93060f226b56ca0a69bb9ee6f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85820603,
+            "region_id":85688769,
+            "venue_id":857720863
+        }
+    ],
+    "wof:id":857720863,
+    "wof:lastmodified":1472627276,
+    "wof:name":"Raynes Marine Works",
+    "wof:parent_id":85820603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -68.263726,
+    44.603083,
+    -68.263726,
+    44.603083
+],
+  "geometry": {"coordinates":[-68.26372600000001,44.603083],"type":"Point"}
+}

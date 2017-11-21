@@ -1,0 +1,83 @@
+{
+  "id": 857720155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"32 Crossing Brook Rd Cumberland Ctr ME 04021",
+    "addr:housenumber":"32",
+    "addr:postcode":"04021",
+    "addr:street":"Crossing Brook Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.237682,43.790412,-70.237682,43.790412",
+    "geom:latitude":43.790412,
+    "geom:longitude":-70.237682,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 Crossing Brook Rd",
+    "sg:city":"Cumberland Ctr",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 829 5842",
+    "sg:postcode":"04021",
+    "sg:province":"ME",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85846309,
+        102191575,
+        404475523,
+        85633793,
+        85948989,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nsZREDDf6pYfo0M5eDTEK_43.790412_-70.237682@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221253,
+    "wof:geomhash":"54d85b1113d806d16ad94795f66e5f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475523,
+            "locality_id":85948989,
+            "neighbourhood_id":85846309,
+            "region_id":85688769,
+            "venue_id":857720155
+        }
+    ],
+    "wof:id":857720155,
+    "wof:lastmodified":1472627252,
+    "wof:name":"Hamco Electric Svc",
+    "wof:parent_id":85846309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.237682,
+    43.790412,
+    -70.237682,
+    43.790412
+],
+  "geometry": {"coordinates":[-70.23768200000001,43.790412],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857734577,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"72 Main St Kennebunk ME 04043",
+    "addr:housenumber":"72",
+    "addr:postcode":"04043",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.539902,43.3862,-70.539902,43.3862",
+    "geom:latitude":43.3862,
+    "geom:longitude":-70.539902,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"72 Main St",
+    "sg:city":"Kennebunk",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 985 8898",
+    "sg:postcode":"04043",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804645,
+        102191575,
+        404475789,
+        85633793,
+        85949063,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qSsW1YISrEewczs1vP6p3_43.386200_-70.539902@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221532,
+    "wof:geomhash":"55c5f840c31927f08219f15145593b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475789,
+            "locality_id":85949063,
+            "neighbourhood_id":85804645,
+            "region_id":85688769,
+            "venue_id":857734577
+        }
+    ],
+    "wof:id":857734577,
+    "wof:lastmodified":1472627312,
+    "wof:name":"David Jones",
+    "wof:parent_id":85804645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.539902,
+    43.3862,
+    -70.539902,
+    43.3862
+],
+  "geometry": {"coordinates":[-70.539902,43.3862],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 857705541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"321 Stillwater Ave Bangor ME 04401",
+    "addr:housenumber":"321",
+    "addr:postcode":"04401",
+    "addr:street":"Stillwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.759363,44.823517,-68.759363,44.823517",
+    "geom:latitude":44.823517,
+    "geom:longitude":-68.759363,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"321 Stillwater Ave",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 7992",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5twICnhdGTbZqXiIa7UAgQ_44.823517_-68.759363@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220924,
+    "wof:geomhash":"f524487d01574d1b5d1db829ad947fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857705541
+        }
+    ],
+    "wof:id":857705541,
+    "wof:lastmodified":1472627251,
+    "wof:name":"Park East Retirement Villa",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -68.759363,
+    44.823517,
+    -68.759363,
+    44.823517
+],
+  "geometry": {"coordinates":[-68.75936299999999,44.823517],"type":"Point"}
+}

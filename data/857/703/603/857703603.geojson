@@ -1,0 +1,83 @@
+{
+  "id": 857703603,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"236 Surry Rd Ellsworth ME 04605",
+    "addr:housenumber":"236",
+    "addr:postcode":"04605",
+    "addr:street":"Surry Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.431646,44.531282,-68.431646,44.531282",
+    "geom:latitude":44.531282,
+    "geom:longitude":-68.431646,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"236 Surry Rd",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 8811",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "body",
+        "auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PhjGXrO5xnVbjRq2bMoXD_44.531282_-68.431646@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220888,
+    "wof:geomhash":"eb5ae568c5cd690185504e8b164a5485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857703603
+        }
+    ],
+    "wof:id":857703603,
+    "wof:lastmodified":1472627203,
+    "wof:name":"Harmons Upholstery Shop",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "auto"
+    ]
+},
+  "bbox": [
+    -68.431646,
+    44.531282,
+    -68.431646,
+    44.531282
+],
+  "geometry": {"coordinates":[-68.431646,44.531282],"type":"Point"}
+}

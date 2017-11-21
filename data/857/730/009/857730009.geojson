@@ -1,0 +1,82 @@
+{
+  "id": 857730009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1001 Westbrook St Portland ME 04102",
+    "addr:housenumber":"1001",
+    "addr:postcode":"04102",
+    "addr:street":"Westbrook St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.309826,43.651337,-70.309826,43.651337",
+    "geom:latitude":43.651337,
+    "geom:longitude":-70.309826,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1001 Westbrook St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/portland/113682-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 1823",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102534331,
+        85851275,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yqo4c5bm5ZQdxajai3m2j_43.651337_-70.309826@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221438,
+    "wof:geomhash":"d66525f844f0e6663a68a472f9eae288",
+    "wof:hierarchy":[
+        {
+            "campus_id":102534331,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85851275,
+            "region_id":85688769,
+            "venue_id":857730009
+        }
+    ],
+    "wof:id":857730009,
+    "wof:lastmodified":1472627292,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":102534331,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -70.309826,
+    43.651337,
+    -70.309826,
+    43.651337
+],
+  "geometry": {"coordinates":[-70.309826,43.651337],"type":"Point"}
+}

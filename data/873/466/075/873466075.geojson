@@ -1,0 +1,79 @@
+{
+  "id": 873466075,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Damariscotta Rd South Bristol ME 04568",
+    "addr:housenumber":"",
+    "addr:postcode":"04568",
+    "addr:street":"Damariscotta Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.560997,43.872101,-69.560997,43.872101",
+    "geom:latitude":43.872101,
+    "geom:longitude":-69.560997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"Damariscotta Rd",
+    "sg:city":"South Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 644 8389",
+    "sg:postcode":"04568",
+    "sg:province":"ME",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85810969,
+        102087447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gOmKQJkBePLdeG3mFQenC_43.872101_-69.560997@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221589,
+    "wof:geomhash":"3802ca5b8db38568e07fe1c707e806f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087447,
+            "neighbourhood_id":85810969,
+            "region_id":85688769,
+            "venue_id":873466075
+        }
+    ],
+    "wof:id":873466075,
+    "wof:lastmodified":1472627183,
+    "wof:name":"South Bristol Town of",
+    "wof:parent_id":85810969,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -69.560997,
+    43.872101,
+    -69.560997,
+    43.872101
+],
+  "geometry": {"coordinates":[-69.560997,43.872101],"type":"Point"}
+}

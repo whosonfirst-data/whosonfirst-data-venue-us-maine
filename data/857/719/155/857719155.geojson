@@ -1,0 +1,85 @@
+{
+  "id": 857719155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"80 Washington St Biddeford ME 04005",
+    "addr:housenumber":"80",
+    "addr:postcode":"04005",
+    "addr:street":"Washington St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.456338,43.491885,-70.456338,43.491885",
+    "geom:latitude":43.491885,
+    "geom:longitude":-70.456338,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"80 Washington St",
+    "sg:city":"Biddeford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 797 3688",
+    "sg:postcode":"04005",
+    "sg:province":"ME",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819479,
+        102191575,
+        404475883,
+        85633793,
+        85948887,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67WNUKBgWZ7tsy2LVfkAYl_43.491885_-70.456338@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221230,
+    "wof:geomhash":"badd836c7f1f53a45285cc6a107d30aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475883,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":857719155
+        }
+    ],
+    "wof:id":857719155,
+    "wof:lastmodified":1472627250,
+    "wof:name":"Presidential Apartments",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -70.456338,
+    43.491885,
+    -70.456338,
+    43.491885
+],
+  "geometry": {"coordinates":[-70.456338,43.491885],"type":"Point"}
+}

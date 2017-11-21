@@ -1,0 +1,74 @@
+{
+  "id": 857709341,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"27 Staples St Old Orchard Bch ME 04064",
+    "addr:housenumber":"27",
+    "addr:postcode":"04064",
+    "addr:street":"Staples St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.375726,43.51547,-70.375726,43.51547",
+    "geom:latitude":43.51547,
+    "geom:longitude":-70.375726,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Staples St",
+    "sg:city":"Old Orchard Bch",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 934 4351",
+    "sg:postcode":"04064",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85949051,
+        102087449,
+        85851625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KhmyXrjYB9rQaHV68nKDD_43.515470_-70.375726@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221014,
+    "wof:geomhash":"66bdb415fa2ab18e9141fc4c39850748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "locality_id":85949051,
+            "neighbourhood_id":85851625,
+            "region_id":85688769,
+            "venue_id":857709341
+        }
+    ],
+    "wof:id":857709341,
+    "wof:lastmodified":1472627241,
+    "wof:name":"Libby Memorial Library",
+    "wof:parent_id":85851625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.375726,
+    43.51547,
+    -70.375726,
+    43.51547
+],
+  "geometry": {"coordinates":[-70.375726,43.51547],"type":"Point"}
+}

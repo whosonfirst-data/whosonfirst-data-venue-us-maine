@@ -1,0 +1,81 @@
+{
+  "id": 857704353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"290 Birch St Bangor ME 04401",
+    "addr:housenumber":"290",
+    "addr:postcode":"04401",
+    "addr:street":"Birch St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.761406,44.816042,-68.761406,44.816042",
+    "geom:latitude":44.816042,
+    "geom:longitude":-68.761406,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"290 Birch St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 7132",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sv2FxdtgkHtagp7tcnV2C_44.816042_-68.761406@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220901,
+    "wof:geomhash":"2ef16a383e03650a1f4d290af9b9286a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857704353
+        }
+    ],
+    "wof:id":857704353,
+    "wof:lastmodified":1472627229,
+    "wof:name":"Linda's Hair Care Studio",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -68.761406,
+    44.816042,
+    -68.761406,
+    44.816042
+],
+  "geometry": {"coordinates":[-68.76140599999999,44.816042],"type":"Point"}
+}

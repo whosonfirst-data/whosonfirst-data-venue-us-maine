@@ -1,0 +1,79 @@
+{
+  "id": 857689033,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8 Hall St Fort Kent ME 04743",
+    "addr:housenumber":"8",
+    "addr:postcode":"04743",
+    "addr:street":"Hall St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.598342,47.249074,-68.598342,47.249074",
+    "geom:latitude":47.249074,
+    "geom:longitude":-68.598342,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Hall St",
+    "sg:city":"Fort Kent",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 834 3107",
+    "sg:postcode":"04743",
+    "sg:province":"ME",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00iT9DQmotMAXbYyYgjctx_47.249074_-68.598342@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220599,
+    "wof:geomhash":"a2f4932c1834956af1bc4134efaa89a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857689033
+        }
+    ],
+    "wof:id":857689033,
+    "wof:lastmodified":1472627185,
+    "wof:name":"Century Theatre",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -68.598342,
+    47.249074,
+    -68.598342,
+    47.249074
+],
+  "geometry": {"coordinates":[-68.598342,47.249074],"type":"Point"}
+}

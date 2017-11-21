@@ -1,0 +1,83 @@
+{
+  "id": 857704871,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"149 Bennett Rd Brewer ME 04412",
+    "addr:housenumber":"149",
+    "addr:postcode":"04412",
+    "addr:street":"Bennett Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.729901,44.783583,-68.729901,44.783583",
+    "geom:latitude":44.783583,
+    "geom:longitude":-68.729901,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"149 Bennett Rd",
+    "sg:city":"Brewer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 989 2344",
+    "sg:postcode":"04412",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837399,
+        102191575,
+        404475153,
+        85633793,
+        85948897,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZR2rFQCTCN7EewoD4ilq3_44.783583_-68.729901@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220910,
+    "wof:geomhash":"75d4d212bc98e4525e3f1496999e320d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475153,
+            "locality_id":85948897,
+            "neighbourhood_id":85837399,
+            "region_id":85688769,
+            "venue_id":857704871
+        }
+    ],
+    "wof:id":857704871,
+    "wof:lastmodified":1472627249,
+    "wof:name":"Rideout's Automotive",
+    "wof:parent_id":85837399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -68.729901,
+    44.783583,
+    -68.729901,
+    44.783583
+],
+  "geometry": {"coordinates":[-68.729901,44.783583],"type":"Point"}
+}

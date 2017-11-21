@@ -1,0 +1,76 @@
+{
+  "id": 857723357,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"31 Main St Camden ME 04843",
+    "addr:housenumber":"31",
+    "addr:postcode":"04843",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.064763,44.210157,-69.064763,44.210157",
+    "geom:latitude":44.210157,
+    "geom:longitude":-69.064763,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31 Main St",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 236 9022",
+    "sg:postcode":"04843",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833741,
+        102191575,
+        404475697,
+        85633793,
+        85948907,
+        102087453,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KMUixqmbHyGjiqWpkkMvp_44.210157_-69.064763@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221313,
+    "wof:geomhash":"234ddbb9d2643338185fab06ec16b008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087453,
+            "localadmin_id":404475697,
+            "locality_id":85948907,
+            "neighbourhood_id":85833741,
+            "region_id":85688769,
+            "venue_id":857723357
+        }
+    ],
+    "wof:id":857723357,
+    "wof:lastmodified":1472627261,
+    "wof:name":"Planet",
+    "wof:parent_id":85833741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.064763,
+    44.210157,
+    -69.064763,
+    44.210157
+],
+  "geometry": {"coordinates":[-69.064763,44.210157],"type":"Point"}
+}

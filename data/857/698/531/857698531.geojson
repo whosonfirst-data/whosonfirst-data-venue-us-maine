@@ -1,0 +1,76 @@
+{
+  "id": 857698531,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"51 School St Trenton ME 04605",
+    "addr:housenumber":"51",
+    "addr:postcode":"04605",
+    "addr:street":"School St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.424628,44.545023,-68.424628,44.545023",
+    "geom:latitude":44.545023,
+    "geom:longitude":-68.424628,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 School St",
+    "sg:city":"Trenton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 8447",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KmE1FiGODBYdxE117S6zD_44.545023_-68.424628@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220783,
+    "wof:geomhash":"ec4f0c110aec90b6aebb46bb393c287c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857698531
+        }
+    ],
+    "wof:id":857698531,
+    "wof:lastmodified":1472627213,
+    "wof:name":"Trenton Elementary School",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.424628,
+    44.545023,
+    -68.424628,
+    44.545023
+],
+  "geometry": {"coordinates":[-68.424628,44.545023],"type":"Point"}
+}

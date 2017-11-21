@@ -1,0 +1,73 @@
+{
+  "id": 857700283,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"73 Winthrop St Augusta ME 04330",
+    "addr:housenumber":"73",
+    "addr:postcode":"04330",
+    "addr:street":"Winthrop St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.779608,44.315571,-69.779608,44.315571",
+    "geom:latitude":44.315571,
+    "geom:longitude":-69.779608,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"73 Winthrop St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 621 0677",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:website":"www.mepca.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ct0qbhne2CvIZpvf4fNPS_44.315571_-69.779608@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220819,
+    "wof:geomhash":"c9ec41073085a7b835357e8ca7feab1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857700283
+        }
+    ],
+    "wof:id":857700283,
+    "wof:lastmodified":1472627204,
+    "wof:name":"Maine Primary Care Assn",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.779608,
+    44.315571,
+    -69.779608,
+    44.315571
+],
+  "geometry": {"coordinates":[-69.779608,44.315571],"type":"Point"}
+}

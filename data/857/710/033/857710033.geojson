@@ -1,0 +1,85 @@
+{
+  "id": 857710033,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13 Brewster Rd Eastport ME 04631",
+    "addr:housenumber":"13",
+    "addr:postcode":"04631",
+    "addr:street":"Brewster Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-66.997221,44.91271,-66.997221,44.91271",
+    "geom:latitude":44.91271,
+    "geom:longitude":-66.997221,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13 Brewster Rd",
+    "sg:city":"Eastport",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Watercraft",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 853 4010",
+    "sg:postcode":"04631",
+    "sg:province":"ME",
+    "sg:tags":[
+        "rebuilt",
+        "part",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849853,
+        102191575,
+        404475775,
+        85633793,
+        85948873,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wOLV8dAhMUKVLVP03KEEC_44.912710_-66.997221@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221031,
+    "wof:geomhash":"380ad03de89a2656d3e5a10e1ef1bf5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475775,
+            "locality_id":85948873,
+            "neighbourhood_id":85849853,
+            "region_id":85688769,
+            "venue_id":857710033
+        }
+    ],
+    "wof:id":857710033,
+    "wof:lastmodified":1472627227,
+    "wof:name":"Port East Yacht & Marine",
+    "wof:parent_id":85849853,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rebuilt",
+        "part",
+        "boat"
+    ]
+},
+  "bbox": [
+    -66.997221,
+    44.91271,
+    -66.997221,
+    44.91271
+],
+  "geometry": {"coordinates":[-66.997221,44.91271],"type":"Point"}
+}

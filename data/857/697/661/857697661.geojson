@@ -1,0 +1,79 @@
+{
+  "id": 857697661,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"543 Deering Ave Portland ME 04103",
+    "addr:housenumber":"543",
+    "addr:postcode":"04103",
+    "addr:street":"Deering Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.284319,43.670471,-70.284319,43.670471",
+    "geom:latitude":43.670471,
+    "geom:longitude":-70.284319,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"543 Deering Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 4935",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85858627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YqcT94XdeDc5mQMWewVXu_43.670471_-70.284319@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220768,
+    "wof:geomhash":"ac7eb446533dfe6aa6c74c77621906e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85858627,
+            "region_id":85688769,
+            "venue_id":857697661
+        }
+    ],
+    "wof:id":857697661,
+    "wof:lastmodified":1472627211,
+    "wof:name":"Bayou Kitchen",
+    "wof:parent_id":85858627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -70.284319,
+    43.670471,
+    -70.284319,
+    43.670471
+],
+  "geometry": {"coordinates":[-70.284319,43.670471],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857721755,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"35 Main St Windham ME 04062",
+    "addr:housenumber":"35",
+    "addr:postcode":"04062",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.425811,43.737801,-70.425811,43.737801",
+    "geom:latitude":43.737801,
+    "geom:longitude":-70.425811,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Main St",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 893 1343",
+    "sg:postcode":"04062",
+    "sg:province":"ME",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830911,
+        102191575,
+        404475443,
+        85633793,
+        85948997,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59A0bOnTi1UcBcKcxwhqNA_43.737801_-70.425811@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221284,
+    "wof:geomhash":"593296d8141243af9bf6124c7a688d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475443,
+            "locality_id":85948997,
+            "neighbourhood_id":85830911,
+            "region_id":85688769,
+            "venue_id":857721755
+        }
+    ],
+    "wof:id":857721755,
+    "wof:lastmodified":1472627278,
+    "wof:name":"BCL Paving & Excavating",
+    "wof:parent_id":85830911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.425811,
+    43.737801,
+    -70.425811,
+    43.737801
+],
+  "geometry": {"coordinates":[-70.425811,43.737801],"type":"Point"}
+}

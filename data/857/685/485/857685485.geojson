@@ -1,0 +1,70 @@
+{
+  "id": 857685485,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1500 E Conway Rd North Conway ME 03813",
+    "addr:housenumber":"1500",
+    "addr:postcode":"03813",
+    "addr:street":"E Conway Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.059526,44.011291,-71.059526,44.011291",
+    "geom:latitude":44.011291,
+    "geom:longitude":-71.059526,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1500 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 2734",
+    "sg:postcode":"03813",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ffWQKAZf8jqxEiBOykzEb_44.011291_-71.059526@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220530,
+    "wof:geomhash":"cacc4b028acad9c491e377e7f78fe384",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":857685485
+        }
+    ],
+    "wof:id":857685485,
+    "wof:lastmodified":1472627191,
+    "wof:name":"Amato's",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.059526,
+    44.011291,
+    -71.059526,
+    44.011291
+],
+  "geometry": {"coordinates":[-71.05952600000001,44.011291],"type":"Point"}
+}

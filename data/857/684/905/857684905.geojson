@@ -1,0 +1,77 @@
+{
+  "id": 857684905,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"240 Main St Winter Harbor ME 04693",
+    "addr:housenumber":"240",
+    "addr:postcode":"04693",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.083231,44.395112,-68.083231,44.395112",
+    "geom:latitude":44.395112,
+    "geom:longitude":-68.083231,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"240 Main St",
+    "sg:city":"Winter Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 963 7329",
+    "sg:postcode":"04693",
+    "sg:province":"ME",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949095,
+        102081201,
+        85821423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pSDlrIwDYbrcHphch1GyE_44.395112_-68.083231@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220520,
+    "wof:geomhash":"dd18566ac6a71430b57bfe3991508b99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "locality_id":85949095,
+            "neighbourhood_id":85821423,
+            "region_id":85688769,
+            "venue_id":857684905
+        }
+    ],
+    "wof:id":857684905,
+    "wof:lastmodified":1472627211,
+    "wof:name":"Winter Harbor Garage",
+    "wof:parent_id":85821423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -68.083231,
+    44.395112,
+    -68.083231,
+    44.395112
+],
+  "geometry": {"coordinates":[-68.083231,44.395112],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857718911,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"239 Main St Norway ME 04268",
+    "addr:housenumber":"239",
+    "addr:postcode":"04268",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.543622,44.213887,-70.543622,44.213887",
+    "geom:latitude":44.213887,
+    "geom:longitude":-70.543622,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"239 Main St",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 743 0514",
+    "sg:postcode":"04268",
+    "sg:province":"ME",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85868781,
+        102087437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uwikj560z9U44lpfap7Hf_44.213887_-70.543622@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221225,
+    "wof:geomhash":"8e6810bbfddd69f2b5896feda8d10778",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087437,
+            "neighbourhood_id":85868781,
+            "region_id":85688769,
+            "venue_id":857718911
+        }
+    ],
+    "wof:id":857718911,
+    "wof:lastmodified":1472627278,
+    "wof:name":"2-B-K-9",
+    "wof:parent_id":85868781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -70.543622,
+    44.213887,
+    -70.543622,
+    44.213887
+],
+  "geometry": {"coordinates":[-70.543622,44.213887],"type":"Point"}
+}

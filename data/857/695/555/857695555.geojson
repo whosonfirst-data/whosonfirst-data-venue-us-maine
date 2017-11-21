@@ -1,0 +1,81 @@
+{
+  "id": 857695555,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"930 Sligo Rd North Yarmouth ME 04097",
+    "addr:housenumber":"930",
+    "addr:postcode":"04097",
+    "addr:street":"Sligo Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.229889,43.841006,-70.229889,43.841006",
+    "geom:latitude":43.841006,
+    "geom:longitude":-70.229889,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"930 Sligo Rd",
+    "sg:city":"North Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 829 5030",
+    "sg:postcode":"04097",
+    "sg:province":"ME",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85846309,
+        102191575,
+        404475523,
+        85633793,
+        85948989,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nWHrdzfj1pzHXgnxwappz_43.841006_-70.229889@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220729,
+    "wof:geomhash":"a229d2d0bc715fc184bfec74c8fe9245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475523,
+            "locality_id":85948989,
+            "neighbourhood_id":85846309,
+            "region_id":85688769,
+            "venue_id":857695555
+        }
+    ],
+    "wof:id":857695555,
+    "wof:lastmodified":1472627207,
+    "wof:name":"Finest Kind Caterers",
+    "wof:parent_id":85846309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -70.229889,
+    43.841006,
+    -70.229889,
+    43.841006
+],
+  "geometry": {"coordinates":[-70.229889,43.841006],"type":"Point"}
+}

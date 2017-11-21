@@ -1,0 +1,87 @@
+{
+  "id": 857727363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16 Long Sands Rd York ME 03909",
+    "addr:housenumber":"16",
+    "addr:postcode":"03909",
+    "addr:street":"Long Sands Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.648903,43.144501,-70.648903,43.144501",
+    "geom:latitude":43.144501,
+    "geom:longitude":-70.648903,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Long Sands Rd",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 363 6400",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "sport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859383,
+        102191575,
+        404475823,
+        85633793,
+        85949065,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L8u5UnO6uaK6LK6mehPwA_43.144815_-70.649002@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464221385,
+    "wof:geomhash":"621fd55b3ffb10652c720d6b673c4cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475823,
+            "locality_id":85949065,
+            "neighbourhood_id":85859383,
+            "region_id":85688769,
+            "venue_id":857727363
+        }
+    ],
+    "wof:id":857727363,
+    "wof:lastmodified":1472627267,
+    "wof:name":"Associates In York Orthopaedics",
+    "wof:parent_id":85859383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "sport"
+    ]
+},
+  "bbox": [
+    -70.648903,
+    43.144501,
+    -70.648903,
+    43.144501
+],
+  "geometry": {"coordinates":[-70.648903,43.144501],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857722421,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"700 Spring St Westbrook ME 04092",
+    "addr:housenumber":"700",
+    "addr:postcode":"04092",
+    "addr:street":"Spring St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.359013,43.652576,-70.359013,43.652576",
+    "geom:latitude":43.652576,
+    "geom:longitude":-70.359013,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"700 Spring St",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 6770",
+    "sg:postcode":"04092",
+    "sg:province":"ME",
+    "sg:tags":[
+        "top",
+        "counter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85851275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MrnmxDioeHrUh5g75mbV4_43.652576_-70.359013@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221296,
+    "wof:geomhash":"8b94192459af2caaaf3cb8b6a94f21e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85851275,
+            "region_id":85688769,
+            "venue_id":857722421
+        }
+    ],
+    "wof:id":857722421,
+    "wof:lastmodified":1472627258,
+    "wof:name":"Blue Rock Stone Ctr",
+    "wof:parent_id":85851275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "top",
+        "counter"
+    ]
+},
+  "bbox": [
+    -70.359013,
+    43.652576,
+    -70.359013,
+    43.652576
+],
+  "geometry": {"coordinates":[-70.359013,43.652576],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857707171,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"32 Park Ave Lincoln ME 04457",
+    "addr:housenumber":"32",
+    "addr:postcode":"04457",
+    "addr:street":"Park Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.518653,45.363692,-68.518653,45.363692",
+    "geom:latitude":45.363692,
+    "geom:longitude":-68.518653,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 Park Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 794 9073",
+    "sg:postcode":"04457",
+    "sg:province":"ME",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949107,
+        102080723,
+        85849837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lIRXQPPt7VaBZt8jRKiZA_45.363692_-68.518653@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220952,
+    "wof:geomhash":"221727ede77d92527bae651546f18b0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85949107,
+            "neighbourhood_id":85849837,
+            "region_id":85688769,
+            "venue_id":857707171
+        }
+    ],
+    "wof:id":857707171,
+    "wof:lastmodified":1472627234,
+    "wof:name":"Northeast Occupational Exch",
+    "wof:parent_id":85849837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -68.518653,
+    45.363692,
+    -68.518653,
+    45.363692
+],
+  "geometry": {"coordinates":[-68.518653,45.363692],"type":"Point"}
+}

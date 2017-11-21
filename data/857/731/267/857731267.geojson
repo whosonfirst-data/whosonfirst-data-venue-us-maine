@@ -1,0 +1,84 @@
+{
+  "id": 857731267,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"227 High St Ellsworth ME 04605",
+    "addr:housenumber":"227",
+    "addr:postcode":"04605",
+    "addr:street":"High St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.408744,44.533071,-68.408744,44.533071",
+    "geom:latitude":44.533071,
+    "geom:longitude":-68.408744,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"227 High St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/ellsworth/176328-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 9026",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hwpSeywB4P8qttQvpAj5F_44.533071_-68.408744@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221462,
+    "wof:geomhash":"6af2fb452a70f1a4f24dfdc9fdf77835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857731267
+        }
+    ],
+    "wof:id":857731267,
+    "wof:lastmodified":1472627300,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -68.408744,
+    44.533071,
+    -68.408744,
+    44.533071
+],
+  "geometry": {"coordinates":[-68.408744,44.533071],"type":"Point"}
+}

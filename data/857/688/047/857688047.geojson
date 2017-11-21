@@ -1,0 +1,83 @@
+{
+  "id": 857688047,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22 Pearl St Biddeford ME 04005",
+    "addr:housenumber":"22",
+    "addr:postcode":"04005",
+    "addr:street":"Pearl St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.454642,43.495622,-70.454642,43.495622",
+    "geom:latitude":43.495622,
+    "geom:longitude":-70.454642,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Pearl St",
+    "sg:city":"Biddeford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 284 9694",
+    "sg:postcode":"04005",
+    "sg:province":"ME",
+    "sg:tags":[
+        "aquarium",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819479,
+        102191575,
+        404475883,
+        85633793,
+        85948887,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gpSeR5LbyhItY0umfJt7K_43.495622_-70.454642@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220579,
+    "wof:geomhash":"e3953639649f35439b4b12a90f32c3f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475883,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":857688047
+        }
+    ],
+    "wof:id":857688047,
+    "wof:lastmodified":1472627189,
+    "wof:name":"Marine Environments Inc",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aquarium",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -70.454642,
+    43.495622,
+    -70.454642,
+    43.495622
+],
+  "geometry": {"coordinates":[-70.45464200000001,43.495622],"type":"Point"}
+}

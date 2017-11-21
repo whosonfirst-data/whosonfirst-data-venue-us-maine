@@ -1,0 +1,77 @@
+{
+  "id": 857714259,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3142 Broadway Glenburn ME 04401",
+    "addr:housenumber":"3142",
+    "addr:postcode":"04401",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.873564,44.88888,-68.873564,44.88888",
+    "geom:latitude":44.88888,
+    "geom:longitude":-68.873564,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3142 Broadway",
+    "sg:city":"Glenburn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 941 0008",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85855557,
+        102080723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oXQxjv0ZZYxhp4ZOoQ4cO_44.888880_-68.873564@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221134,
+    "wof:geomhash":"ba67257d6b2e9972254bdf3e242bd89b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85855557,
+            "region_id":85688769,
+            "venue_id":857714259
+        }
+    ],
+    "wof:id":857714259,
+    "wof:lastmodified":1472627244,
+    "wof:name":"Leadbetter's Custom Contract",
+    "wof:parent_id":85855557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.873564,
+    44.88888,
+    -68.873564,
+    44.88888
+],
+  "geometry": {"coordinates":[-68.873564,44.88888],"type":"Point"}
+}

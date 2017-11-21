@@ -1,0 +1,77 @@
+{
+  "id": 857695537,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"32 High St Ellsworth ME 04605",
+    "addr:housenumber":"32",
+    "addr:postcode":"04605",
+    "addr:street":"High St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.418397,44.541586,-68.418397,44.541586",
+    "geom:latitude":44.541586,
+    "geom:longitude":-68.418397,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 High St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 7819",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:website":"www.cadillacmountainsports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C25a0P2McrAQwicZunY9F_44.541586_-68.418397@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220729,
+    "wof:geomhash":"91f6ab6b266912757814743633cc43cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857695537
+        }
+    ],
+    "wof:id":857695537,
+    "wof:lastmodified":1472627207,
+    "wof:name":"Cadillac Mountain Sports",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.418397,
+    44.541586,
+    -68.418397,
+    44.541586
+],
+  "geometry": {"coordinates":[-68.418397,44.541586],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857720523,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"953 Fort Fairfield Rd Caribou ME 04736",
+    "addr:housenumber":"953",
+    "addr:postcode":"04736",
+    "addr:street":"Fort Fairfield Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.931514,46.826749,-67.931514,46.826749",
+    "geom:latitude":46.826749,
+    "geom:longitude":-67.931514,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"953 Fort Fairfield Rd",
+    "sg:city":"Caribou",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 498 3220",
+    "sg:postcode":"04736",
+    "sg:province":"ME",
+    "sg:tags":[
+        "sanitary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843087,
+        102191575,
+        404475361,
+        85633793,
+        85948903,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pdTFGctdvakJ0JF6XEUzR_46.826749_-67.931514@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221260,
+    "wof:geomhash":"669e6df6d7c1c606b4dd7344e4fd7b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475361,
+            "locality_id":85948903,
+            "neighbourhood_id":85843087,
+            "region_id":85688769,
+            "venue_id":857720523
+        }
+    ],
+    "wof:id":857720523,
+    "wof:lastmodified":1472627265,
+    "wof:name":"Forbes Landscaping",
+    "wof:parent_id":85843087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary"
+    ]
+},
+  "bbox": [
+    -67.931514,
+    46.826749,
+    -67.931514,
+    46.826749
+],
+  "geometry": {"coordinates":[-67.93151400000001,46.826749],"type":"Point"}
+}

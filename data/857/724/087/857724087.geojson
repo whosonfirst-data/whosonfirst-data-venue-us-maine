@@ -1,0 +1,77 @@
+{
+  "id": 857724087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"64 Water St Old Town ME 04468",
+    "addr:housenumber":"64",
+    "addr:postcode":"04468",
+    "addr:street":"Water St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.643967,44.932354,-68.643967,44.932354",
+    "geom:latitude":44.932354,
+    "geom:longitude":-68.643967,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"64 Water St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 5331",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y7k85WPa4g19ZqozB9uXX_44.932354_-68.643967@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221326,
+    "wof:geomhash":"fb3907a27541357853008e52bf160c4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857724087
+        }
+    ],
+    "wof:id":857724087,
+    "wof:lastmodified":1472627248,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -68.643967,
+    44.932354,
+    -68.643967,
+    44.932354
+],
+  "geometry": {"coordinates":[-68.643967,44.932354],"type":"Point"}
+}

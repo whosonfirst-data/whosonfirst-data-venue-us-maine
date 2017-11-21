@@ -1,0 +1,70 @@
+{
+  "id": 857685521,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"370 Main St Southwest Harbor ME 04679",
+    "addr:housenumber":"370",
+    "addr:postcode":"04679",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.326082,44.271092,-68.326082,44.271092",
+    "geom:latitude":44.271092,
+    "geom:longitude":-68.326082,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"370 Main St",
+    "sg:city":"Southwest Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 244 5856",
+    "sg:postcode":"04679",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85832161,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2svgNoNdhAQ0SWP7KpAbNK_44.271092_-68.326082@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220531,
+    "wof:geomhash":"c62bce5be3fdd74f89ecbd91d179bc3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85832161,
+            "region_id":85688769,
+            "venue_id":857685521
+        }
+    ],
+    "wof:id":857685521,
+    "wof:lastmodified":1472627198,
+    "wof:name":"Southwest Cycle Co",
+    "wof:parent_id":85832161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.326082,
+    44.271092,
+    -68.326082,
+    44.271092
+],
+  "geometry": {"coordinates":[-68.326082,44.271092],"type":"Point"}
+}

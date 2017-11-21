@@ -1,0 +1,77 @@
+{
+  "id": 857718041,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"572 Lamoine Beach Rd Lamoine ME 04605",
+    "addr:housenumber":"572",
+    "addr:postcode":"04605",
+    "addr:street":"Lamoine Beach Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.312305,44.461922,-68.312305,44.461922",
+    "geom:latitude":44.461922,
+    "geom:longitude":-68.312305,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"572 Lamoine Beach Rd",
+    "sg:city":"Lamoine",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 1326",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85829637,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Got7PFKK4HhIfOqI7luPp_44.461922_-68.312305@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221205,
+    "wof:geomhash":"3a90b450bc060662c0a7b1b4689b3223",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85829637,
+            "region_id":85688769,
+            "venue_id":857718041
+        }
+    ],
+    "wof:id":857718041,
+    "wof:lastmodified":1472627244,
+    "wof:name":"Coastline Plumbing",
+    "wof:parent_id":85829637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.312305,
+    44.461922,
+    -68.312305,
+    44.461922
+],
+  "geometry": {"coordinates":[-68.31230499999999,44.461922],"type":"Point"}
+}

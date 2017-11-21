@@ -1,0 +1,75 @@
+{
+  "id": 857684809,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"411 Post Rd Wells ME 04090",
+    "addr:housenumber":"411",
+    "addr:postcode":"04090",
+    "addr:street":"Post Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.594548,43.283259,-70.594548,43.283259",
+    "geom:latitude":43.283259,
+    "geom:longitude":-70.594548,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"411 Post Rd",
+    "sg:city":"Wells",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 646 7545",
+    "sg:postcode":"04090",
+    "sg:province":"ME",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85835101,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CPWHFfFLgnga5XORchBu3_43.283259_-70.594548@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220518,
+    "wof:geomhash":"3a668b7e4f0447f40e3675e8b25f99c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85835101,
+            "region_id":85688769,
+            "venue_id":857684809
+        }
+    ],
+    "wof:id":857684809,
+    "wof:lastmodified":1472627203,
+    "wof:name":"Pine Tree Gardens Farm Market",
+    "wof:parent_id":85835101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -70.594548,
+    43.283259,
+    -70.594548,
+    43.283259
+],
+  "geometry": {"coordinates":[-70.594548,43.283259],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857685543,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13 Rice St Presque Isle ME 04769",
+    "addr:housenumber":"13",
+    "addr:postcode":"04769",
+    "addr:street":"Rice St;Isle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.010671,46.695063,-68.010671,46.695063",
+    "geom:latitude":46.695063,
+    "geom:longitude":-68.010671,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"13 Rice St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 3161",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843087,
+        102191575,
+        404475361,
+        85633793,
+        85948903,
+        102081161,
+        85688769
+    ],
+    "wof:brand_id":1125152759,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lYVVfA0KwVrrHregqndsg_46.695063_-68.010671@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220531,
+    "wof:geomhash":"5ef028babfc9257e7f65b0e8d11eeb7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475361,
+            "locality_id":85948903,
+            "neighbourhood_id":85843087,
+            "region_id":85688769,
+            "venue_id":857685543
+        }
+    ],
+    "wof:id":857685543,
+    "wof:lastmodified":1510693930,
+    "wof:name":"Agway",
+    "wof:parent_id":85843087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.010671,
+    46.695063,
+    -68.010671,
+    46.695063
+],
+  "geometry": {"coordinates":[-68.010671,46.695063],"type":"Point"}
+}

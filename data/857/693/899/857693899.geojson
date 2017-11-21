@@ -1,0 +1,79 @@
+{
+  "id": 857693899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"101 Bridgton Rd Waterford ME 04092",
+    "addr:housenumber":"",
+    "addr:postcode":"04092",
+    "addr:street":"Bridgton Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.326101,43.704608,-70.326101,43.704608",
+    "geom:latitude":43.704608,
+    "geom:longitude":-70.326101,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 Bridgton Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 583 6702",
+    "sg:postcode":"04092",
+    "sg:province":"ME",
+    "sg:tags":[
+        "piece"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85845077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gKOOm7eCk43XYtyV6B25x_43.704608_-70.326101@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220697,
+    "wof:geomhash":"d8fdda6fa49ead89083ee2cb18bf8f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85845077,
+            "region_id":85688769,
+            "venue_id":857693899
+        }
+    ],
+    "wof:id":857693899,
+    "wof:lastmodified":1472627219,
+    "wof:name":"Crafty Cat",
+    "wof:parent_id":85845077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piece"
+    ]
+},
+  "bbox": [
+    -70.326101,
+    43.704608,
+    -70.326101,
+    43.704608
+],
+  "geometry": {"coordinates":[-70.32610099999999,43.704608],"type":"Point"}
+}

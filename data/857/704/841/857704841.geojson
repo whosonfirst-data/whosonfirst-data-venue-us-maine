@@ -1,0 +1,78 @@
+{
+  "id": 857704841,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10 Barrows Dr Topsham ME 04086",
+    "addr:housenumber":"10",
+    "addr:postcode":"04086",
+    "addr:street":"Barrows Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.970167,43.927169,-69.970167,43.927169",
+    "geom:latitude":43.927169,
+    "geom:longitude":-69.970167,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Barrows Dr",
+    "sg:city":"Topsham",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 725 5415",
+    "sg:postcode":"04086",
+    "sg:province":"ME",
+    "sg:tags":[
+        "salt"
+    ],
+    "sg:website":"www.maineseasalt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948985,
+        102087463,
+        85867969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fvj7GIu8cS0D4auW5mIY2_43.927169_-69.970167@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220909,
+    "wof:geomhash":"7e62756e35c8a03914b334693c4ba4a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948985,
+            "neighbourhood_id":85867969,
+            "region_id":85688769,
+            "venue_id":857704841
+        }
+    ],
+    "wof:id":857704841,
+    "wof:lastmodified":1472627249,
+    "wof:name":"Maine Seasalt",
+    "wof:parent_id":85867969,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salt"
+    ]
+},
+  "bbox": [
+    -69.970167,
+    43.927169,
+    -69.970167,
+    43.927169
+],
+  "geometry": {"coordinates":[-69.970167,43.927169],"type":"Point"}
+}

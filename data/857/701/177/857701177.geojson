@@ -1,0 +1,75 @@
+{
+  "id": 857701177,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1 E Broadway Lincoln ME 04457",
+    "addr:housenumber":"1",
+    "addr:postcode":"04457",
+    "addr:street":"E Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.499898,45.364654,-68.499898,45.364654",
+    "geom:latitude":45.364654,
+    "geom:longitude":-68.499898,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"1 E Broadway",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 794 3344",
+    "sg:postcode":"04457",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949107,
+        102080723,
+        85849837
+    ],
+    "wof:brand_id":420574093,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XsC0IrgCHljZ1j8QvpJpC_45.364654_-68.499898@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220838,
+    "wof:geomhash":"7629be90bf47a259456d1ed59e99f5fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85949107,
+            "neighbourhood_id":85849837,
+            "region_id":85688769,
+            "venue_id":857701177
+        }
+    ],
+    "wof:id":857701177,
+    "wof:lastmodified":1510604778,
+    "wof:name":"Rite Aid Pharmacy",
+    "wof:parent_id":85849837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.499898,
+    45.364654,
+    -68.499898,
+    45.364654
+],
+  "geometry": {"coordinates":[-68.499898,45.364654],"type":"Point"}
+}

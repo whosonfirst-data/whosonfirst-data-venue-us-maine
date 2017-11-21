@@ -1,0 +1,76 @@
+{
+  "id": 857685059,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"275 Main St Fort Fairfield ME 04742",
+    "addr:housenumber":"275",
+    "addr:postcode":"04742",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.82853,46.770676,-67.82853,46.770676",
+    "geom:latitude":46.770676,
+    "geom:longitude":-67.82853,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"275 Main St",
+    "sg:city":"Fort Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 472 3880",
+    "sg:postcode":"04742",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LK6iOEQEEljV9lgqbcau0_46.770676_-67.828530@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220523,
+    "wof:geomhash":"c245e3dc0305d32859e113d2a4e5c5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857685059
+        }
+    ],
+    "wof:id":857685059,
+    "wof:lastmodified":1472627184,
+    "wof:name":"Fort Fairfield Public Library",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.82853,
+    46.770676,
+    -67.82853,
+    46.770676
+],
+  "geometry": {"coordinates":[-67.82853,46.770676],"type":"Point"}
+}

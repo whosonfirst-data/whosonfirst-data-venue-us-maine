@@ -1,0 +1,83 @@
+{
+  "id": 857697397,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"202 Berkshire Ave Springfield ME 01109",
+    "addr:housenumber":"202",
+    "addr:postcode":"01109",
+    "addr:street":"Berkshire Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.536406,42.127154,-72.536406,42.127154",
+    "geom:latitude":42.127154,
+    "geom:longitude":-72.536406,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"202 Berkshire Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 413 733 0612",
+    "sg:postcode":"01109",
+    "sg:province":"ME",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841837,
+        102191575,
+        404476369,
+        85633793,
+        85950393,
+        102084627,
+        85688645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FhWdRLNBB5QK07xIRq7eW_42.127154_-72.536406@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220763,
+    "wof:geomhash":"cfe966ebffd070809a8092a933f5cc0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476369,
+            "locality_id":85950393,
+            "neighbourhood_id":85841837,
+            "region_id":85688645,
+            "venue_id":857697397
+        }
+    ],
+    "wof:id":857697397,
+    "wof:lastmodified":1472627203,
+    "wof:name":"Dave's Motors",
+    "wof:parent_id":85841837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.536406,
+    42.127154,
+    -72.536406,
+    42.127154
+],
+  "geometry": {"coordinates":[-72.536406,42.127154],"type":"Point"}
+}

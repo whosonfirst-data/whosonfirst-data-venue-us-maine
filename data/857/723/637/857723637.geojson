@@ -1,0 +1,81 @@
+{
+  "id": 857723637,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"134 W Main St Fort Kent ME 04743",
+    "addr:housenumber":"134",
+    "addr:postcode":"04743",
+    "addr:street":"W Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.606269,47.24618,-68.606269,47.24618",
+    "geom:latitude":47.24618,
+    "geom:longitude":-68.606269,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"134 W Main St",
+    "sg:city":"Fort Kent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 834 2515",
+    "sg:postcode":"04743",
+    "sg:province":"ME",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20I1RhbHSmSubanqn2igsQ_47.246180_-68.606269@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221317,
+    "wof:geomhash":"0acbd626156d55be5047e8ddd227234b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857723637
+        }
+    ],
+    "wof:id":857723637,
+    "wof:lastmodified":1472627272,
+    "wof:name":"Artistree Gallery",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -68.606269,
+    47.24618,
+    -68.606269,
+    47.24618
+],
+  "geometry": {"coordinates":[-68.606269,47.24618],"type":"Point"}
+}

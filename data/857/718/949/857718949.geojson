@@ -1,0 +1,70 @@
+{
+  "id": 857718949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"46 Pine Grove Ave Bangor ME 04401",
+    "addr:housenumber":"46",
+    "addr:postcode":"04401",
+    "addr:street":"Pine Grove Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.817849,44.903904,-68.817849,44.903904",
+    "geom:latitude":44.903904,
+    "geom:longitude":-68.817849,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"46 Pine Grove Ave",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 947 4818",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85848853,
+        102080723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nl70o5wcUR3aBWlbw4YC1_44.903904_-68.817849@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221226,
+    "wof:geomhash":"f51a2ad65e3daf3f7ba5507e67fd198e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85848853,
+            "region_id":85688769,
+            "venue_id":857718949
+        }
+    ],
+    "wof:id":857718949,
+    "wof:lastmodified":1472627277,
+    "wof:name":"Mikes Pro Shop",
+    "wof:parent_id":85848853,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.817849,
+    44.903904,
+    -68.817849,
+    44.903904
+],
+  "geometry": {"coordinates":[-68.817849,44.903904],"type":"Point"}
+}

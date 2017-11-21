@@ -1,0 +1,83 @@
+{
+  "id": 857689435,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"222 Anderson St Portland ME 04101",
+    "addr:housenumber":"222",
+    "addr:postcode":"04101",
+    "addr:street":"Anderson St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.256206,43.669917,-70.256206,43.669917",
+    "geom:latitude":43.669917,
+    "geom:longitude":-70.256206,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"222 Anderson St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 347 7000",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85880023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z2MvyplhYyELnloRemJaa_43.669917_-70.256206@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220607,
+    "wof:geomhash":"4d40c5850aeca898a42882b558ee2e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880023,
+            "region_id":85688769,
+            "venue_id":857689435
+        }
+    ],
+    "wof:id":857689435,
+    "wof:lastmodified":1472627204,
+    "wof:name":"Zero Station",
+    "wof:parent_id":85880023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -70.256206,
+    43.669917,
+    -70.256206,
+    43.669917
+],
+  "geometry": {"coordinates":[-70.25620600000001,43.669917],"type":"Point"}
+}

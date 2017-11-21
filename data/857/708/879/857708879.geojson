@@ -1,0 +1,77 @@
+{
+  "id": 857708879,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"39 2nd St Presque Isle ME 04769",
+    "addr:housenumber":"39",
+    "addr:postcode":"04769",
+    "addr:street":"2Nd St;Isle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.0141,46.68095,-68.0141,46.68095",
+    "geom:latitude":46.68095,
+    "geom:longitude":-68.0141,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 2nd St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 2571",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:website":"www.presqueisle.lib.me.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jxpCWUYXkNkZqDeB1ABiw_46.680950_-68.014100@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220997,
+    "wof:geomhash":"29416d5ac0fdb8b668b253be7b3ccfd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857708879
+        }
+    ],
+    "wof:id":857708879,
+    "wof:lastmodified":1472627271,
+    "wof:name":"Turner Memorial Public Library",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.0141,
+    46.68095,
+    -68.0141,
+    46.68095
+],
+  "geometry": {"coordinates":[-68.0141,46.68095],"type":"Point"}
+}

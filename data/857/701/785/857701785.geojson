@@ -1,0 +1,83 @@
+{
+  "id": 857701785,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"235 Main St Calais ME 04619",
+    "addr:housenumber":"235",
+    "addr:postcode":"04619",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.274611,45.188207,-67.274611,45.188207",
+    "geom:latitude":45.188207,
+    "geom:longitude":-67.274611,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"235 Main St",
+    "sg:city":"Calais",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 454 3338",
+    "sg:postcode":"04619",
+    "sg:province":"ME",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857599,
+        102191575,
+        404475311,
+        85633793,
+        85948871,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FCHGOz2A6cZ7LVjLoaaCO_45.188207_-67.274611@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220855,
+    "wof:geomhash":"e6b8aacbc381169a265988a923aaf172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475311,
+            "locality_id":85948871,
+            "neighbourhood_id":85857599,
+            "region_id":85688769,
+            "venue_id":857701785
+        }
+    ],
+    "wof:id":857701785,
+    "wof:lastmodified":1472627217,
+    "wof:name":"King Paving",
+    "wof:parent_id":85857599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -67.274611,
+    45.188207,
+    -67.274611,
+    45.188207
+],
+  "geometry": {"coordinates":[-67.27461099999999,45.188207],"type":"Point"}
+}

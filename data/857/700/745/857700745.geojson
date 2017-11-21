@@ -1,0 +1,77 @@
+{
+  "id": 857700745,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"74 Water St Oakland ME 04963",
+    "addr:housenumber":"74",
+    "addr:postcode":"04963",
+    "addr:street":"Water St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.715962,44.545832,-69.715962,44.545832",
+    "geom:latitude":44.545832,
+    "geom:longitude":-69.715962,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"74 Water St",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 465 7342",
+    "sg:postcode":"04963",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85837327,
+        102087461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Vx8p2dPGUKyjYpcDr2yne_44.545832_-69.715962@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220830,
+    "wof:geomhash":"2f0acb6e29ec320960544aae6a652314",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "neighbourhood_id":85837327,
+            "region_id":85688769,
+            "venue_id":857700745
+        }
+    ],
+    "wof:id":857700745,
+    "wof:lastmodified":1472627210,
+    "wof:name":"Henry Glover Family Medicine",
+    "wof:parent_id":85837327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -69.715962,
+    44.545832,
+    -69.715962,
+    44.545832
+],
+  "geometry": {"coordinates":[-69.715962,44.545832],"type":"Point"}
+}

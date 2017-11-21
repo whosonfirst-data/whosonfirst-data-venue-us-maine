@@ -1,0 +1,76 @@
+{
+  "id": 857730407,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"200 Gorham Rd South Portland ME 04106",
+    "addr:housenumber":"200",
+    "addr:postcode":"04106",
+    "addr:street":"Gorham Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.321191,43.634053,-70.321191,43.634053",
+    "geom:latitude":43.634053,
+    "geom:longitude":-70.321191,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"200 Gorham Rd",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/south-portland/13753-olive-garden-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 874 9005",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85817653,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LIxddoSYmUXOETNSegCL3_43.634053_-70.321191@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221446,
+    "wof:geomhash":"b25b7197523037919e5a3724d8b1a860",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85817653,
+            "region_id":85688769,
+            "venue_id":857730407
+        }
+    ],
+    "wof:id":857730407,
+    "wof:lastmodified":1472627301,
+    "wof:name":"Olive Garden Italian Restaurant",
+    "wof:parent_id":85817653,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -70.321191,
+    43.634053,
+    -70.321191,
+    43.634053
+],
+  "geometry": {"coordinates":[-70.321191,43.634053],"type":"Point"}
+}

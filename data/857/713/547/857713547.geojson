@@ -1,0 +1,80 @@
+{
+  "id": 857713547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"26 Exchange St Portland ME 04101",
+    "addr:housenumber":"26",
+    "addr:postcode":"04101",
+    "addr:street":"Exchange St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.253498,43.656463,-70.253498,43.656463",
+    "geom:latitude":43.656463,
+    "geom:longitude":-70.253498,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26 Exchange St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 828 5303",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "sg:website":"www.lovelldesigns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85882031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QM6CGo0vni7hEpo65bPHz_43.656463_-70.253498@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221121,
+    "wof:geomhash":"9c297ebcc0d6aecb78a4a35863acdfc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85882031,
+            "region_id":85688769,
+            "venue_id":857713547
+        }
+    ],
+    "wof:id":857713547,
+    "wof:lastmodified":1472627255,
+    "wof:name":"Lovell Designs Inc",
+    "wof:parent_id":85882031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -70.253498,
+    43.656463,
+    -70.253498,
+    43.656463
+],
+  "geometry": {"coordinates":[-70.25349799999999,43.656463],"type":"Point"}
+}

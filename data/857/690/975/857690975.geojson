@@ -1,0 +1,76 @@
+{
+  "id": 857690975,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"939 US Hwy 1 Yarmouth ME 04096",
+    "addr:housenumber":"939",
+    "addr:postcode":"04096",
+    "addr:street":"Us Hwy 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.168698,43.807029,-70.168698,43.807029",
+    "geom:latitude":43.807029,
+    "geom:longitude":-70.168698,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"939 US Hwy 1",
+    "sg:city":"Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 846 6677",
+    "sg:postcode":"04096",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859327,
+        102191575,
+        404475445,
+        85633793,
+        85949005,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ec3bFrBn7Kyq9WDSp3Dtq_43.807029_-70.168698@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220639,
+    "wof:geomhash":"36b26213c49c63564a8a8e726f4bf4f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475445,
+            "locality_id":85949005,
+            "neighbourhood_id":85859327,
+            "region_id":85688769,
+            "venue_id":857690975
+        }
+    ],
+    "wof:id":857690975,
+    "wof:lastmodified":1472627211,
+    "wof:name":"Yarmouth Clipper Mart",
+    "wof:parent_id":85859327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.168698,
+    43.807029,
+    -70.168698,
+    43.807029
+],
+  "geometry": {"coordinates":[-70.16869800000001,43.807029],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 857732353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"195 Main St Ogunquit ME 03907",
+    "addr:housenumber":"195",
+    "addr:postcode":"03907",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.601898,43.244598,-70.601898,43.244598",
+    "geom:latitude":43.244598,
+    "geom:longitude":-70.601898,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"195 Main St",
+    "sg:city":"Ogunquit",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 646 5101",
+    "sg:postcode":"03907",
+    "sg:province":"ME",
+    "sg:tags":[
+        "hall",
+        "pool",
+        "karaoke"
+    ],
+    "sg:website":"www.mainestreetogunquit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85854335,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QDOp2aqRU7q3ERy6ktR7s_43.244598_-70.601898@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221490,
+    "wof:geomhash":"9c5a58223ee34d04e25dba1c23093e9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85854335,
+            "region_id":85688769,
+            "venue_id":857732353
+        }
+    ],
+    "wof:id":857732353,
+    "wof:lastmodified":1472627301,
+    "wof:name":"Maine Street",
+    "wof:parent_id":85854335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "pool",
+        "karaoke"
+    ]
+},
+  "bbox": [
+    -70.601898,
+    43.244598,
+    -70.601898,
+    43.244598
+],
+  "geometry": {"coordinates":[-70.60189800000001,43.244598],"type":"Point"}
+}

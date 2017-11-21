@@ -1,0 +1,81 @@
+{
+  "id": 857724069,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"305 S Perley Brook Rd Fort Kent ME 04744",
+    "addr:housenumber":"305",
+    "addr:postcode":"04744",
+    "addr:street":"S Perley Brook Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.554878,47.235107,-68.554878,47.235107",
+    "geom:latitude":47.235107,
+    "geom:longitude":-68.554878,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"305 S Perley Brook Rd",
+    "sg:city":"Fort Kent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 834 5573",
+    "sg:postcode":"04744",
+    "sg:province":"ME",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gFvEbNlzzIJG011jqLks8_47.235107_-68.554878@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221326,
+    "wof:geomhash":"11f22db35fd750f17ed538ff4d0a43ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857724069
+        }
+    ],
+    "wof:id":857724069,
+    "wof:lastmodified":1472627248,
+    "wof:name":"South Side Auto",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -68.554878,
+    47.235107,
+    -68.554878,
+    47.235107
+],
+  "geometry": {"coordinates":[-68.554878,47.235107],"type":"Point"}
+}

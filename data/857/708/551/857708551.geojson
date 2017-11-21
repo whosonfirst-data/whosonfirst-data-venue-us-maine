@@ -1,0 +1,83 @@
+{
+  "id": 857708551,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3 York St Kennebunk ME 04043",
+    "addr:housenumber":"3",
+    "addr:postcode":"04043",
+    "addr:street":"York St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.543999,43.38434,-70.543999,43.38434",
+    "geom:latitude":43.38434,
+    "geom:longitude":-70.543999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 York St",
+    "sg:city":"Kennebunk",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 985 6774",
+    "sg:postcode":"04043",
+    "sg:province":"ME",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804645,
+        102191575,
+        404475789,
+        85633793,
+        85949063,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SGEgapHbOyM7gKykSYw4Q_43.384340_-70.543999@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220988,
+    "wof:geomhash":"8f52ce43a731aa987567070df52beb18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475789,
+            "locality_id":85949063,
+            "neighbourhood_id":85804645,
+            "region_id":85688769,
+            "venue_id":857708551
+        }
+    ],
+    "wof:id":857708551,
+    "wof:lastmodified":1472627256,
+    "wof:name":"New Morning Natural Foods Mkt",
+    "wof:parent_id":85804645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -70.543999,
+    43.38434,
+    -70.543999,
+    43.38434
+],
+  "geometry": {"coordinates":[-70.543999,43.38434],"type":"Point"}
+}

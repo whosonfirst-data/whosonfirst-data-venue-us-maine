@@ -1,0 +1,77 @@
+{
+  "id": 857719429,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"337 River Rd Detroit ME 04929",
+    "addr:housenumber":"337",
+    "addr:postcode":"04929",
+    "addr:street":"River Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.355087,44.774914,-69.355087,44.774914",
+    "geom:latitude":44.774914,
+    "geom:longitude":-69.355087,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"337 River Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 487 6001",
+    "sg:postcode":"04929",
+    "sg:province":"ME",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949081,
+        102087435,
+        85854823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e2aOm31huUnNJrwu0dHmY_44.774914_-69.355087@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221236,
+    "wof:geomhash":"caf721aac3f54598475a07e444e74292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087435,
+            "locality_id":85949081,
+            "neighbourhood_id":85854823,
+            "region_id":85688769,
+            "venue_id":857719429
+        }
+    ],
+    "wof:id":857719429,
+    "wof:lastmodified":1472627260,
+    "wof:name":"Heritage Auto",
+    "wof:parent_id":85854823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -69.355087,
+    44.774914,
+    -69.355087,
+    44.774914
+],
+  "geometry": {"coordinates":[-69.355087,44.774914],"type":"Point"}
+}

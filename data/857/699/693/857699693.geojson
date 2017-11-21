@@ -1,0 +1,72 @@
+{
+  "id": 857699693,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1350 Washington Ave Portland ME 04103",
+    "addr:housenumber":"1350",
+    "addr:postcode":"04103",
+    "addr:street":"Washington Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.287933,43.699399,-70.287933,43.699399",
+    "geom:latitude":43.699399,
+    "geom:longitude":-70.287933,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1350 Washington Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 797 8840",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85837549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_420MKdAchbknHV1MFEZyV4_43.699399_-70.287933@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220806,
+    "wof:geomhash":"5ce8014cf0cef6ce552ae69d1daa64ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85837549,
+            "region_id":85688769,
+            "venue_id":857699693
+        }
+    ],
+    "wof:id":857699693,
+    "wof:lastmodified":1472627208,
+    "wof:name":"Plummers Insurance",
+    "wof:parent_id":85837549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.287933,
+    43.699399,
+    -70.287933,
+    43.699399
+],
+  "geometry": {"coordinates":[-70.287933,43.699399],"type":"Point"}
+}

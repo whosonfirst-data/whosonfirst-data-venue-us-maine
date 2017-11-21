@@ -1,0 +1,81 @@
+{
+  "id": 857723179,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"34 Park St Presque Isle ME 04769",
+    "addr:housenumber":"34",
+    "addr:postcode":"04769",
+    "addr:street":"Park St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.018444,46.685786,-68.018444,46.685786",
+    "geom:latitude":46.685786,
+    "geom:longitude":-68.018444,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"34 Park St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 5265",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y9uraWa3MEWUmU2wiF7U2_46.685786_-68.018444@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221310,
+    "wof:geomhash":"48c938c19fcb50d3f931b1d75df62a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857723179
+        }
+    ],
+    "wof:id":857723179,
+    "wof:lastmodified":1472627254,
+    "wof:name":"Clair Alan Construction Co",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -68.018444,
+    46.685786,
+    -68.018444,
+    46.685786
+],
+  "geometry": {"coordinates":[-68.018444,46.685786],"type":"Point"}
+}

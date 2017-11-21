@@ -1,0 +1,83 @@
+{
+  "id": 857711361,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"971 Brighton Ave Portland ME 04102",
+    "addr:housenumber":"971",
+    "addr:postcode":"04102",
+    "addr:street":"Brighton Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.319056,43.674148,-70.319056,43.674148",
+    "geom:latitude":43.674148,
+    "geom:longitude":-70.319056,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"971 Brighton Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 2045",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shed",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836343,
+        102191575,
+        404474917,
+        85633793,
+        85948881,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i95P9nCSDK9lkpm4plknm_43.674148_-70.319056@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221057,
+    "wof:geomhash":"4c3c55c9a0744f93cb255e59884562cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404474917,
+            "locality_id":85948881,
+            "neighbourhood_id":85836343,
+            "region_id":85688769,
+            "venue_id":857711361
+        }
+    ],
+    "wof:id":857711361,
+    "wof:lastmodified":1472627243,
+    "wof:name":"Davis Woodworking Inc",
+    "wof:parent_id":85836343,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shed",
+        "utility"
+    ]
+},
+  "bbox": [
+    -70.319056,
+    43.674148,
+    -70.319056,
+    43.674148
+],
+  "geometry": {"coordinates":[-70.319056,43.674148],"type":"Point"}
+}

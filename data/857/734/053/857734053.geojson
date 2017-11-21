@@ -1,0 +1,81 @@
+{
+  "id": 857734053,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6 Lester B Orcutt Blvd Biddeford ME 04005",
+    "addr:housenumber":"6;b",
+    "addr:postcode":"04005",
+    "addr:street":"Lester;Orcutt Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.354497,43.446796,-70.354497,43.446796",
+    "geom:latitude":43.446796,
+    "geom:longitude":-70.354497,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Lester B Orcutt Blvd",
+    "sg:city":"Biddeford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 284 4311",
+    "sg:postcode":"04005",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820287,
+        102191575,
+        404475883,
+        85633793,
+        85948887,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Iqh4UzVElEVWuUvlZlAHt_43.446796_-70.354497@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221519,
+    "wof:geomhash":"07ea4bce5685e54d36fb79d434b02fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475883,
+            "locality_id":85948887,
+            "neighbourhood_id":85820287,
+            "region_id":85688769,
+            "venue_id":857734053
+        }
+    ],
+    "wof:id":857734053,
+    "wof:lastmodified":1472627297,
+    "wof:name":"B P Builders Inc",
+    "wof:parent_id":85820287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.354497,
+    43.446796,
+    -70.354497,
+    43.446796
+],
+  "geometry": {"coordinates":[-70.35449699999999,43.446796],"type":"Point"}
+}

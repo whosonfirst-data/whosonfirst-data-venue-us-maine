@@ -1,0 +1,82 @@
+{
+  "id": 857705583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"30 Liberty Dr Hermon ME 04401",
+    "addr:housenumber":"30",
+    "addr:postcode":"04401",
+    "addr:street":"Liberty Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.850683,44.796523,-68.850683,44.796523",
+    "geom:latitude":44.796523,
+    "geom:longitude":-68.850683,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"30 Liberty Dr",
+    "sg:city":"Hermon",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 848 7532",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "transmission",
+        "equipment",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85838259,
+        102080723
+    ],
+    "wof:brand_id":1125149545,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PDqJlpdJwKgUOhG0wbcii_44.796523_-68.850683@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220925,
+    "wof:geomhash":"3082903c5778fe11ca5dd8579aba0c67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85838259,
+            "region_id":85688769,
+            "venue_id":857705583
+        }
+    ],
+    "wof:id":857705583,
+    "wof:lastmodified":1510875067,
+    "wof:name":"Applied Industrial Tech Inc",
+    "wof:parent_id":85838259,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "equipment",
+        "power"
+    ]
+},
+  "bbox": [
+    -68.850683,
+    44.796523,
+    -68.850683,
+    44.796523
+],
+  "geometry": {"coordinates":[-68.850683,44.796523],"type":"Point"}
+}

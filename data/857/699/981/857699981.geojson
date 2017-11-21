@@ -1,0 +1,77 @@
+{
+  "id": 857699981,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9 Main St Lincoln ME 04457",
+    "addr:housenumber":"9",
+    "addr:postcode":"04457",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.504258,45.362854,-68.504258,45.362854",
+    "geom:latitude":45.362854,
+    "geom:longitude":-68.504258,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Main St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 794 2979",
+    "sg:postcode":"04457",
+    "sg:province":"ME",
+    "sg:tags":[
+        "opportunity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949107,
+        102080723,
+        85849837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P3SSlqLHApKiwJlJ7fhOZ_45.362854_-68.504258@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220813,
+    "wof:geomhash":"fb12a3016490776cde11108a08b5ecb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85949107,
+            "neighbourhood_id":85849837,
+            "region_id":85688769,
+            "venue_id":857699981
+        }
+    ],
+    "wof:id":857699981,
+    "wof:lastmodified":1472627216,
+    "wof:name":"KFI",
+    "wof:parent_id":85849837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "opportunity"
+    ]
+},
+  "bbox": [
+    -68.504258,
+    45.362854,
+    -68.504258,
+    45.362854
+],
+  "geometry": {"coordinates":[-68.50425799999999,45.362854],"type":"Point"}
+}

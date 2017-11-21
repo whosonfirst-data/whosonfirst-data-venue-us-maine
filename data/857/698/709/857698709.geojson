@@ -1,0 +1,102 @@
+{
+  "id": 857698709,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"26 Old Milton Rd Rochester ME 03868",
+    "addr:housenumber":"26",
+    "addr:postcode":"03868",
+    "addr:street":"Old Milton Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.97883,43.329846,-70.97883,43.329846",
+    "geom:latitude":43.329846,
+    "geom:longitude":-70.97883,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26 Old Milton Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 2224",
+    "sg:postcode":"03868",
+    "sg:province":"ME",
+    "sg:tags":[
+        "oil",
+        "spill",
+        "hazardous",
+        "removal",
+        "chemical",
+        "environmental",
+        "ecological",
+        "waste",
+        "response"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833723,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57Adl4QbtiQl5L8JbhTmJ4_43.329846_-70.978830@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220786,
+    "wof:geomhash":"ec6738d25de797e240acbe1c3d3adabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85833723,
+            "region_id":85688689,
+            "venue_id":857698709
+        }
+    ],
+    "wof:id":857698709,
+    "wof:lastmodified":1472627216,
+    "wof:name":"B G Environmental Inc",
+    "wof:parent_id":85833723,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "spill",
+        "hazardous",
+        "removal",
+        "chemical",
+        "environmental",
+        "ecological",
+        "waste",
+        "response"
+    ]
+},
+  "bbox": [
+    -70.97883,
+    43.329846,
+    -70.97883,
+    43.329846
+],
+  "geometry": {"coordinates":[-70.97883,43.329846],"type":"Point"}
+}

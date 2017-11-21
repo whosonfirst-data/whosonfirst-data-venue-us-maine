@@ -1,0 +1,82 @@
+{
+  "id": 857729483,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8 Beach St Saco ME 04072",
+    "addr:housenumber":"8",
+    "addr:postcode":"04072",
+    "addr:street":"Beach St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.442734,43.50057,-70.442734,43.50057",
+    "geom:latitude":43.50057,
+    "geom:longitude":-70.442734,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Beach St",
+    "sg:city":"Saco",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/saco/241787-beach-street-pub--grill-at-union-bluff-hotel/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 363 1333",
+    "sg:postcode":"04072",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819479,
+        102191575,
+        404475883,
+        85633793,
+        85948887,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HIM2THPimj6w3bPEFc9vr_43.500570_-70.442734@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221423,
+    "wof:geomhash":"7e132eb94d2fe38c67943a8924d2f18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475883,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":857729483
+        }
+    ],
+    "wof:id":857729483,
+    "wof:lastmodified":1472627303,
+    "wof:name":"Beach Street Pub & Grill At Union Bluff Hotel",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -70.442734,
+    43.50057,
+    -70.442734,
+    43.50057
+],
+  "geometry": {"coordinates":[-70.442734,43.50057],"type":"Point"}
+}

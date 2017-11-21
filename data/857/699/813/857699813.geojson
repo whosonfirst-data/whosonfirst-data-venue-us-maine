@@ -1,0 +1,81 @@
+{
+  "id": 857699813,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"85 Nichols St Lewiston ME 04240",
+    "addr:housenumber":"85",
+    "addr:postcode":"04240",
+    "addr:street":"Nichols St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.20803,44.101648,-70.20803,44.101648",
+    "geom:latitude":44.101648,
+    "geom:longitude":-70.20803,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"85 Nichols St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 777 7717",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pbCydLP0677HX1uaMISPG_44.101648_-70.208030@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220809,
+    "wof:geomhash":"d98e613ffc795a7137953b77ce28130c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857699813
+        }
+    ],
+    "wof:id":857699813,
+    "wof:lastmodified":1472627211,
+    "wof:name":"Vincent Law Offices",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -70.20803,
+    44.101648,
+    -70.20803,
+    44.101648
+],
+  "geometry": {"coordinates":[-70.20802999999999,44.101648],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 857717705,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"42 Old Milton Rd Rochester ME 03868",
+    "addr:housenumber":"42",
+    "addr:postcode":"03868",
+    "addr:street":"Old Milton Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.979672,43.329083,-70.979672,43.329083",
+    "geom:latitude":43.329083,
+    "geom:longitude":-70.979672,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42 Old Milton Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 330 1010",
+    "sg:postcode":"03868",
+    "sg:province":"ME",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "sg:website":"www.v-twincycle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833723,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R4P4F4gLbQbkWyU2M5koi_43.329083_-70.979672@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221199,
+    "wof:geomhash":"ae7340ae0dbd615458ab04ea69577eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85833723,
+            "region_id":85688689,
+            "venue_id":857717705
+        }
+    ],
+    "wof:id":857717705,
+    "wof:lastmodified":1472627261,
+    "wof:name":"V-Twin Cycle",
+    "wof:parent_id":85833723,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -70.979672,
+    43.329083,
+    -70.979672,
+    43.329083
+],
+  "geometry": {"coordinates":[-70.97967199999999,43.329083],"type":"Point"}
+}

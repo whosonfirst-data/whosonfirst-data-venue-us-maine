@@ -1,0 +1,81 @@
+{
+  "id": 857730817,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"58 Stephen King Dr Augusta ME 04330",
+    "addr:housenumber":"58",
+    "addr:postcode":"04330",
+    "addr:street":"Stephen King Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.78699,44.346551,-69.78699,44.346551",
+    "geom:latitude":44.346551,
+    "geom:longitude":-69.78699,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "sg:address":"58 Stephen King Dr",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/augusta/103683-ruby-tuesdays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 623 8710",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85841121,
+        102087461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "osm:way":371292008,
+        "sg:id":"SG_0aQ7s7jXFnlNz9y75Sl0PF_44.346551_-69.786990@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221452,
+    "wof:geomhash":"3472046a9f0c5aef2ce61849017ff2de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "neighbourhood_id":85841121,
+            "region_id":85688769,
+            "venue_id":857730817
+        }
+    ],
+    "wof:id":857730817,
+    "wof:lastmodified":1510944184,
+    "wof:name":"Ruby Tuesdays",
+    "wof:parent_id":85841121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -69.78699,
+    44.346551,
+    -69.78699,
+    44.346551
+],
+  "geometry": {"coordinates":[-69.78699,44.346551],"type":"Point"}
+}

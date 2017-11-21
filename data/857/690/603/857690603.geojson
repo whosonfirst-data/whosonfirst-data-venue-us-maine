@@ -1,0 +1,82 @@
+{
+  "id": 857690603,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"27 Church St Presque Isle ME 04769",
+    "addr:housenumber":"27",
+    "addr:postcode":"04769",
+    "addr:street":"Church St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.013124,46.682471,-68.013124,46.682471",
+    "geom:latitude":46.682471,
+    "geom:longitude":-68.013124,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Church St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 4743",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.piucc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eguPcPyqLadv8eu38mKqK_46.682471_-68.013124@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220630,
+    "wof:geomhash":"e0a47c5612e1f48463718c5ea5ae37c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857690603
+        }
+    ],
+    "wof:id":857690603,
+    "wof:lastmodified":1472627205,
+    "wof:name":"Congregational Church",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -68.013124,
+    46.682471,
+    -68.013124,
+    46.682471
+],
+  "geometry": {"coordinates":[-68.013124,46.682471],"type":"Point"}
+}

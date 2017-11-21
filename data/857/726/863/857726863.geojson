@@ -1,0 +1,83 @@
+{
+  "id": 857726863,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1265 State St Veazie ME 04401",
+    "addr:housenumber":"1265",
+    "addr:postcode":"04401",
+    "addr:street":"State St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.712747,44.831663,-68.712747,44.831663",
+    "geom:latitude":44.831663,
+    "geom:longitude":-68.712747,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1265 State St",
+    "sg:city":"Veazie",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 945 3458",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837399,
+        102191575,
+        404475153,
+        85633793,
+        85948897,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zGiJf4Rli0Hu83Edajl6M_44.831663_-68.712747@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221376,
+    "wof:geomhash":"a914530b43262814601c60db8e6b5c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475153,
+            "locality_id":85948897,
+            "neighbourhood_id":85837399,
+            "region_id":85688769,
+            "venue_id":857726863
+        }
+    ],
+    "wof:id":857726863,
+    "wof:lastmodified":1472627277,
+    "wof:name":"Jackson Boat",
+    "wof:parent_id":85837399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -68.712747,
+    44.831663,
+    -68.712747,
+    44.831663
+],
+  "geometry": {"coordinates":[-68.71274699999999,44.831663],"type":"Point"}
+}

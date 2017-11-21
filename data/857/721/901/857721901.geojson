@@ -1,0 +1,81 @@
+{
+  "id": 857721901,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"927 N Main St Brewer ME 04412",
+    "addr:housenumber":"927",
+    "addr:postcode":"04412",
+    "addr:street":"N Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.72739,44.816041,-68.72739,44.816041",
+    "geom:latitude":44.816041,
+    "geom:longitude":-68.72739,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"927 N Main St",
+    "sg:city":"Brewer",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 478 1257",
+    "sg:postcode":"04412",
+    "sg:province":"ME",
+    "sg:tags":[
+        "entertainer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837399,
+        102191575,
+        404475153,
+        85633793,
+        85948897,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_454k8gAJ8ZvehPkfoyPCaI_44.816041_-68.727390@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221287,
+    "wof:geomhash":"4c50bf8b73d6b5ce4e414b6b5d136e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475153,
+            "locality_id":85948897,
+            "neighbourhood_id":85837399,
+            "region_id":85688769,
+            "venue_id":857721901
+        }
+    ],
+    "wof:id":857721901,
+    "wof:lastmodified":1472627279,
+    "wof:name":"Cinnamon's Sweets",
+    "wof:parent_id":85837399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "entertainer"
+    ]
+},
+  "bbox": [
+    -68.72739,
+    44.816041,
+    -68.72739,
+    44.816041
+],
+  "geometry": {"coordinates":[-68.72739,44.816041],"type":"Point"}
+}

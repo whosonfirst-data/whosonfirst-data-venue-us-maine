@@ -1,0 +1,84 @@
+{
+  "id": 857714669,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"135 Spring St Portland ME 04101",
+    "addr:housenumber":"135",
+    "addr:postcode":"04101",
+    "addr:street":"Spring St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.262694,43.652642,-70.262694,43.652642",
+    "geom:latitude":43.652642,
+    "geom:longitude":-70.262694,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"135 Spring St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 774 1059",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.innatparkspring.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85882031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m9vpJQC135GFNWSPBufaU_43.652642_-70.262694@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221141,
+    "wof:geomhash":"e765a69d18b83755bfc61b9b468d1b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85882031,
+            "region_id":85688769,
+            "venue_id":857714669
+        }
+    ],
+    "wof:id":857714669,
+    "wof:lastmodified":1472627275,
+    "wof:name":"Inn At Park Spring",
+    "wof:parent_id":85882031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -70.262694,
+    43.652642,
+    -70.262694,
+    43.652642
+],
+  "geometry": {"coordinates":[-70.262694,43.652642],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857691971,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"69 Main St Orono ME 04473",
+    "addr:housenumber":"69",
+    "addr:postcode":"04473",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.675258,44.879706,-68.675258,44.879706",
+    "geom:latitude":44.879706,
+    "geom:longitude":-68.675258,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"69 Main St",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 0200",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dukfouoqyJB00xxzwK5c6_44.879706_-68.675258@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220661,
+    "wof:geomhash":"8f64b6f83642339fe9480982fd492e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857691971
+        }
+    ],
+    "wof:id":857691971,
+    "wof:lastmodified":1472627211,
+    "wof:name":"North Atlantic Business Group",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -68.675258,
+    44.879706,
+    -68.675258,
+    44.879706
+],
+  "geometry": {"coordinates":[-68.675258,44.879706],"type":"Point"}
+}

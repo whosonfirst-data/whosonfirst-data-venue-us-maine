@@ -1,0 +1,76 @@
+{
+  "id": 857704517,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"130 Wescott Rd South Portland ME 04106",
+    "addr:housenumber":"130",
+    "addr:postcode":"04106",
+    "addr:street":"Wescott Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.30468,43.626997,-70.30468,43.626997",
+    "geom:latitude":43.626997,
+    "geom:longitude":-70.30468,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"130 Wescott Rd",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 871 0555",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852203,
+        102191575,
+        404475439,
+        85633793,
+        85948879,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UilkPCFMcrveVWDhJGlob_43.626997_-70.304680@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220904,
+    "wof:geomhash":"5b93274ef1455dc4488754f234e024c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475439,
+            "locality_id":85948879,
+            "neighbourhood_id":85852203,
+            "region_id":85688769,
+            "venue_id":857704517
+        }
+    ],
+    "wof:id":857704517,
+    "wof:lastmodified":1472627234,
+    "wof:name":"South Portland School Supt",
+    "wof:parent_id":85852203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.30468,
+    43.626997,
+    -70.30468,
+    43.626997
+],
+  "geometry": {"coordinates":[-70.30468,43.626997],"type":"Point"}
+}

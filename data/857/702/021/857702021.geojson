@@ -1,0 +1,83 @@
+{
+  "id": 857702021,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"55 Riverside St Portland ME 04103",
+    "addr:housenumber":"55",
+    "addr:postcode":"04103",
+    "addr:street":"Riverside St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.328716,43.67998,-70.328716,43.67998",
+    "geom:latitude":43.67998,
+    "geom:longitude":-70.328716,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Riverside St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 874 2870",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836343,
+        102191575,
+        404474917,
+        85633793,
+        85948881,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50T8TZpRkJP58cOFsnTVEW_43.679980_-70.328716@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220860,
+    "wof:geomhash":"83d9a1fc773a0928fe8d7089cbe32242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404474917,
+            "locality_id":85948881,
+            "neighbourhood_id":85836343,
+            "region_id":85688769,
+            "venue_id":857702021
+        }
+    ],
+    "wof:id":857702021,
+    "wof:lastmodified":1472627197,
+    "wof:name":"Exit 8 Car Wash",
+    "wof:parent_id":85836343,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -70.328716,
+    43.67998,
+    -70.328716,
+    43.67998
+],
+  "geometry": {"coordinates":[-70.328716,43.67998],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857712435,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"166 Log Cabin Rd Kennebunkport ME 04046",
+    "addr:housenumber":"166",
+    "addr:postcode":"04046",
+    "addr:street":"Log Cabin Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.488722,43.405256,-70.488722,43.405256",
+    "geom:latitude":43.405256,
+    "geom:longitude":-70.488722,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"166 Log Cabin Rd",
+    "sg:city":"Kennebunkport",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 967 3416",
+    "sg:postcode":"04046",
+    "sg:province":"ME",
+    "sg:tags":[
+        "operation",
+        "timber",
+        "tract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85852443,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TLZ04Igzd6rxYumScSvdR_43.405256_-70.488722@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221098,
+    "wof:geomhash":"932ff3f959877bd492ac56f5a3cfe51c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85852443,
+            "region_id":85688769,
+            "venue_id":857712435
+        }
+    ],
+    "wof:id":857712435,
+    "wof:lastmodified":1472627244,
+    "wof:name":"Halcyon Farm",
+    "wof:parent_id":85852443,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "timber",
+        "tract"
+    ]
+},
+  "bbox": [
+    -70.488722,
+    43.405256,
+    -70.488722,
+    43.405256
+],
+  "geometry": {"coordinates":[-70.488722,43.405256],"type":"Point"}
+}

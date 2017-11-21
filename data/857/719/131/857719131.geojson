@@ -1,0 +1,81 @@
+{
+  "id": 857719131,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"168 Highland Ter Mexico ME 04257",
+    "addr:housenumber":"168",
+    "addr:postcode":"04257",
+    "addr:street":"Highland Ter",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.520919,44.549869,-70.520919,44.549869",
+    "geom:latitude":44.549869,
+    "geom:longitude":-70.520919,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"168 Highland Ter",
+    "sg:city":"Mexico",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 364 3828",
+    "sg:postcode":"04257",
+    "sg:province":"ME",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844599,
+        102191575,
+        404475769,
+        85633793,
+        85948977,
+        102087437,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oLYSNpNMJhIUY70p5SIaT_44.549869_-70.520919@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221230,
+    "wof:geomhash":"c087933260866405b6d35da994611114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087437,
+            "localadmin_id":404475769,
+            "locality_id":85948977,
+            "neighbourhood_id":85844599,
+            "region_id":85688769,
+            "venue_id":857719131
+        }
+    ],
+    "wof:id":857719131,
+    "wof:lastmodified":1472627244,
+    "wof:name":"Bordeau & Son Engine Repair",
+    "wof:parent_id":85844599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -70.520919,
+    44.549869,
+    -70.520919,
+    44.549869
+],
+  "geometry": {"coordinates":[-70.52091900000001,44.549869],"type":"Point"}
+}

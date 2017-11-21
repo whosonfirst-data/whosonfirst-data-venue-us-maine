@@ -1,0 +1,80 @@
+{
+  "id": 857729987,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"58 Pine St Portland ME 04102",
+    "addr:housenumber":"58",
+    "addr:postcode":"04102",
+    "addr:street":"Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.268662,43.651144,-70.268662,43.651144",
+    "geom:latitude":43.651144,
+    "geom:longitude":-70.268662,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"58 Pine St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/portland/39936-caiolas-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 1110",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85855397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bryr0zbJndv5tVf04cGCh_43.651144_-70.268662@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221438,
+    "wof:geomhash":"c1691cb4ac08dc4308612e29ec07ff2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85855397,
+            "region_id":85688769,
+            "venue_id":857729987
+        }
+    ],
+    "wof:id":857729987,
+    "wof:lastmodified":1472627315,
+    "wof:name":"Caiola's Restaurant",
+    "wof:parent_id":85855397,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -70.268662,
+    43.651144,
+    -70.268662,
+    43.651144
+],
+  "geometry": {"coordinates":[-70.26866200000001,43.651144],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857719487,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"349 Main St Winter Harbor ME 04693",
+    "addr:housenumber":"349",
+    "addr:postcode":"04693",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.088459,44.391326,-68.088459,44.391326",
+    "geom:latitude":44.391326,
+    "geom:longitude":-68.088459,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "sg:address":"349 Main St",
+    "sg:city":"Winter Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 963 7927",
+    "sg:postcode":"04693",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949095,
+        102081201,
+        85821423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "osm:way":425209201,
+        "sg:id":"SG_7jA48NouvIvsjDP4FCEAEG_44.391326_-68.088459@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221237,
+    "wof:geomhash":"76fa7c49bf2cc3fdf80aedf6a51cdca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "locality_id":85949095,
+            "neighbourhood_id":85821423,
+            "region_id":85688769,
+            "venue_id":857719487
+        }
+    ],
+    "wof:id":857719487,
+    "wof:lastmodified":1510943640,
+    "wof:name":"Winterharbor Five & Ten",
+    "wof:parent_id":85821423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.088459,
+    44.391326,
+    -68.088459,
+    44.391326
+],
+  "geometry": {"coordinates":[-68.088459,44.391326],"type":"Point"}
+}

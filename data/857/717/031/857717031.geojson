@@ -1,0 +1,78 @@
+{
+  "id": 857717031,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"35 Middle St Old Town ME 04468",
+    "addr:housenumber":"35",
+    "addr:postcode":"04468",
+    "addr:street":"Middle St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.64693,44.935846,-68.64693,44.935846",
+    "geom:latitude":44.935846,
+    "geom:longitude":-68.64693,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Middle St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Watercraft",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 5513",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "boat"
+    ],
+    "sg:website":"www.carlislepaddles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sk8mRuNIyDM9cRrIOebEE_44.935846_-68.646930@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221184,
+    "wof:geomhash":"c8a0e8ef600310e06c9f8418a302d3c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857717031
+        }
+    ],
+    "wof:id":857717031,
+    "wof:lastmodified":1472627237,
+    "wof:name":"Old Town Canoe",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat"
+    ]
+},
+  "bbox": [
+    -68.64693,
+    44.935846,
+    -68.64693,
+    44.935846
+],
+  "geometry": {"coordinates":[-68.64693,44.935846],"type":"Point"}
+}

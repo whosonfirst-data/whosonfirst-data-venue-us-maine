@@ -1,0 +1,82 @@
+{
+  "id": 857698117,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"47 Ocean Ave Portland ME 04103",
+    "addr:housenumber":"47",
+    "addr:postcode":"04103",
+    "addr:street":"Ocean Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.283614,43.673193,-70.283614,43.673193",
+    "geom:latitude":43.673193,
+    "geom:longitude":-70.283614,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sg:address":"47 Ocean Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 3839",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85858625
+    ],
+    "wof:brand_id":1125162211,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rguGwhVyIeOZIooxAqlQD_43.673193_-70.283614@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220775,
+    "wof:geomhash":"d09271f7d1020e7b28b366979bab512d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85858625,
+            "region_id":85688769,
+            "venue_id":857698117
+        }
+    ],
+    "wof:id":857698117,
+    "wof:lastmodified":1510875381,
+    "wof:name":"Custom Cuts",
+    "wof:parent_id":85858625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -70.283614,
+    43.673193,
+    -70.283614,
+    43.673193
+],
+  "geometry": {"coordinates":[-70.283614,43.673193],"type":"Point"}
+}

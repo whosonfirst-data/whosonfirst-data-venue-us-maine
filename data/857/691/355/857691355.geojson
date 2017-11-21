@@ -1,0 +1,81 @@
+{
+  "id": 857691355,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"106 Lafayette St Yarmouth ME 04096",
+    "addr:housenumber":"106",
+    "addr:postcode":"04096",
+    "addr:street":"Lafayette St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.176231,43.794899,-70.176231,43.794899",
+    "geom:latitude":43.794899,
+    "geom:longitude":-70.176231,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"106 Lafayette St",
+    "sg:city":"Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 846 1002",
+    "sg:postcode":"04096",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859327,
+        102191575,
+        404475445,
+        85633793,
+        85949005,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YgwMBLzP2fo79k8YrYgeN_43.794899_-70.176231@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220648,
+    "wof:geomhash":"6a712b1dc6ea6c508461c09788bd6270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475445,
+            "locality_id":85949005,
+            "neighbourhood_id":85859327,
+            "region_id":85688769,
+            "venue_id":857691355
+        }
+    ],
+    "wof:id":857691355,
+    "wof:lastmodified":1472627196,
+    "wof:name":"Fine Lines Construction",
+    "wof:parent_id":85859327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.176231,
+    43.794899,
+    -70.176231,
+    43.794899
+],
+  "geometry": {"coordinates":[-70.176231,43.794899],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857692803,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16 Mill St Orono ME 04473",
+    "addr:housenumber":"16",
+    "addr:postcode":"04473",
+    "addr:street":"Mill St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.671182,44.883482,-68.671182,44.883482",
+    "geom:latitude":44.883482,
+    "geom:longitude":-68.671182,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Mill St",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 3800",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "sg:website":"www.oronopharmacy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LVNpREPkRPOsZfgRiYKxL_44.883482_-68.671182@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220677,
+    "wof:geomhash":"494e825a27065676f9ec01ad90cee15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857692803
+        }
+    ],
+    "wof:id":857692803,
+    "wof:lastmodified":1472627215,
+    "wof:name":"Orono Pharmacy Inc",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.671182,
+    44.883482,
+    -68.671182,
+    44.883482
+],
+  "geometry": {"coordinates":[-68.671182,44.883482],"type":"Point"}
+}

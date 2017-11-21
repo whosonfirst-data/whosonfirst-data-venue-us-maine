@@ -1,0 +1,81 @@
+{
+  "id": 857720827,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"244 Webster St Lewiston ME 04240",
+    "addr:housenumber":"244",
+    "addr:postcode":"04240",
+    "addr:street":"Webster St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.196446,44.095338,-70.196446,44.095338",
+    "geom:latitude":44.095338,
+    "geom:longitude":-70.196446,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"244 Webster St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 782 1496",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Qq3I0MfEmkqj7eyf5pad5_44.095338_-70.196446@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221265,
+    "wof:geomhash":"09424289b8a665b365de3a1795f05e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857720827
+        }
+    ],
+    "wof:id":857720827,
+    "wof:lastmodified":1472627276,
+    "wof:name":"Faith Shear",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -70.196446,
+    44.095338,
+    -70.196446,
+    44.095338
+],
+  "geometry": {"coordinates":[-70.19644599999999,44.095338],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857713073,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1883 Essex St Bangor ME 04401",
+    "addr:housenumber":"1883",
+    "addr:postcode":"04401",
+    "addr:street":"Essex St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.777208,44.865096,-68.777208,44.865096",
+    "geom:latitude":44.865096,
+    "geom:longitude":-68.777208,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1883 Essex St",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 941 8334",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85815935,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_742RGeu8UjqD54yZs8LHsb_44.865096_-68.777208@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221111,
+    "wof:geomhash":"a19da097060c7c88bb1c7bdd3053d791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85815935,
+            "region_id":85688769,
+            "venue_id":857713073
+        }
+    ],
+    "wof:id":857713073,
+    "wof:lastmodified":1472627238,
+    "wof:name":"Community Health",
+    "wof:parent_id":85815935,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.777208,
+    44.865096,
+    -68.777208,
+    44.865096
+],
+  "geometry": {"coordinates":[-68.777208,44.865096],"type":"Point"}
+}

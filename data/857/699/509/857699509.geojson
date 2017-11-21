@@ -1,0 +1,79 @@
+{
+  "id": 857699509,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"135 Marginal Way Portland ME 04101",
+    "addr:housenumber":"135",
+    "addr:postcode":"04101",
+    "addr:street":"Marginal Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.260603,43.664843,-70.260603,43.664843",
+    "geom:latitude":43.664843,
+    "geom:longitude":-70.260603,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"135 Marginal Way",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 651 2788",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "periodical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85880031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VXpPB9ZQGNuAb903HzNyO_43.664843_-70.260603@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220801,
+    "wof:geomhash":"6fc6930209c0a6eba607378a549307e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880031,
+            "region_id":85688769,
+            "venue_id":857699509
+        }
+    ],
+    "wof:id":857699509,
+    "wof:lastmodified":1472627203,
+    "wof:name":"Nick E Busse",
+    "wof:parent_id":85880031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "periodical"
+    ]
+},
+  "bbox": [
+    -70.260603,
+    43.664843,
+    -70.260603,
+    43.664843
+],
+  "geometry": {"coordinates":[-70.260603,43.664843],"type":"Point"}
+}

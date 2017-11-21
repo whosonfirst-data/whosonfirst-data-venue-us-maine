@@ -1,0 +1,76 @@
+{
+  "id": 857714847,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16 Bay View St Camden ME 04843",
+    "addr:housenumber":"16",
+    "addr:postcode":"04843",
+    "addr:street":"Bay View St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.064282,44.209331,-69.064282,44.209331",
+    "geom:latitude":44.209331,
+    "geom:longitude":-69.064282,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Bay View St",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 236 4032",
+    "sg:postcode":"04843",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833741,
+        102191575,
+        404475697,
+        85633793,
+        85948907,
+        102087453,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37bMn4v75pxLdHmKk5AQuD_44.209331_-69.064282@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221145,
+    "wof:geomhash":"56021c7291cf135b2c84a0037b6cbf9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087453,
+            "localadmin_id":404475697,
+            "locality_id":85948907,
+            "neighbourhood_id":85833741,
+            "region_id":85688769,
+            "venue_id":857714847
+        }
+    ],
+    "wof:id":857714847,
+    "wof:lastmodified":1472627278,
+    "wof:name":"Peter Ott's",
+    "wof:parent_id":85833741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.064282,
+    44.209331,
+    -69.064282,
+    44.209331
+],
+  "geometry": {"coordinates":[-69.06428200000001,44.209331],"type":"Point"}
+}

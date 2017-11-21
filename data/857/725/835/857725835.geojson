@@ -1,0 +1,76 @@
+{
+  "id": 857725835,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"185 Main St Calais ME 04619",
+    "addr:housenumber":"185",
+    "addr:postcode":"04619",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.276332,45.18886,-67.276332,45.18886",
+    "geom:latitude":45.18886,
+    "geom:longitude":-67.276332,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"185 Main St",
+    "sg:city":"Calais",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 454 3650",
+    "sg:postcode":"04619",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857599,
+        102191575,
+        404475311,
+        85633793,
+        85948871,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62nWJDORbbMivO9gmXRySp_45.188860_-67.276332@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221358,
+    "wof:geomhash":"7b38d818c483bad4b631aefefe5842ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475311,
+            "locality_id":85948871,
+            "neighbourhood_id":85857599,
+            "region_id":85688769,
+            "venue_id":857725835
+        }
+    ],
+    "wof:id":857725835,
+    "wof:lastmodified":1472627274,
+    "wof:name":"Eastern Maine Appliances",
+    "wof:parent_id":85857599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.276332,
+    45.18886,
+    -67.276332,
+    45.18886
+],
+  "geometry": {"coordinates":[-67.276332,45.18886],"type":"Point"}
+}

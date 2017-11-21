@@ -1,0 +1,87 @@
+{
+  "id": 857692469,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"51 B St South Portland ME 04106",
+    "addr:housenumber":"51",
+    "addr:postcode":"04106",
+    "addr:street":"B St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.2548,43.640215,-70.2548,43.640215",
+    "geom:latitude":43.640215,
+    "geom:longitude":-70.2548,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 B St",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 799 8104",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "manufacture",
+        "using",
+        "s",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828657,
+        102191575,
+        404475439,
+        85633793,
+        85948879,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kgARJqYjvUCxqF33CiTg0_43.640215_-70.254800@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220670,
+    "wof:geomhash":"35db6523b1d201ae63ec61dd78c952cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475439,
+            "locality_id":85948879,
+            "neighbourhood_id":85828657,
+            "region_id":85688769,
+            "venue_id":857692469
+        }
+    ],
+    "wof:id":857692469,
+    "wof:lastmodified":1472627205,
+    "wof:name":"Maine Sign & Display",
+    "wof:parent_id":85828657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "using",
+        "s",
+        "computer"
+    ]
+},
+  "bbox": [
+    -70.2548,
+    43.640215,
+    -70.2548,
+    43.640215
+],
+  "geometry": {"coordinates":[-70.2548,43.640215],"type":"Point"}
+}

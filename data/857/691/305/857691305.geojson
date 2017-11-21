@@ -1,0 +1,83 @@
+{
+  "id": 857691305,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"27 Preble St Gorham ME 04038",
+    "addr:housenumber":"27",
+    "addr:postcode":"04038",
+    "addr:street":"Preble St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.442118,43.678679,-70.442118,43.678679",
+    "geom:latitude":43.678679,
+    "geom:longitude":-70.442118,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Preble St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 839 8065",
+    "sg:postcode":"04038",
+    "sg:province":"ME",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835377,
+        102191575,
+        404475529,
+        85633793,
+        85948995,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lyh8tTXjMnjfdSFwOCW6D_43.678679_-70.442118@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220647,
+    "wof:geomhash":"8bcd964c6e6f96bc6895b25704e55a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475529,
+            "locality_id":85948995,
+            "neighbourhood_id":85835377,
+            "region_id":85688769,
+            "venue_id":857691305
+        }
+    ],
+    "wof:id":857691305,
+    "wof:lastmodified":1472627195,
+    "wof:name":"Gama Omega",
+    "wof:parent_id":85835377,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -70.442118,
+    43.678679,
+    -70.442118,
+    43.678679
+],
+  "geometry": {"coordinates":[-70.44211799999999,43.678679],"type":"Point"}
+}

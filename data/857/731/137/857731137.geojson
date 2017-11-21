@@ -1,0 +1,82 @@
+{
+  "id": 857731137,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15 Mill St Orono ME 04473",
+    "addr:housenumber":"15",
+    "addr:postcode":"04473",
+    "addr:street":"Mill St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.671803,44.88341,-68.671803,44.88341",
+    "geom:latitude":44.88341,
+    "geom:longitude":-68.671803,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Mill St",
+    "sg:city":"Orono",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/orono/232151-margaritas/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 866 4863",
+    "sg:postcode":"04473",
+    "sg:province":"ME",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YA929RDcwprpZVSnPWlRL_44.883410_-68.671803@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221459,
+    "wof:geomhash":"4cf42c24d6e8b85e429f3541b880b4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857731137
+        }
+    ],
+    "wof:id":857731137,
+    "wof:lastmodified":1472627298,
+    "wof:name":"Margaritas",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -68.671803,
+    44.88341,
+    -68.671803,
+    44.88341
+],
+  "geometry": {"coordinates":[-68.671803,44.88341],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857725575,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"42 Bangor St Augusta ME 04330",
+    "addr:housenumber":"42",
+    "addr:postcode":"04330",
+    "addr:street":"Bangor St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.765918,44.319761,-69.765918,44.319761",
+    "geom:latitude":44.319761,
+    "geom:longitude":-69.765918,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42 Bangor St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 622 2700",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hV21MPkMMKpFkUQWnUUUy_44.319761_-69.765918@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221353,
+    "wof:geomhash":"f2d236ff252cc4497c9143e3b1395b56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857725575
+        }
+    ],
+    "wof:id":857725575,
+    "wof:lastmodified":1472627262,
+    "wof:name":"Millsy's Cleaning Svc",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -69.765918,
+    44.319761,
+    -69.765918,
+    44.319761
+],
+  "geometry": {"coordinates":[-69.765918,44.319761],"type":"Point"}
+}

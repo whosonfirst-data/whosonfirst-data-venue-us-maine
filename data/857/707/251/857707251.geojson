@@ -1,0 +1,82 @@
+{
+  "id": 857707251,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3 Westbrook Cmn Westbrook ME 04092",
+    "addr:housenumber":"3",
+    "addr:postcode":"04092",
+    "addr:street":"Westbrook Cmn",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.366958,43.676775,-70.366958,43.676775",
+    "geom:latitude":43.676775,
+    "geom:longitude":-70.366958,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Westbrook Cmn",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 854 1239",
+    "sg:postcode":"04092",
+    "sg:province":"ME",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "sg:website":"www.smpt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85851275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Txj9TNnoywBHcSvRg7oc5_43.676775_-70.366958@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220954,
+    "wof:geomhash":"d7437a72b9ff29cbdbe6542855255086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85851275,
+            "region_id":85688769,
+            "venue_id":857707251
+        }
+    ],
+    "wof:id":857707251,
+    "wof:lastmodified":1472627237,
+    "wof:name":"Southern Maine Physical Thrpy",
+    "wof:parent_id":85851275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -70.366958,
+    43.676775,
+    -70.366958,
+    43.676775
+],
+  "geometry": {"coordinates":[-70.366958,43.676775],"type":"Point"}
+}

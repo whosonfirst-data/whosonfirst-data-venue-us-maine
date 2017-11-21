@@ -1,0 +1,76 @@
+{
+  "id": 857705259,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"255 King St Springfield ME 01109",
+    "addr:housenumber":"255",
+    "addr:postcode":"01109",
+    "addr:street":"King St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.561798,42.105431,-72.561798,42.105431",
+    "geom:latitude":42.105431,
+    "geom:longitude":-72.561798,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"255 King St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 413 732 9905",
+    "sg:postcode":"01109",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839351,
+        102191575,
+        404476369,
+        85633793,
+        85950393,
+        102084627,
+        85688645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cQec2cP5JlXzWp34dMkEH_42.105431_-72.561798@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220919,
+    "wof:geomhash":"f932740072cd9716b6b7f0c6badce54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476369,
+            "locality_id":85950393,
+            "neighbourhood_id":85839351,
+            "region_id":85688645,
+            "venue_id":857705259
+        }
+    ],
+    "wof:id":857705259,
+    "wof:lastmodified":1472627230,
+    "wof:name":"Springfield Day Nursery Corp",
+    "wof:parent_id":85839351,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.561798,
+    42.105431,
+    -72.561798,
+    42.105431
+],
+  "geometry": {"coordinates":[-72.561798,42.105431],"type":"Point"}
+}

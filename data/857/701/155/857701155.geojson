@@ -1,0 +1,79 @@
+{
+  "id": 857701155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"262 Upper Sumner Hill Rd Sumner ME 04292",
+    "addr:housenumber":"262",
+    "addr:postcode":"04292",
+    "addr:street":"Upper Sumner Hill Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.424747,44.369128,-70.424747,44.369128",
+    "geom:latitude":44.369128,
+    "geom:longitude":-70.424747,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"262 Upper Sumner Hill Rd",
+    "sg:city":"Sumner",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 388 2446",
+    "sg:postcode":"04292",
+    "sg:province":"ME",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85816409,
+        102087437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61fDeRn3eBW2rIUL6W6lLF_44.369128_-70.424747@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220838,
+    "wof:geomhash":"1c7a57ebde8ae036c2aaf3c9d2554c6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087437,
+            "neighbourhood_id":85816409,
+            "region_id":85688769,
+            "venue_id":857701155
+        }
+    ],
+    "wof:id":857701155,
+    "wof:lastmodified":1472627200,
+    "wof:name":"Christopher P Zak",
+    "wof:parent_id":85816409,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -70.424747,
+    44.369128,
+    -70.424747,
+    44.369128
+],
+  "geometry": {"coordinates":[-70.424747,44.369128],"type":"Point"}
+}

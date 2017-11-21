@@ -1,0 +1,82 @@
+{
+  "id": 857720577,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"108 Main St Presque Isle ME 04769",
+    "addr:housenumber":"108",
+    "addr:postcode":"04769",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.011131,46.666373,-68.011131,46.666373",
+    "geom:latitude":46.666373,
+    "geom:longitude":-68.011131,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"108 Main St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 2900",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "snowmobile"
+    ],
+    "sg:website":"www.thesledshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tiG2AqfWF26vctC7wXAbi_46.666373_-68.011131@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221261,
+    "wof:geomhash":"965a1f06cbb8a93075b83197778c8ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857720577
+        }
+    ],
+    "wof:id":857720577,
+    "wof:lastmodified":1472627267,
+    "wof:name":"Sled Shop Inc",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snowmobile"
+    ]
+},
+  "bbox": [
+    -68.011131,
+    46.666373,
+    -68.011131,
+    46.666373
+],
+  "geometry": {"coordinates":[-68.01113100000001,46.666373],"type":"Point"}
+}

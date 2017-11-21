@@ -1,0 +1,83 @@
+{
+  "id": 857690845,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7 Cleaves St Yarmouth ME 04096",
+    "addr:housenumber":"7",
+    "addr:postcode":"04096",
+    "addr:street":"Cleaves St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.189805,43.798968,-70.189805,43.798968",
+    "geom:latitude":43.798968,
+    "geom:longitude":-70.189805,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Cleaves St",
+    "sg:city":"Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 846 0915",
+    "sg:postcode":"04096",
+    "sg:province":"ME",
+    "sg:tags":[
+        "flag",
+        "banner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859327,
+        102191575,
+        404475445,
+        85633793,
+        85949005,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YYFLJAdUnEQqLZehpOVie_43.798968_-70.189805@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220635,
+    "wof:geomhash":"ce545128abc53e008f0dacfe3f667fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475445,
+            "locality_id":85949005,
+            "neighbourhood_id":85859327,
+            "region_id":85688769,
+            "venue_id":857690845
+        }
+    ],
+    "wof:id":857690845,
+    "wof:lastmodified":1472627209,
+    "wof:name":"Banner Source",
+    "wof:parent_id":85859327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flag",
+        "banner"
+    ]
+},
+  "bbox": [
+    -70.189805,
+    43.798968,
+    -70.189805,
+    43.798968
+],
+  "geometry": {"coordinates":[-70.18980500000001,43.798968],"type":"Point"}
+}

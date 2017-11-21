@@ -1,0 +1,84 @@
+{
+  "id": 857718131,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"99 Campus Ave Lewiston ME 04240",
+    "addr:housenumber":"99",
+    "addr:postcode":"04240",
+    "addr:street":"Campus Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.19908,44.101828,-70.19908,44.101828",
+    "geom:latitude":44.101828,
+    "geom:longitude":-70.19908,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"99 Campus Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 777 4440",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.stmarysregionalmedicalcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21qMj61vpzsLhTqLGd58R1_44.101828_-70.199080@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221206,
+    "wof:geomhash":"6ea6f1edb4ae3ae66f0a9a7928b696e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857718131
+        }
+    ],
+    "wof:id":857718131,
+    "wof:lastmodified":1472627247,
+    "wof:name":"Community Clinical Svc",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -70.19908,
+    44.101828,
+    -70.19908,
+    44.101828
+],
+  "geometry": {"coordinates":[-70.19908,44.101828],"type":"Point"}
+}

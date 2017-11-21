@@ -1,0 +1,85 @@
+{
+  "id": 857725169,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"116 Main St Yarmouth ME 04096",
+    "addr:housenumber":"116",
+    "addr:postcode":"04096",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.183008,43.79906,-70.183008,43.79906",
+    "geom:latitude":43.79906,
+    "geom:longitude":-70.183008,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"116 Main St",
+    "sg:city":"Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 846 9010",
+    "sg:postcode":"04096",
+    "sg:province":"ME",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859327,
+        102191575,
+        404475445,
+        85633793,
+        85949005,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w481odlPXzyPDdrJ0qepv_43.799060_-70.183008@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221347,
+    "wof:geomhash":"eeaa0db78cfeb1711ddc57889e167fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475445,
+            "locality_id":85949005,
+            "neighbourhood_id":85859327,
+            "region_id":85688769,
+            "venue_id":857725169
+        }
+    ],
+    "wof:id":857725169,
+    "wof:lastmodified":1472627253,
+    "wof:name":"Village Nursery School",
+    "wof:parent_id":85859327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -70.183008,
+    43.79906,
+    -70.183008,
+    43.79906
+],
+  "geometry": {"coordinates":[-70.183008,43.79906],"type":"Point"}
+}

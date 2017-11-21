@@ -1,0 +1,77 @@
+{
+  "id": 857734247,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1 Huntington Common Dr Kennebunk ME 04043",
+    "addr:housenumber":"1",
+    "addr:postcode":"04043",
+    "addr:street":"Huntington Common Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.530899,43.400799,-70.530899,43.400799",
+    "geom:latitude":43.400799,
+    "geom:longitude":-70.530899,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Huntington Common Dr",
+    "sg:city":"Kennebunk",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 985 2810",
+    "sg:postcode":"04043",
+    "sg:province":"ME",
+    "sg:website":"www.sunriseseniorliving.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804645,
+        102191575,
+        404475789,
+        85633793,
+        85949063,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fdupkMoebf3zfw3z8xLaE_43.400799_-70.530899@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221525,
+    "wof:geomhash":"27518024b46f138091ab7b5e9e3181e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475789,
+            "locality_id":85949063,
+            "neighbourhood_id":85804645,
+            "region_id":85688769,
+            "venue_id":857734247
+        }
+    ],
+    "wof:id":857734247,
+    "wof:lastmodified":1472627301,
+    "wof:name":"Huntington Common",
+    "wof:parent_id":85804645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.530899,
+    43.400799,
+    -70.530899,
+    43.400799
+],
+  "geometry": {"coordinates":[-70.53089900000001,43.400799],"type":"Point"}
+}

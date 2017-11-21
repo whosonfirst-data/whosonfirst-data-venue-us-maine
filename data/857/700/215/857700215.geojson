@@ -1,0 +1,81 @@
+{
+  "id": 857700215,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"56 Cornell St South Portland ME 04106",
+    "addr:housenumber":"56",
+    "addr:postcode":"04106",
+    "addr:street":"Cornell St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.303303,43.619363,-70.303303,43.619363",
+    "geom:latitude":43.619363,
+    "geom:longitude":-70.303303,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"56 Cornell St",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 773 4350",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852203,
+        102191575,
+        404475439,
+        85633793,
+        85948879,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EceH5Qy4DgLU3qT4EpHpL_43.619363_-70.303303@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220818,
+    "wof:geomhash":"b9cd0f962fbd0492d687dc6340c86b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475439,
+            "locality_id":85948879,
+            "neighbourhood_id":85852203,
+            "region_id":85688769,
+            "venue_id":857700215
+        }
+    ],
+    "wof:id":857700215,
+    "wof:lastmodified":1472627202,
+    "wof:name":"Rocky Genovese Heating",
+    "wof:parent_id":85852203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.303303,
+    43.619363,
+    -70.303303,
+    43.619363
+],
+  "geometry": {"coordinates":[-70.303303,43.619363],"type":"Point"}
+}

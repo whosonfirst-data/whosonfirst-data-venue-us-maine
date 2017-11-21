@@ -1,0 +1,77 @@
+{
+  "id": 857687045,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4 Ave 3 Windham ME 04074",
+    "addr:housenumber":"3",
+    "addr:postcode":"04074",
+    "addr:street":"4 Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.339525,43.543058,-70.339525,43.543058",
+    "geom:latitude":43.543058,
+    "geom:longitude":-70.339525,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Ave 3",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 892 7642",
+    "sg:postcode":"04074",
+    "sg:province":"ME",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85822441,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09LfRoWtkvYOV7iqBCJwbT_43.543058_-70.339525@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220560,
+    "wof:geomhash":"5aa7efd668353fefd4191b2b9bc493bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85822441,
+            "region_id":85688769,
+            "venue_id":857687045
+        }
+    ],
+    "wof:id":857687045,
+    "wof:lastmodified":1472627184,
+    "wof:name":"Saco Bay Orthopaedic & Sports",
+    "wof:parent_id":85822441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -70.339525,
+    43.543058,
+    -70.339525,
+    43.543058
+],
+  "geometry": {"coordinates":[-70.33952499999999,43.543058],"type":"Point"}
+}

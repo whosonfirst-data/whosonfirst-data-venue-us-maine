@@ -1,0 +1,78 @@
+{
+  "id": 857730107,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"91 Auburn St Portland ME 04103",
+    "addr:housenumber":"91",
+    "addr:postcode":"04103",
+    "addr:street":"Auburn St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.289488,43.703664,-70.289488,43.703664",
+    "geom:latitude":43.703664,
+    "geom:longitude":-70.289488,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"91 Auburn St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/portland/113670-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 878 6583",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948877,
+        102087463,
+        85837549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IgOBdQZLogbmWK7ezm5DV_43.703664_-70.289488@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221441,
+    "wof:geomhash":"7a327b49786a242edc8f424caa71c645",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85837549,
+            "region_id":85688769,
+            "venue_id":857730107
+        }
+    ],
+    "wof:id":857730107,
+    "wof:lastmodified":1472627296,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85837549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -70.289488,
+    43.703664,
+    -70.289488,
+    43.703664
+],
+  "geometry": {"coordinates":[-70.28948800000001,43.703664],"type":"Point"}
+}

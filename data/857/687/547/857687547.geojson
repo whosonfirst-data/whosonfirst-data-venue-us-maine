@@ -1,0 +1,77 @@
+{
+  "id": 857687547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"203 Main St Lincoln ME 04457",
+    "addr:housenumber":"203",
+    "addr:postcode":"04457",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.500136,45.378829,-68.500136,45.378829",
+    "geom:latitude":45.378829,
+    "geom:longitude":-68.500136,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"203 Main St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 794 3988",
+    "sg:postcode":"04457",
+    "sg:province":"ME",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949107,
+        102080723,
+        85849837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kuueqEe3xWZtqquQP7BK9_45.378829_-68.500136@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220569,
+    "wof:geomhash":"7842773169566e4588ba6244f62f3914",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85949107,
+            "neighbourhood_id":85849837,
+            "region_id":85688769,
+            "venue_id":857687547
+        }
+    ],
+    "wof:id":857687547,
+    "wof:lastmodified":1472627193,
+    "wof:name":"Bailey Park Apartments",
+    "wof:parent_id":85849837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -68.500136,
+    45.378829,
+    -68.500136,
+    45.378829
+],
+  "geometry": {"coordinates":[-68.500136,45.378829],"type":"Point"}
+}

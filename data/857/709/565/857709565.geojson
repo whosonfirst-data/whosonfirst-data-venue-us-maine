@@ -1,0 +1,81 @@
+{
+  "id": 857709565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"20 US Hwy 1 Columbia ME 04619",
+    "addr:housenumber":"20",
+    "addr:postcode":"04619",
+    "addr:street":"Us Hwy 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.277895,45.18905,-67.277895,45.18905",
+    "geom:latitude":45.18905,
+    "geom:longitude":-67.277895,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 US Hwy 1",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 483 2227",
+    "sg:postcode":"04619",
+    "sg:province":"ME",
+    "sg:tags":[
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857599,
+        102191575,
+        404475311,
+        85633793,
+        85948871,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ofrXhzXHgOeNAD44jZjk8_45.189050_-67.277895@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221020,
+    "wof:geomhash":"528ca58135a1c03aad98651182ae9d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475311,
+            "locality_id":85948871,
+            "neighbourhood_id":85857599,
+            "region_id":85688769,
+            "venue_id":857709565
+        }
+    ],
+    "wof:id":857709565,
+    "wof:lastmodified":1472627254,
+    "wof:name":"Dallas' Lobstah Take Out",
+    "wof:parent_id":85857599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "out"
+    ]
+},
+  "bbox": [
+    -67.277895,
+    45.18905,
+    -67.277895,
+    45.18905
+],
+  "geometry": {"coordinates":[-67.277895,45.18905],"type":"Point"}
+}

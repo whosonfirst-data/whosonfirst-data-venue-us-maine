@@ -1,0 +1,81 @@
+{
+  "id": 857695125,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"175 Bucksport Rd Ellsworth ME 04605",
+    "addr:housenumber":"175",
+    "addr:postcode":"04605",
+    "addr:street":"Bucksport Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.43179,44.539045,-68.43179,44.539045",
+    "geom:latitude":44.539045,
+    "geom:longitude":-68.43179,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"175 Bucksport Rd",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 664 0750",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Y7gl9432flDArAcv0P53_44.539045_-68.431790@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220722,
+    "wof:geomhash":"199f06cd7efa778d04435202be478a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857695125
+        }
+    ],
+    "wof:id":857695125,
+    "wof:lastmodified":1472627197,
+    "wof:name":"Silks & Tapestries Inc",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -68.43179,
+    44.539045,
+    -68.43179,
+    44.539045
+],
+  "geometry": {"coordinates":[-68.43179000000001,44.539045],"type":"Point"}
+}

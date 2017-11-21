@@ -1,0 +1,76 @@
+{
+  "id": 857710999,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"219 Hogan Rd Bangor ME 04401",
+    "addr:housenumber":"219",
+    "addr:postcode":"04401",
+    "addr:street":"Hogan Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.739358,44.821606,-68.739358,44.821606",
+    "geom:latitude":44.821606,
+    "geom:longitude":-68.739358,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"219 Hogan Rd",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 941 4515",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851073,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R7HeqwM1u63rY1Ff6UaX2_44.821606_-68.739358@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221051,
+    "wof:geomhash":"bf02a900685f060bb5ad7ea2acd89a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85851073,
+            "region_id":85688769,
+            "venue_id":857710999
+        }
+    ],
+    "wof:id":857710999,
+    "wof:lastmodified":1472627255,
+    "wof:name":"Maintenance Lot",
+    "wof:parent_id":85851073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.739358,
+    44.821606,
+    -68.739358,
+    44.821606
+],
+  "geometry": {"coordinates":[-68.739358,44.821606],"type":"Point"}
+}

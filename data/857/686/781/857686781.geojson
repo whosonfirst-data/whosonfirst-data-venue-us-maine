@@ -1,0 +1,83 @@
+{
+  "id": 857686781,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4 Cove Rd Rockport ME 04843",
+    "addr:housenumber":"4",
+    "addr:postcode":"04843",
+    "addr:street":"Cove Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.059651,44.210801,-69.059651,44.210801",
+    "geom:latitude":44.210801,
+    "geom:longitude":-69.059651,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Cove Rd",
+    "sg:city":"Rockport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 593 5500",
+    "sg:postcode":"04843",
+    "sg:province":"ME",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833741,
+        102191575,
+        404475697,
+        85633793,
+        85948907,
+        102087453,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yVQniZCS7ATAj2v5o8B3z_44.210801_-69.059651@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220554,
+    "wof:geomhash":"8326d73b645add82d2600908ee2bbe11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087453,
+            "localadmin_id":404475697,
+            "locality_id":85948907,
+            "neighbourhood_id":85833741,
+            "region_id":85688769,
+            "venue_id":857686781
+        }
+    ],
+    "wof:id":857686781,
+    "wof:lastmodified":1472627207,
+    "wof:name":"Physical & Occupational Thrpy",
+    "wof:parent_id":85833741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -69.059651,
+    44.210801,
+    -69.059651,
+    44.210801
+],
+  "geometry": {"coordinates":[-69.059651,44.210801],"type":"Point"}
+}

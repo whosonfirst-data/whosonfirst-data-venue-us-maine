@@ -1,0 +1,99 @@
+{
+  "id": 857730715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8 Gaywalk St Augusta ME 04330",
+    "addr:housenumber":"8",
+    "addr:postcode":"04330",
+    "addr:street":"Gaywalk St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.792565,44.336654,-69.792565,44.336654",
+    "geom:latitude":44.336654,
+    "geom:longitude":-69.792565,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Gaywalk St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/augusta/149112-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 621 1325",
+    "sg:postcode":"04330",
+    "sg:province":"ME",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79eTXxQ1tCxChJLXfyAxEv_44.336654_-69.792565@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221451,
+    "wof:geomhash":"c9245ac654ecf2f517b2fca412d45469",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857730715
+        }
+    ],
+    "wof:id":857730715,
+    "wof:lastmodified":1472627315,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -69.792565,
+    44.336654,
+    -69.792565,
+    44.336654
+],
+  "geometry": {"coordinates":[-69.792565,44.336654],"type":"Point"}
+}

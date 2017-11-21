@@ -1,0 +1,75 @@
+{
+  "id": 857718851,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"24 Front St South Berwick ME 03908",
+    "addr:housenumber":"24",
+    "addr:postcode":"03908",
+    "addr:street":"Front St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.811476,43.240673,-70.811476,43.240673",
+    "geom:latitude":43.240673,
+    "geom:longitude":-70.811476,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 Front St",
+    "sg:city":"South Berwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 384 4435",
+    "sg:postcode":"03908",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85813221,
+        102087449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zM5QUmpagL3EnYVsA0EJM_43.240673_-70.811476@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221218,
+    "wof:geomhash":"527ff6b18fa42917c1874de67732d51a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087449,
+            "neighbourhood_id":85813221,
+            "region_id":85688769,
+            "venue_id":857718851
+        }
+    ],
+    "wof:id":857718851,
+    "wof:lastmodified":1472627277,
+    "wof:name":"Rocket Plumbing",
+    "wof:parent_id":85813221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.811476,
+    43.240673,
+    -70.811476,
+    43.240673
+],
+  "geometry": {"coordinates":[-70.811476,43.240673],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857702337,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"444 Bangor Rd Ellsworth ME 04605",
+    "addr:housenumber":"444",
+    "addr:postcode":"04605",
+    "addr:street":"Bangor Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.509611,44.592724,-68.509611,44.592724",
+    "geom:latitude":44.592724,
+    "geom:longitude":-68.509611,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"444 Bangor Rd",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 4592",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QHBS53P5x7roFoYJL1gjo_44.592724_-68.509611@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220866,
+    "wof:geomhash":"d99efb65bc67279c84b4c1b61881496a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857702337
+        }
+    ],
+    "wof:id":857702337,
+    "wof:lastmodified":1472627202,
+    "wof:name":"Moto Car",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -68.509611,
+    44.592724,
+    -68.509611,
+    44.592724
+],
+  "geometry": {"coordinates":[-68.50961100000001,44.592724],"type":"Point"}
+}

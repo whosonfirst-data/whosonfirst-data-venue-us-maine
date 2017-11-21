@@ -1,0 +1,77 @@
+{
+  "id": 857733981,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"370 York St York ME 03911",
+    "addr:housenumber":"370",
+    "addr:postcode":"03911",
+    "addr:street":"York St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.645301,43.137373,-70.645301,43.137373",
+    "geom:latitude":43.137373,
+    "geom:longitude":-70.645301,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"370 York St",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 363 2059",
+    "sg:postcode":"03911",
+    "sg:province":"ME",
+    "sg:website":"www.chapmancottagebandb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859383,
+        102191575,
+        404475823,
+        85633793,
+        85949065,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dPEKOomZRncpifIWTm6c7_43.137373_-70.645301@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221518,
+    "wof:geomhash":"5fae585828d60129aec50755901fb8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475823,
+            "locality_id":85949065,
+            "neighbourhood_id":85859383,
+            "region_id":85688769,
+            "venue_id":857733981
+        }
+    ],
+    "wof:id":857733981,
+    "wof:lastmodified":1472627315,
+    "wof:name":"Chapman Cottage Bed & Breakfast Inn",
+    "wof:parent_id":85859383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.645301,
+    43.137373,
+    -70.645301,
+    43.137373
+],
+  "geometry": {"coordinates":[-70.645301,43.137373],"type":"Point"}
+}

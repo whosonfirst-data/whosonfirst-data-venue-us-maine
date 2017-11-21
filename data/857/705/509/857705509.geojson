@@ -1,0 +1,81 @@
+{
+  "id": 857705509,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"675 N Main St Brewer ME 04412",
+    "addr:housenumber":"675",
+    "addr:postcode":"04412",
+    "addr:street":"N Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.737272,44.809249,-68.737272,44.809249",
+    "geom:latitude":44.809249,
+    "geom:longitude":-68.737272,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"675 N Main St",
+    "sg:city":"Brewer",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 989 4989",
+    "sg:postcode":"04412",
+    "sg:province":"ME",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837399,
+        102191575,
+        404475153,
+        85633793,
+        85948897,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u8n5Vhx6ScomB53BbfpyX_44.809249_-68.737272@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220924,
+    "wof:geomhash":"e4f0f55ebe02cd5f4bcaa246d335cd48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475153,
+            "locality_id":85948897,
+            "neighbourhood_id":85837399,
+            "region_id":85688769,
+            "venue_id":857705509
+        }
+    ],
+    "wof:id":857705509,
+    "wof:lastmodified":1472627249,
+    "wof:name":"Mathew Rideout",
+    "wof:parent_id":85837399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -68.737272,
+    44.809249,
+    -68.737272,
+    44.809249
+],
+  "geometry": {"coordinates":[-68.737272,44.809249],"type":"Point"}
+}

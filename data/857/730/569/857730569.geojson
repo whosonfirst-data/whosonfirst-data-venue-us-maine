@@ -1,0 +1,84 @@
+{
+  "id": 857730569,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"741 Main St Lewiston ME 04240",
+    "addr:housenumber":"741",
+    "addr:postcode":"04240",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.20473,44.118147,-70.20473,44.118147",
+    "geom:latitude":44.118147,
+    "geom:longitude":-70.20473,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"741 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/lewiston/119820-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 795 6422",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iBGGYxjj4Dlv79Jc6H2tM_44.118147_-70.204730@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221448,
+    "wof:geomhash":"403cc0f37e768626675f982bd408db04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857730569
+        }
+    ],
+    "wof:id":857730569,
+    "wof:lastmodified":1472627314,
+    "wof:name":"Subway",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -70.20473,
+    44.118147,
+    -70.20473,
+    44.118147
+],
+  "geometry": {"coordinates":[-70.20473,44.118147],"type":"Point"}
+}

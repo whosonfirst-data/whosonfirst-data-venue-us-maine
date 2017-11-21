@@ -1,0 +1,73 @@
+{
+  "id": 857702815,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"89 Water St Hallowell ME 04347",
+    "addr:housenumber":"89",
+    "addr:postcode":"04347",
+    "addr:street":"Water St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.790003,44.287512,-69.790003,44.287512",
+    "geom:latitude":44.287512,
+    "geom:longitude":-69.790003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"89 Water St",
+    "sg:city":"Hallowell",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 622 2220",
+    "sg:postcode":"04347",
+    "sg:province":"ME",
+    "sg:website":"www.valleerealestate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948863,
+        102087461,
+        85822525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jlXxA6fZmgVDQzC26xWoY_44.287512_-69.790003@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220874,
+    "wof:geomhash":"f02b4139bcfceab54a6c988935c166c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087461,
+            "locality_id":85948863,
+            "neighbourhood_id":85822525,
+            "region_id":85688769,
+            "venue_id":857702815
+        }
+    ],
+    "wof:id":857702815,
+    "wof:lastmodified":1472627211,
+    "wof:name":"Vallee Real Estate",
+    "wof:parent_id":85822525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.790003,
+    44.287512,
+    -69.790003,
+    44.287512
+],
+  "geometry": {"coordinates":[-69.790003,44.287512],"type":"Point"}
+}

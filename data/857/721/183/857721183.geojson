@@ -1,0 +1,81 @@
+{
+  "id": 857721183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"27 Water St Lubec ME 04652",
+    "addr:housenumber":"27",
+    "addr:postcode":"04652",
+    "addr:street":"Water St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-66.982949,44.859848,-66.982949,44.859848",
+    "geom:latitude":44.859848,
+    "geom:longitude":-66.982949,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Water St",
+    "sg:city":"Lubec",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 733 8901",
+    "sg:postcode":"04652",
+    "sg:province":"ME",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849853,
+        102191575,
+        404475775,
+        85633793,
+        85948873,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Rck0ES7nmDUrHJoeM39pF_44.859848_-66.982949@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221273,
+    "wof:geomhash":"e5a58d05a7f6b432b803cb831effebe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475775,
+            "locality_id":85948873,
+            "neighbourhood_id":85849853,
+            "region_id":85688769,
+            "venue_id":857721183
+        }
+    ],
+    "wof:id":857721183,
+    "wof:lastmodified":1472627249,
+    "wof:name":"Carol Lewis",
+    "wof:parent_id":85849853,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -66.982949,
+    44.859848,
+    -66.982949,
+    44.859848
+],
+  "geometry": {"coordinates":[-66.982949,44.859848],"type":"Point"}
+}

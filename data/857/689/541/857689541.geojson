@@ -1,0 +1,81 @@
+{
+  "id": 857689541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"937 Main St Lewiston ME 04240",
+    "addr:housenumber":"937",
+    "addr:postcode":"04240",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.196713,44.132243,-70.196713,44.132243",
+    "geom:latitude":44.132243,
+    "geom:longitude":-70.196713,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"937 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 784 1446",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vDmqGHCO9zF5lKVzadjwf_44.132243_-70.196713@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220609,
+    "wof:geomhash":"20ef2c424b9e6fb458d5a1a18b31d872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857689541
+        }
+    ],
+    "wof:id":857689541,
+    "wof:lastmodified":1472627207,
+    "wof:name":"Peters & Assoc",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -70.196713,
+    44.132243,
+    -70.196713,
+    44.132243
+],
+  "geometry": {"coordinates":[-70.196713,44.132243],"type":"Point"}
+}

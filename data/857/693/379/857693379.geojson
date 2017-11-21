@@ -1,0 +1,85 @@
+{
+  "id": 857693379,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"21 Ocean Park Rd Saco ME 04072",
+    "addr:housenumber":"21",
+    "addr:postcode":"04072",
+    "addr:street":"Ocean Park Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.429587,43.509745,-70.429587,43.509745",
+    "geom:latitude":43.509745,
+    "geom:longitude":-70.429587,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Ocean Park Rd",
+    "sg:city":"Saco",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 282 5569",
+    "sg:postcode":"04072",
+    "sg:province":"ME",
+    "sg:tags":[
+        "reservation",
+        "motel",
+        "hotel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819479,
+        102191575,
+        404475883,
+        85633793,
+        85948887,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V6X4uRet9mIIZRaCqYL2l_43.509745_-70.429587@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220688,
+    "wof:geomhash":"5f95b6c679a90160250054a78cc969ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475883,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":857693379
+        }
+    ],
+    "wof:id":857693379,
+    "wof:lastmodified":1472627208,
+    "wof:name":"Classic Motel",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reservation",
+        "motel",
+        "hotel"
+    ]
+},
+  "bbox": [
+    -70.429587,
+    43.509745,
+    -70.429587,
+    43.509745
+],
+  "geometry": {"coordinates":[-70.429587,43.509745],"type":"Point"}
+}

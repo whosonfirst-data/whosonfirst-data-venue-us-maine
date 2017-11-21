@@ -1,0 +1,77 @@
+{
+  "id": 857689687,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"39 High St Lincoln ME 04457",
+    "addr:housenumber":"39",
+    "addr:postcode":"04457",
+    "addr:street":"High St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.506553,45.357714,-68.506553,45.357714",
+    "geom:latitude":45.357714,
+    "geom:longitude":-68.506553,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 High St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 794 2153",
+    "sg:postcode":"04457",
+    "sg:province":"ME",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949107,
+        102080723,
+        85849837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DEz6MRdPLXvHIV6Bkj30D_45.357714_-68.506553@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220612,
+    "wof:geomhash":"b6d31789300ad5d825bc644ee33e693f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85949107,
+            "neighbourhood_id":85849837,
+            "region_id":85688769,
+            "venue_id":857689687
+        }
+    ],
+    "wof:id":857689687,
+    "wof:lastmodified":1472627211,
+    "wof:name":"Lincoln Manor",
+    "wof:parent_id":85849837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -68.506553,
+    45.357714,
+    -68.506553,
+    45.357714
+],
+  "geometry": {"coordinates":[-68.506553,45.357714],"type":"Point"}
+}

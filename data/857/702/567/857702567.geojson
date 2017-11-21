@@ -1,0 +1,77 @@
+{
+  "id": 857702567,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"194 Beechland Rd Ellsworth ME 04605",
+    "addr:housenumber":"194",
+    "addr:postcode":"04605",
+    "addr:street":"Beechland Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.402121,44.518541,-68.402121,44.518541",
+    "geom:latitude":44.518541,
+    "geom:longitude":-68.402121,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"194 Beechland Rd",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 3001",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:website":"www.weymouthchiropractic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IrJ6IqT8aRW33Gx1Rzqqi_44.518541_-68.402121@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220870,
+    "wof:geomhash":"a717cbbfd6e22bc64ca9b90c43a2765f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857702567
+        }
+    ],
+    "wof:id":857702567,
+    "wof:lastmodified":1472627206,
+    "wof:name":"Weymouth Chiropractic Ctr",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.402121,
+    44.518541,
+    -68.402121,
+    44.518541
+],
+  "geometry": {"coordinates":[-68.40212099999999,44.518541],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857687071,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"60 Elm St Fort Kent ME 04743",
+    "addr:housenumber":"60",
+    "addr:postcode":"04743",
+    "addr:street":"Elm St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.599395,47.248015,-68.599395,47.248015",
+    "geom:latitude":47.248015,
+    "geom:longitude":-68.599395,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"60 Elm St",
+    "sg:city":"Fort Kent",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 834 3410",
+    "sg:postcode":"04743",
+    "sg:province":"ME",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Gbw6Ql7vlbCCUiFdHuNtO_47.248015_-68.599395@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220560,
+    "wof:geomhash":"979fcab98e4fc03dc0386bbf8b0c85d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857687071
+        }
+    ],
+    "wof:id":857687071,
+    "wof:lastmodified":1472627184,
+    "wof:name":"Dicks Electrical & Sons",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.599395,
+    47.248015,
+    -68.599395,
+    47.248015
+],
+  "geometry": {"coordinates":[-68.599395,47.248015],"type":"Point"}
+}

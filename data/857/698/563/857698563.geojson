@@ -1,0 +1,84 @@
+{
+  "id": 857698563,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"212 Canco Rd Portland ME 04103",
+    "addr:housenumber":"212",
+    "addr:postcode":"04103",
+    "addr:street":"Canco Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.284533,43.682493,-70.284533,43.682493",
+    "geom:latitude":43.682493,
+    "geom:longitude":-70.284533,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"212 Canco Rd",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 775 5666",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "equipment",
+        "heating",
+        "system"
+    ],
+    "sg:website":"www.nelsonsmall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85814011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QPVbfDw4DPPNCu1xNzQ77_43.682493_-70.284533@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220784,
+    "wof:geomhash":"3c5a301a6311a43152af0a04d6f8b7a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85814011,
+            "region_id":85688769,
+            "venue_id":857698563
+        }
+    ],
+    "wof:id":857698563,
+    "wof:lastmodified":1472627213,
+    "wof:name":"Nelson & Small Inc",
+    "wof:parent_id":85814011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "heating",
+        "system"
+    ]
+},
+  "bbox": [
+    -70.284533,
+    43.682493,
+    -70.284533,
+    43.682493
+],
+  "geometry": {"coordinates":[-70.284533,43.682493],"type":"Point"}
+}

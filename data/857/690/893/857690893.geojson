@@ -1,0 +1,79 @@
+{
+  "id": 857690893,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3947 Broadway Kenduskeag ME 04450",
+    "addr:housenumber":"3947",
+    "addr:postcode":"04450",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.930947,44.919337,-68.930947,44.919337",
+    "geom:latitude":44.919337,
+    "geom:longitude":-68.930947,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3947 Broadway",
+    "sg:city":"Kenduskeag",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 884 3044",
+    "sg:postcode":"04450",
+    "sg:province":"ME",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85855557,
+        102080723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vxU4JW99pEXNsPL7xYTv1_44.919337_-68.930947@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220638,
+    "wof:geomhash":"b83b3c50887a341810bc09be21c0270a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85855557,
+            "region_id":85688769,
+            "venue_id":857690893
+        }
+    ],
+    "wof:id":857690893,
+    "wof:lastmodified":1472627211,
+    "wof:name":"Late Great Classics",
+    "wof:parent_id":85855557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -68.930947,
+    44.919337,
+    -68.930947,
+    44.919337
+],
+  "geometry": {"coordinates":[-68.930947,44.919337],"type":"Point"}
+}

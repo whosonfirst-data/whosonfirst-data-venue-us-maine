@@ -1,0 +1,76 @@
+{
+  "id": 857719563,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15 Vine St Auburn ME 04210",
+    "addr:housenumber":"15",
+    "addr:postcode":"04210",
+    "addr:street":"Vine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.227003,44.094501,-70.227003,44.094501",
+    "geom:latitude":44.094501,
+    "geom:longitude":-70.227003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Vine St",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 783 4824",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Uqsr4SJZD4bnYq4JAaVDs_44.094501_-70.227003@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221241,
+    "wof:geomhash":"c24cf0a92fb1396b9b20f020eef19a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857719563
+        }
+    ],
+    "wof:id":857719563,
+    "wof:lastmodified":1472627262,
+    "wof:name":"Jeffery Seely",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.227003,
+    44.094501,
+    -70.227003,
+    44.094501
+],
+  "geometry": {"coordinates":[-70.227003,44.094501],"type":"Point"}
+}

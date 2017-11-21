@@ -1,0 +1,78 @@
+{
+  "id": 857689445,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2881 Ohio St Glenburn ME 04401",
+    "addr:housenumber":"2881",
+    "addr:postcode":"04401",
+    "addr:street":"Ohio St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.88103,44.877045,-68.88103,44.877045",
+    "geom:latitude":44.877045,
+    "geom:longitude":-68.88103,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2881 Ohio St",
+    "sg:city":"Glenburn",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 884 6052",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.wjcx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85855557,
+        102080723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qyjORcAe27mFkNDAAs7pg_44.877045_-68.881030@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220607,
+    "wof:geomhash":"731c6d091d05fc1ae96744b56027aa4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85855557,
+            "region_id":85688769,
+            "venue_id":857689445
+        }
+    ],
+    "wof:id":857689445,
+    "wof:lastmodified":1472627204,
+    "wof:name":"WJCX",
+    "wof:parent_id":85855557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -68.88103,
+    44.877045,
+    -68.88103,
+    44.877045
+],
+  "geometry": {"coordinates":[-68.88103,44.877045],"type":"Point"}
+}

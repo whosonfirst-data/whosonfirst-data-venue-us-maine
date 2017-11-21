@@ -1,0 +1,83 @@
+{
+  "id": 857702867,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"210 Bartlett St Lewiston ME 04240",
+    "addr:housenumber":"210",
+    "addr:postcode":"04240",
+    "addr:street":"Bartlett St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.208013,44.092025,-70.208013,44.092025",
+    "geom:latitude":44.092025,
+    "geom:longitude":-70.208013,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"210 Bartlett St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 784 0972",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KSL9HgeLBgbiCboCW3UnN_44.092025_-70.208013@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220875,
+    "wof:geomhash":"c2b7ebcca98acbeb006241a547b07be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857702867
+        }
+    ],
+    "wof:id":857702867,
+    "wof:lastmodified":1472627215,
+    "wof:name":"Paul's Oil Burner Svc",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.208013,
+    44.092025,
+    -70.208013,
+    44.092025
+],
+  "geometry": {"coordinates":[-70.20801299999999,44.092025],"type":"Point"}
+}

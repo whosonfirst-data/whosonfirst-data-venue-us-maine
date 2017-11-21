@@ -1,0 +1,80 @@
+{
+  "id": 857729875,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"72 Commercial St Portland ME 04101",
+    "addr:housenumber":"72",
+    "addr:postcode":"04101",
+    "addr:street":"Commercial St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.250298,43.657458,-70.250298,43.657458",
+    "geom:latitude":43.657458,
+    "geom:longitude":-70.250298,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"72 Commercial St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/portland/35662-ri-ra/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 761 4446",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "irish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85882031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04vczraQDXFykPvhUkgsvE_43.657458_-70.250298@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221431,
+    "wof:geomhash":"25cd1a140fea54e9e4d3d7e9a2aabb2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85882031,
+            "region_id":85688769,
+            "venue_id":857729875
+        }
+    ],
+    "wof:id":857729875,
+    "wof:lastmodified":1472627314,
+    "wof:name":"Ri Ra",
+    "wof:parent_id":85882031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "irish"
+    ]
+},
+  "bbox": [
+    -70.250298,
+    43.657458,
+    -70.250298,
+    43.657458
+],
+  "geometry": {"coordinates":[-70.250298,43.657458],"type":"Point"}
+}

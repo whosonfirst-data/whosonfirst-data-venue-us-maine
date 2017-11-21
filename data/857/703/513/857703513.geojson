@@ -1,0 +1,70 @@
+{
+  "id": 857703513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"52 Court St Machias ME 04654",
+    "addr:housenumber":"52",
+    "addr:postcode":"04654",
+    "addr:street":"Court St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.459582,44.715718,-67.459582,44.715718",
+    "geom:latitude":44.715718,
+    "geom:longitude":-67.459582,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 Court St",
+    "sg:city":"Machias",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 255 3933",
+    "sg:postcode":"04654",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85826381,
+        102081143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AEXUdjAF7y38VrZjodR48_44.715718_-67.459582@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220886,
+    "wof:geomhash":"56937c3be438ced362fc74b23a486b94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85826381,
+            "region_id":85688769,
+            "venue_id":857703513
+        }
+    ],
+    "wof:id":857703513,
+    "wof:lastmodified":1472627208,
+    "wof:name":"Porter Memorial Library Assn",
+    "wof:parent_id":85826381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.459582,
+    44.715718,
+    -67.459582,
+    44.715718
+],
+  "geometry": {"coordinates":[-67.459582,44.715718],"type":"Point"}
+}

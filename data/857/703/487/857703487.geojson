@@ -1,0 +1,70 @@
+{
+  "id": 857703487,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"69 Ottercreek Dr Otter Creek ME 04660",
+    "addr:housenumber":"69",
+    "addr:postcode":"04660",
+    "addr:street":"Ottercreek Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.206896,44.321052,-68.206896,44.321052",
+    "geom:latitude":44.321052,
+    "geom:longitude":-68.206896,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"69 Ottercreek Dr",
+    "sg:city":"Otter Creek",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 288 9331",
+    "sg:postcode":"04660",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85803817,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jKBscoiRSvSswR1GN5D6d_44.321052_-68.206896@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220886,
+    "wof:geomhash":"65e68555886c514ac479c640158dd53c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85803817,
+            "region_id":85688769,
+            "venue_id":857703487
+        }
+    ],
+    "wof:id":857703487,
+    "wof:lastmodified":1472627207,
+    "wof:name":"Burning Tree Restaurant",
+    "wof:parent_id":85803817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.206896,
+    44.321052,
+    -68.206896,
+    44.321052
+],
+  "geometry": {"coordinates":[-68.206896,44.321052],"type":"Point"}
+}

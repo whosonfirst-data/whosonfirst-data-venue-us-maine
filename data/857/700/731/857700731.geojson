@@ -1,0 +1,75 @@
+{
+  "id": 857700731,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"162 School St Unity ME 04988",
+    "addr:housenumber":"162",
+    "addr:postcode":"04988",
+    "addr:street":"School St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.354619,44.613195,-69.354619,44.613195",
+    "geom:latitude":44.613195,
+    "geom:longitude":-69.354619,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"162 School St",
+    "sg:city":"Unity",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 948 2731",
+    "sg:postcode":"04988",
+    "sg:province":"ME",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85828753,
+        102087445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N75HeOqSl9CA1cUTa3zGy_44.613195_-69.354619@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220830,
+    "wof:geomhash":"54017e59f03d322b08185eb11315cd40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087445,
+            "neighbourhood_id":85828753,
+            "region_id":85688769,
+            "venue_id":857700731
+        }
+    ],
+    "wof:id":857700731,
+    "wof:lastmodified":1472627210,
+    "wof:name":"Mc Cormicks Thriftyway Store",
+    "wof:parent_id":85828753,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -69.354619,
+    44.613195,
+    -69.354619,
+    44.613195
+],
+  "geometry": {"coordinates":[-69.354619,44.613195],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 857688647,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"406 State St Ellsworth ME 04605",
+    "addr:housenumber":"406",
+    "addr:postcode":"04605",
+    "addr:street":"State St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.438509,44.562045,-68.438509,44.562045",
+    "geom:latitude":44.562045,
+    "geom:longitude":-68.438509,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"406 State St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 3286",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "screen"
+    ],
+    "sg:website":"www.woodlandstudios.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dDap93A9YnUXR239cImuW_44.562045_-68.438509@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220592,
+    "wof:geomhash":"b65b851fe2dc91b3d64a59e4dd398f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857688647
+        }
+    ],
+    "wof:id":857688647,
+    "wof:lastmodified":1472627203,
+    "wof:name":"Woodland Studios Inc",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "screen"
+    ]
+},
+  "bbox": [
+    -68.438509,
+    44.562045,
+    -68.438509,
+    44.562045
+],
+  "geometry": {"coordinates":[-68.438509,44.562045],"type":"Point"}
+}

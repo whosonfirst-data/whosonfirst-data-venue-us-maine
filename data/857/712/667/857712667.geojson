@@ -1,0 +1,83 @@
+{
+  "id": 857712667,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"68 Hillside Ave Bangor ME 04401",
+    "addr:housenumber":"68",
+    "addr:postcode":"04401",
+    "addr:street":"Hillside Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.779542,44.826154,-68.779542,44.826154",
+    "geom:latitude":44.826154,
+    "geom:longitude":-68.779542,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"68 Hillside Ave",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 941 2889",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "academic",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85815935,
+        102191575,
+        404474705,
+        85633793,
+        85948899,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06Hdo9ZUneA0AhaHT5rSap_44.826154_-68.779542@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221103,
+    "wof:geomhash":"c012b9ab7b3090b7cec79ee211a0026c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404474705,
+            "locality_id":85948899,
+            "neighbourhood_id":85815935,
+            "region_id":85688769,
+            "venue_id":857712667
+        }
+    ],
+    "wof:id":857712667,
+    "wof:lastmodified":1472627259,
+    "wof:name":"Ralph Leek Elders",
+    "wof:parent_id":85815935,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "special"
+    ]
+},
+  "bbox": [
+    -68.779542,
+    44.826154,
+    -68.779542,
+    44.826154
+],
+  "geometry": {"coordinates":[-68.77954200000001,44.826154],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857691269,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"81 Clark St Portland ME 04102",
+    "addr:housenumber":"81",
+    "addr:postcode":"04102",
+    "addr:street":"Clark St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.264271,43.648219,-70.264271,43.648219",
+    "geom:latitude":43.648219,
+    "geom:longitude":-70.264271,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"81 Clark St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 773 8387",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85855397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Bn08qWX6U2KgO5bw0wLSE_43.648219_-70.264271@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220647,
+    "wof:geomhash":"ddab86da5e277552903a08c1f4032cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85855397,
+            "region_id":85688769,
+            "venue_id":857691269
+        }
+    ],
+    "wof:id":857691269,
+    "wof:lastmodified":1472627193,
+    "wof:name":"Cordell's Hair Design",
+    "wof:parent_id":85855397,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.264271,
+    43.648219,
+    -70.264271,
+    43.648219
+],
+  "geometry": {"coordinates":[-70.26427099999999,43.648219],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857730027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"205 W Commercial St Portland ME 04102",
+    "addr:housenumber":"205",
+    "addr:postcode":"04102",
+    "addr:street":"W Commercial St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.271897,43.643269,-70.271897,43.643269",
+    "geom:latitude":43.643269,
+    "geom:longitude":-70.271897,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"205 W Commercial St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/portland/40208-mims-brasserie/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 347 7478",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "french"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85855397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19zxtGHWXSiaK4T8klbx0q_43.643269_-70.271897@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221439,
+    "wof:geomhash":"676c7e5dd0cb417f2f68c5d828036438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85855397,
+            "region_id":85688769,
+            "venue_id":857730027
+        }
+    ],
+    "wof:id":857730027,
+    "wof:lastmodified":1472627292,
+    "wof:name":"Mims Brasserie",
+    "wof:parent_id":85855397,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "french"
+    ]
+},
+  "bbox": [
+    -70.271897,
+    43.643269,
+    -70.271897,
+    43.643269
+],
+  "geometry": {"coordinates":[-70.271897,43.643269],"type":"Point"}
+}

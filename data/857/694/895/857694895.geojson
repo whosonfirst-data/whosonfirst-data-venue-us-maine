@@ -1,0 +1,81 @@
+{
+  "id": 857694895,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"159 Bridgton Rd Westbrook ME 04092",
+    "addr:housenumber":"",
+    "addr:postcode":"04092",
+    "addr:street":"Bridgton Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.33158,43.71167,-70.33158,43.71167",
+    "geom:latitude":43.71167,
+    "geom:longitude":-70.33158,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"159 Bridgton Rd",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 878 1314",
+    "sg:postcode":"04092",
+    "sg:province":"ME",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843131,
+        102191575,
+        404474917,
+        85633793,
+        85948881,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Npok5pTYSc8Ae5qr1rdDH_43.711670_-70.331580@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220717,
+    "wof:geomhash":"c2e38ff97e0dfc6ea3ed54935aa1e1ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404474917,
+            "locality_id":85948881,
+            "neighbourhood_id":85843131,
+            "region_id":85688769,
+            "venue_id":857694895
+        }
+    ],
+    "wof:id":857694895,
+    "wof:lastmodified":1472627221,
+    "wof:name":"Getty Mart",
+    "wof:parent_id":85843131,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -70.33158,
+    43.71167,
+    -70.33158,
+    43.71167
+],
+  "geometry": {"coordinates":[-70.33158,43.71167],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857701151,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"345 Main St Old Town ME 04468",
+    "addr:housenumber":"345",
+    "addr:postcode":"04468",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.644193,44.927861,-68.644193,44.927861",
+    "geom:latitude":44.927861,
+    "geom:longitude":-68.644193,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"345 Main St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 6151",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bwafZ9hvoUuFGwroVWAxf_44.927861_-68.644193@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220838,
+    "wof:geomhash":"6dfcf250e997b21cf73b46b1a48e5f36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857701151
+        }
+    ],
+    "wof:id":857701151,
+    "wof:lastmodified":1472627201,
+    "wof:name":"Marsh Island Apartments",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -68.644193,
+    44.927861,
+    -68.644193,
+    44.927861
+],
+  "geometry": {"coordinates":[-68.644193,44.927861],"type":"Point"}
+}

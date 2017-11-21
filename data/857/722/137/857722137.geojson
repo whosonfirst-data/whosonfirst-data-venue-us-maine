@@ -1,0 +1,81 @@
+{
+  "id": 857722137,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"925 Sabattus St Lewiston ME 04240",
+    "addr:housenumber":"925",
+    "addr:postcode":"04240",
+    "addr:street":"Sabattus St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.169752,44.102631,-70.169752,44.102631",
+    "geom:latitude":44.102631,
+    "geom:longitude":-70.169752,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"925 Sabattus St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 784 5592",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "beverage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_583ELMM8gUiLZqFa1b27km_44.102631_-70.169752@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221291,
+    "wof:geomhash":"26d7a298088e793d24447014fb509107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857722137
+        }
+    ],
+    "wof:id":857722137,
+    "wof:lastmodified":1472627256,
+    "wof:name":"Val's Root Beer",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage"
+    ]
+},
+  "bbox": [
+    -70.169752,
+    44.102631,
+    -70.169752,
+    44.102631
+],
+  "geometry": {"coordinates":[-70.169752,44.102631],"type":"Point"}
+}

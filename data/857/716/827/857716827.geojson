@@ -1,0 +1,85 @@
+{
+  "id": 857716827,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"114 State St Ellsworth ME 04605",
+    "addr:housenumber":"114",
+    "addr:postcode":"04605",
+    "addr:street":"State St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.425656,44.544999,-68.425656,44.544999",
+    "geom:latitude":44.544999,
+    "geom:longitude":-68.425656,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"114 State St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 4334",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LOoZ8v8dT06nBBplzv83o_44.544999_-68.425656@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221180,
+    "wof:geomhash":"7b3a28841caaca8e13bc58114d89fcb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857716827
+        }
+    ],
+    "wof:id":857716827,
+    "wof:lastmodified":1472627268,
+    "wof:name":"Lucia Young PHD",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -68.425656,
+    44.544999,
+    -68.425656,
+    44.544999
+],
+  "geometry": {"coordinates":[-68.425656,44.544999],"type":"Point"}
+}

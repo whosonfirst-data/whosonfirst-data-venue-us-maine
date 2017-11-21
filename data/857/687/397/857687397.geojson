@@ -1,0 +1,77 @@
+{
+  "id": 857687397,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"111 Ocean St South Portland ME 04106",
+    "addr:housenumber":"111",
+    "addr:postcode":"04106",
+    "addr:street":"Ocean St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.25273,43.636751,-70.25273,43.636751",
+    "geom:latitude":43.636751,
+    "geom:longitude":-70.25273,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"111 Ocean St",
+    "sg:city":"South Portland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 799 5720",
+    "sg:postcode":"04106",
+    "sg:province":"ME",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948879,
+        102087463,
+        85867973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ucJshauKEqnZtEmtxB6fd_43.636751_-70.252730@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220567,
+    "wof:geomhash":"e1d2835ae6a1af8c8a60ed5598360fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948879,
+            "neighbourhood_id":85867973,
+            "region_id":85688769,
+            "venue_id":857687397
+        }
+    ],
+    "wof:id":857687397,
+    "wof:lastmodified":1472627189,
+    "wof:name":"Hiram Lodge 180 F & AM",
+    "wof:parent_id":85867973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -70.25273,
+    43.636751,
+    -70.25273,
+    43.636751
+],
+  "geometry": {"coordinates":[-70.25273,43.636751],"type":"Point"}
+}

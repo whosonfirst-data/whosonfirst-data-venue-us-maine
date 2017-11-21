@@ -1,0 +1,77 @@
+{
+  "id": 857706603,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2317 Broadway Bangor ME 04401",
+    "addr:housenumber":"2317",
+    "addr:postcode":"04401",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.833142,44.862087,-68.833142,44.862087",
+    "geom:latitude":44.862087,
+    "geom:longitude":-68.833142,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2317 Broadway",
+    "sg:city":"Bangor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 990 1428",
+    "sg:postcode":"04401",
+    "sg:province":"ME",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85848853,
+        102080723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tJPjtB8DxaazwFDuT53f5_44.862087_-68.833142@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220942,
+    "wof:geomhash":"f7f51c3c26abdd89cee354d38eac01cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "neighbourhood_id":85848853,
+            "region_id":85688769,
+            "venue_id":857706603
+        }
+    ],
+    "wof:id":857706603,
+    "wof:lastmodified":1472627246,
+    "wof:name":"Birmingham Masonry & Repair",
+    "wof:parent_id":85848853,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -68.833142,
+    44.862087,
+    -68.833142,
+    44.862087
+],
+  "geometry": {"coordinates":[-68.833142,44.862087],"type":"Point"}
+}

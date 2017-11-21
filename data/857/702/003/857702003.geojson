@@ -1,0 +1,77 @@
+{
+  "id": 857702003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"62 Dublin St Machias ME 04654",
+    "addr:housenumber":"62",
+    "addr:postcode":"04654",
+    "addr:street":"Dublin St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.46134,44.706902,-67.46134,44.706902",
+    "geom:latitude":44.706902,
+    "geom:longitude":-67.46134,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"62 Dublin St",
+    "sg:city":"Machias",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 255 3727",
+    "sg:postcode":"04654",
+    "sg:province":"ME",
+    "sg:tags":[
+        "picture",
+        "frame"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85826381,
+        102081143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qdh7sa34Xn4HxA8LvBXjU_44.706902_-67.461340@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220860,
+    "wof:geomhash":"35e0ddffd2e1edcc59e5055402867ccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081143,
+            "neighbourhood_id":85826381,
+            "region_id":85688769,
+            "venue_id":857702003
+        }
+    ],
+    "wof:id":857702003,
+    "wof:lastmodified":1472627196,
+    "wof:name":"Woodwind Custom Framers",
+    "wof:parent_id":85826381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "frame"
+    ]
+},
+  "bbox": [
+    -67.46134,
+    44.706902,
+    -67.46134,
+    44.706902
+],
+  "geometry": {"coordinates":[-67.46134000000001,44.706902],"type":"Point"}
+}

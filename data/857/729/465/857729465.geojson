@@ -1,0 +1,84 @@
+{
+  "id": 857729465,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"520 Main St Saco ME 04072",
+    "addr:housenumber":"520",
+    "addr:postcode":"04072",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.434736,43.509323,-70.434736,43.509323",
+    "geom:latitude":43.509323,
+    "geom:longitude":-70.434736,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"520 Main St",
+    "sg:city":"Saco",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/me/saco/197162-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 282 3718",
+    "sg:postcode":"04072",
+    "sg:province":"ME",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819479,
+        102191575,
+        404475883,
+        85633793,
+        85948887,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U0AhYyExmlBuZlNnKtJfh_43.509323_-70.434736@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464221423,
+    "wof:geomhash":"a2a410e469fe668ef3e4b3cc8f0da78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475883,
+            "locality_id":85948887,
+            "neighbourhood_id":85819479,
+            "region_id":85688769,
+            "venue_id":857729465
+        }
+    ],
+    "wof:id":857729465,
+    "wof:lastmodified":1472627303,
+    "wof:name":"Burger King",
+    "wof:parent_id":85819479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.434736,
+    43.509323,
+    -70.434736,
+    43.509323
+],
+  "geometry": {"coordinates":[-70.434736,43.509323],"type":"Point"}
+}

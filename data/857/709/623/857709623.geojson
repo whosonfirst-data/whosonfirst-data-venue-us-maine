@@ -1,0 +1,81 @@
+{
+  "id": 857709623,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"47 Blackswoods Rd Franklin ME 04634",
+    "addr:housenumber":"47",
+    "addr:postcode":"04634",
+    "addr:street":"Blackswoods Rd;Me",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.221706,44.589929,-68.221706,44.589929",
+    "geom:latitude":44.589929,
+    "geom:longitude":-68.221706,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"47 Blackswoods Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 3505",
+    "sg:postcode":"04634",
+    "sg:province":"ME",
+    "sg:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85820603,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dvF86Fm5Sv9DzghViGw7V_44.589929_-68.221706@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221021,
+    "wof:geomhash":"ee807cd5db0f3c4333ecd7982c949afb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85820603,
+            "region_id":85688769,
+            "venue_id":857709623
+        }
+    ],
+    "wof:id":857709623,
+    "wof:lastmodified":1472627254,
+    "wof:name":"Wood Flooring Specialist",
+    "wof:parent_id":85820603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ]
+},
+  "bbox": [
+    -68.221706,
+    44.589929,
+    -68.221706,
+    44.589929
+],
+  "geometry": {"coordinates":[-68.221706,44.589929],"type":"Point"}
+}

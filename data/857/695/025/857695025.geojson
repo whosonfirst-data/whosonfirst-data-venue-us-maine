@@ -1,0 +1,80 @@
+{
+  "id": 857695025,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"17 Eureka Rd Falmouth ME 04105",
+    "addr:housenumber":"17",
+    "addr:postcode":"04105",
+    "addr:street":"Eureka Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.288636,43.752802,-70.288636,43.752802",
+    "geom:latitude":43.752802,
+    "geom:longitude":-70.288636,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17 Eureka Rd",
+    "sg:city":"Falmouth",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 878 0661",
+    "sg:postcode":"04105",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85855475,
+        102087463,
+        85948877,
+        85837549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hp8cd5UoBCf4vBGe1h4sI_43.752802_-70.288636@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220720,
+    "wof:geomhash":"a2d0229c986e1a8010f9b4f84c805689",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85855475,
+            "region_id":85688769,
+            "venue_id":857695025
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85837549,
+            "region_id":85688769,
+            "venue_id":857695025
+        }
+    ],
+    "wof:id":857695025,
+    "wof:lastmodified":1472627193,
+    "wof:name":"Financial Benefits & Solutions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.288636,
+    43.752802,
+    -70.288636,
+    43.752802
+],
+  "geometry": {"coordinates":[-70.288636,43.752802],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857715239,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14 Chadbourne Rd Lewiston ME 04240",
+    "addr:housenumber":"14",
+    "addr:postcode":"04240",
+    "addr:street":"Chadbourne Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.129084,44.101556,-70.129084,44.101556",
+    "geom:latitude":44.101556,
+    "geom:longitude":-70.129084,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Chadbourne Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 786 0722",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "sanitary",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849833,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DEngmaYDUddozIDDDWlAF_44.101556_-70.129084@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221152,
+    "wof:geomhash":"c50dfa9db90817a95fd3687476b83bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85849833,
+            "region_id":85688769,
+            "venue_id":857715239
+        }
+    ],
+    "wof:id":857715239,
+    "wof:lastmodified":1472627250,
+    "wof:name":"Mid State Concrete Pumping",
+    "wof:parent_id":85849833,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.129084,
+    44.101556,
+    -70.129084,
+    44.101556
+],
+  "geometry": {"coordinates":[-70.12908400000001,44.101556],"type":"Point"}
+}

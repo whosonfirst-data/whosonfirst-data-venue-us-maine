@@ -1,0 +1,70 @@
+{
+  "id": 857734217,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1 Portland Rd Gray ME 04039",
+    "addr:housenumber":"1",
+    "addr:postcode":"04039",
+    "addr:street":"Portland Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.217166,43.626696,-70.217166,43.626696",
+    "geom:latitude":43.626696,
+    "geom:longitude":-70.217166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Portland Rd",
+    "sg:city":"Gray",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 657 5090",
+    "sg:postcode":"04039",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85867971,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lr1utZ27u1UZuvj1UBBfA_43.626696_-70.217166@1303262242"
+    },
+    "wof:country":"US",
+    "wof:created":1464221524,
+    "wof:geomhash":"420cc694c48a51bced5216d1688aa3f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85867971,
+            "region_id":85688769,
+            "venue_id":857734217
+        }
+    ],
+    "wof:id":857734217,
+    "wof:lastmodified":1472627300,
+    "wof:name":"Puffin Stop",
+    "wof:parent_id":85867971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.217166,
+    43.626696,
+    -70.217166,
+    43.626696
+],
+  "geometry": {"coordinates":[-70.21716600000001,43.626696],"type":"Point"}
+}

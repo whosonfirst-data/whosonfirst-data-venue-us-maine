@@ -1,0 +1,79 @@
+{
+  "id": 857685073,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"171 Walton St Portland ME 04103",
+    "addr:housenumber":"171",
+    "addr:postcode":"04103",
+    "addr:street":"Walton St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.287317,43.679452,-70.287317,43.679452",
+    "geom:latitude":43.679452,
+    "geom:longitude":-70.287317,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"171 Walton St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 878 2116",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85814011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1INAQzRV9GfTMX9aWtkbEv_43.679452_-70.287317@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220523,
+    "wof:geomhash":"6fd9347888e0a92ce6bff9beb9656c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85814011,
+            "region_id":85688769,
+            "venue_id":857685073
+        }
+    ],
+    "wof:id":857685073,
+    "wof:lastmodified":1472627184,
+    "wof:name":"Handmade Desserts",
+    "wof:parent_id":85814011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -70.287317,
+    43.679452,
+    -70.287317,
+    43.679452
+],
+  "geometry": {"coordinates":[-70.287317,43.679452],"type":"Point"}
+}

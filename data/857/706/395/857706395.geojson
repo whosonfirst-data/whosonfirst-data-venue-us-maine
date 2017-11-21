@@ -1,0 +1,83 @@
+{
+  "id": 857706395,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1525 Minot Ave Auburn ME 04210",
+    "addr:housenumber":"1525",
+    "addr:postcode":"04210",
+    "addr:street":"Minot Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.303694,44.079892,-70.303694,44.079892",
+    "geom:latitude":44.079892,
+    "geom:longitude":-70.303694,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1525 Minot Ave",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 782 5125",
+    "sg:postcode":"04210",
+    "sg:province":"ME",
+    "sg:tags":[
+        "farm",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831033,
+        102191575,
+        404474837,
+        85633793,
+        85948883,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dUSRShqZ8aAXEnvgAnzBh_44.079892_-70.303694@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220939,
+    "wof:geomhash":"bddfc209f2794ff9c44013bc7b602061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404474837,
+            "locality_id":85948883,
+            "neighbourhood_id":85831033,
+            "region_id":85688769,
+            "venue_id":857706395
+        }
+    ],
+    "wof:id":857706395,
+    "wof:lastmodified":1472627235,
+    "wof:name":"Hammond Equipment Co",
+    "wof:parent_id":85831033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -70.303694,
+    44.079892,
+    -70.303694,
+    44.079892
+],
+  "geometry": {"coordinates":[-70.30369399999999,44.079892],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857689673,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22 Bramhall St Portland ME 04102",
+    "addr:housenumber":"22",
+    "addr:postcode":"04102",
+    "addr:street":"Bramhall St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.275928,43.65167,-70.275928,43.65167",
+    "geom:latitude":43.65167,
+    "geom:longitude":-70.275928,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Bramhall St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 871 2155",
+    "sg:postcode":"04102",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85855397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VvkgM8Nv5rr5gASwZdZMO_43.651670_-70.275928@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220611,
+    "wof:geomhash":"9668f3f37be9ccc8eda2799d299e7e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85855397,
+            "region_id":85688769,
+            "venue_id":857689673
+        }
+    ],
+    "wof:id":857689673,
+    "wof:lastmodified":1472627210,
+    "wof:name":"International Clinic",
+    "wof:parent_id":85855397,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -70.275928,
+    43.65167,
+    -70.275928,
+    43.65167
+],
+  "geometry": {"coordinates":[-70.27592799999999,43.65167],"type":"Point"}
+}

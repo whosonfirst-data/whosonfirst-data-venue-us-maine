@@ -1,0 +1,76 @@
+{
+  "id": 857715315,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1033 Main St Old Town ME 04468",
+    "addr:housenumber":"1033",
+    "addr:postcode":"04468",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.64356,44.906694,-68.64356,44.906694",
+    "geom:latitude":44.906694,
+    "geom:longitude":-68.64356,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1033 Main St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 6138",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854941,
+        102191575,
+        404475049,
+        85633793,
+        85948895,
+        102080723,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pASr0vrt8WK3SY7ZW9WP8_44.906694_-68.643560@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221154,
+    "wof:geomhash":"e0aabd01fc8a70ed40717a845ff4e08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080723,
+            "localadmin_id":404475049,
+            "locality_id":85948895,
+            "neighbourhood_id":85854941,
+            "region_id":85688769,
+            "venue_id":857715315
+        }
+    ],
+    "wof:id":857715315,
+    "wof:lastmodified":1472627253,
+    "wof:name":"Sunkhaze Meadows",
+    "wof:parent_id":85854941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.64356,
+    44.906694,
+    -68.64356,
+    44.906694
+],
+  "geometry": {"coordinates":[-68.64355999999999,44.906694],"type":"Point"}
+}

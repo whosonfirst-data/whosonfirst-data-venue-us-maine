@@ -1,0 +1,83 @@
+{
+  "id": 857708175,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"26 North St Presque Isle ME 04769",
+    "addr:housenumber":"26",
+    "addr:postcode":"04769",
+    "addr:street":"North St;Isle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.005675,46.688234,-68.005675,46.688234",
+    "geom:latitude":46.688234,
+    "geom:longitude":-68.005675,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26 North St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 764 3625",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "party",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aSBBn8jkHFFXKcpIRQuua_46.688234_-68.005675@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220978,
+    "wof:geomhash":"2d18e27034657e946e80fc171cf3ba41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857708175
+        }
+    ],
+    "wof:id":857708175,
+    "wof:lastmodified":1472627230,
+    "wof:name":"D & D Decorating",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "supply"
+    ]
+},
+  "bbox": [
+    -68.005675,
+    46.688234,
+    -68.005675,
+    46.688234
+],
+  "geometry": {"coordinates":[-68.005675,46.688234],"type":"Point"}
+}

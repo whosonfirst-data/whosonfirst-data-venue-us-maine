@@ -1,0 +1,72 @@
+{
+  "id": 857711885,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5 Down St Indian Island ME 04468",
+    "addr:housenumber":"5",
+    "addr:postcode":"04468",
+    "addr:street":"Down St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.652085,44.942018,-68.652085,44.942018",
+    "geom:latitude":44.942018,
+    "geom:longitude":-68.652085,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Down St",
+    "sg:city":"Indian Island",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 4153",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kLolVUjAJPvwZScThS2rE_44.942018_-68.652085@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221076,
+    "wof:geomhash":"de28cf109b435564d30342394e3c267e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857711885
+        }
+    ],
+    "wof:id":857711885,
+    "wof:lastmodified":1472627269,
+    "wof:name":"Penobscot Indian Reservation",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.652085,
+    44.942018,
+    -68.652085,
+    44.942018
+],
+  "geometry": {"coordinates":[-68.652085,44.942018],"type":"Point"}
+}

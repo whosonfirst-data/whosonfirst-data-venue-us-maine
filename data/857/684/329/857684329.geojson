@@ -1,0 +1,76 @@
+{
+  "id": 857684329,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"79 Main St Calais ME 04619",
+    "addr:housenumber":"79",
+    "addr:postcode":"04619",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.281702,45.188806,-67.281702,45.188806",
+    "geom:latitude":45.188806,
+    "geom:longitude":-67.281702,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"79 Main St",
+    "sg:city":"Calais",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 454 8830",
+    "sg:postcode":"04619",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857599,
+        102191575,
+        404475311,
+        85633793,
+        85948871,
+        102081143,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MY2ESycYIOhmIYRvH3sto_45.188806_-67.281702@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220509,
+    "wof:geomhash":"e8b93ee4642b5f078ef49e4c68fff0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081143,
+            "localadmin_id":404475311,
+            "locality_id":85948871,
+            "neighbourhood_id":85857599,
+            "region_id":85688769,
+            "venue_id":857684329
+        }
+    ],
+    "wof:id":857684329,
+    "wof:lastmodified":1472627196,
+    "wof:name":"State Cinemas",
+    "wof:parent_id":85857599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.281702,
+    45.188806,
+    -67.281702,
+    45.188806
+],
+  "geometry": {"coordinates":[-67.281702,45.188806],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857726809,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"355 Main St Old Town ME 04468",
+    "addr:housenumber":"355",
+    "addr:postcode":"04468",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.644192,44.9282,-68.644192,44.9282",
+    "geom:latitude":44.9282,
+    "geom:longitude":-68.644192,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"355 Main St",
+    "sg:city":"Old Town",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 827 5800",
+    "sg:postcode":"04468",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948895,
+        102080723,
+        85822719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nQVmY8SZbOpPL5rIbWNPS_44.928200_-68.644192@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221375,
+    "wof:geomhash":"3b247a97281173c574c2861aa3948f8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080723,
+            "locality_id":85948895,
+            "neighbourhood_id":85822719,
+            "region_id":85688769,
+            "venue_id":857726809
+        }
+    ],
+    "wof:id":857726809,
+    "wof:lastmodified":1472627275,
+    "wof:name":"Happy Place Child Care Ctr",
+    "wof:parent_id":85822719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.644192,
+    44.9282,
+    -68.644192,
+    44.9282
+],
+  "geometry": {"coordinates":[-68.644192,44.9282],"type":"Point"}
+}

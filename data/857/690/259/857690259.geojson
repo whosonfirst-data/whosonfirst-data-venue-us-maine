@@ -1,0 +1,81 @@
+{
+  "id": 857690259,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11 Pine St Lewiston ME 04240",
+    "addr:housenumber":"11",
+    "addr:postcode":"04240",
+    "addr:street":"Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.216477,44.095107,-70.216477,44.095107",
+    "geom:latitude":44.095107,
+    "geom:longitude":-70.216477,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Pine St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 777 3130",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jOdnCH0D9QmSDqHpNt8eR_44.095107_-70.216477@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220623,
+    "wof:geomhash":"b4a31c23c28595b36153442d1ddd4a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857690259
+        }
+    ],
+    "wof:id":857690259,
+    "wof:lastmodified":1472627194,
+    "wof:name":"Maine Home Mortgage Corp",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -70.216477,
+    44.095107,
+    -70.216477,
+    44.095107
+],
+  "geometry": {"coordinates":[-70.216477,44.095107],"type":"Point"}
+}

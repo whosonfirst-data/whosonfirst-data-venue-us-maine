@@ -1,0 +1,77 @@
+{
+  "id": 857703545,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"363 Main St Grand Isle ME 04746",
+    "addr:housenumber":"363",
+    "addr:postcode":"04746",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.154452,47.307501,-68.154452,47.307501",
+    "geom:latitude":47.307501,
+    "geom:longitude":-68.154452,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"363 Main St",
+    "sg:city":"Grand Isle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 895 3436",
+    "sg:postcode":"04746",
+    "sg:province":"ME",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QQLEmdnbQhM96LlxAG1fr_47.307501_-68.154452@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220887,
+    "wof:geomhash":"60426ed9c97a2583bb20ba8acdbcf3fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857703545
+        }
+    ],
+    "wof:id":857703545,
+    "wof:lastmodified":1472627208,
+    "wof:name":"St Gerard's Catholic Church",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -68.154452,
+    47.307501,
+    -68.154452,
+    47.307501
+],
+  "geometry": {"coordinates":[-68.15445200000001,47.307501],"type":"Point"}
+}

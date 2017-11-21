@@ -1,0 +1,76 @@
+{
+  "id": 857700861,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14 Milton Rd Rochester ME 03868",
+    "addr:housenumber":"14",
+    "addr:postcode":"03868",
+    "addr:street":"Milton Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.97573,43.32003,-70.97573,43.32003",
+    "geom:latitude":43.32003,
+    "geom:longitude":-70.97573,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Milton Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 330 0034",
+    "sg:postcode":"03868",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N3RBXGFVcZJVhktuNO0PY_43.320030_-70.975730@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220832,
+    "wof:geomhash":"d212de0c6dc26d22d0000500169f9b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":857700861
+        }
+    ],
+    "wof:id":857700861,
+    "wof:lastmodified":1472627215,
+    "wof:name":"Rochester Irving",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.97573,
+    43.32003,
+    -70.97573,
+    43.32003
+],
+  "geometry": {"coordinates":[-70.97573,43.32003],"type":"Point"}
+}

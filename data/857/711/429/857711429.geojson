@@ -1,0 +1,81 @@
+{
+  "id": 857711429,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"34 Atlantic Ave Boothbay Harbor ME 04538",
+    "addr:housenumber":"34",
+    "addr:postcode":"04538",
+    "addr:street":"Atlantic Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.623479,43.850193,-69.623479,43.850193",
+    "geom:latitude":43.850193,
+    "geom:longitude":-69.623479,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"34 Atlantic Ave",
+    "sg:city":"Boothbay Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 633 7025",
+    "sg:postcode":"04538",
+    "sg:province":"ME",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948955,
+        102087447,
+        85835605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hQNmhaCFIteKkDh8z6rC3_43.850193_-69.623479@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221059,
+    "wof:geomhash":"ea3288628076ff26d15daedf7c7989d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087447,
+            "locality_id":85948955,
+            "neighbourhood_id":85835605,
+            "region_id":85688769,
+            "venue_id":857711429
+        }
+    ],
+    "wof:id":857711429,
+    "wof:lastmodified":1472627241,
+    "wof:name":"Joy To The Wind Gallery",
+    "wof:parent_id":85835605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -69.623479,
+    43.850193,
+    -69.623479,
+    43.850193
+],
+  "geometry": {"coordinates":[-69.623479,43.850193],"type":"Point"}
+}

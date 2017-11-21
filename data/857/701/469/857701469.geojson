@@ -1,0 +1,83 @@
+{
+  "id": 857701469,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"21 Water St Ellsworth ME 04605",
+    "addr:housenumber":"21",
+    "addr:postcode":"04605",
+    "addr:street":"Water St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.424894,44.541046,-68.424894,44.541046",
+    "geom:latitude":44.541046,
+    "geom:longitude":-68.424894,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Water St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 7166",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EcfWSeElFvQyAPMdOKIQo_44.541046_-68.424894@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220849,
+    "wof:geomhash":"bce7851531fbe1f36cb3b3dc60b146d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857701469
+        }
+    ],
+    "wof:id":857701469,
+    "wof:lastmodified":1472627209,
+    "wof:name":"Coastal Carpet & Interiors",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -68.424894,
+    44.541046,
+    -68.424894,
+    44.541046
+],
+  "geometry": {"coordinates":[-68.42489399999999,44.541046],"type":"Point"}
+}

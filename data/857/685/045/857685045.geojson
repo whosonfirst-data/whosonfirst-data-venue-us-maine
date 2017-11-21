@@ -1,0 +1,78 @@
+{
+  "id": 857685045,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"639 Roosevelt Trl Windham ME 04062",
+    "addr:housenumber":"639",
+    "addr:postcode":"04062",
+    "addr:street":"Roosevelt Trl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.441999,43.838418,-70.441999,43.838418",
+    "geom:latitude":43.838418,
+    "geom:longitude":-70.441999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"639 Roosevelt Trl",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 892 1522",
+    "sg:postcode":"04062",
+    "sg:province":"ME",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.mainesrealestateconnection.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948999,
+        102087463,
+        85838179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NY7eVjiOgOBfjUEp9ZE2A_43.838418_-70.441999@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220523,
+    "wof:geomhash":"0326de7332065a0465661ce5c56fb71e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948999,
+            "neighbourhood_id":85838179,
+            "region_id":85688769,
+            "venue_id":857685045
+        }
+    ],
+    "wof:id":857685045,
+    "wof:lastmodified":1472627184,
+    "wof:name":"Lake Region Home & Building",
+    "wof:parent_id":85838179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.441999,
+    43.838418,
+    -70.441999,
+    43.838418
+],
+  "geometry": {"coordinates":[-70.441999,43.838418],"type":"Point"}
+}

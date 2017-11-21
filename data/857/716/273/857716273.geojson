@@ -1,0 +1,85 @@
+{
+  "id": 857716273,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"966 Bay St Springfield ME 01109",
+    "addr:housenumber":"966",
+    "addr:postcode":"01109",
+    "addr:street":"Bay St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.55765,42.128229,-72.55765,42.128229",
+    "geom:latitude":42.128229,
+    "geom:longitude":-72.55765,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"966 Bay St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"01109",
+    "sg:province":"ME",
+    "sg:tags":[
+        "concrete",
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803841,
+        102191575,
+        404476369,
+        85633793,
+        85950393,
+        102084627,
+        85688645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55bL7Gg8f1hHig04xVEw7N_42.128229_-72.557650@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221170,
+    "wof:geomhash":"08391fc9596bb7c282eeb067462ef570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084627,
+            "localadmin_id":404476369,
+            "locality_id":85950393,
+            "neighbourhood_id":85803841,
+            "region_id":85688645,
+            "venue_id":857716273
+        }
+    ],
+    "wof:id":857716273,
+    "wof:lastmodified":1472627252,
+    "wof:name":"Milne Geo & Son",
+    "wof:parent_id":85803841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.55765,
+    42.128229,
+    -72.55765,
+    42.128229
+],
+  "geometry": {"coordinates":[-72.55765,42.128229],"type":"Point"}
+}

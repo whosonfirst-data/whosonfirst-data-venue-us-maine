@@ -1,0 +1,77 @@
+{
+  "id": 857690969,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"27 Bass Harbor Rd Southwest Harbor ME 04679",
+    "addr:housenumber":"27",
+    "addr:postcode":"04679",
+    "addr:street":"Bass Harbor Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.338076,44.256693,-68.338076,44.256693",
+    "geom:latitude":44.256693,
+    "geom:longitude":-68.338076,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Bass Harbor Rd",
+    "sg:city":"Southwest Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 244 0511",
+    "sg:postcode":"04679",
+    "sg:province":"ME",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85832161,
+        102081201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OMwxxs7vr4HozNsglGDkM_44.256693_-68.338076@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220639,
+    "wof:geomhash":"0a6914f9893148012341d0b4a2300601",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081201,
+            "neighbourhood_id":85832161,
+            "region_id":85688769,
+            "venue_id":857690969
+        }
+    ],
+    "wof:id":857690969,
+    "wof:lastmodified":1472627211,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85832161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -68.338076,
+    44.256693,
+    -68.338076,
+    44.256693
+],
+  "geometry": {"coordinates":[-68.338076,44.256693],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857707021,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"93 Pine St Presque Isle ME 04769",
+    "addr:housenumber":"93",
+    "addr:postcode":"04769",
+    "addr:street":"Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.004655,46.673016,-68.004655,46.673016",
+    "geom:latitude":46.673016,
+    "geom:longitude":-68.004655,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"93 Pine St",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 768 8131",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_728YqqTMzsgtFbOBpWhiqh_46.673016_-68.004655@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220950,
+    "wof:geomhash":"1ff7634d102beacd163f4202bf8ce025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857707021
+        }
+    ],
+    "wof:id":857707021,
+    "wof:lastmodified":1472627227,
+    "wof:name":"Greens Lawn Service",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.004655,
+    46.673016,
+    -68.004655,
+    46.673016
+],
+  "geometry": {"coordinates":[-68.004655,46.673016],"type":"Point"}
+}

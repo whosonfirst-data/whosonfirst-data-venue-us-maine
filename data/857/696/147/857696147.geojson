@@ -1,0 +1,85 @@
+{
+  "id": 857696147,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"27 Gorham Rd Scarborough ME 04074",
+    "addr:housenumber":"27",
+    "addr:postcode":"04074",
+    "addr:street":"Gorham Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.334455,43.590233,-70.334455,43.590233",
+    "geom:latitude":43.590233,
+    "geom:longitude":-70.334455,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Gorham Rd",
+    "sg:city":"Scarborough",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 885 0077",
+    "sg:postcode":"04074",
+    "sg:province":"ME",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838735,
+        102191575,
+        404475433,
+        85633793,
+        85949003,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WAACVqC9OgDCGNP800D52_43.590233_-70.334455@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220739,
+    "wof:geomhash":"7511918427a35a4db64315202a2b7dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475433,
+            "locality_id":85949003,
+            "neighbourhood_id":85838735,
+            "region_id":85688769,
+            "venue_id":857696147
+        }
+    ],
+    "wof:id":857696147,
+    "wof:lastmodified":1472627195,
+    "wof:name":"Paws Applause",
+    "wof:parent_id":85838735,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -70.334455,
+    43.590233,
+    -70.334455,
+    43.590233
+],
+  "geometry": {"coordinates":[-70.33445500000001,43.590233],"type":"Point"}
+}

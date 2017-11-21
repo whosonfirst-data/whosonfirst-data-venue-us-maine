@@ -1,0 +1,85 @@
+{
+  "id": 857686325,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"307 High St Ellsworth ME 04605",
+    "addr:housenumber":"307",
+    "addr:postcode":"04605",
+    "addr:street":"High St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.409025,44.533445,-68.409025,44.533445",
+    "geom:latitude":44.533445,
+    "geom:longitude":-68.409025,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"307 High St",
+    "sg:city":"Ellsworth",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 667 9883",
+    "sg:postcode":"04605",
+    "sg:province":"ME",
+    "sg:tags":[
+        "equipment",
+        "kitchen",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817861,
+        102191575,
+        404475607,
+        85633793,
+        85948891,
+        102081201,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WjXUI4qOezkg4Ax061D7Y_44.533445_-68.409025@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220545,
+    "wof:geomhash":"16c0420730e40f01646d44928a838ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081201,
+            "localadmin_id":404475607,
+            "locality_id":85948891,
+            "neighbourhood_id":85817861,
+            "region_id":85688769,
+            "venue_id":857686325
+        }
+    ],
+    "wof:id":857686325,
+    "wof:lastmodified":1472627196,
+    "wof:name":"Acadia Kitchen Bath & Flooring",
+    "wof:parent_id":85817861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "kitchen",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -68.409025,
+    44.533445,
+    -68.409025,
+    44.533445
+],
+  "geometry": {"coordinates":[-68.409025,44.533445],"type":"Point"}
+}

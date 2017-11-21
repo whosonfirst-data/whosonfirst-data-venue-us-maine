@@ -1,0 +1,83 @@
+{
+  "id": 857705303,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11 Yarmouth Crossing Dr Yarmouth ME 04096",
+    "addr:housenumber":"11",
+    "addr:postcode":"04096",
+    "addr:street":"Yarmouth Crossing Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.189739,43.803201,-70.189739,43.803201",
+    "geom:latitude":43.803201,
+    "geom:longitude":-70.189739,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Yarmouth Crossing Dr",
+    "sg:city":"Yarmouth",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 846 9925",
+    "sg:postcode":"04096",
+    "sg:province":"ME",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859327,
+        102191575,
+        404475445,
+        85633793,
+        85949005,
+        102087463,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nyO7FtnilegjMpwKYkfx7_43.803201_-70.189739@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220920,
+    "wof:geomhash":"b451d7e88b570536c3e2a3876aed9f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "localadmin_id":404475445,
+            "locality_id":85949005,
+            "neighbourhood_id":85859327,
+            "region_id":85688769,
+            "venue_id":857705303
+        }
+    ],
+    "wof:id":857705303,
+    "wof:lastmodified":1472627232,
+    "wof:name":"House Of Oriental Rugs Inc",
+    "wof:parent_id":85859327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -70.189739,
+    43.803201,
+    -70.189739,
+    43.803201
+],
+  "geometry": {"coordinates":[-70.189739,43.803201],"type":"Point"}
+}

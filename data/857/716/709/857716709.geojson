@@ -1,0 +1,79 @@
+{
+  "id": 857716709,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"42 Hartley St Portland ME 04103",
+    "addr:housenumber":"42",
+    "addr:postcode":"04103",
+    "addr:street":"Hartley St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.287198,43.675018,-70.287198,43.675018",
+    "geom:latitude":43.675018,
+    "geom:longitude":-70.287198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42 Hartley St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 838 2157",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "midwife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85858625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NohZZGonzFKA5tHlY73pr_43.675018_-70.287198@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221177,
+    "wof:geomhash":"ddfff425680bff717935001a72a10e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85858625,
+            "region_id":85688769,
+            "venue_id":857716709
+        }
+    ],
+    "wof:id":857716709,
+    "wof:lastmodified":1472627269,
+    "wof:name":"Open Circle Midwifery Svc",
+    "wof:parent_id":85858625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "midwife"
+    ]
+},
+  "bbox": [
+    -70.287198,
+    43.675018,
+    -70.287198,
+    43.675018
+],
+  "geometry": {"coordinates":[-70.287198,43.675018],"type":"Point"}
+}

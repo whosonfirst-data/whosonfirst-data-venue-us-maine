@@ -1,0 +1,81 @@
+{
+  "id": 857733041,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9 Ocean Ave York ME 03909",
+    "addr:housenumber":"9",
+    "addr:postcode":"03909",
+    "addr:street":"Ocean Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.610095,43.174901,-70.610095,43.174901",
+    "geom:latitude":43.174901,
+    "geom:longitude":-70.610095,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Ocean Ave",
+    "sg:city":"York",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 200 736 3880",
+    "sg:postcode":"03909",
+    "sg:province":"ME",
+    "sg:tags":[
+        "japanese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831291,
+        102191575,
+        404475823,
+        85633793,
+        85949035,
+        102087449,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lYsJyzlc11zOdtKysaV4J_43.174901_-70.610095@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464221502,
+    "wof:geomhash":"284973ee21d484fb2dd78ca3a952a23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087449,
+            "localadmin_id":404475823,
+            "locality_id":85949035,
+            "neighbourhood_id":85831291,
+            "region_id":85688769,
+            "venue_id":857733041
+        }
+    ],
+    "wof:id":857733041,
+    "wof:lastmodified":1472627293,
+    "wof:name":"Panda Sakura",
+    "wof:parent_id":85831291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "japanese"
+    ]
+},
+  "bbox": [
+    -70.610095,
+    43.174901,
+    -70.610095,
+    43.174901
+],
+  "geometry": {"coordinates":[-70.610095,43.174901],"type":"Point"}
+}

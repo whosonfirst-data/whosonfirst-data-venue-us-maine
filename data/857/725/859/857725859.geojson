@@ -1,0 +1,86 @@
+{
+  "id": 857725859,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"30 Mitchell St Lewiston ME 04240",
+    "addr:housenumber":"30",
+    "addr:postcode":"04240",
+    "addr:street":"Mitchell St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.178936,44.082132,-70.178936,44.082132",
+    "geom:latitude":44.082132,
+    "geom:longitude":-70.178936,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Mitchell St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 784 8227",
+    "sg:postcode":"04240",
+    "sg:province":"ME",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836549,
+        102191575,
+        404475337,
+        85633793,
+        85948885,
+        102087457,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I2K97BekKOOHXr28AkVpX_44.082132_-70.178936@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221359,
+    "wof:geomhash":"ce8ce8878a02c4bcfd3be76007c4ad07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087457,
+            "localadmin_id":404475337,
+            "locality_id":85948885,
+            "neighbourhood_id":85836549,
+            "region_id":85688769,
+            "venue_id":857725859
+        }
+    ],
+    "wof:id":857725859,
+    "wof:lastmodified":1472627275,
+    "wof:name":"Hometeam Inspection Service",
+    "wof:parent_id":85836549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -70.178936,
+    44.082132,
+    -70.178936,
+    44.082132
+],
+  "geometry": {"coordinates":[-70.17893599999999,44.082132],"type":"Point"}
+}

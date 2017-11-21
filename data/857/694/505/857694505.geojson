@@ -1,0 +1,72 @@
+{
+  "id": 857694505,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"69 Main St Topsham ME 04086",
+    "addr:housenumber":"69",
+    "addr:postcode":"04086",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.964171,43.929423,-69.964171,43.929423",
+    "geom:latitude":43.929423,
+    "geom:longitude":-69.964171,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"69 Main St",
+    "sg:city":"Topsham",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 729 7721",
+    "sg:postcode":"04086",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948915,
+        102087455,
+        85809811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sumFSoFNmjzurTjG9WCgJ_43.929423_-69.964171@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220707,
+    "wof:geomhash":"1aa97f627f5ecaadf09ff4de58ce719d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087455,
+            "locality_id":85948915,
+            "neighbourhood_id":85809811,
+            "region_id":85688769,
+            "venue_id":857694505
+        }
+    ],
+    "wof:id":857694505,
+    "wof:lastmodified":1472627205,
+    "wof:name":"Allstate Insurance",
+    "wof:parent_id":85809811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.964171,
+    43.929423,
+    -69.964171,
+    43.929423
+],
+  "geometry": {"coordinates":[-69.96417099999999,43.929423],"type":"Point"}
+}

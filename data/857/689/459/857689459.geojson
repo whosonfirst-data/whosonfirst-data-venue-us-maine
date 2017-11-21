@@ -1,0 +1,79 @@
+{
+  "id": 857689459,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"187 11th Ave Madawaska ME 04756",
+    "addr:housenumber":"187",
+    "addr:postcode":"04756",
+    "addr:street":"11Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.332612,47.348789,-68.332612,47.348789",
+    "geom:latitude":47.348789,
+    "geom:longitude":-68.332612,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"187 11th Ave",
+    "sg:city":"Madawaska",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 728 4410",
+    "sg:postcode":"04756",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PBvSETTnBfp6snsMkqIiH_47.348789_-68.332612@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220607,
+    "wof:geomhash":"5aa0c6862787eab09749befe4f4281df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857689459
+        }
+    ],
+    "wof:id":857689459,
+    "wof:lastmodified":1472627205,
+    "wof:name":"Galen's General Repair",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -68.332612,
+    47.348789,
+    -68.332612,
+    47.348789
+],
+  "geometry": {"coordinates":[-68.332612,47.348789],"type":"Point"}
+}

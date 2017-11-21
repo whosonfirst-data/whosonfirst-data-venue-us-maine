@@ -1,0 +1,74 @@
+{
+  "id": 857697863,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"158 Pleasant Ave Portland ME 04103",
+    "addr:housenumber":"158",
+    "addr:postcode":"04103",
+    "addr:street":"Pleasant Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.293095,43.673829,-70.293095,43.673829",
+    "geom:latitude":43.673829,
+    "geom:longitude":-70.293095,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"158 Pleasant Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 879 0708",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85880021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B3cIsvsKv4TkhYkti9mkM_43.673829_-70.293095@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220771,
+    "wof:geomhash":"7cb0900837ad0a2a61686645e6776e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880021,
+            "region_id":85688769,
+            "venue_id":857697863
+        }
+    ],
+    "wof:id":857697863,
+    "wof:lastmodified":1472627216,
+    "wof:name":"David Crocker",
+    "wof:parent_id":85880021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.293095,
+    43.673829,
+    -70.293095,
+    43.673829
+],
+  "geometry": {"coordinates":[-70.29309499999999,43.673829],"type":"Point"}
+}

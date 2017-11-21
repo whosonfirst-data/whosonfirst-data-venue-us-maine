@@ -1,0 +1,74 @@
+{
+  "id": 857697245,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1 Portland St Portland ME 04101",
+    "addr:housenumber":"1",
+    "addr:postcode":"04101",
+    "addr:street":"Portland St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.262734,43.658366,-70.262734,43.658366",
+    "geom:latitude":43.658366,
+    "geom:longitude":-70.262734,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Portland St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 871 7100",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85880031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uozeEksxpxP1pjKBUXHjf_43.658366_-70.262734@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220760,
+    "wof:geomhash":"4f233546208386ae720f0df3b13fd47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880031,
+            "region_id":85688769,
+            "venue_id":857697245
+        }
+    ],
+    "wof:id":857697245,
+    "wof:lastmodified":1472627201,
+    "wof:name":"North Atlantic",
+    "wof:parent_id":85880031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.262734,
+    43.658366,
+    -70.262734,
+    43.658366
+],
+  "geometry": {"coordinates":[-70.26273399999999,43.658366],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857687253,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"119 Parsons Rd Presque Isle ME 04769",
+    "addr:housenumber":"119",
+    "addr:postcode":"04769",
+    "addr:street":"Parsons Rd;Isle",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.01978,46.69282,-68.01978,46.69282",
+    "geom:latitude":46.69282,
+    "geom:longitude":-68.01978,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"119 Parsons Rd",
+    "sg:city":"Presque Isle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 768 5200",
+    "sg:postcode":"04769",
+    "sg:province":"ME",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854605,
+        102191575,
+        404475483,
+        85633793,
+        85948901,
+        102081161,
+        85688769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_192jnCvhkEfJmoxlwKuAET_46.692820_-68.019780@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220564,
+    "wof:geomhash":"a77045ad717a4c705b213d9f9b3422cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081161,
+            "localadmin_id":404475483,
+            "locality_id":85948901,
+            "neighbourhood_id":85854605,
+            "region_id":85688769,
+            "venue_id":857687253
+        }
+    ],
+    "wof:id":857687253,
+    "wof:lastmodified":1472627186,
+    "wof:name":"Plummer's Redemption Ctr",
+    "wof:parent_id":85854605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -68.01978,
+    46.69282,
+    -68.01978,
+    46.69282
+],
+  "geometry": {"coordinates":[-68.01978,46.69282],"type":"Point"}
+}

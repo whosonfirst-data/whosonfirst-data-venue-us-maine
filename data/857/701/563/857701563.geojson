@@ -1,0 +1,79 @@
+{
+  "id": 857701563,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"43 S Freeport Rd Freeport ME 04032",
+    "addr:housenumber":"43",
+    "addr:postcode":"04032",
+    "addr:street":"S Freeport Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.103788,43.831742,-70.103788,43.831742",
+    "geom:latitude":43.831742,
+    "geom:longitude":-70.103788,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"43 S Freeport Rd",
+    "sg:city":"Freeport",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 865 3540",
+    "sg:postcode":"04032",
+    "sg:province":"ME",
+    "sg:tags":[
+        "water",
+        "treatment",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85813291,
+        102087463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ulb19N7Qa1orjwqigOod9_43.831742_-70.103788@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220851,
+    "wof:geomhash":"b42f94aafe7ccc92f35dd71a7a2715e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087463,
+            "neighbourhood_id":85813291,
+            "region_id":85688769,
+            "venue_id":857701563
+        }
+    ],
+    "wof:id":857701563,
+    "wof:lastmodified":1472627210,
+    "wof:name":"Freeport Sewer District",
+    "wof:parent_id":85813291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "treatment",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -70.103788,
+    43.831742,
+    -70.103788,
+    43.831742
+],
+  "geometry": {"coordinates":[-70.10378799999999,43.831742],"type":"Point"}
+}

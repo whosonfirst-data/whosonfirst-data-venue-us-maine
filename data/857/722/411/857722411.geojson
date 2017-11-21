@@ -1,0 +1,72 @@
+{
+  "id": 857722411,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"384 Main St St Agatha ME 04772",
+    "addr:housenumber":"384",
+    "addr:postcode":"04772",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-68.317177,47.243238,-68.317177,47.243238",
+    "geom:latitude":47.243238,
+    "geom:longitude":-68.317177,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"384 Main St",
+    "sg:city":"St Agatha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 543 7567",
+    "sg:postcode":"04772",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85949121,
+        102081161,
+        85806971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69wlXjp6IpkBav61jdKie4_47.243238_-68.317177@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221296,
+    "wof:geomhash":"7ceeb5e7576e82b2ff2775ad77aa759f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081161,
+            "locality_id":85949121,
+            "neighbourhood_id":85806971,
+            "region_id":85688769,
+            "venue_id":857722411
+        }
+    ],
+    "wof:id":857722411,
+    "wof:lastmodified":1472627264,
+    "wof:name":"Long Lake Regional Health Ctr",
+    "wof:parent_id":85806971,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.317177,
+    47.243238,
+    -68.317177,
+    47.243238
+],
+  "geometry": {"coordinates":[-68.317177,47.243238],"type":"Point"}
+}

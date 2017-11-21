@@ -1,0 +1,81 @@
+{
+  "id": 857716001,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"165 Lancaster St Portland ME 04101",
+    "addr:housenumber":"165",
+    "addr:postcode":"04101",
+    "addr:street":"Lancaster St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.261037,43.661005,-70.261037,43.661005",
+    "geom:latitude":43.661005,
+    "geom:longitude":-70.261037,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"165 Lancaster St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 772 1588",
+    "sg:postcode":"04101",
+    "sg:province":"ME",
+    "sg:tags":[
+        "federal",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85880031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XsURA11V9uhwzANvYMYsx_43.661005_-70.261037@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464221165,
+    "wof:geomhash":"a868c608889a5b705ababae9bb014c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85880031,
+            "region_id":85688769,
+            "venue_id":857716001
+        }
+    ],
+    "wof:id":857716001,
+    "wof:lastmodified":1472627238,
+    "wof:name":"US Agricultural Marketing Svc",
+    "wof:parent_id":85880031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "program"
+    ]
+},
+  "bbox": [
+    -70.261037,
+    43.661005,
+    -70.261037,
+    43.661005
+],
+  "geometry": {"coordinates":[-70.261037,43.661005],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857695235,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"24 Woodlawn Ave Portland ME 04103",
+    "addr:housenumber":"24",
+    "addr:postcode":"04103",
+    "addr:street":"Woodlawn Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.29199,43.690961,-70.29199,43.690961",
+    "geom:latitude":43.690961,
+    "geom:longitude":-70.29199,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 Woodlawn Ave",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 797 9482",
+    "sg:postcode":"04103",
+    "sg:province":"ME",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        102191575,
+        85633793,
+        85948877,
+        102087463,
+        85814011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11r3uZ1Hqn5s4yk1kEpEMe_43.690961_-70.291990@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220724,
+    "wof:geomhash":"33da03ea9e436f5277359f605ee7727b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087463,
+            "locality_id":85948877,
+            "neighbourhood_id":85814011,
+            "region_id":85688769,
+            "venue_id":857695235
+        }
+    ],
+    "wof:id":857695235,
+    "wof:lastmodified":1472627200,
+    "wof:name":"Stutts Landscaping",
+    "wof:parent_id":85814011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.29199,
+    43.690961,
+    -70.29199,
+    43.690961
+],
+  "geometry": {"coordinates":[-70.29199,43.690961],"type":"Point"}
+}

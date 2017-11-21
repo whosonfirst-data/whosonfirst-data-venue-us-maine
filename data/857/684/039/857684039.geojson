@@ -1,0 +1,72 @@
+{
+  "id": 857684039,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18 West St Boothbay Harbor ME 04538",
+    "addr:housenumber":"18",
+    "addr:postcode":"04538",
+    "addr:street":"West St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-69.629248,43.853426,-69.629248,43.853426",
+    "geom:latitude":43.853426,
+    "geom:longitude":-69.629248,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 West St",
+    "sg:city":"Boothbay Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 633 5500",
+    "sg:postcode":"04538",
+    "sg:province":"ME",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688769,
+        85633793,
+        85948955,
+        102087447,
+        85835605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AKHdtf4YEbAMinanHoqOY_43.853426_-69.629248@1294128635"
+    },
+    "wof:country":"US",
+    "wof:created":1464220501,
+    "wof:geomhash":"78232e908d67a62326ddbcc728acf612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087447,
+            "locality_id":85948955,
+            "neighbourhood_id":85835605,
+            "region_id":85688769,
+            "venue_id":857684039
+        }
+    ],
+    "wof:id":857684039,
+    "wof:lastmodified":1472627186,
+    "wof:name":"Boothbay Chiropractor",
+    "wof:parent_id":85835605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-me",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.629248,
+    43.853426,
+    -69.629248,
+    43.853426
+],
+  "geometry": {"coordinates":[-69.629248,43.853426],"type":"Point"}
+}
