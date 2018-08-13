@@ -2,18 +2,24 @@
   "id": 387591511,
   "type": "Feature",
   "properties": {
-    "addr:full":"58 Fore St Portland ME 04101",
+    "addr:city":"Portland",
+    "addr:full":"58 Fore St Portland, Me 04101",
+    "addr:house_number":"58",
     "addr:housenumber":"58",
+    "addr:phone":"+1 207-828-0814",
     "addr:postcode":"04101",
+    "addr:road":"Fore St",
+    "addr:state":"ME",
     "addr:street":"Fore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-70.244188,43.66325,-70.244188,43.66325",
-    "geom:latitude":43.66325,
-    "geom:longitude":-70.244188,
+    "geom:bbox":"-70.24457,43.66294,-70.24457,43.66294",
+    "geom:latitude":43.66294,
+    "geom:longitude":-70.24457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"58 Fore St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 207 828 0814",
     "sg:postcode":"04101",
     "sg:province":"ME",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534331
+    ],
     "wof:belongsto":[
         85688769,
         85633793,
@@ -36,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402300046,
         "sg:id":"SG_3QC9VTopoamwm8V0muCNPk_43.663250_-70.244188@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"685dc141037e92ff6138811bf511ebf8",
+    "wof:geomhash":"a329ca1fc185f874589b293bd8e85eba",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":387591511,
-    "wof:lastmodified":1472627220,
-    "wof:name":"Maine Narrow Gauge Railroad",
+    "wof:lastmodified":1534188400,
+    "wof:name":"Maine Narrow Gauge Railroad Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-me",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.244188,
-    43.66325,
-    -70.244188,
-    43.66325
+    -70.24457,
+    43.66294,
+    -70.24457,
+    43.66294
 ],
-  "geometry": {"coordinates":[-70.24418799999999,43.66325],"type":"Point"}
+  "geometry": {"coordinates":[-70.24457,43.66294],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 387951337,
   "type": "Feature",
   "properties": {
-    "addr:full":"18 High St Wiscasset ME 04578",
+    "addr:city":"Wiscasset",
+    "addr:full":"18 High St Wiscasset, Me 04578",
+    "addr:house_number":"18",
     "addr:housenumber":"18",
+    "addr:phone":"+1 207-882-7163",
     "addr:postcode":"04578",
+    "addr:road":"High St",
+    "addr:state":"ME",
     "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-69.668337,44.003266,-69.668337,44.003266",
-    "geom:latitude":44.003266,
-    "geom:longitude":-69.668337,
+    "geom:bbox":"-69.66849,44.00315,-69.66849,44.00315",
+    "geom:latitude":44.00315,
+    "geom:longitude":-69.66849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"18 High St",
     "sg:city":"Wiscasset",
     "sg:classifiers":[
@@ -31,7 +37,8 @@
         "box",
         "music"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688769,
         85633793,
@@ -40,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402300042,
         "sg:id":"SG_2kSA0DbYHTAWvnoAVTQZ3R_44.003266_-69.668337@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"820288df8ebbb929f41186d87ef5b8b0",
+    "wof:geomhash":"2d9f4aa1f1c7192ef07f214e016b1012",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":387951337,
-    "wof:lastmodified":1472627363,
+    "wof:lastmodified":1534188401,
     "wof:name":"Musical Wonder House",
     "wof:parent_id":85820077,
     "wof:placetype":"venue",
@@ -69,10 +77,10 @@
     ]
 },
   "bbox": [
-    -69.668337,
-    44.003266,
-    -69.668337,
-    44.003266
+    -69.66849,
+    44.00315,
+    -69.66849,
+    44.00315
 ],
-  "geometry": {"coordinates":[-69.66833699999999,44.003266],"type":"Point"}
+  "geometry": {"coordinates":[-69.66849000000001,44.00315],"type":"Point"}
 }

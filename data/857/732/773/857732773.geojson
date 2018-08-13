@@ -14,6 +14,7 @@
     "geom:longitude":-70.633202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16 Woodbridge Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -53,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221497,
-    "wof:geomhash":"b06b4e511cdd08c34bb60bd4900cdb3a",
+    "wof:geomhash":"0ca03fc63288ca5ee81b27ef210a5cc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +68,15 @@
         }
     ],
     "wof:id":857732773,
-    "wof:lastmodified":1472627314,
+    "wof:lastmodified":1534188400,
     "wof:name":"Kennebunk Savings Bank",
     "wof:parent_id":85859383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        387902665
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

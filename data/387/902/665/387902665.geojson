@@ -7,6 +7,7 @@
     "addr:postcode":"03909",
     "addr:street":"Woodbridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.647644,43.144735,-70.647644,43.144735",
@@ -14,6 +15,7 @@
     "geom:longitude":-70.647644,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16 Woodbridge Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_3YhOoXtNeIedTSpLMWWiTj_43.144735_-70.647644@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ede92ff368e06caf4cf1ccfbab04ce0",
+    "wof:geomhash":"b345ba42f16d043d801e3f91efcb954a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":387902665,
-    "wof:lastmodified":1472627356,
+    "wof:lastmodified":1534188400,
     "wof:name":"Kennebunk Savings Bank",
     "wof:parent_id":85859383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-me",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857732773
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

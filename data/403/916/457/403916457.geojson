@@ -2,18 +2,25 @@
   "id": 403916457,
   "type": "Feature",
   "properties": {
-    "addr:full":"62 Silver St Waterville ME 04901",
+    "addr:city":"Waterville",
+    "addr:full":"62 Silver Street Unit B Waterville, Me 04901",
+    "addr:house_number":"62",
     "addr:housenumber":"62",
+    "addr:phone":"+1 207-872-9439",
     "addr:postcode":"04901",
+    "addr:road":"Silver Street",
+    "addr:state":"ME",
     "addr:street":"Silver St",
+    "addr:unit":"Unit B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-69.634556,44.546722,-69.634556,44.546722",
-    "geom:latitude":44.546722,
-    "geom:longitude":-69.634556,
+    "geom:bbox":"-69.63464,44.54665,-69.63464,44.54665",
+    "geom:latitude":44.54665,
+    "geom:longitude":-69.63464,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"62 Silver St",
     "sg:city":"Waterville",
     "sg:classifiers":[
@@ -27,7 +34,10 @@
     "sg:phone":"+1 207 872 9439",
     "sg:postcode":"04901",
     "sg:province":"ME",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532189
+    ],
     "wof:belongsto":[
         85688769,
         85633793,
@@ -36,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402300331,
         "sg:id":"SG_0eAEJo2HnxVAh0yHfkIg8X_44.546722_-69.634556@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"83af6b14181061cdc904f60127ac342e",
+    "wof:geomhash":"d3e0bfb6638267a0de45d6057944406c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +63,7 @@
         }
     ],
     "wof:id":403916457,
-    "wof:lastmodified":1472627324,
+    "wof:lastmodified":1534188400,
     "wof:name":"Waterville Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -62,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.634556,
-    44.546722,
-    -69.634556,
-    44.546722
+    -69.63464,
+    44.54665,
+    -69.63464,
+    44.54665
 ],
-  "geometry": {"coordinates":[-69.634556,44.546722],"type":"Point"}
+  "geometry": {"coordinates":[-69.63464,44.54665],"type":"Point"}
 }

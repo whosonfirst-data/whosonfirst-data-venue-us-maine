@@ -7,6 +7,7 @@
     "addr:postcode":"04010",
     "addr:street":"Center Conway Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.983524,43.949855,-70.983524,43.949855",
@@ -14,6 +15,7 @@
     "geom:longitude":-70.983524,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"342 Center Conway Rd",
     "sg:city":"Brownfield",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_2ZjfkLqclWkEvPBev4TLLh_43.949855_-70.983524@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd3d5e14e78376fd763ed4f3b1e273b2",
+    "wof:geomhash":"4c8d122fb2647955dba19140bd9e33df",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":403945259,
-    "wof:lastmodified":1472627330,
+    "wof:lastmodified":1534188400,
     "wof:name":"Country Tractor & Auto Svce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-me",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857734085
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repairing",

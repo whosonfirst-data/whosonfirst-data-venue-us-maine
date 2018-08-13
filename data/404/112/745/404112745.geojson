@@ -2,18 +2,24 @@
   "id": 404112745,
   "type": "Feature",
   "properties": {
-    "addr:full":"28 High St Thomaston ME 04861",
+    "addr:city":"Thomaston",
+    "addr:full":"28 High St Thomaston, Me 04861",
+    "addr:house_number":"28",
     "addr:housenumber":"28",
+    "addr:phone":"+1 207-354-8062",
     "addr:postcode":"04861",
+    "addr:road":"High St",
+    "addr:state":"ME",
     "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-69.168315,44.080332,-69.168315,44.080332",
-    "geom:latitude":44.080332,
-    "geom:longitude":-69.168315,
+    "geom:bbox":"-69.16843,44.08059,-69.16843,44.08059",
+    "geom:latitude":44.08059,
+    "geom:longitude":-69.16843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"28 High St",
     "sg:city":"Thomaston",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 207 354 8062",
     "sg:postcode":"04861",
     "sg:province":"ME",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532955
+    ],
     "wof:belongsto":[
         85688769,
         85633793,
@@ -36,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402300043,
         "sg:id":"SG_3T2AGP8qIXCjzEPD2TIl7H_44.080332_-69.168315@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"98a9069e728c687e1396a8dced84913e",
+    "wof:geomhash":"7c9deb186216003451087dd0bd2daad0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":404112745,
-    "wof:lastmodified":1472627248,
-    "wof:name":"Montpellier Henry KNOX Museum",
+    "wof:lastmodified":1534188400,
+    "wof:name":"Montpellier-Henry Knox Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-me",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.168315,
-    44.080332,
-    -69.168315,
-    44.080332
+    -69.16843,
+    44.08059,
+    -69.16843,
+    44.08059
 ],
-  "geometry": {"coordinates":[-69.16831500000001,44.080332],"type":"Point"}
+  "geometry": {"coordinates":[-69.16843,44.08059],"type":"Point"}
 }

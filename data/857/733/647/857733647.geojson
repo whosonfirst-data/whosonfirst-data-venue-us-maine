@@ -2,18 +2,24 @@
   "id": 857733647,
   "type": "Feature",
   "properties": {
-    "addr:full":"6 Lindsay Rd York ME 03909",
+    "addr:city":"York",
+    "addr:full":"6 Lindsay Rd York, Me 03909",
+    "addr:house_number":"6",
     "addr:housenumber":"6",
+    "addr:phone":"+1 207-363-4703",
     "addr:postcode":"03909",
+    "addr:road":"Lindsay Rd",
+    "addr:state":"ME",
     "addr:street":"Lindsay Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-70.653198,43.143183,-70.653198,43.143183",
-    "geom:latitude":43.143183,
-    "geom:longitude":-70.653198,
+    "geom:bbox":"-70.65379,43.14233,-70.65379,43.14233",
+    "geom:latitude":43.14233,
+    "geom:longitude":-70.65379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"6 Lindsay Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 207 363 4703",
     "sg:postcode":"03909",
     "sg:province":"ME",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529547
+    ],
     "wof:belongsto":[
         85859383,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402300049,
         "sg:id":"SG_4kVp7QyJuMJgmwG2vOOPMD_43.143183_-70.653198@1303262241"
     },
     "wof:country":"US",
     "wof:created":1464221512,
-    "wof:geomhash":"166c91c32131d7cbed175148a133cdb5",
+    "wof:geomhash":"326495969cdc831ee0fdd84dbb05f819",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +67,8 @@
         }
     ],
     "wof:id":857733647,
-    "wof:lastmodified":1472627314,
-    "wof:name":"Jefferd's Tavern",
+    "wof:lastmodified":1534188400,
+    "wof:name":"Jefferd'S Tavern",
     "wof:parent_id":85859383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-me",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.653198,
-    43.143183,
-    -70.653198,
-    43.143183
+    -70.65379,
+    43.14233,
+    -70.65379,
+    43.14233
 ],
-  "geometry": {"coordinates":[-70.653198,43.143183],"type":"Point"}
+  "geometry": {"coordinates":[-70.65379,43.14233],"type":"Point"}
 }

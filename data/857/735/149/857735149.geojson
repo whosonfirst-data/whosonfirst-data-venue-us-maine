@@ -2,18 +2,24 @@
   "id": 857735149,
   "type": "Feature",
   "properties": {
-    "addr:full":"195 Log Cabin Rd Kennebunkport ME 04046",
+    "addr:city":"Kennebunkport",
+    "addr:full":"195 Log Cabin Road Kennebunkport, Me 04046-1690",
+    "addr:house_number":"195",
     "addr:housenumber":"195",
-    "addr:postcode":"04046",
+    "addr:phone":"+1 207-967-2800",
+    "addr:postcode":"04046-1690",
+    "addr:road":"Log Cabin Road",
+    "addr:state":"ME",
     "addr:street":"Log Cabin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-70.492699,43.408401,-70.492699,43.408401",
-    "geom:latitude":43.408401,
-    "geom:longitude":-70.492699,
+    "geom:bbox":"-70.48942,43.4071,-70.48942,43.4071",
+    "geom:latitude":43.4071,
+    "geom:longitude":-70.48942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"195 Log Cabin Rd",
     "sg:city":"Kennebunkport",
     "sg:classifiers":[
@@ -28,21 +34,25 @@
     "sg:postcode":"04046",
     "sg:province":"ME",
     "sg:website":"www.trolleymuseum.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527407
+    ],
     "wof:belongsto":[
-        85688769,
+        85828039,
         85633793,
         85949039,
         102087449,
-        85828039
+        85688769
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402300015,
         "sg:id":"SG_2qrVryBYD1enKi7RftYwJu_43.408401_-70.492699@1303262242"
     },
     "wof:country":"US",
     "wof:created":1464221543,
-    "wof:geomhash":"b4f1621454b6d9d681fdf43a67de130f",
+    "wof:geomhash":"f7317f13b3f9bfcb0b1a9811674754b6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":857735149,
-    "wof:lastmodified":1472627298,
+    "wof:lastmodified":1534188400,
     "wof:name":"Seashore Trolley Museum",
     "wof:parent_id":85828039,
     "wof:placetype":"venue",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.492699,
-    43.408401,
-    -70.492699,
-    43.408401
+    -70.48942,
+    43.4071,
+    -70.48942,
+    43.4071
 ],
-  "geometry": {"coordinates":[-70.492699,43.408401],"type":"Point"}
+  "geometry": {"coordinates":[-70.48942,43.4071],"type":"Point"}
 }

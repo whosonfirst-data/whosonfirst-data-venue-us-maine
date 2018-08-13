@@ -2,18 +2,24 @@
   "id": 387654949,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 Market St Belfast ME 04915",
+    "addr:city":"Belfast",
+    "addr:full":"10 Market St Belfast, Me 04915-6555",
+    "addr:house_number":"10",
     "addr:housenumber":"10",
-    "addr:postcode":"04915",
+    "addr:phone":"+1 207-338-9229",
+    "addr:postcode":"04915-6555",
+    "addr:road":"Market St",
+    "addr:state":"ME",
     "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-69.008616,44.425832,-69.008616,44.425832",
-    "geom:latitude":44.425832,
-    "geom:longitude":-69.008616,
+    "geom:bbox":"-69.00886,44.4254,-69.00886,44.4254",
+    "geom:latitude":44.4254,
+    "geom:longitude":-69.00886,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"10 Market St",
     "sg:city":"Belfast",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 207 338 9229",
     "sg:postcode":"04915",
     "sg:province":"ME",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688769,
         85633793,
@@ -37,10 +44,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402300532,
         "sg:id":"SG_3v2HY2kf5xkP8dXww4BnW1_44.425832_-69.008616@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbccb86198fb301b2c607b221c84344e",
+    "wof:geomhash":"e1f0cd67a0b859c6efe6c59ea2a76ff9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,8 +61,8 @@
         }
     ],
     "wof:id":387654949,
-    "wof:lastmodified":1472627267,
-    "wof:name":"Belfast Historical Society",
+    "wof:lastmodified":1534188400,
+    "wof:name":"Belfast Museum",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-me",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -69.008616,
-    44.425832,
-    -69.008616,
-    44.425832
+    -69.00886,
+    44.4254,
+    -69.00886,
+    44.4254
 ],
-  "geometry": {"coordinates":[-69.008616,44.425832],"type":"Point"}
+  "geometry": {"coordinates":[-69.00886,44.4254],"type":"Point"}
 }

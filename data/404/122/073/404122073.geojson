@@ -7,6 +7,7 @@
     "addr:postcode":"04654",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-67.454453,44.716796,-67.454453,44.716796",
@@ -14,6 +15,7 @@
     "geom:longitude":-67.454453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"19 Main St",
     "sg:city":"Machias",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_2V8hWi82driLu6zlBT5DvU_44.716796_-67.454453@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"85a76837dc7a4e73361a208ebb228891",
+    "wof:geomhash":"1ea3f9e843f12eb640a47a49163cbd13",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":404122073,
-    "wof:lastmodified":1472627262,
+    "wof:lastmodified":1534188400,
     "wof:name":"Subway",
     "wof:parent_id":85826381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-me",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857731313
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

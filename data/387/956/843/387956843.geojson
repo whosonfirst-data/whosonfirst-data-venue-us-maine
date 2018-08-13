@@ -2,18 +2,24 @@
   "id": 387956843,
   "type": "Feature",
   "properties": {
-    "addr:full":"166 Winkumpaugh Rd Ellsworth ME 04605",
+    "addr:city":"Ellsworth",
+    "addr:full":"166 Winkumpaugh Rd Ellsworth, Me 04605",
+    "addr:house_number":"166",
     "addr:housenumber":"166",
+    "addr:phone":"+1 207-667-9491",
     "addr:postcode":"04605",
+    "addr:road":"Winkumpaugh Rd",
+    "addr:state":"ME",
     "addr:street":"Winkumpaugh Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-68.568262,44.642007,-68.568262,44.642007",
-    "geom:latitude":44.642007,
-    "geom:longitude":-68.568262,
+    "geom:bbox":"-68.56955,44.63742,-68.56955,44.63742",
+    "geom:latitude":44.63742,
+    "geom:longitude":-68.56955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"166 Winkumpaugh Rd",
     "sg:city":"Ellsworth",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:postcode":"04605",
     "sg:province":"ME",
     "sg:website":"www.thetelephonemuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688769,
         85633793,
@@ -37,10 +44,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402300020,
         "sg:id":"SG_3AoHN5v3r61uRicD99UB4k_44.642007_-68.568262@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c82884aefdffa4da4140451e278dc98",
+    "wof:geomhash":"e074afea089fbf93a12fc370357e5b1e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":387956843,
-    "wof:lastmodified":1472627365,
+    "wof:lastmodified":1534188400,
     "wof:name":"Telephone Museum",
     "wof:parent_id":85831637,
     "wof:placetype":"venue",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -68.568262,
-    44.642007,
-    -68.568262,
-    44.642007
+    -68.56955,
+    44.63742,
+    -68.56955,
+    44.63742
 ],
-  "geometry": {"coordinates":[-68.568262,44.642007],"type":"Point"}
+  "geometry": {"coordinates":[-68.56955000000001,44.63742],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"04106",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.284354,43.638168,-70.284354,43.638168",
@@ -14,6 +15,7 @@
     "geom:longitude":-70.284354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"27 Main St",
     "sg:city":"South Portland",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_01WR9POGzBgE7UfODWtCD8_43.638168_-70.284354@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"68822530111889d58eaf0ab14760e60a",
+    "wof:geomhash":"4d8ae340c261b287cf7928b5b5eec0e0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":387935821,
-    "wof:lastmodified":1472627365,
+    "wof:lastmodified":1534188400,
     "wof:name":"Ledgewood Construction",
     "wof:parent_id":85880029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-me",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873464479
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general",

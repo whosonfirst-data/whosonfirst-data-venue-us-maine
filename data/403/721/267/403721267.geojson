@@ -2,17 +2,22 @@
   "id": 403721267,
   "type": "Feature",
   "properties": {
-    "addr:full":"109 Danforth St Portland ME 04101",
+    "addr:city":"Portland",
+    "addr:full":"109 Danforth St Portland, Me 04101-4504",
+    "addr:house_number":"109",
     "addr:housenumber":"109",
-    "addr:postcode":"04101",
+    "addr:phone":"+1 207-772-4841",
+    "addr:postcode":"04101-4504",
+    "addr:road":"Danforth St",
+    "addr:state":"ME",
     "addr:street":"Danforth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.259748,43.652042,-70.259748,43.652042",
-    "geom:latitude":43.652042,
-    "geom:longitude":-70.259748,
+    "geom:bbox":"-70.26034,43.65162,-70.26034,43.65162",
+    "geom:latitude":43.65162,
+    "geom:longitude":-70.26034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,10 @@
     "sg:phone":"+1 207 772 4841",
     "sg:postcode":"04101",
     "sg:province":"ME",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534331
+    ],
     "wof:belongsto":[
         85688769,
         85633793,
@@ -39,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402300084,
         "osm:way":397103375,
         "sg:id":"SG_5HeA1C4qUyiEKO6aujLyXQ_43.652042_-70.259748@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"063e14f471cff9ea6db709e4ed99662a",
+    "wof:geomhash":"daac0469e0064202da8ff4d3d3b8b5b6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":403721267,
-    "wof:lastmodified":1510944020,
+    "wof:lastmodified":1534188400,
     "wof:name":"Victoria Mansion",
     "wof:parent_id":85882031,
     "wof:placetype":"venue",
@@ -66,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.259748,
-    43.652042,
-    -70.259748,
-    43.652042
+    -70.26034,
+    43.65162,
+    -70.26034,
+    43.65162
 ],
-  "geometry": {"coordinates":[-70.259748,43.652042],"type":"Point"}
+  "geometry": {"coordinates":[-70.26034,43.65162],"type":"Point"}
 }

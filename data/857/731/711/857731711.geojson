@@ -7,6 +7,7 @@
     "addr:postcode":"04974",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.915938,44.457954,-68.915938,44.457954",
@@ -14,6 +15,7 @@
     "geom:longitude":-68.915938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 E Main St",
     "sg:city":"Searsport",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221477,
-    "wof:geomhash":"4e1dc0a11e83b11554275c79b705bfcd",
+    "wof:geomhash":"1ec0c0fdbc5a8d3dfd6063a8064528c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":857731711,
-    "wof:lastmodified":1472627317,
+    "wof:lastmodified":1534188400,
     "wof:name":"Rhumb Line",
     "wof:parent_id":85824361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-me",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        403822011
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

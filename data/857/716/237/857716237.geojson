@@ -7,6 +7,7 @@
     "addr:postcode":"04330",
     "addr:street":"Western Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-69.796388,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"209 Western Ave",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":857716237,
-    "wof:lastmodified":1512142774,
+    "wof:lastmodified":1534188400,
     "wof:name":"Mc Donald's",
     "wof:parent_id":85822525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-me",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857730729
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

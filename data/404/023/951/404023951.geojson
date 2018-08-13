@@ -14,6 +14,7 @@
     "geom:longitude":-70.260372,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"477 Congress St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
         "sg:id":"SG_5S7kxIeLB5fG5gBUSrxJhn_43.656509_-70.260372@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"de2b4ea262b14cac61289bb02d3c8fd1",
+    "wof:geomhash":"b5ce81eae3b0a23f3c33eee3f10915c1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":404023951,
-    "wof:lastmodified":1472627215,
+    "wof:lastmodified":1534188400,
     "wof:name":"Michael Oransky Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-me",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        387690323
+    ],
     "wof:tags":[
         "counselor"
     ]
